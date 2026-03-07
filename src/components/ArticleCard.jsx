@@ -1,24 +1,24 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PacerBadge } from './PacerBadge'
+import { useToast } from './Toast'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 
 export function ArticleCard({ article }) {
 	const { t, i18n } = useTranslation()
 	const [is_expanded, setIsExpanded] = useState(false)
-	const [is_copied, setIsCopied] = useState(false)
+	const toast = useToast()
 
 	const summary = i18n.language === 'zh' ? article.summary_zh : article.summary_en
 	const time_ago = getTimeAgo(article.published)
 
 	const handleCopy = async () => {
 		await copyToClipboard(articleToMarkdown(article, i18n.language))
-		setIsCopied(true)
-		setTimeout(() => setIsCopied(false), 2000)
+		toast('Copied to clipboard')
 	}
 
 	return (
-		<article className="bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg p-5 transition-colors hover:border-accent/30 cursor-pointer">
+		<article className="bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg p-5 transition-colors hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none animate-[fadeInUp_0.2s_ease-out]">
 			<div className="flex items-center justify-between mb-2">
 				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400">
 					<img
@@ -59,15 +59,15 @@ export function ArticleCard({ article }) {
 			<div className="flex items-center justify-between">
 				<button
 					onClick={handleCopy}
-					className="text-xs text-text-muted hover:text-accent transition-colors cursor-pointer"
+					className="text-xs text-text-muted hover:text-accent transition-colors cursor-pointer min-h-[44px] focus:ring-2 focus:ring-accent focus:outline-none rounded"
 				>
-					{is_copied ? 'Copied!' : t('home.copy_md')}
+					{t('home.copy_md')}
 				</button>
 				<a
 					href={article.url}
 					target="_blank"
 					rel="noopener noreferrer"
-					className="text-xs text-accent hover:underline cursor-pointer"
+					className="text-xs text-accent hover:underline cursor-pointer min-h-[44px] flex items-center focus:ring-2 focus:ring-accent focus:outline-none rounded"
 				>
 					{t('home.read')} &rarr;
 				</a>

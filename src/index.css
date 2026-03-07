@@ -18,3 +18,21 @@
 	--font-serif: 'Newsreader', serif;
 	--font-sans: 'Inter', sans-serif;
 }
+
+@keyframes fadeInUp {
+	from {
+		opacity: 0;
+		transform: translateY(8px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	* {
+		animation-duration: 0.01ms !important;
+		transition-duration: 0.01ms !important;
+	}
+}
