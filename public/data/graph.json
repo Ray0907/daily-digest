@@ -1,0 +1,17 @@
+{
+	"nodes": [
+		{"id": "a1b2c3d4e5f60001", "title": "Building Reliable AI Agents with Tool Use", "source": "simonwillison.net", "url": "https://simonwillison.net/2026/Mar/7/ai-agents/", "pacer": "C", "keywords": ["ai", "agents", "tools", "reliability", "llm"], "published": "2026-03-07T10:00:00Z"},
+		{"id": "a1b2c3d4e5f60002", "title": "How I Deploy My Side Projects with Docker Compose", "source": "jeffgeerling.com", "url": "https://jeffgeerling.com/blog/2026/docker-compose-deploy", "pacer": "P", "keywords": ["docker", "deployment", "devops", "traefik", "self-hosting"], "published": "2026-03-07T08:00:00Z"},
+		{"id": "a1b2c3d4e5f60003", "title": "The Phishing Attack That Bypassed MFA", "source": "krebsonsecurity.com", "url": "https://krebsonsecurity.com/2026/03/mfa-bypass-phishing/", "pacer": "E", "keywords": ["security", "phishing", "mfa", "authentication", "cybersecurity"], "published": "2026-03-07T05:00:00Z"},
+		{"id": "a1b2c3d4e5f60004", "title": "What Cooking Taught Me About Software Architecture", "source": "overreacted.io", "url": "https://overreacted.io/cooking-and-code/", "pacer": "A", "keywords": ["architecture", "analogy", "software-design", "patterns", "philosophy"], "published": "2026-03-06T14:00:00Z"},
+		{"id": "a1b2c3d4e5f60005", "title": "Understanding Consensus Algorithms: Raft vs Paxos", "source": "eli.thegreenplace.net", "url": "https://eli.thegreenplace.net/2026/03/06/raft-vs-paxos/", "pacer": "C", "keywords": ["distributed-systems", "consensus", "algorithms", "raft", "paxos"], "published": "2026-03-06T10:00:00Z"},
+		{"id": "a1b2c3d4e5f60006", "title": "Complete Guide to HTTP Status Codes", "source": "matklad.github.io", "url": "https://matklad.github.io/2026/03/05/http-status-codes.html", "pacer": "R", "keywords": ["http", "web", "api", "reference", "standards"], "published": "2026-03-05T16:00:00Z"},
+		{"id": "a1b2c3d4e5f60007", "title": "We Benchmarked 10 Vector Databases", "source": "dynomight.net", "url": "https://dynomight.net/2026/03/05/vector-db-benchmark/", "pacer": "E", "keywords": ["databases", "benchmarks", "ai", "vectors", "performance"], "published": "2026-03-05T12:00:00Z"},
+		{"id": "a1b2c3d4e5f60008", "title": "Setting Up Neovim for Modern Web Development", "source": "mitchellh.com", "url": "https://mitchellh.com/writing/neovim-web-dev-2026", "pacer": "P", "keywords": ["neovim", "tools", "development", "productivity", "editor"], "published": "2026-03-05T09:00:00Z"}
+	],
+	"links": [
+		{"source": "a1b2c3d4e5f60001", "target": "a1b2c3d4e5f60007", "shared_keywords": ["ai"], "strength": 0.2},
+		{"source": "a1b2c3d4e5f60001", "target": "a1b2c3d4e5f60008", "shared_keywords": ["tools"], "strength": 0.2},
+		{"source": "a1b2c3d4e5f60002", "target": "a1b2c3d4e5f60008", "shared_keywords": ["development"], "strength": 0.2}
+	]
+}
