@@ -215,7 +215,7 @@ export function GraphPage() {
 							<div className="min-w-0">
 								<div className="flex items-center gap-2 mb-1">
 									<img
-										src={`https://www.google.com/s2/favicons?domain=${selected_node.source}&sz=16`}
+										src={`https://www.google.com/s2/favicons?domain=${(() => { try { return new URL(selected_node.source_url || selected_node.url).hostname } catch { return '' } })()}&sz=16`}
 										alt=""
 										className="w-4 h-4 shrink-0"
 									/>

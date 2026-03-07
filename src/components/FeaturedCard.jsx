@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { PacerBadge } from './PacerBadge'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 import { getTimeAgo } from '../lib/time'
+import { getFaviconUrl } from '../lib/favicon'
 import { useToast } from './Toast'
 
 export function FeaturedCard({ article, style = {}, onPacerToggle, onKeywordSearch }) {
@@ -23,11 +24,11 @@ export function FeaturedCard({ article, style = {}, onPacerToggle, onKeywordSear
 			style={style}
 		>
 			<div className="flex items-center gap-2 mb-3">
-				<img
-					src={`https://www.google.com/s2/favicons?domain=${article.source}&sz=16`}
+				{getFaviconUrl(article) && <img
+					src={getFaviconUrl(article)}
 					alt=""
 					className="w-4 h-4 shrink-0"
-				/>
+				/>}
 				<span className="text-sm text-text-muted dark:text-slate-400 truncate">{article.source}</span>
 				<span className="text-sm text-text-muted dark:text-slate-400 shrink-0">-</span>
 				<span className="text-sm text-text-muted dark:text-slate-400 shrink-0">{getTimeAgo(article.published)}</span>

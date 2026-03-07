@@ -4,6 +4,7 @@ import { PacerBadge } from './PacerBadge'
 import { useToast } from './Toast'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 import { getTimeAgo } from '../lib/time'
+import { getFaviconUrl } from '../lib/favicon'
 
 export function ArticleCard({ article, compact = false, is_read, onRead, onPacerToggle, onKeywordSearch }) {
 	const { t, i18n } = useTranslation()
@@ -22,11 +23,11 @@ export function ArticleCard({ article, compact = false, is_read, onRead, onPacer
 		<article className={`bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl p-5 transition-all hover:shadow-md hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none ${is_read ? 'opacity-60' : ''}`}>
 			<div className="flex items-center justify-between gap-2 mb-2">
 				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400 min-w-0">
-					<img
-						src={`https://www.google.com/s2/favicons?domain=${article.source}&sz=16`}
+					{getFaviconUrl(article) && <img
+						src={getFaviconUrl(article)}
 						alt=""
 						className="w-4 h-4 shrink-0"
-					/>
+					/>}
 					<span className="truncate">{article.source}</span>
 					<span className="shrink-0">-</span>
 					<span className="shrink-0">{time_ago}</span>
