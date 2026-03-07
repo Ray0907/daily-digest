@@ -5,6 +5,7 @@ import { ToastProvider } from './components/Toast'
 import { HomePage } from './pages/HomePage'
 import { GraphPage } from './pages/GraphPage'
 import { ArchivePage } from './pages/ArchivePage'
+import { KeyboardHelp } from './components/KeyboardHelp'
 
 export default function App() {
 	return (
@@ -21,6 +22,7 @@ export default function App() {
 							<Route path="/archive/:month" element={<ArchivePage />} />
 						</Routes>
 					</main>
+					<KeyboardHelp />
 				</div>
 			</ToastProvider>
 		</BrowserRouter>

@@ -73,6 +73,7 @@ export function ArticleCard({ article, compact = false, is_read, onRead }) {
 					href={article.url}
 					target="_blank"
 					rel="noopener noreferrer"
+					onClick={() => onRead?.(article.id)}
 					className="text-xs text-accent hover:underline cursor-pointer min-h-[44px] flex items-center focus:ring-2 focus:ring-accent focus:outline-none rounded"
 				>
 					{t('home.read')} &rarr;
