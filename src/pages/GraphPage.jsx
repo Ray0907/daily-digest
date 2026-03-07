@@ -1,6 +1,9 @@
 import { useRef, useEffect, useState, useMemo, useCallback } from 'react'
 import { useTranslation } from 'react-i18next'
-import * as d3 from 'd3'
+import { select } from 'd3-selection'
+import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide } from 'd3-force'
+import { zoom } from 'd3-zoom'
+import { drag } from 'd3-drag'
 import { useGraph } from '../hooks/useGraph'
 
 const PACER_COLORS = {
@@ -60,7 +63,7 @@ export function GraphPage() {
 	useEffect(() => {
 		if (!svg_ref.current || filtered.nodes.length === 0) return
 
-		const svg = d3.select(svg_ref.current)
+		const svg = select(svg_ref.current)
 		svg.selectAll('*').remove()
 
 		const width = svg_ref.current.clientWidth
@@ -68,7 +71,7 @@ export function GraphPage() {
 
 		const g = svg.append('g')
 
-		svg.call(d3.zoom().scaleExtent([0.3, 4]).on('zoom', (e) => {
+		svg.call(zoom().scaleExtent([0.3, 4]).on('zoom', (e) => {
 			g.attr('transform', e.transform)
 		}))
 
@@ -86,11 +89,11 @@ export function GraphPage() {
 
 		const getRadius = (d) => Math.max(8, Math.min(20, 8 + (link_counts[d.id] || 0) * 4))
 
-		const simulation = d3.forceSimulation(nodes_copy)
-			.force('link', d3.forceLink(links_copy).id(d => d.id).distance(160))
-			.force('charge', d3.forceManyBody().strength(-300))
-			.force('center', d3.forceCenter(width / 2, height / 2))
-			.force('collision', d3.forceCollide().radius(d => getRadius(d) + 40))
+		const simulation = forceSimulation(nodes_copy)
+			.force('link', forceLink(links_copy).id(d => d.id).distance(160))
+			.force('charge', forceManyBody().strength(-300))
+			.force('center', forceCenter(width / 2, height / 2))
+			.force('collision', forceCollide().radius(d => getRadius(d) + 40))
 
 		simulation_ref.current = simulation
 
@@ -125,7 +128,7 @@ export function GraphPage() {
 			.on('click', (event, d) => handleNodeClick(d))
 			.on('mouseenter', (event, d) => setHoveredNode(d.id))
 			.on('mouseleave', () => setHoveredNode(null))
-			.call(d3.drag()
+			.call(drag()
 				.on('start', (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y })
 				.on('drag', (e, d) => { d.fx = e.x; d.fy = e.y })
 				.on('end', (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null })

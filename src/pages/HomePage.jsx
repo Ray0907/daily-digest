@@ -30,7 +30,7 @@ export function HomePage() {
 		})
 	}, [])
 
-	const seven_days_ago = Date.now() - 7 * 24 * 3600 * 1000
+	const seven_days_ago = useMemo(() => Date.now() - 7 * 24 * 3600 * 1000, [])
 
 	const sources = useMemo(() => {
 		const set = new Set(articles.map(a => a.source))

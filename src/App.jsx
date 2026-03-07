@@ -1,11 +1,13 @@
+import { lazy, Suspense } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Navbar } from './components/Navbar'
 import { SkipLink } from './components/SkipLink'
 import { ToastProvider } from './components/Toast'
 import { HomePage } from './pages/HomePage'
-import { GraphPage } from './pages/GraphPage'
-import { ArchivePage } from './pages/ArchivePage'
 import { KeyboardHelp } from './components/KeyboardHelp'
+
+const GraphPage = lazy(() => import('./pages/GraphPage').then(m => ({ default: m.GraphPage })))
+const ArchivePage = lazy(() => import('./pages/ArchivePage').then(m => ({ default: m.ArchivePage })))
 
 export default function App() {
 	return (
@@ -15,12 +17,14 @@ export default function App() {
 					<SkipLink />
 					<Navbar />
 					<main id="main-content">
-						<Routes>
-							<Route path="/" element={<HomePage />} />
-							<Route path="/graph" element={<GraphPage />} />
-							<Route path="/archive" element={<ArchivePage />} />
-							<Route path="/archive/:month" element={<ArchivePage />} />
-						</Routes>
+						<Suspense fallback={<div className="pt-28 max-w-5xl mx-auto px-4 text-text-muted">Loading...</div>}>
+							<Routes>
+								<Route path="/" element={<HomePage />} />
+								<Route path="/graph" element={<GraphPage />} />
+								<Route path="/archive" element={<ArchivePage />} />
+								<Route path="/archive/:month" element={<ArchivePage />} />
+							</Routes>
+						</Suspense>
 					</main>
 					<KeyboardHelp />
 				</div>
