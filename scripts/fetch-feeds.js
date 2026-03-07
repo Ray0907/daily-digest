@@ -7,7 +7,7 @@ const OPML_PATH = 'feeds.opml'
 const DATA_DIR = 'data'
 const ARTICLES_PATH = `${DATA_DIR}/articles.json`
 const NEW_ARTICLES_PATH = `${DATA_DIR}/new-articles.json`
-const CONCURRENCY = 5
+const CONCURRENCY = 10
 
 function hashUrl(url) {
 	return createHash('sha256').update(url).digest('hex').slice(0, 16)
@@ -55,7 +55,7 @@ async function main() {
 		: { articles: [] }
 	const existing_ids = new Set(existing.articles.map(a => a.id))
 
-	const rss_parser = new Parser({ timeout: 10000 })
+	const rss_parser = new Parser({ timeout: 5000 })
 	const all_items = []
 
 	for (let i = 0; i < feeds.length; i += CONCURRENCY) {
