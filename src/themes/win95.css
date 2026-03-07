@@ -1,0 +1,466 @@
+/* ==========================================================================
+   Windows 95 Theme
+   All styles scoped under [data-desktop-theme="win95"]
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Base / Shell
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] {
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: unset;
+}
+
+[data-desktop-theme="win95"] .os-shell {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+[data-desktop-theme="win95"] .desktop-bg {
+  background-color: #008080;
+  position: absolute;
+  inset: 0;
+  bottom: 28px;
+  z-index: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Generic 3D Effects
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-raised {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 1px 1px 0 #000;
+}
+
+[data-desktop-theme="win95"] .os-sunken {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, -1px -1px 0 #DFDFDF;
+}
+
+/* --------------------------------------------------------------------------
+   Window
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-window {
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 1px 1px 0 #000;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  min-width: 200px;
+  min-height: 100px;
+}
+
+/* --------------------------------------------------------------------------
+   Title Bar
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-titlebar {
+  background: linear-gradient(90deg, #000080, #1084D0);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 3px;
+  height: 18px;
+  flex-shrink: 0;
+  user-select: none;
+  gap: 2px;
+}
+
+[data-desktop-theme="win95"] .os-titlebar.inactive {
+  background: linear-gradient(90deg, #808080, #C0C0C0);
+}
+
+[data-desktop-theme="win95"] .os-titlebar-text {
+  color: #FFF;
+  font-weight: bold;
+  font-size: 11px;
+  padding-left: 2px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  flex: 1;
+  line-height: 18px;
+}
+
+/* --------------------------------------------------------------------------
+   Title Bar Chrome Buttons (Minimize / Maximize / Close)
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-btn-chrome {
+  width: 16px;
+  height: 14px;
+  background: #C0C0C0;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, inset -1px -1px 0 #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-size: 8px;
+  line-height: 1;
+  color: #000;
+}
+
+[data-desktop-theme="win95"] .os-btn-chrome:active {
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 #DFDFDF;
+  padding-top: 1px;
+  padding-left: 1px;
+}
+
+/* --------------------------------------------------------------------------
+   Window Content Area
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-content {
+  background: #FFF;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 #DFDFDF;
+  margin: 2px;
+  padding: 4px;
+  flex: 1;
+  overflow: auto;
+}
+
+/* --------------------------------------------------------------------------
+   Status Bar
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-statusbar {
+  background: #C0C0C0;
+  border-top: 1px solid #808080;
+  padding: 2px 4px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-height: 18px;
+}
+
+[data-desktop-theme="win95"] .os-statusbar > * {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #808080 #FFF #FFF #808080;
+  padding: 0 4px;
+}
+
+/* --------------------------------------------------------------------------
+   Taskbar
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-taskbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 28px;
+  background: #C0C0C0;
+  border-top: 2px solid #FFF;
+  display: flex;
+  align-items: center;
+  padding: 2px 2px;
+  gap: 2px;
+  z-index: 9999;
+  box-shadow: inset 0 1px 0 #DFDFDF;
+}
+
+/* --------------------------------------------------------------------------
+   Start Button
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-start-btn {
+  height: 22px;
+  padding: 0 6px;
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 1px 1px 0 #000;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+[data-desktop-theme="win95"] .os-start-btn:active {
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 #DFDFDF;
+  padding-top: 1px;
+  padding-left: 7px;
+}
+
+/* --------------------------------------------------------------------------
+   Start Menu
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-start-menu {
+  position: fixed;
+  bottom: 28px;
+  left: 0;
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: 2px 0 0 #000, 0 -2px 0 #000, 2px -2px 0 #000;
+  min-width: 180px;
+  display: flex;
+  flex-direction: row;
+  z-index: 10000;
+  padding: 2px;
+}
+
+[data-desktop-theme="win95"] .os-start-sidebar {
+  background: linear-gradient(0deg, #000080, #1084D0);
+  width: 22px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 4px;
+  flex-shrink: 0;
+}
+
+[data-desktop-theme="win95"] .os-start-sidebar span {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  color: #C0C0C0;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+[data-desktop-theme="win95"] .os-start-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 12px 4px 6px;
+  font-size: 11px;
+  cursor: pointer;
+  white-space: nowrap;
+  color: #000;
+}
+
+[data-desktop-theme="win95"] .os-start-menu-item:hover {
+  background: #000080;
+  color: #FFF;
+}
+
+/* --------------------------------------------------------------------------
+   Separator
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-separator {
+  height: 0;
+  border: none;
+  border-top: 1px solid #808080;
+  border-bottom: 1px solid #FFF;
+  margin: 2px 4px;
+}
+
+/* --------------------------------------------------------------------------
+   Desktop Icons
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-desktop-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 64px;
+  padding: 4px;
+  cursor: pointer;
+  text-align: center;
+  gap: 2px;
+  user-select: none;
+}
+
+[data-desktop-theme="win95"] .os-desktop-icon img,
+[data-desktop-theme="win95"] .os-desktop-icon svg {
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+}
+
+[data-desktop-theme="win95"] .os-desktop-icon span {
+  color: #FFF;
+  font-size: 11px;
+  text-shadow: 1px 1px 1px #000;
+  word-wrap: break-word;
+  max-width: 64px;
+  line-height: 1.2;
+}
+
+[data-desktop-theme="win95"] .os-desktop-icon.selected {
+  background: rgba(0, 0, 128, 0.5);
+}
+
+[data-desktop-theme="win95"] .os-desktop-icon.selected span {
+  background: #000080;
+  color: #FFF;
+  text-shadow: none;
+}
+
+/* --------------------------------------------------------------------------
+   Taskbar Window Buttons
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-taskbar-btn {
+  height: 22px;
+  padding: 0 8px;
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 1px 1px 0 #000;
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 160px;
+  flex-shrink: 0;
+}
+
+[data-desktop-theme="win95"] .os-taskbar-btn.active {
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 #DFDFDF;
+  background: repeating-linear-gradient(
+    45deg,
+    #C0C0C0,
+    #C0C0C0 1px,
+    #FFF 1px,
+    #FFF 2px
+  );
+  font-weight: bold;
+}
+
+/* --------------------------------------------------------------------------
+   Clock (Taskbar)
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-clock {
+  margin-left: auto;
+  height: 22px;
+  padding: 0 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #808080 #FFF #FFF #808080;
+  display: flex;
+  align-items: center;
+  font-size: 11px;
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  flex-shrink: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Generic Button
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-btn {
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 1px 1px 0 #000;
+  padding: 4px 12px;
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+  cursor: pointer;
+  min-width: 75px;
+  text-align: center;
+}
+
+[data-desktop-theme="win95"] .os-btn:hover {
+  background: #D0D0D0;
+}
+
+[data-desktop-theme="win95"] .os-btn:active {
+  border-color: #808080 #FFF #FFF #808080;
+  box-shadow: inset 1px 1px 0 #000, inset -1px -1px 0 #DFDFDF;
+  padding: 5px 11px 3px 13px;
+}
+
+[data-desktop-theme="win95"] .os-btn:focus-visible {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
+
+/* --------------------------------------------------------------------------
+   CRT Scanline Effect
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .crt-effect::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    transparent 0px, transparent 1px,
+    rgba(0,0,0,0.03) 1px, rgba(0,0,0,0.03) 2px
+  );
+  pointer-events: none;
+  z-index: 99999;
+}
+
+/* --------------------------------------------------------------------------
+   Scrollbar Styling (Webkit)
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] ::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+
+[data-desktop-theme="win95"] ::-webkit-scrollbar-track {
+  background: repeating-linear-gradient(
+    45deg,
+    #C0C0C0,
+    #C0C0C0 1px,
+    #FFF 1px,
+    #FFF 2px
+  );
+}
+
+[data-desktop-theme="win95"] ::-webkit-scrollbar-thumb {
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF;
+}
+
+[data-desktop-theme="win95"] ::-webkit-scrollbar-button {
+  background: #C0C0C0;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  width: 16px;
+  height: 16px;
+}

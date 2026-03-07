@@ -1,0 +1,324 @@
+/* ==========================================================================
+   Classic Macintosh (System 7) Theme
+   All styles scoped under [data-desktop-theme="mac"]
+   ========================================================================== */
+
+/* --- Cross-theme visibility rules --- */
+[data-desktop-theme="mac"] .os-taskbar {
+  display: none;
+}
+
+[data-desktop-theme="win95"] .os-global-menubar {
+  display: none;
+}
+
+/* --- Desktop Shell --- */
+[data-desktop-theme="mac"] .os-shell {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  font-family: "Geneva", "Charcoal", "Chicago", system-ui;
+  font-size: 12px;
+  color: #000;
+  overflow: hidden;
+}
+
+/* --- Desktop Background --- */
+[data-desktop-theme="mac"] .desktop-bg {
+  position: absolute;
+  inset: 0;
+  background-color: #666699;
+  background-image: repeating-conic-gradient(
+    #666699 0% 25%,
+    #5c5c8a 25% 50%
+  );
+  background-size: 4px 4px;
+  z-index: 0;
+}
+
+/* --- Global Menu Bar --- */
+[data-desktop-theme="mac"] .os-global-menubar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  background: #fff;
+  border-bottom: 1px solid #000;
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  z-index: 9999;
+  font-family: "Chicago", "Charcoal", "Geneva", system-ui;
+  font-size: 12px;
+  gap: 0;
+}
+
+/* --- Apple Menu Icon --- */
+[data-desktop-theme="mac"] .os-menubar-apple {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px 0 2px;
+  font-size: 14px;
+  cursor: default;
+  height: 100%;
+  font-weight: bold;
+}
+
+/* --- Menu Bar Items --- */
+[data-desktop-theme="mac"] .os-menubar-item {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 10px;
+  height: 100%;
+  cursor: default;
+  white-space: nowrap;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+[data-desktop-theme="mac"] .os-menubar-item:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* --- Menu Bar Clock --- */
+[data-desktop-theme="mac"] .os-menubar-clock {
+  margin-left: auto;
+  padding: 0 6px;
+  font-size: 12px;
+  cursor: default;
+}
+
+/* --- Dropdown Menu --- */
+[data-desktop-theme="mac"] .os-menu-dropdown {
+  position: absolute;
+  top: 20px;
+  background: #fff;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 0 #000;
+  min-width: 160px;
+  padding: 0;
+  z-index: 10000;
+  font-family: "Geneva", "Charcoal", "Chicago", system-ui;
+  font-size: 12px;
+}
+
+[data-desktop-theme="mac"] .os-menu-dropdown-item {
+  padding: 2px 16px;
+  cursor: default;
+  white-space: nowrap;
+}
+
+[data-desktop-theme="mac"] .os-menu-dropdown-item:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* --- Menu Separator --- */
+[data-desktop-theme="mac"] .os-separator {
+  border: none;
+  border-top: 1px dashed #000;
+  margin: 2px 0;
+}
+
+/* --- Window --- */
+[data-desktop-theme="mac"] .os-window {
+  position: absolute;
+  background: #fff;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 0 #000;
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  min-height: 100px;
+  font-family: "Geneva", "Charcoal", "Chicago", system-ui;
+}
+
+/* --- Title Bar --- */
+[data-desktop-theme="mac"] .os-titlebar {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  padding: 0 4px;
+  border-bottom: 1px solid #000;
+  cursor: default;
+  position: relative;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0px,
+      transparent 1px,
+      #000 1px,
+      #000 2px,
+      transparent 2px,
+      transparent 3px
+    );
+  background-color: #fff;
+  flex-shrink: 0;
+}
+
+[data-desktop-theme="mac"] .os-titlebar.inactive {
+  background: #fff;
+  background-image: none;
+}
+
+/* --- Title Bar Text --- */
+[data-desktop-theme="mac"] .os-titlebar-text {
+  flex: 1;
+  text-align: center;
+  font-family: "Chicago", "Charcoal", "Geneva", system-ui;
+  font-size: 12px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
+  padding: 0 6px;
+  position: relative;
+  z-index: 1;
+}
+
+/* --- Close Box (left) --- */
+[data-desktop-theme="mac"] .os-btn-close {
+  width: 12px;
+  height: 12px;
+  border: 1px solid #000;
+  background: #fff;
+  position: relative;
+  cursor: pointer;
+  flex-shrink: 0;
+  z-index: 1;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+[data-desktop-theme="mac"] .os-btn-close::before,
+[data-desktop-theme="mac"] .os-btn-close::after {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  background: #000;
+  top: 50%;
+  left: 50%;
+}
+
+[data-desktop-theme="mac"] .os-btn-close::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+[data-desktop-theme="mac"] .os-btn-close::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+[data-desktop-theme="mac"] .os-btn-close:active {
+  background: #000;
+}
+
+[data-desktop-theme="mac"] .os-btn-close:active::before,
+[data-desktop-theme="mac"] .os-btn-close:active::after {
+  background: #fff;
+}
+
+/* --- Zoom Box (right) --- */
+[data-desktop-theme="mac"] .os-btn-zoom {
+  width: 12px;
+  height: 12px;
+  border: 1px solid #000;
+  background: #fff;
+  position: relative;
+  cursor: pointer;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[data-desktop-theme="mac"] .os-btn-zoom::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 6px;
+  height: 6px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+
+[data-desktop-theme="mac"] .os-btn-zoom:active {
+  background: #000;
+}
+
+/* --- Window Content --- */
+[data-desktop-theme="mac"] .os-content {
+  flex: 1;
+  overflow: auto;
+  padding: 8px;
+  background: #fff;
+  font-size: 12px;
+}
+
+/* --- Desktop Icons --- */
+[data-desktop-theme="mac"] .os-desktop-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 4px;
+  cursor: default;
+  width: 64px;
+  text-align: center;
+  font-size: 10px;
+  color: #fff;
+  image-rendering: pixelated;
+}
+
+[data-desktop-theme="mac"] .os-desktop-icon.selected {
+  color: #000;
+  background: none;
+}
+
+[data-desktop-theme="mac"] .os-desktop-icon.selected > * {
+  filter: invert(1);
+}
+
+/* --- Generic Button --- */
+[data-desktop-theme="mac"] .os-btn {
+  font-family: "Chicago", "Charcoal", "Geneva", system-ui;
+  font-size: 12px;
+  padding: 4px 16px;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 1px 1px 0 #000;
+  color: #000;
+}
+
+[data-desktop-theme="mac"] .os-btn:active {
+  background: #000;
+  color: #fff;
+}
+
+/* --- Dialog Box --- */
+[data-desktop-theme="mac"] .os-dialog {
+  position: absolute;
+  background: #fff;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 0 #000;
+  padding: 16px;
+  font-family: "Geneva", "Charcoal", "Chicago", system-ui;
+  font-size: 12px;
+  min-width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 10001;
+}
