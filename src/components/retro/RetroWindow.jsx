@@ -237,12 +237,16 @@ function Titlebar({
         <button
           className="os-btn-close"
           aria-label="Close"
+          onMouseDown={(e) => e.stopPropagation()}
+          onTouchStart={(e) => e.stopPropagation()}
           onClick={(e) => { e.stopPropagation(); closeWindow(id); }}
         />
         <span className="os-titlebar-text">{title}</span>
         <button
           className="os-btn-zoom"
           aria-label={isMaximized ? 'Restore' : 'Zoom'}
+          onMouseDown={(e) => e.stopPropagation()}
+          onTouchStart={(e) => e.stopPropagation()}
           onClick={(e) => { e.stopPropagation(); handleToggleMaximize(); }}
         />
       </div>
@@ -260,6 +264,8 @@ function Titlebar({
       <button
         className="os-btn-chrome"
         aria-label="Minimize"
+        onMouseDown={(e) => e.stopPropagation()}
+        onTouchStart={(e) => e.stopPropagation()}
         onClick={(e) => { e.stopPropagation(); minimizeWindow(id); }}
       >
         _
@@ -267,6 +273,8 @@ function Titlebar({
       <button
         className="os-btn-chrome"
         aria-label={isMaximized ? 'Restore' : 'Maximize'}
+        onMouseDown={(e) => e.stopPropagation()}
+        onTouchStart={(e) => e.stopPropagation()}
         onClick={(e) => { e.stopPropagation(); handleToggleMaximize(); }}
       >
         {isMaximized ? '\u29C9' : '\u25A1'}
@@ -274,6 +282,8 @@ function Titlebar({
       <button
         className="os-btn-chrome"
         aria-label="Close"
+        onMouseDown={(e) => e.stopPropagation()}
+        onTouchStart={(e) => e.stopPropagation()}
         onClick={(e) => { e.stopPropagation(); closeWindow(id); }}
       >
         X
