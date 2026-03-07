@@ -3,7 +3,7 @@ import { XMLParser } from 'fast-xml-parser'
 import { createHash } from 'crypto'
 import Parser from 'rss-parser'
 
-const OPML_PATH = 'feeds.opml'
+const OPML_URL = 'https://lists.opml.org/hackerNewsStars.xml'
 const DATA_DIR = 'data'
 const ARTICLES_PATH = `${DATA_DIR}/articles.json`
 const NEW_ARTICLES_PATH = `${DATA_DIR}/new-articles.json`
@@ -16,13 +16,26 @@ function hashUrl(url) {
 function parseOpml(opml_content) {
 	const parser = new XMLParser({ ignoreAttributes: false })
 	const result = parser.parse(opml_content)
-	const outlines = result.opml.body.outline.outline
-	const feeds = Array.isArray(outlines) ? outlines : [outlines]
-	return feeds.map(f => ({
-		title: f['@_text'] || f['@_title'],
-		xml_url: f['@_xmlUrl'],
-		html_url: f['@_htmlUrl'],
-	}))
+	const body = result.opml.body
+	// Support both flat (<outline> directly) and nested (<outline><outline>) structures
+	const raw = body.outline
+	const outlines = Array.isArray(raw)
+		? raw.flatMap(o => o.outline ? (Array.isArray(o.outline) ? o.outline : [o.outline]) : [o])
+		: raw.outline ? (Array.isArray(raw.outline) ? raw.outline : [raw.outline]) : [raw]
+	return outlines
+		.filter(f => f['@_xmlUrl'])
+		.map(f => ({
+			title: f['@_text'] || f['@_title'],
+			xml_url: f['@_xmlUrl'],
+			html_url: f['@_htmlUrl'],
+		}))
+}
+
+async function fetchWithTimeout(feed, rss_parser, timeout_ms = 8000) {
+	return Promise.race([
+		fetchFeed(feed, rss_parser),
+		new Promise((_, reject) => setTimeout(() => reject(new Error(`Timeout after ${timeout_ms}ms`)), timeout_ms)),
+	])
 }
 
 async function fetchFeed(feed, rss_parser) {
@@ -46,7 +59,10 @@ async function fetchFeed(feed, rss_parser) {
 async function main() {
 	if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true })
 
-	const opml_content = readFileSync(OPML_PATH, 'utf-8')
+	console.log(`Fetching OPML from ${OPML_URL}...`)
+	const opml_res = await fetch(OPML_URL)
+	if (!opml_res.ok) throw new Error(`Failed to fetch OPML: ${opml_res.status}`)
+	const opml_content = await opml_res.text()
 	const feeds = parseOpml(opml_content)
 	console.log(`Parsed ${feeds.length} feeds from OPML`)
 
@@ -55,13 +71,16 @@ async function main() {
 		: { articles: [] }
 	const existing_ids = new Set(existing.articles.map(a => a.id))
 
-	const rss_parser = new Parser({ timeout: 5000 })
+	const rss_parser = new Parser({
+		timeout: 5000,
+		headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DailyDigest/1.0)' },
+	})
 	const all_items = []
 
 	for (let i = 0; i < feeds.length; i += CONCURRENCY) {
 		const batch = feeds.slice(i, i + CONCURRENCY)
 		const results = await Promise.allSettled(
-			batch.map(feed => fetchFeed(feed, rss_parser))
+			batch.map(feed => fetchWithTimeout(feed, rss_parser))
 		)
 		for (const result of results) {
 			if (result.status === 'fulfilled') {
