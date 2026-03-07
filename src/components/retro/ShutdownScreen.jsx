@@ -173,9 +173,14 @@ function Win95Shutdown({ phase, setPhase, onReboot }) {
           lineHeight: 1.6,
         }}
       >
-        {isSafe
-          ? "It's now safe to turn off\nyour computer."
-          : 'Windows is shutting down...'}
+        {isSafe ? (
+          <>
+            {"It's now safe to turn off\nyour computer."}
+            <div style={{ fontSize: 13, marginTop: 24, opacity: 0.7 }}>
+              Click anywhere to restart
+            </div>
+          </>
+        ) : 'Windows is shutting down...'}
       </div>
     </div>
   );
@@ -245,7 +250,14 @@ function MacShutdown({ phase, setPhase, onReboot }) {
         zIndex: 4000,
         backgroundColor: '#000',
         cursor: 'pointer',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
       }}
-    />
+    >
+      <div style={{ color: '#666', fontSize: 12, fontFamily: 'Geneva, Chicago, sans-serif' }}>
+        Click anywhere to restart
+      </div>
+    </div>
   );
 }
