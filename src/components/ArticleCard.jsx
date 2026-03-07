@@ -4,7 +4,7 @@ import { PacerBadge } from './PacerBadge'
 import { useToast } from './Toast'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 
-export function ArticleCard({ article }) {
+export function ArticleCard({ article, compact = false, is_read, onRead }) {
 	const { t, i18n } = useTranslation()
 	const [is_expanded, setIsExpanded] = useState(false)
 	const toast = useToast()
@@ -18,7 +18,7 @@ export function ArticleCard({ article }) {
 	}
 
 	return (
-		<article className="bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg p-5 transition-colors hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none animate-[fadeInUp_0.2s_ease-out]">
+		<article className={`bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg p-5 transition-colors hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none animate-[fadeInUp_0.2s_ease-out] ${is_read ? 'opacity-75' : ''}`}>
 			<div className="flex items-center justify-between mb-2">
 				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400">
 					<img
@@ -38,15 +38,21 @@ export function ArticleCard({ article }) {
 			</h3>
 
 			{summary && (
-				<p
-					className={`text-sm text-text-muted dark:text-slate-400 mb-3 ${is_expanded ? '' : 'line-clamp-3'}`}
-					onClick={() => setIsExpanded(prev => !prev)}
-				>
-					{summary}
-				</p>
+				compact ? (
+					<p className="text-sm text-text-muted dark:text-slate-400 mb-3 line-clamp-2">
+						{summary}
+					</p>
+				) : (
+					<p
+						className={`text-sm text-text-muted dark:text-slate-400 mb-3 ${is_expanded ? '' : 'line-clamp-3'}`}
+						onClick={() => setIsExpanded(prev => !prev)}
+					>
+						{summary}
+					</p>
+				)
 			)}
 
-			{article.keywords?.length > 0 && (
+			{!compact && article.keywords?.length > 0 && (
 				<div className="flex flex-wrap gap-1.5 mb-3">
 					{article.keywords.map(kw => (
 						<span key={kw} className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">
