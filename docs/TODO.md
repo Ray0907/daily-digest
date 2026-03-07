@@ -8,12 +8,12 @@
 - [x] Verify Phase 1 (build passes)
 
 ## Phase 2: Core Components (Tasks 5-9)
-- [ ] Task 5: RetroWindow (themed, draggable, resizable)
-- [ ] Task 6: Desktop icons (themed SVGs)
-- [ ] Task 7: RetroDesktop (wallpaper + icon grid)
-- [ ] Task 8: RetroTaskbar + MacMenuBar
-- [ ] Task 9: StartMenu
-- [ ] Verify Phase 2
+- [x] Task 5: RetroWindow (themed, draggable, resizable)
+- [x] Task 6: Desktop icons (themed SVGs)
+- [x] Task 7: RetroDesktop (wallpaper + icon grid)
+- [x] Task 8: RetroTaskbar + MacMenuBar
+- [x] Task 9: StartMenu
+- [x] Verify Phase 2 (build passes)
 
 ## Phase 3: Integration (Tasks 10-13)
 - [ ] Task 10: SettingsWindow + AboutWindow
