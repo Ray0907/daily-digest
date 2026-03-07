@@ -21,6 +21,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  background-color: #000;
 }
 
 [data-desktop-theme="win95"] .desktop-bg {
@@ -265,6 +266,36 @@
 }
 
 [data-desktop-theme="win95"] .os-start-menu-item:hover {
+  background: #000080;
+  color: #FFF;
+}
+
+/* --------------------------------------------------------------------------
+   Dropdown Menu
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-menu-dropdown {
+  position: absolute;
+  background: #C0C0C0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFF #808080 #808080 #FFF;
+  box-shadow: inset 1px 1px 0 #DFDFDF, 2px 2px 0 #000;
+  min-width: 160px;
+  padding: 2px;
+  z-index: 10000;
+  font-family: Tahoma, "MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+}
+
+[data-desktop-theme="win95"] .os-menu-dropdown-item {
+  padding: 4px 16px;
+  cursor: pointer;
+  white-space: nowrap;
+  color: #000;
+}
+
+[data-desktop-theme="win95"] .os-menu-dropdown-item:hover {
   background: #000080;
   color: #FFF;
 }

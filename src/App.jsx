@@ -41,10 +41,9 @@ function DesktopShell() {
   const [show_clippy, setShowClippy] = React.useState(false)
   const [clippy_dismissed_at, setClippyDismissedAt] = React.useState(0)
   const [show_bsod, setShowBsod] = React.useState(false)
-  const [konami_active, setKonamiActive] = React.useState(false)
 
-  // Konami code → XP "Bliss" wallpaper
-  useKonamiCode(() => setKonamiActive(true))
+  // Konami code → BSOD easter egg
+  useKonamiCode(() => setShowBsod(true))
 
   // Track screensaver from idle hook
   React.useEffect(() => {
@@ -136,13 +135,8 @@ function DesktopShell() {
     mycomputer: <Suspense fallback={<div className="p-4 text-text-muted">Loading...</div>}><MyComputer /></Suspense>,
   }
 
-  // Konami code: XP Bliss gradient wallpaper
-  const konamiStyle = konami_active ? {
-    background: 'linear-gradient(180deg, #3A7BD5 0%, #6DD5FA 40%, #56AB2F 60%, #7BC67E 100%)',
-  } : {}
-
   return (
-    <div className="os-shell relative w-full h-screen overflow-hidden" style={konamiStyle}>
+    <div className="os-shell relative w-full h-screen overflow-hidden">
       <RetroDesktop />
       {Object.values(windows).map(win => (
         <RetroWindow key={win.id} id={win.id} title={win.title}>
@@ -172,7 +166,6 @@ function DesktopShell() {
           setIsBooting(true)
           setInitialized(false)
           setDialupShown(false)
-          setKonamiActive(false)
         }}
       />
       {show_screensaver && !is_booting && !show_shutdown && (

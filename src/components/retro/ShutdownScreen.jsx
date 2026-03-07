@@ -7,14 +7,12 @@ export default function ShutdownScreen({ theme = 'win95', visible, onCancel, onR
   // 'dialog' | 'shutting-down' | 'safe-to-off' | 'mac-shrink' | 'mac-black'
   const [phase, setPhase] = useState('dialog');
 
-  // Reset phase when visibility changes
+  // Reset phase whenever visibility changes
   useEffect(() => {
-    if (visible) {
-      setPhase('dialog');
-    }
+    setPhase('dialog');
   }, [visible]);
 
-  if (!visible && phase === 'dialog') return null;
+  if (!visible) return null;
 
   const isWin95 = theme === 'win95';
 

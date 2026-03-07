@@ -103,26 +103,51 @@ export default function BootScreen({ theme = 'win95', onComplete }) {
 function Win95Content({ phase, bootDuration }) {
   return (
     <>
-      {/* Win95 logo box */}
+      {/* Win95 flag logo — pixel-style waving flag */}
       <div
         style={{
-          border: '3px solid #fff',
-          padding: '18px 36px',
           marginBottom: 18,
           opacity: phase === 'boot' ? 1 : 0,
           transition: 'opacity 0.4s ease-in',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          imageRendering: 'pixelated',
         }}
       >
-        <div style={{ display: 'flex', gap: 6, marginBottom: 6 }}>
-          <span style={{ color: '#FF0000', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>W</span>
-          <span style={{ color: '#00AA00', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>i</span>
-          <span style={{ color: '#0000FF', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>n</span>
-          <span style={{ color: '#FFAA00', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>d</span>
-          <span style={{ color: '#FF0000', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>o</span>
-          <span style={{ color: '#00AA00', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>w</span>
-          <span style={{ color: '#0000FF', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>s</span>
-          <span style={{ color: '#FFAA00', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>9</span>
-          <span style={{ color: '#FF0000', fontSize: 28, fontWeight: 'bold', fontFamily: 'Arial, sans-serif' }}>5</span>
+        <svg width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg" style={{ imageRendering: 'pixelated' }}>
+          {/* Flag pole */}
+          <rect x="20" y="10" width="4" height="140" fill="#808080" />
+          <rect x="21" y="10" width="2" height="140" fill="#C0C0C0" />
+          {/* Red pane (top-left) — waving */}
+          <path d="M28 14 C50 8, 75 18, 100 12 L100 62 C75 68, 50 58, 28 64 Z" fill="#FF0000" />
+          {/* Green pane (top-right) */}
+          <path d="M100 12 C125 6, 150 16, 172 10 L172 60 C150 66, 125 56, 100 62 Z" fill="#00AA00" />
+          {/* Blue pane (bottom-left) */}
+          <path d="M28 68 C50 62, 75 72, 100 66 L100 116 C75 122, 50 112, 28 118 Z" fill="#0000FF" />
+          {/* Yellow pane (bottom-right) */}
+          <path d="M100 66 C125 60, 150 70, 172 64 L172 114 C150 120, 125 110, 100 116 Z" fill="#FFAA00" />
+          {/* Subtle shading on flag */}
+          <path d="M28 14 C50 8, 75 18, 100 12 L100 20 C75 26, 50 16, 28 22 Z" fill="rgba(255,255,255,0.2)" />
+          <path d="M100 12 C125 6, 150 16, 172 10 L172 18 C150 24, 125 14, 100 20 Z" fill="rgba(255,255,255,0.2)" />
+        </svg>
+        <div style={{
+          color: '#fff',
+          fontSize: 28,
+          fontWeight: 'bold',
+          fontFamily: 'Arial, sans-serif',
+          marginTop: 4,
+          letterSpacing: 2,
+        }}>
+          <span style={{ color: '#FF0000' }}>W</span>
+          <span style={{ color: '#00AA00' }}>i</span>
+          <span style={{ color: '#0000FF' }}>n</span>
+          <span style={{ color: '#FFAA00' }}>d</span>
+          <span style={{ color: '#FF0000' }}>o</span>
+          <span style={{ color: '#00AA00' }}>w</span>
+          <span style={{ color: '#0000FF' }}>s</span>
+          <span style={{ color: '#FFAA00' }}>9</span>
+          <span style={{ color: '#FF0000' }}>5</span>
         </div>
       </div>
 
