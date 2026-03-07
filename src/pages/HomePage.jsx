@@ -38,7 +38,7 @@ export function HomePage() {
 	}, [articles])
 
 	const filtered = useMemo(() => {
-		return articles
+		const matched = articles
 			.filter(a => new Date(a.published).getTime() > three_days_ago)
 			.filter(a => {
 				if (search_query) {
@@ -53,7 +53,27 @@ export function HomePage() {
 				if (active_source && a.source !== active_source) return false
 				return true
 			})
-			.sort((a, b) => new Date(b.published) - new Date(a.published))
+
+		// Group by source, sort each group by date (newest first)
+		const buckets = {}
+		for (const a of matched) {
+			if (!buckets[a.source]) buckets[a.source] = []
+			buckets[a.source].push(a)
+		}
+		for (const key of Object.keys(buckets)) {
+			buckets[key].sort((a, b) => new Date(b.published) - new Date(a.published))
+		}
+
+		// Round-robin interleave: one from each source in turn
+		const source_lists = Object.values(buckets)
+		const result = []
+		const max_len = Math.max(0, ...source_lists.map(s => s.length))
+		for (let i = 0; i < max_len; i++) {
+			for (const list of source_lists) {
+				if (i < list.length) result.push(list[i])
+			}
+		}
+		return result
 	}, [articles, search_query, active_pacers, active_source])
 
 	const grouped = useMemo(() => {
