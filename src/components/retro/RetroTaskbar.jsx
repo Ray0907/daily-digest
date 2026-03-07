@@ -9,7 +9,7 @@ function formatTime(date) {
   return `${h}:${m}`;
 }
 
-export default function RetroTaskbar() {
+export default function RetroTaskbar({ onShutdown }) {
   const { desktopTheme } = useDesktopTheme();
   const { windows, focused_id, minimizeWindow, restoreWindow, focusWindow } = useWindows();
   const [showStart, setShowStart] = useState(false);
@@ -58,7 +58,7 @@ export default function RetroTaskbar() {
       ))}
 
       <div className="os-clock">{time}</div>
-      <StartMenu visible={showStart} onClose={() => setShowStart(false)} />
+      <StartMenu visible={showStart} onClose={() => setShowStart(false)} onShutdown={onShutdown} />
     </div>
   );
 }

@@ -8,7 +8,7 @@ function formatTime(date) {
   return `${h}:${m}`;
 }
 
-export default function MacMenuBar() {
+export default function MacMenuBar({ onShutdown }) {
   const { desktopTheme } = useDesktopTheme();
   const { windows, openWindow, focusWindow } = useWindows();
   const [openMenu, setOpenMenu] = useState(null);
@@ -122,7 +122,7 @@ export default function MacMenuBar() {
         Special
         {openMenu === 'special' && (
           <div className="os-menu-dropdown">
-            <div className="os-menu-dropdown-item disabled">Shut Down...</div>
+            <div className="os-menu-dropdown-item" onClick={() => { closeMenu(); if (onShutdown) onShutdown(); }}>Shut Down...</div>
           </div>
         )}
       </div>

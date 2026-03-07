@@ -46,7 +46,7 @@ const MENU_ITEMS = [
   },
 ];
 
-export default function StartMenu({ visible, onClose }) {
+export default function StartMenu({ visible, onClose, onShutdown }) {
   const { openWindow } = useWindows();
   const menuRef = useRef(null);
 
@@ -68,6 +68,7 @@ export default function StartMenu({ visible, onClose }) {
   function handleItemClick(item) {
     if (item.id === 'shutdown') {
       onClose();
+      if (onShutdown) onShutdown();
       return;
     }
 

@@ -23,16 +23,16 @@
 - [x] Verify Phase 3 (build passes)
 
 ## Phase 4: Boot & Shutdown (Tasks 14-15)
-- [ ] Task 14: Boot Screen
-- [ ] Task 15: Shutdown Screen + Dialog
-- [ ] Verify Phase 4
+- [x] Task 14: Boot Screen
+- [x] Task 15: Shutdown Screen + Dialog
+- [x] Verify Phase 4 (build passes)
 
 ## Phase 5: Immersive Details (Tasks 16-19)
-- [ ] Task 16: Right-click Context Menu
-- [ ] Task 17: Screensaver
-- [ ] Task 18: Dial-up Connection Dialog
-- [ ] Task 19: Sound Effects
-- [ ] Verify Phase 5
+- [x] Task 16: Right-click Context Menu
+- [x] Task 17: Screensaver
+- [x] Task 18: Dial-up Connection Dialog
+- [x] Task 19: Sound Effects
+- [x] Verify Phase 5 (build passes)
 
 ## Phase 6: Easter Eggs (Tasks 20-25)
 - [ ] Task 20: Error Dialog
