@@ -107,18 +107,6 @@ export function GraphPage() {
 			.attr('stroke-opacity', 0.5)
 			.attr('stroke-width', d => Math.max(1.5, (d.strength || 0.5) * 4))
 
-		// Link labels (shared keywords)
-		const link_label = g.append('g')
-			.selectAll('text')
-			.data(links_copy)
-			.join('text')
-			.attr('text-anchor', 'middle')
-			.attr('fill', 'currentColor')
-			.attr('class', 'text-text-muted')
-			.attr('font-size', '10px')
-			.attr('opacity', 0.6)
-			.text(d => d.shared_keywords?.join(', ') || '')
-
 		// Node groups
 		const node_group = g.append('g')
 			.selectAll('g')
@@ -171,9 +159,6 @@ export function GraphPage() {
 			link
 				.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
 				.attr('x2', d => d.target.x).attr('y2', d => d.target.y)
-			link_label
-				.attr('x', d => (d.source.x + d.target.x) / 2)
-				.attr('y', d => (d.source.y + d.target.y) / 2 - 6)
 			node_group
 				.attr('transform', d => `translate(${d.x},${d.y})`)
 		})

@@ -2,7 +2,8 @@ import { readFileSync, writeFileSync, existsSync } from 'fs'
 
 const ARTICLES_PATH = 'data/articles.json'
 const GRAPH_PATH = 'data/graph.json'
-const MIN_SHARED_KEYWORDS = 2
+const MIN_SHARED_KEYWORDS = 3
+const MAX_PER_SOURCE = 5
 
 function main() {
 	if (!existsSync(ARTICLES_PATH)) {
@@ -11,12 +12,21 @@ function main() {
 	}
 
 	const data = JSON.parse(readFileSync(ARTICLES_PATH, 'utf-8'))
+
+	// Limit articles per source to avoid single-source domination
+	const source_counts = {}
 	const articles = data.articles
+		.sort((a, b) => new Date(b.published) - new Date(a.published))
+		.filter(a => {
+			source_counts[a.source] = (source_counts[a.source] || 0) + 1
+			return source_counts[a.source] <= MAX_PER_SOURCE
+		})
 
 	const nodes = articles.map(a => ({
 		id: a.id,
 		title: a.title,
 		source: a.source,
+		source_url: a.source_url,
 		url: a.url,
 		pacer: a.pacer,
 		keywords: a.keywords || [],
