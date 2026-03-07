@@ -414,6 +414,37 @@
 }
 
 /* --------------------------------------------------------------------------
+   Hourglass Cursor (loading)
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-window.loading {
+  cursor: wait;
+}
+
+[data-desktop-theme="win95"] .os-window.loading * {
+  cursor: wait;
+}
+
+/* --------------------------------------------------------------------------
+   Title Bar Marquee
+   -------------------------------------------------------------------------- */
+
+[data-desktop-theme="win95"] .os-titlebar-text.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+[data-desktop-theme="win95"] .os-titlebar-text.marquee span {
+  display: inline-block;
+  animation: win95-marquee 8s linear infinite;
+}
+
+@keyframes win95-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+/* --------------------------------------------------------------------------
    CRT Scanline Effect
    -------------------------------------------------------------------------- */
 

@@ -307,6 +307,31 @@
   color: #fff;
 }
 
+/* --- Loading Cursor --- */
+[data-desktop-theme="mac"] .os-window.loading {
+  cursor: wait;
+}
+
+[data-desktop-theme="mac"] .os-window.loading * {
+  cursor: wait;
+}
+
+/* --- Title Bar Marquee --- */
+[data-desktop-theme="mac"] .os-titlebar-text.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+[data-desktop-theme="mac"] .os-titlebar-text.marquee span {
+  display: inline-block;
+  animation: mac-marquee 8s linear infinite;
+}
+
+@keyframes mac-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
 /* --- Dialog Box --- */
 [data-desktop-theme="mac"] .os-dialog {
   position: absolute;

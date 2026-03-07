@@ -44,6 +44,6 @@
 - [x] Verify Phase 6 (build passes)
 
 ## Phase 7: Polish (Tasks 26-28)
-- [ ] Task 26: Hourglass / Beach Ball cursor
-- [ ] Task 27: Window title marquee
-- [ ] Task 28: Build, test, deploy
+- [x] Task 26: Hourglass / Beach Ball cursor
+- [x] Task 27: Window title marquee
+- [x] Task 28: Build, test, deploy (build passes)
