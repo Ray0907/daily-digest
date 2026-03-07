@@ -1,0 +1,67 @@
+name: Daily Digest
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install root dependencies
+        run: pnpm install
+
+      - name: Install script dependencies
+        run: cd scripts && pnpm install
+
+      - name: Restore data cache
+        uses: actions/cache@v4
+        with:
+          path: data/
+          key: articles-data-${{ github.run_id }}
+          restore-keys: articles-data-
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-feeds.js
+
+      - name: Summarize new articles
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: node scripts/summarize.js
+
+      - name: Build graph
+        run: node scripts/build-graph.js
+
+      - name: Generate RSS feed
+        run: node scripts/generate-feed.js
+
+      - name: Copy data to public
+        run: node scripts/copy-data.js
+
+      - name: Build React app
+        run: pnpm build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
