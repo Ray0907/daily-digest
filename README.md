@@ -1,16 +1,90 @@
-# React + Vite
+# Daily Digest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Inspired by Andrej Karpathy's reading list
 
-Currently, two official plugins are available:
+A static RSS aggregator that fetches 80+ curated tech blog feeds daily, generates bilingual (EN/ZH-TW) summaries with AI, classifies articles using the PACER learning framework, and visualizes knowledge connections -- all deployed to GitHub Pages with zero server costs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- **Daily RSS aggregation** from 80+ curated tech blogs
+- **AI-powered summaries** in English and Traditional Chinese (Gemini API)
+- **PACER classification** based on Justin Sung's learning framework
+- **Interactive knowledge graph** showing article relationships (D3.js)
+- **Dark/Light mode** with system preference detection
+- **i18n** toggle between English and Traditional Chinese
+- **Markdown export** -- copy single articles or download daily/weekly/monthly batches
+- **RSS feed output** -- subscribe to the curated feed with summaries
+- **Archive** -- browse all historical articles by month
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## PACER Framework
 
-## Expanding the ESLint configuration
+Each article is classified into one of five learning categories:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Description | Priority |
+|----------|-------------|----------|
+| **P** - Procedural | How-to guides, tutorials | High (practice immediately) |
+| **A** - Analogous | Cross-domain parallels | High (critique connections) |
+| **C** - Conceptual | Theories, explanations | High (map relationships) |
+| **E** - Evidence | Data, case studies | Medium (store for later) |
+| **R** - Reference | Lookup material | Low (save and review) |
+
+## Setup
+
+### Prerequisites
+
+- Node.js >= 22
+- pnpm
+
+### Local Development
+
+```bash
+git clone <your-repo-url>
+cd daily-digest
+pnpm install
+pnpm dev
+```
+
+Sample data is included in `public/data/` for local development.
+
+### Deployment
+
+1. Fork this repo
+2. Go to Settings > Secrets and variables > Actions
+3. Add `GOOGLE_API_KEY` secret (get from Google AI Studio)
+4. Go to Settings > Pages > Source: Deploy from a branch > gh-pages
+5. The GitHub Action runs daily at UTC 06:00, or trigger manually from Actions tab
+
+### Customize Feeds
+
+Edit `feeds.opml` to add or remove RSS feeds.
+
+## Tech Stack
+
+- **Frontend:** React + Vite + Tailwind CSS
+- **i18n:** react-i18next
+- **Graph:** D3.js force-directed graph
+- **AI:** Gemini API (gemini-3.1-flash-lite-preview)
+- **CI/CD:** GitHub Actions
+- **Hosting:** GitHub Pages (static)
+
+## Subscribe
+
+Once deployed, subscribe to your digest at:
+
+```
+https://YOUR_USERNAME.github.io/daily-digest/feed.xml
+```
+
+Works with any RSS reader, Obsidian (RSS Reader plugin), or Notion (via Zapier/Make).
+
+## Cost
+
+- **GitHub Actions:** ~150 min/month (free tier: 2,000 min)
+- **Gemini API:** Free tier covers ~1,500 requests/day
+- **GitHub Pages:** Free for public repos
+
+**Total: $0/month**
+
+## License
+
+MIT
