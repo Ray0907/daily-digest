@@ -4,7 +4,7 @@ import { PacerBadge } from './PacerBadge'
 import { useToast } from './Toast'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 
-export function ArticleCard({ article, compact = false, is_read, onRead }) {
+export function ArticleCard({ article, compact = false, is_read, onRead, onPacerToggle, onKeywordSearch }) {
 	const { t, i18n } = useTranslation()
 	const [is_expanded, setIsExpanded] = useState(false)
 	const toast = useToast()
@@ -18,19 +18,19 @@ export function ArticleCard({ article, compact = false, is_read, onRead }) {
 	}
 
 	return (
-		<article className={`bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg p-5 transition-colors hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none animate-[fadeInUp_0.2s_ease-out] ${is_read ? 'opacity-75' : ''}`}>
-			<div className="flex items-center justify-between mb-2">
-				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400">
+		<article className={`bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl p-5 transition-all hover:shadow-md hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none ${is_read ? 'opacity-60' : ''}`}>
+			<div className="flex items-center justify-between gap-2 mb-2">
+				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400 min-w-0">
 					<img
 						src={`https://www.google.com/s2/favicons?domain=${article.source}&sz=16`}
 						alt=""
-						className="w-4 h-4"
+						className="w-4 h-4 shrink-0"
 					/>
-					<span>{article.source}</span>
-					<span>-</span>
-					<span>{time_ago}</span>
+					<span className="truncate">{article.source}</span>
+					<span className="shrink-0">-</span>
+					<span className="shrink-0">{time_ago}</span>
 				</div>
-				<PacerBadge pacer={article.pacer} />
+				<PacerBadge pacer={article.pacer} compact={compact} onClick={onPacerToggle} />
 			</div>
 
 			<h3 className="font-serif text-lg font-semibold mb-2 text-text-primary dark:text-slate-200">
@@ -38,26 +38,24 @@ export function ArticleCard({ article, compact = false, is_read, onRead }) {
 			</h3>
 
 			{summary && (
-				compact ? (
-					<p className="text-sm text-text-muted dark:text-slate-400 mb-3 line-clamp-2">
-						{summary}
-					</p>
-				) : (
-					<p
-						className={`text-sm text-text-muted dark:text-slate-400 mb-3 ${is_expanded ? '' : 'line-clamp-3'}`}
-						onClick={() => setIsExpanded(prev => !prev)}
-					>
-						{summary}
-					</p>
-				)
+				<p
+					className={`text-sm text-text-muted dark:text-slate-400 mb-3 ${is_expanded ? '' : compact ? 'line-clamp-2' : 'line-clamp-3'}`}
+					onClick={() => setIsExpanded(prev => !prev)}
+				>
+					{summary}
+				</p>
 			)}
 
-			{!compact && article.keywords?.length > 0 && (
+			{article.keywords?.length > 0 && (
 				<div className="flex flex-wrap gap-1.5 mb-3">
-					{article.keywords.map(kw => (
-						<span key={kw} className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">
+					{(compact ? article.keywords.slice(0, 3) : article.keywords).map(kw => (
+						<button
+							key={kw}
+							onClick={() => onKeywordSearch?.(kw)}
+							className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded cursor-pointer hover:bg-accent/20 transition-colors"
+						>
 							#{kw}
-						</span>
+						</button>
 					))}
 				</div>
 			)}

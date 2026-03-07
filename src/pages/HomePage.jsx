@@ -15,8 +15,14 @@ export function HomePage() {
 	const [active_pacers, setActivePacers] = useState(new Set())
 	const [active_source, setActiveSource] = useState('')
 
-	const handlePacerToggle = useCallback((pacer) => {
+	const handlePacerToggle = useCallback((pacer, opts) => {
 		setActivePacers(prev => {
+			if (opts?.exclusive) {
+				// From card badge: exclusive toggle (click = only this, click again = clear)
+				if (prev.size === 1 && prev.has(pacer)) return new Set()
+				return new Set([pacer])
+			}
+			// From FilterBar: multi-select toggle
 			const next = new Set(prev)
 			if (next.has(pacer)) next.delete(pacer)
 			else next.add(pacer)
@@ -116,12 +122,12 @@ export function HomePage() {
 						<>
 							<div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
 								<div className="md:col-span-2" style={{ animationDelay: '0ms', animation: 'fadeInUp 0.3s ease-out both' }}>
-									<FeaturedCard article={date_articles[0]} />
+									<FeaturedCard article={date_articles[0]} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
 								</div>
 								<div className="space-y-4">
 									{date_articles.slice(1, 3).map((article, i) => (
 										<div key={article.id} style={{ animationDelay: `${(i + 1) * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-											<ArticleCard article={article} compact />
+											<ArticleCard article={article} compact onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
 										</div>
 									))}
 								</div>
@@ -130,7 +136,7 @@ export function HomePage() {
 								<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
 									{date_articles.slice(3).map((article, i) => (
 										<div key={article.id} style={{ animationDelay: `${(i + 3) * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-											<ArticleCard article={article} />
+											<ArticleCard article={article} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
 										</div>
 									))}
 								</div>
@@ -140,7 +146,7 @@ export function HomePage() {
 						<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
 							{date_articles.map((article, i) => (
 								<div key={article.id} style={{ animationDelay: `${i * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-									<ArticleCard article={article} />
+									<ArticleCard article={article} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
 								</div>
 							))}
 						</div>

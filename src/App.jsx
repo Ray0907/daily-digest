@@ -11,7 +11,7 @@ export default function App() {
 	return (
 		<BrowserRouter basename="/daily-digest">
 			<ToastProvider>
-				<div className="min-h-screen bg-paper dark:bg-paper-dark text-text-primary dark:text-slate-200 font-sans">
+				<div className="min-h-screen bg-paper dark:bg-paper-dark text-text-primary dark:text-[#F5F5F7] font-sans antialiased">
 					<SkipLink />
 					<Navbar />
 					<main id="main-content">

@@ -1,22 +1,24 @@
 @import "tailwindcss";
 
+@variant dark (&:where(.dark, .dark *));
+
 @theme {
-	--color-paper: #FDFBF7;
-	--color-paper-dark: #121212;
+	--color-paper: #F5F5F7;
+	--color-paper-dark: #000000;
 	--color-card: #FFFFFF;
-	--color-card-dark: #1A1A1A;
-	--color-text-primary: #1E293B;
-	--color-text-muted: #475569;
-	--color-border-light: #E2E8F0;
-	--color-accent: #3B82F6;
-	--color-accent-light: #60A5FA;
-	--color-pacer-p: #10B981;
-	--color-pacer-a: #F59E0B;
-	--color-pacer-c: #3B82F6;
-	--color-pacer-e: #8B5CF6;
-	--color-pacer-r: #6B7280;
+	--color-card-dark: #1C1C1E;
+	--color-text-primary: #1D1D1F;
+	--color-text-muted: #6E6E73;
+	--color-border-light: #D2D2D7;
+	--color-accent: #0071E3;
+	--color-accent-light: #2997FF;
+	--color-pacer-p: #30D158;
+	--color-pacer-a: #FF9F0A;
+	--color-pacer-c: #0A84FF;
+	--color-pacer-e: #BF5AF2;
+	--color-pacer-r: #8E8E93;
 	--font-serif: 'Newsreader', serif;
-	--font-sans: 'Inter', sans-serif;
+	--font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', system-ui, sans-serif;
 }
 
 @keyframes fadeInUp {

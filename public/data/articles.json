@@ -9,11 +9,11 @@
 			"source_url": "https://simonwillison.net",
 			"published": "2026-03-07T10:00:00Z",
 			"summary_en": "Simon explores patterns for building AI agents that reliably use tools. He covers retry strategies, output validation, and the importance of keeping tool interfaces simple and well-documented.",
-			"summary_zh": "Simon Willison discusses the key patterns for building AI agents that effectively use tools. He covers retry strategies, output validation, and how to keep tool interfaces simple and well-documented.",
+			"summary_zh": "Simon Willison 探討了打造可靠 AI Agent 的關鍵模式，涵蓋重試策略、輸出驗證，以及保持工具介面簡潔且文件完善的重要性。",
 			"keywords": ["ai", "agents", "tools", "reliability", "llm"],
 			"pacer": "C",
 			"pacer_reason_en": "Conceptual: Explains what makes AI agents reliable",
-			"pacer_reason_zh": "Conceptual: Explains what makes AI agents reliable"
+			"pacer_reason_zh": "概念性：解釋什麼讓 AI Agent 更可靠"
 		},
 		{
 			"id": "a1b2c3d4e5f60002",
@@ -23,11 +23,11 @@
 			"source_url": "https://jeffgeerling.com",
 			"published": "2026-03-07T08:00:00Z",
 			"summary_en": "Jeff shares his Docker Compose workflow for deploying side projects on a single VPS. Covers Traefik reverse proxy, automated SSL, and monitoring with minimal overhead.",
-			"summary_zh": "Jeff explains his Docker Compose workflow for deploying side projects on a single VPS, including Traefik reverse proxy configuration, automated SSL, and monitoring.",
+			"summary_zh": "Jeff 分享了他用 Docker Compose 在單一 VPS 上部署 side project 的工作流程，包含 Traefik 反向代理、自動化 SSL 憑證和輕量級監控方案。",
 			"keywords": ["docker", "deployment", "devops", "traefik", "self-hosting"],
 			"pacer": "P",
 			"pacer_reason_en": "Procedural: Step-by-step deployment guide",
-			"pacer_reason_zh": "Procedural: Step-by-step deployment guide"
+			"pacer_reason_zh": "程序性：逐步部署教學指南"
 		},
 		{
 			"id": "a1b2c3d4e5f60003",
@@ -37,11 +37,11 @@
 			"source_url": "https://krebsonsecurity.com",
 			"published": "2026-03-07T05:00:00Z",
 			"summary_en": "Krebs reports on a sophisticated phishing campaign that successfully bypassed multi-factor authentication at several Fortune 500 companies using real-time proxy techniques.",
-			"summary_zh": "Krebs details a sophisticated phishing campaign that used real-time proxy techniques to bypass multi-factor authentication at several Fortune 500 companies.",
+			"summary_zh": "Krebs 報導了一起精密的釣魚攻擊行動，利用即時代理技術成功繞過多家財星 500 大企業的多因素驗證機制。",
 			"keywords": ["security", "phishing", "mfa", "authentication", "cybersecurity"],
 			"pacer": "E",
 			"pacer_reason_en": "Evidence: Case study of a real-world security breach",
-			"pacer_reason_zh": "Evidence: Case study of a real-world security breach"
+			"pacer_reason_zh": "證據性：真實資安事件案例研究"
 		},
 		{
 			"id": "a1b2c3d4e5f60004",
@@ -51,11 +51,11 @@
 			"source_url": "https://overreacted.io",
 			"published": "2026-03-06T14:00:00Z",
 			"summary_en": "Dan Abramov draws parallels between mise en place in professional kitchens and clean software architecture. Both require preparation, organization, and the discipline to clean as you go.",
-			"summary_zh": "Dan Abramov draws parallels between professional kitchen mise en place and clean software architecture, showing both require preparation, organization, and cleaning up as you go.",
+			"summary_zh": "Dan Abramov 將專業廚房中的 mise en place（就位準備）概念與乾淨的軟體架構做類比，兩者都需要充分準備、有序組織，以及邊做邊整理的紀律。",
 			"keywords": ["architecture", "analogy", "software-design", "patterns", "philosophy"],
 			"pacer": "A",
 			"pacer_reason_en": "Analogous: Draws parallels between cooking and software",
-			"pacer_reason_zh": "Analogous: Draws parallels between cooking and software"
+			"pacer_reason_zh": "類比性：將烹飪與軟體開發做平行比較"
 		},
 		{
 			"id": "a1b2c3d4e5f60005",
@@ -65,11 +65,11 @@
 			"source_url": "https://eli.thegreenplace.net",
 			"published": "2026-03-06T10:00:00Z",
 			"summary_en": "Eli provides a clear comparison of Raft and Paxos consensus algorithms, explaining when each is more appropriate and their trade-offs in real distributed systems.",
-			"summary_zh": "Eli provides a clear comparison of Raft and Paxos consensus algorithms, explaining their trade-offs in real distributed systems.",
+			"summary_zh": "Eli 清楚地比較了 Raft 與 Paxos 共識演算法，說明各自適用的場景及在真實分散式系統中的取捨。",
 			"keywords": ["distributed-systems", "consensus", "algorithms", "raft", "paxos"],
 			"pacer": "C",
 			"pacer_reason_en": "Conceptual: Explains distributed consensus concepts",
-			"pacer_reason_zh": "Conceptual: Explains distributed consensus concepts"
+			"pacer_reason_zh": "概念性：解釋分散式共識的核心概念"
 		},
 		{
 			"id": "a1b2c3d4e5f60006",
@@ -79,11 +79,11 @@
 			"source_url": "https://matklad.github.io",
 			"published": "2026-03-05T16:00:00Z",
 			"summary_en": "An exhaustive reference of HTTP status codes with real-world examples of when to use each one. Covers common mistakes like using 200 for errors.",
-			"summary_zh": "A comprehensive reference for HTTP status codes with real-world examples, covering common mistakes like using 200 for errors.",
+			"summary_zh": "一份完整的 HTTP 狀態碼參考指南，搭配真實使用情境範例，涵蓋常見錯誤如用 200 回傳錯誤結果等。",
 			"keywords": ["http", "web", "api", "reference", "standards"],
 			"pacer": "R",
 			"pacer_reason_en": "Reference: Lookup material for HTTP status codes",
-			"pacer_reason_zh": "Reference: Lookup material for HTTP status codes"
+			"pacer_reason_zh": "參考性：HTTP 狀態碼查閱資料"
 		},
 		{
 			"id": "a1b2c3d4e5f60007",
@@ -93,11 +93,11 @@
 			"source_url": "https://dynomight.net",
 			"published": "2026-03-05T12:00:00Z",
 			"summary_en": "Dynomight conducted extensive benchmarks of 10 popular vector databases across latency, throughput, and recall metrics. Surprising results show that simpler solutions often outperform specialized ones.",
-			"summary_zh": "Dynomight benchmarked 10 popular vector databases for latency, throughput, and recall, finding that simpler solutions often outperform specialized ones.",
+			"summary_zh": "Dynomight 針對 10 個熱門向量資料庫進行了延遲、吞吐量和召回率的詳盡效能測試，結果出人意料地顯示簡單方案往往表現優於專門化方案。",
 			"keywords": ["databases", "benchmarks", "ai", "vectors", "performance"],
 			"pacer": "E",
 			"pacer_reason_en": "Evidence: Benchmark data comparing databases",
-			"pacer_reason_zh": "Evidence: Benchmark data comparing databases"
+			"pacer_reason_zh": "證據性：資料庫效能比較的基準測試數據"
 		},
 		{
 			"id": "a1b2c3d4e5f60008",
@@ -107,11 +107,11 @@
 			"source_url": "https://mitchellh.com",
 			"published": "2026-03-05T09:00:00Z",
 			"summary_en": "Mitchell Hashimoto shares his complete Neovim configuration for web development in 2026, covering LSP, TypeScript integration, Tailwind CSS autocompletion, and AI-assisted coding.",
-			"summary_zh": "Mitchell Hashimoto shares his complete Neovim configuration for web development, covering LSP, TypeScript, Tailwind CSS autocomplete, and AI-assisted coding.",
+			"summary_zh": "Mitchell Hashimoto 分享了他完整的 Neovim 網頁開發設定，涵蓋 LSP、TypeScript 整合、Tailwind CSS 自動完成及 AI 輔助編程。",
 			"keywords": ["neovim", "tools", "development", "productivity", "editor"],
 			"pacer": "P",
 			"pacer_reason_en": "Procedural: Setup guide for development tools",
-			"pacer_reason_zh": "Procedural: Setup guide for development tools"
+			"pacer_reason_zh": "程序性：開發工具設定指南"
 		}
 	]
 }

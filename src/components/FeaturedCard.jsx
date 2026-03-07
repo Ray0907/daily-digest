@@ -3,7 +3,7 @@ import { PacerBadge } from './PacerBadge'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 import { useToast } from './Toast'
 
-export function FeaturedCard({ article, style = {} }) {
+export function FeaturedCard({ article, style = {}, onPacerToggle, onKeywordSearch }) {
 	const { t, i18n } = useTranslation()
 	const toast = useToast()
 
@@ -17,7 +17,7 @@ export function FeaturedCard({ article, style = {} }) {
 
 	return (
 		<article
-			className="bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-xl p-6 md:p-8 transition-all hover:border-accent/30 hover:shadow-md cursor-pointer group focus:ring-2 focus:ring-accent focus:outline-none"
+			className="bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl p-6 md:p-8 transition-all hover:shadow-lg hover:border-accent/30 cursor-pointer group focus:ring-2 focus:ring-accent focus:outline-none"
 			tabIndex={0}
 			style={style}
 		>
@@ -25,13 +25,13 @@ export function FeaturedCard({ article, style = {} }) {
 				<img
 					src={`https://www.google.com/s2/favicons?domain=${article.source}&sz=16`}
 					alt=""
-					className="w-4 h-4"
+					className="w-4 h-4 shrink-0"
 				/>
-				<span className="text-sm text-text-muted dark:text-slate-400">{article.source}</span>
-				<span className="text-sm text-text-muted dark:text-slate-400">-</span>
-				<span className="text-sm text-text-muted dark:text-slate-400">{getTimeAgo(article.published)}</span>
-				<div className="ml-auto">
-					<PacerBadge pacer={article.pacer} />
+				<span className="text-sm text-text-muted dark:text-slate-400 truncate">{article.source}</span>
+				<span className="text-sm text-text-muted dark:text-slate-400 shrink-0">-</span>
+				<span className="text-sm text-text-muted dark:text-slate-400 shrink-0">{getTimeAgo(article.published)}</span>
+				<div className="ml-auto shrink-0">
+					<PacerBadge pacer={article.pacer} onClick={onPacerToggle} />
 				</div>
 			</div>
 
@@ -48,9 +48,13 @@ export function FeaturedCard({ article, style = {} }) {
 			{article.keywords?.length > 0 && (
 				<div className="flex flex-wrap gap-1.5 mb-4">
 					{article.keywords.map(kw => (
-						<span key={kw} className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">
+						<button
+							key={kw}
+							onClick={(e) => { e.stopPropagation(); onKeywordSearch?.(kw) }}
+							className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded cursor-pointer hover:bg-accent/20 transition-colors"
+						>
 							#{kw}
-						</span>
+						</button>
 					))}
 				</div>
 			)}

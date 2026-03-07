@@ -22,7 +22,7 @@ export function FilterBar({ search_query, onSearchChange, active_pacers, onPacer
 					value={search_query}
 					onChange={e => onSearchChange(e.target.value)}
 					placeholder={t('home.search_placeholder') || 'Search articles...'}
-					className="w-full pl-10 pr-4 py-2.5 bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-lg text-sm text-text-primary dark:text-slate-200 placeholder-text-muted focus:ring-2 focus:ring-accent focus:border-transparent focus:outline-none transition-colors"
+					className="w-full pl-10 pr-4 py-2.5 bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-xl text-sm text-text-primary dark:text-[#F5F5F7] placeholder-text-muted focus:ring-2 focus:ring-accent focus:border-transparent focus:outline-none transition-colors"
 					id="search-input"
 				/>
 			</div>
@@ -32,8 +32,8 @@ export function FilterBar({ search_query, onSearchChange, active_pacers, onPacer
 					<button
 						key={key}
 						onClick={() => onPacerToggle(key)}
-						className={`px-3 py-1.5 rounded-md text-xs font-medium border transition-colors cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none
-							${active_pacers.has(key) ? color : 'bg-transparent border-border-light dark:border-slate-700 text-text-muted hover:text-text-primary dark:hover:text-slate-200'}`}
+						className={`px-3 py-1.5 rounded-full text-xs font-medium border transition-all cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none
+							${active_pacers.has(key) ? color : 'bg-transparent border-border-light/60 dark:border-white/10 text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7]'}`}
 					>
 						{key} - {t(`pacer.${key}`)}
 					</button>
@@ -43,7 +43,7 @@ export function FilterBar({ search_query, onSearchChange, active_pacers, onPacer
 					<select
 						value={active_source}
 						onChange={e => onSourceChange(e.target.value)}
-						className="ml-auto px-3 py-1.5 bg-card dark:bg-card-dark border border-border-light dark:border-slate-800 rounded-md text-xs text-text-muted cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none"
+						className="ml-auto px-3 py-1.5 bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-xl text-xs text-text-muted cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none"
 					>
 						<option value="">{t('home.all_sources') || 'All Sources'}</option>
 						{sources.map(s => (
