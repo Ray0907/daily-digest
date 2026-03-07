@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-03-07T16:52:43.702Z",
+  "last_updated": "2026-03-07T22:01:46.732Z",
   "articles": [
+    {
+      "id": "fb65c103054b4c2c",
+      "title": "Is the AI Compute Crunch Here?",
+      "url": "https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-03-07T00:00:00.000Z",
+      "summary_en": "The article discusses the rapid adoption of AI coding tools like Claude Code, which has already reached 1% of knowledge workers. It warns that this widespread integration is leading to significant challenges regarding future compute capacity requirements.",
+      "summary_zh": "本文探討了 Claude Code 等 AI 程式工具的快速普及，指出其使用者已達知識工作者的 1%。作者警告隨著應用規模擴大，未來的運算需求將面臨嚴峻挑戰。",
+      "keywords": [
+        "AI",
+        "Compute",
+        "Claude Code",
+        "Knowledge Workers",
+        "Scalability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content uses current user metrics and adoption rates to project future compute demand trends.",
+      "pacer_reason_zh": "內容運用了當前的用戶數據與採用率，來推估未來運算需求的趨勢。"
+    },
+    {
+      "id": "9436ee5e1db35e0e",
+      "title": "HN Skins 0.3.0",
+      "url": "https://susam.net/code/news/hnskins/0.3.0.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-03-07T00:00:00.000Z",
+      "summary_en": "HN Skins 0.3.0 is a minor update for the Hacker News browser userscript that introduces bug fixes, font adjustments, and renames several visual themes. The update improves the consistency of comment input styles and enhances link visibility, while maintaining a dedicated Courier font skin.",
+      "summary_zh": "HN Skins 0.3.0 是 Hacker News 瀏覽器腳本的一次小規模更新，主要修復了顯示問題、調整了字型設定並重新命名了部分主題。此次更新改善了評論輸入框的樣式一致性與連結的可辨識度，同時保留了專門致敬 Courier 字型的主題。",
+      "keywords": [
+        "HN Skins",
+        "Hacker News",
+        "userscript",
+        "web design",
+        "browser extension"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release note detailing software updates and changes to a specific tool.",
+      "pacer_reason_zh": "這是一份軟體發布說明，詳細記錄了特定工具的更新內容與變更事項。"
+    },
+    {
+      "id": "faa18ec99d206f3e",
+      "title": "Remove annoying banners",
+      "url": "https://maurycyz.com/projects/fixsite/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-03-07T00:00:00.000Z",
+      "summary_en": "This post provides a JavaScript snippet designed to remove annoying website elements like persistent banners, sticky headers, and cookie popups. The author offers a bookmarklet version for easy execution to help users reclaim screen space and improve reading focus.",
+      "summary_zh": "這篇文章提供了一段 JavaScript 程式碼，旨在清除網站上惱人的固定橫幅、彈出視窗與導覽列。作者同時製作了書籤小工具，讓使用者能透過一鍵點擊恢復網頁的可讀性與瀏覽空間。",
+      "keywords": [
+        "JavaScript",
+        "bookmarklet",
+        "web-cleanup",
+        "productivity",
+        "user-experience"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step tool and code snippet for users to perform a specific task.",
+      "pacer_reason_zh": "該文章提供了一個實用的工具與程式碼片段，指導使用者透過步驟操作來達成特定的清理網頁任務。"
+    },
+    {
+      "id": "4637af053a78ec1f",
+      "title": "Pluralistic: The web is bearable with RSS (07 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/07/reader-mode/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-07T18:02:49.000Z",
+      "summary_en": "The article advocates for the use of RSS as a vital tool for reclaiming a user-controlled, decentralized web experience. It argues that the decline of open standards and the rise of enshittification are results of deliberate corporate policy choices, not unavoidable market forces.",
+      "summary_zh": "本文提倡使用 RSS 作為重奪去中心化網路體驗的重要工具。作者主張網路品質的下降與數位平台惡化（enshittification）是刻意的政策選擇所致，而非不可避免的市場規律。",
+      "keywords": [
+        "RSS",
+        "enshittification",
+        "decentralization",
+        "web standards",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of RSS and discusses the theoretical causes behind the systemic decline of the open web.",
+      "pacer_reason_zh": "本文解釋了 RSS 的概念，並探討了開放網路系統性衰退背後的理論原因。"
+    },
+    {
+      "id": "630e1059d6d2dadc",
+      "title": "Codex for Open Source",
+      "url": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-07T18:13:39.000Z",
+      "summary_en": "OpenAI has introduced a new program offering core open-source maintainers six months of free access to ChatGPT Pro, including Codex and security tools. This initiative follows a similar move by Anthropic and serves as a competitive incentive for developers to leverage AI tools within their projects.",
+      "summary_zh": "OpenAI 推出了一項新計畫，為熱門開源專案的核心維護者提供六個月的 ChatGPT Pro 免費訂閱，包含 Codex 及安全工具。此舉繼 Anthropic 之後，旨在透過 AI 資源支持並吸引開源社群的開發者。",
+      "keywords": [
+        "OpenAI",
+        "Codex",
+        "Open Source",
+        "AI tools",
+        "ChatGPT Pro"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as an informational update and reference regarding a new industry program for open-source maintainers.",
+      "pacer_reason_zh": "本文主要作為資訊更新與參考，介紹針對開源維護者的新產業補助計畫。"
+    },
     {
       "id": "05f6c25c80ff9d16",
       "title": "Reading List 03/07/2026",
