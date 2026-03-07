@@ -35,7 +35,7 @@ async function fetchFeed(feed, rss_parser) {
 			source: feed.title,
 			source_url: feed.html_url,
 			published: item.isoDate || item.pubDate || new Date().toISOString(),
-			content_snippet: (item.contentSnippet || item.content || '').slice(0, 2000),
+			content_snippet: (item.contentSnippet || item.content || item.summary || '').slice(0, 2000),
 		}))
 	} catch (err) {
 		console.error(`Failed to fetch ${feed.title}: ${err.message}`)
@@ -70,8 +70,11 @@ async function main() {
 		}
 	}
 
-	const new_articles = all_items.filter(item => !existing_ids.has(item.id))
-	console.log(`Found ${new_articles.length} new articles (${all_items.length} total fetched)`)
+	const three_days_ago = Date.now() - 3 * 24 * 3600 * 1000
+	const new_articles = all_items
+		.filter(item => !existing_ids.has(item.id))
+		.filter(item => new Date(item.published).getTime() > three_days_ago)
+	console.log(`Found ${new_articles.length} new articles from last 3 days (${all_items.length} total fetched)`)
 
 	writeFileSync(NEW_ARTICLES_PATH, JSON.stringify({ articles: new_articles }, null, 2))
 	console.log(`Wrote new articles to ${NEW_ARTICLES_PATH}`)

@@ -30,7 +30,7 @@ export function HomePage() {
 		})
 	}, [])
 
-	const seven_days_ago = useMemo(() => Date.now() - 7 * 24 * 3600 * 1000, [])
+	const three_days_ago = useMemo(() => Date.now() - 3 * 24 * 3600 * 1000, [])
 
 	const sources = useMemo(() => {
 		const set = new Set(articles.map(a => a.source))
@@ -39,7 +39,7 @@ export function HomePage() {
 
 	const filtered = useMemo(() => {
 		return articles
-			.filter(a => new Date(a.published).getTime() > seven_days_ago)
+			.filter(a => new Date(a.published).getTime() > three_days_ago)
 			.filter(a => {
 				if (search_query) {
 					const q = search_query.toLowerCase()

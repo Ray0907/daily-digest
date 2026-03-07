@@ -5,7 +5,8 @@ const DATA_DIR = 'data'
 const NEW_ARTICLES_PATH = `${DATA_DIR}/new-articles.json`
 const ARTICLES_PATH = `${DATA_DIR}/articles.json`
 const MODEL_NAME = 'gemini-3.1-flash-lite-preview'
-const RATE_LIMIT_DELAY = 2500
+const RATE_LIMIT_DELAY = 12000
+const BATCH_SIZE = 5
 
 const PROMPT = `You are analyzing a blog post for a reading digest. Given the article title and content snippet, respond with ONLY valid JSON (no markdown fences):
 
@@ -71,42 +72,52 @@ async function main() {
 	const genai = new GoogleGenerativeAI(api_key)
 	const model = genai.getGenerativeModel({ model: MODEL_NAME })
 
-	console.log(`Processing ${new_data.articles.length} new articles...`)
+	console.log(`Processing ${new_data.articles.length} new articles (batch size: ${BATCH_SIZE})...`)
 
 	const processed = []
-	for (const article of new_data.articles) {
-		try {
-			console.log(`  Summarizing: ${article.title}`)
-			const enriched = await summarizeArticle(model, article)
+	for (let i = 0; i < new_data.articles.length; i += BATCH_SIZE) {
+		const batch = new_data.articles.slice(i, i + BATCH_SIZE)
+		console.log(`  Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(new_data.articles.length / BATCH_SIZE)} (${batch.length} articles)`)
 
-			processed.push({
-				id: article.id,
-				title: article.title,
-				url: article.url,
-				source: article.source,
-				source_url: article.source_url,
-				published: article.published,
-				summary_en: enriched.summary_en,
-				summary_zh: enriched.summary_zh,
-				keywords: enriched.keywords,
-				pacer: enriched.pacer,
-				pacer_reason_en: enriched.pacer_reason_en,
-				pacer_reason_zh: enriched.pacer_reason_zh,
+		const results = await Promise.allSettled(
+			batch.map(async (article) => {
+				console.log(`    Summarizing: ${article.title}`)
+				const enriched = await summarizeArticle(model, article)
+				return {
+					id: article.id,
+					title: article.title,
+					url: article.url,
+					source: article.source,
+					source_url: article.source_url,
+					published: article.published,
+					summary_en: enriched.summary_en,
+					summary_zh: enriched.summary_zh,
+					keywords: enriched.keywords,
+					pacer: enriched.pacer,
+					pacer_reason_en: enriched.pacer_reason_en,
+					pacer_reason_zh: enriched.pacer_reason_zh,
+				}
 			})
+		)
 
-			await sleep(RATE_LIMIT_DELAY)
-		} catch (err) {
-			console.error(`  Failed to summarize "${article.title}": ${err.message}`)
-			processed.push({
-				...article,
-				summary_en: '',
-				summary_zh: '',
-				keywords: [],
-				pacer: 'C',
-				pacer_reason_en: 'Classification unavailable',
-				pacer_reason_zh: 'Classification unavailable',
-			})
+		for (let j = 0; j < results.length; j++) {
+			if (results[j].status === 'fulfilled') {
+				processed.push(results[j].value)
+			} else {
+				console.error(`    Failed to summarize "${batch[j].title}": ${results[j].reason?.message}`)
+				processed.push({
+					...batch[j],
+					summary_en: '',
+					summary_zh: '',
+					keywords: [],
+					pacer: 'C',
+					pacer_reason_en: 'Classification unavailable',
+					pacer_reason_zh: 'Classification unavailable',
+				})
+			}
 		}
+
+		await sleep(RATE_LIMIT_DELAY)
 	}
 
 	existing.articles = [...processed, ...existing.articles]
