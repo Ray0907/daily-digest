@@ -35,13 +35,13 @@
 - [x] Verify Phase 5 (build passes)
 
 ## Phase 6: Easter Eggs (Tasks 20-25)
-- [ ] Task 20: Error Dialog
-- [ ] Task 21: Clippy
-- [ ] Task 22: Konami Code Easter Egg
-- [ ] Task 23: Task Manager (Ctrl+Shift+Esc)
-- [ ] Task 24: My Computer
-- [ ] Task 25: Extra Delights (BSOD, Sad Mac, etc.)
-- [ ] Verify Phase 6
+- [x] Task 20: Error Dialog
+- [x] Task 21: Clippy
+- [x] Task 22: Konami Code Easter Egg
+- [x] Task 23: Task Manager (Ctrl+Shift+Esc)
+- [x] Task 24: My Computer
+- [x] Task 25: Extra Delights (BSOD, Sad Mac, etc.)
+- [x] Verify Phase 6 (build passes)
 
 ## Phase 7: Polish (Tasks 26-28)
 - [ ] Task 26: Hourglass / Beach Ball cursor
