@@ -102,7 +102,7 @@ export function HomePage() {
 
 	if (is_loading) {
 		return (
-			<div className="pt-28 max-w-5xl mx-auto px-4 pb-16">
+			<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 					<div className="md:col-span-2"><SkeletonCard size="lg" /></div>
 					<div><SkeletonCard size="md" /></div>
@@ -115,7 +115,7 @@ export function HomePage() {
 	}
 
 	return (
-		<div className="pt-28 max-w-5xl mx-auto px-4 pb-16">
+		<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
 			<FilterBar
 				search_query={search_query}
 				onSearchChange={setSearchQuery}

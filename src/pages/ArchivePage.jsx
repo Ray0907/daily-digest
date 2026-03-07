@@ -1,12 +1,11 @@
-import { useMemo } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useArticles } from '../hooks/useArticles'
 import { ArticleCard } from '../components/ArticleCard'
 import { articleToMarkdown, downloadMarkdown } from '../lib/export'
 
 export function ArchivePage() {
-	const { month } = useParams()
+	const [month, setMonth] = useState(null)
 	const { articles, is_loading } = useArticles()
 	const { t, i18n } = useTranslation()
 
@@ -39,13 +38,13 @@ export function ArchivePage() {
 	}
 
 	if (is_loading) {
-		return <div className="pt-28 max-w-3xl mx-auto px-4 text-text-muted">Loading...</div>
+		return <div className="pt-4 max-w-3xl mx-auto px-4 text-text-muted">Loading...</div>
 	}
 
 	const month_label = new Date(current_month + '-01').toLocaleDateString('en-US', { year: 'numeric', month: 'long' })
 
 	return (
-		<div className="pt-28 max-w-3xl mx-auto px-4 pb-16">
+		<div className="pt-4 max-w-3xl mx-auto px-4 pb-16">
 			<div className="flex items-center justify-between mb-6">
 				<h1 className="font-serif text-2xl font-semibold">
 					{t('archive.title')} - {month_label}
@@ -69,9 +68,9 @@ export function ArchivePage() {
 
 			<div className="flex items-center justify-between">
 				{prev_month ? (
-					<Link to={`/archive/${prev_month}`} className="text-sm text-accent hover:underline cursor-pointer">
+					<button onClick={() => setMonth(prev_month)} className="text-sm text-accent hover:underline cursor-pointer">
 						&larr; {prev_month}
-					</Link>
+					</button>
 				) : <span />}
 
 				<button onClick={handleDownloadMonth} className="text-sm text-accent hover:underline cursor-pointer">
@@ -79,9 +78,9 @@ export function ArchivePage() {
 				</button>
 
 				{next_month ? (
-					<Link to={`/archive/${next_month}`} className="text-sm text-accent hover:underline cursor-pointer">
+					<button onClick={() => setMonth(next_month)} className="text-sm text-accent hover:underline cursor-pointer">
 						{next_month} &rarr;
-					</Link>
+					</button>
 				) : <span />}
 			</div>
 		</div>

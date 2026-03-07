@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useDesktopTheme } from '../../contexts/DesktopThemeContext';
 import { useWindows } from '../../contexts/WindowContext';
+import StartMenu from './StartMenu';
 
 function formatTime(date) {
   const h = date.getHours().toString().padStart(2, '0');
@@ -57,6 +58,7 @@ export default function RetroTaskbar() {
       ))}
 
       <div className="os-clock">{time}</div>
+      <StartMenu visible={showStart} onClose={() => setShowStart(false)} />
     </div>
   );
 }

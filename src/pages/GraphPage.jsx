@@ -167,11 +167,11 @@ export function GraphPage() {
 	}, [filtered, handleNodeClick])
 
 	if (is_loading) {
-		return <div className="pt-28 max-w-5xl mx-auto px-4 text-text-muted">Loading...</div>
+		return <div className="pt-4 max-w-5xl mx-auto px-4 text-text-muted">Loading...</div>
 	}
 
 	return (
-		<div className="pt-28 max-w-5xl mx-auto px-4 pb-16">
+		<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
 			<div className="flex items-center justify-between mb-4">
 				<div>
 					<h1 className="font-serif text-2xl font-semibold">{t('graph.title')}</h1>
@@ -191,7 +191,7 @@ export function GraphPage() {
 				</div>
 			</div>
 
-			<div className="relative bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl overflow-hidden" style={{ height: '560px' }}>
+			<div className="relative bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl overflow-hidden" style={{ height: '420px' }}>
 				<svg ref={svg_ref} className="w-full h-full" />
 
 				{selected_node && (

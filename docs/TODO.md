@@ -16,11 +16,11 @@
 - [x] Verify Phase 2 (build passes)
 
 ## Phase 3: Integration (Tasks 10-13)
-- [ ] Task 10: SettingsWindow + AboutWindow
-- [ ] Task 11: Adapt existing pages for window embedding
-- [ ] Task 12: Rewire App.jsx + ModernLayout
-- [ ] Task 13: i18n + index.html
-- [ ] Verify Phase 3
+- [x] Task 10: SettingsWindow + AboutWindow
+- [x] Task 11: Adapt existing pages for window embedding
+- [x] Task 12: Rewire App.jsx + ModernLayout
+- [x] Task 13: i18n + index.html
+- [x] Verify Phase 3 (build passes)
 
 ## Phase 4: Boot & Shutdown (Tasks 14-15)
 - [ ] Task 14: Boot Screen
