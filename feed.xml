@@ -4,8 +4,149 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 07 Mar 2026 22:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 01:52:17 GMT</lastBuildDate>
     
+    <item>
+      <title>The Neo solves Apple’s embarrassment</title>
+      <link>https://anildash.com/2026/03/08/neo-apple-embarassment/</link>
+      <guid>https://anildash.com/2026/03/08/neo-apple-embarassment/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash argues that the new MacBook Neo is primarily a branding solution rather than a technical breakthrough. By offering a modern-looking entry-level device, Apple avoids the brand embarrassment of selling older, discounted hardware through mass-market retailers while maintaining market competitiveness.</description>
+    </item>
+
+    <item>
+      <title>Paywalls For Minimalists</title>
+      <link>https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea</link>
+      <guid>https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea</guid>
+      <pubDate>Sun, 08 Mar 2026 13:20:05 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the challenges of implementing independent paywalls to reduce reliance on major creator platforms like Substack. The author proposes using creator-focused tipping tools like Ko-Fi as a simple, low-overhead alternative for managing memberships on static websites.</description>
+    </item>
+
+    <item>
+      <title>If It Quacks Like a Package Manager</title>
+      <link>https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</link>
+      <guid>https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</guid>
+      <pubDate>Sun, 08 Mar 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author argues that many modern tools, such as GitHub Actions, have evolved into de facto package managers by incorporating transitive dependency trees. However, these tools often lack essential safety features like lockfiles, integrity verification, and constraint solving, leaving them vulnerable to security risks.</description>
+    </item>
+
+    <item>
+      <title>The Noble Path</title>
+      <link>https://www.joanwestenberg.com/the-noble-path/</link>
+      <guid>https://www.joanwestenberg.com/the-noble-path/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:56:18 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This post critiques the current trend of indie hackers rushing to commercialize every side project or tool into a SaaS business. It explores the pressure to monetize technical hacks and questions the sustainability of this 'startup-first' mindset.</description>
+    </item>
+
+    <item>
+      <title>Introducing llm-eliza</title>
+      <link>https://evanhahn.com/llm-eliza/</link>
+      <guid>https://evanhahn.com/llm-eliza/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>The author has released a new plugin called llm-eliza that integrates the classic 1966 ELIZA chatbot into the popular LLM command-line tool. The post provides simple installation and usage instructions for users to interact with this vintage model directly from their terminal.</description>
+    </item>
+
+    <item>
+      <title>How much certainty is worthwhile?</title>
+      <link>https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/</link>
+      <guid>https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/</guid>
+      <pubDate>Sun, 08 Mar 2026 18:09:48 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author reflects on the iterative process of correcting errors in mathematical tables, such as those for trigonometric and hyperbolic functions. The post explores the concept of 'sufficient certainty' in technical work, emphasizing that perfection is often less valuable than progress.</description>
+    </item>
+
+    <item>
+      <title>Vibe Coding Trip Report: Making a sponsor panel</title>
+      <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
+      <guid>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The author documents a 'vibe coding' experiment to quickly build a sponsor panel before a scheduled surgery. The post highlights the pragmatic, rapid development approach used to ship the feature under a tight deadline.</description>
+    </item>
+
+    <item>
+      <title>What's the source of Einstein's &quot;citizen of the world&quot; quip?</title>
+      <link>https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/</link>
+      <guid>https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/</guid>
+      <pubDate>Sun, 08 Mar 2026 12:34:03 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author investigates the origin of a famous Albert Einstein quote regarding his nationality and the success of his theories. Through archival research, the post verifies the attribution and context of this well-known, often misquoted remark.</description>
+    </item>
+
+    <item>
+      <title>
+GNU and the AI reimplementations
+</title>
+      <link>
+http://antirez.com/news/162
+</link>
+      <guid>
+http://antirez.com/news/162
+</guid>
+      <pubDate>Sun, 08 Mar 2026 16:08:41 GMT</pubDate>
+      <source url="http://antirez.com/"></source>
+      <description>The article discusses the ethical and legal parallels between modern AI-driven code reimplementations and the historical development of the GNU project. It highlights Richard Stallman's strategy of ensuring functional equivalence while adding unique features to protect against copyright litigation, contrasting this with current debates surrounding AI software generation.</description>
+    </item>
+
+    <item>
+      <title>Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?</title>
+      <link>https://simonwillison.net/2026/Mar/5/chardet/</link>
+      <guid>https://simonwillison.net/2026/Mar/5/chardet/</guid>
+      <pubDate>Sun, 08 Mar 2026 17:59:09 GMT</pubDate>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <description>The chardet Python library faces a legal and ethical dispute after its maintainer released a ground-up MIT-licensed rewrite. The original author, Mark Pilgrim, has publicly challenged the new maintainer's right to relicense the project, highlighting the complexities of using AI and clean-room implementations to change open source licensing.</description>
+    </item>
+
+    <item>
+      <title>Donald Knuth on Claude Opus Solving a Computer Science Problem</title>
+      <link>https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</link>
+      <guid>https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</guid>
+      <pubDate>Sun, 08 Mar 2026 17:49:08 GMT</pubDate>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <description>Legendary computer scientist Donald Knuth recounts his surprise after learning that the Claude Opus AI model successfully solved an open problem he had been researching for weeks. Knuth expresses admiration for this advancement in automated reasoning and creative problem-solving.</description>
+    </item>
+
+    <item>
+      <title>Steve Lemay Hits Apple’s Leadership Page</title>
+      <link>https://www.apple.com/leadership/steve-lemay/</link>
+      <guid>https://www.apple.com/leadership/steve-lemay/</guid>
+      <pubDate>Sun, 08 Mar 2026 15:28:36 GMT</pubDate>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <description>John Gruber notes that Steve Lemay has been added to Apple's leadership webpage. Additionally, the post highlights that executive Eddy Cue has updated his official headshot.</description>
+    </item>
+
+    <item>
+      <title>‘npx workos’</title>
+      <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
+      <guid>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
+      <pubDate>Sat, 07 Mar 2026 21:53:37 GMT</pubDate>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <description>WorkOS has introduced a CLI tool called 'npx workos' that uses an AI agent powered by Claude to automatically integrate authentication into existing codebases. The tool analyzes the project's framework, writes the necessary integration, and performs self-correcting builds to ensure the code functions correctly.</description>
+    </item>
+
+    <item>
+      <title>How AI Assistants are Moving the Security Goalposts</title>
+      <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
+      <guid>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:35:42 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>AI-based autonomous agents are becoming essential tools for IT professionals but are simultaneously creating significant security challenges. These programs blur the traditional boundaries between trusted users and potential insider threats, forcing organizations to rethink their security frameworks.</description>
+    </item>
+
+    <item>
+      <title>Quoting Joseph Weizenbaum</title>
+      <link>https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</guid>
+      <pubDate>Sun, 08 Mar 2026 14:59:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a historical observation by Joseph Weizenbaum, the creator of ELIZA, regarding how simple computer programs can induce delusional thinking in humans. It serves as a reminder of the long-standing psychological impact of AI, even from its earliest developments.</description>
+    </item>
+
     <item>
       <title>Is the AI Compute Crunch Here?</title>
       <link>https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -769,141 +910,6 @@
       <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
       <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
       <description>This essay explores the psychological origins of internet hostility and 'haters.' Paul Graham analyzes why certain individuals feel compelled to express negativity and how creators should process such criticism.</description>
-    </item>
-
-    <item>
-      <title>The Two Kinds of Moderate</title>
-      <link>http://www.paulgraham.com/mod.html</link>
-      <guid>http://www.paulgraham.com/mod.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the distinction between two types of moderation: one rooted in genuine balance and another acting as a cover for cowardice or lack of conviction. Paul Graham analyzes how these distinct motivations shape decision-making and public perception.</description>
-    </item>
-
-    <item>
-      <title>Fashionable Problems</title>
-      <link>http://www.paulgraham.com/fp.html</link>
-      <guid>http://www.paulgraham.com/fp.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the nature of 'fashionable' problems in intellectual and creative fields. It argues that smart people often gravitate toward trends rather than fundamental questions, leading to a misallocation of talent and effort.</description>
-    </item>
-
-    <item>
-      <title>Having Kids</title>
-      <link>http://www.paulgraham.com/kids.html</link>
-      <guid>http://www.paulgraham.com/kids.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the motivations, challenges, and profound impact of raising children. The essay reflects on the shift in personal perspective and the long-term commitment required for parenthood.</description>
-    </item>
-
-    <item>
-      <title>The Lesson to Unlearn</title>
-      <link>http://www.paulgraham.com/lesson.html</link>
-      <guid>http://www.paulgraham.com/lesson.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the necessity of unlearning outdated habits and beliefs to foster intellectual growth. Graham argues that breaking free from established patterns is crucial for achieving original insight.</description>
-    </item>
-
-    <item>
-      <title>Novelty and Heresy</title>
-      <link>http://www.paulgraham.com/nov.html</link>
-      <guid>http://www.paulgraham.com/nov.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the historical resistance to new and unconventional ideas, framing them as 'heresies.' It examines how society often penalizes intellectual novelty before eventually accepting these ideas as foundational truths.</description>
-    </item>
-
-    <item>
-      <title>The Bus Ticket Theory of Genius</title>
-      <link>http://www.paulgraham.com/genius.html</link>
-      <guid>http://www.paulgraham.com/genius.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the 'Bus Ticket Theory of Genius,' which posits that exceptional achievement often results from intense, singular obsession rather than purely innate intelligence. He suggests that what appears to be genius is frequently just the byproduct of extreme focus on a specific interest.</description>
-    </item>
-
-    <item>
-      <title>General and Surprising</title>
-      <link>http://www.paulgraham.com/sun.html</link>
-      <guid>http://www.paulgraham.com/sun.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay by Paul Graham explores the intersection of generality and surprise in the context of ideas and intellectual discovery. It examines how the most profound insights often emerge from unexpected connections across different disciplines.</description>
-    </item>
-
-    <item>
-      <title>Charisma / Power</title>
-      <link>http://www.paulgraham.com/pow.html</link>
-      <guid>http://www.paulgraham.com/pow.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the distinction between charisma and power, examining how these traits manifest in leadership and social dynamics. Paul Graham analyzes how these forces influence human behavior and interpersonal relationships.</description>
-    </item>
-
-    <item>
-      <title>The Risk of Discovery</title>
-      <link>http://www.paulgraham.com/disc.html</link>
-      <guid>http://www.paulgraham.com/disc.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the inherent dangers and complexities involved in the process of scientific and intellectual discovery. It discusses how the pursuit of new knowledge often requires navigating significant risks and unforeseen consequences.</description>
-    </item>
-
-    <item>
-      <title>How to Make Pittsburgh a Startup Hub</title>
-      <link>http://www.paulgraham.com/pgh.html</link>
-      <guid>http://www.paulgraham.com/pgh.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>In this essay, Paul Graham explores the structural and cultural factors required to transform Pittsburgh into a successful technology startup hub. He argues that attracting talented people and fostering a collaborative environment are more critical than traditional economic incentives.</description>
-    </item>
-
-    <item>
-      <title>Life is Short</title>
-      <link>http://www.paulgraham.com/vb.html</link>
-      <guid>http://www.paulgraham.com/vb.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay reflects on the finite nature of time and the importance of focusing on meaningful pursuits. Paul Graham encourages readers to prioritize long-term fulfillment over trivial distractions.</description>
-    </item>
-
-    <item>
-      <title>Economic Inequality</title>
-      <link>http://www.paulgraham.com/ineq.html</link>
-      <guid>http://www.paulgraham.com/ineq.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the historical origins and mechanisms of economic inequality in society. Paul Graham analyzes how wealth accumulation relates to individual capability and market dynamics rather than just systemic barriers.</description>
-    </item>
-
-    <item>
-      <title>The Refragmentation</title>
-      <link>http://www.paulgraham.com/re.html</link>
-      <guid>http://www.paulgraham.com/re.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the historical cycle of computing moving between periods of fragmentation and integration. Paul Graham examines how software and hardware ecosystems shift, suggesting that the industry is currently moving toward a new phase of refragmentation.</description>
-    </item>
-
-    <item>
-      <title>Jessica Livingston</title>
-      <link>http://www.paulgraham.com/jessica.html</link>
-      <guid>http://www.paulgraham.com/jessica.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the professional journey and influence of Jessica Livingston, a founding partner of Y Combinator. It highlights her instrumental role in shaping the startup incubator's culture and success.</description>
-    </item>
-
-    <item>
-      <title>A Way to Detect Bias</title>
-      <link>http://www.paulgraham.com/bias.html</link>
-      <guid>http://www.paulgraham.com/bias.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores methodologies for identifying and mitigating cognitive bias in personal reasoning and objective decision-making. It emphasizes the importance of intellectual humility and structural skepticism when evaluating one's own assumptions.</description>
     </item>
   </channel>
 </rss>
