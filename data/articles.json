@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-03-09T01:52:17.019Z",
+  "last_updated": "2026-03-09T22:04:47.493Z",
   "articles": [
+    {
+      "id": "a1dd9f79317e669c",
+      "title": "I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either",
+      "url": "https://aresluna.org/fn",
+      "source": "Aresluna",
+      "source_url": "https://www.aresluna.org/",
+      "published": "2026-03-09T16:22:40.000Z",
+      "summary_en": "This article explores the historical evolution and current design ambiguity of the Fn/Globe key on Apple keyboards. It questions the rationale behind Apple's inconsistent implementation and changing functionality of this modifier key over time.",
+      "summary_zh": "本文探討了 Apple 鍵盤上 Fn/Globe 鍵的歷史演變及其設計上的模糊性。作者質疑 Apple 對該功能鍵隨時間推移而不斷變動且缺乏一致性的邏輯與設計決策。",
+      "keywords": [
+        "Apple",
+        "Keyboard",
+        "Fn Key",
+        "Globe Key",
+        "UI Design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual analysis discussing the design intent and functional evolution of a specific hardware interface.",
+      "pacer_reason_zh": "本文屬於概念性分析，旨在探討特定硬體介面的設計意圖與功能演變。"
+    },
+    {
+      "id": "4e1e7d750585a978",
+      "title": "Two of My Favorite Things Together at Last: Pies and Subdomains",
+      "url": "https://blog.jim-nielsen.com/2026/pies-and-subdomains/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-03-08T19:00:00.000Z",
+      "summary_en": "The author created a dedicated subdomain to archive their personal pie photography after moving away from Instagram. By using Instagram's data export tool and a custom Origami script, they automated the process of extracting photos and captions to build a static site.",
+      "summary_zh": "作者為了擺脫對 Instagram 的依賴，建立了一個專屬子網域來保存他的派攝影作品。透過 Instagram 的資料匯出工具與自訂的 Origami 腳本，作者自動化處理照片與說明文字，並產生了一個靜態網站。",
+      "keywords": [
+        "web development",
+        "archiving",
+        "Instagram",
+        "static site generator",
+        "data export"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains the technical process of building a personal archive site, effectively serving as a guide on how to extract and repurpose social media data.",
+      "pacer_reason_zh": "本文詳細說明了建置個人封存網站的技術過程，實質上是一份關於如何匯出與重新利用社群媒體資料的操作指南。"
+    },
+    {
+      "id": "11274f64e6207213",
+      "title": "100 Posts",
+      "url": "https://nesbitt.io/2026/03/09/100-posts.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-09T10:00:00.000Z",
+      "summary_en": "Andrew Nesbitt reflects on reaching his 100th blog post, an achievement spurred by frustration over inadequate documentation in package management. The post provides an overview of his writing journey and highlights several of his most impactful articles on technical infrastructure and open source ecosystems.",
+      "summary_zh": "Andrew Nesbitt 回顧了達成 100 篇部落格文章的歷程，這源於他對套件管理領域缺乏完善文件的不滿。本文總結了他的創作心路歷程，並精選了多篇關於技術架構與開源生態系統的代表性文章。",
+      "keywords": [
+        "blogging",
+        "package-management",
+        "open-source",
+        "software-engineering",
+        "technical-writing"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a meta-reference or index for the author's body of work, collecting and highlighting key posts.",
+      "pacer_reason_zh": "本文主要作為作者文章集的參考索引，整理並強調了其過去的重點內容。"
+    },
+    {
+      "id": "993d128ce1440f1f",
+      "title": "The fine print giveth and the bold print taketh away: The countdown timer",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-09T14:00:01.000Z",
+      "summary_en": "This post discusses the nuances of user interface design regarding countdown timers. It highlights how prominent display elements can sometimes be misleading compared to the finer details of how these timers function.",
+      "summary_zh": "這篇文章探討了倒數計時器在使用者介面設計中的細微差別。文章指出，顯眼的顯示元素有時可能會與計時器實際運作的細節產生誤導性的落差。",
+      "keywords": [
+        "UI design",
+        "countdown timer",
+        "user interface",
+        "usability",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual exploration of design patterns and the potential disconnect between visual emphasis and functional reality.",
+      "pacer_reason_zh": "該文章對設計模式進行了概念性探討，分析了視覺強調與實際功能運作之間可能存在的脫節。"
+    },
+    {
+      "id": "39d9ba2dacb1e0d4",
+      "title": "Learning to read C++ compiler errors: Ambiguous overloaded operator",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-09T14:00:00.000Z",
+      "summary_en": "This post provides a brief guide on how to interpret ambiguous overloaded operator errors in C++. It suggests identifying the locations of conflicting definitions to resolve compilation issues.",
+      "summary_zh": "這篇文章簡要說明了如何解讀 C++ 中運算子多載模稜兩可的編譯錯誤。建議開發者找出衝突定義的來源位置，以解決編譯問題。",
+      "keywords": [
+        "C++",
+        "compiler errors",
+        "overloaded operator",
+        "debugging",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a targeted instructional tip for troubleshooting a specific C++ compiler error.",
+      "pacer_reason_zh": "這篇文章提供了針對特定 C++ 編譯錯誤的除錯教學與實用建議。"
+    },
+    {
+      "id": "b95544e4c6423339",
+      "title": "Some Thorns Have Roses",
+      "url": "https://xeiaso.net/blog/2026/some-thorns-have-roses/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-03-08T00:00:00.000Z",
+      "summary_en": "This piece reflects on the unexpected positive outcomes that emerged from the author's journey through recovery. It explores the idea that personal growth can often arrive in forms we did not anticipate or seek.",
+      "summary_zh": "這篇文章反思了作者在復原過程中獲得的一些意想不到的正面轉變。內容探討了個人成長往往會以我們未曾預料或尋求的形式出現。",
+      "keywords": [
+        "recovery",
+        "personal growth",
+        "reflection",
+        "well-being",
+        "mental health"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on personal experience and the abstract nature of recovery.",
+      "pacer_reason_zh": "本文是對個人經驗的觀念性反思，探討了復原過程的抽象本質。"
+    },
+    {
+      "id": "adbb736a9a8d32b3",
+      "title": "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-09T12:34:47.000Z",
+      "summary_en": "This blog post reviews the science fiction novel 'There Is No Antimemetics Division' by qntm, playing on the book's core premise of self-erasing information. The author reflects on the surreal, mind-bending nature of the narrative, which centers on an organization that humans cannot remember or perceive.",
+      "summary_zh": "這篇部落格文章評論了 qntm 所著的科幻小說《There Is No Antimemetics Division》，並巧妙呼應了書中關於資訊自我抹除的核心概念。作者反思了該小說極具超現實感與燒腦的敘事風格，故事圍繞著一個人類無法記憶或感知其存在的組織展開。",
+      "keywords": [
+        "Book Review",
+        "Science Fiction",
+        "qntm",
+        "Antimemetics",
+        "Literature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview and reflection on a work of fiction and its themes.",
+      "pacer_reason_zh": "該文章針對虛構作品及其主題提供了概念性的概述與反思。"
+    },
+    {
+      "id": "f4b3c1858f1e104e",
+      "title": "Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/09/autocrats-of-trade-2/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-09T16:46:33.000Z",
+      "summary_en": "Cory Doctorow argues that billionaire influence is uniquely dangerous because their personal misguided beliefs can be scaled into widespread policy failures. Using the historical example of Henry Ford's disastrous 'Fordlandia' project, he illustrates how elite hubris imposes immense suffering on others.",
+      "summary_zh": "Cory Doctorow 論證了億萬富翁的影響力具有獨特的危險性，因為他們個人的錯誤觀念可能會轉化為大規模的政策失敗。透過亨利·福特「福特蘭」計畫的歷史案例，作者展示了精英階層的傲慢如何給他人帶來巨大的痛苦。",
+      "keywords": [
+        "billionaires",
+        "policy",
+        "history",
+        "hubris",
+        "Cory Doctorow"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a specific historical analogy (Fordlandia) to illustrate a broader critique of billionaire influence and power dynamics.",
+      "pacer_reason_zh": "文章使用了具體的歷史類比（福特蘭計畫）來闡述對億萬富翁影響力及權力結構的廣泛批判。"
+    },
+    {
+      "id": "2bab1888ee1b14ef",
+      "title": "Why Am I Paranoid, You Say? ",
+      "url": "https://idiallo.com/blog/why-am-i-paranoid?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-09T12:00:00.000Z",
+      "summary_en": "The author explores the tension between enjoying modern technological conveniences and the privacy risks posed by data-hungry corporations. They highlight how pervasive terms of service and data collection requirements force them to reject many popular features to maintain control over their personal information.",
+      "summary_zh": "作者探討了享受現代科技便利與數據導向企業所帶來的隱私風險之間的矛盾。作者指出，為了維護個人隱私的自主權，他們被迫拒絕了許多熱門的科技功能，因為這些功能往往伴隨著繁瑣的服務條款與數據搜集要求。",
+      "keywords": [
+        "privacy",
+        "surveillance",
+        "technology",
+        "data-collection",
+        "digital-rights"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of the philosophical and practical challenges regarding user privacy in the modern age of corporate-driven technology.",
+      "pacer_reason_zh": "本文針對現代企業主導的科技環境下，使用者隱私所面臨的哲學與實務挑戰，進行了概念性的探討。"
+    },
+    {
+      "id": "94bc9eb52c8a60d1",
+      "title": "★ The iPhone 17e",
+      "url": "https://daringfireball.net/2026/03/the_iphone_17e",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-09T21:57:35.000Z",
+      "summary_en": "The author reviews the iPhone 17e, describing it as an ideal 'speed bump' update that improves key components while keeping the familiar hardware design. The review highlights the addition of MagSafe as a critical improvement over the previous 16e model, addressing the most significant shortcoming noted by users.",
+      "summary_zh": "作者評測了 iPhone 17e，將其形容為完美的「效能提升版」（speed bump）更新，在保持原有硬體設計的同時優化了關鍵組件。評測強調了 MagSafe 的加入是一項關鍵改進，解決了前一代 16e 最受詬病的缺點。",
+      "keywords": [
+        "iPhone 17e",
+        "Apple",
+        "speed bump",
+        "MagSafe",
+        "hardware review"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a product review based on the author's hands-on experience and testing of the device.",
+      "pacer_reason_zh": "本文基於作者對該設備的實際測試與使用體驗，屬於產品評測類內容。"
+    },
+    {
+      "id": "e68cbfae1ffad503",
+      "title": "MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
+      "url": "https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-09T19:37:58.000Z",
+      "summary_en": "Apple has released new 'MacBook Neo' wallpapers in the macOS Tahoe 26.4 beta, featuring vibrant, bubble-style gradient designs. These wallpapers creatively spell out the word 'Mac' in various colors, including purple, blue, pink, and yellow.",
+      "summary_zh": "Apple 在 macOS Tahoe 26.4 測試版中推出了全新的「MacBook Neo」桌布，採用色彩繽紛的氣泡風格漸層設計。這些桌布以巧妙的方式將「Mac」字樣融入圖案中，並提供紫色、藍色、粉紅色及黃色等多種選擇。",
+      "keywords": [
+        "macOS Tahoe",
+        "Wallpapers",
+        "Apple",
+        "Design",
+        "Beta"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a reference-style announcement providing information about new digital assets available for users.",
+      "pacer_reason_zh": "這是一則參考性質的公告，旨在提供關於用戶可用之新數位資產的資訊。"
+    },
+    {
+      "id": "ce65b3336d9016b1",
+      "title": "Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-09T14:16:19.000Z",
+      "summary_en": "A report reveals that low-wage contractors in Kenya are reviewing sensitive footage captured by Meta’s AI smart glasses. Workers describe seeing private moments, including bathroom use and sexual activity, raising significant privacy and security concerns regarding Meta's data handling practices.",
+      "summary_zh": "一份調查報告揭露，肯亞的低薪承包商正在審查 Meta AI 智慧眼鏡所拍攝的敏感影像。員工描述他們看到了包括如廁、更衣及性行為在內的隱私片段，引發了外界對於 Meta 資料處理流程與隱私安全的高度擔憂。",
+      "keywords": [
+        "Meta",
+        "AI Smart Glasses",
+        "Data Privacy",
+        "Kenya",
+        "Contractors"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents investigative reporting and evidence regarding the operational practices and privacy implications of Meta's data processing.",
+      "pacer_reason_zh": "本文提供了關於 Meta 資料處理運作實務及其隱私影響的調查報導與證據。"
+    },
+    {
+      "id": "69cac090065676a9",
+      "title": "Production query plans without production data",
+      "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-09T15:05:15.000Z",
+      "summary_en": "PostgreSQL 18 introduced new functions to export and import table statistics, enabling developers to simulate production query plans without migrating sensitive or bulky production data. This allows for accurate query performance analysis in development environments using tiny, lightweight statistics files.",
+      "summary_zh": "PostgreSQL 18 引入了新的統計資訊匯出與匯入功能，讓開發者無需遷移龐大的生產環境資料，即可在開發環境中模擬生產環境的查詢計畫。這項功能只需極小的檔案大小，即可精確分析複雜查詢在生產環境下的效能表現。",
+      "keywords": [
+        "PostgreSQL",
+        "database",
+        "query planner",
+        "statistics",
+        "performance"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a specific technical process for importing statistics to simulate query plans, functioning as a practical guide for database developers.",
+      "pacer_reason_zh": "本文介紹了一種導入統計資訊以模擬查詢計畫的具體技術流程，適合作為資料庫開發者的實作指南。"
+    },
+    {
+      "id": "56ec0c567c6500a2",
+      "title": "Perhaps not Boring Technology after all",
+      "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-09T13:37:45.000Z",
+      "summary_en": "Simon Willison argues that modern coding agents are effectively overcoming the bias of LLMs toward popular technologies. By leveraging large context windows to ingest documentation and existing codebases, these agents can successfully utilize new or niche tools, challenging the idea that AI inevitably favors established 'boring' technology.",
+      "summary_zh": "Simon Willison 指出，現代程式設計代理程式（coding agents）能有效克服大型語言模型對於主流技術的偏見。透過長上下文視窗讀取說明文件與現有程式碼庫，這些代理程式即使在面對新興或冷門工具時也能運作良好，推翻了 AI 必然導致技術選擇趨於保守的觀點。",
+      "keywords": [
+        "LLMs",
+        "coding agents",
+        "programming",
+        "technology choice",
+        "context window"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on the author's direct experience and observations while using coding agents with new, proprietary tools.",
+      "pacer_reason_zh": "本文基於作者在使用程式設計代理程式搭配新興或私人工具時的實際經驗與觀察。"
+    },
     {
       "id": "edb55d0f010d3f1a",
       "title": "The Neo solves Apple’s embarrassment",
