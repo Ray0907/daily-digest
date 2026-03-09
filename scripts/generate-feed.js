@@ -7,6 +7,7 @@ const FEED_TITLE = 'Daily Digest'
 const FEED_DESCRIPTION = "Curated tech blog summaries, inspired by Andrej Karpathy's reading list"
 
 function escapeXml(str) {
+	if (!str) return ''
 	return str
 		.replace(/&/g, '&amp;')
 		.replace(/</g, '&lt;')
