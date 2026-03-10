@@ -4,8 +4,134 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 22:03:44 GMT</lastBuildDate>
     
+    <item>
+      <title>No, it doesn't cost Anthropic $5k per Claude Code user</title>
+      <link>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article debunks the viral claim that Anthropic loses $5,000 per Claude Code subscriber. The author performs a factual analysis to demonstrate why such high-cost estimates are inaccurate.</description>
+    </item>
+
+    <item>
+      <title>Weekly Update 494</title>
+      <link>https://www.troyhunt.com/weekly-update-494/</link>
+      <guid>https://www.troyhunt.com/weekly-update-494/</guid>
+      <pubDate>Tue, 10 Mar 2026 01:29:35 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt reflects on the increasing frequency of data breaches processed by 'Have I Been Pwned' over the past twelve years. The post highlights a recent surge in activity, noting that five breaches were added in just two days.</description>
+    </item>
+
+    <item>
+      <title>LLMs are bad at vibing specifications</title>
+      <link>https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:12:30 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author examines how AI models perform when writing formal specifications like TLA+ and Alloy. Using a case study, the article demonstrates that LLMs often produce syntactically incorrect or logically suboptimal code, suggesting they cannot effectively 'vibe' formal methods without expert oversight.</description>
+    </item>
+
+    <item>
+      <title>Rebasing in Magit</title>
+      <link>https://entropicthoughts.com/rebasing-in-magit</link>
+      <guid>https://entropicthoughts.com/rebasing-in-magit</guid>
+      <pubDate>Mon, 09 Mar 2026 23:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article explains the process of performing a rebase operation using Magit, the Emacs interface for Git. It provides a technical walkthrough on how to streamline Git workflows within the editor.</description>
+    </item>
+
+    <item>
+      <title>HN Skins 0.4.0 - Black Bar Updates</title>
+      <link>https://susam.net/code/news/hnskins/0.4.0.html</link>
+      <guid>https://susam.net/code/news/hnskins/0.4.0.html</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>HN Skins 0.4.0 is a minor update for the Hacker News browser userscript that ensures the commemorative black bar remains visible across various themes. The update specifically adjusts the contrast for dark-themed skins to ensure the tribute remains conspicuous.</description>
+    </item>
+
+    <item>
+      <title>Just Use Postgres</title>
+      <link>https://nesbitt.io/2026/03/10/just-use-postgres.html</link>
+      <guid>https://nesbitt.io/2026/03/10/just-use-postgres.html</guid>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author introduces omni_git, a Postgres extension that enables the database to function as a self-contained Git server and deployment platform. By implementing the smart HTTP protocol directly in SQL, the system allows users to push code or SQL files directly to Postgres, which then manages hosting, building, and serving traffic without external tools.</description>
+    </item>
+
+    <item>
+      <title>Simplifying expressions in SymPy</title>
+      <link>https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/</link>
+      <guid>https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:08:15 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores how the Python library SymPy handles the simplification of mathematical expressions. It serves as an analogy to a previous discussion on Mathematica, demonstrating how symbolic computation libraries approach complex algebraic identities.</description>
+    </item>
+
+    <item>
+      <title>sinh( arccosh(x) )</title>
+      <link>https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/</link>
+      <guid>https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:12:03 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the mathematical evaluation of hyperbolic functions, specifically focusing on the composition of sinh and arccosh. The author reflects on common errors when combining these functions and initiates a deeper dive into their identities.</description>
+    </item>
+
+    <item>
+      <title>Trig composition table</title>
+      <link>https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</link>
+      <guid>https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</guid>
+      <pubDate>Mon, 09 Mar 2026 22:16:09 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post presents a reference table for trigonometric compositions, noting that extended tables can be created by including reciprocal functions. It serves as a concise lookup resource for mathematical relationships between trigonometric functions and their inverses.</description>
+    </item>
+
+    <item>
+      <title>A snappy answer when asked about dressing casually at IBM</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131</guid>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post recounts a brief, humorous anecdote regarding a quick, witty response given when questioned about the casual dress code at IBM. It highlights the culture of the company through a lighthearted social interaction.</description>
+    </item>
+
+    <item>
+      <title>Unstructured Data and the Joy of having Something Else think for you</title>
+      <link>https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/</link>
+      <guid>https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/</guid>
+      <pubDate>Tue, 10 Mar 2026 12:34:59 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post explores the growing human tendency to rely on AI for simple tasks, even when more efficient tools are available. The author reflects on whether this behavior signifies useful automation or a diminishing reliance on human cognitive effort.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Ad-tech is fascist tech (10 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/10/ice-tech/</link>
+      <guid>https://pluralistic.net/2026/03/10/ice-tech/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:23:43 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that surveillance-based advertising is a deliberate policy choice rather than an inevitability, driven by the belief that illegal data collection would remain unpunished. He links this behavior to his 'enshittification' hypothesis, noting that companies choose invasive practices because they gamble that the legal risks are lower than the potential profits.</description>
+    </item>
+
+    <item>
+      <title>I'm Not Lying, I'm Hallucinating </title>
+      <link>https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</link>
+      <guid>https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</guid>
+      <pubDate>Tue, 10 Mar 2026 20:43:30 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The article explores the evolution of the term 'hallucination' in the context of large language models, contrasting its origins with current usage. It argues that framing AI errors as 'hallucinations' rather than falsehoods shifts accountability, and suggests that models should be trained to admit ignorance instead.</description>
+    </item>
+
+    <item>
+      <title>[Sponsor] Finalist</title>
+      <link>https://www.finalist.works/finalist-36/</link>
+      <guid>https://www.finalist.works/finalist-36/</guid>
+      <pubDate>Mon, 09 Mar 2026 22:44:03 GMT</pubDate>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <description>Finalist is an iOS and macOS productivity application that integrates calendars, reminders, and health data into a single day planner. The latest update introduces new features such as subtasks, HealthKit integration, and a spoken daily briefing.</description>
+    </item>
+
     <item>
       <title>I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either</title>
       <link>https://aresluna.org/fn</link>
@@ -784,132 +910,6 @@ http://antirez.com/news/162
       <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
       <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
       <description>Paul Graham explores the intersection of intellectual curiosity and the pursuit of objective truth. He discusses how maintaining an unconventional perspective often requires resisting societal pressures that favor conformity over discovery.</description>
-    </item>
-
-    <item>
-      <title>What I've Learned from Users</title>
-      <link>http://www.paulgraham.com/users.html</link>
-      <guid>http://www.paulgraham.com/users.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the insights gained from direct interaction with product users, emphasizing how their feedback informs development. It highlights the iterative process of understanding user needs to refine product design effectively.</description>
-    </item>
-
-    <item>
-      <title>Heresy</title>
-      <link>http://www.paulgraham.com/heresy.html</link>
-      <guid>http://www.paulgraham.com/heresy.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay by Paul Graham explores the nature of heresy and the importance of intellectual independence. It argues that maintaining the ability to question prevailing orthodoxies is essential for innovation and personal integrity.</description>
-    </item>
-
-    <item>
-      <title>Putting Ideas into Words</title>
-      <link>http://www.paulgraham.com/words.html</link>
-      <guid>http://www.paulgraham.com/words.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the essential connection between writing and clear thinking. Paul Graham argues that the process of writing is not just a way to express ideas, but a vital tool for discovering and refining them.</description>
-    </item>
-
-    <item>
-      <title>Is There Such a Thing as Good Taste?</title>
-      <link>http://www.paulgraham.com/goodtaste.html</link>
-      <guid>http://www.paulgraham.com/goodtaste.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the elusive nature of 'good taste,' arguing that it is not merely subjective but a reflection of the ability to discern quality through practice and exposure. Paul Graham suggests that developing taste requires engaging with great works and cultivating an environment that favors excellence over trends.</description>
-    </item>
-
-    <item>
-      <title>Beyond Smart</title>
-      <link>http://www.paulgraham.com/smart.html</link>
-      <guid>http://www.paulgraham.com/smart.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the intellectual characteristics and depth required to move beyond mere cleverness. It examines the nature of true insight and the qualities that distinguish exceptional thinkers.</description>
-    </item>
-
-    <item>
-      <title>Weird Languages</title>
-      <link>http://www.paulgraham.com/weird.html</link>
-      <guid>http://www.paulgraham.com/weird.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the characteristics of 'weird' programming languages, examining how unconventional designs can offer unique insights into computer science. He discusses the trade-offs between mainstream languages and those that challenge traditional programming paradigms.</description>
-    </item>
-
-    <item>
-      <title>How to Work Hard</title>
-      <link>http://www.paulgraham.com/hwh.html</link>
-      <guid>http://www.paulgraham.com/hwh.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the inherent necessity of hard work in achieving excellence, arguing that top-tier results require a combination of intrinsic passion and sustained effort. He emphasizes that meaningful work is not merely a chore but a selective pursuit of difficult, high-impact problems.</description>
-    </item>
-
-    <item>
-      <title>A Project of One's Own</title>
-      <link>http://www.paulgraham.com/own.html</link>
-      <guid>http://www.paulgraham.com/own.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the psychological and professional importance of individuals pursuing personal projects. Graham argues that self-directed work is essential for creativity, fulfillment, and long-term success.</description>
-    </item>
-
-    <item>
-      <title>Fierce Nerds</title>
-      <link>http://www.paulgraham.com/fn.html</link>
-      <guid>http://www.paulgraham.com/fn.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the intense intellectual curiosity and unique problem-solving capabilities of individuals categorized as 'nerds.' Paul Graham examines how such individuals thrive in environments that value deep work and unconventional thinking.</description>
-    </item>
-
-    <item>
-      <title>Crazy New Ideas</title>
-      <link>http://www.paulgraham.com/newideas.html</link>
-      <guid>http://www.paulgraham.com/newideas.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the nature of unconventional thinking and how breakthrough ideas are often initially perceived as absurd or incorrect. It highlights the importance of maintaining an open mind toward radical proposals to foster innovation.</description>
-    </item>
-
-    <item>
-      <title>An NFT That Saves Lives</title>
-      <link>http://www.paulgraham.com/nft.html</link>
-      <guid>http://www.paulgraham.com/nft.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the intersection of non-fungible tokens and charitable giving, discussing how digital assets can be leveraged for humanitarian impact. He examines the novel ways creators and donors use blockchain technology to facilitate life-saving interventions.</description>
-    </item>
-
-    <item>
-      <title>The Real Reason to End the Death Penalty</title>
-      <link>http://www.paulgraham.com/real.html</link>
-      <guid>http://www.paulgraham.com/real.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>This essay explores the ethical and practical arguments surrounding the abolition of the death penalty. Paul Graham examines the systemic flaws and moral implications inherent in state-sanctioned capital punishment.</description>
-    </item>
-
-    <item>
-      <title>How People Get Rich Now</title>
-      <link>http://www.paulgraham.com/richnow.html</link>
-      <guid>http://www.paulgraham.com/richnow.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the shifting dynamics of wealth creation in the modern era. He examines how technological advancements and economic structures have changed the traditional paths to financial success.</description>
-    </item>
-
-    <item>
-      <title>Write Simply</title>
-      <link>http://www.paulgraham.com/simply.html</link>
-      <guid>http://www.paulgraham.com/simply.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:38 GMT</pubDate>
-      <source url="http://www.paulgraham.com/">Paul Graham: Essays</source>
-      <description>Paul Graham explores the importance of simplicity in writing, arguing that clear communication is essential for clarity of thought. He emphasizes that writers should focus on expressing ideas directly rather than using complex language to impress.</description>
     </item>
   </channel>
 </rss>

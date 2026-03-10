@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-03-09T22:04:47.493Z",
+  "last_updated": "2026-03-10T22:03:44.244Z",
   "articles": [
+    {
+      "id": "ede0eb58cd982a5a",
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-03-09T00:00:00.000Z",
+      "summary_en": "This article debunks the viral claim that Anthropic loses $5,000 per Claude Code subscriber. The author performs a factual analysis to demonstrate why such high-cost estimates are inaccurate.",
+      "summary_zh": "這篇文章駁斥了關於 Anthropic 每個 Claude Code 用戶損失 5,000 美元的網路傳言。作者透過實際計算，說明此類高昂的成本估算並不準確。",
+      "keywords": [
+        "Anthropic",
+        "Claude Code",
+        "AI economics",
+        "cost analysis",
+        "debunking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses mathematical analysis and data-driven scrutiny to verify financial claims.",
+      "pacer_reason_zh": "本文透過數學分析與數據驗證來審視財務說法。"
+    },
+    {
+      "id": "28ef34987c971f69",
+      "title": "Weekly Update 494",
+      "url": "https://www.troyhunt.com/weekly-update-494/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-03-10T01:29:35.000Z",
+      "summary_en": "Troy Hunt reflects on the increasing frequency of data breaches processed by 'Have I Been Pwned' over the past twelve years. The post highlights a recent surge in activity, noting that five breaches were added in just two days.",
+      "summary_zh": "Troy Hunt 回顧了過去十二年來「Have I Been Pwned」處理資料外洩事件的頻率增加情況。文中強調了近期的活動激增，指出僅在兩天內就新增了五起資料外洩事件。",
+      "keywords": [
+        "Have I Been Pwned",
+        "data breach",
+        "cybersecurity",
+        "Troy Hunt",
+        "security news"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content provides statistical evidence and data regarding breach processing frequency.",
+      "pacer_reason_zh": "內容提供了關於處理資料外洩頻率的統計數據與證據。"
+    },
+    {
+      "id": "8494471bd44055f0",
+      "title": "LLMs are bad at vibing specifications",
+      "url": "https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-03-10T17:12:30.000Z",
+      "summary_en": "The author examines how AI models perform when writing formal specifications like TLA+ and Alloy. Using a case study, the article demonstrates that LLMs often produce syntactically incorrect or logically suboptimal code, suggesting they cannot effectively 'vibe' formal methods without expert oversight.",
+      "summary_zh": "作者探討了 AI 模型在撰寫 TLA+ 和 Alloy 等形式化規格時的表現。透過案例分析，文章指出 LLM 經常產出語法錯誤或邏輯不佳的代碼，顯示在沒有專家監督的情況下，AI 無法有效地處理形式化方法。",
+      "keywords": [
+        "LLM",
+        "TLA+",
+        "Alloy",
+        "formal methods",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific case study of an Alloy specification to evaluate and benchmark the performance of LLMs in formal methods.",
+      "pacer_reason_zh": "本文透過 Alloy 規格的具體案例分析，評估並驗證了 LLM 在形式化方法中的表現。"
+    },
+    {
+      "id": "0d5a57d23a61c2f0",
+      "title": "Rebasing in Magit",
+      "url": "https://entropicthoughts.com/rebasing-in-magit",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-03-09T23:00:00.000Z",
+      "summary_en": "This article explains the process of performing a rebase operation using Magit, the Emacs interface for Git. It provides a technical walkthrough on how to streamline Git workflows within the editor.",
+      "summary_zh": "本文介紹如何使用 Emacs 的 Git 工具 Magit 進行變基 (rebase) 操作。內容探討了如何在編輯器內簡化 Git 工作流程的技術步驟。",
+      "keywords": [
+        "Magit",
+        "Git",
+        "Rebase",
+        "Emacs",
+        "Version Control"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on how to perform specific tasks within the Magit interface.",
+      "pacer_reason_zh": "本文作為操作指南，說明如何在 Magit 介面中執行特定任務。"
+    },
+    {
+      "id": "bb5f5243c0e68825",
+      "title": "HN Skins 0.4.0 - Black Bar Updates",
+      "url": "https://susam.net/code/news/hnskins/0.4.0.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-03-10T00:00:00.000Z",
+      "summary_en": "HN Skins 0.4.0 is a minor update for the Hacker News browser userscript that ensures the commemorative black bar remains visible across various themes. The update specifically adjusts the contrast for dark-themed skins to ensure the tribute remains conspicuous.",
+      "summary_zh": "HN Skins 0.4.0 是針對 Hacker News 瀏覽器腳本的小型更新，旨在確保紀念性的黑色橫條在各種佈景主題下皆能正常顯示。此次更新特別調整了深色主題下的呈現方式，以維持良好的視覺對比度。",
+      "keywords": [
+        "HN Skins",
+        "Hacker News",
+        "userscript",
+        "web design",
+        "software update"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions primarily as a release note and announcement for a tool, explaining the purpose of the update and providing instructions to install.",
+      "pacer_reason_zh": "此文章主要作為工具的發布說明與公告，解釋了更新內容並提供安裝指引。"
+    },
+    {
+      "id": "5bc77e55a3a52dc6",
+      "title": "Just Use Postgres",
+      "url": "https://nesbitt.io/2026/03/10/just-use-postgres.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-10T10:00:00.000Z",
+      "summary_en": "The author introduces omni_git, a Postgres extension that enables the database to function as a self-contained Git server and deployment platform. By implementing the smart HTTP protocol directly in SQL, the system allows users to push code or SQL files directly to Postgres, which then manages hosting, building, and serving traffic without external tools.",
+      "summary_zh": "作者介紹了 omni_git，這是一個能讓 Postgres 資料庫化身為獨立 Git 伺服器與部署平台的擴充套件。透過在 SQL 中直接實作 Git 智慧 HTTP 協定，使用者可將程式碼直接推送到 Postgres，由資料庫完成託管、建置與服務部署，無需額外的應用程式伺服器。",
+      "keywords": [
+        "Postgres",
+        "git",
+        "omni_git",
+        "deployment",
+        "database"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach of using a database as a full-stack deployment platform and the underlying logic of implementing Git protocols in SQL.",
+      "pacer_reason_zh": "本文解釋了將資料庫作為全端部署平台的概念架構，以及在 SQL 中實現 Git 協定的底層邏輯。"
+    },
+    {
+      "id": "142f23f7e595dd70",
+      "title": "Simplifying expressions in SymPy",
+      "url": "https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-10T16:08:15.000Z",
+      "summary_en": "This post explores how the Python library SymPy handles the simplification of mathematical expressions. It serves as an analogy to a previous discussion on Mathematica, demonstrating how symbolic computation libraries approach complex algebraic identities.",
+      "summary_zh": "本文探討了 Python 函式庫 SymPy 如何處理數學表達式的化簡。作者將此與先前關於 Mathematica 的討論進行類比，展示了符號運算函式庫在處理複雜代數恆等式時的運作方式。",
+      "keywords": [
+        "SymPy",
+        "Python",
+        "Mathematics",
+        "Symbolic computation",
+        "Simplification"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an analogy by drawing parallels between the symbolic simplification behaviors of Mathematica and SymPy.",
+      "pacer_reason_zh": "本文通過將 Mathematica 與 SymPy 的符號化簡行為進行對比，運用了類比的分析方式。"
+    },
+    {
+      "id": "5c57e4ad81805c45",
+      "title": "sinh( arccosh(x) )",
+      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-10T15:12:03.000Z",
+      "summary_en": "This post explores the mathematical evaluation of hyperbolic functions, specifically focusing on the composition of sinh and arccosh. The author reflects on common errors when combining these functions and initiates a deeper dive into their identities.",
+      "summary_zh": "這篇文章探討了雙曲函數的數學運算，特別是 sinh 與 arccosh 的函數合成。作者回顧了在組合這些函數時常見的錯誤，並進一步深入分析其數學恆等式。",
+      "keywords": [
+        "mathematics",
+        "hyperbolic functions",
+        "calculus",
+        "trigonometry",
+        "sinh"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a mathematical explanation and conceptual analysis of function identities.",
+      "pacer_reason_zh": "該文章提供了數學恆等式的理論說明與概念分析。"
+    },
+    {
+      "id": "bed0faa4ed5f76db",
+      "title": "Trig composition table",
+      "url": "https://www.johndcook.com/blog/2026/03/09/trig-composition-table/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-09T22:16:09.000Z",
+      "summary_en": "This post presents a reference table for trigonometric compositions, noting that extended tables can be created by including reciprocal functions. It serves as a concise lookup resource for mathematical relationships between trigonometric functions and their inverses.",
+      "summary_zh": "這篇文章提供了一個三角函數複合運算參考表，並指出透過加入倒數函數可以擴展表格。此內容適合作為查詢三角函數及其反函數關係的實用參考資料。",
+      "keywords": [
+        "trigonometry",
+        "mathematics",
+        "reference table",
+        "composition",
+        "reciprocal functions"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content provides a lookup table and acts as a reference for trigonometric function relationships.",
+      "pacer_reason_zh": "此內容提供了查詢表格，作為三角函數關係的參考資料。"
+    },
+    {
+      "id": "cee371df2ef6dc28",
+      "title": "A snappy answer when asked about dressing casually at IBM",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-10T14:00:00.000Z",
+      "summary_en": "This post recounts a brief, humorous anecdote regarding a quick, witty response given when questioned about the casual dress code at IBM. It highlights the culture of the company through a lighthearted social interaction.",
+      "summary_zh": "這篇文章分享了一則關於在 IBM 被問及隨性穿著時，機智應對的短小軼事。透過這個輕鬆的社交互動，展現了當時公司內部的文化氛圍。",
+      "keywords": [
+        "IBM",
+        "culture",
+        "anecdote",
+        "casual",
+        "humor"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article focuses on a situational anecdote used to illustrate a cultural point through a witty parallel.",
+      "pacer_reason_zh": "本文透過一則情境軼事，以機智的類比來呈現特定文化觀點。"
+    },
+    {
+      "id": "ce90a80781d1808c",
+      "title": "Unstructured Data and the Joy of having Something Else think for you",
+      "url": "https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-10T12:34:59.000Z",
+      "summary_en": "This post explores the growing human tendency to rely on AI for simple tasks, even when more efficient tools are available. The author reflects on whether this behavior signifies useful automation or a diminishing reliance on human cognitive effort.",
+      "summary_zh": "本文探討了人們越來越依賴人工智慧來處理簡單任務的現象，即使已有更有效率的工具可用。作者反思這種行為究竟是實用的自動化，還是人類認知能力退化的徵兆。",
+      "keywords": [
+        "AI",
+        "automation",
+        "technology",
+        "cognitive bias",
+        "digital habits"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of AI adoption habits and the philosophical implications of outsourcing thought to machines.",
+      "pacer_reason_zh": "本文針對人工智慧使用習慣以及將思考外包給機器的哲學意涵，進行了概念性的探討。"
+    },
+    {
+      "id": "159ff9c7925977ee",
+      "title": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/10/ice-tech/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-10T15:23:43.000Z",
+      "summary_en": "Cory Doctorow argues that surveillance-based advertising is a deliberate policy choice rather than an inevitability, driven by the belief that illegal data collection would remain unpunished. He links this behavior to his 'enshittification' hypothesis, noting that companies choose invasive practices because they gamble that the legal risks are lower than the potential profits.",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）認為，基於監控的廣告是一種蓄意的政策選擇，而非技術必然，其背後賭注在於企業認為非法數據收集不會受到嚴厲法律懲罰。他將此行為連結至其「垃圾化」（enshittification）假說，指出企業因預期違規成本低於超額利潤，才選擇採取侵害隱私的手段。",
+      "keywords": [
+        "ad-tech",
+        "surveillance capitalism",
+        "enshittification",
+        "privacy",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical framework of 'enshittification' and provides a critical conceptual analysis of how surveillance advertising business models operate.",
+      "pacer_reason_zh": "本文解釋了「垃圾化」（enshittification）的理論框架，並對監控廣告商業模式的運作機制進行了批判性的概念分析。"
+    },
+    {
+      "id": "37dfe2efa7315a12",
+      "title": "I'm Not Lying, I'm Hallucinating ",
+      "url": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-10T20:43:30.000Z",
+      "summary_en": "The article explores the evolution of the term 'hallucination' in the context of large language models, contrasting its origins with current usage. It argues that framing AI errors as 'hallucinations' rather than falsehoods shifts accountability, and suggests that models should be trained to admit ignorance instead.",
+      "summary_zh": "本文探討了「幻覺」（hallucination）一詞在大型語言模型語境下的演變，對比了其原始意義與現今用法。文章指出，將 AI 的錯誤歸咎為「幻覺」而非謊言，在某種程度上轉移了責任，並建議應訓練模型學會承認無知。",
+      "keywords": [
+        "LLM",
+        "hallucination",
+        "AI",
+        "Andrej Karpathy",
+        "terminology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how a specific term is defined and applied within the field of artificial intelligence.",
+      "pacer_reason_zh": "本文針對特定術語在人工智慧領域的定義與應用進行了概念性分析。"
+    },
+    {
+      "id": "7750eaf897aa7a60",
+      "title": "[Sponsor] Finalist",
+      "url": "https://www.finalist.works/finalist-36/",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-09T22:44:03.000Z",
+      "summary_en": "Finalist is an iOS and macOS productivity application that integrates calendars, reminders, and health data into a single day planner. The latest update introduces new features such as subtasks, HealthKit integration, and a spoken daily briefing.",
+      "summary_zh": "Finalist 是一款適用於 iOS 和 macOS 的日曆與任務規劃應用程式，可整合行事曆、提醒事項及健康數據。最新版本新增了子任務、HealthKit 整合及語音每日簡報功能。",
+      "keywords": [
+        "Finalist",
+        "productivity",
+        "iOS",
+        "macOS",
+        "day planner"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a promotional reference post introducing a product's features and availability.",
+      "pacer_reason_zh": "這是一篇介紹產品功能與可用性的宣傳性參考文章。"
+    },
     {
       "id": "a1dd9f79317e669c",
       "title": "I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either",

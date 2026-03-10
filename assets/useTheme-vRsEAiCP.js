@@ -1,0 +1,1 @@
+import{r}from"./index-C2T6ZGCO.js";function o(){const[e,a]=r.useState(()=>{const t=localStorage.getItem("theme");return t?t==="dark":window.matchMedia("(prefers-color-scheme: dark)").matches});return r.useEffect(()=>{document.documentElement.classList.toggle("dark",e),localStorage.setItem("theme",e?"dark":"light")},[e]),{is_dark:e,toggleTheme:()=>a(t=>!t)}}export{o as u};
