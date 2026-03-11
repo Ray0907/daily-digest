@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-03-10T22:03:44.244Z",
+  "last_updated": "2026-03-11T22:04:23.954Z",
   "articles": [
+    {
+      "id": "f2b7882a3d26c07c",
+      "title": "Every minute you aren’t running 69 agents, you are falling behind",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-03-10T16:00:00.000Z",
+      "summary_en": "The author critiques the current social media-driven fear regarding AI adoption and emphasizes that AI is an evolutionary tool rather than magic. He encourages readers to focus on creating genuine value instead of engaging in zero-sum games or anxiety-inducing trends.",
+      "summary_zh": "作者批評了當前社群媒體對 AI 發展所製造的焦慮，並強調 AI 是科技進步的延續而非魔法。他建議讀者應專注於創造實質價值，而非參與零和博弈或追逐恐慌性的流行趨勢。",
+      "keywords": [
+        "AI",
+        "productivity",
+        "value creation",
+        "tech skepticism",
+        "zero-sum game"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of AI narratives, explaining its nature as a tool for search and optimization rather than a transformative magical force.",
+      "pacer_reason_zh": "本文提供對 AI 敘事的概念性批判，解釋其本質為搜尋與優化工具，而非具變革性的魔法力量。"
+    },
+    {
+      "id": "200fad31c43c6e27",
+      "title": "I’m glad the Anthropic fight is happening now",
+      "url": "https://www.dwarkesh.com/p/dow-anthropic",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-03-11T18:55:20.000Z",
+      "summary_en": "This piece discusses the current conflicts and high-stakes negotiations surrounding AI development at companies like Anthropic. It frames these internal and industry-wide disputes as critical precursors to the global governance of advanced AI.",
+      "summary_zh": "本文探討了 Anthropic 等人工智慧公司目前面臨的內部衝突與高風險談判。作者認為這些爭議是未來全球 AI 治理與發展的關鍵前奏。",
+      "keywords": [
+        "Anthropic",
+        "AI governance",
+        "Artificial Intelligence",
+        "negotiations",
+        "AI safety"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of the current AI industry landscape and its broader implications for history.",
+      "pacer_reason_zh": "本文針對當前人工智慧產業的發展局勢及其對歷史的深遠影響進行了概念性的分析。"
+    },
+    {
+      "id": "c47b933c67ce25c2",
+      "title": "git-pkgs/actions",
+      "url": "https://nesbitt.io/2026/03/11/git-pkgs-actions.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-11T10:00:00.000Z",
+      "summary_en": "git-pkgs has introduced reusable GitHub Actions to streamline dependency management, vulnerability scanning, license auditing, and SBOM generation within CI/CD pipelines. These actions simplify the process of monitoring project dependencies directly through pull request automation and integration with GitHub's security tools.",
+      "summary_zh": "git-pkgs 推出了可重複使用的 GitHub Actions，旨在簡化 CI/CD 流程中的依賴管理、漏洞掃描、授權審核與軟體物料清單 (SBOM) 生成。這些操作工具透過自動化 Pull Request 檢測及與 GitHub 安全功能的整合，大幅降低了專案依賴監控的配置難度。",
+      "keywords": [
+        "git-pkgs",
+        "GitHub Actions",
+        "CI/CD",
+        "dependency management",
+        "vulnerability scanning"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial and guide on how to integrate and configure the new git-pkgs GitHub Actions into a project's workflow.",
+      "pacer_reason_zh": "本文作為教學與指南，說明如何將全新的 git-pkgs GitHub Actions 整合並配置到專案工作流程中。"
+    },
+    {
+      "id": "456f8dd14e751199",
+      "title": "How do compilers ensure that large stack allocations do not skip over the guard page?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-11T14:00:00.000Z",
+      "summary_en": "This post explains the stack probe mechanism used by compilers to prevent large stack allocations from jumping over the guard page. It highlights that the compiler must perform incremental allocations to ensure the guard page is triggered correctly.",
+      "summary_zh": "本文解釋了編譯器如何透過堆疊探測（stack probe）機制，防止大規模的堆疊配置跳過保護頁面。文中強調編譯器必須執行增量配置，以確保正確觸發保護頁機制。",
+      "keywords": [
+        "compilers",
+        "stack allocation",
+        "guard page",
+        "stack probe",
+        "memory management"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying mechanism and conceptual approach used by compilers to handle stack safety.",
+      "pacer_reason_zh": "本文解釋了編譯器處理堆疊安全性的底層機制與概念性方法。"
+    },
+    {
+      "id": "ca92511462c5d642",
+      "title": "I don't know if I like working at higher levels of abstraction",
+      "url": "https://xeiaso.net/blog/2026/ai-abstraction/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-03-11T00:00:00.000Z",
+      "summary_en": "The author reflects on the growing influence of AI tools in software development, which consistently drive developers toward higher levels of abstraction. The post questions the hidden costs and potential loss of fundamental understanding associated with this shift.",
+      "summary_zh": "作者探討了 AI 工具如何將軟體開發推向更高的抽象層次。文中質疑這種趨勢背後的隱形成本，以及開發者在過度依賴抽象化過程中可能失去的底層技術理解。",
+      "keywords": [
+        "AI",
+        "abstraction",
+        "software development",
+        "programming",
+        "technology philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual dilemma regarding the trade-offs of using AI to increase abstraction in programming.",
+      "pacer_reason_zh": "這篇文章探討了關於使用 AI 提高程式設計抽象層次所帶來的取捨，屬於觀念性探討。"
+    },
+    {
+      "id": "a78709c149f430e4",
+      "title": "Game Review: It Takes Two ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-11T12:34:02.000Z",
+      "summary_en": "The author reviews the cooperative game 'It Takes Two,' using a humorous take on its plot about a divorcing couple. The post serves as part of the author's personal goal to engage in more co-operative gaming with their spouse.",
+      "summary_zh": "作者評論了合作遊戲《It Takes Two》，並以幽默的方式描述了遊戲中關於離婚夫婦的情節。這篇文章是作者今年與妻子共同參與更多合作遊戲計畫的一部分。",
+      "keywords": [
+        "It Takes Two",
+        "Game Review",
+        "Co-op Games",
+        "Gaming",
+        "Couples"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a subjective commentary and thematic exploration of a specific video game.",
+      "pacer_reason_zh": "該內容提供了對特定電子遊戲的主觀評論與主題探討。"
+    },
+    {
+      "id": "45285d8c486cae02",
+      "title": "Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-11T19:11:59.000Z",
+      "summary_en": "Cory Doctorow highlights Ed Zitron's critique of the tech industry, focusing on how media and hardware companies exploit non-technical users. The post argues that the proliferation of AI-generated content and bloated, underpowered hardware reflects a systemic indifference toward consumer experience.",
+      "summary_zh": "Cory Doctorow 引述了 Ed Zitron 對科技產業的批判，探討媒體與硬體公司如何剝削非技術背景的消費者。文章指出，AI 生成內容的氾濫與低階臃腫硬體的銷售，反映了產業對消費者體驗的冷漠與忽視。",
+      "keywords": [
+        "AI",
+        "Tech Industry",
+        "Ed Zitron",
+        "Digital Divide",
+        "Consumer Advocacy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how industry practices and technology trends marginalize the average user.",
+      "pacer_reason_zh": "本文對產業實務與技術趨勢如何邊緣化普通用戶提供了概念性的分析。"
+    },
+    {
+      "id": "08d4d1776393def5",
+      "title": "Where did you think the training data was coming from? ",
+      "url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-11T12:00:00.000Z",
+      "summary_en": "This article discusses the erosion of personal privacy in modern computing, highlighting how major tech companies like Meta, Microsoft, and Google leverage telemetry and licensing agreements to collect user data for AI training. It argues that users can no longer assume their devices are private, drawing parallels between current practices and past security concerns.",
+      "summary_zh": "這篇文章探討了現代科技環境中個人隱私權的逐漸流失，強調了 Meta、微軟和 Google 等科技巨頭如何透過遙測技術和授權協議收集用戶數據以訓練人工智慧。作者指出，用戶不再能假設其設備具備隱私，並將現今的監控做法與過往的安全隱憂進行了對比。",
+      "keywords": [
+        "privacy",
+        "data collection",
+        "AI training",
+        "telemetry",
+        "tech industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how modern software business models shift incentives toward data collection and AI development at the expense of user privacy.",
+      "pacer_reason_zh": "本文提供了關於現代軟體商業模式如何將重心轉移至數據收集與 AI 開發，進而影響用戶隱私的概念性分析。"
+    },
+    {
+      "id": "225b016b2bebc4fc",
+      "title": "The Server Older than my Kids! ",
+      "url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-11T01:38:25.000Z",
+      "summary_en": "The author reflects on the evolution of their blog's server infrastructure, recounting how a viral post inspired them to optimize file delivery. After years of procrastination, they are finally modernizing their setup by creating provisioning scripts to replace manual, undocumented configuration processes.",
+      "summary_zh": "作者回顧了其部落格伺服器架構的演進，講述了過去因文章爆紅而優化靜態檔案部署的經驗。經過多年的拖延，作者終於決定透過編寫自動化腳本來汰換過去長期手動且缺乏記錄的伺服器維護方式。",
+      "keywords": [
+        "server architecture",
+        "web hosting",
+        "infrastructure",
+        "provisioning",
+        "traffic management"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the practical process of upgrading server infrastructure and the shift toward using automation scripts for provisioning.",
+      "pacer_reason_zh": "本文重點在於升級伺服器架構的實務過程，以及轉向使用自動化腳本進行部署的實作經驗。"
+    },
+    {
+      "id": "d66f2426d2ba5200",
+      "title": "From the DF Archive: ‘And Oranges’",
+      "url": "https://daringfireball.net/2006/06/and_oranges",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-11T19:02:11.000Z",
+      "summary_en": "John Gruber revisits his 20-year-old essay regarding the high standards and critical mindset of Mac users. The post reflects on the enduring belief that Mac users choose Apple products not for perfection, but because they are superior to the alternatives.",
+      "summary_zh": "John Gruber 重溫了他 20 年前關於 Mac 用戶高標準與批判性思維的文章。文中反思了一個持久的觀點，即 Mac 用戶選擇蘋果產品並非因為其完美，而是因為它們相較於其他選擇表現更好。",
+      "keywords": [
+        "Apple",
+        "Mac OS X",
+        "John Gruber",
+        "Daring Fireball",
+        "Tech culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a conceptual reflection on user philosophy and the culture of software criticism.",
+      "pacer_reason_zh": "本文屬於針對用戶哲學與軟體批判文化的觀念性反思。"
+    },
+    {
+      "id": "cc55d5b5367d75f4",
+      "title": "★ The MacBook Neo",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "source": "Daring Fireball",
+      "source_url": "https://daringfireball.net/",
+      "published": "2026-03-10T22:48:40.000Z",
+      "summary_en": "The article reflects on how Apple's silicon transition from Intel to ARM was predictable based on the performance trends of A-series chips dating back to the iPhone 6S. It highlights the emergence of the 'MacBook Neo,' a budget-friendly laptop powered by the iPhone 16 Pro's A18 Pro chip, demonstrating that Apple's mobile processors are now mature enough to anchor the consumer Mac lineup.",
+      "summary_zh": "本文回顧了蘋果從 Intel 轉向 ARM 架構的過程，指出早在 iPhone 6S 時期，其 A 系列晶片的效能成長就已預示了 Mac 的未來。文中提到搭載 iPhone 16 Pro 同款 A18 Pro 晶片的「MacBook Neo」，證明了蘋果的行動處理器已足以滿足消費級筆記型電腦的需求。",
+      "keywords": [
+        "Apple Silicon",
+        "MacBook Neo",
+        "A18 Pro",
+        "ARM",
+        "Intel"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of Apple's technological evolution and the strategic shift toward using mobile A-series chips in Mac hardware.",
+      "pacer_reason_zh": "本文對蘋果的技術演進以及將行動端 A 系列晶片應用於 Mac 硬體的策略轉向進行了概念性分析。"
+    },
+    {
+      "id": "11b222d04f557a10",
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-03-11T16:20:13.000Z",
+      "summary_en": "An Iran-linked hacktivist group has claimed responsibility for a disruptive wiper attack on the global medical technology firm Stryker. The incident has caused significant operational disruptions, including forcing thousands of employees in Ireland to stay home and triggering a declared building emergency at the company's U.S. headquarters.",
+      "summary_zh": "一個與伊朗情報機構有關的駭客組織聲稱對醫療科技公司 Stryker 發動了破壞性數據清除攻擊。此次攻擊導致該公司在愛爾蘭的數千名員工被迫留在家中，並使美國總部進入緊急狀態。",
+      "keywords": [
+        "Stryker",
+        "Cybersecurity",
+        "Wiper Attack",
+        "Iran",
+        "Data Breach"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific security incident and event, functioning as a news report based on evidence of the breach.",
+      "pacer_reason_zh": "本文報導了一起具體的安全事件，屬於基於違規證據的新聞報導。"
+    },
+    {
+      "id": "7aacdab66589f4d5",
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-03-11T00:32:51.000Z",
+      "summary_en": "Microsoft's March 2026 Patch Tuesday addresses 77 security vulnerabilities across its software ecosystem. While no zero-day flaws were identified this month, the release includes critical updates that require prompt attention for organizational security.",
+      "summary_zh": "微軟發布 2026 年 3 月份的 Patch Tuesday 更新，修復了旗下的 Windows 及其他軟體共 77 個安全漏洞。本月雖無緊急的「零時差漏洞」，但仍有部分更新建議企業與組織優先部署以確保系統安全。",
+      "keywords": [
+        "Microsoft",
+        "Patch Tuesday",
+        "Security Update",
+        "Vulnerability",
+        "Cybersecurity"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This article serves as a reference update regarding software patches and security vulnerability disclosures.",
+      "pacer_reason_zh": "本文屬於針對軟體修補程式與安全漏洞揭露的參考性資訊。"
+    },
+    {
+      "id": "2506204061630b79",
+      "title": "Quoting John Carmack",
+      "url": "https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-11T14:47:09.000Z",
+      "summary_en": "Simon Willison highlights a quote from John Carmack regarding software architecture. The quote emphasizes that designing for future requirements rarely yields positive results, reinforcing the YAGNI (You Ain't Gonna Need It) principle.",
+      "summary_zh": "Simon Willison 引用了 John Carmack 關於軟體架構的觀點。文中強調，過度為未來的需求進行架構設計往往難以產生正向效益，這體現了 YAGNI（你不會需要它）的開發原則。",
+      "keywords": [
+        "John Carmack",
+        "software architecture",
+        "YAGNI",
+        "development philosophy",
+        "engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a high-level conceptual insight regarding software design philosophy.",
+      "pacer_reason_zh": "內容聚焦於關於軟體設計哲學的高層次概念見解。"
+    },
+    {
+      "id": "fdf32d05949341e1",
+      "title": "AI should help us produce better code",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-10T22:25:09.000Z",
+      "summary_en": "Simon Willison argues that the decline in software quality often attributed to AI coding tools is a human choice rather than an inevitable outcome. He advocates for using AI to proactively address technical debt and time-consuming refactoring tasks to ensure better overall code quality.",
+      "summary_zh": "Simon Willison 認為，歸咎於 AI 編碼工具導致的軟體品質下降其實是人為的選擇，而非不可避免的結果。他主張應利用 AI 主動解決技術債務及耗時的重構任務，以確保整體的程式碼品質。",
+      "keywords": [
+        "AI coding",
+        "technical debt",
+        "software quality",
+        "agentic engineering",
+        "refactoring"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of managing technical debt and software quality in the era of AI coding agents.",
+      "pacer_reason_zh": "本文重點在於探討 AI 輔助開發時代下，管理技術債務與軟體品質的概念性框架。"
+    },
     {
       "id": "ede0eb58cd982a5a",
       "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
