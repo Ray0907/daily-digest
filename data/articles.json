@@ -1,6 +1,366 @@
 {
-  "last_updated": "2026-03-11T22:04:23.954Z",
+  "last_updated": "2026-03-12T22:04:25.262Z",
   "articles": [
+    {
+      "id": "37229028942d96dd",
+      "title": "Introduction to SQLAlchemy 2 In Practice",
+      "url": "https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-03-12T09:43:25.000Z",
+      "summary_en": "Author Miguel Grinberg is serializing his book 'SQLAlchemy 2 In Practice' for free on his blog. The series serves as a comprehensive guide to using SQLAlchemy 2, the leading Python ORM library, with installments published weekly.",
+      "summary_zh": "作者 Miguel Grinberg 開始在其部落格上免費連載其著作《SQLAlchemy 2 In Practice》。這系列文章將深入介紹 Python 最受歡迎的資料庫工具與 ORM 框架 SQLAlchemy 2，預計每週更新章節內容。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "ORM",
+        "Database",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a book intended to serve as a practical, step-by-step educational guide for developers using SQLAlchemy.",
+      "pacer_reason_zh": "該內容介紹了一本旨在為開發者提供 SQLAlchemy 實作教學與操作指南的書籍。"
+    },
+    {
+      "id": "e92b08fe1024d018",
+      "title": "On Making",
+      "url": "http://beej.us/blog/data/ai-making/",
+      "source": "Beej's Bit Bucket",
+      "source_url": "http://beej.us/blog/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "The author reflects on the creative process of making things by hand in the age of AI. They argue that the intrinsic value of creation is often lost when we rely on automation for output.",
+      "summary_zh": "作者反思了在人工智慧時代親手創作的價值。文中指出，當我們過度依賴自動化工具產出時，創作過程本身所帶來的獨特價值往往會被犧牲。",
+      "keywords": [
+        "AI",
+        "creativity",
+        "making",
+        "process",
+        "human-centric"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a philosophical reflection on the nature of creation and the impact of AI on the maker's process.",
+      "pacer_reason_zh": "這是一篇關於創作本質以及人工智慧如何影響創作者過程的哲學性反思。"
+    },
+    {
+      "id": "fb61cd9a9cf3f75f",
+      "title": "Changing my mind on UBI",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/12/changing-my-mind-on-ubi.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-03-11T16:00:00.000Z",
+      "summary_en": "The author examines the economic implications of Universal Basic Income (UBI), arguing that market adjustments would likely lead to inflation. They propose a thought experiment where the resulting inefficiency of fiat currency in a UBI-inflated economy leads individuals to revert to commodity-based trading and alternative gold-backed economies.",
+      "summary_zh": "作者探討了全民基本收入 (UBI) 的經濟影響，認為其引發的市場調整可能會導致通膨。文中透過思想實驗提出，當法定貨幣在 UBI 環境下失去購買力時，人們最終會回歸實物交易，甚至發展出以黃金為基礎的地下經濟體系。",
+      "keywords": [
+        "UBI",
+        "inflation",
+        "economics",
+        "thought experiment",
+        "commodity currency"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an analogy of chicken farming and gold-based trade to illustrate the potential macroeconomic consequences of UBI.",
+      "pacer_reason_zh": "文章透過養雞與黃金交易的類比，來說明全民基本收入可能帶來的宏觀經濟後果。"
+    },
+    {
+      "id": "397131d7874e76d9",
+      "title": "Are LLMs not getting better?",
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-03-11T23:00:00.000Z",
+      "summary_en": "This article examines the ongoing debate regarding the performance progression of Large Language Models. It questions whether the perceived advancements in LLMs are stalling or if current benchmarks are failing to capture true improvements.",
+      "summary_zh": "本文探討了關於大型語言模型（LLM）效能進展的持續爭論。文章質疑模型在性能上的提升是否已陷入停滯，或者現有的評測基準是否已無法準確反映真實的進步。",
+      "keywords": [
+        "LLM",
+        "AI",
+        "Performance",
+        "Benchmarks",
+        "Technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual analysis and critical discussion of the current state and progression of AI models.",
+      "pacer_reason_zh": "文章聚焦於對人工智慧模型當前發展狀態與演進的觀念分析及批判性討論。"
+    },
+    {
+      "id": "218cfba13a5d3134",
+      "title": "Git Checkout, Reset and Restore",
+      "url": "https://susam.net/git-checkout-reset-restore.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "This post provides a practical comparison between older Git commands like checkout and reset and the newer restore command introduced in Git 2.23. It uses a series of experimental examples to demonstrate how to effectively reset the working tree and index in various scenarios.",
+      "summary_zh": "本文比較了舊版 Git 指令（如 checkout 和 reset）與 Git 2.23 引入的新指令 restore 的用法。作者透過一系列實驗範例，展示了如何在不同情境下操作工作目錄與暫存區的狀態復原。",
+      "keywords": [
+        "Git",
+        "restore",
+        "checkout",
+        "reset",
+        "version control"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial and guide that demonstrates how to perform specific tasks using different Git commands.",
+      "pacer_reason_zh": "本文是一篇教學指南，展示了如何使用不同的 Git 指令來執行特定任務。"
+    },
+    {
+      "id": "8f9580e02457d20b",
+      "title": "The Elusive Cost Savings of the Prefabricated Home",
+      "url": "https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-03-12T12:03:45.000Z",
+      "summary_en": "This article examines the long-standing belief that modular or prefabricated construction can solve the escalating costs and productivity issues of the home-building industry. It questions whether factory-built homes actually deliver the promised economic efficiencies compared to traditional construction methods.",
+      "summary_zh": "本文探討了長期以來人們認為預製房屋能解決住宅建築成本上升與生產力停滯的觀點。文中質疑工廠化建造是否真能在經濟效益上優於傳統建築方法。",
+      "keywords": [
+        "prefabricated",
+        "construction",
+        "productivity",
+        "housing",
+        "cost-efficiency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on analyzing the theoretical assumptions and concepts behind the construction industry's production methods.",
+      "pacer_reason_zh": "內容重點在於分析建築業生產方法背後的理論假設與概念。"
+    },
+    {
+      "id": "610d66e6e781ea31",
+      "title": "Reviewing ENISA’s Package Manager Advisory",
+      "url": "https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-12T10:00:00.000Z",
+      "summary_en": "The author reviews ENISA's 2026 technical advisory on package manager security, highlighting its strong risk taxonomy and focus on reachable code. While praising the document's structure, the author critiques some recommendations, such as relying on vanity metrics like GitHub stars, and plans to bridge gaps in cross-platform command guidance.",
+      "summary_zh": "作者評審了歐洲網路安全局（ENISA）於 2026 年發布的套件管理安全性技術諮詢報告，肯定了其風險分類架構與「可到達程式碼」概念的區分。同時，作者也針對該報告過度依賴 GitHub 星數等指標提出質疑，並計畫補充跨平台套件管理的實務指令對照。",
+      "keywords": [
+        "ENISA",
+        "supply chain security",
+        "package managers",
+        "software engineering",
+        "cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is an analytical review and critique of a conceptual framework and advisory document, focusing on the quality and validity of the proposed security theories.",
+      "pacer_reason_zh": "本文是對概念性框架與技術諮詢報告的分析評述，重點在於探討該安全性理論架構的品質與合理性。"
+    },
+    {
+      "id": "c1338b6de35b440d",
+      "title": "Members Only: We desperately need a Reality Literacy",
+      "url": "https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-03-11T22:47:17.000Z",
+      "summary_en": "This article explores the concept of 'Reality Literacy' in an era of digital misinformation and hyper-reality. It argues that developing a refined ability to discern objective truth is essential for navigating modern social and information landscapes.",
+      "summary_zh": "本文探討了在數位誤導與超現實時代中「現實識讀」（Reality Literacy）的重要性。作者主張，培養辨別客觀真理的精確能力，對於駕馭現代社會與資訊環境至關重要。",
+      "keywords": [
+        "Reality Literacy",
+        "Digital Media",
+        "Critical Thinking",
+        "Information Bias",
+        "Truth"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and explaining a theoretical concept, making it conceptual content.",
+      "pacer_reason_zh": "本文側重於定義並解釋一個理論概念，屬於概念性（Conceptual）內容。"
+    },
+    {
+      "id": "14f52bd399d6f08e",
+      "title": "Windows 11 after two decades of macOS: okay, but also awful",
+      "url": "https://rakhim.exotext.com/windows-11-experience",
+      "source": "Rakhim's blog",
+      "source_url": "https://rakhim.exotext.com/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "The author shares their experience of switching from a high-end Mac Studio to a powerful Windows PC for professional and daily tasks. While they find the Windows setup surprisingly capable and productive, they remain critical of both operating systems, highlighting specific hardware and software frustrations with both platforms.",
+      "summary_zh": "作者分享了從高階 Mac Studio 轉換到 Windows PC 進行專業工作與日常使用的個人體驗。儘管作者發現 Windows 系統出乎意料地高效，但他們對 macOS 和 Windows 兩者皆有不滿，並詳細記錄了兩個平台在軟硬體上的具體痛點。",
+      "keywords": [
+        "Windows 11",
+        "macOS",
+        "PC switching",
+        "productivity",
+        "hardware setup"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an anecdotal case study, detailing the author's personal experiment and direct observations from switching computer platforms.",
+      "pacer_reason_zh": "本文屬於個人實測案例研究，詳細記錄了作者親身更換電腦平台的實驗過程與實際觀察心得。"
+    },
+    {
+      "id": "3ff75b089f81edc2",
+      "title": "How I use generative AI on this blog",
+      "url": "https://evanhahn.com/how-i-use-gen-ai-on-this-blog/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "The author discusses his approach to using generative AI in his personal blogging despite having fundamental reservations about the technology. He outlines a strict workflow where AI serves only as an augmented thesaurus or brainstorming tool, ensuring that the final output remains authentic to his own voice.",
+      "summary_zh": "作者分享了他如何在個人部落格中使用生成式 AI，儘管他對該技術持保留態度。他採用嚴格的操作原則，僅將 AI 作為強化版的同義詞辭典或腦力激盪工具，以確保最終作品仍能維持個人的寫作風格。",
+      "keywords": [
+        "Generative AI",
+        "Blogging",
+        "Writing process",
+        "AI ethics",
+        "Local LLM"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, practical guide on how the author integrates AI tools into his personal writing workflow.",
+      "pacer_reason_zh": "本文提供了具體且實用的指南，說明作者如何將 AI 工具整合到個人的寫作流程中。"
+    },
+    {
+      "id": "9746bd09596f16d8",
+      "title": "Inverse cosine",
+      "url": "https://www.johndcook.com/blog/2026/03/12/arccos/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-12T16:37:46.000Z",
+      "summary_en": "This post investigates why the expression sin(arccos(x)) simplifies to √(1 − x²) while other hyperbolic identities do not. The author provides a mathematical proof to demonstrate the validity of this identity for the inverse cosine function.",
+      "summary_zh": "本文探討了為什麼 sin(arccos(x)) 可以簡化為 √(1 − x²)，而其他雙曲函數恆等式則無法如此簡化。作者透過數學證明解析了這個反餘弦函數恆等式的正確性。",
+      "keywords": [
+        "inverse cosine",
+        "mathematics",
+        "trigonometry",
+        "proof",
+        "identities"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on proving mathematical identities and explaining the logic behind specific functional simplifications.",
+      "pacer_reason_zh": "本文重點在於證明數學恆等式，並解釋特定函數簡化背後的邏輯。"
+    },
+    {
+      "id": "2519fde9f06e6522",
+      "title": "The modern formatting addiction in writing",
+      "url": "https://dynomight.net/formatting/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "The author critiques the modern obsession with excessive formatting, such as nested lists and convoluted hierarchies, which complicates reading. By contrasting disjointed fragments with linear, paragraph-based writing, the post argues for prioritizing clarity over structural complexity.",
+      "summary_zh": "作者批評了現代寫作中過度使用格式（如嵌套列表和複雜層級）的現象，認為這反而增加了閱讀負擔。透過對比碎片化結構與線性的段落寫作，文章主張內容清晰比複雜的排版更為重要。",
+      "keywords": [
+        "formatting",
+        "writing",
+        "readability",
+        "structure",
+        "communication"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual philosophy and habits behind modern writing styles, analyzing why people prioritize structure over clarity.",
+      "pacer_reason_zh": "本文探討了現代寫作風格背後的概念性哲學與習慣，分析人們為何傾向將結構置於清晰度之上。"
+    },
+    {
+      "id": "7ded1fe7aeb75937",
+      "title": "Historic Energy Price Cap Data (FOI success!)",
+      "url": "https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-12T12:34:01.000Z",
+      "summary_en": "The author successfully obtained historical UK energy price cap data from Ofgem by submitting a Freedom of Information request. This post highlights the difficulty of accessing longitudinal public data and provides the recovered dataset for public use.",
+      "summary_zh": "作者通過「資訊自由法」請求，成功從英國能源監管機構 Ofgem 獲取了歷史能源價格上限數據。本文記錄了獲取過程，並將這些難以在官方網站找到的歷史數據公開分享。",
+      "keywords": [
+        "energy price cap",
+        "Ofgem",
+        "FOI",
+        "open data",
+        "UK energy"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a reference source for historical data that was previously unavailable.",
+      "pacer_reason_zh": "本文的主要價值在於提供歷史數據的參考來源，填補了官方資訊的空缺。"
+    },
+    {
+      "id": "13e24c4bd1d9ba62",
+      "title": "MALUS - Clean Room as a Service",
+      "url": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-12T20:08:55.000Z",
+      "summary_en": "Simon Willison highlights a satirical project called MALUS, which mocks the trend of using AI to 'clean room' open source code to bypass license obligations. The post points out the blurring lines between serious corporate AI strategies and extreme satire.",
+      "summary_zh": "Simon Willison 介紹了一個名為 MALUS 的諷刺項目，該項目嘲諷了利用 AI 對開源代碼進行「淨室工程」以規避許可義務的趨勢。文章指出，目前企業 AI 策略與極端諷刺之間的界線正變得日益模糊。",
+      "keywords": [
+        "MALUS",
+        "open-source",
+        "ai-ethics",
+        "licensing",
+        "satire"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains and reflects on a conceptual trend in AI ethics and industry practices through the lens of satire.",
+      "pacer_reason_zh": "內容透過諷刺的視角，解釋並反思了 AI 倫理與行業實踐中的概念性趨勢。"
+    },
+    {
+      "id": "3639fee38931b9fe",
+      "title": "Coding After Coders: The End of Computer Programming as We Know It",
+      "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-12T19:23:44.000Z",
+      "summary_en": "This blog post discusses a New York Times article exploring the transformative impact of AI on software development. It highlights the unique ability of programmers to verify AI-generated code through automated testing, distinguishing their field from other professions, while also touching on debates regarding the loss of craftsmanship.",
+      "summary_zh": "這篇部落格文章討論了《紐約時報》關於 AI 如何改變軟體開發的深入報導。文章強調開發人員能夠透過自動化測試驗證 AI 程式碼，使其職業與其他領域有所區別，同時也探討了關於「手工編碼」樂趣消失的產業爭論。",
+      "keywords": [
+        "AI",
+        "Software Development",
+        "Programming",
+        "Jevons Paradox",
+        "Automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as an analytical overview of the evolving nature and future of the software development profession in the age of AI.",
+      "pacer_reason_zh": "本文屬於對人工智慧時代下軟體開發產業本質演變與未來的概念性分析與討論。"
+    },
+    {
+      "id": "aebc841ac4bd303e",
+      "title": "Quoting Les Orchard",
+      "url": "https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-12T16:28:07.000Z",
+      "summary_en": "AI-assisted coding is exposing a long-standing divide among developers between those who value the craft of hand-writing code and those focused primarily on product output. The shift to AI tools makes these diverging motivations visible by forcing developers to choose between manual craftsmanship and machine-directed generation.",
+      "summary_zh": "AI 輔助編程揭示了開發者之間長期存在的分歧：即重視手寫代碼工藝的人，與主要專注於產出結果的人。AI 工具的普及迫使開發者在手寫工藝與機器輔助之間做出選擇，從而使這種不同的內在動機變得清晰可見。",
+      "keywords": [
+        "AI",
+        "programming",
+        "software engineering",
+        "generative AI",
+        "developer culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a theoretical shift in software development culture caused by AI adoption, explaining the 'why' behind the emerging divide.",
+      "pacer_reason_zh": "本文探討了由 AI 採用所引發的軟體開發文化理論性轉變，解釋了這種新興分歧背後的深層原因。"
+    },
+    {
+      "id": "f622f9384d7c4ba6",
+      "title": "Sorting algorithms",
+      "url": "https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-11T22:58:06.000Z",
+      "summary_en": "Simon Willison demonstrates how to use Claude Artifacts to generate interactive, animated visualizations of various sorting algorithms. He showcases the process of using AI to code these animations, including Python's complex Timsort algorithm, by refining prompts and referencing source code.",
+      "summary_zh": "Simon Willison 展示了如何利用 Claude Artifacts 生成各種排序演算法的互動式動畫演示。他分享了如何透過提示詞優化與引用 Python 源代碼，讓 AI 協助編寫並呈現包含 Timsort 在內的演算法動態視覺化過程。",
+      "keywords": [
+        "sorting algorithms",
+        "Claude Artifacts",
+        "Timsort",
+        "data visualization",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article details a workflow and process for creating specific software artifacts using AI prompting.",
+      "pacer_reason_zh": "本文詳細介紹了如何透過 AI 提示詞來建立特定軟體產出物的工作流程與步驟。"
+    },
+    {
+      "id": "ac148f86cea7d4b1",
+      "title": "Can the MacBook Neo replace my M4 Air?",
+      "url": "https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-03-12T17:50:00.000Z",
+      "summary_en": "The author evaluates whether the MacBook Neo can serve as a suitable travel companion, drawing on his history of preferring portable, lightweight laptops. He contrasts the 'Neo' against his high-performance M4 Max Mac Studio desktop setup.",
+      "summary_zh": "作者評估 MacBook Neo 是否能作為合適的旅行筆電，並回顧了他對輕便型筆電的偏好。他將這款新機型與他高效能的 M4 Max Mac Studio 桌機進行了比較。",
+      "keywords": [
+        "MacBook Neo",
+        "M4 Air",
+        "Apple",
+        "Laptop",
+        "Portability"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's existing desktop workflow as an analogy to evaluate the purpose and fit of a new laptop.",
+      "pacer_reason_zh": "文章以作者現有的桌機工作流程作為類比，藉此評估新款筆電的定位與適用性。"
+    },
     {
       "id": "f2b7882a3d26c07c",
       "title": "Every minute you aren’t running 69 agents, you are falling behind",
