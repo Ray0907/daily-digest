@@ -4,8 +4,161 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 12 Mar 2026 22:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 22:05:21 GMT</lastBuildDate>
     
+    <item>
+      <title>What do coders do after AI?</title>
+      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
+      <guid>https://anildash.com/2026/03/13/coders-after-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash discusses how AI is transforming the role of software developers, distinguishing between corporate layoffs and the actual utility of LLMs. He argues that unlike creative fields where AI consumes the 'soulful' work, coding AI removes drudgery, allowing developers to focus on the human and creative aspects of software engineering.</description>
+    </item>
+
+    <item>
+      <title>Btw: Software, turnkey, beheerd, as a service</title>
+      <link>https://berthub.eu/articles/posts/software-turnkey-as-a-service/</link>
+      <guid>https://berthub.eu/articles/posts/software-turnkey-as-a-service/</guid>
+      <pubDate>Fri, 13 Mar 2026 11:43:53 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The Dutch Tax and Customs Administration plans to outsource VAT processing to an American firm, raising significant concerns about data sovereignty. Bert Hubert highlights that the core issue is not just using American software, but the full management of these systems by a foreign entity.</description>
+    </item>
+
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</link>
+      <guid>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 13 Mar 2026 17:33:40 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This entry explores the historical significance and complexities surrounding the trial of Galileo Galilei. It examines the intellectual and religious tensions of the era that led to one of history's most famous conflicts between science and doctrine.</description>
+    </item>
+
+    <item>
+      <title>Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute</title>
+      <link>https://www.dwarkesh.com/p/dylan-patel</link>
+      <guid>https://www.dwarkesh.com/p/dylan-patel</guid>
+      <pubDate>Fri, 13 Mar 2026 16:00:42 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion explores the primary hardware and infrastructure constraints currently limiting AI scalability. It analyzes why high-performance chips like the H100 have significantly appreciated in value due to supply-demand imbalances and technical bottlenecks.</description>
+    </item>
+
+    <item>
+      <title>Forge</title>
+      <link>https://nesbitt.io/2026/03/13/forge.html</link>
+      <guid>https://nesbitt.io/2026/03/13/forge.html</guid>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author introduces 'Forge,' a unified CLI tool designed to standardize interactions across various Git platforms like GitHub, GitLab, and Gitea. By abstracting the inconsistent APIs and command structures of existing tools, Forge provides a consistent interface for human developers and AI agents.</description>
+    </item>
+
+    <item>
+      <title>Everything's Casino</title>
+      <link>https://www.joanwestenberg.com/everythings-casino/</link>
+      <guid>https://www.joanwestenberg.com/everythings-casino/</guid>
+      <pubDate>Fri, 13 Mar 2026 02:38:03 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The article depicts a hypothetical military strike titled 'Operation Epic Fury,' framing modern warfare through the lens of high-stakes gambling. It suggests that international conflicts are increasingly treated with the volatility and risk-taking characteristic of casino games.</description>
+    </item>
+
+    <item>
+      <title>Typesetting sheet music with AI</title>
+      <link>https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/</link>
+      <guid>https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 15:15:50 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author shares his experience using AI to generate code for Lilypond, a specialized typesetting language for sheet music. Despite the obscurity of the language and limited training data, the AI proves surprisingly effective at creating musical notation for his theory-related posts.</description>
+    </item>
+
+    <item>
+      <title>Windows stack limit checking retrospective: MIPS</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</guid>
+      <pubDate>Fri, 13 Mar 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores the technical complexities involved in optimizing stack limit checks within the MIPS architecture. It examines the trade-offs of removing redundant probes to improve system performance.</description>
+    </item>
+
+    <item>
+      <title>Windows stack limit checking retrospective: x86-32, also known as i386</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</guid>
+      <pubDate>Thu, 12 Mar 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores the historical implementation of stack limit checking on the x86-32 architecture within Windows. It highlights the unique and unconventional calling conventions used in this legacy environment.</description>
+    </item>
+
+    <item>
+      <title>An odd font rendering bug in Firefox and Safari</title>
+      <link>https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</link>
+      <guid>https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</guid>
+      <pubDate>Fri, 13 Mar 2026 12:34:09 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author identifies a specific font rendering bug affecting the display of certain characters in Firefox and Safari. The issue appears to be browser-specific, as the same content renders correctly in Chrome.</description>
+    </item>
+
+    <item>
+      <title>The web in 1000 lines of C</title>
+      <link>https://maurycyz.com/projects/tinyweb/</link>
+      <guid>https://maurycyz.com/projects/tinyweb/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>The author documents the process of building a minimal web browser in just 1,000 lines of C code. The article demonstrates how to handle core browser functions like HTTP requests, DNS lookups, and HTML parsing to navigate the modern web.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Three more AI psychoses (12 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/12/normal-technology/</link>
+      <guid>https://pluralistic.net/2026/03/12/normal-technology/</guid>
+      <pubDate>Fri, 13 Mar 2026 02:17:20 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>The article discusses the term 'AI psychosis,' describing how chatbots can induce or amplify delusional behavior in users. It suggests that while this phenomenon is alarming, it should be understood as a continuation of existing psychological patterns, comparing it to historical psychosomatic conditions like Morgellons.</description>
+    </item>
+
+    <item>
+      <title>It's Work that taught me how to think </title>
+      <link>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</link>
+      <guid>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author reflects on their experience dropping out of a computer science program due to the disconnect between academic instruction and real-world application. They highlight how the pressure for grades stifled genuine curiosity, contrasting this with the practical problem-solving skills learned through hands-on work.</description>
+    </item>
+
+    <item>
+      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
+      <link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</guid>
+      <pubDate>Fri, 13 Mar 2026 18:29:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has made the 1-million-token context window generally available for Claude 3.5 Opus and Sonnet models. Notably, the company is not charging a premium for long-context usage, differentiating its pricing strategy from competitors like OpenAI and Google.</description>
+    </item>
+
+    <item>
+      <title>Quoting Craig Mod</title>
+      <link>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Craig Mod shares his experience building a custom accounting tool using AI assistance to solve limitations in off-the-shelf software. The project demonstrates the power of 'vibe-coding,' where LLMs enable rapid, personalized software development that perfectly fits specific professional needs.</description>
+    </item>
+
+    <item>
+      <title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
+      <link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</guid>
+      <pubDate>Fri, 13 Mar 2026 03:44:34 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Shopify CEO Tobias Lütke utilized a coding agent-based approach to perform over 120 automated experiments on the Liquid template engine. These optimizations resulted in a 53% improvement in parse and render speeds and a 61% reduction in memory allocations.</description>
+    </item>
+
+    <item>
+      <title>Restoring an Xserve G5: When Apple built real servers</title>
+      <link>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</guid>
+      <pubDate>Fri, 13 Mar 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling explores the history and hardware challenges of the Apple Xserve G5, a PowerPC-era server. He highlights the common failure point caused by the 'Capacitor Plague' in the Delta power supply units due to thermal stress.</description>
+    </item>
+
     <item>
       <title>Introduction to SQLAlchemy 2 In Practice</title>
       <link>https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice</link>
@@ -757,159 +910,6 @@ http://antirez.com/news/162
       <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
       <source url="https://xeiaso.net/">Xe Iaso's blog</source>
       <description>The author shares a personal reflection on recovering from surgery, finding unexpected comfort in the constant, rhythmic presence of hospital equipment. It explores the relationship between medical technology and the human experience during vulnerable moments.</description>
-    </item>
-
-    <item>
-      <title>Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</link>
-      <guid>https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</guid>
-      <pubDate>Sat, 07 Mar 2026 12:34:04 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews 'The Electronic Criminals' by Robert Farr, a 1975 book exploring the nascent world of early computing crime. While the reviewer praises the book's initial insights into historical cyber threats, they note that the narrative loses momentum due to the limited scope of computer-related crime at the time.</description>
-    </item>
-
-    <item>
-      <title>How to Host your Own Email Server</title>
-      <link>https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server</link>
-      <guid>https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server</guid>
-      <pubDate>Fri, 06 Mar 2026 16:10:41 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description>This article explores the process of self-hosting an email server to avoid reliance on third-party services like Mailgun or SendGrid. The author provides a guide on setting up a server capable of sending emails that pass authentication checks from major providers.</description>
-    </item>
-
-    <item>
-      <title>semaglutide-has-changed-the-world</title>
-      <link>https://chadnauseam.com/random/semaglutide-has-changed-the-world</link>
-      <guid>https://chadnauseam.com/random/semaglutide-has-changed-the-world</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article explores the transformative impact of semaglutide on global health and the pharmaceutical industry. It examines how this medication has reshaped treatments for obesity and type 2 diabetes.</description>
-    </item>
-
-    <item>
-      <title>chewier-foods-for-children</title>
-      <link>https://chadnauseam.com/random/chewier-foods-for-children</link>
-      <guid>https://chadnauseam.com/random/chewier-foods-for-children</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article discusses the importance and benefits of introducing chewier, texturally diverse foods into a child's diet. It highlights how these foods support oral motor development and feeding skills during early growth stages.</description>
-    </item>
-
-    <item>
-      <title>solving-macro</title>
-      <link>https://chadnauseam.com/economics/solving-macro</link>
-      <guid>https://chadnauseam.com/economics/solving-macro</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>The article titled 'solving-macro' lacks specific content for analysis. Therefore, it is impossible to summarize the key points or determine its core subject matter.</description>
-    </item>
-
-    <item>
-      <title>whats-wrong-with-a-for-loop</title>
-      <link>https://chadnauseam.com/coding/tips/whats-wrong-with-a-for-loop</link>
-      <guid>https://chadnauseam.com/coding/tips/whats-wrong-with-a-for-loop</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article explores the technical limitations and performance nuances of using for-loops in programming. It discusses why modern developers often prefer functional programming paradigms or higher-order functions over traditional loop structures.</description>
-    </item>
-
-    <item>
-      <title>my-rustfmt-toml</title>
-      <link>https://chadnauseam.com/coding/tips/my-rustfmt-toml</link>
-      <guid>https://chadnauseam.com/coding/tips/my-rustfmt-toml</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This post serves as a personal reference for configuring the Rustfmt tool. It provides the specific 'rustfmt.toml' settings used by the author to maintain consistent code formatting.</description>
-    </item>
-
-    <item>
-      <title>git-collapse-commits</title>
-      <link>https://chadnauseam.com/coding/tips/git-collapse-commits</link>
-      <guid>https://chadnauseam.com/coding/tips/git-collapse-commits</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article discusses the utility and methodology of collapsing Git commits to maintain a clean and readable project history. It serves as a guide for developers looking to squash incremental changes into coherent, meaningful commits.</description>
-    </item>
-
-    <item>
-      <title>levers-in-the-brain</title>
-      <link>https://chadnauseam.com/coding/random/levers-in-the-brain</link>
-      <guid>https://chadnauseam.com/coding/random/levers-in-the-brain</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article explores the concept of 'levers' within the brain, examining how specific cognitive mechanisms or neural pathways can be manipulated to produce outsized effects on human behavior. It investigates the theoretical framework behind mental leverage and its application in personal development.</description>
-    </item>
-
-    <item>
-      <title>how-side-effects-work-in-fp</title>
-      <link>https://chadnauseam.com/coding/random/how-side-effects-work-in-fp</link>
-      <guid>https://chadnauseam.com/coding/random/how-side-effects-work-in-fp</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article explores the concept of side effects within functional programming. It explains how functions manage state changes and external interactions while maintaining the principles of pure code.</description>
-    </item>
-
-    <item>
-      <title>four-issues-facing-fp</title>
-      <link>https://chadnauseam.com/coding/pltd/four-issues-facing-fp</link>
-      <guid>https://chadnauseam.com/coding/pltd/four-issues-facing-fp</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>The article discusses four distinct issues currently affecting Field Programmable (FP) technology. It provides an analysis of the challenges facing developers and systems using these components.</description>
-    </item>
-
-    <item>
-      <title>automated-testing-in-bevy</title>
-      <link>https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy</link>
-      <guid>https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article discusses the implementation of automated testing within the Bevy game engine ecosystem. It explores methods for verifying system behavior and ensuring code stability during development.</description>
-    </item>
-
-    <item>
-      <title>a-hackers-case-for-crypto</title>
-      <link>https://chadnauseam.com/coding/cryptocurrency/a-hackers-case-for-crypto</link>
-      <guid>https://chadnauseam.com/coding/cryptocurrency/a-hackers-case-for-crypto</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article explores the philosophical and technical motivations for cryptocurrency from a hacker's perspective. It examines how decentralization and cryptographic principles align with the core values of the hacking community.</description>
-    </item>
-
-    <item>
-      <title>Astral Codex Ten</title>
-      <link>https://chadnauseam.com/reference/Astral+Codex+Ten</link>
-      <guid>https://chadnauseam.com/reference/Astral+Codex+Ten</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article discusses the nuances of the Astral Codex Ten, a popular Substack newsletter known for its analytical essays. It explores the intellectual landscape of the content and the community discourse surrounding it.</description>
-    </item>
-
-    <item>
-      <title>ACXD</title>
-      <link>https://chadnauseam.com/reference/ACXD</link>
-      <guid>https://chadnauseam.com/reference/ACXD</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>The provided article titled 'ACXD' from Chad Nauseam Home lacks content, making it impossible to summarize its core message. As a result, the subject matter remains unidentified.</description>
-    </item>
-
-    <item>
-      <title>faq</title>
-      <link>https://chadnauseam.com/faq</link>
-      <guid>https://chadnauseam.com/faq</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This page serves as a frequently asked questions (FAQ) resource for the Chad Nauseam website. It provides answers to common inquiries to assist visitors in navigating the site content.</description>
-    </item>
-
-    <item>
-      <title>anime-recommendations</title>
-      <link>https://chadnauseam.com/anime/anime-recommendations</link>
-      <guid>https://chadnauseam.com/anime/anime-recommendations</guid>
-      <pubDate>Sat, 07 Mar 2026 10:25:36 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This post provides a curated list of anime recommendations for viewers. It serves as a guide for discovering new series across various genres.</description>
     </item>
   </channel>
 </rss>

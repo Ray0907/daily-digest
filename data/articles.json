@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-03-12T22:04:25.262Z",
+  "last_updated": "2026-03-13T22:05:21.608Z",
   "articles": [
+    {
+      "id": "d64d77e646ab3f7d",
+      "title": "What do coders do after AI?",
+      "url": "https://anildash.com/2026/03/13/coders-after-ai/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-03-13T00:00:00.000Z",
+      "summary_en": "Anil Dash discusses how AI is transforming the role of software developers, distinguishing between corporate layoffs and the actual utility of LLMs. He argues that unlike creative fields where AI consumes the 'soulful' work, coding AI removes drudgery, allowing developers to focus on the human and creative aspects of software engineering.",
+      "summary_zh": "Anil Dash 探討了人工智慧如何改變軟體開發者的角色，釐清了企業裁員與大型語言模型（LLM）實際用途之間的差異。他認為與創意產業中 AI 奪走「靈魂」不同，編碼領域的 AI 主要負責消除瑣碎工作，讓開發者能專注於軟體工程中更具人性與創造性的部分。",
+      "keywords": [
+        "AI",
+        "Coding",
+        "Software Engineering",
+        "Automation",
+        "Tech Industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how AI fits into the software development lifecycle, explaining the paradigm shift in the programmer's role.",
+      "pacer_reason_zh": "本文針對 AI 如何融入軟體開發生命週期進行概念性分析，解釋了程式設計師角色轉變的範式轉移。"
+    },
+    {
+      "id": "d88100cbf748f2db",
+      "title": "Btw: Software, turnkey, beheerd, as a service",
+      "url": "https://berthub.eu/articles/posts/software-turnkey-as-a-service/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-03-13T11:43:53.000Z",
+      "summary_en": "The Dutch Tax and Customs Administration plans to outsource VAT processing to an American firm, raising significant concerns about data sovereignty. Bert Hubert highlights that the core issue is not just using American software, but the full management of these systems by a foreign entity.",
+      "summary_zh": "荷蘭稅務海關總署計劃將增值稅處理業務外包給一家美國公司，引發了對數據主權的嚴重擔憂。Bert Hubert 強調，核心問題不僅在於使用美國軟體，還包括這些系統將由外國實體全面託管的事實。",
+      "keywords": [
+        "VAT",
+        "data sovereignty",
+        "outsourcing",
+        "Netherlands",
+        "software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the policy implications and risks surrounding the outsourcing of critical government infrastructure.",
+      "pacer_reason_zh": "本文針對政府基礎設施外包的政策影響與潛在風險，提供了概念性的評論與分析。"
+    },
+    {
+      "id": "6bce7fe828e91b82",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-03-13T17:33:40.000Z",
+      "summary_en": "This entry explores the historical significance and complexities surrounding the trial of Galileo Galilei. It examines the intellectual and religious tensions of the era that led to one of history's most famous conflicts between science and doctrine.",
+      "summary_zh": "本篇探討伽利略審判的歷史意義與複雜性。文章深入剖析了當時的智識與宗教張力，這些因素最終引發了歷史上最著名的科學與教義衝突之一。",
+      "keywords": [
+        "Galileo",
+        "History of Science",
+        "The Digital Antiquarian",
+        "Galileo's Trial",
+        "Intellectual History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a historical analysis and conceptual explanation of the events and intellectual themes surrounding Galileo's trial.",
+      "pacer_reason_zh": "本文針對伽利略審判的歷史事件與思想主題進行了概念性的分析與解釋。"
+    },
+    {
+      "id": "23a4a20fcb45b5af",
+      "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute",
+      "url": "https://www.dwarkesh.com/p/dylan-patel",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-03-13T16:00:42.000Z",
+      "summary_en": "This discussion explores the primary hardware and infrastructure constraints currently limiting AI scalability. It analyzes why high-performance chips like the H100 have significantly appreciated in value due to supply-demand imbalances and technical bottlenecks.",
+      "summary_zh": "本篇深入探討目前限制 AI 擴展的三大主要硬體與基礎設施瓶頸。文中分析了為何像 H100 這樣的處理器因供需失衡與技術門檻，其價值在過去三年內大幅攀升。",
+      "keywords": [
+        "AI compute",
+        "H100",
+        "hardware bottlenecks",
+        "scaling AI",
+        "semiconductors"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the high-level conceptual reasons and market factors behind AI compute scalability issues.",
+      "pacer_reason_zh": "內容重點在於解釋 AI 運算擴展瓶頸背後的概念性原因與市場因素。"
+    },
+    {
+      "id": "1b84f4b409650cf9",
+      "title": "Forge",
+      "url": "https://nesbitt.io/2026/03/13/forge.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-13T10:00:00.000Z",
+      "summary_en": "The author introduces 'Forge,' a unified CLI tool designed to standardize interactions across various Git platforms like GitHub, GitLab, and Gitea. By abstracting the inconsistent APIs and command structures of existing tools, Forge provides a consistent interface for human developers and AI agents.",
+      "summary_zh": "作者推出了「Forge」，這是一款旨在統一 GitHub、GitLab 和 Gitea 等不同 Git 平台互動的 CLI 工具。透過抽象化現有工具不一致的 API 和指令結構，Forge 為人類開發者和 AI 代理提供了一致的操作介面。",
+      "keywords": [
+        "CLI",
+        "Git",
+        "Forge",
+        "Open Source",
+        "API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a project introduction and guide to a new tool designed to solve a specific workflow problem.",
+      "pacer_reason_zh": "該文章介紹了一項新工具，並說明如何解決特定工作流程中的操作問題，屬於程序性教學與工具介紹。"
+    },
+    {
+      "id": "2f141a40d1696583",
+      "title": "Everything's Casino",
+      "url": "https://www.joanwestenberg.com/everythings-casino/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-03-13T02:38:03.000Z",
+      "summary_en": "The article depicts a hypothetical military strike titled 'Operation Epic Fury,' framing modern warfare through the lens of high-stakes gambling. It suggests that international conflicts are increasingly treated with the volatility and risk-taking characteristic of casino games.",
+      "summary_zh": "本文以「Epic Fury 行動」為例，將現代軍事衝突比擬為高風險的博弈遊戲。文中暗示當前國際地緣政治的決策過程，正逐漸展現出如同賭場般的高度不確定性與風險。 ",
+      "keywords": [
+        "Geopolitics",
+        "Warfare",
+        "Risk",
+        "Strategy",
+        "Operation Epic Fury"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The piece uses the casino as an analogy to explain the nature of modern military operations and geopolitical decision-making.",
+      "pacer_reason_zh": "文章以賭場作為類比，用來解釋現代軍事行動與地緣政治決策的本質。"
+    },
+    {
+      "id": "50d623bb82f4cd20",
+      "title": "Typesetting sheet music with AI",
+      "url": "https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-13T15:15:50.000Z",
+      "summary_en": "The author shares his experience using AI to generate code for Lilypond, a specialized typesetting language for sheet music. Despite the obscurity of the language and limited training data, the AI proves surprisingly effective at creating musical notation for his theory-related posts.",
+      "summary_zh": "作者分享了使用 AI 生成音樂排版語言 Lilypond 代碼的經驗。儘管該語言相對冷門且公開的訓練數據有限，AI 依然能有效協助產出音樂理論相關文章所需的樂譜編碼。",
+      "keywords": [
+        "Lilypond",
+        "AI",
+        "sheet music",
+        "typesetting",
+        "music theory"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a personal case study reporting on the practical results and effectiveness of using AI for a specific, niche task.",
+      "pacer_reason_zh": "本文屬於個人案例研究，旨在報告將 AI 應用於特定小眾任務的實際成果與效能。"
+    },
+    {
+      "id": "49d7902861a9748e",
+      "title": "Windows stack limit checking retrospective: MIPS",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-13T14:00:00.000Z",
+      "summary_en": "This article explores the technical complexities involved in optimizing stack limit checks within the MIPS architecture. It examines the trade-offs of removing redundant probes to improve system performance.",
+      "summary_zh": "本文探討了在 MIPS 架構中優化堆疊限制檢查的技術複雜性。文章分析了移除冗餘探測以提升系統效能時所面臨的權衡與挑戰。",
+      "keywords": [
+        "Windows",
+        "MIPS",
+        "Stack limit",
+        "Optimization",
+        "Compiler"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical and architectural concepts behind stack limit checking implementation.",
+      "pacer_reason_zh": "該文章解釋了堆疊限制檢查實作背後的理論與架構概念。"
+    },
+    {
+      "id": "d4950f67d9627706",
+      "title": "Windows stack limit checking retrospective: x86-32, also known as i386",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-12T14:00:00.000Z",
+      "summary_en": "This article explores the historical implementation of stack limit checking on the x86-32 architecture within Windows. It highlights the unique and unconventional calling conventions used in this legacy environment.",
+      "summary_zh": "本文回顧了 Windows 在 x86-32 架構下實作堆疊限制檢查的歷史。文章強調了該遺留環境中所使用獨特且非典型的呼叫慣例。",
+      "keywords": [
+        "Windows",
+        "x86-32",
+        "stack limit",
+        "calling convention",
+        "retrocomputing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how specific legacy architectural mechanisms and calling conventions functioned.",
+      "pacer_reason_zh": "本文對特定的遺留架構機制與呼叫慣例的運作方式提供了概念性的解釋。"
+    },
+    {
+      "id": "b0447b38523cc7d5",
+      "title": "An odd font rendering bug in Firefox and Safari",
+      "url": "https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-13T12:34:09.000Z",
+      "summary_en": "The author identifies a specific font rendering bug affecting the display of certain characters in Firefox and Safari. The issue appears to be browser-specific, as the same content renders correctly in Chrome.",
+      "summary_zh": "作者在 Firefox 和 Safari 瀏覽器中發現了一個特殊的字體渲染錯誤，導致特定字元顯示異常。此問題在 Chrome 中並未發生，顯示為瀏覽器渲染差異。",
+      "keywords": [
+        "font rendering",
+        "web development",
+        "browser bug",
+        "Firefox",
+        "Safari"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post acts as an observation of a technical bug report, functioning as a case study of inconsistent rendering behavior.",
+      "pacer_reason_zh": "本文是對技術錯誤報告的觀察，作為瀏覽器渲染不一致行為的案例研究。"
+    },
+    {
+      "id": "0c6996744e1cc0ce",
+      "title": "The web in 1000 lines of C",
+      "url": "https://maurycyz.com/projects/tinyweb/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-03-12T00:00:00.000Z",
+      "summary_en": "The author documents the process of building a minimal web browser in just 1,000 lines of C code. The article demonstrates how to handle core browser functions like HTTP requests, DNS lookups, and HTML parsing to navigate the modern web.",
+      "summary_zh": "作者記錄了如何僅使用 1,000 行 C 語言程式碼來構建一個極簡的網頁瀏覽器。文章演示了處理 HTTP 請求、DNS 查詢和 HTML 解析等核心瀏覽器功能，以實現瀏覽網頁的目標。",
+      "keywords": [
+        "web browser",
+        "C programming",
+        "HTTP",
+        "DNS",
+        "networking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a technical walkthrough of building a custom browser, detailing the steps from network connection to rendering.",
+      "pacer_reason_zh": "本文是一個構建自定義瀏覽器的技術實作指南，詳細介紹了從網路連線到頁面渲染的步驟。"
+    },
+    {
+      "id": "80ef9dcdd3a5c141",
+      "title": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/12/normal-technology/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-13T02:17:20.000Z",
+      "summary_en": "The article discusses the term 'AI psychosis,' describing how chatbots can induce or amplify delusional behavior in users. It suggests that while this phenomenon is alarming, it should be understood as a continuation of existing psychological patterns, comparing it to historical psychosomatic conditions like Morgellons.",
+      "summary_zh": "本文探討了「AI 精神錯亂」（AI psychosis）一詞，描述聊天機器人如何誘發或加劇使用者的妄想行為。文章指出，儘管這種現象令人擔憂，但應將其視為既有心理模式的延續，並將其與摩吉隆斯症（Morgellons）等歷史上的心身症狀進行了比較。",
+      "keywords": [
+        "AI",
+        "psychosis",
+        "chatbot",
+        "psychology",
+        "delusion"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores and defines a theoretical concept ('AI psychosis') and situates it within the broader context of psychological history.",
+      "pacer_reason_zh": "內容探討並定義了一個理論概念（AI 精神錯亂），並將其置於更廣泛的心理學史背景下進行解釋。"
+    },
+    {
+      "id": "de1bf8f819354f22",
+      "title": "It's Work that taught me how to think ",
+      "url": "https://idiallo.com/blog/work-taught-me-how-to-think?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-13T12:00:00.000Z",
+      "summary_en": "The author reflects on their experience dropping out of a computer science program due to the disconnect between academic instruction and real-world application. They highlight how the pressure for grades stifled genuine curiosity, contrasting this with the practical problem-solving skills learned through hands-on work.",
+      "summary_zh": "作者回顧了自己從計算機科學專業退學的經歷，並反思了學術教育與現實應用之間的脫節。他們強調了對分數的追求如何抑制了求知慾，並將其與在實務工作中獲得的解決問題能力進行了對比。",
+      "keywords": [
+        "education",
+        "computer science",
+        "learning",
+        "career",
+        "experience"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the contrast between a college classroom and a warehouse job as an analogy to discuss the value of experiential learning versus traditional education.",
+      "pacer_reason_zh": "文章透過大學教室與倉庫工作之間的對比作為類比，探討體驗式學習與傳統教育的價值差異。"
+    },
+    {
+      "id": "b44975ba0c8f6cc6",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-13T18:29:13.000Z",
+      "summary_en": "Anthropic has made the 1-million-token context window generally available for Claude 3.5 Opus and Sonnet models. Notably, the company is not charging a premium for long-context usage, differentiating its pricing strategy from competitors like OpenAI and Google.",
+      "summary_zh": "Anthropic 已正式對 Claude 3.5 Opus 和 Sonnet 模型開放 100 萬 token 的上下文視窗。值得注意的是，該公司針對長上下文應用並不收取額外費用，這與 OpenAI 和 Google 的定價策略形成了鮮明對比。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "LLM",
+        "Long-context",
+        "Pricing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a factual update on service availability and compares specific pricing models against competitors.",
+      "pacer_reason_zh": "該文章提供了關於服務可用性的事實更新，並將其定價模式與競爭對手進行了具體比較。"
+    },
+    {
+      "id": "8e2f60890354805d",
+      "title": "Quoting Craig Mod",
+      "url": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-13T17:14:29.000Z",
+      "summary_en": "Craig Mod shares his experience building a custom accounting tool using AI assistance to solve limitations in off-the-shelf software. The project demonstrates the power of 'vibe-coding,' where LLMs enable rapid, personalized software development that perfectly fits specific professional needs.",
+      "summary_zh": "Craig Mod 分享了他利用 AI 輔助開發個人專屬會計軟體的經驗，以解決市售軟體的功能限制。此案例展示了「感覺編碼」(vibe-coding) 的潛力，說明如何透過大型語言模型快速打造高度客製化且符合專業需求的軟體。",
+      "keywords": [
+        "vibe-coding",
+        "AI-assisted programming",
+        "custom software",
+        "LLMs",
+        "productivity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a first-person case study demonstrating the practical results and benefits of AI-assisted programming.",
+      "pacer_reason_zh": "本文作為第一人稱案例研究，展示了 AI 輔助程式開發的實際成果與效益。"
+    },
+    {
+      "id": "f4a7e2076600b302",
+      "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+      "url": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-13T03:44:34.000Z",
+      "summary_en": "Shopify CEO Tobias Lütke utilized a coding agent-based approach to perform over 120 automated experiments on the Liquid template engine. These optimizations resulted in a 53% improvement in parse and render speeds and a 61% reduction in memory allocations.",
+      "summary_zh": "Shopify 執行長 Tobias Lütke 運用編碼代理程式對 Liquid 模板引擎進行了超過 120 次自動化實驗。這些微優化使解析與渲染速度提升了 53%，記憶體分配量則降低了 61%。",
+      "keywords": [
+        "Shopify",
+        "Liquid",
+        "Ruby",
+        "Performance",
+        "Optimization"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on performance benchmarks and technical optimization results derived from automated experimentation.",
+      "pacer_reason_zh": "本文重點在於自動化實驗所產生的效能基準測試數據與技術優化結果。"
+    },
+    {
+      "id": "e50ee25dd88e41ba",
+      "title": "Restoring an Xserve G5: When Apple built real servers",
+      "url": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-03-13T14:00:00.000Z",
+      "summary_en": "Jeff Geerling explores the history and hardware challenges of the Apple Xserve G5, a PowerPC-era server. He highlights the common failure point caused by the 'Capacitor Plague' in the Delta power supply units due to thermal stress.",
+      "summary_zh": "Jeff Geerling 探討了蘋果 PowerPC 時代伺服器 Xserve G5 的歷史與硬體挑戰。他特別指出，由於散熱問題，Delta 電源供應器常因「電容瘟疫」而導致損壞。",
+      "keywords": [
+        "Apple",
+        "Xserve",
+        "PowerPC",
+        "Retrocomputing",
+        "Hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the historical context and technical characteristics of a specific legacy hardware product.",
+      "pacer_reason_zh": "本文重點在於介紹特定舊款硬體產品的歷史背景與技術特性。"
+    },
     {
       "id": "37229028942d96dd",
       "title": "Introduction to SQLAlchemy 2 In Practice",
