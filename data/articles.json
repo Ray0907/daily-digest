@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-03-13T22:05:21.608Z",
+  "last_updated": "2026-03-14T22:03:05.407Z",
   "articles": [
+    {
+      "id": "5242ca2e9f489654",
+      "title": "How to use the Qwen 3.5 LLMs to OCR documents",
+      "url": "https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-03-13T00:00:00.000Z",
+      "summary_en": "This guide demonstrates how to utilize Qwen 3.5 open-weight models for optical character recognition (OCR) on scanned PDFs. It covers implementation options ranging from local deployment on consumer hardware to cost-effective API usage via OpenRouter.",
+      "summary_zh": "本指南介紹如何利用 Qwen 3.5 開放權重模型對掃描的 PDF 進行光學字元辨識 (OCR)。內容涵蓋了從個人電腦本地部署到透過 OpenRouter 進行經濟實惠的 API 調用的多種實作方式。",
+      "keywords": [
+        "Qwen 3.5",
+        "OCR",
+        "LLM",
+        "PDF",
+        "OpenRouter"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a practical guide for users to implement OCR tasks using specific LLMs.",
+      "pacer_reason_zh": "本文作為實用指南，指導使用者如何利用特定的語言模型執行 OCR 任務。"
+    },
+    {
+      "id": "2f61111f509d1efb",
+      "title": "Last-Run Syndication",
+      "url": "https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-03-14T01:41:56.000Z",
+      "summary_en": "This article explores the decline of the first-run syndication television model, which once allowed independent stations to thrive and kept popular shows relevant. It explains the historical economic incentives that made syndication profitable for producers and advertisers, and examines why major companies like NBCUniversal are now abandoning the practice.",
+      "summary_zh": "本文探討了電視「首輪聯播」（first-run syndication）商業模式的衰落，該模式曾讓獨立電視台得以蓬勃發展並延續熱門節目的生命力。文章解析了過去推動聯播市場的經濟誘因，並分析了為何如今 NBCUniversal 等大型媒體公司正逐步放棄此類業務。",
+      "keywords": [
+        "television",
+        "syndication",
+        "media business",
+        "NBCUniversal",
+        "broadcasting"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the historical business model of first-run syndication and the factors leading to its current decline.",
+      "pacer_reason_zh": "本文針對首輪聯播的歷史商業模式及其衰落原因提供了概念性的解釋與分析。"
+    },
+    {
+      "id": "22b36117dd0016a2",
+      "title": "Reading List 03/14/26",
+      "url": "https://www.construction-physics.com/p/reading-list-031426",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-03-14T12:02:30.000Z",
+      "summary_en": "This digest covers a diverse range of current events, including geopolitical risks in the Strait of Hormuz and housing policy shifts in the US. It also highlights corporate developments from Honda and Travis Kalanick, alongside critical infrastructure issues in Corpus Christi.",
+      "summary_zh": "本篇摘要涵蓋了多項時事，包括荷姆茲海峽的地緣政治風險與美國建房出租政策的轉變。同時探討了本田汽車與 Travis Kalanick 的企業動態，以及科珀斯克里斯蒂市面臨的水資源危機。",
+      "keywords": [
+        "current events",
+        "geopolitics",
+        "housing policy",
+        "business news",
+        "infrastructure"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and topics for quick reference.",
+      "pacer_reason_zh": "該文章作為精選連結與主題列表，供讀者快速參考。"
+    },
+    {
+      "id": "d9e359470aafd129",
+      "title": "What’s Going On with FAIR Package Manager",
+      "url": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-03-14T10:00:00.000Z",
+      "summary_en": "The FAIR package manager was created as a decentralized response to the WordPress repository conflict, utilizing federated architecture and cryptographic security. Despite technical success, the project struggled to gain adoption after the WordPress dispute subsided and is now pivoting to support the TYPO3 CMS ecosystem.",
+      "summary_zh": "FAIR 套件管理器最初是為了應對 WordPress 存儲庫衝突而開發的去中心化解決方案，採用了聯邦式架構與密碼學安全性。儘管技術上取得了成功，但隨著 WordPress 爭議平息，該專案在推廣上遭遇挑戰，目前正轉向支持 TYPO3 CMS 生態系統。",
+      "keywords": [
+        "FAIR",
+        "package manager",
+        "decentralization",
+        "WordPress",
+        "TYPO3"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes the real-world case study of the FAIR project's development, adoption hurdles, and its subsequent strategic pivot.",
+      "pacer_reason_zh": "本文分析了 FAIR 專案的開發過程、推廣障礙及其後續策略轉向的實際案例研究。"
+    },
+    {
+      "id": "ba1eca33f6eb154e",
+      "title": "human.json",
+      "url": "https://evanhahn.com/human-dot-json/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-03-14T00:00:00.000Z",
+      "summary_en": "The author introduces human.json, a protocol that enables individuals to verify authorship and vouch for the humanity of others using URL-based identity. This decentralized system allows trust to propagate across the web through a crawlable network of cross-site attestations.",
+      "summary_zh": "作者介紹了 human.json 協議，這是一種讓使用者能透過網址身分來驗證內容原創性，並為他人的「人類身分」進行擔保的機制。該協議透過網站間的可爬取信任連結，建立起一個去中心化的信任網絡。",
+      "keywords": [
+        "human.json",
+        "protocol",
+        "authorship",
+        "identity",
+        "web"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual framework of the human.json protocol and its purpose for verifying human identity online.",
+      "pacer_reason_zh": "本文旨在解釋 human.json 協議的概念框架及其在網路身分驗證上的目的。"
+    },
+    {
+      "id": "98871ecf7197b209",
+      "title": "How Can Governments Pay Open Source Maintainers?",
+      "url": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-14T12:34:42.000Z",
+      "summary_en": "The article explores the complexities government bodies face when attempting to financially support open source software maintainers. It highlights the challenges of integrating public funding into the decentralized and community-driven open source ecosystem.",
+      "summary_zh": "本文探討了政府機構在試圖為開源軟體維護者提供資金支持時所面臨的複雜難題。作者分析了將公共資金納入去中心化且由社群驅動的開源生態系統時，所遭遇的各種挑戰與困境。",
+      "keywords": [
+        "open source",
+        "government policy",
+        "funding",
+        "software maintenance",
+        "public sector"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual challenges and theoretical frameworks behind government funding for open source projects.",
+      "pacer_reason_zh": "文章探討了政府為開源專案提供資金背後的概念性挑戰與理論架構。"
+    },
+    {
+      "id": "0e63368bae10c54a",
+      "title": "Pluralistic: Corrupt anticorruption (14 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-14T15:15:42.000Z",
+      "summary_en": "This post discusses the passage of a bipartisan Senate bill aimed at curbing private equity's control over the single-family housing market. Cory Doctorow critiques how historical policy decisions fueled corporate landlordism and exacerbated the housing affordability crisis.",
+      "summary_zh": "本文探討了美國參議院通過一項兩黨法案，旨在限制私募股權公司壟斷獨棟住宅市場。Cory Doctorow 批評過去的政策決策如何助長企業房東現象，並加劇了住房負擔能力危機。",
+      "keywords": [
+        "housing",
+        "private equity",
+        "policy",
+        "corporate landlordism",
+        "Elizabeth Warren"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides conceptual analysis and commentary on economic policies and the housing market landscape.",
+      "pacer_reason_zh": "該內容針對經濟政策與住房市場現狀提供了概念性的分析與評論。"
+    },
+    {
+      "id": "a661d9b2fb3240e2",
+      "title": "You Digg? ",
+      "url": "https://idiallo.com/byte-size/digg-is-gone-again?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-14T08:41:00.000Z",
+      "summary_en": "The author reflects on the history and eventual second shutdown of the social platform Digg, noting how a rise in AI-powered bot activity rendered the community unsustainable. This experience has led the author to retreat from future social platforms in favor of personal blogging.",
+      "summary_zh": "作者回顧了社群平台 Digg 的興衰史，並指出 AI 驅動的機器人氾濫導致平台最終再次倒閉。此次經歷讓作者對網路社群失去信心，轉而選擇經營個人部落格來進行真正的交流。",
+      "keywords": [
+        "Digg",
+        "online community",
+        "AI bots",
+        "social media",
+        "blogging"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the personal history and collapse of Digg as an analogy to discuss the broader, modern challenge of AI bots in online communities.",
+      "pacer_reason_zh": "本文透過 Digg 的興衰歷史作為類比，探討當前網路社群面臨 AI 機器人氾濫的普遍困境。"
+    },
+    {
+      "id": "36a4a05f393dfc9d",
+      "title": "Quoting Jannis Leidel",
+      "url": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-14T18:41:25.000Z",
+      "summary_en": "Jazzband, an open-source collective, is sunsetting its operations due to the overwhelming volume of AI-generated spam on GitHub. The surge in low-quality automated pull requests has rendered the organization's open-membership model unsustainable in the current software maintenance environment.",
+      "summary_zh": "開源社群 Jazzband 因 GitHub 上充斥著 AI 生成的垃圾訊息，宣佈停止營運。自動化產生的低品質請求激增，使得該組織原本開放成員參與的協作模式在當前環境下已無法維持。",
+      "keywords": [
+        "Jazzband",
+        "AI-generated spam",
+        "open source",
+        "GitHub",
+        "software maintenance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explains the shifts in open-source management dynamics caused by the rise of AI-generated content.",
+      "pacer_reason_zh": "本文從概念上闡述了因 AI 生成內容興起，導致開源專案管理模式面臨的轉變與挑戰。"
+    },
+    {
+      "id": "9df8827db37d5277",
+      "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+      "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-14T18:19:38.000Z",
+      "summary_en": "Simon Willison shares highlights from his fireside chat at the Pragmatic Summit, focusing on the evolution of AI-assisted software development. He discusses the shift from using simple LLMs to autonomous coding agents that can generate significant portions of a codebase.",
+      "summary_zh": "Simon Willison 分享了他在 Pragmatic Summit 座談會中的精華內容，探討軟體開發中 AI 輔助工具的演變。他討論了從使用簡單的 AI 模型到轉向由編碼代理（Coding Agents）生成大量程式碼的開發過程與轉折點。",
+      "keywords": [
+        "AI Engineering",
+        "Agentic Engineering",
+        "Software Development",
+        "Simon Willison",
+        "Coding Agents"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual insights into the evolving stages of AI adoption and the philosophy of agentic engineering.",
+      "pacer_reason_zh": "本文針對 AI 採納階段的演進以及代理工程（Agentic Engineering）的理念提供了概念性的見解。"
+    },
+    {
+      "id": "efbb208598c9537e",
+      "title": "Big tech engineers need big egos",
+      "url": "https://seangoedecke.com/big-tech-needs-big-egos/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-03-14T00:00:00.000Z",
+      "summary_en": "The article explores the controversial necessity of high self-esteem for engineers in large technology companies. It argues that a strong ego acts as a vital buffer against the inevitable scrutiny and complexity of high-stakes technical environments.",
+      "summary_zh": "本文探討了大型科技公司工程師是否需要強大自我意識的爭議性議題。作者認為，強大的自我意識是應對高風險技術環境中不可避免的審視與複雜挑戰的重要防護機制。",
+      "keywords": [
+        "engineering",
+        "big tech",
+        "soft skills",
+        "career development",
+        "psychology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument regarding workplace psychology and personal traits within the tech industry.",
+      "pacer_reason_zh": "本文針對科技業職場心理學與個人特質提供了概念性的論點。"
+    },
     {
       "id": "d64d77e646ab3f7d",
       "title": "What do coders do after AI?",
