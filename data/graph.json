@@ -1,6 +1,38 @@
 {
   "nodes": [
     {
+      "id": "388d2fe48bed683a",
+      "title": "Langford series",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/03/15/langford-series/",
+      "pacer": "C",
+      "keywords": [
+        "Langford series",
+        "mathematics",
+        "combinatorics",
+        "number sequences",
+        "John D. Cook"
+      ],
+      "published": "2026-03-15T19:49:13.000Z"
+    },
+    {
+      "id": "13e93934320f2b91",
+      "title": "Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/",
+      "pacer": "C",
+      "keywords": [
+        "space exploration",
+        "robots",
+        "book review",
+        "history of technology",
+        "space policy"
+      ],
+      "published": "2026-03-15T12:34:48.000Z"
+    },
+    {
       "id": "e0c368b9bd6d2798",
       "title": "BertVote Gemeenteraadsverkiezingen 2026",
       "source": "Bert Hubert's writings",
@@ -31,6 +63,22 @@
         "acceptance"
       ],
       "published": "2026-03-15T10:00:00.000Z"
+    },
+    {
+      "id": "6fc157f4956430e2",
+      "title": "Why Claude's new 1M context length is a big deal",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "context window",
+        "AI",
+        "LLM"
+      ],
+      "published": "2026-03-15T00:00:00.000Z"
     },
     {
       "id": "36a4a05f393dfc9d",
@@ -1009,22 +1057,6 @@
       "published": "2026-03-10T14:00:00.000Z"
     },
     {
-      "id": "ce90a80781d1808c",
-      "title": "Unstructured Data and the Joy of having Something Else think for you",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "automation",
-        "technology",
-        "cognitive bias",
-        "digital habits"
-      ],
-      "published": "2026-03-10T12:34:59.000Z"
-    },
-    {
       "id": "28ef34987c971f69",
       "title": "Weekly Update 494",
       "source": "Troy Hunt",
@@ -1087,22 +1119,6 @@
         "day planner"
       ],
       "published": "2026-03-09T22:44:03.000Z"
-    },
-    {
-      "id": "bed0faa4ed5f76db",
-      "title": "Trig composition table",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/09/trig-composition-table/",
-      "pacer": "R",
-      "keywords": [
-        "trigonometry",
-        "mathematics",
-        "reference table",
-        "composition",
-        "reciprocal functions"
-      ],
-      "published": "2026-03-09T22:16:09.000Z"
     },
     {
       "id": "94bc9eb52c8a60d1",
@@ -1745,6 +1761,16 @@
     }
   ],
   "links": [
+    {
+      "source": "6fc157f4956430e2",
+      "target": "b44975ba0c8f6cc6",
+      "shared_keywords": [
+        "Anthropic",
+        "Claude",
+        "LLM"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "bb5f5243c0e68825",
       "target": "9436ee5e1db35e0e",
