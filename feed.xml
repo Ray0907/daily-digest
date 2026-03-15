@@ -4,8 +4,26 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 14 Mar 2026 22:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:03:44 GMT</lastBuildDate>
     
+    <item>
+      <title>BertVote Gemeenteraadsverkiezingen 2026</title>
+      <link>https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</link>
+      <guid>https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</guid>
+      <pubDate>Sun, 15 Mar 2026 11:39:25 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>Bert Hubert discusses the upcoming 2026 Dutch municipal elections and his transition from the 'NerdVote' campaign. Because he is personally running as a candidate, he provides a curated list of recommended candidates he knows personally instead of a formal campaign.</description>
+    </item>
+
+    <item>
+      <title>Guided Meditation for Developers</title>
+      <link>https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</link>
+      <guid>https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</guid>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This piece uses the format of a guided meditation to address common developer stressors like npm dependency bloat, deprecated packages, and unresolved GitHub issues. It encourages software engineers to practice mindfulness and acceptance regarding the uncontrollable aspects of their codebase and work environment.</description>
+    </item>
+
     <item>
       <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
       <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -892,24 +910,6 @@ http://antirez.com/news/162
       <pubDate>Sun, 08 Mar 2026 16:08:41 GMT</pubDate>
       <source url="http://antirez.com/"></source>
       <description>The article discusses the ethical and legal parallels between modern AI-driven code reimplementations and the historical development of the GNU project. It highlights Richard Stallman's strategy of ensuring functional equivalence while adding unique features to protect against copyright litigation, contrasting this with current debates surrounding AI software generation.</description>
-    </item>
-
-    <item>
-      <title>Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?</title>
-      <link>https://simonwillison.net/2026/Mar/5/chardet/</link>
-      <guid>https://simonwillison.net/2026/Mar/5/chardet/</guid>
-      <pubDate>Sun, 08 Mar 2026 17:59:09 GMT</pubDate>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <description>The chardet Python library faces a legal and ethical dispute after its maintainer released a ground-up MIT-licensed rewrite. The original author, Mark Pilgrim, has publicly challenged the new maintainer's right to relicense the project, highlighting the complexities of using AI and clean-room implementations to change open source licensing.</description>
-    </item>
-
-    <item>
-      <title>Donald Knuth on Claude Opus Solving a Computer Science Problem</title>
-      <link>https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</link>
-      <guid>https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</guid>
-      <pubDate>Sun, 08 Mar 2026 17:49:08 GMT</pubDate>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <description>Legendary computer scientist Donald Knuth recounts his surprise after learning that the Claude Opus AI model successfully solved an open problem he had been researching for weeks. Knuth expresses admiration for this advancement in automated reasoning and creative problem-solving.</description>
     </item>
   </channel>
 </rss>
