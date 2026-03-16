@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-03-15T22:03:25.275Z",
+  "last_updated": "2026-03-16T22:08:28.668Z",
   "articles": [
+    {
+      "id": "bbcdfe872b350d94",
+      "title": "Why I Love FreeBSD",
+      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-03-16T08:10:00.000Z",
+      "summary_en": "This article reflects on the author's twenty-year journey with FreeBSD, highlighting how its core philosophy, stability, and community have profoundly influenced their approach to system design. It serves as a personal testimonial to the enduring value and reliability of the platform.",
+      "summary_zh": "本文回顧了作者與 FreeBSD 長達二十年的淵源，闡述了該系統的核心哲學、穩定性及其社群如何深刻影響其系統設計與運作方式。這是一篇關於該平台持久價值與可靠性的個人見證。",
+      "keywords": [
+        "FreeBSD",
+        "Unix",
+        "System Administration",
+        "Open Source",
+        "Operating Systems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on personal experience and the philosophy behind an operating system rather than a guide or data analysis.",
+      "pacer_reason_zh": "本文屬於對個人經驗與作業系統背後哲學的概念性反思，而非操作指南或數據分析。"
+    },
+    {
+      "id": "c7cc0a4fbd6ea004",
+      "title": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
+      "url": "https://berthub.eu/articles/posts/updates-opentk-maart-2026/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-03-16T19:40:09.000Z",
+      "summary_en": "This post announces updates to the OpenTK platform, which improves parliamentary documentation navigation by making document and case numbers clickable. These enhancements follow user feedback regarding improved cross-referencing capabilities within the system.",
+      "summary_zh": "這篇文章宣布了 OpenTK 平台的更新，現在可以將國會文件中的文件編號與案件編號轉為可點擊連結。這些改進回應了用戶對於增強檔案間交叉引用功能的期待。",
+      "keywords": [
+        "OpenTK",
+        "Dutch politics",
+        "parliamentary documents",
+        "web platform",
+        "software updates"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual purpose and functionality updates of a specific software tool.",
+      "pacer_reason_zh": "本文解釋了特定軟體工具的功能更新及其概念性用途。"
+    },
+    {
+      "id": "d381a797d6aed4cf",
+      "title": "Food, Software, and Trade-offs",
+      "url": "https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-03-15T19:00:00.000Z",
+      "summary_en": "The author uses food analogies to illustrate that quality is subjective and dependent on context. He argues that all decisions, whether in cooking or software development, involve inherent trade-offs that cannot be ignored or generalized.",
+      "summary_zh": "作者透過食物類比來說明品質是主觀的，且取決於具體情境。他強調無論是在烹飪還是軟體開發中，所有決策都涉及不可忽視且無法一概而論的權衡取捨。",
+      "keywords": [
+        "trade-offs",
+        "analogies",
+        "software development",
+        "decision making",
+        "context"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses analogies (food comparison) to explain the conceptual nature of trade-offs in software and life.",
+      "pacer_reason_zh": "文章透過類比（食物比較）來解釋軟體與生活中權衡取捨的概念本質。"
+    },
+    {
+      "id": "3b7503f83f27c297",
+      "title": "Polynomial Time Factoring Algorithm",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/16/polynomial-time-factoring.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-03-15T16:00:00.000Z",
+      "summary_en": "The author argues that AI will soon discover a polynomial-time algorithm for integer factoring, potentially rendering current asymmetric cryptography obsolete. They further speculate that quantum speedups are essentially classical, suggesting that P equals BQP and that traditional encryption will soon be easily broken.",
+      "summary_zh": "作者認為 AI 即將發現整數分解的多項式時間演算法，這將可能導致現有的非對稱加密技術全面失效。作者進一步推測量子計算的優勢本質上是古典的，暗示 P 等於 BQP，並認為傳統加密機制很快會被輕易破解。",
+      "keywords": [
+        "Polynomial Time",
+        "Factoring",
+        "Cryptography",
+        "AI",
+        "P=BQP"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a theoretical argument regarding computational complexity, the nature of quantum computing, and the future impact of AI on cryptography.",
+      "pacer_reason_zh": "本文針對計算複雜度、量子計算的本質以及 AI 對加密技術的未來影響，提出了理論性的論點與推測。"
+    },
+    {
+      "id": "6bd896c1a43e7732",
+      "title": "The optimized self and the life that got away",
+      "url": "https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-03-15T22:25:26.000Z",
+      "summary_en": "The article explores the psychological tension between the pursuit of an 'optimized self' and the reality of the paths we leave behind. It reflects on the trade-offs inherent in modern self-improvement and the acceptance of the life that remains unlived.",
+      "summary_zh": "本文探討了追求「優化自我」與遺憾錯失的人生選擇之間的心理張力。文章反思了現代自我提升過程中必然面臨的取捨，並探討了如何接納那些未曾體驗過的人生路徑。",
+      "keywords": [
+        "self-improvement",
+        "psychology",
+        "reflection",
+        "personal growth",
+        "optimization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptual exploration and philosophical reflection regarding self-optimization.",
+      "pacer_reason_zh": "內容側重於對自我優化的概念性探討與哲學層面的省思。"
+    },
+    {
+      "id": "9f1738b5f7bd7be0",
+      "title": "Twelve-tone composition",
+      "url": "https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-15T23:39:20.000Z",
+      "summary_en": "This article discusses twelve-tone composition as a technique to avoid tonal patterns in atonal music. It explains how composers use a specific permutation of the 12 chromatic notes to impose discipline and structure on their work.",
+      "summary_zh": "本文探討十二音列技法，這是一種為了避免無調性音樂出現調性慣性而採用的作曲手法。文章說明作曲家如何透過將十二個半音進行排列組合，為音樂創作注入規律與架構。",
+      "keywords": [
+        "twelve-tone",
+        "atonal music",
+        "composition",
+        "chromatic scale",
+        "music theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of the concept of twelve-tone composition and why it is used in atonal music.",
+      "pacer_reason_zh": "本文主要解釋十二音列作曲法的概念，以及為何在無調性音樂中使用此技法的原因。"
+    },
+    {
+      "id": "d3c6a60c65c5537a",
+      "title": "Windows stack limit checking retrospective: PowerPC",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-16T14:00:00.000Z",
+      "summary_en": "This post examines the historical implementation of stack limit checking on the PowerPC architecture within Windows. It provides a technical retrospective on the specific low-level mechanics used to manage stack overflow protection.",
+      "summary_zh": "本文回顧了 Windows 在 PowerPC 架構上進行堆疊限制檢查的歷史實作。文章針對管理堆疊溢位保護所使用的底層機制進行了技術性的總結。",
+      "keywords": [
+        "Windows",
+        "PowerPC",
+        "Stack limit",
+        "Architecture",
+        "Retro-computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical and historical implementation concepts behind stack management on a specific processor architecture.",
+      "pacer_reason_zh": "本文解釋了特定處理器架構下堆疊管理的理論與歷史實作概念。"
+    },
+    {
+      "id": "7bc75b979e8650c4",
+      "title": "Some updates to ActivityBot",
+      "url": "https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-03-16T12:34:57.000Z",
+      "summary_en": "Terence Eden provides updates on ActivityBot, a lightweight, single-file PHP tool designed for creating Mastodon bots. The project supports the ActivityPub protocol and demonstrates its functionality through active examples like automated post bots.",
+      "summary_zh": "Terence Eden 針對 ActivityBot 進行了更新說明，這是一款能以單一 PHP 檔案運作的輕量級 Mastodon 機器人開發工具。該專案支援 ActivityPub 協定，並透過實際的機器人帳號展示了其運作效能。",
+      "keywords": [
+        "ActivityBot",
+        "Mastodon",
+        "ActivityPub",
+        "PHP",
+        "Bots"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the maintenance and status of a software tool, acting as a project update/how-to context for users.",
+      "pacer_reason_zh": "本文重點在於軟體工具的維護與現況說明，屬於專案更新與技術指引性質。"
+    },
+    {
+      "id": "c22775720cdf504d",
+      "title": "Pluralistic: Tools vs uses (16 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/16/whittle-a-webserver/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-16T13:53:43.000Z",
+      "summary_en": "Cory Doctorow explains how legislative loopholes are often deliberate tools for corruption rather than accidental drafting errors. He cites specific examples, such as the 2017 Trump tax bill, to illustrate how lawmakers insert amendments that provide massive financial windfalls for their wealthy campaign donors.",
+      "summary_zh": "柯利·多克托羅（Cory Doctorow）解釋了法律漏洞通常是有意為之的腐敗工具，而非意外的起草疏忽。他引用了 2017 年川普稅改法案等案例，說明立法者如何通過修正案為其慷慨捐款的富豪金主謀取巨額利益。",
+      "keywords": [
+        "legislative loopholes",
+        "corruption",
+        "tax policy",
+        "Cory Doctorow",
+        "political lobbying"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how political loopholes function as deliberate instruments for donor enrichment.",
+      "pacer_reason_zh": "本文提供了概念性解釋，說明政治漏洞如何作為利益輸送的手段。"
+    },
+    {
+      "id": "93c40057900dd8d4",
+      "title": "The Loyalty Oath Crusade ",
+      "url": "https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-16T12:00:00.000Z",
+      "summary_en": "The article uses a scene from Catch-22 to illustrate the absurdity of bureaucratic overreach. It highlights how mindless conformity to complex, illogical rules can paralyze an organization until an authoritative voice dares to challenge the status quo.",
+      "summary_zh": "本文引用《第22條軍規》中的情節，揭示了官僚主義過度擴張的荒謬性。文章強調了當組織陷入盲目遵守複雜且不合理的規定時，往往需要有人挺身而出打破僵局，才能恢復秩序與效率。",
+      "keywords": [
+        "Catch-22",
+        "Bureaucracy",
+        "Conformity",
+        "Organizational Behavior",
+        "Leadership"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a literary narrative as an analogy to discuss real-world organizational dynamics and the problem of bureaucratic process.",
+      "pacer_reason_zh": "文章利用文學敘事作為類比，探討現實世界中的組織動態以及官僚流程過度化的問題。"
+    },
+    {
+      "id": "049b81bd323a635f",
+      "title": "Shower Thought: Git Teleportation ",
+      "url": "https://idiallo.com/byte-size/git-teleportation?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-03-16T00:23:04.000Z",
+      "summary_en": "The article uses a humorous analogy by applying Git version control workflows to the concept of sci-fi teleportation. It frames planetary missions as feature branches that must be merged back to the master branch after cleanup, illustrating complex concepts through familiar technical commands.",
+      "summary_zh": "這篇文章以幽默的方式，將 Git 版本控制的工作流程應用於科幻小說中的瞬間移動概念。作者將星球任務視為分支，並透過虛擬指令來說明如何在傳送過程中使用分支合併與清理邏輯，讓技術概念與科幻情境產生趣味連結。",
+      "keywords": [
+        "Git",
+        "teleportation",
+        "workflow",
+        "analogy",
+        "science fiction"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content explains a hypothetical system by drawing a direct analogy between software version control (Git) and sci-fi teleportation.",
+      "pacer_reason_zh": "本文透過軟體版本控制（Git）與科幻瞬間移動之間的類比，來解釋一套假想的系統機制。"
+    },
+    {
+      "id": "b4ae7ae576892fa6",
+      "title": "Quoting A member of Anthropic’s alignment-science team",
+      "url": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T21:38:55.000Z",
+      "summary_en": "This post highlights an Anthropic researcher's perspective on using 'blackmail exercises' to demonstrate AI misalignment risks to policymakers. These practical simulations are designed to make abstract safety concerns more tangible and urgent for decision-makers.",
+      "summary_zh": "這篇文章引用了 Anthropic 研究人員的觀點，說明如何透過「勒索演練」向政策制定者展示 AI 失準的風險。這些實際的模擬旨在讓抽象的安全疑慮變得更具體，並引發決策者對此議題的重視。",
+      "keywords": [
+        "Anthropic",
+        "AI alignment",
+        "AI safety",
+        "policymakers",
+        "misalignment risk"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a specific real-world case study and methodology used by researchers to demonstrate risk.",
+      "pacer_reason_zh": "內容聚焦於研究人員用來證明風險的特定真實案例與方法論。"
+    },
+    {
+      "id": "5b5eed2fde795e17",
+      "title": "Quoting Guilherme Rambo",
+      "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T20:34:13.000Z",
+      "summary_en": "Guilherme Rambo explains that the MacBook Neo's software-based camera indicator light is managed within the secure enclave. This ensures that even a kernel-level exploit cannot bypass the indicator, providing security comparable to a hardware light.",
+      "summary_zh": "Guilherme Rambo 解釋 MacBook Neo 的軟體攝影機指示燈運行於安全隔離區（secure enclave）內。這確保即使發生核心層級的漏洞攻擊，也無法在不觸發指示燈的情況下開啟鏡頭，提供與硬體指示燈相當的安全性。",
+      "keywords": [
+        "MacBook Neo",
+        "security",
+        "privacy",
+        "Apple",
+        "secure enclave"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying mechanism and security architecture of a specific technology feature.",
+      "pacer_reason_zh": "本文內容解釋了特定技術功能的運作機制與安全架構。"
+    },
+    {
+      "id": "e236e38455225d63",
+      "title": "Coding agents for data analysis",
+      "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T20:12:32.000Z",
+      "summary_en": "This blog post provides a comprehensive workshop handout on using AI coding agents for data analysis, specifically tailored for data journalists. It covers practical applications ranging from database querying and data cleaning to web scraping and visualization using Python and SQLite.",
+      "summary_zh": "這篇文章提供了專為數據記者設計的 AI 編程代理分析工作坊講義。內容涵蓋了使用 Python 和 SQLite 進行資料庫查詢、數據清洗、網路爬蟲與視覺化等實務操作指南。",
+      "keywords": [
+        "data analysis",
+        "coding agents",
+        "data journalism",
+        "Python",
+        "SQLite"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is a workshop handout providing step-by-step instructions and exercises for using AI agents in data analysis workflows.",
+      "pacer_reason_zh": "內容為工作坊講義，提供在數據分析工作流程中使用 AI 代理的分步驟操作說明與練習。"
+    },
+    {
+      "id": "e167e88c7c6c3085",
+      "title": "How coding agents work",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T14:01:41.000Z",
+      "summary_en": "This article explains the fundamental mechanics of coding agents, which function as software harnesses for Large Language Models. It describes how LLMs process information using tokens and highlights the roles of prompts and completions in agentic workflows.",
+      "summary_zh": "本文探討程式編寫代理程式（coding agents）的核心運作機制，說明其如何作為大型語言模型（LLM）的開發工具。文中進一步闡述了 LLM 處理 Token 的方式，以及提示詞（prompt）與生成內容（completion）在代理流程中的關鍵作用。",
+      "keywords": [
+        "coding agents",
+        "LLM",
+        "tokens",
+        "artificial intelligence",
+        "prompt engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on defining and explaining the foundational concepts behind how coding agents and LLMs work.",
+      "pacer_reason_zh": "內容主要聚焦於定義並解釋程式編寫代理程式與大型語言模型背後的核心運作概念。"
+    },
+    {
+      "id": "6eda9312cdfb68aa",
+      "title": "What is agentic engineering?",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-15T22:41:57.000Z",
+      "summary_en": "Simon Willison defines 'agentic engineering' as the practice of building software using coding agents capable of writing and executing code in a loop. He explains that the ability for an agent to run tools to achieve a goal, rather than just generating text, is the core capability that enables this new software development paradigm.",
+      "summary_zh": "Simon Willison 將「代理工程」（agentic engineering）定義為利用能夠編寫並執行程式碼的 AI 代理來開發軟體的實踐。他解釋說，代理透過工具循環執行任務以達成目標，而程式碼執行能力是賦予該範式價值與迭代能力的關鍵。",
+      "keywords": [
+        "agentic engineering",
+        "coding agents",
+        "LLM",
+        "software development",
+        "AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual definition and explanation of what 'agentic engineering' means within the context of AI and software development.",
+      "pacer_reason_zh": "本文主要針對 AI 與軟體開發領域中的「代理工程」一詞提供概念性定義與解釋。"
+    },
     {
       "id": "6fc157f4956430e2",
       "title": "Why Claude's new 1M context length is a big deal",
