@@ -1,52 +1,260 @@
 {
   "nodes": [
     {
-      "id": "b4ae7ae576892fa6",
-      "title": "Quoting A member of Anthropic’s alignment-science team",
+      "id": "dcecdfa28e76dd7f",
+      "title": "Quoting Ken Jin",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+      "url": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
       "pacer": "E",
       "keywords": [
-        "Anthropic",
-        "AI alignment",
-        "AI safety",
-        "policymakers",
-        "misalignment risk"
+        "Python",
+        "CPython",
+        "JIT",
+        "Performance",
+        "Software Engineering"
       ],
-      "published": "2026-03-16T21:38:55.000Z"
+      "published": "2026-03-17T21:48:26.000Z"
     },
     {
-      "id": "5b5eed2fde795e17",
-      "title": "Quoting Guilherme Rambo",
+      "id": "93db7c5748b1fa8d",
+      "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+      "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.4",
+        "AI models",
+        "LLM pricing",
+        "benchmarks"
+      ],
+      "published": "2026-03-17T19:39:17.000Z"
+    },
+    {
+      "id": "14a1c859e21cef9f",
+      "title": "You Might Debate It — If You Could See It",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/",
       "pacer": "C",
       "keywords": [
-        "MacBook Neo",
-        "security",
-        "privacy",
-        "Apple",
-        "secure enclave"
+        "LLM",
+        "design-systems",
+        "generative-ai",
+        "creative-craft",
+        "instruction-tuning"
       ],
-      "published": "2026-03-16T20:34:13.000Z"
+      "published": "2026-03-17T19:00:00.000Z"
     },
     {
-      "id": "e236e38455225d63",
-      "title": "Coding agents for data analysis",
+      "id": "e1aef4e261f917d7",
+      "title": "Quoting Tim Schilling",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+      "url": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Django",
+        "Open Source",
+        "LLM",
+        "AI Ethics",
+        "Collaboration"
+      ],
+      "published": "2026-03-17T16:13:37.000Z"
+    },
+    {
+      "id": "28ce8244b2d7a577",
+      "title": "Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/03/17/technopolitics/",
+      "pacer": "C",
+      "keywords": [
+        "William Gibson",
+        "technopolitics",
+        "Cory Doctorow",
+        "technology",
+        "subversion"
+      ],
+      "published": "2026-03-17T15:07:57.000Z"
+    },
+    {
+      "id": "2311fb52b29d2f2f",
+      "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "x86",
+        "i386",
+        "stack limit",
+        "return address predictor"
+      ],
+      "published": "2026-03-17T14:00:00.000Z"
+    },
+    {
+      "id": "8b3503f2474363d9",
+      "title": "Help I'm being persecuted",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/help-im-being-persecuted",
+      "pacer": "C",
+      "keywords": [
+        "persecution",
+        "psychology",
+        "narrative",
+        "social dynamics",
+        "behavioral science"
+      ],
+      "published": "2026-03-17T13:33:13.000Z"
+    },
+    {
+      "id": "b0c2e3511da25966",
+      "title": "Powers don’t clear fractions",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "real numbers",
+        "number theory",
+        "proof"
+      ],
+      "published": "2026-03-17T13:26:13.000Z"
+    },
+    {
+      "id": "82283313d347059e",
+      "title": "Tone row operations",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/03/17/tone-row-operations/",
+      "pacer": "C",
+      "keywords": [
+        "twelve-tone",
+        "music theory",
+        "permutation",
+        "group theory",
+        "tone row"
+      ],
+      "published": "2026-03-17T13:22:39.000Z"
+    },
+    {
+      "id": "1e1ed7008bdb4981",
+      "title": "Your Startup Is Probably Dead On Arrival",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "pacer": "C",
+      "keywords": [
+        "Startup",
+        "Steve Blank",
+        "Business Strategy",
+        "Pivot",
+        "Entrepreneurship"
+      ],
+      "published": "2026-03-17T13:00:30.000Z"
+    },
+    {
+      "id": "85d9c867855a6c3c",
+      "title": "Subagents",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
       "pacer": "P",
       "keywords": [
-        "data analysis",
-        "coding agents",
-        "data journalism",
-        "Python",
-        "SQLite"
+        "LLM",
+        "subagents",
+        "context window",
+        "Claude Code",
+        "agentic patterns"
       ],
-      "published": "2026-03-16T20:12:32.000Z"
+      "published": "2026-03-17T12:32:28.000Z"
+    },
+    {
+      "id": "03c1cac737e693b1",
+      "title": "Hedley Davis has died",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "url": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html",
+      "pacer": "C",
+      "keywords": [
+        "Hedley Davis",
+        "Commodore",
+        "Amiga",
+        "SX-500",
+        "Obituary"
+      ],
+      "published": "2026-03-17T05:20:00.000Z"
+    },
+    {
+      "id": "1cabc8bf2752ccea",
+      "title": "Weekly Update 495",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-495/",
+      "pacer": "C",
+      "keywords": [
+        "Have I Been Pwned",
+        "architecture",
+        "serverless",
+        "edge computing",
+        "data infrastructure"
+      ],
+      "published": "2026-03-17T02:55:31.000Z"
+    },
+    {
+      "id": "90d92a5c35a82690",
+      "title": "My homelab will be down for at least 20 days",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/notes/2026/homelab-is-down/",
+      "pacer": "C",
+      "keywords": [
+        "homelab",
+        "downtime",
+        "infrastructure",
+        "server",
+        "personal computing"
+      ],
+      "published": "2026-03-17T00:00:00.000Z"
+    },
+    {
+      "id": "9721b0ee8122f0fd",
+      "title": "Introducing Mistral Small 4",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Mistral AI",
+        "Mistral Small 4",
+        "LLM",
+        "Leanstral",
+        "Artificial Intelligence"
+      ],
+      "published": "2026-03-16T23:41:17.000Z"
+    },
+    {
+      "id": "3046c7a0ca343497",
+      "title": "Esqueleto Tutorial",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/esqueleto-tutorial",
+      "pacer": "P",
+      "keywords": [
+        "Esqueleto",
+        "Haskell",
+        "SQL",
+        "Database",
+        "Tutorial"
+      ],
+      "published": "2026-03-16T23:00:00.000Z"
     },
     {
       "id": "c7cc0a4fbd6ea004",
@@ -63,22 +271,6 @@
         "software updates"
       ],
       "published": "2026-03-16T19:40:09.000Z"
-    },
-    {
-      "id": "e167e88c7c6c3085",
-      "title": "How coding agents work",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "coding agents",
-        "LLM",
-        "tokens",
-        "artificial intelligence",
-        "prompt engineering"
-      ],
-      "published": "2026-03-16T14:01:41.000Z"
     },
     {
       "id": "d3c6a60c65c5537a",
@@ -191,22 +383,6 @@
         "music theory"
       ],
       "published": "2026-03-15T23:39:20.000Z"
-    },
-    {
-      "id": "6eda9312cdfb68aa",
-      "title": "What is agentic engineering?",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "agentic engineering",
-        "coding agents",
-        "LLM",
-        "software development",
-        "AI"
-      ],
-      "published": "2026-03-15T22:41:57.000Z"
     },
     {
       "id": "6bd896c1a43e7732",
@@ -689,22 +865,6 @@
       "published": "2026-03-12T17:50:00.000Z"
     },
     {
-      "id": "9746bd09596f16d8",
-      "title": "Inverse cosine",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/12/arccos/",
-      "pacer": "E",
-      "keywords": [
-        "inverse cosine",
-        "mathematics",
-        "trigonometry",
-        "proof",
-        "identities"
-      ],
-      "published": "2026-03-12T16:37:46.000Z"
-    },
-    {
       "id": "d4950f67d9627706",
       "title": "Windows stack limit checking retrospective: x86-32, also known as i386",
       "source": "The Old New Thing",
@@ -1105,22 +1265,6 @@
       "published": "2026-03-10T17:12:30.000Z"
     },
     {
-      "id": "142f23f7e595dd70",
-      "title": "Simplifying expressions in SymPy",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/",
-      "pacer": "A",
-      "keywords": [
-        "SymPy",
-        "Python",
-        "Mathematics",
-        "Symbolic computation",
-        "Simplification"
-      ],
-      "published": "2026-03-10T16:08:15.000Z"
-    },
-    {
       "id": "f2b7882a3d26c07c",
       "title": "Every minute you aren’t running 69 agents, you are falling behind",
       "source": "the singularity is nearer",
@@ -1135,38 +1279,6 @@
         "zero-sum game"
       ],
       "published": "2026-03-10T16:00:00.000Z"
-    },
-    {
-      "id": "159ff9c7925977ee",
-      "title": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/03/10/ice-tech/",
-      "pacer": "C",
-      "keywords": [
-        "ad-tech",
-        "surveillance capitalism",
-        "enshittification",
-        "privacy",
-        "Cory Doctorow"
-      ],
-      "published": "2026-03-10T15:23:43.000Z"
-    },
-    {
-      "id": "cee371df2ef6dc28",
-      "title": "A snappy answer when asked about dressing casually at IBM",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131",
-      "pacer": "A",
-      "keywords": [
-        "IBM",
-        "culture",
-        "anecdote",
-        "casual",
-        "humor"
-      ],
-      "published": "2026-03-10T14:00:00.000Z"
     },
     {
       "id": "28ef34987c971f69",
@@ -1774,22 +1886,6 @@
         "housing policy"
       ],
       "published": "2026-03-06T13:03:16.000Z"
-    },
-    {
-      "id": "54377302eb839c05",
-      "title": "Advice for staying in the hospital for a week",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/blog/2026/hospital-advice/",
-      "pacer": "P",
-      "keywords": [
-        "hospital",
-        "survival",
-        "health",
-        "advice",
-        "patient"
-      ],
-      "published": "2026-03-06T00:00:00.000Z"
     },
     {
       "id": "8c7624a2a380d250",

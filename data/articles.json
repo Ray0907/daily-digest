@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-03-16T22:08:28.668Z",
+  "last_updated": "2026-03-17T22:08:03.523Z",
   "articles": [
+    {
+      "id": "8b3503f2474363d9",
+      "title": "Help I'm being persecuted",
+      "url": "https://www.experimental-history.com/p/help-im-being-persecuted",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-03-17T13:33:13.000Z",
+      "summary_en": "This article explores the psychological and social dynamics of individuals experiencing a perceived sense of persecution. It examines the human tendency to fixate on external crises or conflicts, often referred to as 'rubbernecking,' and analyzes why people feel drawn to these narratives.",
+      "summary_zh": "這篇文章探討了人們在感受到被害意識時的心理與社會動態。它分析了人類對於外部危機或衝突的關注傾向（即「路邊看熱鬧」心態），並探討了為何人們會被此類敘事所吸引。",
+      "keywords": [
+        "persecution",
+        "psychology",
+        "narrative",
+        "social dynamics",
+        "behavioral science"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the conceptual framework behind the social and psychological phenomenon of perceived persecution.",
+      "pacer_reason_zh": "該內容側重於解釋受迫害感背後的社會與心理現象之概念框架。"
+    },
+    {
+      "id": "1cabc8bf2752ccea",
+      "title": "Weekly Update 495",
+      "url": "https://www.troyhunt.com/weekly-update-495/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-03-17T02:55:31.000Z",
+      "summary_en": "Troy Hunt reflects on the evolution of Have I Been Pwned's architecture over time. The system has shifted from a simple database setup to a complex infrastructure utilizing serverless functions, edge computing, and advanced storage solutions.",
+      "summary_zh": "Troy Hunt 回顧了 Have I Been Pwned 架構隨時間的演變。該系統已從簡單的資料庫配置，轉變為運用無伺服器函數、邊緣運算及先進儲存方案的複雜基礎架構。",
+      "keywords": [
+        "Have I Been Pwned",
+        "architecture",
+        "serverless",
+        "edge computing",
+        "data infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual evolution and architectural shifts of a specific platform over time.",
+      "pacer_reason_zh": "本文解釋了特定平台隨時間推移的概念性演變與架構轉型。"
+    },
+    {
+      "id": "1e1ed7008bdb4981",
+      "title": "Your Startup Is Probably Dead On Arrival",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-03-17T13:00:30.000Z",
+      "summary_en": "Steve Blank warns that startups founded over two years ago face high failure risks due to rapidly changing market assumptions. He advises founders to pause operational tasks like coding or fundraising to critically reassess their business environment and strategy.",
+      "summary_zh": "Steve Blank 警告說，兩年前創立的新創公司若未隨市場變化調整，極可能面臨倒閉危機。他建議創業者應暫停開發與募資等日常運作，重新審視當前的商業環境與策略。",
+      "keywords": [
+        "Startup",
+        "Steve Blank",
+        "Business Strategy",
+        "Pivot",
+        "Entrepreneurship"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual framework of why startup assumptions become obsolete and the importance of strategic reassessment.",
+      "pacer_reason_zh": "本文內容聚焦於新創公司假設過時的觀念架構，並強調策略重新評估的重要性。"
+    },
+    {
+      "id": "03c1cac737e693b1",
+      "title": "Hedley Davis has died",
+      "url": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-03-17T05:20:00.000Z",
+      "summary_en": "This post serves as an obituary for Hedley Davis, a former Commodore engineer known for his work on the Amiga line and the prototype SX-500. It briefly touches on his contributions to early portable computing and his later career, including work on the Xbox 360.",
+      "summary_zh": "這篇文章追悼了曾任職於 Commodore 的工程師 Hedley Davis，他曾參與 Amiga 系列及 SX-500 原型機的開發。文中簡述了他的早期便攜式運算貢獻，以及後續參與 Xbox 360 開發的職涯歷程。",
+      "keywords": [
+        "Hedley Davis",
+        "Commodore",
+        "Amiga",
+        "SX-500",
+        "Obituary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a biographical tribute and conceptual overview of an individual's historical impact on technology.",
+      "pacer_reason_zh": "本文屬於個人生平悼念，概述了特定人物在科技領域的歷史影響力。"
+    },
+    {
+      "id": "14a1c859e21cef9f",
+      "title": "You Might Debate It — If You Could See It",
+      "url": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-03-17T19:00:00.000Z",
+      "summary_en": "The article discusses how design and coding guidelines are increasingly being 'baked' into LLMs as opaque system instructions. It argues that while teams might debate such guidelines if presented explicitly, they are often silently adopted through AI-generated outputs, highlighting a risk of losing control over creative standards.",
+      "summary_zh": "本文探討了設計與程式編碼準則如何被隱晦地內嵌於大型語言模型（LLM）的系統指令中。作者指出，雖然團隊成員若面對面討論這些準則可能會產生分歧，但在使用 AI 生成內容時，往往會在不知不覺中接受了這些預設的規範，這凸顯了過度依賴生成式工具所帶來的隱憂。",
+      "keywords": [
+        "LLM",
+        "design-systems",
+        "generative-ai",
+        "creative-craft",
+        "instruction-tuning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual analysis of how generative AI impacts design and workflow decision-making by embedding hidden biases.",
+      "pacer_reason_zh": "本文對生成式 AI 如何透過隱藏的指令影響設計與工作決策提供了概念性的分析與省思。"
+    },
+    {
+      "id": "3046c7a0ca343497",
+      "title": "Esqueleto Tutorial",
+      "url": "https://entropicthoughts.com/esqueleto-tutorial",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-03-16T23:00:00.000Z",
+      "summary_en": "This post provides a tutorial for Esqueleto, a type-safe library for writing SQL queries in Haskell. It guides users through setup, basic usage, and common query patterns.",
+      "summary_zh": "這篇文章提供了 Esqueleto 的教學指南，這是一個用於在 Haskell 中編寫型別安全 SQL 查詢的函式庫。內容涵蓋了設定、基本使用方法及常見的查詢模式。",
+      "keywords": [
+        "Esqueleto",
+        "Haskell",
+        "SQL",
+        "Database",
+        "Tutorial"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is explicitly titled as a tutorial, indicating a step-by-step instructional guide.",
+      "pacer_reason_zh": "該文章標題明確標示為教學指南 (Tutorial)，表示其內容為逐步指導的說明。"
+    },
+    {
+      "id": "b0c2e3511da25966",
+      "title": "Powers don’t clear fractions",
+      "url": "https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-17T13:26:13.000Z",
+      "summary_en": "This article discusses a mathematical property stating that if a real number has a finite but nonzero fractional part, all of its positive integer powers will also have a fractional part. It references a concise proof demonstrating that such powers can never result in an integer.",
+      "summary_zh": "本文探討了一個數學性質：若一個實數具有有限且非零的小數部分，則其所有正整數次方也必然包含小數部分。作者引用了一項簡短的證明，說明此類數值的乘方結果永遠不會是整數。",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "real numbers",
+        "number theory",
+        "proof"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical concept and theory regarding the behavior of real numbers and their powers.",
+      "pacer_reason_zh": "本文旨在解釋關於實數及其乘方表現的特定數學概念與理論。"
+    },
+    {
+      "id": "82283313d347059e",
+      "title": "Tone row operations",
+      "url": "https://www.johndcook.com/blog/2026/03/17/tone-row-operations/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-03-17T13:22:39.000Z",
+      "summary_en": "This post explains the mathematical group of operations applied to twelve-tone rows in music theory. It defines the four primary transformations: prime (P), retrograde (R), inversion (I), and retrograde-inversion (RI).",
+      "summary_zh": "這篇文章介紹了應用於十二音列音樂理論中的數學運算群。文中詳細定義了四種主要的變換方式：原形（P）、逆行（R）、倒影（I）以及逆行倒影（RI）。",
+      "keywords": [
+        "twelve-tone",
+        "music theory",
+        "permutation",
+        "group theory",
+        "tone row"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of mathematical operations used in music theory.",
+      "pacer_reason_zh": "本文針對音樂理論中使用的數學運算提供了概念性的解釋。"
+    },
+    {
+      "id": "2311fb52b29d2f2f",
+      "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-03-17T14:00:00.000Z",
+      "summary_en": "This article is a technical retrospective examining how Windows handles stack limit checking on x86-32 (i386) architectures. It specifically discusses the challenges of managing the return address predictor in the context of stack depth constraints.",
+      "summary_zh": "本文針對 Windows 在 x86-32 (i386) 架構上處理堆疊限制檢查進行了技術回顧。內容探討了在堆疊深度限制的背景下，如何處理回傳位址預測器所面臨的挑戰。",
+      "keywords": [
+        "Windows",
+        "x86",
+        "i386",
+        "stack limit",
+        "return address predictor"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an in-depth technical explanation of a specific architectural mechanism within the Windows stack management system.",
+      "pacer_reason_zh": "本文針對 Windows 堆疊管理系統中的特定架構機制，提供了深入的技術性解釋與概念說明。"
+    },
+    {
+      "id": "90d92a5c35a82690",
+      "title": "My homelab will be down for at least 20 days",
+      "url": "https://xeiaso.net/notes/2026/homelab-is-down/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-03-17T00:00:00.000Z",
+      "summary_en": "The author announces a prolonged 20-day downtime for their homelab. They humorously express their frustration regarding the situation.",
+      "summary_zh": "作者宣布其家用實驗室將面臨至少 20 天的停機時間。文中以幽默的方式表達了對此情況的無奈。",
+      "keywords": [
+        "homelab",
+        "downtime",
+        "infrastructure",
+        "server",
+        "personal computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a personal status update or narrative post, best categorized as conceptual as it describes a state of affairs.",
+      "pacer_reason_zh": "這是一篇個人狀態更新或敘事文章，描述了特定情況，因此歸類為概念性內容。"
+    },
+    {
+      "id": "28ce8244b2d7a577",
+      "title": "Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
+      "url": "https://pluralistic.net/2026/03/17/technopolitics/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-03-17T15:07:57.000Z",
+      "summary_en": "Cory Doctorow analyzes William Gibson's famous aphorism, 'the street finds its own uses for things,' as a statement of technopolitics. He argues that users can reclaim and repurpose corporate technology for virtuous ends, challenging the idea that tools inherently dictate their own oppressive outcomes.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）分析了威廉·吉布森（William Gibson）的名言「街頭總能為事物找到自己的用途」，將其視為一種科技政治的觀點。他主張使用者可以重新利用企業科技，將其用於良善的目的，並反駁了工具本身必然會帶來壓迫結果的說法。",
+      "keywords": [
+        "William Gibson",
+        "technopolitics",
+        "Cory Doctorow",
+        "technology",
+        "subversion"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily a conceptual exploration of a specific quote and its philosophical implications regarding technology and power.",
+      "pacer_reason_zh": "本文主要針對一句名言及其在科技與權力方面的哲學意涵進行概念性的探討。"
+    },
+    {
+      "id": "dcecdfa28e76dd7f",
+      "title": "Quoting Ken Jin",
+      "url": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-17T21:48:26.000Z",
+      "summary_en": "Ken Jin reports that the CPython JIT compiler has reached its performance milestones ahead of schedule for macOS and Linux. The upcoming Python 3.15 alpha version shows significant speed improvements over traditional interpreters.",
+      "summary_zh": "Ken Jin 指出 CPython JIT 編譯器已提前達成 macOS 與 Linux 平台的效能目標。即將推出的 Python 3.15 alpha 版本在執行速度上比傳統解譯器有顯著提升。",
+      "keywords": [
+        "Python",
+        "CPython",
+        "JIT",
+        "Performance",
+        "Software Engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides specific performance benchmarks and data regarding the CPython JIT progress.",
+      "pacer_reason_zh": "本文提供了關於 CPython JIT 進展的具體效能基準測試數據與相關指標。"
+    },
+    {
+      "id": "93db7c5748b1fa8d",
+      "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+      "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-17T19:39:17.000Z",
+      "summary_en": "OpenAI has introduced the GPT-5.4 mini and nano models, which offer improved performance and speed compared to previous iterations. The article highlights their competitive pricing, with the nano model positioning itself as a highly cost-effective option for large-scale tasks like image description.",
+      "summary_zh": "OpenAI 推出了 GPT-5.4 mini 和 nano 模型，相較於前代版本，這些新模型在性能和速度上均有顯著提升。本文重點介紹了其極具競爭力的定價，特別是 nano 模型在處理如圖片描述等大規模任務時的高性價比。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.4",
+        "AI models",
+        "LLM pricing",
+        "benchmarks"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on presenting performance benchmarks and comparative pricing data for new AI models.",
+      "pacer_reason_zh": "本文重點在於呈現新 AI 模型的性能基準測試數據與價格比較。"
+    },
+    {
+      "id": "e1aef4e261f917d7",
+      "title": "Quoting Tim Schilling",
+      "url": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-17T16:13:37.000Z",
+      "summary_en": "Tim Schilling argues that over-reliance on LLMs for open-source contributions to Django harms the community by removing human understanding and authentic communication. He emphasizes that AI should serve as a complementary tool rather than a replacement for personal effort in technical projects.",
+      "summary_zh": "Tim Schilling 指出，在 Django 等開源專案中過度依賴大型語言模型（LLM）會因缺乏真實的人性溝通而損害社群互動。他強調 AI 應作為輔助工具，而非取代開發者參與貢獻的核心角色。",
+      "keywords": [
+        "Django",
+        "Open Source",
+        "LLM",
+        "AI Ethics",
+        "Collaboration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual philosophy of AI usage in open source rather than technical steps or raw data.",
+      "pacer_reason_zh": "本文探討在開源社群中使用 AI 的哲學概念，而非提供技術操作步驟或原始數據。"
+    },
+    {
+      "id": "85d9c867855a6c3c",
+      "title": "Subagents",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-17T12:32:28.000Z",
+      "summary_en": "The article discusses the 'subagent' pattern in AI engineering, which helps overcome LLM context window limitations by delegating specific tasks to fresh agent instances. It uses Claude Code as a primary example to illustrate how subagents explore code repositories to manage complex workflows efficiently.",
+      "summary_zh": "本文探討了人工智慧工程中的「子代理」(subagent) 模式，旨在透過將特定任務委派給全新的代理實例，來克服大型語言模型 (LLM) 的上下文視窗限制。文章以 Claude Code 為例，說明如何利用子代理來有效率地進行程式碼庫探索並管理複雜的工作流程。",
+      "keywords": [
+        "LLM",
+        "subagents",
+        "context window",
+        "Claude Code",
+        "agentic patterns"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a specific architectural pattern for building AI agents, serving as a guide for implementing subagents in software development.",
+      "pacer_reason_zh": "本文介紹了一種建構 AI 代理的特定架構模式，並作為軟體開發中實作子代理的指南。"
+    },
+    {
+      "id": "9721b0ee8122f0fd",
+      "title": "Introducing Mistral Small 4",
+      "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T23:41:17.000Z",
+      "summary_en": "Mistral AI has released Mistral Small 4, an Apache 2 licensed, 119B parameter Mixture-of-Experts model that integrates reasoning, multimodal, and agentic coding capabilities. The author explores the model's performance via the API and highlights the simultaneous release of Leanstral, a specialized model for the Lean 4 formal verification language.",
+      "summary_zh": "Mistral AI 發布了 Mistral Small 4，這是一款採用 Apache 2 授權、具備 119B 參數的專家混合模型，整合了推理、多模態與代理編碼功能。作者透過 API 測試了該模型，並同時介紹了專為 Lean 4 形式驗證語言設計的 Leanstral 模型。",
+      "keywords": [
+        "Mistral AI",
+        "Mistral Small 4",
+        "LLM",
+        "Leanstral",
+        "Artificial Intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an overview and introduction to a new AI model release and its core capabilities.",
+      "pacer_reason_zh": "本文旨在介紹新發布的 AI 模型及其核心功能與特性。"
+    },
+    {
+      "id": "26f8bdffd49f50f3",
+      "title": "Use subagents and custom agents in Codex",
+      "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-03-16T23:03:56.000Z",
+      "summary_en": "OpenAI has officially launched subagents for its Codex platform, allowing users to leverage specialized agents like 'explorer' and 'worker' for parallel tasks. The update also enables the creation of custom agents via TOML files, providing flexibility in model selection and instruction sets for complex workflows.",
+      "summary_zh": "OpenAI 正式為 Codex 平台推出子代理（subagents）功能，讓使用者能透過 'explorer' 或 'worker' 等專用代理來處理並行任務。此外，使用者現在可透過 TOML 檔案自定義代理，針對複雜工作流自由配置指令與模型。",
+      "keywords": [
+        "OpenAI Codex",
+        "subagents",
+        "custom agents",
+        "AI development",
+        "coding tools"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference piece, summarizing new feature availability and providing a curated list of documentation links for subagent implementations across various platforms.",
+      "pacer_reason_zh": "本文屬於參考性質，總結了新功能的發布概況，並提供了多個平台關於子代理實作的參考文件列表。"
+    },
     {
       "id": "bbcdfe872b350d94",
       "title": "Why I Love FreeBSD",
