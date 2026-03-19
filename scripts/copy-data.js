@@ -12,4 +12,4 @@ if (existsSync(`${SRC}/graph.json`)) {
 	cpSync(`${SRC}/graph.json`, `${DEST}/graph.json`)
 }
 
-console.log('Copied data files to public/data/')
+process.stdout.write('Copied data files to public/data/\n')

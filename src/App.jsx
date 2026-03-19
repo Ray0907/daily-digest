@@ -24,6 +24,7 @@ const AboutWindow = lazy(() => import('./components/retro/AboutWindow'))
 const TaskManager = lazy(() => import('./components/retro/TaskManager'))
 const MyComputer = lazy(() => import('./components/retro/MyComputer'))
 const ModernLayout = lazy(() => import('./layouts/ModernLayout').then(m => ({ default: m.ModernLayout })))
+const NewspaperLayout = lazy(() => import('./layouts/NewspaperLayout').then(m => ({ default: m.NewspaperLayout })))
 
 function DesktopShell() {
   const { desktopTheme } = useDesktopTheme()
@@ -121,6 +122,14 @@ function DesktopShell() {
     return (
       <Suspense fallback={<div className="min-h-screen bg-paper dark:bg-paper-dark flex items-center justify-center text-text-muted">Loading...</div>}>
         <ModernLayout />
+      </Suspense>
+    )
+  }
+
+  if (desktopTheme === 'newspaper') {
+    return (
+      <Suspense fallback={<div className="min-h-screen flex items-center justify-center" style={{ background: '#F5F0E8', fontFamily: "'Newsreader', serif", fontStyle: 'italic', color: '#6B5D4D' }}>Loading...</div>}>
+        <NewspaperLayout />
       </Suspense>
     )
   }

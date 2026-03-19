@@ -7,7 +7,7 @@ const MAX_PER_SOURCE = 5
 
 function main() {
 	if (!existsSync(ARTICLES_PATH)) {
-		console.log('No articles.json found')
+		process.stdout.write('No articles.json found\n')
 		return
 	}
 
@@ -52,7 +52,7 @@ function main() {
 
 	const graph = { nodes, links }
 	writeFileSync(GRAPH_PATH, JSON.stringify(graph, null, 2))
-	console.log(`Graph: ${nodes.length} nodes, ${links.length} links`)
+	process.stdout.write(`Graph: ${nodes.length} nodes, ${links.length} links\n`)
 }
 
 main()

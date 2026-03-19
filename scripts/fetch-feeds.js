@@ -51,7 +51,7 @@ async function fetchFeed(feed, rss_parser) {
 			content_snippet: (item.contentSnippet || item.content || item.summary || '').slice(0, 2000),
 		}))
 	} catch (err) {
-		console.error(`Failed to fetch ${feed.title}: ${err.message}`)
+		process.stderr.write(`Failed to fetch ${feed.title}: ${err.message}\n`)
 		return []
 	}
 }
@@ -59,12 +59,12 @@ async function fetchFeed(feed, rss_parser) {
 async function main() {
 	if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true })
 
-	console.log(`Fetching OPML from ${OPML_URL}...`)
+	process.stdout.write(`Fetching OPML from ${OPML_URL}...\n`)
 	const opml_res = await fetch(OPML_URL)
 	if (!opml_res.ok) throw new Error(`Failed to fetch OPML: ${opml_res.status}`)
 	const opml_content = await opml_res.text()
 	const feeds = parseOpml(opml_content)
-	console.log(`Parsed ${feeds.length} feeds from OPML`)
+	process.stdout.write(`Parsed ${feeds.length} feeds from OPML\n`)
 
 	const existing = existsSync(ARTICLES_PATH)
 		? JSON.parse(readFileSync(ARTICLES_PATH, 'utf-8'))
@@ -93,10 +93,13 @@ async function main() {
 	const new_articles = all_items
 		.filter(item => !existing_ids.has(item.id))
 		.filter(item => new Date(item.published).getTime() > three_days_ago)
-	console.log(`Found ${new_articles.length} new articles from last 3 days (${all_items.length} total fetched)`)
+	process.stdout.write(`Found ${new_articles.length} new articles from last 3 days (${all_items.length} total fetched)\n`)
 
 	writeFileSync(NEW_ARTICLES_PATH, JSON.stringify({ articles: new_articles }, null, 2))
-	console.log(`Wrote new articles to ${NEW_ARTICLES_PATH}`)
+	process.stdout.write(`Wrote new articles to ${NEW_ARTICLES_PATH}\n`)
 }
 
-main().then(() => process.exit(0)).catch(err => { console.error(err); process.exit(1) })
+main().then(() => process.exit(0)).catch(err => {
+	process.stderr.write(`${err instanceof Error ? err.stack ?? err.message : String(err)}\n`)
+	process.exit(1)
+})

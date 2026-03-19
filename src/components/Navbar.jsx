@@ -46,11 +46,14 @@ export function Navbar() {
 					{navLink('/graph', t('nav.graph'))}
 					{navLink('/archive', t('nav.archive'))}
 					<div className="flex items-center gap-1 ml-1 border-l border-border-light/60 dark:border-white/10 pl-3">
-						<button onClick={() => setDesktopTheme('win95')} className="px-2 py-1 rounded text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer" title="Switch to Windows 95 theme">
+						{/* <button onClick={() => setDesktopTheme('win95')} className="px-2 py-1 rounded text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer" title="Switch to Windows 95 theme">
 							Win95
-						</button>
-						<button onClick={() => setDesktopTheme('mac')} className="px-2 py-1 rounded text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer" title="Switch to Classic Mac theme">
+						</button> */}
+						{/* <button onClick={() => setDesktopTheme('mac')} className="px-2 py-1 rounded text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer" title="Switch to Classic Mac theme">
 							Mac
+						</button> */}
+						<button onClick={() => setDesktopTheme('newspaper')} className="px-2 py-1 rounded text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer" title="Switch to Old Newspaper layout">
+							News
 						</button>
 					</div>
 					<button onClick={toggleLang} className="px-3 py-1.5 rounded-md text-sm font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer">
@@ -81,11 +84,14 @@ export function Navbar() {
 					{navLink('/graph', t('nav.graph'), true)}
 					{navLink('/archive', t('nav.archive'), true)}
 					<div className="flex items-center gap-2 mt-2 pt-2 border-t border-border-light dark:border-white/10">
-						<button onClick={() => { setDesktopTheme('win95'); setIsMenuOpen(false) }} className="py-2 px-3 rounded-md text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
+						{/* <button onClick={() => { setDesktopTheme('win95'); setIsMenuOpen(false) }} className="py-2 px-3 rounded-md text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
 							Win95
-						</button>
-						<button onClick={() => { setDesktopTheme('mac'); setIsMenuOpen(false) }} className="py-2 px-3 rounded-md text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
+						</button> */}
+						{/* <button onClick={() => { setDesktopTheme('mac'); setIsMenuOpen(false) }} className="py-2 px-3 rounded-md text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
 							Mac
+						</button> */}
+						<button onClick={() => { setDesktopTheme('newspaper'); setIsMenuOpen(false) }} className="py-2 px-3 rounded-md text-xs font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
+							News
 						</button>
 						<button onClick={() => { toggleLang(); setIsMenuOpen(false) }} className="flex-1 py-2 rounded-md text-sm font-medium text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] transition-colors cursor-pointer min-h-[44px]">
 							{i18n.language === 'en' ? 'ZH' : 'EN'}

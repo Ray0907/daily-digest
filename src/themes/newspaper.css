@@ -1,0 +1,382 @@
+/* ═══════════════════════════════════════════════
+   Old Newspaper Theme
+   Inspired by early 20th century broadsheet papers
+   ═══════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Newsreader:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IM+Fell+English+SC&display=swap');
+
+[data-desktop-theme="newspaper"] {
+	--newspaper-bg: #F5F0E8;
+	--newspaper-bg-dark: #2C2417;
+	--newspaper-paper: #FFFEFB;
+	--newspaper-paper-dark: #473C30;
+	--newspaper-ink: #2C2417;
+	--newspaper-ink-dark: #E8DFD0;
+	--newspaper-ink-muted: #6B5D4D;
+	--newspaper-ink-muted-dark: #A89880;
+	--newspaper-rule: #AE9B83;
+	--newspaper-rule-dark: #746856;
+	--newspaper-accent: #8B2500;
+	--newspaper-accent-dark: #E08A62;
+}
+
+.dark[data-desktop-theme="newspaper"] {
+	--newspaper-bg: #2C2417;
+	--newspaper-paper: #3A3127;
+	--newspaper-ink: #E8DFD0;
+	--newspaper-ink-muted: #A89880;
+	--newspaper-rule: #5A4F40;
+	--newspaper-accent: #D4754E;
+}
+
+/* Aged paper texture via subtle noise + vignette */
+[data-desktop-theme="newspaper"] .newspaper-shell {
+	background-color: var(--newspaper-bg);
+	background-image:
+		radial-gradient(ellipse at center, transparent 60%, rgba(139, 119, 90, 0.08) 100%);
+	min-height: 100vh;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-shell {
+	background-color: var(--newspaper-bg-dark);
+	background-image:
+		radial-gradient(ellipse at center, transparent 60%, rgba(0, 0, 0, 0.15) 100%);
+}
+
+/* Decorative rule styles */
+[data-desktop-theme="newspaper"] .rule-thick {
+	border: none;
+	border-top: 3px double var(--newspaper-rule);
+	margin: 0;
+}
+
+.dark[data-desktop-theme="newspaper"] .rule-thick {
+	border-top-color: var(--newspaper-rule-dark);
+}
+
+[data-desktop-theme="newspaper"] .rule-thin {
+	border: none;
+	border-top: 1px solid var(--newspaper-rule);
+	margin: 0;
+}
+
+.dark[data-desktop-theme="newspaper"] .rule-thin {
+	border-top-color: var(--newspaper-rule-dark);
+}
+
+/* Masthead styling */
+[data-desktop-theme="newspaper"] .newspaper-masthead {
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	padding: 1.5rem 0 0.75rem;
+	border-bottom: 3px double var(--newspaper-rule);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-masthead {
+	background:
+		linear-gradient(180deg, rgba(255, 248, 235, 0.03) 0%, rgba(255, 248, 235, 0) 100%);
+	border-bottom-color: var(--newspaper-rule-dark);
+}
+
+[data-desktop-theme="newspaper"] .newspaper-name {
+	color: var(--newspaper-ink);
+	line-height: 0.95;
+	letter-spacing: -0.035em;
+	text-wrap: balance;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-name {
+	color: var(--newspaper-ink-dark);
+	text-shadow:
+		0 1px 0 rgba(0, 0, 0, 0.35),
+		0 0 18px rgba(232, 223, 208, 0.08);
+}
+
+/* Column layout for articles */
+[data-desktop-theme="newspaper"] .newspaper-columns {
+	column-count: 1;
+	column-gap: 2rem;
+	column-rule: 1px solid var(--newspaper-rule);
+}
+
+@media (min-width: 768px) {
+	[data-desktop-theme="newspaper"] .newspaper-columns {
+		column-count: 2;
+	}
+}
+
+@media (min-width: 1024px) {
+	[data-desktop-theme="newspaper"] .newspaper-columns {
+		column-count: 3;
+	}
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-columns {
+	column-rule-color: var(--newspaper-rule-dark);
+}
+
+[data-desktop-theme="newspaper"] .newspaper-article {
+	break-inside: avoid;
+	margin-bottom: 1.5rem;
+	padding-bottom: 1.5rem;
+	border-bottom: 1px solid var(--newspaper-rule);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-article {
+	border-bottom-color: var(--newspaper-rule-dark);
+}
+
+/* Drop cap for lead article */
+[data-desktop-theme="newspaper"] .newspaper-dropcap::first-letter {
+	font-family: 'Playfair Display', serif;
+	float: left;
+	font-size: 3.5em;
+	line-height: 0.8;
+	padding-right: 0.08em;
+	padding-top: 0.05em;
+	font-weight: 700;
+	color: var(--newspaper-ink);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-dropcap::first-letter {
+	color: var(--newspaper-ink-dark);
+}
+
+/* Headline hierarchy */
+[data-desktop-theme="newspaper"] .headline-primary {
+	font-family: 'Playfair Display', serif;
+	font-weight: 800;
+	font-size: 2rem;
+	line-height: 1.15;
+	letter-spacing: -0.02em;
+	color: var(--newspaper-ink);
+}
+
+.dark[data-desktop-theme="newspaper"] .headline-primary {
+	color: var(--newspaper-ink-dark);
+}
+
+[data-desktop-theme="newspaper"] .headline-secondary {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 1.25rem;
+	line-height: 1.25;
+	color: var(--newspaper-ink);
+}
+
+.dark[data-desktop-theme="newspaper"] .headline-secondary {
+	color: var(--newspaper-ink-dark);
+}
+
+/* Body text */
+[data-desktop-theme="newspaper"] .newspaper-body {
+	font-family: 'Newsreader', serif;
+	font-size: 0.95rem;
+	line-height: 1.65;
+	color: var(--newspaper-ink-muted);
+	text-align: justify;
+	hyphens: auto;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-body {
+	color: var(--newspaper-ink-muted-dark);
+}
+
+/* Section dateline */
+[data-desktop-theme="newspaper"] .newspaper-dateline {
+	font-family: 'IM Fell English SC', serif;
+	font-size: 0.75rem;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	color: var(--newspaper-ink-muted);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-dateline {
+	color: var(--newspaper-ink-muted-dark);
+}
+
+/* Byline / source */
+[data-desktop-theme="newspaper"] .newspaper-byline {
+	font-family: 'Newsreader', serif;
+	font-style: italic;
+	font-size: 0.8rem;
+	color: var(--newspaper-ink-muted);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-byline {
+	color: var(--newspaper-ink-muted-dark);
+}
+
+/* Keywords as old-style tags */
+[data-desktop-theme="newspaper"] .newspaper-tag {
+	font-family: 'IM Fell English SC', serif;
+	font-size: 0.7rem;
+	letter-spacing: 0.08em;
+	padding: 0.15rem 0.5rem;
+	border: 1px solid var(--newspaper-rule);
+	color: var(--newspaper-ink-muted);
+	display: inline-block;
+	cursor: pointer;
+	transition: background-color 0.15s, color 0.15s;
+}
+
+[data-desktop-theme="newspaper"] .newspaper-tag:hover {
+	background-color: var(--newspaper-ink);
+	color: var(--newspaper-paper);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-tag {
+	border-color: var(--newspaper-rule-dark);
+	color: var(--newspaper-ink-muted-dark);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-tag:hover {
+	background-color: var(--newspaper-ink-dark);
+	color: var(--newspaper-bg-dark);
+}
+
+/* Search input newspaper style */
+[data-desktop-theme="newspaper"] .newspaper-search {
+	font-family: 'Newsreader', serif;
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid var(--newspaper-rule);
+	padding: 0.5rem 0.5rem 0.5rem 2rem;
+	font-size: 0.9rem;
+	color: var(--newspaper-ink);
+	outline: none;
+	transition: border-color 0.2s;
+}
+
+[data-desktop-theme="newspaper"] .newspaper-search:focus {
+	border-bottom-color: var(--newspaper-accent);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-search {
+	color: var(--newspaper-ink-dark);
+	border-bottom-color: var(--newspaper-rule-dark);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-search:focus {
+	border-bottom-color: var(--newspaper-accent-dark);
+}
+
+[data-desktop-theme="newspaper"] .newspaper-search::placeholder {
+	color: var(--newspaper-ink-muted);
+	font-style: italic;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-search::placeholder {
+	color: var(--newspaper-ink-muted-dark);
+}
+
+/* Link styling */
+[data-desktop-theme="newspaper"] .newspaper-link {
+	color: var(--newspaper-accent);
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	transition: border-color 0.15s;
+}
+
+[data-desktop-theme="newspaper"] .newspaper-link:hover {
+	border-bottom-color: var(--newspaper-accent);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-link {
+	color: var(--newspaper-accent-dark);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-link:hover {
+	border-bottom-color: var(--newspaper-accent-dark);
+}
+
+/* PACER badges in newspaper style */
+[data-desktop-theme="newspaper"] .newspaper-pacer {
+	font-family: 'IM Fell English SC', serif;
+	font-size: 0.65rem;
+	letter-spacing: 0.1em;
+	padding: 0.1rem 0.4rem;
+	border: 1px solid var(--newspaper-rule);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-pacer {
+	border-color: var(--newspaper-rule-dark);
+}
+
+/* Filter pills */
+[data-desktop-theme="newspaper"] .newspaper-filter {
+	font-family: 'IM Fell English SC', serif;
+	font-size: 0.75rem;
+	letter-spacing: 0.08em;
+	padding: 0.25rem 0.75rem;
+	border: 1px solid var(--newspaper-rule);
+	background: transparent;
+	color: var(--newspaper-ink-muted);
+	cursor: pointer;
+	transition: all 0.15s;
+}
+
+[data-desktop-theme="newspaper"] .newspaper-filter:hover {
+	background: var(--newspaper-ink);
+	color: var(--newspaper-paper);
+}
+
+[data-desktop-theme="newspaper"] .newspaper-filter.active {
+	background: var(--newspaper-ink);
+	color: var(--newspaper-paper);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-filter {
+	border-color: var(--newspaper-rule-dark);
+	color: var(--newspaper-ink-muted-dark);
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-filter:hover,
+.dark[data-desktop-theme="newspaper"] .newspaper-filter.active {
+	background: var(--newspaper-ink-dark);
+	color: var(--newspaper-bg-dark);
+}
+
+/* Ornamental divider */
+[data-desktop-theme="newspaper"] .newspaper-ornament {
+	text-align: center;
+	font-size: 1.2rem;
+	color: var(--newspaper-rule);
+	letter-spacing: 0.5em;
+	margin: 1rem 0;
+	user-select: none;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-ornament {
+	color: var(--newspaper-rule-dark);
+}
+
+/* Navbar override for newspaper */
+[data-desktop-theme="newspaper"] .newspaper-nav {
+	background: var(--newspaper-paper);
+	border: 1px solid var(--newspaper-rule);
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.dark[data-desktop-theme="newspaper"] .newspaper-nav {
+	background: var(--newspaper-paper-dark);
+	border-color: var(--newspaper-rule-dark);
+}
+
+/* Fade-in animation for newspaper (subtle) */
+@keyframes newspaperFadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	[data-desktop-theme="newspaper"] * {
+		animation-duration: 0.01ms !important;
+		transition-duration: 0.01ms !important;
+	}
+}

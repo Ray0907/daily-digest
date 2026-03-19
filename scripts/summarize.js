@@ -50,18 +50,18 @@ function sleep(ms) {
 async function main() {
 	const api_key = process.env.GOOGLE_API_KEY
 	if (!api_key) {
-		console.error('GOOGLE_API_KEY environment variable is required')
+		process.stderr.write('GOOGLE_API_KEY environment variable is required\n')
 		process.exit(1)
 	}
 
 	if (!existsSync(NEW_ARTICLES_PATH)) {
-		console.log('No new articles to process')
+		process.stdout.write('No new articles to process\n')
 		return
 	}
 
 	const new_data = JSON.parse(readFileSync(NEW_ARTICLES_PATH, 'utf-8'))
 	if (new_data.articles.length === 0) {
-		console.log('No new articles to process')
+		process.stdout.write('No new articles to process\n')
 		return
 	}
 
@@ -72,16 +72,16 @@ async function main() {
 	const genai = new GoogleGenerativeAI(api_key)
 	const model = genai.getGenerativeModel({ model: MODEL_NAME })
 
-	console.log(`Processing ${new_data.articles.length} new articles (batch size: ${BATCH_SIZE})...`)
+	process.stdout.write(`Processing ${new_data.articles.length} new articles (batch size: ${BATCH_SIZE})...\n`)
 
 	const processed = []
 	for (let i = 0; i < new_data.articles.length; i += BATCH_SIZE) {
 		const batch = new_data.articles.slice(i, i + BATCH_SIZE)
-		console.log(`  Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(new_data.articles.length / BATCH_SIZE)} (${batch.length} articles)`)
+		process.stdout.write(`  Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(new_data.articles.length / BATCH_SIZE)} (${batch.length} articles)\n`)
 
 		const results = await Promise.allSettled(
 			batch.map(async (article) => {
-				console.log(`    Summarizing: ${article.title}`)
+				process.stdout.write(`    Summarizing: ${article.title}\n`)
 				const enriched = await summarizeArticle(model, article)
 				return {
 					id: article.id,
@@ -104,7 +104,7 @@ async function main() {
 			if (results[j].status === 'fulfilled') {
 				processed.push(results[j].value)
 			} else {
-				console.error(`    Failed to summarize "${batch[j].title}": ${results[j].reason?.message}`)
+				process.stderr.write(`    Failed to summarize "${batch[j].title}": ${results[j].reason?.message}\n`)
 				processed.push({
 					...batch[j],
 					summary_en: '',
@@ -124,7 +124,7 @@ async function main() {
 	existing.last_updated = new Date().toISOString()
 
 	writeFileSync(ARTICLES_PATH, JSON.stringify(existing, null, 2))
-	console.log(`Updated ${ARTICLES_PATH} with ${processed.length} new articles (${existing.articles.length} total)`)
+	process.stdout.write(`Updated ${ARTICLES_PATH} with ${processed.length} new articles (${existing.articles.length} total)\n`)
 }
 
 main()

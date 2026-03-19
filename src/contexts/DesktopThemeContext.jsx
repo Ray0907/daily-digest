@@ -1,19 +1,14 @@
 import { createContext, useContext, useState, useEffect, useCallback } from 'react';
 
-const THEMES = ['win95', 'mac', 'modern'];
-const STORAGE_KEY = 'desktop-theme';
-const DEFAULT_THEME = 'modern';
+const THEMES = ['win95', 'mac', 'modern', 'newspaper'];
+const DEFAULT_THEME = 'newspaper';
 
 const DesktopThemeContext = createContext();
 
 export function DesktopThemeProvider({ children }) {
-  const [desktopTheme, setDesktopTheme] = useState(() => {
-    const stored = localStorage.getItem(STORAGE_KEY);
-    return THEMES.includes(stored) ? stored : DEFAULT_THEME;
-  });
+  const [desktopTheme, setDesktopTheme] = useState(DEFAULT_THEME);
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, desktopTheme);
     document.documentElement.setAttribute('data-desktop-theme', desktopTheme);
   }, [desktopTheme]);
 

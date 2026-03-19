@@ -17,7 +17,7 @@ function escapeXml(str) {
 
 function main() {
 	if (!existsSync(ARTICLES_PATH)) {
-		console.log('No articles.json found')
+		process.stdout.write('No articles.json found\n')
 		return
 	}
 
@@ -48,7 +48,7 @@ function main() {
 </rss>`
 
 	writeFileSync(FEED_PATH, feed)
-	console.log(`Generated RSS feed with ${recent.length} items`)
+	process.stdout.write(`Generated RSS feed with ${recent.length} items\n`)
 }
 
 main()
