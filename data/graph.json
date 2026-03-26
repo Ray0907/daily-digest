@@ -1,6 +1,86 @@
 {
   "nodes": [
     {
+      "id": "e230d040c072a3ae",
+      "title": "Lebesgue constants",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T20:05:06.000Z"
+    },
+    {
+      "id": "4175e6a3ff202016",
+      "title": "Quantization from the ground up",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T16:21:09.000Z"
+    },
+    {
+      "id": "58265e36db47e1f6",
+      "title": "How much precision can you squeeze out of a table?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T14:33:37.000Z"
+    },
+    {
+      "id": "fb139925b788c766",
+      "title": "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T14:00:00.000Z"
+    },
+    {
+      "id": "55dfa0982b8b9542",
+      "title": "Adding human.json to WordPress",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T12:34:52.000Z"
+    },
+    {
+      "id": "ee0566afd2d15b02",
+      "title": "SQLAlchemy 2 In Practice - Chapter 2 - Database Tables",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T12:30:03.000Z"
+    },
+    {
+      "id": "37e8892897cbe883",
+      "title": "Engineers do get promoted for writing simple code",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/simple-work-gets-rewarded/",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-26T00:00:00.000Z"
+    },
+    {
+      "id": "e608055eb075257a",
+      "title": "datasette-files-s3 0.1a1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
+      "pacer": "C",
+      "keywords": [],
+      "published": "2026-03-25T21:57:05.000Z"
+    },
+    {
       "id": "cfff1d219d8fa01d",
       "title": "Thoughts on slowing the fuck down",
       "source": "Simon Willison's Weblog",
@@ -79,26 +159,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "63aa0a9f348468f5",
-      "title": "Auto mode for Claude Code",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T23:57:33.000Z"
-    },
-    {
-      "id": "1f6da534ac3b3334",
-      "title": "Package Managers Need to Cool Down",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T21:11:38.000Z"
     },
     {
       "id": "f76af3f445c53b32",
@@ -421,16 +481,6 @@
       "published": "2026-03-20T18:09:52.000Z"
     },
     {
-      "id": "e4b200d36baa7714",
-      "title": "Embedded regex flags",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T16:58:42.000Z"
-    },
-    {
       "id": "59d8c86b95245f20",
       "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
       "source": "Dwarkesh Podcast",
@@ -551,16 +601,6 @@
       "published": "2026-03-19T23:25:39.000Z"
     },
     {
-      "id": "09385e589801265e",
-      "title": "Windows stack limit checking retrospective: amd64, also known as x86-64",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-19T14:00:00.000Z"
-    },
-    {
       "id": "63b94cf4a7dc40ff",
       "title": "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -599,16 +639,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-19T09:17:00.000Z"
-    },
-    {
-      "id": "57d1f61ee92c33ed",
-      "title": "A lesser-known characterization of the gamma function",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/18/wielandt/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-19T01:21:53.000Z"
     },
     {
       "id": "e299e918b64acfc1",
@@ -873,22 +903,6 @@
         "software updates"
       ],
       "published": "2026-03-16T19:40:09.000Z"
-    },
-    {
-      "id": "7bc75b979e8650c4",
-      "title": "Some updates to ActivityBot",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/",
-      "pacer": "P",
-      "keywords": [
-        "ActivityBot",
-        "Mastodon",
-        "ActivityPub",
-        "PHP",
-        "Bots"
-      ],
-      "published": "2026-03-16T12:34:57.000Z"
     },
     {
       "id": "93c40057900dd8d4",
