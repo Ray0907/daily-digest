@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-04-01T22:10:03.072Z",
+  "last_updated": "2026-04-02T22:08:27.812Z",
   "articles": [
+    {
+      "id": "c88ef4bc96c22d50",
+      "title": "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-04-02T10:17:15.000Z",
+      "summary_en": "This article serves as the third chapter of Miguel Grinberg's book on SQLAlchemy 2, focusing on implementing one-to-many relationships. It follows a previous discussion on product queries, transitioning into managing data associations between entities.",
+      "summary_zh": "本文是 Miguel Grinberg 所著 SQLAlchemy 2 實踐書籍的第三章，重點探討如何實作「一對多」關聯。內容延續前一章關於產品查詢的討論，進一步引導讀者處理資料表之間的關聯映射。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "ORM",
+        "Database",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is part of a practical guide that teaches implementation steps for database relationships in SQLAlchemy.",
+      "pacer_reason_zh": "本文屬於實作指南的一部分，教授如何在 SQLAlchemy 中執行資料庫關聯的具體設定步驟。"
+    },
+    {
+      "id": "05324fa05f629f0a",
+      "title": "The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity",
+      "url": "https://blog.jim-nielsen.com/2026/systemic-vs-localized/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-02T19:00:00.000Z",
+      "summary_en": "This post explores the tension between adhering to rigid systematic UI design rules and the value of localized, context-aware design choices. The author argues that while systematic rules promote consistency, thoughtful exceptions can provide a level of delight and clarity that universal guidelines sometimes stifle, especially as software scales.",
+      "summary_zh": "本文探討了嚴格遵守系統化 UI 設計準則與採用局部、情境化設計決策之間的衝突。作者認為，雖然系統化規則能確保一致性，但在設計中加入經過深思熟慮的例外處理，往往能創造出更具吸引力且直觀的體驗，特別是在軟體擴展時，盲目追求系統化反而可能扼殺設計的靈活度。",
+      "keywords": [
+        "UI design",
+        "design systems",
+        "UX",
+        "software scale",
+        "design philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual tension between systematic design rules and localized sensitivity, focusing on design philosophy rather than a how-to or empirical study.",
+      "pacer_reason_zh": "本文探討了系統化設計規則與局部靈敏度之間的理論衝突，重點在於設計理念的探討，而非操作指南或實證研究。"
+    },
+    {
+      "id": "0ebc5f78d4097760",
+      "title": "Information and Technological Evolution",
+      "url": "https://www.construction-physics.com/p/information-and-technological-evolution",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-02T12:16:08.000Z",
+      "summary_en": "This article explores the nature of technological progress and critiques the quality of existing literature on the subject. It highlights the author's ongoing interest in understanding how information and technology evolve over time.",
+      "summary_zh": "本文探討技術進步的本質，並對現有關於該主題的文獻質量進行了評論。作者分享了其長期以來對資訊與技術隨時間演進過程的研究興趣。",
+      "keywords": [
+        "technological progress",
+        "information theory",
+        "technology evolution",
+        "literature review",
+        "construction physics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on theoretical reflection and the conceptual nature of technological evolution.",
+      "pacer_reason_zh": "內容側重於理論性反思以及技術演進的概念本質。"
+    },
+    {
+      "id": "df9caa0bc343d873",
+      "title": "Time is a User-Interface",
+      "url": "https://www.joanwestenberg.com/tim/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-02T00:32:14.000Z",
+      "summary_en": "This article explores the concept of time as a fundamental component of user interface design. It examines how temporal dynamics and sequencing influence user experience and interaction patterns.",
+      "summary_zh": "本文探討時間作為使用者介面設計中一項基礎要素的概念。文中分析了時間動態與順序安排如何影響使用者體驗及互動模式。",
+      "keywords": [
+        "UI design",
+        "Time",
+        "User Experience",
+        "Interaction Design",
+        "Philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses a conceptual framework regarding the role of time in design rather than a tutorial or data-heavy report.",
+      "pacer_reason_zh": "本文旨在探討時間在設計中的角色，屬於概念性框架分析，而非操作指南或數據報告。"
+    },
+    {
+      "id": "096a0eb6cead2430",
+      "title": "Artemis II, Apollo 8, and Apollo 13",
+      "url": "https://www.johndcook.com/blog/2026/04/02/artemis-apollo/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-02T14:14:44.000Z",
+      "summary_en": "The article compares the Artemis II mission to the historic Apollo 8 and Apollo 13 missions. It highlights similarities in mission objectives, specifically the lunar flyby trajectory used to prepare for future moon landings.",
+      "summary_zh": "本文比較了 Artemis II 任務與歷史上的阿波羅 8 號及 13 號任務。重點在於它們在任務目標上的相似性，特別是透過繞月飛行來為未來的登月任務做準備。",
+      "keywords": [
+        "Artemis II",
+        "Apollo 8",
+        "Apollo 13",
+        "NASA",
+        "Space Exploration"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article primarily functions by drawing direct parallels between current space missions and historical precedents.",
+      "pacer_reason_zh": "本文的主要內容是透過對比當前的太空任務與歷史任務來進行說明。"
+    },
+    {
+      "id": "a2cee4507d0da0f4",
+      "title": "Why doesn’t the system let you declare your own messages to have the same semantics as WM_COPY­DATA?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-02T14:00:00.000Z",
+      "summary_en": "This post explains why developers cannot replicate the unique cross-process memory semantics of WM_COPYDATA for custom Windows messages. It highlights that the system imposes strict limitations to ensure security and prevent memory corruption during inter-process communication.",
+      "summary_zh": "本文解釋了為何開發者無法為自定義視窗訊息複製 WM_COPYDATA 的跨處理序記憶體語義。文中指出，系統實施嚴格限制是為了確保安全性並防止處理序間通訊過程中的記憶體損壞。",
+      "keywords": [
+        "Windows API",
+        "WM_COPYDATA",
+        "IPC",
+        "Memory Management",
+        "Windows Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of why the Windows system enforces specific architectural constraints on message handling.",
+      "pacer_reason_zh": "本文對為何 Windows 系統在處理訊息時執行特定的架構限制提供了概念性的解釋。"
+    },
+    {
+      "id": "c4819982eb5960d6",
+      "title": "Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-02T11:34:07.000Z",
+      "summary_en": "This blog post provides a personal review of a London Philharmonic concert featuring works by Mark-Anthony Turnage and Béla Bartók. The author highlights the emotional intensity and chaotic nature of the performance, specifically praising the inventive delivery of 'Three Screaming Popes'.",
+      "summary_zh": "這篇部落格文章回顧了倫敦愛樂樂團的音樂會，內容涵蓋馬克-安東尼·圖爾內奇與巴爾托克的作品。作者分享了對演出情感張力的個人見解，特別讚賞了《三個尖叫的教宗》中充滿創意且混亂狂野的演繹。",
+      "keywords": [
+        "London Philharmonic",
+        "Concert Review",
+        "Classical Music",
+        "Mark-Anthony Turnage",
+        "Béla Bartók"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content acts as a personal reflection and descriptive critique of a musical performance, focusing on the subjective experience and conceptual interpretation of the pieces.",
+      "pacer_reason_zh": "內容屬於對音樂會的個人感想與敘事性評論，重點在於作者的主觀感受與對作品的概念詮釋。"
+    },
+    {
+      "id": "25c39e0d7db22e6f",
+      "title": "Random File Format",
+      "url": "https://shkspr.mobi/blog/2026/04/random-file-format/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-01T11:34:57.000Z",
+      "summary_en": "The author explores a concept for a resilient file format capable of playing back content even if the file is incomplete or corrupted. This idea was inspired by common issues with truncated media downloads during the early 2000s.",
+      "summary_zh": "作者探討了一種具備強韌性的檔案格式構想，即使在檔案不完整或毀損的情況下仍能正常播放內容。此概念源自於 2000 年代初期下載媒體檔案時，常見因檔案截斷而導致無法讀取的技術問題。",
+      "keywords": [
+        "file format",
+        "data integrity",
+        "media",
+        "naptster",
+        "computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses a theoretical concept for file architecture and potential problem-solving for data corruption.",
+      "pacer_reason_zh": "本文探討了關於檔案架構的理論概念，以及針對資料毀損問題的潛在解決方案。"
+    },
+    {
+      "id": "6a91554bd8ee7146",
+      "title": "Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/02/limited-monopoly/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-02T10:19:42.000Z",
+      "summary_en": "Cory Doctorow discusses the recent leak of Anthropic's Claude Code due to a configuration error and critiques the company's use of DMCA takedown notices. The article highlights the legal complexities of copyright law, particularly how strict liability impacts intermediaries and platforms.",
+      "summary_zh": "Cory Doctorow 探討了 Anthropic 因配置錯誤導致 Claude Code 原始碼外洩的事件，並批評該公司濫用數位千禧年著作權法（DMCA）發送下架通知。文章進一步分析了版權法中的「嚴格責任」原則如何對網路中介平台造成法律壓力。",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "DMCA",
+        "Copyright",
+        "Source code leak"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the legal theory behind copyright liability and the function of DMCA 512, focusing on the conceptual implications of the leak.",
+      "pacer_reason_zh": "文章解釋了版權法律責任的理論基礎以及 DMCA 512 條款的功能，重點在於分析原始碼外洩後的法律概念意涵。"
+    },
+    {
+      "id": "8e67018d41ddb22d",
+      "title": "13th Year of Blogging ",
+      "url": "https://idiallo.com/byte-size/blogging-year-13?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-01T22:15:39.000Z",
+      "summary_en": "The author reflects on thirteen years of blogging, highlighting the challenges of technical maintenance and the importance of perseverance. They argue that personal experience and long-term consistency create a unique value that AI-generated content cannot replicate.",
+      "summary_zh": "作者回顧了部落格經營十三年的歷程，強調了維護技術架構的挑戰以及堅持不懈的重要性。作者認為，個人經歷與長期的耕耘積累了 AI 生成內容所無法複製的獨特價值。",
+      "keywords": [
+        "blogging",
+        "longevity",
+        "self-hosting",
+        "personal-experience",
+        "content-creation"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the metaphor of growing an oak tree to illustrate the value of longevity in blogging compared to AI-generated content.",
+      "pacer_reason_zh": "文章使用了種植橡樹的隱喻，藉此說明部落格的長期價值遠勝於 AI 生成內容。"
+    },
+    {
+      "id": "2564525890f34fc8",
+      "title": "Spring 2026 Pebble App Contest + SDK Updates",
+      "url": "https://repebble.com/blog/spring-2026-pebble-app-contest",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "published": "2026-04-02T00:00:00.000Z",
+      "summary_en": "Eric Migicovsky has announced the Spring 2026 Pebble App Contest to celebrate the start of mass production for the Pebble Time 2. The post invites developers to participate while highlighting upcoming updates to the Pebble SDK.",
+      "summary_zh": "Eric Migicovsky 宣佈舉辦 2026 年春季 Pebble 應用程式競賽，以慶祝 Pebble Time 2 正式進入量產階段。文中同時預告了 Pebble SDK 的即將更新，並邀請開發者參與競賽。",
+      "keywords": [
+        "Pebble",
+        "App Contest",
+        "SDK",
+        "Wearable Technology",
+        "Developer"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a competition and provides guidance/updates for developers, serving as a procedural call to action.",
+      "pacer_reason_zh": "本文旨在宣佈競賽活動並為開發者提供指引與更新，屬於程序性的行動呼籲。"
+    },
+    {
+      "id": "1ead71acd94a0208",
+      "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
+      "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-02T20:40:47.000Z",
+      "summary_en": "Simon Willison shares highlights from his guest appearance on Lenny's Podcast, where he discusses the current state of AI and agentic engineering. The post covers key topics including the AI inflection point, the evolving role of software engineers, and the rise of automated 'dark factories'.",
+      "summary_zh": "Simon Willison 分享了他參與 Lenny 播客的重點摘要，探討 AI 與代理人工程（Agentic Engineering）的現況。文中涵蓋了 AI 的轉折點、軟體工程師角色的演變，以及自動化「黑暗工廠」的興起等核心議題。",
+      "keywords": [
+        "AI",
+        "Agentic Engineering",
+        "Automation",
+        "Software Engineering",
+        "Podcast"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and high-level insights regarding the impact of AI on industry and engineering practices.",
+      "pacer_reason_zh": "該內容提供了關於 AI 對產業及工程實踐影響的概念性概述與高層級見解。"
+    },
+    {
+      "id": "e6b983b8027a4031",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-02T18:28:54.000Z",
+      "summary_en": "Google has released Gemma 4, a series of open-weights vision-capable models ranging from 2B to 31B parameters, featuring a novel Per-Layer Embedding technique to enhance efficiency. Simon Willison provides a brief technical overview of the architecture and shares his hands-on experience testing these models via LM Studio.",
+      "summary_zh": "Google 發布了 Gemma 4 系列開源視覺語言模型，參數規模涵蓋 2B 到 31B，並採用了創新的「每層嵌入」(Per-Layer Embeddings) 技術以提升參數效率。作者 Simon Willison 在文中簡述了其架構特點，並分享了透過 LM Studio 進行實測的心得。",
+      "keywords": [
+        "Gemma 4",
+        "Google DeepMind",
+        "LLM",
+        "AI",
+        "Per-Layer Embeddings"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides firsthand testing, observations, and benchmarks regarding the performance and functionality of new AI models.",
+      "pacer_reason_zh": "文章提供了針對新款 AI 模型的實測觀察與效能驗證，屬於基於證據的評測內容。"
+    },
+    {
+      "id": "f9f80bbdfaa1ed42",
+      "title": "llm-gemini 0.30",
+      "url": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-02T18:25:08.000Z",
+      "summary_en": "Simon Willison has released version 0.30 of the llm-gemini tool. This update adds support for new Google models including gemini-3.1-flash-lite-preview and the Gemma 4 family.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 工具的 0.30 版本。此次更新增加了對 Google 新模型（如 gemini-3.1-flash-lite-preview 和 Gemma 4 系列）的支援。",
+      "keywords": [
+        "llm",
+        "gemini",
+        "gemma",
+        "software release",
+        "ai"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release announcement and reference for updated software specifications and model availability.",
+      "pacer_reason_zh": "此文章為軟體版本更新公告，主要作為軟體規格與模型支援情況的參考資訊。"
+    },
+    {
+      "id": "905785e53685bd2e",
+      "title": "March 2026 sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-02T05:15:04.000Z",
+      "summary_en": "Simon Willison has released his March 2026 sponsors-only newsletter, covering topics such as agentic engineering, local LLM streaming on Mac, and recent software supply chain security issues. This monthly publication offers exclusive insights and technical updates for his GitHub sponsors.",
+      "summary_zh": "Simon Willison 發布了 2026 年 3 月的贊助者專屬電子報，內容涵蓋代理工程模式、在 Mac 上串流專家模型，以及 PyPI 和 NPM 的供應鏈攻擊等主題。該電子報每月為其 GitHub 贊助者提供獨家的技術見解與專案更新。",
+      "keywords": [
+        "newsletter",
+        "Simon Willison",
+        "agentic engineering",
+        "LLM",
+        "software security"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts primarily as a notification and reference guide for accessing exclusive subscriber-only materials.",
+      "pacer_reason_zh": "此內容主要作為存取訂閱者專屬資料的通知與參考指南。"
+    },
+    {
+      "id": "0fb3c320e1305a65",
+      "title": "datasette-llm 0.1a6",
+      "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-01T23:01:37.000Z",
+      "summary_en": "The datasette-llm 0.1a6 release introduces a quality-of-life update where default models are automatically added to the allowed models list. It also includes improved documentation for the tool's Python API usage.",
+      "summary_zh": "datasette-llm 0.1a6 版本發布，現在將模型設為預設值時會自動加入允許列表，無需重複設定。此外，該版本還增強了 Python API 的使用說明文件。",
+      "keywords": [
+        "datasette-llm",
+        "Python",
+        "API",
+        "software release",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note documenting changes and updates to a library.",
+      "pacer_reason_zh": "這是軟體更新日誌，記載了函式庫的變更與功能更新。"
+    },
+    {
+      "id": "a91f943588c22453",
+      "title": "datasette-enrichments-llm 0.2a1",
+      "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-01T22:00:34.000Z",
+      "summary_en": "Simon Willison has released version 0.2a1 of the datasette-enrichments-llm plugin. This update introduces the passing of the 'actor' parameter to the llm.mode method when triggering an enrichment.",
+      "summary_zh": "Simon Willison 發布了 datasette-enrichments-llm 外掛程式的 0.2a1 版本。此次更新讓觸發豐富化處理時，能將 'actor' 參數傳遞給 llm.mode 方法。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "enrichments",
+        "python",
+        "plugin"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing specific changes and updates to a library.",
+      "pacer_reason_zh": "這是一份軟體發布說明，詳細列出了函式庫的具體變更與更新內容。"
+    },
     {
       "id": "e4405b078b8c34af",
       "title": "On the Vergecast, On Video",

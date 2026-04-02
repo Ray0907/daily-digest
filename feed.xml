@@ -4,8 +4,161 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 01 Apr 2026 22:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 22:08:27 GMT</lastBuildDate>
     
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</link>
+      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</guid>
+      <pubDate>Thu, 02 Apr 2026 10:17:15 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article serves as the third chapter of Miguel Grinberg's book on SQLAlchemy 2, focusing on implementing one-to-many relationships. It follows a previous discussion on product queries, transitioning into managing data associations between entities.</description>
+    </item>
+
+    <item>
+      <title>The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity</title>
+      <link>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</link>
+      <guid>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</guid>
+      <pubDate>Thu, 02 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post explores the tension between adhering to rigid systematic UI design rules and the value of localized, context-aware design choices. The author argues that while systematic rules promote consistency, thoughtful exceptions can provide a level of delight and clarity that universal guidelines sometimes stifle, especially as software scales.</description>
+    </item>
+
+    <item>
+      <title>Information and Technological Evolution</title>
+      <link>https://www.construction-physics.com/p/information-and-technological-evolution</link>
+      <guid>https://www.construction-physics.com/p/information-and-technological-evolution</guid>
+      <pubDate>Thu, 02 Apr 2026 12:16:08 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores the nature of technological progress and critiques the quality of existing literature on the subject. It highlights the author's ongoing interest in understanding how information and technology evolve over time.</description>
+    </item>
+
+    <item>
+      <title>Time is a User-Interface</title>
+      <link>https://www.joanwestenberg.com/tim/</link>
+      <guid>https://www.joanwestenberg.com/tim/</guid>
+      <pubDate>Thu, 02 Apr 2026 00:32:14 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article explores the concept of time as a fundamental component of user interface design. It examines how temporal dynamics and sequencing influence user experience and interaction patterns.</description>
+    </item>
+
+    <item>
+      <title>Artemis II, Apollo 8, and Apollo 13</title>
+      <link>https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:14:44 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article compares the Artemis II mission to the historic Apollo 8 and Apollo 13 missions. It highlights similarities in mission objectives, specifically the lunar flyby trajectory used to prepare for future moon landings.</description>
+    </item>
+
+    <item>
+      <title>Why doesn’t the system let you declare your own messages to have the same semantics as WM_COPY­DATA?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</guid>
+      <pubDate>Thu, 02 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains why developers cannot replicate the unique cross-process memory semantics of WM_COPYDATA for custom Windows messages. It highlights that the system imposes strict limitations to ensure security and prevent memory corruption during inter-process communication.</description>
+    </item>
+
+    <item>
+      <title>Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</guid>
+      <pubDate>Thu, 02 Apr 2026 11:34:07 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post provides a personal review of a London Philharmonic concert featuring works by Mark-Anthony Turnage and Béla Bartók. The author highlights the emotional intensity and chaotic nature of the performance, specifically praising the inventive delivery of 'Three Screaming Popes'.</description>
+    </item>
+
+    <item>
+      <title>Random File Format</title>
+      <link>https://shkspr.mobi/blog/2026/04/random-file-format/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/random-file-format/</guid>
+      <pubDate>Wed, 01 Apr 2026 11:34:57 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author explores a concept for a resilient file format capable of playing back content even if the file is incomplete or corrupted. This idea was inspired by common issues with truncated media downloads during the early 2000s.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/02/limited-monopoly/</link>
+      <guid>https://pluralistic.net/2026/04/02/limited-monopoly/</guid>
+      <pubDate>Thu, 02 Apr 2026 10:19:42 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow discusses the recent leak of Anthropic's Claude Code due to a configuration error and critiques the company's use of DMCA takedown notices. The article highlights the legal complexities of copyright law, particularly how strict liability impacts intermediaries and platforms.</description>
+    </item>
+
+    <item>
+      <title>13th Year of Blogging </title>
+      <link>https://idiallo.com/byte-size/blogging-year-13?src=feed</link>
+      <guid>https://idiallo.com/byte-size/blogging-year-13?src=feed</guid>
+      <pubDate>Wed, 01 Apr 2026 22:15:39 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author reflects on thirteen years of blogging, highlighting the challenges of technical maintenance and the importance of perseverance. They argue that personal experience and long-term consistency create a unique value that AI-generated content cannot replicate.</description>
+    </item>
+
+    <item>
+      <title>Spring 2026 Pebble App Contest + SDK Updates</title>
+      <link>https://repebble.com/blog/spring-2026-pebble-app-contest</link>
+      <guid>https://repebble.com/blog/spring-2026-pebble-app-contest</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="http://github.com/dylang/node-rss">Eric Migicovsky's Blog RSS Feed</source>
+      <description>Eric Migicovsky has announced the Spring 2026 Pebble App Contest to celebrate the start of mass production for the Pebble Time 2. The post invites developers to participate while highlighting upcoming updates to the Pebble SDK.</description>
+    </item>
+
+    <item>
+      <title>Highlights from my conversation about agentic engineering on Lenny's Podcast</title>
+      <link>https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 20:40:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares highlights from his guest appearance on Lenny's Podcast, where he discusses the current state of AI and agentic engineering. The post covers key topics including the AI inflection point, the evolving role of software engineers, and the rise of automated 'dark factories'.</description>
+    </item>
+
+    <item>
+      <title>Gemma 4: Byte for byte, the most capable open models</title>
+      <link>https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 18:28:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Google has released Gemma 4, a series of open-weights vision-capable models ranging from 2B to 31B parameters, featuring a novel Per-Layer Embedding technique to enhance efficiency. Simon Willison provides a brief technical overview of the architecture and shares his hands-on experience testing these models via LM Studio.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.30</title>
+      <link>https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 18:25:08 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.30 of the llm-gemini tool. This update adds support for new Google models including gemini-3.1-flash-lite-preview and the Gemma 4 family.</description>
+    </item>
+
+    <item>
+      <title>March 2026 sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 05:15:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released his March 2026 sponsors-only newsletter, covering topics such as agentic engineering, local LLM streaming on Mac, and recent software supply chain security issues. This monthly publication offers exclusive insights and technical updates for his GitHub sponsors.</description>
+    </item>
+
+    <item>
+      <title>datasette-llm 0.1a6</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 23:01:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The datasette-llm 0.1a6 release introduces a quality-of-life update where default models are automatically added to the allowed models list. It also includes improved documentation for the tool's Python API usage.</description>
+    </item>
+
+    <item>
+      <title>datasette-enrichments-llm 0.2a1</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 22:00:34 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.2a1 of the datasette-enrichments-llm plugin. This update introduces the passing of the 'actor' parameter to the llm.mode method when triggering an enrichment.</description>
+    </item>
+
     <item>
       <title>On the Vergecast, On Video</title>
       <link>https://anildash.com/2026/04/01/vergecast-video/</link>
@@ -750,159 +903,6 @@
       <guid>https://www.johndcook.com/blog/2026/03/27/complex-argument/</guid>
       <pubDate>Fri, 27 Mar 2026 11:33:04 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Sharing a Name </title>
-      <link>https://idiallo.com/blog/sharing-a-name?src=feed</link>
-      <guid>https://idiallo.com/blog/sharing-a-name?src=feed</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>How we get radicalized in America </title>
-      <link>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</link>
-      <guid>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
-      <pubDate>Thu, 26 Mar 2026 23:11:46 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Quoting Richard Fontana</title>
-      <link>https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 21:11:17 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Vibe coding SwiftUI apps is a lot of fun</title>
-      <link>https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 20:59:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>We Rewrote JSONata with AI in a Day, Saved $500K/Year</title>
-      <link>https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 00:35:01 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>My minute-by-minute response to the LiteLLM malware attack</title>
-      <link>https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</guid>
-      <pubDate>Thu, 26 Mar 2026 23:58:22 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Bring back MiniDV with this Raspberry Pi FireWire HAT</title>
-      <link>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 2 - Database Tables</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</link>
-      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</guid>
-      <pubDate>Thu, 26 Mar 2026 12:30:03 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Lebesgue constants</title>
-      <link>https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</link>
-      <guid>https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</guid>
-      <pubDate>Thu, 26 Mar 2026 20:05:06 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>How much precision can you squeeze out of a table?</title>
-      <link>https://www.johndcook.com/blog/2026/03/26/table-precision/</link>
-      <guid>https://www.johndcook.com/blog/2026/03/26/table-precision/</guid>
-      <pubDate>Thu, 26 Mar 2026 14:33:37 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Adding human.json to WordPress</title>
-      <link>https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</link>
-      <guid>https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</guid>
-      <pubDate>Thu, 26 Mar 2026 12:34:52 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Quantization from the ground up</title>
-      <link>https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything</guid>
-      <pubDate>Thu, 26 Mar 2026 16:21:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>datasette-files-s3 0.1a1</title>
-      <link>https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</guid>
-      <pubDate>Wed, 25 Mar 2026 21:57:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Engineers do get promoted for writing simple code</title>
-      <link>https://seangoedecke.com/simple-work-gets-rewarded/</link>
-      <guid>https://seangoedecke.com/simple-work-gets-rewarded/</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Which Design Doc Did a Human Write?</title>
-      <link>https://refactoringenglish.com/blog/ai-vs-human-design-doc/</link>
-      <guid>https://refactoringenglish.com/blog/ai-vs-human-design-doc/</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-      <source url="https://refactoringenglish.com/">Refactoring English</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Wander 0.3.0</title>
-      <link>https://susam.net/code/news/wander/0.3.0.html</link>
-      <guid>https://susam.net/code/news/wander/0.3.0.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
       <description></description>
     </item>
   </channel>
