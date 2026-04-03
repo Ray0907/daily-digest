@@ -1,20 +1,244 @@
 {
   "nodes": [
     {
-      "id": "1ead71acd94a0208",
-      "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
+      "id": "e68bf8b3fb1b5daa",
+      "title": "Quoting Willy Tarreau",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+      "url": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Linux",
+        "kernel security",
+        "AI",
+        "vulnerability reports",
+        "software maintenance"
+      ],
+      "published": "2026-04-03T21:48:22.000Z"
+    },
+    {
+      "id": "e678c5d1f221ac9d",
+      "title": "Quoting Daniel Stenberg",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "cURL",
+        "Daniel Stenberg",
+        "open source",
+        "AI security",
+        "generative AI"
+      ],
+      "published": "2026-04-03T21:46:07.000Z"
+    },
+    {
+      "id": "0113ad514b19c493",
+      "title": "Quoting Greg Kroah-Hartman",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Linux",
+        "AI",
+        "Security",
+        "Open Source",
+        "Greg Kroah-Hartman"
+      ],
+      "published": "2026-04-03T21:44:41.000Z"
+    },
+    {
+      "id": "1a26791a19d660f3",
+      "title": "Roman moon, Greek moon",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/",
       "pacer": "C",
       "keywords": [
-        "AI",
-        "Agentic Engineering",
-        "Automation",
-        "Software Engineering",
-        "Podcast"
+        "perilune",
+        "periselene",
+        "astronomy",
+        "etymology",
+        "Artemis II"
       ],
-      "published": "2026-04-02T20:40:47.000Z"
+      "published": "2026-04-03T16:31:54.000Z"
+    },
+    {
+      "id": "3127272337da0f4b",
+      "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "JavaScript",
+        "CSP",
+        "iframes",
+        "security",
+        "web-development"
+      ],
+      "published": "2026-04-03T16:05:00.000Z"
+    },
+    {
+      "id": "065fe62d52ebfd14",
+      "title": "How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202",
+      "pacer": "C",
+      "keywords": [
+        "ReadDirectoryChangesW",
+        "Windows API",
+        "File System",
+        "Programming",
+        "System Architecture"
+      ],
+      "published": "2026-04-03T14:00:00.000Z"
+    },
+    {
+      "id": "b3eb6f0d51bf5c12",
+      "title": "Build your own Dial-up ISP with a Raspberry Pi",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "pacer": "P",
+      "keywords": [
+        "iBook G3",
+        "Raspberry Pi",
+        "Wi-Fi",
+        "Retro Computing",
+        "Dial-up ISP"
+      ],
+      "published": "2026-04-03T14:00:00.000Z"
+    },
+    {
+      "id": "42942153d9cef86b",
+      "title": "The Axios supply chain attack used individually targeted social engineering",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Axios",
+        "supply chain attack",
+        "social engineering",
+        "malware",
+        "cybersecurity"
+      ],
+      "published": "2026-04-03T13:54:53.000Z"
+    },
+    {
+      "id": "7cd5bea1a8a6c47c",
+      "title": "My Zip bomb strategy is not as effective as it used to be ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed",
+      "pacer": "E",
+      "keywords": [
+        "zip bomb",
+        "cybersecurity",
+        "bot mitigation",
+        "server protection",
+        "web crawler"
+      ],
+      "published": "2026-04-03T12:00:00.000Z"
+    },
+    {
+      "id": "8477285e81e4fb67",
+      "title": "Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/",
+      "pacer": "C",
+      "keywords": [
+        "Superintelligence",
+        "Nick Bostrom",
+        "AI safety",
+        "existential risk",
+        "book review"
+      ],
+      "published": "2026-04-03T11:34:34.000Z"
+    },
+    {
+      "id": "0138b793f861f900",
+      "title": "Package Manager Easter Eggs",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html",
+      "pacer": "R",
+      "keywords": [
+        "package manager",
+        "easter eggs",
+        "apt",
+        "aptitude",
+        "ASCII art"
+      ],
+      "published": "2026-04-03T10:00:00.000Z"
+    },
+    {
+      "id": "ff71f66d68899dbd",
+      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+      "pacer": "A",
+      "keywords": [
+        "passive income",
+        "entrepreneurship",
+        "dropshipping",
+        "business strategy",
+        "hustle culture"
+      ],
+      "published": "2026-04-03T06:25:28.000Z"
+    },
+    {
+      "id": "190f18d2cb00ce0f",
+      "title": "Em Dashes: Back In Style?",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor",
+      "pacer": "E",
+      "keywords": [
+        "Cloudflare",
+        "EmDash",
+        "WordPress",
+        "Astro",
+        "Site Migration"
+      ],
+      "published": "2026-04-03T03:20:49.000Z"
+    },
+    {
+      "id": "b65ed5894ff1922b",
+      "title": "Hyperbolic version of Napier’s mnemonic",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/",
+      "pacer": "C",
+      "keywords": [
+        "Napier's mnemonic",
+        "hyperbolic geometry",
+        "spherical trigonometry",
+        "mathematics",
+        "geometry"
+      ],
+      "published": "2026-04-03T01:38:49.000Z"
+    },
+    {
+      "id": "2276b65479290606",
+      "title": "Programming (with AI agents) as theory building",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/",
+      "pacer": "C",
+      "keywords": [
+        "programming",
+        "AI agents",
+        "theory building",
+        "software development",
+        "mental models"
+      ],
+      "published": "2026-04-03T00:00:00.000Z"
     },
     {
       "id": "05324fa05f629f0a",
@@ -33,36 +257,20 @@
       "published": "2026-04-02T19:00:00.000Z"
     },
     {
-      "id": "e6b983b8027a4031",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything",
-      "pacer": "E",
+      "id": "e6b00bcd4cf6643c",
+      "title": "The Reckoning",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/03/the-reckoning.html",
+      "pacer": "C",
       "keywords": [
-        "Gemma 4",
-        "Google DeepMind",
-        "LLM",
         "AI",
-        "Per-Layer Embeddings"
+        "Professional Managerial Class",
+        "Society",
+        "Social Trust",
+        "Technological Reckoning"
       ],
-      "published": "2026-04-02T18:28:54.000Z"
-    },
-    {
-      "id": "f9f80bbdfaa1ed42",
-      "title": "llm-gemini 0.30",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "gemini",
-        "gemma",
-        "software release",
-        "ai"
-      ],
-      "published": "2026-04-02T18:25:08.000Z"
+      "published": "2026-04-02T16:00:00.000Z"
     },
     {
       "id": "096a0eb6cead2430",
@@ -161,22 +369,6 @@
       "published": "2026-04-02T10:17:15.000Z"
     },
     {
-      "id": "905785e53685bd2e",
-      "title": "March 2026 sponsors-only newsletter",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "newsletter",
-        "Simon Willison",
-        "agentic engineering",
-        "LLM",
-        "software security"
-      ],
-      "published": "2026-04-02T05:15:04.000Z"
-    },
-    {
       "id": "df9caa0bc343d873",
       "title": "Time is a User-Interface",
       "source": "Westenberg.",
@@ -207,22 +399,6 @@
         "Developer"
       ],
       "published": "2026-04-02T00:00:00.000Z"
-    },
-    {
-      "id": "0fb3c320e1305a65",
-      "title": "datasette-llm 0.1a6",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette-llm",
-        "Python",
-        "API",
-        "software release",
-        "LLM"
-      ],
-      "published": "2026-04-01T23:01:37.000Z"
     },
     {
       "id": "8e67018d41ddb22d",
@@ -367,6 +543,22 @@
         "Cory Doctorow"
       ],
       "published": "2026-04-01T10:59:24.000Z"
+    },
+    {
+      "id": "cd42cca67929c8e4",
+      "title": "The Mystery of Rennes-le-Château, Part 3: A Secret History",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/",
+      "pacer": "C",
+      "keywords": [
+        "Rennes-le-Château",
+        "Gabriel Knight 3",
+        "Henry Lincoln",
+        "François-Bérenger Saunière",
+        "History"
+      ],
+      "published": "2026-04-01T07:05:28.000Z"
     },
     {
       "id": "93a2f2f8cb4579ee",
@@ -529,16 +721,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-31T13:00:48.000Z"
-    },
-    {
-      "id": "1aad270f1e47c633",
-      "title": "Morse code tree",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/31/morse-code-tree/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T12:12:31.000Z"
     },
     {
       "id": "5240f3127815323e",
@@ -863,16 +1045,6 @@
       "published": "2026-03-27T17:23:28.000Z"
     },
     {
-      "id": "16cc15ed3ced0b0c",
-      "title": "An AI Odyssey, Part 3: Lost Needle in the Haystack",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T16:06:18.000Z"
-    },
-    {
       "id": "2306357971e0d44d",
       "title": "An Intention Upgrade",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -901,16 +1073,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-27T15:02:13.000Z"
-    },
-    {
-      "id": "fbf66eca75bb86f6",
-      "title": "What if a dialog wants to intercept its own message loop?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T14:00:00.000Z"
     },
     {
       "id": "719f5f1444adc722",
@@ -971,26 +1133,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-27T00:00:00.000Z"
-    },
-    {
-      "id": "ece8441787bc810b",
-      "title": "How we get radicalized in America ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-26T23:11:46.000Z"
-    },
-    {
-      "id": "54bac59fd298c2bd",
-      "title": "Members Only: On Cathedral thinking",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/members-only-on-cathedral-thinking/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-26T22:54:35.000Z"
     },
     {
       "id": "55dfa0982b8b9542",
@@ -1091,16 +1233,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-24T14:38:06.000Z"
-    },
-    {
-      "id": "4337279c02aa6296",
-      "title": "Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ★★☆☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T12:34:27.000Z"
     },
     {
       "id": "de706b73a75f9741",
@@ -1243,16 +1375,6 @@
       "published": "2026-03-21T12:03:50.000Z"
     },
     {
-      "id": "7b8116a5ae81e494",
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-21T10:00:00.000Z"
-    },
-    {
       "id": "aeb9b2f6ab43be07",
       "title": "Re: People Are Not Friction",
       "source": "Jim Nielsen’s Blog",
@@ -1281,16 +1403,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-20T16:00:55.000Z"
-    },
-    {
-      "id": "e2bb70dc1b3d2d28",
-      "title": "Democracy is a Liability",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T16:00:00.000Z"
     },
     {
       "id": "92f73743865afd75",
@@ -1593,22 +1705,6 @@
       "published": "2026-03-15T00:00:00.000Z"
     },
     {
-      "id": "2f61111f509d1efb",
-      "title": "Last-Run Syndication",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline",
-      "pacer": "C",
-      "keywords": [
-        "television",
-        "syndication",
-        "media business",
-        "NBCUniversal",
-        "broadcasting"
-      ],
-      "published": "2026-03-14T01:41:56.000Z"
-    },
-    {
       "id": "ba1eca33f6eb154e",
       "title": "human.json",
       "source": "Evan Hahn (dot com)",
@@ -1671,22 +1767,6 @@
         "semiconductors"
       ],
       "published": "2026-03-13T16:00:42.000Z"
-    },
-    {
-      "id": "e50ee25dd88e41ba",
-      "title": "Restoring an Xserve G5: When Apple built real servers",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/",
-      "pacer": "C",
-      "keywords": [
-        "Apple",
-        "Xserve",
-        "PowerPC",
-        "Retrocomputing",
-        "Hardware"
-      ],
-      "published": "2026-03-13T14:00:00.000Z"
     },
     {
       "id": "d88100cbf748f2db",
@@ -2409,16 +2489,6 @@
     }
   ],
   "links": [
-    {
-      "source": "1ead71acd94a0208",
-      "target": "d64d77e646ab3f7d",
-      "shared_keywords": [
-        "AI",
-        "Software Engineering",
-        "Automation"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "c88ef4bc96c22d50",
       "target": "37229028942d96dd",
