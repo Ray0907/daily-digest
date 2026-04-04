@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-04-03T22:05:51.424Z",
+  "last_updated": "2026-04-04T22:04:26.435Z",
   "articles": [
+    {
+      "id": "f80e9a26cc3fa2b6",
+      "title": "Value numbering",
+      "url": "https://bernsteinbear.com/blog/value-numbering/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-04-04T00:00:00.000Z",
+      "summary_en": "This article introduces value numbering as a compiler optimization technique that builds upon Static Single Assignment (SSA) form. It explains how identifying identical expressions allows compilers to eliminate redundant computations by reusing previously calculated values.",
+      "summary_zh": "本文介紹了編譯器優化技術「值編號」(Value Numbering)，它是建立在靜態單賦值 (SSA) 形式之上的概念。透過識別相同的運算式，編譯器能夠重複利用先前計算出的值，進而消除冗餘的運算。",
+      "keywords": [
+        "compiler",
+        "SSA",
+        "value numbering",
+        "optimization",
+        "computer science"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of value numbering and how it functions within compiler design.",
+      "pacer_reason_zh": "本文解釋了值編號的理論概念及其在編譯器設計中的運作方式。"
+    },
+    {
+      "id": "27309dbe0bae9474",
+      "title": "Wander Console 0.4.0",
+      "url": "https://susam.net/code/news/wander/0.4.0.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-04-04T00:00:00.000Z",
+      "summary_en": "Wander Console 0.4.0 is a release of a decentralized, self-hosted web tool for exploring independent websites. The update introduces wildcard patterns for ignore lists, a 'via' query parameter for attribution, and improvements to the console picker algorithm.",
+      "summary_zh": "Wander Console 0.4.0 是一個去中心化且可自託管的網頁控制台版本，旨在幫助使用者探索獨立網站。本次更新引入了忽略列表的萬用字元功能、用於來源追蹤的 'via' 查詢參數，並優化了控制台的選擇演算法。",
+      "keywords": [
+        "Wander Console",
+        "decentralized web",
+        "web tools",
+        "self-hosted",
+        "web discovery"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a release note detailing new features and configuration instructions for a specific software tool.",
+      "pacer_reason_zh": "本文屬於軟體發布說明，詳細介紹了特定軟體工具的新增功能與設定說明。"
+    },
+    {
+      "id": "ed1cc9edc2c09833",
+      "title": "Reading List 04/04/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-04042026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-04T12:01:48.000Z",
+      "summary_en": "This post provides a curated collection of industry updates and reading materials focusing on supply chain disruptions, infrastructure challenges, and emerging market trends. Topics include aluminum market issues, the impact of electric vehicles on traditional manufacturing hubs, and SpaceX's potential public offering.",
+      "summary_zh": "本篇摘要整理了關於工業動態與市場趨勢的精選閱讀清單，重點探討鋁材供應鏈中斷、電動車對傳統製造業的影響以及變壓器短缺問題。此外，內容也涵蓋了 SpaceX 可能進行首次公開募股（IPO）的產業觀察。",
+      "keywords": [
+        "supply chain",
+        "EV",
+        "infrastructure",
+        "SpaceX",
+        "market trends"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list of links and topics for reference, rather than a tutorial, deep conceptual explanation, or data-driven study.",
+      "pacer_reason_zh": "本文屬於整理過的連結清單與主題匯總，適合作為參考資料，而非教學指南、理論解釋或數據實驗。"
+    },
+    {
+      "id": "36df06849a9055df",
+      "title": "What does Open Source mean?",
+      "url": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-04T10:00:00.000Z",
+      "summary_en": "This article explores the confusion surrounding the term 'open source,' noting that debates often fail because participants define it differently. It breaks down the term into four distinct categories: a licensing regime, a development methodology, a business model, and a supply chain.",
+      "summary_zh": "本文探討了圍繞「開源」一詞的混亂現狀，指出相關辯論往往因為定義不同而流於空談。作者將開源拆解為四個維度：授權機制、開發方法論、商業模式以及供應鏈。",
+      "keywords": [
+        "open source",
+        "definitions",
+        "software development",
+        "licensing",
+        "business models"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework to categorize and explain the multifaceted meanings of 'open source'.",
+      "pacer_reason_zh": "本文提供了一個概念性框架，用以分類並解釋「開源」一詞的多重含義。"
+    },
+    {
+      "id": "909576d506f3390a",
+      "title": "The AI writing witchhunt is pointless.",
+      "url": "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-04T12:01:37.000Z",
+      "summary_en": "The article argues against the backlash toward AI writing by comparing it to the historical collaborative model of Alexandre Dumas. It highlights that literary greats often relied on ghostwriters and assistants, suggesting that the current resistance to AI overlooks the long-standing nature of assisted writing.",
+      "summary_zh": "本文主張針對 AI 寫作的抵制毫無意義，並將其與亞歷山大·大仲馬歷史上的創作模式進行對比。文章強調文學巨匠過去也常仰賴代筆與助手，顯示當前對於 AI 的排斥忽略了寫作輔助長期存在的歷史事實。",
+      "keywords": [
+        "AI writing",
+        "Alexandre Dumas",
+        "literary history",
+        "collaboration",
+        "writing tools"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical analogy of Dumas' writing workshops to frame and discuss the contemporary debate on AI-assisted writing.",
+      "pacer_reason_zh": "文章透過大仲馬寫作工坊的歷史類比，來論述當前關於 AI 輔助寫作的爭議。"
+    },
+    {
+      "id": "35f56df87aea9ef7",
+      "title": "Kalman and Bayes average grades",
+      "url": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-04T15:00:14.000Z",
+      "summary_en": "This article explains how calculating a rolling average grade serves as a foundational example for understanding Bayesian statistics and Kalman filtering. It demonstrates how incoming data points update previous estimates, highlighting the underlying mathematical connections between these concepts.",
+      "summary_zh": "本文將計算滾動平均成績作為理解貝葉斯統計與卡爾曼濾波的基礎案例。作者展示了當新數據點加入時，系統如何更新先前的估計值，並深入淺出地揭示了這些概念之間的數學聯繫。",
+      "keywords": [
+        "Bayesian statistics",
+        "Kalman filter",
+        "averages",
+        "mathematics",
+        "data update"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual relationship between simple averages, Bayesian updates, and Kalman filtering.",
+      "pacer_reason_zh": "本文重點在於解釋簡單平均數、貝葉斯更新與卡爾曼濾波之間的概念性關聯。"
+    },
+    {
+      "id": "25e8b8191249a571",
+      "title": "Absurd In Production",
+      "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-04-04T00:00:00.000Z",
+      "summary_en": "This post reflects on the five-month production experience of Absurd, a durable execution system built entirely on top of PostgreSQL. The author discusses system refinements, including enhanced claim handling, deadlock prevention, and improved workflow step management, confirming the viability of using SQL-based storage for long-running tasks.",
+      "summary_zh": "本文分享了 Absurd 在生產環境運行五個月後的經驗，這是一個完全基於 PostgreSQL 構建的持久化執行系統。作者探討了系統的優化過程，包括加強任務請求處理、死鎖預防及更完善的步驟管理，證實了使用 SQL 儲存來處理長期任務的可行性。",
+      "keywords": [
+        "PostgreSQL",
+        "durable execution",
+        "workflow",
+        "distributed systems",
+        "Absurd"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on real-world production experience and lessons learned from deploying a specific software system.",
+      "pacer_reason_zh": "本文基於真實的生產環境經驗以及部署特定軟體系統後所學到的教訓。"
+    },
+    {
+      "id": "d7b9fb2391b3ce84",
+      "title": "Welcome to RSS Club!",
+      "url": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-04T11:34:13.000Z",
+      "summary_en": "The author introduces 'RSS Club', an exclusive series of blog posts accessible only to RSS/Atom subscribers. These posts are hidden from search engines and social media, creating a private space for long-form readers.",
+      "summary_zh": "作者介紹了「RSS Club」，這是一系列僅對 RSS/Atom 訂閱者公開的專屬部落格文章。這些內容對搜尋引擎和社群媒體隱藏，旨在為訂閱者打造一個隱密的閱讀空間。",
+      "keywords": [
+        "RSS",
+        "Atom",
+        "Blogging",
+        "Privacy",
+        "Subscription"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual approach to content delivery using existing technology to create an exclusive, private publication channel.",
+      "pacer_reason_zh": "該文章解釋了一種內容傳遞的概念性方法，利用現有技術建立一個專屬且私密的發布管道。"
+    },
+    {
+      "id": "6dc6edb25015767a",
+      "title": "Loading... [13 kB]",
+      "url": "https://maurycyz.com/misc/13kb/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-04-03T00:00:00.000Z",
+      "summary_en": "This article explains how the Transmission Control Protocol (TCP) ensures data integrity when downloading files over the internet. It details the process of packet sequencing and acknowledgment to handle out-of-order delivery and packet loss effectively.",
+      "summary_zh": "本文解釋了傳輸控制協定 (TCP) 如何在網際網路上下載檔案時確保資料完整性。文中詳述了透過封包編號與確認機制 (ACK)，來處理封包順序錯亂或丟失問題的過程。",
+      "keywords": [
+        "TCP",
+        "networking",
+        "packets",
+        "data integrity",
+        "protocols"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the fundamental concepts of how network protocols handle data transmission and reliability.",
+      "pacer_reason_zh": "本文旨在解釋網路協定如何處理資料傳輸與可靠性的基礎概念。"
+    },
+    {
+      "id": "154777f0b1a37cec",
+      "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/04/digital-subjugation/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-04T07:49:19.000Z",
+      "summary_en": "Cory Doctorow critiques the EU's potential failure to regulate US tech giants amidst geopolitical pressures under the Trump administration. The piece argues that the EU should capitalize on current crises to address American digital surveillance, monopolistic data practices, and the weaponization of software against public institutions.",
+      "summary_zh": "Cory Doctorow 評論歐盟在川普政府的政治壓力下，可能無法有效監管美國科技巨頭。文章主張歐盟應利用當前的危機，針對美國的數位監控、壟斷數據行為以及軟體武器化對公共機構的威脅採取強硬立場。",
+      "keywords": [
+        "EU",
+        "Trump",
+        "tech regulation",
+        "digital surveillance",
+        "monopoly"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, offering a critical analysis and commentary on geopolitical strategy and the nature of US tech policy.",
+      "pacer_reason_zh": "該文章主要屬於概念性分析，針對地緣政治策略與美國科技政策的本質進行評論與深度剖析。"
+    },
+    {
+      "id": "0a7085483044bef1",
+      "title": "Quoting Kyle Daigle",
+      "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-04T02:20:17.000Z",
+      "summary_en": "This post highlights GitHub's rapid platform growth, citing data from COO Kyle Daigle. It specifically notes a massive increase in commit activity and the doubling of GitHub Actions usage minutes.",
+      "summary_zh": "本文引用 GitHub 營運長 Kyle Daigle 的數據，強調 GitHub 平台的快速成長。內容特別指出程式碼提交數量的巨幅增長，以及 GitHub Actions 使用時數在兩年內翻倍的驚人趨勢。",
+      "keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "software development",
+        "platform growth",
+        "data"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on reporting specific growth statistics and platform usage metrics.",
+      "pacer_reason_zh": "內容主要聚焦於報導具體的平台成長數據與使用指標。"
+    },
+    {
+      "id": "3bda934596581d60",
+      "title": "Vulnerability Research Is Cooked",
+      "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-03T23:59:08.000Z",
+      "summary_en": "Thomas Ptacek argues that AI coding agents are poised to revolutionize vulnerability research by automating exploit discovery. By leveraging vast pattern-matching capabilities and relentless search processes, these models can identify zero-day vulnerabilities more efficiently than traditional methods.",
+      "summary_zh": "Thomas Ptacek 指出，AI 編碼代理將透過自動化漏洞挖掘徹底改變安全研究領域。憑藉強大的模式匹配能力與不間斷的搜尋效率，這些模型能比傳統方法更有效地發現零時差漏洞。",
+      "keywords": [
+        "AI",
+        "vulnerability research",
+        "LLM",
+        "cybersecurity",
+        "exploit development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in the field of cybersecurity caused by the emergence of AI agents in vulnerability discovery.",
+      "pacer_reason_zh": "本文探討了 AI 代理在漏洞挖掘領域的出現，所導致的網路安全概念性轉變。"
+    },
+    {
+      "id": "e73a62b981d0af01",
+      "title": "The cognitive impact of coding agents",
+      "url": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-03T23:57:04.000Z",
+      "summary_en": "Simon Willison shares a viral short-form video clip from his appearance on Lenny Rachitsky's podcast. The post explores the cognitive impact of using coding agents and touches on the broader implications of AI engineering.",
+      "summary_zh": "Simon Willison 分享了他參與 Lenny Rachitsky 播客的一段熱門短影音。本文探討了使用程式編寫代理（coding agents）對認知造成的影響，並觸及了 AI 工程領域的相關議題。",
+      "keywords": [
+        "AI",
+        "coding-agents",
+        "podcast",
+        "cognitive-debt",
+        "generative-ai"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual discussion regarding the cognitive impacts and implications of using AI coding agents.",
+      "pacer_reason_zh": "內容重點在於探討使用 AI 程式編寫代理所帶來的認知影響與相關概念性議題。"
+    },
     {
       "id": "cd42cca67929c8e4",
       "title": "The Mystery of Rennes-le-Château, Part 3: A Secret History",

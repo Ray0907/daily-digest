@@ -1,6 +1,198 @@
 {
   "nodes": [
     {
+      "id": "35f56df87aea9ef7",
+      "title": "Kalman and Bayes average grades",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/",
+      "pacer": "C",
+      "keywords": [
+        "Bayesian statistics",
+        "Kalman filter",
+        "averages",
+        "mathematics",
+        "data update"
+      ],
+      "published": "2026-04-04T15:00:14.000Z"
+    },
+    {
+      "id": "ed1cc9edc2c09833",
+      "title": "Reading List 04/04/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-04042026",
+      "pacer": "R",
+      "keywords": [
+        "supply chain",
+        "EV",
+        "infrastructure",
+        "SpaceX",
+        "market trends"
+      ],
+      "published": "2026-04-04T12:01:48.000Z"
+    },
+    {
+      "id": "909576d506f3390a",
+      "title": "The AI writing witchhunt is pointless.",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/",
+      "pacer": "A",
+      "keywords": [
+        "AI writing",
+        "Alexandre Dumas",
+        "literary history",
+        "collaboration",
+        "writing tools"
+      ],
+      "published": "2026-04-04T12:01:37.000Z"
+    },
+    {
+      "id": "d7b9fb2391b3ce84",
+      "title": "Welcome to RSS Club!",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/",
+      "pacer": "C",
+      "keywords": [
+        "RSS",
+        "Atom",
+        "Blogging",
+        "Privacy",
+        "Subscription"
+      ],
+      "published": "2026-04-04T11:34:13.000Z"
+    },
+    {
+      "id": "36df06849a9055df",
+      "title": "What does Open Source mean?",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "definitions",
+        "software development",
+        "licensing",
+        "business models"
+      ],
+      "published": "2026-04-04T10:00:00.000Z"
+    },
+    {
+      "id": "154777f0b1a37cec",
+      "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/04/digital-subjugation/",
+      "pacer": "C",
+      "keywords": [
+        "EU",
+        "Trump",
+        "tech regulation",
+        "digital surveillance",
+        "monopoly"
+      ],
+      "published": "2026-04-04T07:49:19.000Z"
+    },
+    {
+      "id": "0a7085483044bef1",
+      "title": "Quoting Kyle Daigle",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "GitHub",
+        "GitHub Actions",
+        "software development",
+        "platform growth",
+        "data"
+      ],
+      "published": "2026-04-04T02:20:17.000Z"
+    },
+    {
+      "id": "f80e9a26cc3fa2b6",
+      "title": "Value numbering",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "url": "https://bernsteinbear.com/blog/value-numbering/?utm_source=rss",
+      "pacer": "C",
+      "keywords": [
+        "compiler",
+        "SSA",
+        "value numbering",
+        "optimization",
+        "computer science"
+      ],
+      "published": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "27309dbe0bae9474",
+      "title": "Wander Console 0.4.0",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/code/news/wander/0.4.0.html",
+      "pacer": "P",
+      "keywords": [
+        "Wander Console",
+        "decentralized web",
+        "web tools",
+        "self-hosted",
+        "web discovery"
+      ],
+      "published": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "25e8b8191249a571",
+      "title": "Absurd In Production",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+      "pacer": "E",
+      "keywords": [
+        "PostgreSQL",
+        "durable execution",
+        "workflow",
+        "distributed systems",
+        "Absurd"
+      ],
+      "published": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "3bda934596581d60",
+      "title": "Vulnerability Research Is Cooked",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "vulnerability research",
+        "LLM",
+        "cybersecurity",
+        "exploit development"
+      ],
+      "published": "2026-04-03T23:59:08.000Z"
+    },
+    {
+      "id": "e73a62b981d0af01",
+      "title": "The cognitive impact of coding agents",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "coding-agents",
+        "podcast",
+        "cognitive-debt",
+        "generative-ai"
+      ],
+      "published": "2026-04-03T23:57:04.000Z"
+    },
+    {
       "id": "e68bf8b3fb1b5daa",
       "title": "Quoting Willy Tarreau",
       "source": "Simon Willison's Weblog",
@@ -33,22 +225,6 @@
       "published": "2026-04-03T21:46:07.000Z"
     },
     {
-      "id": "0113ad514b19c493",
-      "title": "Quoting Greg Kroah-Hartman",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Linux",
-        "AI",
-        "Security",
-        "Open Source",
-        "Greg Kroah-Hartman"
-      ],
-      "published": "2026-04-03T21:44:41.000Z"
-    },
-    {
       "id": "1a26791a19d660f3",
       "title": "Roman moon, Greek moon",
       "source": "John D. Cook",
@@ -63,22 +239,6 @@
         "Artemis II"
       ],
       "published": "2026-04-03T16:31:54.000Z"
-    },
-    {
-      "id": "3127272337da0f4b",
-      "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "JavaScript",
-        "CSP",
-        "iframes",
-        "security",
-        "web-development"
-      ],
-      "published": "2026-04-03T16:05:00.000Z"
     },
     {
       "id": "065fe62d52ebfd14",
@@ -111,22 +271,6 @@
         "Dial-up ISP"
       ],
       "published": "2026-04-03T14:00:00.000Z"
-    },
-    {
-      "id": "42942153d9cef86b",
-      "title": "The Axios supply chain attack used individually targeted social engineering",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Axios",
-        "supply chain attack",
-        "social engineering",
-        "malware",
-        "cybersecurity"
-      ],
-      "published": "2026-04-03T13:54:53.000Z"
     },
     {
       "id": "7cd5bea1a8a6c47c",
@@ -223,6 +367,22 @@
         "geometry"
       ],
       "published": "2026-04-03T01:38:49.000Z"
+    },
+    {
+      "id": "6dc6edb25015767a",
+      "title": "Loading... [13 kB]",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/misc/13kb/",
+      "pacer": "C",
+      "keywords": [
+        "TCP",
+        "networking",
+        "packets",
+        "data integrity",
+        "protocols"
+      ],
+      "published": "2026-04-03T00:00:00.000Z"
     },
     {
       "id": "2276b65479290606",
@@ -693,16 +853,6 @@
       "published": "2026-03-31T16:05:29.000Z"
     },
     {
-      "id": "58b1e937b251aa81",
-      "title": "Quantum Y2K",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/03/31/quantum-y2k/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T14:43:06.000Z"
-    },
-    {
       "id": "4f887a74e1fa146c",
       "title": "Before you check if an update caused your problem, check that it wasn’t a problem before the update",
       "source": "The Old New Thing",
@@ -907,16 +1057,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-30T10:00:00.000Z"
-    },
-    {
-      "id": "4b8c5dde6346e688",
-      "title": "Notes on going solo: celebrating 6 years of Studio Self",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T05:55:34.000Z"
     },
     {
       "id": "5f47d761cc9eedef",
@@ -1135,16 +1275,6 @@
       "published": "2026-03-27T00:00:00.000Z"
     },
     {
-      "id": "55dfa0982b8b9542",
-      "title": "Adding human.json to WordPress",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-26T12:34:52.000Z"
-    },
-    {
       "id": "ee0566afd2d15b02",
       "title": "SQLAlchemy 2 In Practice - Chapter 2 - Database Tables",
       "source": "Miguel Grinberg's Blog",
@@ -1163,26 +1293,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-26T00:00:00.000Z"
-    },
-    {
-      "id": "c2293b3579ae0654",
-      "title": "The Top 10 Biggest Conspiracies in Open Source",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-25T10:00:00.000Z"
-    },
-    {
-      "id": "c3a0844a221e08cf",
-      "title": "Pluralistic: The cost of doing business (25 Mar 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/03/25/fact-intensive/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-25T07:08:48.000Z"
     },
     {
       "id": "71b84c588ff701f2",
@@ -1455,16 +1565,6 @@
       "published": "2026-03-19T23:25:39.000Z"
     },
     {
-      "id": "9967e2ea31dd89b8",
-      "title": "How Much Computing Power is in a Data Center?",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/how-much-computing-power-is-in-a",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-19T12:01:33.000Z"
-    },
-    {
       "id": "0fe1832d16446e7a",
       "title": "On becoming a day person",
       "source": "Herman's blog",
@@ -1503,16 +1603,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-19T00:00:00.000Z"
-    },
-    {
-      "id": "c9a429e40c4fb093",
-      "title": "Wander 0.1.0",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/code/news/wander/0.1.0.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-18T00:00:00.000Z"
     },
     {
       "id": "6c05533a418f1d9e",
@@ -2358,22 +2448,6 @@
         "best-practices"
       ],
       "published": "2026-03-07T10:25:36.647Z"
-    },
-    {
-      "id": "faa18ec99d206f3e",
-      "title": "Remove annoying banners",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/projects/fixsite/",
-      "pacer": "P",
-      "keywords": [
-        "JavaScript",
-        "bookmarklet",
-        "web-cleanup",
-        "productivity",
-        "user-experience"
-      ],
-      "published": "2026-03-07T00:00:00.000Z"
     },
     {
       "id": "fe4117756d65f605",
