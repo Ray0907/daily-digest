@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "25cf4a99fda80a4e",
+      "title": "Quoting Chengpeng Mou",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "healthcare",
+        "data",
+        "AI-ethics"
+      ],
+      "published": "2026-04-05T21:47:06.000Z"
+    },
+    {
+      "id": "c921197a00c86d00",
+      "title": "Syntaqlite Playground",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "SQL",
+        "Syntaqlite",
+        "WebAssembly",
+        "Pyodide",
+        "Developer Tools"
+      ],
+      "published": "2026-04-05T19:32:59.000Z"
+    },
+    {
+      "id": "bac2344713d38351",
+      "title": "Stamp It! All Programs Must Report Their Version",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+      "pacer": "P",
+      "keywords": [
+        "versioning",
+        "incident response",
+        "software engineering",
+        "build info",
+        "debugging"
+      ],
+      "published": "2026-04-05T14:20:00.000Z"
+    },
+    {
+      "id": "145aa752a569cc9e",
+      "title": "Someone at BrowserStack is Leaking Users' Email Address",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "pacer": "E",
+      "keywords": [
+        "BrowserStack",
+        "Data Privacy",
+        "Email Security",
+        "Data Breach",
+        "Cybersecurity"
+      ],
+      "published": "2026-04-05T11:34:03.000Z"
+    },
+    {
+      "id": "e11ab4cfdf3662db",
+      "title": "It's not that deep ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/its-not-that-deep?src=feed",
+      "pacer": "C",
+      "keywords": [
+        "blogging",
+        "authenticity",
+        "personal growth",
+        "humanity",
+        "reading"
+      ],
+      "published": "2026-04-05T08:00:00.000Z"
+    },
+    {
+      "id": "2f8f4c620a4c1187",
+      "title": "scan-for-secrets 0.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "scan-for-secrets",
+        "CLI tool",
+        "Python API",
+        "security",
+        "software release"
+      ],
+      "published": "2026-04-05T04:07:13.000Z"
+    },
+    {
+      "id": "92cacca2adf1507a",
+      "title": "scan-for-secrets 0.1.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "scan-for-secrets",
+        "security",
+        "software release",
+        "Simon Willison",
+        "open source"
+      ],
+      "published": "2026-04-05T03:39:33.000Z"
+    },
+    {
+      "id": "57d1f910f4b5c909",
+      "title": "scan-for-secrets 0.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "scan-for-secrets",
+        "security",
+        "API keys",
+        "Python",
+        "agentic-engineering"
+      ],
+      "published": "2026-04-05T03:27:13.000Z"
+    },
+    {
       "id": "35f56df87aea9ef7",
       "title": "Kalman and Bayes average grades",
       "source": "John D. Cook",
@@ -97,22 +225,6 @@
       "published": "2026-04-04T07:49:19.000Z"
     },
     {
-      "id": "0a7085483044bef1",
-      "title": "Quoting Kyle Daigle",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "GitHub",
-        "GitHub Actions",
-        "software development",
-        "platform growth",
-        "data"
-      ],
-      "published": "2026-04-04T02:20:17.000Z"
-    },
-    {
       "id": "f80e9a26cc3fa2b6",
       "title": "Value numbering",
       "source": "Max Bernstein's Blog",
@@ -159,70 +271,6 @@
         "Absurd"
       ],
       "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
-      "id": "3bda934596581d60",
-      "title": "Vulnerability Research Is Cooked",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "vulnerability research",
-        "LLM",
-        "cybersecurity",
-        "exploit development"
-      ],
-      "published": "2026-04-03T23:59:08.000Z"
-    },
-    {
-      "id": "e73a62b981d0af01",
-      "title": "The cognitive impact of coding agents",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "coding-agents",
-        "podcast",
-        "cognitive-debt",
-        "generative-ai"
-      ],
-      "published": "2026-04-03T23:57:04.000Z"
-    },
-    {
-      "id": "e68bf8b3fb1b5daa",
-      "title": "Quoting Willy Tarreau",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Linux",
-        "kernel security",
-        "AI",
-        "vulnerability reports",
-        "software maintenance"
-      ],
-      "published": "2026-04-03T21:48:22.000Z"
-    },
-    {
-      "id": "e678c5d1f221ac9d",
-      "title": "Quoting Daniel Stenberg",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "cURL",
-        "Daniel Stenberg",
-        "open source",
-        "AI security",
-        "generative AI"
-      ],
-      "published": "2026-04-03T21:46:07.000Z"
     },
     {
       "id": "1a26791a19d660f3",
@@ -1135,16 +1183,6 @@
       "published": "2026-03-28T15:35:16.000Z"
     },
     {
-      "id": "6c83ecba5251a20b",
-      "title": "OpenBenches hits 40k",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-28T12:34:11.000Z"
-    },
-    {
       "id": "d280992efac99cae",
       "title": "Reading List 03/28/26",
       "source": "Construction Physics",
@@ -1233,16 +1271,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-27T12:00:44.000Z"
-    },
-    {
-      "id": "0d8259d6bec87fd3",
-      "title": "Sharing a Name ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/sharing-a-name?src=feed",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T12:00:00.000Z"
     },
     {
       "id": "8731b00ca7674d6b",
@@ -2563,6 +2591,16 @@
     }
   ],
   "links": [
+    {
+      "source": "2f8f4c620a4c1187",
+      "target": "92cacca2adf1507a",
+      "shared_keywords": [
+        "scan-for-secrets",
+        "security",
+        "software release"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "c88ef4bc96c22d50",
       "target": "37229028942d96dd",

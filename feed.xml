@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 04 Apr 2026 22:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 22:04:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Stamp It! All Programs Must Report Their Version</title>
+      <link>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</link>
+      <guid>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</guid>
+      <pubDate>Sun, 05 Apr 2026 14:20:00 GMT</pubDate>
+      <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
+      <description>The author argues that inadequate software versioning leads to significant delays during production incident responses. He proposes a three-step framework—Stamp it, Plumb it, and Report it—to ensure all programs provide transparent version information.</description>
+    </item>
+
+    <item>
+      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
+      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
+      <pubDate>Sun, 05 Apr 2026 11:34:03 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author details a security incident where they discovered their unique email address, created specifically for BrowserStack, was leaked. By using domain-specific email aliases, they were able to trace the source of the breach and identify unauthorized usage.</description>
+    </item>
+
+    <item>
+      <title>It's not that deep </title>
+      <link>https://idiallo.com/blog/its-not-that-deep?src=feed</link>
+      <guid>https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
+      <pubDate>Sun, 05 Apr 2026 08:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author reflects on the value of reading personal, human-centric blogs as a way to find connection and inspiration beyond the pressure of constant productivity. By highlighting specific writers, the post encourages readers to seek out authentic voices rather than sterile, corporate content.</description>
+    </item>
+
+    <item>
+      <title>Quoting Chengpeng Mou</title>
+      <link>https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 21:47:06 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post shares data from OpenAI's Chengpeng Mou regarding ChatGPT usage patterns in the U.S. It highlights significant engagement with health-related inquiries, particularly among users in hospital deserts and outside of standard clinical hours.</description>
+    </item>
+
+    <item>
+      <title>Syntaqlite Playground</title>
+      <link>https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 19:32:59 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The Syntaqlite Playground provides a browser-based interface to test SQL formatting, parsing, validation, and tokenization. Developed using Pyodide and WebAssembly, this tool allows users to interact directly with the syntaqlite library in their browser.</description>
+    </item>
+
+    <item>
+      <title>scan-for-secrets 0.2</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 04:07:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The scan-for-secrets tool has been updated to version 0.2, introducing streaming results for better performance on large directories. It also adds support for scanning multiple directories or individual files, along with new Python API functions for improved developer integration.</description>
+    </item>
+
+    <item>
+      <title>scan-for-secrets 0.1.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 03:39:33 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.1.1 of the scan-for-secrets tool. This update includes documentation for supported escaping schemes and removes redundant code.</description>
+    </item>
+
+    <item>
+      <title>scan-for-secrets 0.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 03:27:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released scan-for-secrets, a Python tool designed to detect API keys and sensitive credentials within local directories. It supports advanced features like scanning for common encodings and allows users to define custom configurations to automate secret retrieval during scans.</description>
+    </item>
+
+    <item>
+      <title>research-llm-apis 2026-04-04</title>
+      <link>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 00:32:11 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released a new repository containing research on raw API interactions with various LLM providers to inform updates to his LLM Python library. By utilizing Claude Code to analyze client libraries and generate curl commands, the project aims to improve support for advanced features like server-side tool execution.</description>
+    </item>
+
     <item>
       <title>Value numbering</title>
       <link>https://bernsteinbear.com/blog/value-numbering/?utm_source=rss</link>
@@ -822,87 +903,6 @@
       <guid>https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</guid>
       <pubDate>Tue, 31 Mar 2026 15:43:26 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>datasette-files 0.1a3</title>
-      <link>https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 23:58:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>The Webs Digital Locks have Never had a Stronger Opponent</title>
-      <link>https://blog.pixelmelt.dev/the-webs-digital-locks/</link>
-      <guid>https://blog.pixelmelt.dev/the-webs-digital-locks/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:18:09 GMT</pubDate>
-      <source url="https://blog.pixelmelt.dev/">Cats with power tools</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API</title>
-      <link>https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</link>
-      <guid>https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</guid>
-      <pubDate>Mon, 30 Mar 2026 18:42:30 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Two Worlds</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/30/two-worlds.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/03/30/two-worlds.html</guid>
-      <pubDate>Sun, 29 Mar 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Git Diff Drivers</title>
-      <link>https://nesbitt.io/2026/03/30/git-diff-drivers.html</link>
-      <guid>https://nesbitt.io/2026/03/30/git-diff-drivers.html</guid>
-      <pubDate>Mon, 30 Mar 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Notes on going solo: celebrating 6 years of Studio Self</title>
-      <link>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</link>
-      <guid>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</guid>
-      <pubDate>Mon, 30 Mar 2026 05:55:34 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>A question about the maximimum number of values in a registry key raises questions about the question</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175</guid>
-      <pubDate>Mon, 30 Mar 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Small note about AI 'GPUs'</title>
-      <link>https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</link>
-      <guid>https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Market participation is exhausting (30 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/30/players-of-games/</link>
-      <guid>https://pluralistic.net/2026/03/30/players-of-games/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:27:20 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description></description>
     </item>
   </channel>

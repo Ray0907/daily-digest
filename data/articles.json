@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-04-04T22:04:26.435Z",
+  "last_updated": "2026-04-05T22:04:04.603Z",
   "articles": [
+    {
+      "id": "bac2344713d38351",
+      "title": "Stamp It! All Programs Must Report Their Version",
+      "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "published": "2026-04-05T14:20:00.000Z",
+      "summary_en": "The author argues that inadequate software versioning leads to significant delays during production incident responses. He proposes a three-step framework—Stamp it, Plumb it, and Report it—to ensure all programs provide transparent version information.",
+      "summary_zh": "作者指出軟體缺乏版本標示會導致生產環境故障排除時的巨大困難。他提出了「標記、串接、回報」的三步驟框架，呼籲開發者應確保程式能提供明確的版本資訊。",
+      "keywords": [
+        "versioning",
+        "incident response",
+        "software engineering",
+        "build info",
+        "debugging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable three-step methodology for improving software versioning and incident response.",
+      "pacer_reason_zh": "本文提供了一套具體的「三步驟」執行方法，旨在改善軟體版本控制並提升事故處理效率。"
+    },
+    {
+      "id": "145aa752a569cc9e",
+      "title": "Someone at BrowserStack is Leaking Users' Email Address",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-05T11:34:03.000Z",
+      "summary_en": "The author details a security incident where they discovered their unique email address, created specifically for BrowserStack, was leaked. By using domain-specific email aliases, they were able to trace the source of the breach and identify unauthorized usage.",
+      "summary_zh": "作者詳細說明了一起安全事件，發現其專門為 BrowserStack 註冊的唯一電子郵件地址遭到洩露。透過使用特定服務的電子郵件別名，作者成功追蹤到洩漏來源並識別出未經授權的使用行為。",
+      "keywords": [
+        "BrowserStack",
+        "Data Privacy",
+        "Email Security",
+        "Data Breach",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study, providing evidence of a specific security breach through the author's personal experience.",
+      "pacer_reason_zh": "本文屬於案例分析，透過作者的個人經驗提供了關於特定安全漏洞的證據。"
+    },
+    {
+      "id": "e11ab4cfdf3662db",
+      "title": "It's not that deep ",
+      "url": "https://idiallo.com/blog/its-not-that-deep?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-05T08:00:00.000Z",
+      "summary_en": "The author reflects on the value of reading personal, human-centric blogs as a way to find connection and inspiration beyond the pressure of constant productivity. By highlighting specific writers, the post encourages readers to seek out authentic voices rather than sterile, corporate content.",
+      "summary_zh": "作者反思了閱讀充滿人性與真實個人聲音的部落格所帶來的價值，認為這比追求生產力或商業內容更能帶來啟發。文章透過分享自己閱讀清單，鼓勵讀者尋找具有個人特色而非枯燥乏味的寫作。",
+      "keywords": [
+        "blogging",
+        "authenticity",
+        "personal growth",
+        "humanity",
+        "reading"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores the conceptual philosophy of what makes writing meaningful and human, rather than providing instructions or data.",
+      "pacer_reason_zh": "本文探討了關於什麼樣的寫作才具備意義與人性之概念性思維，而非提供操作指南或數據分析。"
+    },
+    {
+      "id": "25cf4a99fda80a4e",
+      "title": "Quoting Chengpeng Mou",
+      "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T21:47:06.000Z",
+      "summary_en": "This post shares data from OpenAI's Chengpeng Mou regarding ChatGPT usage patterns in the U.S. It highlights significant engagement with health-related inquiries, particularly among users in hospital deserts and outside of standard clinical hours.",
+      "summary_zh": "本文分享了 OpenAI 的 Chengpeng Mou 關於美國 ChatGPT 使用模式的數據。數據顯示用戶對於健康諮詢有大量需求，特別是在醫療資源匱乏地區及常規門診時間之外的時段。",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "healthcare",
+        "data",
+        "AI-ethics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content provides specific quantitative data and usage statistics regarding ChatGPT's role in healthcare communication.",
+      "pacer_reason_zh": "該內容提供了關於 ChatGPT 在醫療溝通中角色的具體量化數據與使用統計。"
+    },
+    {
+      "id": "c921197a00c86d00",
+      "title": "Syntaqlite Playground",
+      "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T19:32:59.000Z",
+      "summary_en": "The Syntaqlite Playground provides a browser-based interface to test SQL formatting, parsing, validation, and tokenization. Developed using Pyodide and WebAssembly, this tool allows users to interact directly with the syntaqlite library in their browser.",
+      "summary_zh": "Syntaqlite Playground 提供了一個基於瀏覽器的介面，用於測試 SQL 的格式化、解析、驗證與詞法分析。該工具透過 Pyodide 和 WebAssembly 技術實現，讓使用者能直接在瀏覽器中體驗 syntaqlite 函式庫的功能。",
+      "keywords": [
+        "SQL",
+        "Syntaqlite",
+        "WebAssembly",
+        "Pyodide",
+        "Developer Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an introduction and direct link to a functional tool/playground for testing software features.",
+      "pacer_reason_zh": "本文旨在介紹並提供一個可以直接測試軟體功能的工具與操作介面。"
+    },
+    {
+      "id": "2f8f4c620a4c1187",
+      "title": "scan-for-secrets 0.2",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T04:07:13.000Z",
+      "summary_en": "The scan-for-secrets tool has been updated to version 0.2, introducing streaming results for better performance on large directories. It also adds support for scanning multiple directories or individual files, along with new Python API functions for improved developer integration.",
+      "summary_zh": "scan-for-secrets 工具發布 0.2 版本更新，引入了即時串流掃描結果功能，以提升處理大型目錄的效能。此外還新增了支援多目錄與單一檔案掃描選項，並提供新的 Python API 函數供開發者使用。",
+      "keywords": [
+        "scan-for-secrets",
+        "CLI tool",
+        "Python API",
+        "security",
+        "software release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release note detailing updates, new features, and technical specifications of a software tool.",
+      "pacer_reason_zh": "此內容為軟體版本更新說明，詳細列出了該工具的新功能與技術規格變更。"
+    },
+    {
+      "id": "92cacca2adf1507a",
+      "title": "scan-for-secrets 0.1.1",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T03:39:33.000Z",
+      "summary_en": "Simon Willison released version 0.1.1 of the scan-for-secrets tool. This update includes documentation for supported escaping schemes and removes redundant code.",
+      "summary_zh": "Simon Willison 發布了 scan-for-secrets 工具的 0.1.1 版本。此更新包含對所支援轉義方案的說明文件，並移除了多餘的程式碼。",
+      "keywords": [
+        "scan-for-secrets",
+        "security",
+        "software release",
+        "Simon Willison",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release note detailing updates and specifications for a software utility.",
+      "pacer_reason_zh": "此內容為軟體工具的版本更新說明，屬於參考性質的發布紀錄。"
+    },
+    {
+      "id": "57d1f910f4b5c909",
+      "title": "scan-for-secrets 0.1",
+      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T03:27:13.000Z",
+      "summary_en": "Simon Willison has released scan-for-secrets, a Python tool designed to detect API keys and sensitive credentials within local directories. It supports advanced features like scanning for common encodings and allows users to define custom configurations to automate secret retrieval during scans.",
+      "summary_zh": "Simon Willison 發布了 scan-for-secrets，這是一款旨在檢測本地目錄中 API 金鑰與敏感憑證的 Python 工具。它支援掃描常見編碼格式，並允許用戶自定義配置文件，以便在掃描過程中自動擷取特定機密。",
+      "keywords": [
+        "scan-for-secrets",
+        "security",
+        "API keys",
+        "Python",
+        "agentic-engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a new tool, provides installation commands, and explains how to configure and use it for security scanning.",
+      "pacer_reason_zh": "本文介紹了一款新工具，提供了安裝指令，並解釋了如何配置和使用該工具進行安全掃描。"
+    },
+    {
+      "id": "f1550a7b1bee5f49",
+      "title": "research-llm-apis 2026-04-04",
+      "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T00:32:11.000Z",
+      "summary_en": "Simon Willison has released a new repository containing research on raw API interactions with various LLM providers to inform updates to his LLM Python library. By utilizing Claude Code to analyze client libraries and generate curl commands, the project aims to improve support for advanced features like server-side tool execution.",
+      "summary_zh": "Simon Willison 發布了一個新的儲存庫，收錄了針對各大 LLM 供應商 API 的研究成果，旨在升級其 LLM Python 函式庫。該專案利用 Claude Code 分析客戶端函式庫並生成 curl 指令，以協助開發對伺服器端工具執行等新功能的支持。",
+      "keywords": [
+        "LLM",
+        "API",
+        "Python",
+        "Claude Code",
+        "curl"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a reference repository for raw JSON API interactions and documentation for LLM tool development.",
+      "pacer_reason_zh": "該文章作為 LLM 工具開發中原始 JSON API 互動的參考資料庫與記錄。"
+    },
     {
       "id": "f80e9a26cc3fa2b6",
       "title": "Value numbering",
