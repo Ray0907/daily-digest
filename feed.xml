@@ -4,8 +4,152 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 05 Apr 2026 22:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:08:10 GMT</lastBuildDate>
     
+    <item>
+      <title>What next for the compute crunch?</title>
+      <link>https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The AI sector is facing a severe imbalance between exponential demand for compute power and limited supply. The next two years will be characterized by market shortages, supply rationing, and ongoing price adjustments.</description>
+    </item>
+
+    <item>
+      <title>Prototyping with LLMs</title>
+      <link>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</link>
+      <guid>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</guid>
+      <pubDate>Mon, 06 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author reflects on the pitfalls of diving too quickly into LLM-based prototyping without proper planning. They argue that sketching ideas on paper before using AI can be a more efficient way to validate concepts and save time.</description>
+    </item>
+
+    <item>
+      <title>I Tried Vibing an RSS Reader and My Dreams Did Not Come True</title>
+      <link>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</link>
+      <guid>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</guid>
+      <pubDate>Sun, 05 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author explores the potential and limitations of 'vibe coding,' using AI to build a custom RSS reader without deep technical knowledge. While the project successfully produced a functional tool, the author highlights the challenges of scaling AI-generated code and the eventual wall hit when the application complexity exceeds AI's assistance capabilities.</description>
+    </item>
+
+    <item>
+      <title>The Cathedral and the Catacombs</title>
+      <link>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</link>
+      <guid>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</guid>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author critiques the long-standing 'Cathedral and the Bazaar' metaphor in software development, arguing that it ignores the 'catacombs'—the often-overlooked, complex dependency graphs that form the foundation of modern projects. The piece suggests that by focusing solely on governance and construction processes, developers and researchers fail to account for the risky, unmaintained, and invisible codebases that support their work.</description>
+    </item>
+
+    <item>
+      <title>HIPAA compliant AI</title>
+      <link>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:04:46 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article suggests that running AI models locally on private hardware is the most effective method for maintaining HIPAA compliance when handling protected health information. While HIPAA-compliant cloud alternatives exist, they are often characterized as overly restrictive and costly.</description>
+    </item>
+
+    <item>
+      <title>Learning to read C++ compiler errors: Illegal use of -&gt; when there is no -&gt; in sight</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</guid>
+      <pubDate>Mon, 06 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains how to debug confusing C++ compiler errors by examining code you didn't write, such as headers or macros. It emphasizes that unexpected error messages often stem from hidden code being expanded during compilation.</description>
+    </item>
+
+    <item>
+      <title>[RSS Club] Banana for scale</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</guid>
+      <pubDate>Mon, 06 Apr 2026 11:34:00 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author introduces a creative project called 'Scan Slowly And See' which uses a unique QR code generated by cloning patterns from a banana's skin. This playful experiment invites readers to test the functionality of the custom-coded graphic.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/06/empiricism-washing/</link>
+      <guid>https://pluralistic.net/2026/04/06/empiricism-washing/</guid>
+      <pubDate>Mon, 06 Apr 2026 09:04:57 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article explores how companies use surveillance data to implement 'personalized pricing,' a strategy that allows businesses to extract maximum profit from consumers and devalue labor. The author argues that this practice, fueled by monopolies and regulatory capture, is a key component of 'enshittification' in the digital economy.</description>
+    </item>
+
+    <item>
+      <title>AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It </title>
+      <link>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</link>
+      <guid>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</guid>
+      <pubDate>Mon, 06 Apr 2026 13:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author explores the tension between using AI to accelerate coding tasks and the importance of maintaining a deep understanding of one's codebase. Despite AI's ability to generate code quickly, the author emphasizes that developers must retain a mental model of their projects to ensure long-term maintainability and successful debugging.</description>
+    </item>
+
+    <item>
+      <title>Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+      <guid>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</guid>
+      <pubDate>Mon, 06 Apr 2026 02:07:17 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>German authorities have identified 31-year-old Russian national Daniil Maksimovich Shchukin as the notorious hacker 'UNKN'. He is alleged to have led the REvil and GandCrab ransomware gangs, responsible for over 130 extortion attacks in Germany between 2019 and 2021.</description>
+    </item>
+
+    <item>
+      <title>Google AI Edge Gallery</title>
+      <link>https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 05:18:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison reviews the Google AI Edge Gallery app, which allows users to run Gemma 4 models directly on an iPhone. The app demonstrates impressive performance and features, including image analysis, audio transcription, and a unique 'skills' system for tool calling.</description>
+    </item>
+
+    <item>
+      <title>datasette-ports 0.2</title>
+      <link>https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 03:25:43 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-ports 0.2 has been released, now allowing the tool to run independently via uvx without requiring a full Datasette installation. It remains compatible as a Datasette plugin, preserving the existing command-line functionality.</description>
+    </item>
+
+    <item>
+      <title>scan-for-secrets 0.3</title>
+      <link>https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 02:59:28 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.3 of scan-for-secrets, a tool for identifying and handling sensitive information. This update introduces a redaction feature via both the command line interface and a new Python function.</description>
+    </item>
+
+    <item>
+      <title>Cleanup Claude Code Paste</title>
+      <link>https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 02:55:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post introduces a specialized web tool designed to clean up text copied from the Claude Code terminal. It automatically removes the command prompt symbol, fixes broken line wrapping, and tidies up whitespace for cleaner output.</description>
+    </item>
+
+    <item>
+      <title>datasette-ports 0.1</title>
+      <link>https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 00:23:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released datasette-ports 0.1, a new tool designed to help developers manage multiple running Datasette instances. It provides a simple command-line interface to list active local instances, including their associated databases and installed plugins.</description>
+    </item>
+
+    <item>
+      <title>Eight years of wanting, three months of building with AI</title>
+      <link>https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 23:54:18 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Lalit Maganti successfully built 'syntaqlite,' a robust SQLite parsing and linting tool, after years of hesitation by leveraging AI coding agents to handle the tedious grammar implementation. The project demonstrates how AI can help developers overcome procrastination and technical hurdles by facilitating rapid prototyping and concrete problem-solving.</description>
+    </item>
+
     <item>
       <title>Stamp It! All Programs Must Report Their Version</title>
       <link>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</link>
@@ -759,150 +903,6 @@
       <guid>https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/</guid>
       <pubDate>Mon, 30 Mar 2026 19:00:00 GMT</pubDate>
       <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Clip Show</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Closed Source AI = Neofeudalism</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>The MVC Mistake</title>
-      <link>https://entropicthoughts.com/mvc-mistake</link>
-      <guid>https://entropicthoughts.com/mvc-mistake</guid>
-      <pubDate>Mon, 30 Mar 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>npm’s Defaults Are Bad</title>
-      <link>https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</link>
-      <guid>https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</guid>
-      <pubDate>Tue, 31 Mar 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>The World's First Bullshit</title>
-      <link>https://www.joanwestenberg.com/the-worlds-first-bullshit/</link>
-      <guid>https://www.joanwestenberg.com/the-worlds-first-bullshit/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:20:34 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Making human languages irrelevant</title>
-      <link>https://rakhim.exotext.com/making-human-languages-irrelevant</link>
-      <guid>https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-      <source url="https://rakhim.exotext.com/">Rakhim's blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Quantum Y2K</title>
-      <link>https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</link>
-      <guid>https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</guid>
-      <pubDate>Tue, 31 Mar 2026 14:43:06 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Morse code tree</title>
-      <link>https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</link>
-      <guid>https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</guid>
-      <pubDate>Tue, 31 Mar 2026 12:12:31 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Before you check if an update caused your problem, check that it wasn’t a problem before the update</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</guid>
-      <pubDate>Tue, 31 Mar 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>My ramblings are available over gopher</title>
-      <link>https://maurycyz.com/misc/gopher/</link>
-      <guid>https://maurycyz.com/misc/gopher/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/31/actual-federalist-society/</link>
-      <guid>https://pluralistic.net/2026/03/31/actual-federalist-society/</guid>
-      <pubDate>Tue, 31 Mar 2026 10:00:59 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>datasette-llm 0.1a4</title>
-      <link>https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 21:17:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>llm-all-models-async 0.1</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 20:52:02 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>llm 0.30</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/31/llm/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 20:35:51 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>llm-echo 0.4</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 16:48:59 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>llm-echo 0.3</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 15:43:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description></description>
     </item>
   </channel>

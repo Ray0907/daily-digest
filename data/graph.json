@@ -1,36 +1,244 @@
 {
   "nodes": [
     {
-      "id": "25cf4a99fda80a4e",
-      "title": "Quoting Chengpeng Mou",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
-      "pacer": "E",
+      "id": "b20850c9b1eb7ddd",
+      "title": "Prototyping with LLMs",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/",
+      "pacer": "A",
       "keywords": [
-        "ChatGPT",
-        "OpenAI",
-        "healthcare",
-        "data",
-        "AI-ethics"
+        "LLM",
+        "prototyping",
+        "sketching",
+        "design process",
+        "productivity"
       ],
-      "published": "2026-04-05T21:47:06.000Z"
+      "published": "2026-04-06T19:00:00.000Z"
     },
     {
-      "id": "c921197a00c86d00",
-      "title": "Syntaqlite Playground",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+      "id": "d7fc82aee9e85599",
+      "title": "Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208",
       "pacer": "P",
       "keywords": [
-        "SQL",
-        "Syntaqlite",
-        "WebAssembly",
-        "Pyodide",
-        "Developer Tools"
+        "C++",
+        "Compiler Errors",
+        "Debugging",
+        "Programming",
+        "The Old New Thing"
       ],
-      "published": "2026-04-05T19:32:59.000Z"
+      "published": "2026-04-06T14:00:00.000Z"
+    },
+    {
+      "id": "0d99a60025c8c168",
+      "title": "AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "programming",
+        "code review",
+        "software development",
+        "productivity"
+      ],
+      "published": "2026-04-06T13:00:00.000Z"
+    },
+    {
+      "id": "87760535abdd8a52",
+      "title": "[RSS Club] Banana for scale",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/",
+      "pacer": "P",
+      "keywords": [
+        "RSS",
+        "QR Code",
+        "creative coding",
+        "banana",
+        "experiment"
+      ],
+      "published": "2026-04-06T11:34:00.000Z"
+    },
+    {
+      "id": "608e1b0d559f32e6",
+      "title": "The Cathedral and the Catacombs",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "dependency graph",
+        "software engineering",
+        "metaphor",
+        "Cathedral and the Bazaar"
+      ],
+      "published": "2026-04-06T10:00:00.000Z"
+    },
+    {
+      "id": "3329ab4a186d57d1",
+      "title": "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/06/empiricism-washing/",
+      "pacer": "C",
+      "keywords": [
+        "surveillance pricing",
+        "enshittification",
+        "labor rights",
+        "monopoly",
+        "regulatory capture"
+      ],
+      "published": "2026-04-06T09:04:57.000Z"
+    },
+    {
+      "id": "fb61e3effa86c887",
+      "title": "Google AI Edge Gallery",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Google AI Edge",
+        "Gemma 4",
+        "On-device AI",
+        "iPhone",
+        "LLM"
+      ],
+      "published": "2026-04-06T05:18:26.000Z"
+    },
+    {
+      "id": "be6937f11e403998",
+      "title": "datasette-ports 0.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-ports",
+        "python",
+        "cli",
+        "open-source"
+      ],
+      "published": "2026-04-06T03:25:43.000Z"
+    },
+    {
+      "id": "c7bd3f49af3c0273",
+      "title": "scan-for-secrets 0.3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "scan-for-secrets",
+        "redaction",
+        "security",
+        "python",
+        "simon-willison"
+      ],
+      "published": "2026-04-06T02:59:28.000Z"
+    },
+    {
+      "id": "04c4f4fbc307f654",
+      "title": "Cleanup Claude Code Paste",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Claude Code",
+        "tools",
+        "utility",
+        "text cleanup",
+        "terminal"
+      ],
+      "published": "2026-04-06T02:55:23.000Z"
+    },
+    {
+      "id": "3e73213b65c0a33f",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "pacer": "E",
+      "keywords": [
+        "REvil",
+        "GandCrab",
+        "Daniil Maksimovich Shchukin",
+        "ransomware",
+        "cybercrime"
+      ],
+      "published": "2026-04-06T02:07:17.000Z"
+    },
+    {
+      "id": "fc529b367f17c03d",
+      "title": "datasette-ports 0.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "datasette",
+        "python",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "published": "2026-04-06T00:23:55.000Z"
+    },
+    {
+      "id": "a836970785340e9b",
+      "title": "What next for the compute crunch?",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "compute",
+        "supply chain",
+        "hardware",
+        "market trends"
+      ],
+      "published": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "ddfa01418762a841",
+      "title": "HIPAA compliant AI",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/",
+      "pacer": "P",
+      "keywords": [
+        "HIPAA",
+        "AI",
+        "privacy",
+        "healthcare",
+        "compliance"
+      ],
+      "published": "2026-04-05T23:04:46.000Z"
+    },
+    {
+      "id": "1fa6c866f46177dc",
+      "title": "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/",
+      "pacer": "E",
+      "keywords": [
+        "vibe coding",
+        "AI development",
+        "RSS reader",
+        "software development",
+        "Swift"
+      ],
+      "published": "2026-04-05T19:00:00.000Z"
     },
     {
       "id": "bac2344713d38351",
@@ -79,54 +287,6 @@
         "reading"
       ],
       "published": "2026-04-05T08:00:00.000Z"
-    },
-    {
-      "id": "2f8f4c620a4c1187",
-      "title": "scan-for-secrets 0.2",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "scan-for-secrets",
-        "CLI tool",
-        "Python API",
-        "security",
-        "software release"
-      ],
-      "published": "2026-04-05T04:07:13.000Z"
-    },
-    {
-      "id": "92cacca2adf1507a",
-      "title": "scan-for-secrets 0.1.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "scan-for-secrets",
-        "security",
-        "software release",
-        "Simon Willison",
-        "open source"
-      ],
-      "published": "2026-04-05T03:39:33.000Z"
-    },
-    {
-      "id": "57d1f910f4b5c909",
-      "title": "scan-for-secrets 0.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "scan-for-secrets",
-        "security",
-        "API keys",
-        "Python",
-        "agentic-engineering"
-      ],
-      "published": "2026-04-05T03:27:13.000Z"
     },
     {
       "id": "35f56df87aea9ef7",
@@ -689,22 +849,6 @@
       "published": "2026-04-01T14:00:00.000Z"
     },
     {
-      "id": "2072e24b992f131c",
-      "title": "Pentagonal numbers are truncated triangular numbers",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/",
-      "pacer": "C",
-      "keywords": [
-        "Pentagonal numbers",
-        "Triangular numbers",
-        "Mathematics",
-        "Geometry",
-        "Number theory"
-      ],
-      "published": "2026-04-01T13:23:42.000Z"
-    },
-    {
       "id": "0b9af323509f7c73",
       "title": "What is Copilot exactly? ",
       "source": "iDiallo.com",
@@ -719,22 +863,6 @@
         "VS Code"
       ],
       "published": "2026-04-01T12:00:00.000Z"
-    },
-    {
-      "id": "25c39e0d7db22e6f",
-      "title": "Random File Format",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/random-file-format/",
-      "pacer": "C",
-      "keywords": [
-        "file format",
-        "data integrity",
-        "media",
-        "naptster",
-        "computing"
-      ],
-      "published": "2026-04-01T11:34:57.000Z"
     },
     {
       "id": "1b58783128ad105f",
@@ -1037,16 +1165,6 @@
       "published": "2026-03-30T18:42:30.000Z"
     },
     {
-      "id": "95fa1e23ea68e111",
-      "title": "Pluralistic: Market participation is exhausting (30 Mar 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/03/30/players-of-games/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T17:27:20.000Z"
-    },
-    {
       "id": "e5b0cc2f83a094aa",
       "title": "The Webs Digital Locks have Never had a Stronger Opponent",
       "source": "Cats with power tools",
@@ -1075,26 +1193,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-30T16:00:00.000Z"
-    },
-    {
-      "id": "4d76c7ef1d99cf93",
-      "title": "A question about the maximimum number of values in a registry key raises questions about the question",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T14:00:00.000Z"
-    },
-    {
-      "id": "fb03681f39d97be7",
-      "title": "How Do We Get Developers to Read the Docs ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T12:00:00.000Z"
     },
     {
       "id": "dfad41b92c74c859",
@@ -1151,16 +1249,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-29T16:00:00.000Z"
-    },
-    {
-      "id": "c34a4be953d4f66b",
-      "title": "The Roles of Packages",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-29T10:00:00.000Z"
     },
     {
       "id": "79ce21db4324806c",
@@ -1443,16 +1531,6 @@
       "published": "2026-03-23T00:14:27.000Z"
     },
     {
-      "id": "826b3837e4bcf7d3",
-      "title": "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/notes-site-updates/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-22T19:00:00.000Z"
-    },
-    {
       "id": "6954bdb02f24084d",
       "title": "Changing the World",
       "source": "the singularity is nearer",
@@ -1511,16 +1589,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-21T12:03:50.000Z"
-    },
-    {
-      "id": "aeb9b2f6ab43be07",
-      "title": "Re: People Are Not Friction",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/re-people-arent-friction/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T19:00:00.000Z"
     },
     {
       "id": "680a2d1fec7c898d",
@@ -2255,38 +2323,6 @@
       "published": "2026-03-09T16:22:40.000Z"
     },
     {
-      "id": "ede0eb58cd982a5a",
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "E",
-      "keywords": [
-        "Anthropic",
-        "Claude Code",
-        "AI economics",
-        "cost analysis",
-        "debunking"
-      ],
-      "published": "2026-03-09T00:00:00.000Z"
-    },
-    {
-      "id": "39efb6a95f78ce83",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "pacer": "C",
-      "keywords": [
-        "AI agents",
-        "Cybersecurity",
-        "Insider threat",
-        "Automation",
-        "Data security"
-      ],
-      "published": "2026-03-08T23:35:42.000Z"
-    },
-    {
       "id": "970461db8e6761a5",
       "title": "\nGNU and the AI reimplementations\n",
       "source_url": "http://antirez.com/",
@@ -2592,14 +2628,35 @@
   ],
   "links": [
     {
-      "source": "2f8f4c620a4c1187",
-      "target": "92cacca2adf1507a",
+      "source": "d7fc82aee9e85599",
+      "target": "e559febf9c8d9e33",
       "shared_keywords": [
-        "scan-for-secrets",
-        "security",
-        "software release"
+        "C++",
+        "Programming",
+        "The Old New Thing"
       ],
       "strength": 0.6
+    },
+    {
+      "source": "0d99a60025c8c168",
+      "target": "ca92511462c5d642",
+      "shared_keywords": [
+        "AI",
+        "software development",
+        "programming"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "be6937f11e403998",
+      "target": "fc529b367f17c03d",
+      "shared_keywords": [
+        "datasette",
+        "python",
+        "cli",
+        "open-source"
+      ],
+      "strength": 0.8
     },
     {
       "source": "c88ef4bc96c22d50",

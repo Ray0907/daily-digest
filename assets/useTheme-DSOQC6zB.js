@@ -1,0 +1,1 @@
+import{r as t}from"./index-BV3-kipH.js";function a(){const[e,r]=t.useState(()=>window.matchMedia("(prefers-color-scheme: dark)").matches);return t.useEffect(()=>{document.documentElement.classList.toggle("dark",e)},[e]),{is_dark:e,toggleTheme:()=>r(s=>!s)}}export{a as u};

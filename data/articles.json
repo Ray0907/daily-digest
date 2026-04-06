@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-04-05T22:04:04.603Z",
+  "last_updated": "2026-04-06T22:08:10.828Z",
   "articles": [
+    {
+      "id": "a836970785340e9b",
+      "title": "What next for the compute crunch?",
+      "url": "https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-04-06T00:00:00.000Z",
+      "summary_en": "The AI sector is facing a severe imbalance between exponential demand for compute power and limited supply. The next two years will be characterized by market shortages, supply rationing, and ongoing price adjustments.",
+      "summary_zh": "人工智慧領域正面臨算力需求呈現指數級增長，但供給卻嚴重受限的失衡狀態。未來兩年內，市場將面臨硬體短缺、配給限制以及持續的價格調整。",
+      "keywords": [
+        "AI",
+        "compute",
+        "supply chain",
+        "hardware",
+        "market trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview of current market dynamics and the future outlook for the AI compute industry.",
+      "pacer_reason_zh": "文章針對當前市場動態及 AI 算力產業的未來前景提供了概念性的概述。"
+    },
+    {
+      "id": "b20850c9b1eb7ddd",
+      "title": "Prototyping with LLMs",
+      "url": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-06T19:00:00.000Z",
+      "summary_en": "The author reflects on the pitfalls of diving too quickly into LLM-based prototyping without proper planning. They argue that sketching ideas on paper before using AI can be a more efficient way to validate concepts and save time.",
+      "summary_zh": "作者反思了在沒有適當規劃下就直接使用大型語言模型（LLM）進行原型設計的缺點。他們認為在動手操作 AI 之前，先透過草圖構思概念是一種更有效率且節省資源的驗證方式。",
+      "keywords": [
+        "LLM",
+        "prototyping",
+        "sketching",
+        "design process",
+        "productivity"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of biblical building advice to illustrate the benefits of sketching over premature digital prototyping.",
+      "pacer_reason_zh": "文章運用了聖經中關於建造塔樓的比喻，來說明在進行數位原型設計前先進行草圖規劃的好處。"
+    },
+    {
+      "id": "1fa6c866f46177dc",
+      "title": "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+      "url": "https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-05T19:00:00.000Z",
+      "summary_en": "The author explores the potential and limitations of 'vibe coding,' using AI to build a custom RSS reader without deep technical knowledge. While the project successfully produced a functional tool, the author highlights the challenges of scaling AI-generated code and the eventual wall hit when the application complexity exceeds AI's assistance capabilities.",
+      "summary_zh": "作者探討了「感覺編程」(vibe coding) 的可能性與局限性，嘗試利用 AI 在不具備深厚技術背景的情況下開發自定義 RSS 閱讀器。儘管該專案成功產出了實用工具，但作者也點出當應用程式複雜度超出 AI 的協助範圍時，開發便會面臨瓶頸與維護挑戰。",
+      "keywords": [
+        "vibe coding",
+        "AI development",
+        "RSS reader",
+        "software development",
+        "Swift"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an anecdotal case study on the effectiveness and limitations of using AI for software development.",
+      "pacer_reason_zh": "本文作為一個軼事案例研究，探討了利用 AI 進行軟體開發的實際成效與局限性。"
+    },
+    {
+      "id": "608e1b0d559f32e6",
+      "title": "The Cathedral and the Catacombs",
+      "url": "https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-06T10:00:00.000Z",
+      "summary_en": "The author critiques the long-standing 'Cathedral and the Bazaar' metaphor in software development, arguing that it ignores the 'catacombs'—the often-overlooked, complex dependency graphs that form the foundation of modern projects. The piece suggests that by focusing solely on governance and construction processes, developers and researchers fail to account for the risky, unmaintained, and invisible codebases that support their work.",
+      "summary_zh": "作者批評了軟體開發中沿用已久的「大教堂與市集」隱喻，認為它忽略了「地下墓穴」——即構成現代專案基礎、卻常被忽視的複雜依賴關係圖。文章指出，現有的討論過於關注開發流程與治理，卻忽略了支撐專案的那些高風險、無人維護且隱形的底層程式碼。",
+      "keywords": [
+        "open source",
+        "dependency graph",
+        "software engineering",
+        "metaphor",
+        "Cathedral and the Bazaar"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and expansion of an existing industry framework, offering a new theoretical lens through which to view software architecture.",
+      "pacer_reason_zh": "本文對既有的產業框架進行了概念性的批判與擴展，提供了一個觀察軟體架構的新理論視角。"
+    },
+    {
+      "id": "ddfa01418762a841",
+      "title": "HIPAA compliant AI",
+      "url": "https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-05T23:04:46.000Z",
+      "summary_en": "The article suggests that running AI models locally on private hardware is the most effective method for maintaining HIPAA compliance when handling protected health information. While HIPAA-compliant cloud alternatives exist, they are often characterized as overly restrictive and costly.",
+      "summary_zh": "本文建議在處理個人健康資訊（PHI）時，於本地設備運行 AI 模型是維持 HIPAA 合規性的最佳方式。雖然市面上存在符合 HIPAA 規範的雲端選項，但通常不僅費用高昂，且限制較多。",
+      "keywords": [
+        "HIPAA",
+        "AI",
+        "privacy",
+        "healthcare",
+        "compliance"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific recommendation and approach for achieving a technical objective (HIPAA compliance) through a practical workflow.",
+      "pacer_reason_zh": "本文針對如何達成技術目標（HIPAA 合規性）提供了具體的執行建議與實務方法。"
+    },
+    {
+      "id": "d7fc82aee9e85599",
+      "title": "Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-06T14:00:00.000Z",
+      "summary_en": "This post explains how to debug confusing C++ compiler errors by examining code you didn't write, such as headers or macros. It emphasizes that unexpected error messages often stem from hidden code being expanded during compilation.",
+      "summary_zh": "這篇文章探討如何調試令人困惑的 C++ 編譯器錯誤，特別是針對非親手編寫的程式碼（如標頭檔或巨集）。文章強調，這些意外的錯誤訊息通常源於編譯過程中展開的隱藏程式碼。",
+      "keywords": [
+        "C++",
+        "Compiler Errors",
+        "Debugging",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical advice and a troubleshooting approach for developers to resolve specific compiler errors.",
+      "pacer_reason_zh": "這篇文章為開發人員解決特定的編譯器錯誤提供了實用的建議與故障排除方法。"
+    },
+    {
+      "id": "87760535abdd8a52",
+      "title": "[RSS Club] Banana for scale",
+      "url": "https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-06T11:34:00.000Z",
+      "summary_en": "The author introduces a creative project called 'Scan Slowly And See' which uses a unique QR code generated by cloning patterns from a banana's skin. This playful experiment invites readers to test the functionality of the custom-coded graphic.",
+      "summary_zh": "作者介紹了一個名為「Scan Slowly And See」的創意專案，利用香蕉皮上的斑點圖案生成獨特的 QR Code。這項有趣的實驗旨在邀請讀者測試該程式碼產生的圖形是否能成功掃描。",
+      "keywords": [
+        "RSS",
+        "QR Code",
+        "creative coding",
+        "banana",
+        "experiment"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the creation process of a specific project and provides a functional output for readers to interact with.",
+      "pacer_reason_zh": "文章描述了特定專案的創作過程，並提供了可供讀者互動的功能性成果。"
+    },
+    {
+      "id": "3329ab4a186d57d1",
+      "title": "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/06/empiricism-washing/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-06T09:04:57.000Z",
+      "summary_en": "This article explores how companies use surveillance data to implement 'personalized pricing,' a strategy that allows businesses to extract maximum profit from consumers and devalue labor. The author argues that this practice, fueled by monopolies and regulatory capture, is a key component of 'enshittification' in the digital economy.",
+      "summary_zh": "本文探討企業如何利用監控數據實施「個人化定價」，這種策略讓企業能從消費者身上榨取最高利潤，並貶低勞工價值。作者認為，在壟斷勢力與監管失能的推波助瀾下，這種行為已成為當代數位經濟「惡化」（enshittification）的核心要素。",
+      "keywords": [
+        "surveillance pricing",
+        "enshittification",
+        "labor rights",
+        "monopoly",
+        "regulatory capture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how surveillance-driven pricing impacts economic value and labor, framing it within the broader theory of enshittification.",
+      "pacer_reason_zh": "本文對監控定價如何影響經濟價值與勞工權益進行了概念性解釋，並將其置於「惡化」（enshittification）的理論框架中進行分析。"
+    },
+    {
+      "id": "0d99a60025c8c168",
+      "title": "AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It ",
+      "url": "https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-06T13:00:00.000Z",
+      "summary_en": "The author explores the tension between using AI to accelerate coding tasks and the importance of maintaining a deep understanding of one's codebase. Despite AI's ability to generate code quickly, the author emphasizes that developers must retain a mental model of their projects to ensure long-term maintainability and successful debugging.",
+      "summary_zh": "作者探討了利用 AI 加速編碼與保持對程式碼庫深刻理解之間的矛盾。儘管 AI 能快速生成程式碼，作者強調開發者必須掌握專案的運作邏輯，以確保長期的可維護性並能有效除錯。",
+      "keywords": [
+        "AI",
+        "programming",
+        "code review",
+        "software development",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the role of human oversight and understanding in the era of AI-generated code.",
+      "pacer_reason_zh": "本文屬於對 AI 生成程式碼時代中，人類監督與理解之重要性的觀念性反思。"
+    },
+    {
+      "id": "3e73213b65c0a33f",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-04-06T02:07:17.000Z",
+      "summary_en": "German authorities have identified 31-year-old Russian national Daniil Maksimovich Shchukin as the notorious hacker 'UNKN'. He is alleged to have led the REvil and GandCrab ransomware gangs, responsible for over 130 extortion attacks in Germany between 2019 and 2021.",
+      "summary_zh": "德國當局已確認惡名昭彰的駭客「UNKN」真實身分為 31 歲的俄羅斯人 Daniil Maksimovich Shchukin。他被控領導 REvil 和 GandCrab 勒索軟體集團，並在 2019 年至 2021 年間於德國境內發動至少 130 起電腦破壞與勒索攻擊。",
+      "keywords": [
+        "REvil",
+        "GandCrab",
+        "Daniil Maksimovich Shchukin",
+        "ransomware",
+        "cybercrime"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific real-world case study involving the identification of a cybercriminal and the evidence linked to his operations.",
+      "pacer_reason_zh": "本文報導了一項關於網路犯罪分子身分曝光的具體案例研究，並提供了與其犯罪活動相關的證據。"
+    },
+    {
+      "id": "fb61e3effa86c887",
+      "title": "Google AI Edge Gallery",
+      "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-06T05:18:26.000Z",
+      "summary_en": "Simon Willison reviews the Google AI Edge Gallery app, which allows users to run Gemma 4 models directly on an iPhone. The app demonstrates impressive performance and features, including image analysis, audio transcription, and a unique 'skills' system for tool calling.",
+      "summary_zh": "Simon Willison 評測了 Google AI Edge Gallery 應用程式，該程式讓使用者能在 iPhone 上直接運行 Gemma 4 模型。這款 App 展現了出色的效能與功能，包括影像分析、語音轉錄以及用於呼叫外部工具的獨特「技能」系統。",
+      "keywords": [
+        "Google AI Edge",
+        "Gemma 4",
+        "On-device AI",
+        "iPhone",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content serves as a report or review of a specific piece of software, providing observations on its performance and capabilities.",
+      "pacer_reason_zh": "本文屬於對特定軟體的實測與觀察報告，分享了該應用程式的效能表現與功能應用。"
+    },
+    {
+      "id": "be6937f11e403998",
+      "title": "datasette-ports 0.2",
+      "url": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-06T03:25:43.000Z",
+      "summary_en": "Datasette-ports 0.2 has been released, now allowing the tool to run independently via uvx without requiring a full Datasette installation. It remains compatible as a Datasette plugin, preserving the existing command-line functionality.",
+      "summary_zh": "Datasette-ports 0.2 已正式發布，現在透過 uvx 即可獨立執行，無需安裝完整的 Datasette。該工具同時保留了作為 Datasette 外掛的功能，維持既有的指令操作。",
+      "keywords": [
+        "datasette",
+        "datasette-ports",
+        "python",
+        "cli",
+        "open-source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement containing technical update specifications and usage changes.",
+      "pacer_reason_zh": "這是一則軟體發布公告，包含技術更新規格與使用方式的變更說明。"
+    },
+    {
+      "id": "c7bd3f49af3c0273",
+      "title": "scan-for-secrets 0.3",
+      "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-06T02:59:28.000Z",
+      "summary_en": "Simon Willison released version 0.3 of scan-for-secrets, a tool for identifying and handling sensitive information. This update introduces a redaction feature via both the command line interface and a new Python function.",
+      "summary_zh": "Simon Willison 發布了 scan-for-secrets 0.3 版本，該工具用於識別並處理敏感資訊。本次更新新增了刪減功能，並同時支援指令列操作與新的 Python 函式。",
+      "keywords": [
+        "scan-for-secrets",
+        "redaction",
+        "security",
+        "python",
+        "simon-willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release note/reference for a software tool update, detailing specific features and version changes.",
+      "pacer_reason_zh": "本文作為軟體更新的發佈說明與參考資料，詳述了具體的功能新增與版本變動。"
+    },
+    {
+      "id": "04c4f4fbc307f654",
+      "title": "Cleanup Claude Code Paste",
+      "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-06T02:55:23.000Z",
+      "summary_en": "This post introduces a specialized web tool designed to clean up text copied from the Claude Code terminal. It automatically removes the command prompt symbol, fixes broken line wrapping, and tidies up whitespace for cleaner output.",
+      "summary_zh": "這篇文章介紹了一款專門用於清理從 Claude Code 終端機複製內容的小工具。它能自動移除提示符號、修復換行問題並清理多餘空白，讓文字輸出更整潔。",
+      "keywords": [
+        "Claude Code",
+        "tools",
+        "utility",
+        "text cleanup",
+        "terminal"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content presents a utility tool specifically designed to perform a practical, step-by-step task for users.",
+      "pacer_reason_zh": "該內容介紹了一款專門為使用者執行特定實務任務而設計的實用工具。"
+    },
+    {
+      "id": "fc529b367f17c03d",
+      "title": "datasette-ports 0.1",
+      "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-06T00:23:55.000Z",
+      "summary_en": "Simon Willison has released datasette-ports 0.1, a new tool designed to help developers manage multiple running Datasette instances. It provides a simple command-line interface to list active local instances, including their associated databases and installed plugins.",
+      "summary_zh": "Simon Willison 發布了 datasette-ports 0.1，這是一個旨在協助開發者管理多個執行中 Datasette 實例的工具。它提供了一個簡單的命令列介面，可用於列出所有活動的本地實例，包含其關聯的資料庫與已安裝的插件。",
+      "keywords": [
+        "datasette",
+        "python",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a new software tool and demonstrates how to install and use it via command-line instructions.",
+      "pacer_reason_zh": "內容介紹了一款新軟體工具，並示範了如何透過命令列指令來安裝與使用它。"
+    },
+    {
+      "id": "e0b38d6b592f972e",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-05T23:54:18.000Z",
+      "summary_en": "Lalit Maganti successfully built 'syntaqlite,' a robust SQLite parsing and linting tool, after years of hesitation by leveraging AI coding agents to handle the tedious grammar implementation. The project demonstrates how AI can help developers overcome procrastination and technical hurdles by facilitating rapid prototyping and concrete problem-solving.",
+      "summary_zh": "開發者 Lalit Maganti 利用 AI 程式代理克服了多年來對實作繁瑣 SQLite 文法規則的畏難情緒，僅花三個月便開發出高品質的 SQLite 工具庫 syntaqlite。此案例展示了 AI 如何透過快速原型製作與拆解任務，有效提升工程師的開發效率並協助克服專案初期的心理障礙。",
+      "keywords": [
+        "AI coding agents",
+        "SQLite",
+        "syntaqlite",
+        "software development",
+        "productivity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study highlighting a specific real-world application of AI in overcoming development challenges.",
+      "pacer_reason_zh": "本文透過實際案例分析，探討如何運用 AI 解決軟體開發中的具體挑戰，屬於實證經驗分享。"
+    },
     {
       "id": "bac2344713d38351",
       "title": "Stamp It! All Programs Must Report Their Version",
