@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-04-06T22:08:10.828Z",
+  "last_updated": "2026-04-07T22:10:41.243Z",
   "articles": [
+    {
+      "id": "e553ef725b57e793",
+      "title": "Actually, people love to work hard",
+      "url": "https://anildash.com/2026/04/06/people-love-to-work-hard/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-07T00:00:00.000Z",
+      "summary_en": "Anil Dash challenges the common corporate trope that employees lack a desire to work hard. He argues that people are inherently motivated when they have clear goals, shared values, and trust, suggesting that claims of laziness are merely management tactics to suppress wages.",
+      "summary_zh": "Anil Dash 反駁了企業界常見的「員工不想努力工作」的說法。他認為當員工擁有明確目標、共同價值觀及信任基礎時，其實非常有工作動力，並指出該論調往往只是資方壓低薪資的手段。",
+      "keywords": [
+        "work ethic",
+        "management",
+        "corporate culture",
+        "employee motivation",
+        "workplace psychology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument challenging popular workplace myths by explaining the underlying factors that actually motivate employee performance.",
+      "pacer_reason_zh": "本文提出概念性論點，透過解釋激勵員工績效的潛在因素，挑戰了職場上的常見迷思。"
+    },
+    {
+      "id": "612663a6ac4616e5",
+      "title": "Weekly Update 498",
+      "url": "https://www.troyhunt.com/weekly-update-498/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-04-07T01:53:05.000Z",
+      "summary_en": "Troy Hunt shares his frustrations regarding the administrative burden of chasing long-overdue invoices from clients. The update highlights the real-world difficulties of managing payment terms in a professional consulting business.",
+      "summary_zh": "Troy Hunt 分享了他處理客戶長期逾期帳單的行政挫折。此更新凸顯了在專業諮詢業務中管理付款期限所面臨的現實挑戰。",
+      "keywords": [
+        "invoicing",
+        "business management",
+        "payment terms",
+        "Troy Hunt",
+        "freelancing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content serves as a personal case study/anecdote about business administrative challenges.",
+      "pacer_reason_zh": "此內容作為關於商業行政挑戰的個人案例研究與經驗談。"
+    },
+    {
+      "id": "4fe8b0e9f7494182",
+      "title": "Michael Nielsen – How science actually progresses",
+      "url": "https://www.dwarkesh.com/p/michael-nielsen",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-04-07T15:49:28.000Z",
+      "summary_en": "Michael Nielsen discusses the nuances of scientific progress, challenging traditional narratives about historical figures like Einstein, Newton, and Darwin. The conversation explores how scientific breakthroughs actually occur through collaborative environments and evolving methodologies rather than isolated genius.",
+      "summary_zh": "Michael Nielsen 探討了科學進步的細節，挑戰了關於愛因斯坦、牛頓和達爾文等歷史人物的傳統敘事。對談深入分析了科學突破如何透過合作環境與方法論的演進，而非僅靠天才的孤軍奮戰而實現。",
+      "keywords": [
+        "Michael Nielsen",
+        "scientific progress",
+        "history of science",
+        "innovation",
+        "Dwarkesh Podcast"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on theoretical discussions and the conceptual understanding of how scientific progress functions.",
+      "pacer_reason_zh": "內容側重於理論探討，旨在提供對科學進步如何運作的概念性理解。"
+    },
+    {
+      "id": "fddc826e75ec5885",
+      "title": "Readership maths skills",
+      "url": "https://entropicthoughts.com/readership-math-skills",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-04-06T22:00:00.000Z",
+      "summary_en": "This article discusses the importance of mathematical literacy for readers to better understand data-driven narratives. It highlights how improved analytical skills help audiences evaluate information more critically.",
+      "summary_zh": "本文探討了數學素養對於讀者解讀數據驅動敘事的重要性。文章強調，提升分析能力有助於受眾更嚴謹地評估資訊內容。",
+      "keywords": [
+        "mathematical literacy",
+        "data analysis",
+        "critical thinking",
+        "readership",
+        "information evaluation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the concepts and necessity of mathematical skills in reading, rather than providing a tutorial or specific data.",
+      "pacer_reason_zh": "本文側重於解釋閱讀中數學技能的概念與必要性，而非提供教學指南或特定數據。"
+    },
+    {
+      "id": "a1710e14d34d997b",
+      "title": "Who Built This?",
+      "url": "https://nesbitt.io/2026/04/07/who-built-this.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-07T10:00:00.000Z",
+      "summary_en": "This article explores how different programming ecosystems—Go, Rust, .NET, and Java—handle embedding version control metadata into compiled binaries. It highlights Go's automatic VCS stamping as a gold standard for observability and contrasts it with the varied, often manual, opt-in approaches required in other languages.",
+      "summary_zh": "本文探討了 Go、Rust、.NET 和 Java 等不同程式語言生態系統如何將版本控制元數據嵌入編譯後的二進位檔案。文章強調 Go 語言自動嵌入 VCS 資訊的機制為可觀測性樹立了標竿，並對比了其他語言中普遍需要手動配置或選擇性加入的作法。",
+      "keywords": [
+        "VCS",
+        "Go",
+        "Rust",
+        "Binary",
+        "Observability"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article draws parallels between different language ecosystems to compare their approaches to a specific technical challenge: build-time version metadata stamping.",
+      "pacer_reason_zh": "本文透過比較不同程式語言生態系統處理特定技術問題（建置時版本元數據嵌入）的方式，進行了跨領域的類比分析。"
+    },
+    {
+      "id": "ad6cc46d25802300",
+      "title": "The Hacker News tarpit",
+      "url": "https://www.joanwestenberg.com/the-hacker-news-tarpit/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-06T23:36:11.000Z",
+      "summary_en": "This post discusses the author's subscription model for their newsletter, highlighting the benefits of paid access such as additional content and community interaction. It emphasizes the author's commitment to keeping the core content free while offering premium perks for supporters.",
+      "summary_zh": "本文介紹了作者的電子報訂閱模式，並強調了付費訂閱所能享有的額外內容與社群互動等福利。作者同時承諾核心內容將持續免費提供給所有讀者。",
+      "keywords": [
+        "newsletter",
+        "subscription",
+        "monetization",
+        "content strategy",
+        "community"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves primarily as a reference or announcement regarding the author's subscription service and pricing structure.",
+      "pacer_reason_zh": "本文主要作為關於作者訂閱服務與定價架構的公告或參考資訊。"
+    },
+    {
+      "id": "3438ad0204acc95e",
+      "title": "Toffoli gates are all you need",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-07T00:33:23.000Z",
+      "summary_en": "The article discusses Landauer’s principle, which establishes a fundamental thermodynamic limit on the energy required to erase a bit of information. It highlights the universality of this physical bound regardless of the storage medium and introduces the role of Toffoli gates in reversible computation.",
+      "summary_zh": "本文探討了藍道爾原理（Landauer’s principle），該原理確立了擦除資訊所需能量的熱力學基本極限。文章強調無論資訊儲存媒介為何，此物理限制皆適用，並介紹了托佛利閘（Toffoli gates）在可逆計算中的角色。",
+      "keywords": [
+        "Landauer's principle",
+        "Toffoli gates",
+        "thermodynamics",
+        "information theory",
+        "reversible computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a fundamental physical theory and its implications for information processing.",
+      "pacer_reason_zh": "文章解釋了基本的物理理論及其對資訊處理的影響。"
+    },
+    {
+      "id": "7be10ee5b6a9b7ea",
+      "title": "Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-07T14:00:00.000Z",
+      "summary_en": "This post discusses the history of software compatibility during the transition from Windows 3.1 to Windows 95. It specifically addresses whether certain programs were fundamentally incompatible beyond the possibility of patching.",
+      "summary_zh": "本文探討了從 Windows 3.1 過渡到 Windows 95 期間的軟體相容性歷史。文中特別討論了是否存在某些軟體因架構差異過大，而無法透過修補程式來解決相容性問題。",
+      "keywords": [
+        "Windows 3.1",
+        "Windows 95",
+        "software compatibility",
+        "legacy systems",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation regarding the technical limitations of backward compatibility during OS transitions.",
+      "pacer_reason_zh": "該文章針對作業系統轉移期間的向後相容性技術限制，提供了概念性的解釋。"
+    },
+    {
+      "id": "0a0c8791c404efbf",
+      "title": "The Building Block Economy",
+      "url": "https://mitchellh.com/writing/building-block-economy",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-04-07T00:00:00.000Z",
+      "summary_en": "This article explores the concept of the 'Building Block Economy' within the context of software architecture and infrastructure development. It discusses how modular, reusable components form the foundation for scalable and efficient systems.",
+      "summary_zh": "本文探討了軟體架構與基礎設施開發背景下的「模組化經濟」。文章討論了模組化且可重複使用的元件如何成為建構可擴展且高效系統的基礎。",
+      "keywords": [
+        "software architecture",
+        "infrastructure",
+        "modularity",
+        "building blocks",
+        "system design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on high-level architectural theory and defining the concept of a modular economy in software.",
+      "pacer_reason_zh": "本文側重於高階架構理論，並定義了軟體開發中模組化經濟的概念。"
+    },
+    {
+      "id": "bcced0af92169539",
+      "title": "Did WordPress VIP leak my phone number?",
+      "url": "https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-07T11:34:43.000Z",
+      "summary_en": "The author investigates how his private phone number was leaked by Apollo.io, tracing the source back to Parse.ly (acquired by WordPress VIP). The post highlights concerns regarding data privacy and the practice of sharing user information within contributor networks.",
+      "summary_zh": "作者追查其私人電話號碼外洩至 Apollo.io 的來源，發現數據源自 Parse.ly（現隸屬於 WordPress VIP）。本文探討了數據隱私問題，並質疑企業在貢獻者網絡中分享用戶資訊的做法。",
+      "keywords": [
+        "WordPress VIP",
+        "Data Privacy",
+        "Apollo.io",
+        "Data Leak",
+        "Parse.ly"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study documenting the author's investigation into a specific data leak incident.",
+      "pacer_reason_zh": "本文以案例研究的形式，記錄了作者針對特定數據洩漏事件的調查過程。"
+    },
+    {
+      "id": "977757d2c9d74dbf",
+      "title": "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/07/swisscom/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-07T07:20:37.000Z",
+      "summary_en": "This article discusses the success of Switzerland's high-speed fiber internet model, which provides 25Gbit symmetrical connections via a competitive, public-provisioned structure. The author contrasts this 'Goldilocks' approach with the flawed telecommunications markets in the US and Germany, arguing that robust public infrastructure is essential for true competition.",
+      "summary_zh": "本文探討了瑞士成功推行的高速光纖網路模式，該模式透過公共基礎設施與市場競爭，為用戶提供 25Gbit 的對稱傳輸速度。作者對比了美國與德國電信市場的不足，認為這種「恰到好處」的模式證明了強健的公共基礎設施對於實現有效競爭至關重要。",
+      "keywords": [
+        "Fiber",
+        "Switzerland",
+        "Telecom",
+        "Infrastructure",
+        "Public Provision"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the Swiss fiber model as an analogy to critique and compare the telecommunications policies of the US and Germany.",
+      "pacer_reason_zh": "文章以瑞士的光纖模型作為類比，藉此批評並對比美國與德國的電信政策。"
+    },
+    {
+      "id": "a43422fe0f90da63",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-04-07T17:02:44.000Z",
+      "summary_en": "Russian military intelligence hackers are exploiting vulnerabilities in older routers to steal Microsoft Office authentication tokens. This campaign has compromised over 18,000 networks by silently harvesting tokens without the need for installing malicious software.",
+      "summary_zh": "俄羅斯軍事情報單位駭客正利用舊型路由器的漏洞，竊取 Microsoft Office 的身份驗證權杖。此攻擊行動無需安裝惡意軟體，已導致超過 18,000 個網路遭到入侵。",
+      "keywords": [
+        "Russia",
+        "Cybersecurity",
+        "Router",
+        "Microsoft Office",
+        "Authentication"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific security incident and active threat campaign, providing evidence of a real-world cybersecurity breach.",
+      "pacer_reason_zh": "該文章報導了具體的安全事件與攻擊行動，提供了現實網路安全漏洞的實證。"
+    },
+    {
+      "id": "a76d763a82ff4ac4",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-07T21:25:14.000Z",
+      "summary_en": "Simon Willison tests the new 754B parameter GLM-5.1 model, highlighting its impressive SVG generation capabilities. While the model shows potential in complex tasks, it demonstrates mixed results when automatically generating CSS animations for those assets.",
+      "summary_zh": "Simon Willison 測試了最新的 754B 參數模型 GLM-5.1，並展示了其出色的 SVG 生成能力。儘管該模型在複雜任務中展現出潛力，但在自動為這些素材生成 CSS 動畫時表現尚不穩定。",
+      "keywords": [
+        "GLM-5.1",
+        "AI",
+        "SVG",
+        "LLM",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a practical experiment and test case, demonstrating the model's performance on a specific generation task.",
+      "pacer_reason_zh": "該文章記錄了一項實務測試與案例研究，展示了該模型在特定生成任務中的表現。"
+    },
+    {
+      "id": "455223126134bacc",
+      "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+      "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-07T20:52:54.000Z",
+      "summary_en": "Anthropic has introduced Project Glasswing to restrict access to their powerful new AI model, Claude Mythos, due to its advanced cybersecurity capabilities. By limiting availability to select partners, Anthropic aims to allow the industry time to address the significant vulnerabilities the model can identify before a wider release.",
+      "summary_zh": "Anthropic 推出了 Project Glasswing 計畫，基於其新模型 Claude Mythos 強大的網路安全能力，決定限制該模型的存取權限。透過僅開放給特定合作夥伴，Anthropic 希望能在模型正式廣泛發布前，讓軟體產業有時間修補其所發現的重大漏洞。",
+      "keywords": [
+        "Anthropic",
+        "Claude Mythos",
+        "Project Glasswing",
+        "Cybersecurity",
+        "AI Safety"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and explanation of a new AI release strategy and the reasoning behind restricting access to a specific technology.",
+      "pacer_reason_zh": "本文針對一項新的 AI 發布策略進行了概念性的概述，並解釋了限制該技術存取的背後動機。"
+    },
+    {
+      "id": "651a729295435f0a",
+      "title": "SQLite WAL Mode Across Docker Containers Sharing a Volume",
+      "url": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-07T15:41:00.000Z",
+      "summary_en": "This research confirms that SQLite's Write-Ahead Logging (WAL) mode functions correctly across separate Docker containers when sharing the same host volume. It explains that because containers on the same host share the underlying filesystem and memory mechanisms, concurrent SQLite processes can collaborate effectively.",
+      "summary_zh": "這項研究證實，當多個 Docker 容器共享同一個主機磁碟區時，SQLite 的預寫式記錄 (WAL) 模式運作正常。研究解釋，由於相同主機上的容器共享底層檔案系統與記憶體機制，因此並發的 SQLite 行程能夠正確地協同工作。",
+      "keywords": [
+        "SQLite",
+        "Docker",
+        "WAL",
+        "Shared Memory",
+        "Database"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents research findings and experimental confirmation regarding technical compatibility between SQLite and Docker.",
+      "pacer_reason_zh": "本文針對 SQLite 與 Docker 在技術兼容性方面的問題，呈現了研究結果與實驗驗證。"
+    },
     {
       "id": "a836970785340e9b",
       "title": "What next for the compute crunch?",

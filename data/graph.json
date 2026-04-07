@@ -1,6 +1,246 @@
 {
   "nodes": [
     {
+      "id": "a76d763a82ff4ac4",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "GLM-5.1",
+        "AI",
+        "SVG",
+        "LLM",
+        "Generative AI"
+      ],
+      "published": "2026-04-07T21:25:14.000Z"
+    },
+    {
+      "id": "455223126134bacc",
+      "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Anthropic",
+        "Claude Mythos",
+        "Project Glasswing",
+        "Cybersecurity",
+        "AI Safety"
+      ],
+      "published": "2026-04-07T20:52:54.000Z"
+    },
+    {
+      "id": "a43422fe0f90da63",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "pacer": "E",
+      "keywords": [
+        "Russia",
+        "Cybersecurity",
+        "Router",
+        "Microsoft Office",
+        "Authentication"
+      ],
+      "published": "2026-04-07T17:02:44.000Z"
+    },
+    {
+      "id": "4fe8b0e9f7494182",
+      "title": "Michael Nielsen – How science actually progresses",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/michael-nielsen",
+      "pacer": "C",
+      "keywords": [
+        "Michael Nielsen",
+        "scientific progress",
+        "history of science",
+        "innovation",
+        "Dwarkesh Podcast"
+      ],
+      "published": "2026-04-07T15:49:28.000Z"
+    },
+    {
+      "id": "651a729295435f0a",
+      "title": "SQLite WAL Mode Across Docker Containers Sharing a Volume",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "SQLite",
+        "Docker",
+        "WAL",
+        "Shared Memory",
+        "Database"
+      ],
+      "published": "2026-04-07T15:41:00.000Z"
+    },
+    {
+      "id": "7be10ee5b6a9b7ea",
+      "title": "Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213",
+      "pacer": "C",
+      "keywords": [
+        "Windows 3.1",
+        "Windows 95",
+        "software compatibility",
+        "legacy systems",
+        "The Old New Thing"
+      ],
+      "published": "2026-04-07T14:00:00.000Z"
+    },
+    {
+      "id": "bcced0af92169539",
+      "title": "Did WordPress VIP leak my phone number?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/",
+      "pacer": "E",
+      "keywords": [
+        "WordPress VIP",
+        "Data Privacy",
+        "Apollo.io",
+        "Data Leak",
+        "Parse.ly"
+      ],
+      "published": "2026-04-07T11:34:43.000Z"
+    },
+    {
+      "id": "a1710e14d34d997b",
+      "title": "Who Built This?",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/07/who-built-this.html",
+      "pacer": "A",
+      "keywords": [
+        "VCS",
+        "Go",
+        "Rust",
+        "Binary",
+        "Observability"
+      ],
+      "published": "2026-04-07T10:00:00.000Z"
+    },
+    {
+      "id": "977757d2c9d74dbf",
+      "title": "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/07/swisscom/",
+      "pacer": "A",
+      "keywords": [
+        "Fiber",
+        "Switzerland",
+        "Telecom",
+        "Infrastructure",
+        "Public Provision"
+      ],
+      "published": "2026-04-07T07:20:37.000Z"
+    },
+    {
+      "id": "612663a6ac4616e5",
+      "title": "Weekly Update 498",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-498/",
+      "pacer": "E",
+      "keywords": [
+        "invoicing",
+        "business management",
+        "payment terms",
+        "Troy Hunt",
+        "freelancing"
+      ],
+      "published": "2026-04-07T01:53:05.000Z"
+    },
+    {
+      "id": "3438ad0204acc95e",
+      "title": "Toffoli gates are all you need",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "pacer": "C",
+      "keywords": [
+        "Landauer's principle",
+        "Toffoli gates",
+        "thermodynamics",
+        "information theory",
+        "reversible computing"
+      ],
+      "published": "2026-04-07T00:33:23.000Z"
+    },
+    {
+      "id": "e553ef725b57e793",
+      "title": "Actually, people love to work hard",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "url": "https://anildash.com/2026/04/06/people-love-to-work-hard/",
+      "pacer": "C",
+      "keywords": [
+        "work ethic",
+        "management",
+        "corporate culture",
+        "employee motivation",
+        "workplace psychology"
+      ],
+      "published": "2026-04-07T00:00:00.000Z"
+    },
+    {
+      "id": "0a0c8791c404efbf",
+      "title": "The Building Block Economy",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "url": "https://mitchellh.com/writing/building-block-economy",
+      "pacer": "C",
+      "keywords": [
+        "software architecture",
+        "infrastructure",
+        "modularity",
+        "building blocks",
+        "system design"
+      ],
+      "published": "2026-04-07T00:00:00.000Z"
+    },
+    {
+      "id": "ad6cc46d25802300",
+      "title": "The Hacker News tarpit",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/the-hacker-news-tarpit/",
+      "pacer": "R",
+      "keywords": [
+        "newsletter",
+        "subscription",
+        "monetization",
+        "content strategy",
+        "community"
+      ],
+      "published": "2026-04-06T23:36:11.000Z"
+    },
+    {
+      "id": "fddc826e75ec5885",
+      "title": "Readership maths skills",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/readership-math-skills",
+      "pacer": "C",
+      "keywords": [
+        "mathematical literacy",
+        "data analysis",
+        "critical thinking",
+        "readership",
+        "information evaluation"
+      ],
+      "published": "2026-04-06T22:00:00.000Z"
+    },
+    {
       "id": "b20850c9b1eb7ddd",
       "title": "Prototyping with LLMs",
       "source": "Jim Nielsen’s Blog",
@@ -129,38 +369,6 @@
       "published": "2026-04-06T03:25:43.000Z"
     },
     {
-      "id": "c7bd3f49af3c0273",
-      "title": "scan-for-secrets 0.3",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "scan-for-secrets",
-        "redaction",
-        "security",
-        "python",
-        "simon-willison"
-      ],
-      "published": "2026-04-06T02:59:28.000Z"
-    },
-    {
-      "id": "04c4f4fbc307f654",
-      "title": "Cleanup Claude Code Paste",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Claude Code",
-        "tools",
-        "utility",
-        "text cleanup",
-        "terminal"
-      ],
-      "published": "2026-04-06T02:55:23.000Z"
-    },
-    {
       "id": "3e73213b65c0a33f",
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
       "source": "Krebs on Security",
@@ -175,22 +383,6 @@
         "cybercrime"
       ],
       "published": "2026-04-06T02:07:17.000Z"
-    },
-    {
-      "id": "fc529b367f17c03d",
-      "title": "datasette-ports 0.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "datasette",
-        "python",
-        "cli",
-        "developer-tools",
-        "open-source"
-      ],
-      "published": "2026-04-06T00:23:55.000Z"
     },
     {
       "id": "a836970785340e9b",
@@ -641,22 +833,6 @@
       "published": "2026-04-02T16:00:00.000Z"
     },
     {
-      "id": "096a0eb6cead2430",
-      "title": "Artemis II, Apollo 8, and Apollo 13",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/02/artemis-apollo/",
-      "pacer": "A",
-      "keywords": [
-        "Artemis II",
-        "Apollo 8",
-        "Apollo 13",
-        "NASA",
-        "Space Exploration"
-      ],
-      "published": "2026-04-02T14:14:44.000Z"
-    },
-    {
       "id": "a2cee4507d0da0f4",
       "title": "Why doesn’t the system let you declare your own messages to have the same semantics as WM_COPY­DATA?",
       "source": "The Old New Thing",
@@ -687,22 +863,6 @@
         "construction physics"
       ],
       "published": "2026-04-02T12:16:08.000Z"
-    },
-    {
-      "id": "c4819982eb5960d6",
-      "title": "Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/",
-      "pacer": "C",
-      "keywords": [
-        "London Philharmonic",
-        "Concert Review",
-        "Classical Music",
-        "Mark-Anthony Turnage",
-        "Béla Bartók"
-      ],
-      "published": "2026-04-02T11:34:07.000Z"
     },
     {
       "id": "6a91554bd8ee7146",
@@ -1029,16 +1189,6 @@
       "published": "2026-03-31T16:05:29.000Z"
     },
     {
-      "id": "4f887a74e1fa146c",
-      "title": "Before you check if an update caused your problem, check that it wasn’t a problem before the update",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T14:00:00.000Z"
-    },
-    {
       "id": "8ebc30e54f19b5d5",
       "title": "Solving Yesterday’s Problems Will Kill You",
       "source": "Steve Blank",
@@ -1047,16 +1197,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-31T13:00:48.000Z"
-    },
-    {
-      "id": "5240f3127815323e",
-      "title": "Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/03/31/actual-federalist-society/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T10:00:59.000Z"
     },
     {
       "id": "be7335619d6a1e4b",
@@ -1077,16 +1217,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-31T00:41:44.000Z"
-    },
-    {
-      "id": "5eb31b471b4cc554",
-      "title": "The World's First Bullshit",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/the-worlds-first-bullshit/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T00:20:34.000Z"
     },
     {
       "id": "ffb8794b9801b282",
@@ -1193,16 +1323,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-30T16:00:00.000Z"
-    },
-    {
-      "id": "dfad41b92c74c859",
-      "title": "Git Diff Drivers",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/03/30/git-diff-drivers.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T10:00:00.000Z"
     },
     {
       "id": "5f47d761cc9eedef",
@@ -2163,22 +2283,6 @@
       "published": "2026-03-11T16:20:13.000Z"
     },
     {
-      "id": "7aacdab66589f4d5",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "pacer": "R",
-      "keywords": [
-        "Microsoft",
-        "Patch Tuesday",
-        "Security Update",
-        "Vulnerability",
-        "Cybersecurity"
-      ],
-      "published": "2026-03-11T00:32:51.000Z"
-    },
-    {
       "id": "ca92511462c5d642",
       "title": "I don't know if I like working at higher levels of abstraction",
       "source": "Xe Iaso's blog",
@@ -2225,38 +2329,6 @@
         "AI"
       ],
       "published": "2026-03-10T17:12:30.000Z"
-    },
-    {
-      "id": "28ef34987c971f69",
-      "title": "Weekly Update 494",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-494/",
-      "pacer": "E",
-      "keywords": [
-        "Have I Been Pwned",
-        "data breach",
-        "cybersecurity",
-        "Troy Hunt",
-        "security news"
-      ],
-      "published": "2026-03-10T01:29:35.000Z"
-    },
-    {
-      "id": "0d5a57d23a61c2f0",
-      "title": "Rebasing in Magit",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/rebasing-in-magit",
-      "pacer": "P",
-      "keywords": [
-        "Magit",
-        "Git",
-        "Rebase",
-        "Emacs",
-        "Version Control"
-      ],
-      "published": "2026-03-09T23:00:00.000Z"
     },
     {
       "id": "7750eaf897aa7a60",
@@ -2336,22 +2408,6 @@
         "software development"
       ],
       "published": "2026-03-08T16:08:41.000Z"
-    },
-    {
-      "id": "edb55d0f010d3f1a",
-      "title": "The Neo solves Apple’s embarrassment",
-      "source": "Anil Dash",
-      "source_url": "https://anildash.com/",
-      "url": "https://anildash.com/2026/03/08/neo-apple-embarassment/",
-      "pacer": "C",
-      "keywords": [
-        "Apple",
-        "MacBook Neo",
-        "Branding",
-        "Strategy",
-        "Hardware"
-      ],
-      "published": "2026-03-08T00:00:00.000Z"
     },
     {
       "id": "5a8e68310732657c",
@@ -2646,17 +2702,6 @@
         "programming"
       ],
       "strength": 0.6
-    },
-    {
-      "source": "be6937f11e403998",
-      "target": "fc529b367f17c03d",
-      "shared_keywords": [
-        "datasette",
-        "python",
-        "cli",
-        "open-source"
-      ],
-      "strength": 0.8
     },
     {
       "source": "c88ef4bc96c22d50",
