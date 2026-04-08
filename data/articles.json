@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-04-07T22:10:41.243Z",
+  "last_updated": "2026-04-08T22:11:27.634Z",
   "articles": [
+    {
+      "id": "4f3ecb3b854e113d",
+      "title": "When the crisis comes",
+      "url": "https://anildash.com/2026/04/08/when-the-crisis-comes/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-08T00:00:00.000Z",
+      "summary_en": "Anil Dash reflects on the challenges of leadership during constant crises, emphasizing the importance of finding clarity and expert support. He highlights the book 'Crisis Engineering' as a vital resource for navigating turbulent times and transforming crises into opportunities for growth.",
+      "summary_zh": "Anil Dash 反思了在持續危機中領導組織的挑戰，強調在混亂中尋找清晰方向與專家支援的重要性。他將《Crisis Engineering》一書視為應對危機、將困境轉化為成長契機的重要資源。",
+      "keywords": [
+        "Crisis management",
+        "Leadership",
+        "Crisis Engineering",
+        "Resilience",
+        "Organizational change"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, reflecting on the nature of leadership during crises and recommending a book that explores the philosophy of 'crisis engineering'.",
+      "pacer_reason_zh": "本文主要屬於概念性內容，探討危機期間的領導本質，並推薦了一本探討「危機工程」哲學的書籍。"
+    },
+    {
+      "id": "71806e408c5eeaaf",
+      "title": "The day you get cut out of the economy",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-07T16:00:00.000Z",
+      "summary_en": "The article argues that as global economic growth stagnates, AI frontier model developers will shift from a SaaS subscription model to vertical integration. By capturing the value currently held by the AI application layer, model makers will consolidate the market to recoup the massive costs of frontier training runs.",
+      "summary_zh": "本文指出，隨著全球經濟成長停滯，AI 前沿模型開發商將從 SaaS 訂閱模式轉向垂直整合。為了回收龐大的訓練成本，這些開發商將透過吞噬 AI 應用層的價值並推動市場整合，從而奪取更多市場份額。",
+      "keywords": [
+        "AI Economics",
+        "Vertical Integration",
+        "Frontier Models",
+        "Market Consolidation",
+        "SaaS"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a theoretical analysis of the future economic landscape of AI development and industry dynamics.",
+      "pacer_reason_zh": "本文對 AI 開發的未來經濟前景及產業動態進行了理論性分析。"
+    },
+    {
+      "id": "dc222ec6bd8dcd4a",
+      "title": "Pork & Puppetry",
+      "url": "https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-04-08T03:50:54.000Z",
+      "summary_en": "This article explores the origin of a viral parody trailer featuring a warthog puppet named Pork Johnson, which mocks the open-source image editor GIMP. The author interviews creator Dustin Grissom, who explains how the puppet served as a creative outlet and a personal tribute to his childhood.",
+      "summary_zh": "這篇文章探討了名為 Pork Johnson 的疣豬木偶惡搞影片的創作背景，該影片以諷刺開源影像軟體 GIMP 為題。作者專訪了創作者 Dustin Grissom，他分享了如何透過製作木偶來重拾創意樂趣並致敬童年回憶。",
+      "keywords": [
+        "Pork Johnson",
+        "GIMP",
+        "parody",
+        "puppetry",
+        "Dustin Grissom"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an in-depth story behind a specific creative project and its conceptual origins.",
+      "pacer_reason_zh": "本文深入探討了特定創意專案背後的創作故事及其概念起源。"
+    },
+    {
+      "id": "4b363e70c66c71c2",
+      "title": "Package Security Problems for AI Agents",
+      "url": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-08T10:00:00.000Z",
+      "summary_en": "This article examines how AI agents are uniquely vulnerable to traditional package security threats like typosquatting and registry poisoning. Because agents dynamically discover and install tools without human oversight, they can inadvertently execute malicious code from compromised or spoofed package repositories.",
+      "summary_zh": "本文探討了 AI 代理程式如何面臨傳統軟體套件安全威脅（如誤植域名攻擊和註冊表中毒）的獨特風險。由於代理程式會在缺乏人工監督的情況下自動解析並安裝工具，極易意外執行來自偽造或受損儲存庫的惡意代碼。",
+      "keywords": [
+        "AI Agents",
+        "Package Security",
+        "Typosquatting",
+        "MCP",
+        "Supply Chain Security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual security risks and threat vectors introduced by AI agents in the context of existing package management systems.",
+      "pacer_reason_zh": "本文旨在解釋 AI 代理程式在現有軟體套件管理系統中產生的概念性安全風險與威脅路徑。"
+    },
+    {
+      "id": "6fcd6ea293540c4c",
+      "title": "Mario and Earendil",
+      "url": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-04-08T00:00:00.000Z",
+      "summary_en": "Armin Ronacher announces that Mario Zechner is joining Earendil. The post highlights Ronacher's admiration for Zechner's commitment to software quality, thoughtful design, and craftsmanship in the field of AI coding agents.",
+      "summary_zh": "Armin Ronacher 宣佈 Mario Zechner 加入 Earendil。文中強調了 Ronacher 對 Zechner 在 AI 程式設計代理領域中所展現的軟體品質、深度設計與工匠精神的讚賞。",
+      "keywords": [
+        "Earendil",
+        "Mario Zechner",
+        "Armin Ronacher",
+        "Software Engineering",
+        "AI Agents"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on software development philosophy, professional values, and the vision behind a company acquisition.",
+      "pacer_reason_zh": "這是一篇關於軟體開發理念、專業價值觀以及企業收購背後願景的觀念性敘述。"
+    },
+    {
+      "id": "3fb0ff1bbf92de4b",
+      "title": "How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-08T14:00:00.000Z",
+      "summary_en": "The article explains that you cannot directly add or remove a handle from an active MsgWaitForMultipleObjects call. Instead, you must design your application logic to signal the waiter to handle these updates internally.",
+      "summary_zh": "本文說明無法直接在運作中的 MsgWaitForMultipleObjects 呼叫中新增或移除控制代碼。開發者必須設計應用程式邏輯，讓等待者能自行處理這些更新。",
+      "keywords": [
+        "MsgWaitForMultipleObjects",
+        "Windows API",
+        "multithreading",
+        "programming",
+        "handles"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a technical solution/workaround for a specific programming problem.",
+      "pacer_reason_zh": "本文針對特定的程式設計問題提供了技術解決方案與操作建議。"
+    },
+    {
+      "id": "e047900fdc126926",
+      "title": "Theatre Review: Avenue Q ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-08T11:34:25.000Z",
+      "summary_en": "The author reflects on re-watching the musical Avenue Q, contemplating the passage of time and the challenges of updating classic productions. The review highlights the emotional resonance of the show while discussing the balance between preserving a work's original charm and keeping it relevant.",
+      "summary_zh": "作者分享了重溫音樂劇《Q大道》的感觸，並探討了經典作品在保持原貌與持續更新之間該如何取捨。文章透過個人觀點，反思了時間流逝對藝術作品詮釋的影響。",
+      "keywords": [
+        "Avenue Q",
+        "Theatre Review",
+        "Musicals",
+        "Nostalgia",
+        "Performance"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal experience and aging process as an analogy to discuss the preservation and evolution of theatre productions.",
+      "pacer_reason_zh": "文章以作者個人的生活經歷與衰老過程作為類比，探討戲劇作品在時代演變中的保存與重塑問題。"
+    },
+    {
+      "id": "5f595384512a9800",
+      "title": "Pluralistic: Process knowledge (08 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-08T13:39:44.000Z",
+      "summary_en": "This article examines the problematic nature of the term 'intellectual property,' arguing that it is a vague, catch-all label for disparate legal doctrines and abstract concepts. It highlights how the conflation of copyright, patents, trademarks, and newer, less-defined rights complicates modern tech regulation and global trade policy.",
+      "summary_zh": "本文探討了「知識產權」這一術語的模糊性，指出它將多種不同的法律原則和抽象概念強行歸類在一起。作者認為這種過度簡化的標籤掩蓋了版權、專利和商標之間的巨大差異，反而對當前的科技監管與全球貿易政策造成了混淆。",
+      "keywords": [
+        "intellectual property",
+        "legal doctrine",
+        "copyright",
+        "regulation",
+        "trade policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how the term 'intellectual property' is defined, misused, and expanded beyond its original legal boundaries.",
+      "pacer_reason_zh": "本文針對「知識產權」這一概念進行了理論層面的分析，探討了該術語如何被定義、誤用，並被擴展至原有的法律框架之外。"
+    },
+    {
+      "id": "646b342f150f7637",
+      "title": "Quoting Giles Turnbull",
+      "url": "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-08T15:18:49.000Z",
+      "summary_en": "This post highlights a reflection by Giles Turnbull on the double standard regarding AI adoption. It notes that while people enjoy using AI to mimic other professions, they often resent when AI is used to replace their own work.",
+      "summary_zh": "這篇文章引用了 Giles Turnbull 對於 AI 應用的觀察，指出人們普遍喜歡用 AI 嘗試他人的專業，卻對 AI 被用於取代自身專業感到反感。",
+      "keywords": [
+        "AI",
+        "ethics",
+        "human-ai",
+        "professionalism",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores a conceptual reflection on human behavior and ethical attitudes toward AI in the workforce.",
+      "pacer_reason_zh": "內容探討了關於人類行為與對職場 AI 倫理態度的概念性反思。"
+    },
     {
       "id": "e553ef725b57e793",
       "title": "Actually, people love to work hard",
