@@ -1,6 +1,386 @@
 {
-  "last_updated": "2026-04-08T22:11:27.634Z",
+  "last_updated": "2026-04-09T22:11:27.200Z",
   "articles": [
+    {
+      "id": "9c2788e6ec779a30",
+      "title": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-04-09T15:02:34.000Z",
+      "summary_en": "This article serves as the fourth chapter of Miguel Grinberg's guide on SQLAlchemy 2. It focuses on the implementation and management of many-to-many database relationships.",
+      "summary_zh": "本文是 Miguel Grinberg 所著 SQLAlchemy 2 實踐指南的第四章。內容專注於介紹如何處理與管理資料庫中的多對多關聯。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Database",
+        "ORM",
+        "Many-to-Many"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is part of a practical guide providing instruction on how to implement specific database relationships.",
+      "pacer_reason_zh": "該內容屬於實作指南的一部分，旨在指導讀者如何應用特定的資料庫關聯。"
+    },
+    {
+      "id": "475957ff629ff6f4",
+      "title": "Nowhere Is Safe",
+      "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-04-09T13:00:25.000Z",
+      "summary_en": "The article analyzes how the proliferation of low-cost drones in modern warfare, as seen in Ukraine and Iran, renders traditional air defense systems obsolete. It highlights the strategic shift where massive numbers of inexpensive, asymmetric threats can overwhelm sophisticated, high-cost military defense infrastructure.",
+      "summary_zh": "本文分析了烏克蘭與伊朗戰爭中無人機的廣泛應用，指出其使地球表面成為高度爭議的空間。作者強調，傳統針對少量高階武器設計的防空系統，在面對大規模低成本無人機的非對稱攻擊時已顯得力不從心。",
+      "keywords": [
+        "drones",
+        "modern warfare",
+        "asymmetric warfare",
+        "air defense",
+        "national security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual shift in modern military strategy caused by the rise of drone warfare.",
+      "pacer_reason_zh": "內容解釋了無人機作戰興起所帶來的現代軍事策略觀念轉變。"
+    },
+    {
+      "id": "2a3e2f8ebcf8ed37",
+      "title": "Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation NL",
+      "url": "https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-04-09T04:30:00.000Z",
+      "summary_en": "Bert Hubert announces the publication of his new report commissioned by Energy Innovation NL, focusing on digital autonomy within energy-intensive industries. The report, developed through consultations with various key companies, addresses the critical integration of technology and industrial energy processes.",
+      "summary_zh": "Bert Hubert 發表了由 Energy Innovation NL 委託撰寫的報告，重點探討能源密集產業中的數位自主權。該報告透過與多家關鍵企業諮詢合作，深入分析了技術與能源產業流程整合的關鍵議題。",
+      "keywords": [
+        "Digital autonomy",
+        "Energy-intensive industry",
+        "Energy Innovation NL",
+        "Industrial technology",
+        "Bert Hubert"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content introduces a specific industry report based on research and interviews with relevant companies.",
+      "pacer_reason_zh": "該內容介紹了一份基於研究與相關企業訪談所產出的特定產業報告。"
+    },
+    {
+      "id": "d104095b5ed4465c",
+      "title": "Fewer Computers, Fewer Problems: Going Local With Builds & Deployments",
+      "url": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-09T19:00:00.000Z",
+      "summary_en": "The author discusses shifting back to local-first builds and deployments for personal websites to simplify the development process. By treating remote hosting as a progressive enhancement rather than a dependency, they aim to eliminate the complexities of distributed computing.",
+      "summary_zh": "作者探討了將個人網站的建置與部署改回「本機優先」模式，以簡化開發流程。透過將遠端託管視為增強功能而非必要依賴，作者旨在消除分散式運算帶來的複雜問題。",
+      "keywords": [
+        "local-first",
+        "web development",
+        "deployment",
+        "devops",
+        "personal website"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual philosophy of shifting infrastructure paradigms toward local-first computing.",
+      "pacer_reason_zh": "本文重點在於探討轉向「本機優先」運算的基礎設施哲學概念。"
+    },
+    {
+      "id": "49daec3622e9abca",
+      "title": "Hong Kong Disneyland Speedrun Guide",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-08T16:00:00.000Z",
+      "summary_en": "This guide provides a strategic approach to visiting Hong Kong Disneyland efficiently by leveraging early entry passes and optimized pathing. The author outlines a specific route to maximize ride uptime and minimize queue times, allowing visitors to experience all attractions in half a day.",
+      "summary_zh": "本指南提供了在香港迪士尼樂園高效遊玩的策略，透過提前入園證與優化動線來最大化遊樂設施體驗時間。作者規劃了一套具體的路線，協助遊客避開排隊人潮，並在半天內玩遍所有設施。",
+      "keywords": [
+        "Hong Kong Disneyland",
+        "Speedrun",
+        "Travel Hacks",
+        "Efficiency",
+        "Theme Park Strategy"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a practical, step-by-step how-to guide for optimizing a theme park visit.",
+      "pacer_reason_zh": "本文是一篇實用的操作指南，提供逐步教學以優化遊樂園的遊玩行程。"
+    },
+    {
+      "id": "4193d42a503e497a",
+      "title": "Helium Is Hard to Replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-09T12:03:42.000Z",
+      "summary_en": "This article explores the complexities of the global helium supply chain, drawing parallels to how geopolitical conflicts, such as the Strait of Hormuz closure, disrupt essential resource logistics. It highlights why helium is uniquely difficult to substitute, emphasizing its critical role in modern technology and industry.",
+      "summary_zh": "本文探討了全球氦氣供應鏈的複雜性，並將其與荷姆茲海峽封鎖等地緣政治衝突如何破壞重要資源物流進行了對比。文章強調了氦氣因其獨特性而難以被取代，並闡述了它在現代科技與工業中的關鍵地位。",
+      "keywords": [
+        "helium",
+        "supply chain",
+        "geopolitics",
+        "resources",
+        "commodity"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of petroleum supply chain disruptions to explain the broader systemic vulnerabilities in resource availability.",
+      "pacer_reason_zh": "文章透過石油供應鏈中斷的類比，來解釋資源供應在系統性層面上的脆弱性。"
+    },
+    {
+      "id": "2be4121a5d5bf05a",
+      "title": "Package Security Defenses for AI Agents",
+      "url": "https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-09T10:00:00.000Z",
+      "summary_en": "This post highlights the heightened security risks AI agents face when installing software packages, such as malicious code execution and credential theft. It proposes defensive strategies for AI coding platforms, including disabling default install scripts, implementing package version cooldowns, and enforcing sandboxed environments to limit potential blast radii.",
+      "summary_zh": "這篇文章探討了 AI 代理在安裝軟體套件時面臨的安全風險，包括惡意代碼執行與憑證竊取等威脅。文中建議開發平台應採取防禦措施，如預設停用安裝腳本、設置套件版本冷卻期，並強制實施沙盒環境以降低潛在攻擊範圍。",
+      "keywords": [
+        "AI Agents",
+        "Package Security",
+        "Software Supply Chain",
+        "Cybersecurity",
+        "Development Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides actionable, step-by-step security recommendations for AI coding platforms to improve their workflows.",
+      "pacer_reason_zh": "本文針對 AI 編碼平台提供了具體且可執行的操作建議，旨在改善工作流程的安全防護。"
+    },
+    {
+      "id": "d2e52c4bf16b12e9",
+      "title": "The Great Pyramid of Giza and the Speed of Light",
+      "url": "https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-09T17:54:21.000Z",
+      "summary_en": "The author investigates a viral claim that the latitude of the Great Pyramid of Giza matches the speed of light. He concludes that while the numbers align precisely, the observation is a mathematical coincidence rather than evidence of ancient advanced knowledge.",
+      "summary_zh": "作者調查了關於吉薩大金字塔的緯度與光速數值吻合的網路傳言。他得出結論，儘管這些數字精確對應，但這僅是一種數學上的巧合，而非古代文明擁有先進知識的證據。",
+      "keywords": [
+        "Great Pyramid of Giza",
+        "speed of light",
+        "latitude",
+        "coincidence",
+        "John D. Cook"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post evaluates a specific claim using scientific constants and geographical data to debunk a popular misconception.",
+      "pacer_reason_zh": "這篇文章使用科學常數與地理數據來評估一項具體主張，藉此破解常見的迷思。"
+    },
+    {
+      "id": "99ba34cd9d884af3",
+      "title": "Random hexagon fractal",
+      "url": "https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-09T17:25:08.000Z",
+      "summary_en": "The article explores an iterative geometric process for generating a random fractal based on a hexagon. By repeatedly selecting a side and forming a new triangle with a point inside, the method produces complex, self-similar patterns.",
+      "summary_zh": "這篇文章介紹了一種基於六邊形生成隨機碎形（fractal）的迭代幾何過程。透過重複選擇邊並與六邊形內部的點構成三角形，該方法能產生複雜且具備自相似性的圖案。",
+      "keywords": [
+        "fractal",
+        "hexagon",
+        "geometry",
+        "iteration",
+        "mathematics"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes a step-by-step mathematical process for generating a specific geometric pattern.",
+      "pacer_reason_zh": "文章描述了產生特定幾何圖案的逐步數學過程。"
+    },
+    {
+      "id": "5fcb589fe3a540be",
+      "title": "Root prime gap",
+      "url": "https://www.johndcook.com/blog/2026/04/08/andrica/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-09T00:18:57.000Z",
+      "summary_en": "This post discusses Andrica's conjecture, which posits that the difference between the square roots of consecutive prime numbers is always less than one. The author notes that while this remains unproven, it has been empirically verified for primes up to 2 × 10^19.",
+      "summary_zh": "這篇文章介紹了安德里卡猜想（Andrica's conjecture），該猜想認為連續質數的平方根之差永遠小於 1。作者指出，儘管該猜想尚未獲得數學證明，但目前已針對高達 2 × 10^19 的質數進行了實證驗證。",
+      "keywords": [
+        "Andrica's conjecture",
+        "prime numbers",
+        "mathematics",
+        "square roots",
+        "number theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical conjecture and its theoretical context.",
+      "pacer_reason_zh": "本文旨在解釋一個數學猜想及其理論背景。"
+    },
+    {
+      "id": "3d5c7795e53881bd",
+      "title": "A Three- and a Four- Body Problem",
+      "url": "https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-08T23:30:15.000Z",
+      "summary_en": "This article discusses the orbital mechanics of the Artemis I and Artemis II missions, focusing on the differences in trajectory and duration. It highlights how the unmanned nature of Artemis I allowed for a more complex, longer-duration orbit compared to the crewed Artemis II mission.",
+      "summary_zh": "本文探討了阿提米絲一號與二號任務的軌道力學，重點說明兩者在飛行路徑與任務時間上的差異。文中指出，由於阿提米絲一號為無人任務，使其能夠執行比載人的阿提米絲二號更複雜且耗時更長的軌道運行。",
+      "keywords": [
+        "Artemis",
+        "orbital mechanics",
+        "three-body problem",
+        "space exploration",
+        "NASA"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of orbital mechanics and the 'three-body problem' in the context of specific NASA space missions.",
+      "pacer_reason_zh": "本文在特定 NASA 太空任務的背景下，提供了關於軌道力學與「三體問題」的概念性解釋。"
+    },
+    {
+      "id": "4662e22e8a19865c",
+      "title": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-09T14:00:00.000Z",
+      "summary_en": "The article explains that it is impossible to directly modify the handles being monitored by an active WaitForMultipleObjects call. Instead, the author advises using a cooperative approach between threads to manage the monitored objects.",
+      "summary_zh": "本文說明無法直接修改正在監控中的 WaitForMultipleObjects 函式所使用的控制代碼 (handle)。作者建議應透過執行緒之間的協作機制來管理監控物件。",
+      "keywords": [
+        "Windows API",
+        "WaitForMultipleObjects",
+        "multithreading",
+        "programming",
+        "concurrency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains the conceptual limitation of a specific Windows API function and the theoretical approach to resolving the requirement.",
+      "pacer_reason_zh": "本文解釋了特定 Windows API 函式的概念性限制，以及解決該需求的理論方法。"
+    },
+    {
+      "id": "f3a5ee319b6619ce",
+      "title": "I quit drinking for a year",
+      "url": "https://dynomight.net/drinking/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-04-09T00:00:00.000Z",
+      "summary_en": "The author recounts their experience of quitting alcohol for over a year after a spontaneous decision triggered by a discussion about 'damp January.' They discovered that total abstinence was surprisingly easier than moderate drinking because it removed the mental burden of constantly deciding whether or not to consume alcohol.",
+      "summary_zh": "作者分享了在一次關於「微醺一月」的對話刺激下，決定戒酒一年以上的經歷。他們發現完全戒酒反而比適度飲酒更容易，因為這消除了每次面對酒精時是否要飲用的心理糾結。",
+      "keywords": [
+        "戒酒",
+        "習慣",
+        "決策疲勞",
+        "自我控制",
+        "生活方式"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an anecdotal case study of the author's personal experiment with sobriety and its psychological effects.",
+      "pacer_reason_zh": "本文以作者個人的戒酒實驗作為案例研究，分析了其心理層面的影響與觀察。"
+    },
+    {
+      "id": "c3f359752f1b66ad",
+      "title": "Book Review: Small Comfort by Ia Genberg ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-09T11:34:59.000Z",
+      "summary_en": "Terence Eden reviews the book 'Small Comfort' by Ia Genberg, expressing mixed feelings about its execution. While he appreciates the experimental structure of interrelated stories, he finds the overall narrative unconvincing and disjointed.",
+      "summary_zh": "Terence Eden 分享了對 Ia Genberg 小說《Small Comfort》的書評，表達了對該作品執行效果的保留態度。儘管他欣賞書中相互關聯的敘事結構，但認為整體的呈現方式並不令人信服。",
+      "keywords": [
+        "Book Review",
+        "Ia Genberg",
+        "Small Comfort",
+        "Literary Critique",
+        "Reading"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses analogies to other media, such as 'Run Lola Run', to illustrate the themes and style of the book.",
+      "pacer_reason_zh": "作者透過類比其他媒體作品（如《蘿拉快跑》）來闡述書中的主題與風格。"
+    },
+    {
+      "id": "eea7122a66b1613b",
+      "title": "Pluralistic: Cindy Cohn's \"Privacy's Defender\" (09 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/09/bernstein-2/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-09T10:50:56.000Z",
+      "summary_en": "Cory Doctorow highlights the memoir of EFF executive director Cindy Cohn, 'Privacy's Defender,' which chronicles her decades-long fight for digital rights. The post focuses on her pivotal role in the landmark Bernstein case, which established that code constitutes protected free speech.",
+      "summary_zh": "Cory Doctorow 推薦了電子前線基金會（EFF）執行總監 Cindy Cohn 的回憶錄《Privacy's Defender》，該書記錄了她數十年來為數位權利奮鬥的歷程。文章重點介紹了她在關鍵的伯恩斯坦案（Bernstein case）中所扮演的角色，該案確立了程式碼屬於受保護的言論自由。",
+      "keywords": [
+        "Cindy Cohn",
+        "EFF",
+        "Digital Rights",
+        "Privacy's Defender",
+        "Bernstein case"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a testimonial and historical account based on the author's direct experience and the subject's documented legal history.",
+      "pacer_reason_zh": "本文基於作者的親身經歷與書中記錄的法律史，屬於對特定人物與歷史事件的見證與回顧。"
+    },
+    {
+      "id": "866f8915499c1b68",
+      "title": "What Are You Trying to Say? ",
+      "url": "https://idiallo.com/blog/what-are-you-trying-to-say?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-09T12:00:00.000Z",
+      "summary_en": "The article explores the challenge of clear communication and the tendency to overcomplicate messages. It suggests that asking oneself 'what am I trying to say?' helps strip away unnecessary fluff, encouraging writers and speakers to distill complex thoughts into their core, primitive meaning.",
+      "summary_zh": "本文探討了溝通中常見的複雜化問題，並建議透過反問自己「我想表達什麼？」來釐清思緒。作者指出，這種自我提問能幫助我們剝離多餘的裝飾與術語，精準傳達最核心的訊息。",
+      "keywords": [
+        "communication",
+        "clarity",
+        "expression",
+        "writing",
+        "simplicity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is conceptual, focusing on the theory and philosophy of effective communication rather than a step-by-step guide or specific data.",
+      "pacer_reason_zh": "本文屬於概念性文章，重點在於探討有效溝通的哲學與心法，而非步驟教學或數據分析。"
+    },
+    {
+      "id": "927e37163b3ccb5b",
+      "title": "GitHub Repo Size",
+      "url": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-09T21:31:50.000Z",
+      "summary_en": "Simon Willison has released a simple web tool that displays the total size of any GitHub repository. It bypasses the lack of size information in the GitHub UI by leveraging the repository's CORS-friendly API.",
+      "summary_zh": "Simon Willison 推出了一款簡單的網頁工具，可顯示任何 GitHub 儲存庫的總大小。該工具透過 GitHub 支援 CORS 的 API 獲取數據，解決了 GitHub 原生介面無法直接查看儲存庫大小的問題。",
+      "keywords": [
+        "GitHub",
+        "Repository",
+        "Web Tool",
+        "API",
+        "CORS"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a direct tool and instructions for users to easily check GitHub repository sizes.",
+      "pacer_reason_zh": "這篇文章提供了一個直接的工具以及使用方法，讓使用者能輕鬆查詢 GitHub 儲存庫的大小。"
+    },
+    {
+      "id": "0f127ae4421f6764",
+      "title": "asgi-gzip 0.3",
+      "url": "https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-09T03:54:40.000Z",
+      "summary_en": "Simon Willison released version 0.3 of asgi-gzip to fix an issue where SSE responses were being incorrectly compressed. The update was triggered after realizing that the library's automated sync with Starlette had failed to capture a necessary upstream fix.",
+      "summary_zh": "Simon Willison 發布了 asgi-gzip 0.3 版本，修復了 Server-sent events (SSE) 回應被錯誤壓縮的問題。這次更新是在發現與 Starlette 自動同步流程失效，導致遺漏了必要的修復後所進行的維護。",
+      "keywords": [
+        "asgi-gzip",
+        "python",
+        "gzip",
+        "sse",
+        "starlette"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a release note documenting a specific bug fix, the cause of the failure, and the resolution.",
+      "pacer_reason_zh": "此文章為版本更新日誌，記錄了特定錯誤修復、故障原因以及解決方案。"
+    },
+    {
+      "id": "5e9b7b2c0bac8937",
+      "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+      "url": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-08T23:07:44.000Z",
+      "summary_en": "Meta has released Muse Spark, a new hosted AI model available via meta.ai with 'Instant' and 'Thinking' modes. The author tests the model's capabilities using his signature 'pelican riding a bicycle' prompt to compare performance across these modes.",
+      "summary_zh": "Meta 發布了 Muse Spark，這是一款可在 meta.ai 上使用，並具備「即時」與「思考」兩種模式的託管式 AI 模型。作者透過其標誌性的「鵜鶘騎腳踏車」測試，比較了該模型在不同模式下的表現。",
+      "keywords": [
+        "Meta",
+        "Muse Spark",
+        "AI models",
+        "benchmarks",
+        "generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on benchmarking a new AI model against competitors and performing a practical evaluation using specific image generation prompts.",
+      "pacer_reason_zh": "本文重點在於將新型 AI 模型與競爭對手進行基準測試比較，並透過特定的影像生成提示詞進行實際評測。"
+    },
     {
       "id": "4f3ecb3b854e113d",
       "title": "When the crisis comes",
