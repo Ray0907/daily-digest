@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 09 Apr 2026 22:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:08:49 GMT</lastBuildDate>
     
+    <item>
+      <title>Y2K 2.0: The AI security reckoning</title>
+      <link>https://anildash.com/2026/04/10/y2k-2.0-ai-security/</link>
+      <guid>https://anildash.com/2026/04/10/y2k-2.0-ai-security/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>The rise of advanced LLMs has significantly accelerated the discovery and exploitation of software vulnerabilities. By automating code analysis and personalizing attack vectors, AI tools have democratized access to sophisticated cyberattacks, posing a systemic threat to digital infrastructure.</description>
+    </item>
+
+    <item>
+      <title>watgo - a WebAssembly Toolkit for Go</title>
+      <link>https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</link>
+      <guid>https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</guid>
+      <pubDate>Fri, 10 Apr 2026 02:28:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>Eli Bendersky introduces watgo, a zero-dependency Go toolkit for WebAssembly that allows parsing, validating, encoding, and decoding WASM files. The toolkit provides both a CLI for command-line tasks and a Go API for programmatically manipulating WebAssembly modules via the wasmir semantic representation.</description>
+    </item>
+
+    <item>
+      <title>The Solitaire Shuffle</title>
+      <link>https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</link>
+      <guid>https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</guid>
+      <pubDate>Fri, 10 Apr 2026 03:47:04 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the enduring appeal of Solitaire as a meditative and mentally stimulating pastime. It highlights the variety of the game's iterations and discusses a UCLA CRESST study suggesting that playing Solitaire may have positive impacts on cognitive function.</description>
+    </item>
+
+    <item>
+      <title>Package Registries and Pagination</title>
+      <link>https://nesbitt.io/2026/04/10/package-registries-and-pagination.html</link>
+      <guid>https://nesbitt.io/2026/04/10/package-registries-and-pagination.html</guid>
+      <pubDate>Fri, 10 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>Legacy package registry APIs like npm and PyPI suffer from performance issues because they return full version history in single, massive JSON responses. These decade-old designs lack pagination, causing modern, high-volume packages to hit size limits and memory overhead during parsing.</description>
+    </item>
+
+    <item>
+      <title>Why I quit &quot;The Strive&quot;</title>
+      <link>https://www.joanwestenberg.com/why-i-quit-the-strive/</link>
+      <guid>https://www.joanwestenberg.com/why-i-quit-the-strive/</guid>
+      <pubDate>Fri, 10 Apr 2026 01:50:12 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The author announces the end of their previous newsletter project, 'The Strive,' while detailing the future direction of their paid subscription model. They emphasize maintaining free access to core content while offering premium benefits like community access and ad-free reading for supporters.</description>
+    </item>
+
+    <item>
+      <title>In defense of GitHub's poor uptime</title>
+      <link>https://evanhahn.com/in-defense-of-githubs-poor-uptime/</link>
+      <guid>https://evanhahn.com/in-defense-of-githubs-poor-uptime/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This article challenges the perception that GitHub's uptime is failing by explaining how uptime statistics can be misleading when applied to complex, multi-service platforms. The author argues that aggregate metrics often unfairly penalize systems for having independent, non-overlapping service outages.</description>
+    </item>
+
+    <item>
+      <title>Distribution of digits in fractions</title>
+      <link>https://www.johndcook.com/blog/2026/04/10/fraction-digits/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/10/fraction-digits/</guid>
+      <pubDate>Fri, 10 Apr 2026 14:29:49 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the distribution of digits in the decimal representations of fractions. It highlights interesting, lesser-known mathematical patterns that emerge when analyzing these basic numerical forms.</description>
+    </item>
+
+    <item>
+      <title>How do you add or remove a handle from an active Wait­For­Multiple­Objects?, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</guid>
+      <pubDate>Fri, 10 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article continues the discussion on modifying handles within an active WaitForMultipleObjects call. It specifically focuses on the synchronization mechanism required to ensure the waiting thread correctly acknowledges handle changes.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/10/canny-valley/</link>
+      <guid>https://pluralistic.net/2026/04/10/canny-valley/</guid>
+      <pubDate>Fri, 10 Apr 2026 09:57:16 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow reflects on his history of successful Kickstarter campaigns for his books, emphasizing his commitment to creating unique, limited-edition physical items for his readers. He highlights the balance between producing DRM-free digital content and creating tangible collector's pieces.</description>
+    </item>
+
+    <item>
+      <title>Kākāpō parrots</title>
+      <link>https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything</guid>
+      <pubDate>Fri, 10 Apr 2026 19:07:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a video snippet from a recent podcast episode featuring a discussion about Kākāpō parrots. The post provides a direct link to the short video clip and references the full-length podcast recording.</description>
+    </item>
+
+    <item>
+      <title>ChatGPT voice mode is a weaker model</title>
+      <link>https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</guid>
+      <pubDate>Fri, 10 Apr 2026 15:56:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison highlights that OpenAI's ChatGPT voice mode often uses a less capable model than expected, contradicting the assumption that voice-accessible AI is the most powerful. The post references Andrej Karpathy's analysis on why some AI domains, like coding, advance faster due to explicit reward functions and high B2B value.</description>
+    </item>
+
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships</title>
       <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships</link>
@@ -805,105 +904,6 @@
       <pubDate>Fri, 03 Apr 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
       <description>This post clarifies that file copying is not a distinct file system operation, making it impossible to detect directly via ReadDirectoryChangesW. It explains that since copying is just a series of read and write operations, the file system cannot distinguish it from other file access patterns.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</guid>
-      <pubDate>Fri, 03 Apr 2026 11:34:34 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review discusses Nick Bostrom's 2014 book, Superintelligence, highlighting its profound analysis of the existential risks associated with true artificial intelligence. The author emphasizes the book's foresight in outlining necessary safety measures and conceptual frameworks long before current AI advancements.</description>
-    </item>
-
-    <item>
-      <title>My Zip bomb strategy is not as effective as it used to be </title>
-      <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
-      <guid>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</guid>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The author discusses the declining effectiveness of using zip bombs to neutralize malicious web bots. While previously a reliable defense for a modest server setup, the author notes that modern, more sophisticated bots are increasingly able to circumvent this mitigation strategy.</description>
-    </item>
-
-    <item>
-      <title>Quoting Willy Tarreau</title>
-      <link>https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 21:48:22 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Willy Tarreau reports a massive increase in Linux kernel security vulnerability reports, rising from a few per week to 5-10 per day. This surge is largely attributed to AI tools, which have improved detection efficiency to the point of generating frequent duplicate findings.</description>
-    </item>
-
-    <item>
-      <title>Quoting Daniel Stenberg</title>
-      <link>https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 21:46:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Daniel Stenberg, the lead developer of cURL, discusses the changing impact of AI on open source security. He notes a shift from an influx of AI-generated 'slop' to a high volume of legitimate, high-quality security reports that require significant manual review.</description>
-    </item>
-
-    <item>
-      <title>Quoting Greg Kroah-Hartman</title>
-      <link>https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 21:44:41 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Linux kernel maintainer Greg Kroah-Hartman notes a significant shift in AI-generated security reports. Initially dismissed as low-quality 'slop,' AI tools are now producing accurate and actionable security analysis for open-source projects.</description>
-    </item>
-
-    <item>
-      <title>Can JavaScript Escape a CSP Meta Tag Inside an Iframe?</title>
-      <link>https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 16:05:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post investigates whether JavaScript can bypass Content Security Policy (CSP) meta tags injected within sandboxed iframes. The author demonstrates that these meta tags are effectively enforced by the browser even when subsequent untrusted JavaScript attempts to modify them.</description>
-    </item>
-
-    <item>
-      <title>The Axios supply chain attack used individually targeted social engineering</title>
-      <link>https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 13:54:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Axios maintainers released a postmortem detailing a sophisticated supply chain attack that targeted a developer through highly personalized social engineering. The attackers impersonated company leadership and used fake professional environments to trick the maintainer into installing malware during a video conference.</description>
-    </item>
-
-    <item>
-      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>This article explores the technical history of the iBook G3 and its significance as the first consumer laptop with built-in Wi-Fi. It sets the stage for a project involving legacy hardware connectivity and the creation of a dial-up ISP using a Raspberry Pi.</description>
-    </item>
-
-    <item>
-      <title>Programming (with AI agents) as theory building</title>
-      <link>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
-      <guid>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the concept of programming not as mere instruction-giving, but as the active construction of mental models and theories. It suggests that integrating AI agents into the development process shifts the developer's role toward architecting these theoretical frameworks.</description>
-    </item>
-
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</link>
-      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</guid>
-      <pubDate>Thu, 02 Apr 2026 10:17:15 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description>This article serves as the third chapter of Miguel Grinberg's book on SQLAlchemy 2, focusing on implementing one-to-many relationships. It follows a previous discussion on product queries, transitioning into managing data associations between entities.</description>
-    </item>
-
-    <item>
-      <title>The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity</title>
-      <link>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</link>
-      <guid>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</guid>
-      <pubDate>Thu, 02 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post explores the tension between adhering to rigid systematic UI design rules and the value of localized, context-aware design choices. The author argues that while systematic rules promote consistency, thoughtful exceptions can provide a level of delight and clarity that universal guidelines sometimes stifle, especially as software scales.</description>
     </item>
   </channel>
 </rss>

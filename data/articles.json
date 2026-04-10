@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-04-09T22:11:27.200Z",
+  "last_updated": "2026-04-10T22:08:49.645Z",
   "articles": [
+    {
+      "id": "a73a4e39e54e635b",
+      "title": "Y2K 2.0: The AI security reckoning",
+      "url": "https://anildash.com/2026/04/10/y2k-2.0-ai-security/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-10T00:00:00.000Z",
+      "summary_en": "The rise of advanced LLMs has significantly accelerated the discovery and exploitation of software vulnerabilities. By automating code analysis and personalizing attack vectors, AI tools have democratized access to sophisticated cyberattacks, posing a systemic threat to digital infrastructure.",
+      "summary_zh": "先進的 AI 模型大幅加速了軟體漏洞的發現與利用。透過自動化程式碼分析與客製化攻擊手法，AI 工具降低了發動複雜網路攻擊的門檻，對數位基礎設施構成了系統性的威脅。",
+      "keywords": [
+        "AI security",
+        "LLM",
+        "vulnerability",
+        "cybersecurity",
+        "software exploitation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual shift in how AI-driven tools are fundamentally changing the landscape of software security and cyber threats.",
+      "pacer_reason_zh": "本文旨在解釋人工智慧技術如何從概念上根本性地改變軟體安全與網路威脅的格局。"
+    },
+    {
+      "id": "d5825c8f7823d299",
+      "title": "watgo - a WebAssembly Toolkit for Go",
+      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-04-10T02:28:00.000Z",
+      "summary_en": "Eli Bendersky introduces watgo, a zero-dependency Go toolkit for WebAssembly that allows parsing, validating, encoding, and decoding WASM files. The toolkit provides both a CLI for command-line tasks and a Go API for programmatically manipulating WebAssembly modules via the wasmir semantic representation.",
+      "summary_zh": "Eli Bendersky 推出了 watgo，這是一個用於 WebAssembly 的純 Go 工具包，無需額外依賴即可進行 WASM 檔案的解析、驗證、編碼與解碼。該工具包同時提供 CLI 指令列工具與 Go API，讓開發者能透過 wasmir 語義表示層來操作 WebAssembly 模組。",
+      "keywords": [
+        "watgo",
+        "WebAssembly",
+        "Go",
+        "WASM",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an announcement and a tutorial-style introduction to a new software tool, demonstrating how to use its CLI and API.",
+      "pacer_reason_zh": "本文作為新軟體工具的公告與導覽，示範了如何使用該工具的 CLI 與 API，具備教學性質。"
+    },
+    {
+      "id": "2a91e99e0a2c87aa",
+      "title": "The Solitaire Shuffle",
+      "url": "https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-04-10T03:47:04.000Z",
+      "summary_en": "This article explores the enduring appeal of Solitaire as a meditative and mentally stimulating pastime. It highlights the variety of the game's iterations and discusses a UCLA CRESST study suggesting that playing Solitaire may have positive impacts on cognitive function.",
+      "summary_zh": "本文探討了單人紙牌遊戲（Solitaire）作為一種靜心且具備心智刺激的消遣活動的長久魅力。文章介紹了該遊戲的多樣性，並引用了一項加州大學洛杉磯分校（UCLA）的研究，指出玩紙牌遊戲可能有助於維持認知功能。",
+      "keywords": [
+        "Solitaire",
+        "card games",
+        "cognitive health",
+        "meditation",
+        "Tedium"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on the discussion and results of a research study conducted by UCLA regarding the cognitive benefits of Solitaire.",
+      "pacer_reason_zh": "本文重點討論了由加州大學洛杉磯分校（UCLA）進行的一項關於紙牌遊戲對認知功能益處的研究及其結果。"
+    },
+    {
+      "id": "b227b72741e9ae05",
+      "title": "Package Registries and Pagination",
+      "url": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-10T10:00:00.000Z",
+      "summary_en": "Legacy package registry APIs like npm and PyPI suffer from performance issues because they return full version history in single, massive JSON responses. These decade-old designs lack pagination, causing modern, high-volume packages to hit size limits and memory overhead during parsing.",
+      "summary_zh": "npm 與 PyPI 等老牌軟體包註冊表的 API 設計過於陳舊，因其在單一回應中回傳所有版本歷史，導致效能瓶頸與解析負擔。這些缺乏分頁機制的 API 設計在面對現代軟體包數量暴增時，常面臨資料傳輸量過大與硬性容量限制的問題。",
+      "keywords": [
+        "npm",
+        "PyPI",
+        "API design",
+        "pagination",
+        "software engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific benchmarks, data sizes, and case studies (like Renovate's E406 error) to demonstrate the technical limitations of existing package registry APIs.",
+      "pacer_reason_zh": "本文引用了具體的效能基準、資料大小以及案例研究（如 Renovate 遭遇的 E406 錯誤），以論證現有軟體包註冊表 API 的技術限制。"
+    },
+    {
+      "id": "a237192d7a03ca05",
+      "title": "Why I quit \"The Strive\"",
+      "url": "https://www.joanwestenberg.com/why-i-quit-the-strive/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-10T01:50:12.000Z",
+      "summary_en": "The author announces the end of their previous newsletter project, 'The Strive,' while detailing the future direction of their paid subscription model. They emphasize maintaining free access to core content while offering premium benefits like community access and ad-free reading for supporters.",
+      "summary_zh": "作者宣布結束其名為「The Strive」的電子報項目，並說明了未來付費訂閱模式的發展方向。他們強調將維持核心內容的免費閱讀，同時為支持者提供社區訪問權限及無廣告的閱讀體驗等額外福利。",
+      "keywords": [
+        "newsletter",
+        "subscription",
+        "business model",
+        "creator economy",
+        "content strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as an announcement explaining the author's change in content strategy and business philosophy.",
+      "pacer_reason_zh": "該文章為一則公告，旨在解釋作者在內容策略與商業理念上的調整。"
+    },
+    {
+      "id": "649f6b8ed92a5b26",
+      "title": "In defense of GitHub's poor uptime",
+      "url": "https://evanhahn.com/in-defense-of-githubs-poor-uptime/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-04-10T00:00:00.000Z",
+      "summary_en": "This article challenges the perception that GitHub's uptime is failing by explaining how uptime statistics can be misleading when applied to complex, multi-service platforms. The author argues that aggregate metrics often unfairly penalize systems for having independent, non-overlapping service outages.",
+      "summary_zh": "本文探討了 GitHub 的運行時間問題，指出僅從公開數據評斷其服務品質可能會產生誤導。作者解釋了多個獨立服務的故障如何被加總計算，導致整體可用性數字看起來比實際體驗更差。",
+      "keywords": [
+        "GitHub",
+        "uptime",
+        "availability",
+        "statistics",
+        "engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a technical concept regarding how uptime statistics are calculated and interpreted, challenging common assumptions about service reliability.",
+      "pacer_reason_zh": "本文解釋了關於運作時間統計數據如何計算與解讀的概念，並挑戰了大眾對於服務可靠性的常見假設。"
+    },
+    {
+      "id": "a51e2c6cc154088e",
+      "title": "Distribution of digits in fractions",
+      "url": "https://www.johndcook.com/blog/2026/04/10/fraction-digits/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-10T14:29:49.000Z",
+      "summary_en": "This article explores the distribution of digits in the decimal representations of fractions. It highlights interesting, lesser-known mathematical patterns that emerge when analyzing these basic numerical forms.",
+      "summary_zh": "本文探討了分數在小數表示法中數字的分佈情形。作者透過數學分析，揭示了即使是在基礎數學領域中，也存在著許多鮮為人知的有趣規律。",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "decimal",
+        "number theory",
+        "digits"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical concept regarding the properties of fractions and their digit distributions.",
+      "pacer_reason_zh": "本文旨在解釋關於分數性質及其數字分佈的特定數學概念。"
+    },
+    {
+      "id": "81fd2bf12018cef2",
+      "title": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-10T14:00:00.000Z",
+      "summary_en": "This article continues the discussion on modifying handles within an active WaitForMultipleObjects call. It specifically focuses on the synchronization mechanism required to ensure the waiting thread correctly acknowledges handle changes.",
+      "summary_zh": "本文延續了關於如何在作用中的 WaitForMultipleObjects 呼叫中修改控制代碼的討論。文中特別探討了確保等待執行緒正確確認控制代碼變更所需的同步機制。",
+      "keywords": [
+        "Windows API",
+        "WaitForMultipleObjects",
+        "multithreading",
+        "synchronization",
+        "handles"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides technical guidance and step-by-step logic for managing handle states in API programming.",
+      "pacer_reason_zh": "本文針對 API 程式設計中控制代碼狀態的管理，提供了技術指導與步驟邏輯。"
+    },
+    {
+      "id": "860fdc4e8b93d13e",
+      "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/10/canny-valley/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-10T09:57:16.000Z",
+      "summary_en": "Cory Doctorow reflects on his history of successful Kickstarter campaigns for his books, emphasizing his commitment to creating unique, limited-edition physical items for his readers. He highlights the balance between producing DRM-free digital content and creating tangible collector's pieces.",
+      "summary_zh": "Cory Doctorow 回顧了他為書籍進行的多次成功 Kickstarter 募資活動，並強調了他致力於為讀者創作獨特、限量版實體物品的初衷。他同時探討了在提供無 DRM 數位內容與製作具有收藏價值的實體書籍之間取得平衡的理念。",
+      "keywords": [
+        "Cory Doctorow",
+        "Kickstarter",
+        "Enshittification",
+        "Crowdfunding",
+        "Limited Edition"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses the author's personal experience with successful crowdfunding as a case study for his publishing and engagement strategy.",
+      "pacer_reason_zh": "文章以作者個人經營眾籌活動的成功經驗作為案例研究，說明其出版策略與讀者互動模式。"
+    },
+    {
+      "id": "81205f45cd9d2a84",
+      "title": "Kākāpō parrots",
+      "url": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-10T19:07:02.000Z",
+      "summary_en": "Simon Willison shares a video snippet from a recent podcast episode featuring a discussion about Kākāpō parrots. The post provides a direct link to the short video clip and references the full-length podcast recording.",
+      "summary_zh": "Simon Willison 分享了一段來自近期播客節目的片段，內容討論了鴞鸚鵡（Kākāpō）。文中提供了該短片的連結，並提及了完整的播客錄音內容。",
+      "keywords": [
+        "kakapo",
+        "podcast",
+        "simon willison",
+        "nature",
+        "video"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a reference or pointer to specific media content and a podcast recording rather than providing instruction or analysis.",
+      "pacer_reason_zh": "這篇文章主要作為特定媒體內容與播客錄音的參考或導引，而非提供教學或深入分析。"
+    },
+    {
+      "id": "4a10802ac87cd911",
+      "title": "ChatGPT voice mode is a weaker model",
+      "url": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-10T15:56:02.000Z",
+      "summary_en": "Simon Willison highlights that OpenAI's ChatGPT voice mode often uses a less capable model than expected, contradicting the assumption that voice-accessible AI is the most powerful. The post references Andrej Karpathy's analysis on why some AI domains, like coding, advance faster due to explicit reward functions and high B2B value.",
+      "summary_zh": "Simon Willison 指出 ChatGPT 的語音模式其實運行在比預期更弱的模型上，並非大眾認為的最強版本。本文引用 Andrej Karpathy 的觀點，解釋為何程式編寫等領域的 AI 進步較快，主要歸因於明確的獎勵函數及高商業價值。",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "AI",
+        "Andrej Karpathy",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation regarding the discrepancies in AI model capabilities across different access points and usage domains.",
+      "pacer_reason_zh": "本文對人工智慧模型在不同使用場景與存取點下的能力差異進行了概念性解釋。"
+    },
     {
       "id": "9c2788e6ec779a30",
       "title": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",

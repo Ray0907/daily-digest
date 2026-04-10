@@ -1,6 +1,182 @@
 {
   "nodes": [
     {
+      "id": "81205f45cd9d2a84",
+      "title": "Kākāpō parrots",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "kakapo",
+        "podcast",
+        "simon willison",
+        "nature",
+        "video"
+      ],
+      "published": "2026-04-10T19:07:02.000Z"
+    },
+    {
+      "id": "4a10802ac87cd911",
+      "title": "ChatGPT voice mode is a weaker model",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "AI",
+        "Andrej Karpathy",
+        "LLM"
+      ],
+      "published": "2026-04-10T15:56:02.000Z"
+    },
+    {
+      "id": "a51e2c6cc154088e",
+      "title": "Distribution of digits in fractions",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/10/fraction-digits/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "decimal",
+        "number theory",
+        "digits"
+      ],
+      "published": "2026-04-10T14:29:49.000Z"
+    },
+    {
+      "id": "81fd2bf12018cef2",
+      "title": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?, part 2",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223",
+      "pacer": "P",
+      "keywords": [
+        "Windows API",
+        "WaitForMultipleObjects",
+        "multithreading",
+        "synchronization",
+        "handles"
+      ],
+      "published": "2026-04-10T14:00:00.000Z"
+    },
+    {
+      "id": "b227b72741e9ae05",
+      "title": "Package Registries and Pagination",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html",
+      "pacer": "E",
+      "keywords": [
+        "npm",
+        "PyPI",
+        "API design",
+        "pagination",
+        "software engineering"
+      ],
+      "published": "2026-04-10T10:00:00.000Z"
+    },
+    {
+      "id": "860fdc4e8b93d13e",
+      "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/10/canny-valley/",
+      "pacer": "E",
+      "keywords": [
+        "Cory Doctorow",
+        "Kickstarter",
+        "Enshittification",
+        "Crowdfunding",
+        "Limited Edition"
+      ],
+      "published": "2026-04-10T09:57:16.000Z"
+    },
+    {
+      "id": "2a91e99e0a2c87aa",
+      "title": "The Solitaire Shuffle",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history",
+      "pacer": "E",
+      "keywords": [
+        "Solitaire",
+        "card games",
+        "cognitive health",
+        "meditation",
+        "Tedium"
+      ],
+      "published": "2026-04-10T03:47:04.000Z"
+    },
+    {
+      "id": "d5825c8f7823d299",
+      "title": "watgo - a WebAssembly Toolkit for Go",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "pacer": "P",
+      "keywords": [
+        "watgo",
+        "WebAssembly",
+        "Go",
+        "WASM",
+        "programming"
+      ],
+      "published": "2026-04-10T02:28:00.000Z"
+    },
+    {
+      "id": "a237192d7a03ca05",
+      "title": "Why I quit \"The Strive\"",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/why-i-quit-the-strive/",
+      "pacer": "C",
+      "keywords": [
+        "newsletter",
+        "subscription",
+        "business model",
+        "creator economy",
+        "content strategy"
+      ],
+      "published": "2026-04-10T01:50:12.000Z"
+    },
+    {
+      "id": "a73a4e39e54e635b",
+      "title": "Y2K 2.0: The AI security reckoning",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "url": "https://anildash.com/2026/04/10/y2k-2.0-ai-security/",
+      "pacer": "C",
+      "keywords": [
+        "AI security",
+        "LLM",
+        "vulnerability",
+        "cybersecurity",
+        "software exploitation"
+      ],
+      "published": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "649f6b8ed92a5b26",
+      "title": "In defense of GitHub's poor uptime",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/in-defense-of-githubs-poor-uptime/",
+      "pacer": "C",
+      "keywords": [
+        "GitHub",
+        "uptime",
+        "availability",
+        "statistics",
+        "engineering"
+      ],
+      "published": "2026-04-10T00:00:00.000Z"
+    },
+    {
       "id": "927e37163b3ccb5b",
       "title": "GitHub Repo Size",
       "source": "Simon Willison's Weblog",
@@ -305,22 +481,6 @@
       "published": "2026-04-08T16:00:00.000Z"
     },
     {
-      "id": "646b342f150f7637",
-      "title": "Quoting Giles Turnbull",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "ethics",
-        "human-ai",
-        "professionalism",
-        "technology"
-      ],
-      "published": "2026-04-08T15:18:49.000Z"
-    },
-    {
       "id": "3fb0ff1bbf92de4b",
       "title": "How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?",
       "source": "The Old New Thing",
@@ -431,22 +591,6 @@
         "AI Agents"
       ],
       "published": "2026-04-08T00:00:00.000Z"
-    },
-    {
-      "id": "a76d763a82ff4ac4",
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "GLM-5.1",
-        "AI",
-        "SVG",
-        "LLM",
-        "Generative AI"
-      ],
-      "published": "2026-04-07T21:25:14.000Z"
     },
     {
       "id": "a43422fe0f90da63",
@@ -575,22 +719,6 @@
         "freelancing"
       ],
       "published": "2026-04-07T01:53:05.000Z"
-    },
-    {
-      "id": "3438ad0204acc95e",
-      "title": "Toffoli gates are all you need",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "pacer": "C",
-      "keywords": [
-        "Landauer's principle",
-        "Toffoli gates",
-        "thermodynamics",
-        "information theory",
-        "reversible computing"
-      ],
-      "published": "2026-04-07T00:33:23.000Z"
     },
     {
       "id": "e553ef725b57e793",
@@ -881,38 +1009,6 @@
       "published": "2026-04-04T12:01:37.000Z"
     },
     {
-      "id": "36df06849a9055df",
-      "title": "What does Open Source mean?",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html",
-      "pacer": "C",
-      "keywords": [
-        "open source",
-        "definitions",
-        "software development",
-        "licensing",
-        "business models"
-      ],
-      "published": "2026-04-04T10:00:00.000Z"
-    },
-    {
-      "id": "154777f0b1a37cec",
-      "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/04/digital-subjugation/",
-      "pacer": "C",
-      "keywords": [
-        "EU",
-        "Trump",
-        "tech regulation",
-        "digital surveillance",
-        "monopoly"
-      ],
-      "published": "2026-04-04T07:49:19.000Z"
-    },
-    {
       "id": "f80e9a26cc3fa2b6",
       "title": "Value numbering",
       "source": "Max Bernstein's Blog",
@@ -959,22 +1055,6 @@
         "Absurd"
       ],
       "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
-      "id": "065fe62d52ebfd14",
-      "title": "How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202",
-      "pacer": "C",
-      "keywords": [
-        "ReadDirectoryChangesW",
-        "Windows API",
-        "File System",
-        "Programming",
-        "System Architecture"
-      ],
-      "published": "2026-04-03T14:00:00.000Z"
     },
     {
       "id": "b3eb6f0d51bf5c12",
@@ -1355,22 +1435,6 @@
       "published": "2026-04-01T00:00:00.000Z"
     },
     {
-      "id": "902049f2893fc678",
-      "title": "The Entire Internet Is a UGC Reaction Video Now",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/",
-      "pacer": "C",
-      "keywords": [
-        "UGC",
-        "Internet culture",
-        "digital society",
-        "reaction videos",
-        "online behavior"
-      ],
-      "published": "2026-03-31T23:32:07.000Z"
-    },
-    {
       "id": "2e7204b82561ff55",
       "title": "Infinite midwit",
       "source": "Experimental History",
@@ -1603,16 +1667,6 @@
       "published": "2026-03-27T17:23:28.000Z"
     },
     {
-      "id": "2306357971e0d44d",
-      "title": "An Intention Upgrade",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T15:56:07.000Z"
-    },
-    {
       "id": "ed4e12b08808b204",
       "title": "System shock",
       "source": "Aresluna",
@@ -1658,16 +1712,6 @@
       "source": "seangoedecke.com RSS feed",
       "source_url": "https://seangoedecke.com",
       "url": "https://seangoedecke.com/working-on-products-people-hate/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T00:00:00.000Z"
-    },
-    {
-      "id": "8d828d2a6e92be43",
-      "title": "Endgame for the Open Web",
-      "source": "Anil Dash",
-      "source_url": "https://anildash.com/",
-      "url": "https://anildash.com/2026/03/27/endgame-open-web/",
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-27T00:00:00.000Z"
@@ -2303,22 +2347,6 @@
       "published": "2026-03-12T00:00:00.000Z"
     },
     {
-      "id": "3ff75b089f81edc2",
-      "title": "How I use generative AI on this blog",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/how-i-use-gen-ai-on-this-blog/",
-      "pacer": "P",
-      "keywords": [
-        "Generative AI",
-        "Blogging",
-        "Writing process",
-        "AI ethics",
-        "Local LLM"
-      ],
-      "published": "2026-03-12T00:00:00.000Z"
-    },
-    {
       "id": "2519fde9f06e6522",
       "title": "The modern formatting addiction in writing",
       "source": "DYNOMIGHT",
@@ -2767,6 +2795,36 @@
     }
   ],
   "links": [
+    {
+      "source": "81fd2bf12018cef2",
+      "target": "4662e22e8a19865c",
+      "shared_keywords": [
+        "Windows API",
+        "WaitForMultipleObjects",
+        "multithreading"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "81fd2bf12018cef2",
+      "target": "3fb0ff1bbf92de4b",
+      "shared_keywords": [
+        "Windows API",
+        "multithreading",
+        "handles"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "a237192d7a03ca05",
+      "target": "ad6cc46d25802300",
+      "shared_keywords": [
+        "newsletter",
+        "subscription",
+        "content strategy"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "9c2788e6ec779a30",
       "target": "c88ef4bc96c22d50",
