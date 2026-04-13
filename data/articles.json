@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-04-12T22:05:48.066Z",
+  "last_updated": "2026-04-13T22:13:35.021Z",
   "articles": [
+    {
+      "id": "1b9c3021769c95be",
+      "title": "A little tool to visualise MoE expert routing",
+      "url": "https://martinalderson.com/posts/moe-expert-routing-visualization/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-04-13T00:00:00.000Z",
+      "summary_en": "The author created a visualization tool to observe how Mixture of Experts (MoE) models route tokens across different experts. The tool provides a transparent look into the internal decision-making processes of these complex neural network architectures.",
+      "summary_zh": "作者開發了一款視覺化工具，用於觀察混合專家模型（MoE）如何將權杖（tokens）分配給不同的專家。該工具能讓人直觀地了解這些複雜神經網路架構內部的運作決策過程。",
+      "keywords": [
+        "MoE",
+        "Mixture of Experts",
+        "Data Visualization",
+        "Machine Learning",
+        "AI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post focuses on the creation and demonstration of a utility tool designed for specific visualization tasks.",
+      "pacer_reason_zh": "本文重點在於介紹一款專為特定視覺化任務所開發的實用工具及其功能演示。"
+    },
+    {
+      "id": "07c75eb997149bc2",
+      "title": "give-them-two-choices",
+      "url": "https://chadnauseam.com/coding/tips/give-them-two-choices",
+      "source": "Chad Nauseam Home",
+      "source_url": "https://chadnauseam.com/",
+      "published": "2026-04-13T22:12:27.465Z",
+      "summary_en": "This article discusses the psychological strategy of offering two choices to influence behavior or decision-making. It likely explores how limiting options can simplify the process and increase the likelihood of a positive outcome.",
+      "summary_zh": "本文探討了提供「二選一」選項來影響他人行為或決策的心理策略。文章可能分析了限制選擇如何簡化決策過程，並提高達成預期結果的可能性。",
+      "keywords": [
+        "decision-making",
+        "psychology",
+        "choice-architecture",
+        "influence",
+        "strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The topic focuses on a conceptual psychological framework for decision-making.",
+      "pacer_reason_zh": "該主題側重於決策過程中的概念性心理框架。"
+    },
+    {
+      "id": "a8db07f47bb1bb77",
+      "title": "That’s a Skill Issue",
+      "url": "https://blog.jim-nielsen.com/2026/skill-issue/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-12T19:00:00.000Z",
+      "summary_en": "The author contrasts tech-centered and human-centered design philosophies, noting how the former blames users for 'skill issues' while the latter treats user confusion as a design failure. By highlighting the difference between demanding users master complex 'incantations' and designing intuitive systems, the post argues for a more empathetic approach to tool creation.",
+      "summary_zh": "作者對比了以技術為中心與以人為中心的設計理念，指出前者將使用者的挫折歸咎於「技術問題」，而後者則視其為設計缺陷。文章強調，比起要求使用者學習複雜的「咒語」，開發者更應採取同理心，設計出符合人類直覺的工具。",
+      "keywords": [
+        "UX design",
+        "human-centered",
+        "AI",
+        "tool-making",
+        "design philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores and defines the conceptual difference between user-blaming tech-centered design and empathetic human-centered design.",
+      "pacer_reason_zh": "內容探討並定義了以技術為中心（責怪用戶）與以人為中心（同理用戶）設計理念之間的觀念差異。"
+    },
+    {
+      "id": "ce30fab4f24e8cdb",
+      "title": "The ‘Everyone’s a Billionaire’ act",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-12T16:00:00.000Z",
+      "summary_en": "The author proposes a satirical solution to wealth inequality by printing one billion dollars for every American citizen. The post explores the immediate benefits of universal wealth while acknowledging the inevitable hyperinflation that would render the dollar worthless and necessitate a move toward non-fiat currencies like gold.",
+      "summary_zh": "作者提出了一項諷刺性的解決方案，建議透過大量印鈔讓每位美國公民都成為億萬富翁。文章探討了實現全民財富的即時快感，並指出這將導致惡性通貨膨脹，迫使經濟轉向黃金等非法定貨幣體系。",
+      "keywords": [
+        "inflation",
+        "satire",
+        "billionaires",
+        "monetary policy",
+        "economy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an absurd, hyperbolic analogy to demonstrate the flaws in modern monetary policy and fiat currency systems.",
+      "pacer_reason_zh": "文章透過荒謬且誇張的類比，來論證現代貨幣政策與法幣體系的根本缺陷。"
+    },
+    {
+      "id": "8a52a54a894081ff",
+      "title": "Common Package Specification",
+      "url": "https://nesbitt.io/2026/04/13/common-package-specification.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-13T10:00:00.000Z",
+      "summary_en": "The Common Package Specification (CPS) provides a unified JSON format for C++ build systems like CMake and Meson to describe installed libraries. By replacing fragmented methods like .pc files and Config.cmake scripts, CPS simplifies dependency management and improves binary data extraction for tooling.",
+      "summary_zh": "「通用套件規範」（CPS）為 CMake 和 Meson 等 C++ 建置系統提供了一種統一的 JSON 格式，用於描述已安裝的函式庫。此規範取代了過往零散的 .pc 檔案與 Config.cmake 腳本，簡化了相依性管理並增強了工具對二進位資料的提取能力。",
+      "keywords": [
+        "CPS",
+        "CMake",
+        "C++",
+        "Dependency Management",
+        "Build Systems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept and purpose of the Common Package Specification, detailing its role in standardizing library metadata across build systems.",
+      "pacer_reason_zh": "本文解釋了「通用套件規範」的概念與目的，詳述了其在跨建置系統統一函式庫元資料中的角色。"
+    },
+    {
+      "id": "d87a8caa0d51344a",
+      "title": "Sometimes powerful people just do dumb shit",
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-13T06:01:21.000Z",
+      "summary_en": "This post discusses the tendency of powerful individuals to engage in irrational or foolish behavior. It highlights the author's platform and subscription model for those seeking additional content and community access.",
+      "summary_zh": "本文探討了權勢人物有時會做出愚蠢決策的現象。同時介紹了作者的訂閱模式，供希望獲取更多內容及參與社群互動的讀者參考。",
+      "keywords": [
+        "power",
+        "decision-making",
+        "behavior",
+        "newsletter",
+        "subscription"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article offers a conceptual reflection on human behavior and the nature of leadership decision-making.",
+      "pacer_reason_zh": "本文針對人類行為與領導者決策本質提供了概念性的反思。"
+    },
+    {
+      "id": "f8e5052136b53f61",
+      "title": "Mathematical minimalism",
+      "url": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-13T14:33:16.000Z",
+      "summary_en": "This article discusses a mathematical finding by Andrzej Odrzywolek demonstrating that all elementary arithmetic operations can be derived from a single function and the constant 1. It highlights the concept of mathematical minimalism by showing how complex operations like multiplication and division can be bootstrapped from basic definitions.",
+      "summary_zh": "本文介紹了 Andrzej Odrzywolek 的數學研究，展示了如何僅利用單一函數與常數 1 推導出所有基本算術運算。文章強調了數學極簡主義的概念，說明了加、減、乘、除等複雜運算均可從基本定義中構建而出。",
+      "keywords": [
+        "mathematical minimalism",
+        "elementary functions",
+        "Andrzej Odrzywolek",
+        "arithmetic",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains a theoretical mathematical concept regarding the derivation of elementary functions.",
+      "pacer_reason_zh": "該文章解釋了關於基本函數推導的理論數學概念。"
+    },
+    {
+      "id": "72b852fe229f06c8",
+      "title": "Lunar period approximations",
+      "url": "https://www.johndcook.com/blog/2026/04/12/lunations/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-12T23:42:01.000Z",
+      "summary_en": "This article discusses the historical and astronomical origins of how Easter is calculated, based on the lunisolar calendar. It explores the relationship between the Spring equinox and the full moon cycle in establishing the date.",
+      "summary_zh": "本文探討了復活節日期計算的歷史與天文背景，重點說明復活節如何根據春分與滿月週期的陰陽曆規則來訂定。文中解析了教會為了紀念特定事件而將節日對應至羅馬儒略曆的過程。",
+      "keywords": [
+        "Easter",
+        "lunisolar calendar",
+        "astronomy",
+        "Julian calendar",
+        "Spring equinox"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying historical and astronomical concepts behind how the date of Easter is determined.",
+      "pacer_reason_zh": "本文解釋了決定復活節日期背後的歷史與天文概念。"
+    },
+    {
+      "id": "90ab43ead46b57ff",
+      "title": "Finding a duplicated item in an array of N integers in the range 1 to N − 1",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-13T14:00:00.000Z",
+      "summary_en": "This article explores efficient algorithms for identifying duplicate values within an array of N integers ranging from 1 to N-1. It emphasizes leveraging the specific mathematical properties of the data set to optimize the search process.",
+      "summary_zh": "本文探討了在範圍為 1 到 N-1 且包含 N 個整數的陣列中，尋找重複項的高效演算法。文中強調了利用資料集的特殊數學特性來優化搜尋過程。",
+      "keywords": [
+        "algorithms",
+        "arrays",
+        "data-structures",
+        "programming",
+        "optimization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the methodology and techniques for solving a specific programming problem, functioning as a technical how-to.",
+      "pacer_reason_zh": "本文側重於解決特定程式設計問題的方法與技巧，屬於技術教學性質。"
+    },
+    {
+      "id": "b19a21c64dfae6f6",
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-13T11:34:48.000Z",
+      "summary_en": "Android's latest update restricts the ability of web-based file pickers to access EXIF geolocation metadata in user photos. This change impacts websites like OpenBenches that rely on embedded location data to map uploaded images.",
+      "summary_zh": "Android 的最新更新限制了網頁檔案選擇器存取照片中 EXIF 地理位置元數據的能力。此變更影響了 OpenBenches 等依賴照片內嵌定位資訊來進行地圖標記的網站。",
+      "keywords": [
+        "Android",
+        "Privacy",
+        "Metadata",
+        "Geolocation",
+        "Web Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a technical change in Android's functionality and its conceptual impact on how web applications handle image metadata.",
+      "pacer_reason_zh": "文章解釋了 Android 功能的技術性變更，以及這對 Web 應用程式處理影像元數據所帶來的概念性影響。"
+    },
+    {
+      "id": "3d3c300d6fda0e7b",
+      "title": "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/12/always-great/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-13T05:29:27.000Z",
+      "summary_en": "Cory Doctorow critiques the billionaire-driven 'AI psychosis,' arguing that massive capital investment in unprofitable AI risks a systemic market collapse. He contends that austerity policies have left the average worker so financially vulnerable that they have little to lose from a stock market crash, while highlighting the dangers of centralized corporate power.",
+      "summary_zh": "Cory Doctorow 批評億萬富翁驅動的「AI 精神錯亂」，認為在毫無獲利的 AI 技術上投入巨資可能導致市場崩潰。他指出，緊縮政策使普通勞工的財務極度脆弱，即便股市崩盤，勞工也因存款微薄而無錢可損，並強調了企業權力過度集中的危險性。",
+      "keywords": [
+        "AI",
+        "austerity",
+        "capitalism",
+        "finance",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of economic theory, market behavior, and the sociopolitical implications of AI investment.",
+      "pacer_reason_zh": "該文章針對經濟理論、市場行為以及人工智慧投資帶來的社會政治影響，提供了概念性的批判分析。"
+    },
+    {
+      "id": "17f1e1c51b4dac6e",
+      "title": "You paid for it, you should be comfortable in it ",
+      "url": "https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-13T12:00:00.000Z",
+      "summary_en": "The author reflects on the philosophy of customizing physical objects for personal comfort, sparked by seeing a friend drastically modify a high-end Tesla Roadster. This perspective shifts the author's view on hardware flaws, moving from passive endurance to the idea that users have the agency to adapt tools to fit their specific physical needs.",
+      "summary_zh": "作者從朋友對昂貴的特斯拉跑車進行極端客製化以提升舒適度的經歷中獲得啟發。這段體驗改變了作者看待工具缺陷的觀點，從被動忍受轉向認為使用者有權利根據自身需求調整硬體設計。",
+      "keywords": [
+        "customization",
+        "user experience",
+        "ergonomics",
+        "Tesla",
+        "hardware modification"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of physical hardware modification to explain a broader philosophy about personal agency and user experience.",
+      "pacer_reason_zh": "本文透過物理硬體修改的案例作為類比，探討關於個人主導權與使用者體驗的廣泛哲學觀點。"
+    },
+    {
+      "id": "3a6a4cad12794385",
+      "title": "Quoting Steve Yegge",
+      "url": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-13T20:59:45.000Z",
+      "summary_en": "Steve Yegge observes that Google's internal AI adoption mirrors the rest of the industry, with a divide between agentic power users and reluctant adopters. He argues that prolonged hiring freezes have created an echo chamber, preventing the influx of external talent needed to address the company's stagnant engineering culture.",
+      "summary_zh": "Steve Yegge 指出 Google 內部的 AI 採用狀況與產業趨勢一致，員工在進階代理人應用與保守使用之間存在明顯落差。他認為長期的招聘凍結導致 Google 缺乏外部人才注入，進而造成內部工程文化陷入停滯與平庸。",
+      "keywords": [
+        "Google",
+        "Steve Yegge",
+        "AI adoption",
+        "engineering culture",
+        "generative AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides conceptual analysis and commentary on organizational culture and industry-wide AI adoption trends.",
+      "pacer_reason_zh": "本文針對組織文化與產業 AI 採用趨勢提供了概念性的分析與評論。"
+    },
+    {
+      "id": "97161a5e858ab0c8",
+      "title": "Exploring the new `servo` crate",
+      "url": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-13T15:04:00.000Z",
+      "summary_en": "This post explores the newly released Servo crate, which allows the Servo browser engine to be embedded as a library in Rust projects. The author uses Claude Code to build a CLI screenshot tool and demonstrates that while compiling full Servo to WebAssembly is currently infeasible, its components like html5ever can be compiled for web use.",
+      "summary_zh": "本文探討了新發布的 Servo crate，該套件允許開發者將 Servo 瀏覽器引擎作為函式庫嵌入到 Rust 專案中。作者利用 Claude Code 建立了一個指令列截圖工具，並驗證了儘管將完整的 Servo 編譯為 WebAssembly 不可行，但其底層組件如 html5ever 仍能用於 Web 環境。",
+      "keywords": [
+        "Servo",
+        "Rust",
+        "WebAssembly",
+        "CLI",
+        "Browser Engine"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the process of exploring a new library through practical implementation and provides instructions for building a CLI tool.",
+      "pacer_reason_zh": "文章透過實作過程描述如何探索新函式庫，並提供了建置指令列工具的操作說明。"
+    },
+    {
+      "id": "c9afe85f29f05d19",
+      "title": "Quoting Bryan Cantrill",
+      "url": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-13T02:44:24.000Z",
+      "summary_en": "Bryan Cantrill argues that LLMs lack the innate human 'virtue of laziness,' which typically forces developers to create efficient, crisp abstractions. Without this constraint, LLMs tend to generate overly complex, bloated systems that prioritize quantity over quality.",
+      "summary_zh": "Bryan Cantrill 指出大型語言模型（LLM）缺乏人類天生的「懶惰美德」，而這種美德正是驅使開發者創造精簡抽象架構的動力。若無此限制，LLM 傾向於產生冗長臃腫的系統，導致程式碼品質下降。",
+      "keywords": [
+        "LLM",
+        "abstraction",
+        "software-engineering",
+        "AI",
+        "Bryan-Cantrill"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a theoretical observation regarding the limitations of AI and the conceptual importance of human constraints in software design.",
+      "pacer_reason_zh": "內容探討了關於 AI 局限性的理論觀察，以及人類限制在軟體設計中的概念性重要性。"
+    },
+    {
+      "id": "c1790800b77bb6e7",
+      "title": "Gemma 4 audio with MLX",
+      "url": "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-12T23:57:53.000Z",
+      "summary_en": "This post provides a practical guide on how to transcribe audio files on macOS using Google's Gemma 4 model via the MLX framework. It includes a specific command line recipe using the uv tool to run the transcription process efficiently.",
+      "summary_zh": "這篇文章提供了在 macOS 上使用 MLX 框架運行 Google Gemma 4 模型來進行語音轉文字的實作指南。文中並附帶了使用 uv 工具執行模型轉錄任務的具體指令與範例。",
+      "keywords": [
+        "Gemma 4",
+        "MLX",
+        "audio transcription",
+        "macOS",
+        "uv"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable command-line recipe for users to perform audio transcription, making it a procedural how-to guide.",
+      "pacer_reason_zh": "本文提供了具體且可執行的指令，引導使用者進行語音轉錄，屬於程序性的教學指南。"
+    },
     {
       "id": "583762ce6570d21e",
       "title": "Optimism is not a personality flaw",
