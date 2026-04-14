@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-04-13T22:13:35.021Z",
+  "last_updated": "2026-04-14T22:13:53.466Z",
   "articles": [
+    {
+      "id": "f5ea5e5b8931005a",
+      "title": "Nothing ever dies. It merely becomes embarrassing.",
+      "url": "https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-04-14T16:16:42.000Z",
+      "summary_en": "This article explores the 'Halo theory of science,' arguing that scientific ideas never truly disappear but instead persist in evolving, often awkward forms. The author examines how outdated concepts linger in our discourse, suggesting that cultural memory preserves them long after their original utility has faded.",
+      "summary_zh": "本文探討了科學的「光環理論」，認為科學概念永遠不會真正消失，而是會以不斷演變且往往尷尬的形式持續存在。作者剖析了過時的概念如何長期殘留在我們的論述中，指出文化記憶會在這些概念失去原始價值後依然將其保留。",
+      "keywords": [
+        "science",
+        "halo theory",
+        "history of science",
+        "cultural memory",
+        "ideas"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a conceptual framework (the Halo theory) regarding how scientific ideas evolve and persist.",
+      "pacer_reason_zh": "本文旨在解釋關於科學思想如何演變與延續的理論框架（光環理論）。"
+    },
+    {
+      "id": "3c555ec4dca2c266",
+      "title": "Weekly Update 499",
+      "url": "https://www.troyhunt.com/weekly-update-499/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-04-14T06:30:56.000Z",
+      "summary_en": "Troy Hunt shares his evolving perspective on using AI assistants like 'Bruce' for customer support. He argues that the value lies not just in full automation, but in how AI can assist humans in crafting responses efficiently.",
+      "summary_zh": "Troy Hunt 分享了他對於使用像「Bruce」這樣的 AI 助理進行客戶支援的看法轉變。他認為 AI 的價值不僅在於全自動回覆，更在於如何協助人類更有效率地撰寫回覆內容。",
+      "keywords": [
+        "AI",
+        "customer support",
+        "automation",
+        "productivity",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explores the conceptual shift in how AI should be integrated into professional workflows, focusing on a new perspective rather than a tutorial or hard data.",
+      "pacer_reason_zh": "該文章探討了 AI 應如何整合進專業工作流程的概念性轉變，側重於分享新的觀點，而非教學指南或數據分析。"
+    },
+    {
+      "id": "d5acd2779b689330",
+      "title": "Object Oriented Programming in Ada",
+      "url": "https://entropicthoughts.com/object-oriented-programming-in-ada",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-04-13T22:00:00.000Z",
+      "summary_en": "This article explores the implementation of Object-Oriented Programming (OOP) principles within the Ada programming language. It examines how Ada's unique features, such as packages and tagged types, facilitate robust software engineering and type safety.",
+      "summary_zh": "本文探討如何在 Ada 程式語言中實作物件導向程式設計（OOP）原則。文中分析了 Ada 的套件（packages）和標記型別（tagged types）等獨特功能，如何協助開發者構建穩健的軟體並提升型別安全。",
+      "keywords": [
+        "Ada",
+        "OOP",
+        "Programming",
+        "Software Engineering",
+        "Tagged Types"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework of OOP within a specific language's architecture.",
+      "pacer_reason_zh": "本文著重於解釋在特定語言架構下物件導向程式設計的概念框架。"
+    },
+    {
+      "id": "02a651357352b8f5",
+      "title": "Standing on the shoulders of Homebrew",
+      "url": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-14T10:00:00.000Z",
+      "summary_en": "The article critiques new Homebrew alternatives like zerobrew and nanobrew, arguing that their performance claims rely on skipping the complex, time-consuming tasks that Homebrew handles. By focusing only on simple package installation, these tools ignore the difficult parts of package management, such as Ruby DSL execution and post-install hooks.",
+      "summary_zh": "本文評論了如 zerobrew 和 nanobrew 等 Homebrew 的替代品，指出其效能優勢在於繞過了 Homebrew 必須處理的複雜且耗時任務。這些工具僅針對簡單的安裝流程進行優化，卻忽略了處理 Ruby DSL 和安裝後腳本等套件管理的實際難點。",
+      "keywords": [
+        "Homebrew",
+        "zerobrew",
+        "nanobrew",
+        "package-manager",
+        "benchmarks"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article evaluates the validity of performance benchmarks and claims made by new software, providing a critical analysis of the evidence.",
+      "pacer_reason_zh": "本文針對新軟體的效能基準測試數據與宣稱進行評估，並提供了批判性的實證分析。"
+    },
+    {
+      "id": "9858164073d02fa1",
+      "title": "Intersecting spheres and GPS",
+      "url": "https://www.johndcook.com/blog/2026/04/14/intersecting-spheres-and-gps/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-14T14:08:36.000Z",
+      "summary_en": "This article explains the geometric principles behind GPS positioning, specifically how distances from satellites are used to determine location. It details how the intersection of spheres creates circles that help narrow down a user's precise coordinate.",
+      "summary_zh": "本文解釋了 GPS 定位的幾何原理，具體說明了如何利用與衛星之間的距離來確定位置。文章闡述了球體相交如何形成圓形，從而幫助縮小使用者的精確座標範圍。",
+      "keywords": [
+        "GPS",
+        "geometry",
+        "satellites",
+        "trilateration",
+        "spheres"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical explanation of the geometric concepts underlying GPS technology.",
+      "pacer_reason_zh": "本文提供了 GPS 技術背後幾何概念的理論性解釋。"
+    },
+    {
+      "id": "83f1b9e3579fe8f5",
+      "title": "Finding a parabola through two points with given slopes",
+      "url": "https://www.johndcook.com/blog/2026/04/14/artz-parabola/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-14T12:19:42.000Z",
+      "summary_en": "This article explores the mathematical process of finding a parabola defined by two points and their respective slopes at those points. The author investigates the geometric properties of 'Artzt parabolas' and demonstrates how to derive the general conic equation to solve for the specific parabola.",
+      "summary_zh": "本文探討了如何根據兩個點及其各自的斜率來求出一條拋物線的數學過程。作者研究了「Artzt 拋物線」的幾何特性，並演示了如何通過推導圓錐曲線的一般方程來求解該拋物線。",
+      "keywords": [
+        "parabola",
+        "geometry",
+        "conic section",
+        "mathematics",
+        "Artzt parabola"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step mathematical derivation for solving a specific geometric problem.",
+      "pacer_reason_zh": "文章提供了針對特定幾何問題的逐步數學推導過程。"
+    },
+    {
+      "id": "f79c387c3b169aa3",
+      "title": "Why was there a red telephone at every receptionist desk?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260414-00/?p=112231",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-14T14:00:00.000Z",
+      "summary_en": "This post clarifies the historical purpose of red telephones found at Microsoft receptionist desks. It dismisses the common myth that they were direct lines to leadership, explaining their actual function instead.",
+      "summary_zh": "這篇文章釐清了微軟接待櫃台放置紅色電話的歷史用途。文中澄清了它們並非直通高層辦公室的專線，並解釋了其背後的實際功能。",
+      "keywords": [
+        "Microsoft",
+        "history",
+        "telephones",
+        "trivia",
+        "office culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation and clarification of a historical office artifact.",
+      "pacer_reason_zh": "該文章針對辦公室歷史文物提供了概念性的解釋與釐清。"
+    },
+    {
+      "id": "18cf453e34ad06a2",
+      "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/14/compartment/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-14T08:32:55.000Z",
+      "summary_en": "Cory Doctorow explains his productivity strategy, noting that intense creative work and engaging conversations help him manage chronic pain by distracting his nervous system. He describes this as a form of beneficial compartmentalization that allows him to temporarily tune out physical discomfort.",
+      "summary_zh": "Cory Doctorow 分享了他的生產力策略，指出投入創造性工作與深度對話能幫助他轉移對慢性疼痛的注意力。他將這種心理機制描述為一種有益的區隔化（compartmentalization），使他能夠暫時忽略身體的不適。",
+      "keywords": [
+        "productivity",
+        "chronic pain",
+        "compartmentalization",
+        "creative work",
+        "focus"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual understanding of how the author manages chronic pain through psychological focus and work, rather than offering a guide or data.",
+      "pacer_reason_zh": "文章探討了作者如何透過心理專注與工作來應對慢性疼痛的概念，而非提供操作指南或數據研究。"
+    },
+    {
+      "id": "a188a6768f851c0a",
+      "title": "Back button hijacking is going away ",
+      "url": "https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-14T12:00:00.000Z",
+      "summary_en": "The article explains the deceptive practice of 'back button hijacking' used by platforms like LinkedIn to keep users engaged. By manipulating browser history through JavaScript, these sites prevent users from navigating away, forcing them onto the homepage feed instead.",
+      "summary_zh": "本文介紹了 LinkedIn 等平台使用的一種稱為「返回按鈕劫持」的欺騙性手法，旨在留住用戶。透過 JavaScript 操作瀏覽器歷史記錄，這些網站能防止用戶點擊返回時離開，進而強迫用戶停留在其主頁動態牆上。",
+      "keywords": [
+        "back button hijacking",
+        "browser history",
+        "LinkedIn",
+        "web development",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific technical concept and its mechanism, defining 'what it is' and 'how it works' within a conceptual framework.",
+      "pacer_reason_zh": "本文旨在解釋「返回按鈕劫持」這一技術概念及其運作機制，屬於說明性質的內容。"
+    },
+    {
+      "id": "92369a098e94ccf8",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-04-14T21:47:59.000Z",
+      "summary_en": "Microsoft released a massive update addressing 167 security vulnerabilities, including critical zero-days in SharePoint and Windows Defender. Additionally, Google Chrome and Adobe Reader issued emergency patches for actively exploited flaws.",
+      "summary_zh": "微軟發布了大規模更新，修復了包括 SharePoint 和 Windows Defender 在內的 167 個安全漏洞。同時，Google Chrome 與 Adobe Reader 也針對近期遭利用的零日漏洞發布了緊急修補程式。",
+      "keywords": [
+        "Cybersecurity",
+        "Patch Tuesday",
+        "Zero-day",
+        "Microsoft",
+        "Vulnerability"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This article serves as a report and lookup reference for the latest software security updates and patches.",
+      "pacer_reason_zh": "本文作為最新軟體安全更新與修補程式的報導與參考資訊。"
+    },
+    {
+      "id": "9492782c6947da25",
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-14T21:23:59.000Z",
+      "summary_en": "Simon Willison discusses OpenAI's new GPT-5.4-Cyber model and the expansion of their 'Trusted Access for Cyber' program. The post highlights the complexities of these cybersecurity-focused access tiers and compares them to similar initiatives from competitors like Anthropic.",
+      "summary_zh": "Simon Willison 探討了 OpenAI 新推出的 GPT-5.4-Cyber 模型以及其「Trusted Access for Cyber」計劃的擴展。文章分析了這些專注於網路安全訪問層級的複雜性，並將其與 Anthropic 等競爭對手的類似舉措進行了比較。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.4-Cyber",
+        "cybersecurity",
+        "AI safety",
+        "Trusted Access"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides an analytical overview and explanation of new industry developments and corporate policy shifts in AI cybersecurity.",
+      "pacer_reason_zh": "該內容針對人工智慧網路安全領域的新發展與企業政策變動，提供了分析性的概述與解釋。"
+    },
+    {
+      "id": "5945e6ebcc914718",
+      "title": "Cybersecurity Looks Like Proof of Work Now",
+      "url": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-14T19:41:48.000Z",
+      "summary_en": "The article discusses how AI-driven cybersecurity is evolving into a 'proof of work' economic model, where system security depends on spending more tokens on exploit discovery than an attacker would spend to find them. This paradigm shift increases the value of shared open-source libraries, as the costs of securing them are distributed across all users.",
+      "summary_zh": "本文探討了 AI 驅動的網路安全如何演變成一種「工作量證明」的經濟模式，即系統安全性取決於在發現漏洞上投入的計算成本是否高於攻擊者所需的成本。這種範式轉移提升了開源程式庫的價值，因為它們可以將安全維護成本分攤給所有使用者。",
+      "keywords": [
+        "cybersecurity",
+        "proof of work",
+        "AI",
+        "open source",
+        "Claude Mythos"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new conceptual framework regarding the economics of AI-driven cybersecurity and its impact on open-source sustainability.",
+      "pacer_reason_zh": "本文解釋了一種關於 AI 驅動網路安全經濟學及其對開源永續性影響的全新概念框架。"
+    },
     {
       "id": "1b9c3021769c95be",
       "title": "A little tool to visualise MoE expert routing",
