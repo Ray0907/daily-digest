@@ -4,8 +4,161 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 14 Apr 2026 22:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 22:13:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Speed is Not Conducive to Wisdom</title>
+      <link>https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</link>
+      <guid>https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</guid>
+      <pubDate>Wed, 15 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The article critiques the modern obsession with speed, arguing that it prevents the deep reflection necessary for true wisdom. It posits that wisdom requires a slow, uncomfortable feedback loop of learning from failure and experience that urgency undermines.</description>
+    </item>
+
+    <item>
+      <title>zappa: an AI powered mitmproxy</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html</guid>
+      <pubDate>Tue, 14 Apr 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author introduces 'zappa,' an AI-powered mitmproxy plugin designed to intercept and transform web traffic to eliminate ads and intrusive elements. By using large language models to sanitize web content in real-time, the project aims to reclaim user attention from attention-economy business models.</description>
+    </item>
+
+    <item>
+      <title>Jensen Huang – TPU competition, why we should sell chips to China, &amp; Nvidia’s supply chain moat</title>
+      <link>https://www.dwarkesh.com/p/jensen-huang</link>
+      <guid>https://www.dwarkesh.com/p/jensen-huang</guid>
+      <pubDate>Wed, 15 Apr 2026 15:45:23 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>Jensen Huang discusses Nvidia's massive supply chain capabilities, asserting they can handle a trillion-dollar scale. He also addresses the strategic nuances of global competition and the rationale behind navigating chip trade policies with China.</description>
+    </item>
+
+    <item>
+      <title>A sufficiently comprehensive spec is not (necessarily) code</title>
+      <link>https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:18:02 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The article argues that a specification is fundamentally a set of possible implementations, whereas code is a single, specific implementation. While a sufficiently precise specification can be used to generate software, it remains conceptually distinct from code because a single spec can allow for multiple valid outcomes.</description>
+    </item>
+
+    <item>
+      <title>Pressed For Options</title>
+      <link>https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</link>
+      <guid>https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</guid>
+      <pubDate>Wed, 15 Apr 2026 02:58:42 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>The author explores the challenges of finding reliable fingerprint authentication for Linux laptops compared to more mature Windows and macOS ecosystems. By experimenting with a budget-friendly USB reader from Temu, the article highlights the ongoing compatibility issues and lack of standardized support for biometric hardware on Linux.</description>
+    </item>
+
+    <item>
+      <title>The Tuesday Test</title>
+      <link>https://nesbitt.io/2026/04/15/the-tuesday-test.html</link>
+      <guid>https://nesbitt.io/2026/04/15/the-tuesday-test.html</guid>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author introduces the 'Tuesday Test' as a simple heuristic to determine if a package manager is truly declarative. A system passes the test if installing a package yields the same result regardless of when it is run, ensuring the process is isolated from hidden external inputs.</description>
+    </item>
+
+    <item>
+      <title>Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article addresses a common developer confusion regarding delays when waiting for a thread to exit in Windows. It suggests that a perceived delay in WaitForSingleObject often indicates that the thread has not actually finished its execution yet.</description>
+    </item>
+
+    <item>
+      <title>Simdutf Can Now Be Used Without libc++ or libc++abi</title>
+      <link>https://mitchellh.com/writing/simdutf-no-libcxx</link>
+      <guid>https://mitchellh.com/writing/simdutf-no-libcxx</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
+      <description>Mitchell Hashimoto announces that the simdutf library can now be utilized without dependencies on libc++ or libc++abi. This change improves portability and reduces binary size for developers integrating the library into various systems. It simplifies the setup process by removing strict standard library requirements.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Rights for robots (15 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/15/artificial-lifeforms/</link>
+      <guid>https://pluralistic.net/2026/04/15/artificial-lifeforms/</guid>
+      <pubDate>Wed, 15 Apr 2026 07:06:28 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article explores the concept of 'corporate personhood' in the legal system, tracing its evolution from 19th-century judicial decisions to modern cases like Citizens United. It contrasts this with the 'Rights of Nature' movement, which seeks to grant legal standing to ecosystems to protect them from corporate influence.</description>
+    </item>
+
+    <item>
+      <title>Quoting John Gruber</title>
+      <link>https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 17:13:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison quotes John Gruber on the declining quality of third-party software on Apple platforms. Gruber argues that the platform's competitive advantage is weakening as developers feel less motivated to build high-quality, native applications.</description>
+    </item>
+
+    <item>
+      <title>Gemini 3.1 Flash TTS</title>
+      <link>https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 17:13:14 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Google has introduced Gemini 3.1 Flash TTS, a new text-to-speech model accessible via the Gemini API. The model distinguishes itself by allowing users to influence speech output through detailed prompt engineering, including scene setting, vocal style, and accent instructions.</description>
+    </item>
+
+    <item>
+      <title>Gemini 3.1 Flash TTS</title>
+      <link>https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 16:41:46 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces a new tool that leverages Google's Gemini 3.1 Flash model for text-to-speech conversion. The post provides direct access to the experimental tool and links to further technical notes regarding the model's capabilities.</description>
+    </item>
+
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 15:36:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses the emergence of 'meat shields'—human roles created to absorb accountability for the errors and failures of machine learning systems. It highlights how companies may utilize employees or third-party contractors to provide a veneer of human oversight or to act as scapegoats for automated system misbehavior.</description>
+    </item>
+
+    <item>
+      <title>datasette-ports 0.3</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 02:50:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-ports 0.3 is a minor update to a utility tool used to monitor local Datasette instances. The new version adds visibility into the working directory and the full file paths of the databases for each active process.</description>
+    </item>
+
+    <item>
+      <title>Zig 0.16.0 release notes: &quot;Juicy Main&quot;</title>
+      <link>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 01:59:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Zig 0.16.0 has been released with comprehensive updates, most notably the 'Juicy Main' feature. This update introduces dependency injection for the main() function, allowing developers to easily access essential resources like allocators, I/O, and environment variables via the process.Init parameter.</description>
+    </item>
+
+    <item>
+      <title>datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</title>
+      <link>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</guid>
+      <pubDate>Tue, 14 Apr 2026 23:58:53 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette has replaced its traditional token-based CSRF protection with the modern Sec-Fetch-Site header approach. This change simplifies templates by removing the need for hidden form fields and deprecates complex plugin hooks for skipping protection.</description>
+    </item>
+
+    <item>
+      <title>An Arm Mainboard for the Framework Laptop</title>
+      <link>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:49:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling tests an Arm-based Mainboard from MetaComputing for the Framework 13 laptop. This experiment demonstrates the modularity of the Framework chassis by successfully swapping between x86, RISC-V, and Arm architectures.</description>
+    </item>
+
     <item>
       <title>Nothing ever dies. It merely becomes embarrassing.</title>
       <link>https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes</link>
@@ -751,159 +904,6 @@
       <pubDate>Tue, 07 Apr 2026 15:49:28 GMT</pubDate>
       <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
       <description>Michael Nielsen discusses the nuances of scientific progress, challenging traditional narratives about historical figures like Einstein, Newton, and Darwin. The conversation explores how scientific breakthroughs actually occur through collaborative environments and evolving methodologies rather than isolated genius.</description>
-    </item>
-
-    <item>
-      <title>Readership maths skills</title>
-      <link>https://entropicthoughts.com/readership-math-skills</link>
-      <guid>https://entropicthoughts.com/readership-math-skills</guid>
-      <pubDate>Mon, 06 Apr 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article discusses the importance of mathematical literacy for readers to better understand data-driven narratives. It highlights how improved analytical skills help audiences evaluate information more critically.</description>
-    </item>
-
-    <item>
-      <title>Who Built This?</title>
-      <link>https://nesbitt.io/2026/04/07/who-built-this.html</link>
-      <guid>https://nesbitt.io/2026/04/07/who-built-this.html</guid>
-      <pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article explores how different programming ecosystems—Go, Rust, .NET, and Java—handle embedding version control metadata into compiled binaries. It highlights Go's automatic VCS stamping as a gold standard for observability and contrasts it with the varied, often manual, opt-in approaches required in other languages.</description>
-    </item>
-
-    <item>
-      <title>The Hacker News tarpit</title>
-      <link>https://www.joanwestenberg.com/the-hacker-news-tarpit/</link>
-      <guid>https://www.joanwestenberg.com/the-hacker-news-tarpit/</guid>
-      <pubDate>Mon, 06 Apr 2026 23:36:11 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This post discusses the author's subscription model for their newsletter, highlighting the benefits of paid access such as additional content and community interaction. It emphasizes the author's commitment to keeping the core content free while offering premium perks for supporters.</description>
-    </item>
-
-    <item>
-      <title>Toffoli gates are all you need</title>
-      <link>https://www.johndcook.com/blog/2026/04/06/tofolli-gates/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/06/tofolli-gates/</guid>
-      <pubDate>Tue, 07 Apr 2026 00:33:23 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article discusses Landauer’s principle, which establishes a fundamental thermodynamic limit on the energy required to erase a bit of information. It highlights the universality of this physical bound regardless of the storage medium and introduces the role of Toffoli gates in reversible computation.</description>
-    </item>
-
-    <item>
-      <title>Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213</guid>
-      <pubDate>Tue, 07 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the history of software compatibility during the transition from Windows 3.1 to Windows 95. It specifically addresses whether certain programs were fundamentally incompatible beyond the possibility of patching.</description>
-    </item>
-
-    <item>
-      <title>The Building Block Economy</title>
-      <link>https://mitchellh.com/writing/building-block-economy</link>
-      <guid>https://mitchellh.com/writing/building-block-economy</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
-      <description>This article explores the concept of the 'Building Block Economy' within the context of software architecture and infrastructure development. It discusses how modular, reusable components form the foundation for scalable and efficient systems.</description>
-    </item>
-
-    <item>
-      <title>Did WordPress VIP leak my phone number?</title>
-      <link>https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</guid>
-      <pubDate>Tue, 07 Apr 2026 11:34:43 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author investigates how his private phone number was leaked by Apollo.io, tracing the source back to Parse.ly (acquired by WordPress VIP). The post highlights concerns regarding data privacy and the practice of sharing user information within contributor networks.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/07/swisscom/</link>
-      <guid>https://pluralistic.net/2026/04/07/swisscom/</guid>
-      <pubDate>Tue, 07 Apr 2026 07:20:37 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article discusses the success of Switzerland's high-speed fiber internet model, which provides 25Gbit symmetrical connections via a competitive, public-provisioned structure. The author contrasts this 'Goldilocks' approach with the flawed telecommunications markets in the US and Germany, arguing that robust public infrastructure is essential for true competition.</description>
-    </item>
-
-    <item>
-      <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-      <guid>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:02:44 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Russian military intelligence hackers are exploiting vulnerabilities in older routers to steal Microsoft Office authentication tokens. This campaign has compromised over 18,000 networks by silently harvesting tokens without the need for installing malicious software.</description>
-    </item>
-
-    <item>
-      <title>GLM-5.1: Towards Long-Horizon Tasks</title>
-      <link>https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</guid>
-      <pubDate>Tue, 07 Apr 2026 21:25:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison tests the new 754B parameter GLM-5.1 model, highlighting its impressive SVG generation capabilities. While the model shows potential in complex tasks, it demonstrates mixed results when automatically generating CSS animations for those assets.</description>
-    </item>
-
-    <item>
-      <title>Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me</title>
-      <link>https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</guid>
-      <pubDate>Tue, 07 Apr 2026 20:52:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has introduced Project Glasswing to restrict access to their powerful new AI model, Claude Mythos, due to its advanced cybersecurity capabilities. By limiting availability to select partners, Anthropic aims to allow the industry time to address the significant vulnerabilities the model can identify before a wider release.</description>
-    </item>
-
-    <item>
-      <title>SQLite WAL Mode Across Docker Containers Sharing a Volume</title>
-      <link>https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything</guid>
-      <pubDate>Tue, 07 Apr 2026 15:41:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This research confirms that SQLite's Write-Ahead Logging (WAL) mode functions correctly across separate Docker containers when sharing the same host volume. It explains that because containers on the same host share the underlying filesystem and memory mechanisms, concurrent SQLite processes can collaborate effectively.</description>
-    </item>
-
-    <item>
-      <title>What next for the compute crunch?</title>
-      <link>https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The AI sector is facing a severe imbalance between exponential demand for compute power and limited supply. The next two years will be characterized by market shortages, supply rationing, and ongoing price adjustments.</description>
-    </item>
-
-    <item>
-      <title>Prototyping with LLMs</title>
-      <link>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</link>
-      <guid>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</guid>
-      <pubDate>Mon, 06 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on the pitfalls of diving too quickly into LLM-based prototyping without proper planning. They argue that sketching ideas on paper before using AI can be a more efficient way to validate concepts and save time.</description>
-    </item>
-
-    <item>
-      <title>I Tried Vibing an RSS Reader and My Dreams Did Not Come True</title>
-      <link>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</link>
-      <guid>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</guid>
-      <pubDate>Sun, 05 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author explores the potential and limitations of 'vibe coding,' using AI to build a custom RSS reader without deep technical knowledge. While the project successfully produced a functional tool, the author highlights the challenges of scaling AI-generated code and the eventual wall hit when the application complexity exceeds AI's assistance capabilities.</description>
-    </item>
-
-    <item>
-      <title>The Cathedral and the Catacombs</title>
-      <link>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</link>
-      <guid>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</guid>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author critiques the long-standing 'Cathedral and the Bazaar' metaphor in software development, arguing that it ignores the 'catacombs'—the often-overlooked, complex dependency graphs that form the foundation of modern projects. The piece suggests that by focusing solely on governance and construction processes, developers and researchers fail to account for the risky, unmaintained, and invisible codebases that support their work.</description>
-    </item>
-
-    <item>
-      <title>HIPAA compliant AI</title>
-      <link>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:04:46 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article suggests that running AI models locally on private hardware is the most effective method for maintaining HIPAA compliance when handling protected health information. While HIPAA-compliant cloud alternatives exist, they are often characterized as overly restrictive and costly.</description>
     </item>
   </channel>
 </rss>

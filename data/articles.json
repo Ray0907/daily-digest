@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-04-14T22:13:53.466Z",
+  "last_updated": "2026-04-15T22:13:48.048Z",
   "articles": [
+    {
+      "id": "0d007d8001809cbc",
+      "title": "Speed is Not Conducive to Wisdom",
+      "url": "https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-15T19:00:00.000Z",
+      "summary_en": "The article critiques the modern obsession with speed, arguing that it prevents the deep reflection necessary for true wisdom. It posits that wisdom requires a slow, uncomfortable feedback loop of learning from failure and experience that urgency undermines.",
+      "summary_zh": "本文批判了現代社會對速度的盲目追求，認為這種快節奏妨礙了獲得智慧所需的深度反思。作者指出，智慧來自於經歷失敗與現實考驗後的沉澱，而過度的急躁則讓人錯過了這些寶貴的學習契機。",
+      "keywords": [
+        "wisdom",
+        "speed",
+        "reflection",
+        "learning",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that explores the relationship between speed and wisdom, offering a philosophical perspective on why reflection is essential.",
+      "pacer_reason_zh": "本文屬於概念性文章，探討了速度與智慧之間的關係，並從哲學角度闡述了反思為何不可或缺。"
+    },
+    {
+      "id": "7de86bf4b12395ea",
+      "title": "zappa: an AI powered mitmproxy",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-14T16:00:00.000Z",
+      "summary_en": "The author introduces 'zappa,' an AI-powered mitmproxy plugin designed to intercept and transform web traffic to eliminate ads and intrusive elements. By using large language models to sanitize web content in real-time, the project aims to reclaim user attention from attention-economy business models.",
+      "summary_zh": "作者介紹了一款名為「zappa」的 AI 驅動 mitmproxy 外掛，旨在攔截並處理網路流量，以移除廣告及干擾元素。透過大型語言模型對網頁內容進行即時清理，該專案旨在從廣告導向的商業模式中重拾使用者的注意力主導權。",
+      "keywords": [
+        "mitmproxy",
+        "AI agents",
+        "web filtering",
+        "ad-blocking",
+        "zappa"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical demonstration and technical instructions for configuring a proxy tool to achieve a specific outcome.",
+      "pacer_reason_zh": "文章提供了實際的操作展示，並說明了設定代理伺服器工具以達到特定效果的技術指引。"
+    },
+    {
+      "id": "2667c9aefba0e069",
+      "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
+      "url": "https://www.dwarkesh.com/p/jensen-huang",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-04-15T15:45:23.000Z",
+      "summary_en": "Jensen Huang discusses Nvidia's massive supply chain capabilities, asserting they can handle a trillion-dollar scale. He also addresses the strategic nuances of global competition and the rationale behind navigating chip trade policies with China.",
+      "summary_zh": "黃仁勳在訪談中探討了 NVIDIA 強大的供應鏈實力，並表示公司具備支撐萬億美元規模的產能。他同時就全球晶片競爭及如何應對對華出口限制等策略性議題發表了看法。",
+      "keywords": [
+        "Jensen Huang",
+        "Nvidia",
+        "Supply Chain",
+        "AI Chips",
+        "Semiconductors"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining high-level business strategy, supply chain theory, and industry positioning rather than a specific tutorial or data report.",
+      "pacer_reason_zh": "該內容側重於解釋高階商業策略、供應鏈理論及產業定位，而非教學指南或數據報告。"
+    },
+    {
+      "id": "484a903e9fa50086",
+      "title": "A sufficiently comprehensive spec is not (necessarily) code",
+      "url": "https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-04-15T16:18:02.000Z",
+      "summary_en": "The article argues that a specification is fundamentally a set of possible implementations, whereas code is a single, specific implementation. While a sufficiently precise specification can be used to generate software, it remains conceptually distinct from code because a single spec can allow for multiple valid outcomes.",
+      "summary_zh": "本文論述了規格說明本質上是一組可能的實作集合，而程式碼則是其中的單一實作。即便足夠精確的規格可以透過自動化生成程式，規格與程式碼在概念上仍有區別，因為同一份規格可能包含多種合法的執行結果。",
+      "keywords": [
+        "software specification",
+        "implementation",
+        "program synthesis",
+        "LLM",
+        "software engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual distinction between software specifications and code, focusing on the definition of what constitutes a 'comprehensive' specification.",
+      "pacer_reason_zh": "本文探討了軟體規格與程式碼之間的概念差異，重點在於定義何謂「全面性」的規格。"
+    },
+    {
+      "id": "5000cbf344cd50b4",
+      "title": "Pressed For Options",
+      "url": "https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-04-15T02:58:42.000Z",
+      "summary_en": "The author explores the challenges of finding reliable fingerprint authentication for Linux laptops compared to more mature Windows and macOS ecosystems. By experimenting with a budget-friendly USB reader from Temu, the article highlights the ongoing compatibility issues and lack of standardized support for biometric hardware on Linux.",
+      "summary_zh": "作者探討了在 Linux 筆記型電腦上尋找可靠指紋辨識裝置的困難，並與 Windows 和 macOS 的成熟生態進行對比。透過實測廉價的 USB 指紋讀取器，文章指出了 Linux 在生物辨識硬體相容性與標準化支援方面的現狀與挑戰。",
+      "keywords": [
+        "Linux",
+        "biometrics",
+        "fingerprint reader",
+        "hardware compatibility",
+        "security"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on a personal experiment and case study of using specific hardware (a Temu fingerprint reader) to solve a functional problem on a specific platform.",
+      "pacer_reason_zh": "文章核心在於作者親身實測與案例研究，探討使用特定硬體（Temu 指紋讀取器）來解決特定平台上的功能性需求。"
+    },
+    {
+      "id": "ce51f7d6f7af4997",
+      "title": "The Tuesday Test",
+      "url": "https://nesbitt.io/2026/04/15/the-tuesday-test.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-15T10:00:00.000Z",
+      "summary_en": "The author introduces the 'Tuesday Test' as a simple heuristic to determine if a package manager is truly declarative. A system passes the test if installing a package yields the same result regardless of when it is run, ensuring the process is isolated from hidden external inputs.",
+      "summary_zh": "作者提出了「週二測試」（Tuesday Test）作為判斷套件管理器是否真正具備聲明式特性的簡易指標。若安裝過程能確保在不同時間執行皆產生相同結果，且不受隱藏外部輸入影響，即通過此測試。",
+      "keywords": [
+        "package manager",
+        "declarative",
+        "Tuesday Test",
+        "software engineering",
+        "build systems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical concept and framework for evaluating software architecture.",
+      "pacer_reason_zh": "本文解釋了一項用於評估軟體架構的理論概念與評測框架。"
+    },
+    {
+      "id": "443ace14dee346eb",
+      "title": "Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-15T14:00:00.000Z",
+      "summary_en": "This article addresses a common developer confusion regarding delays when waiting for a thread to exit in Windows. It suggests that a perceived delay in WaitForSingleObject often indicates that the thread has not actually finished its execution yet.",
+      "summary_zh": "本文探討了開發者在等待執行緒結束時，遇到 WaitForSingleObject 延遲回應的常見疑問。作者指出，這類延遲通常是因為執行緒實際上尚未真正終止所導致的。",
+      "keywords": [
+        "Windows API",
+        "WaitForSingleObject",
+        "Thread",
+        "Programming",
+        "Debugging"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation for a specific behavior in thread management APIs.",
+      "pacer_reason_zh": "本文針對執行緒管理 API 的特定運作行為提供了概念性的解釋。"
+    },
+    {
+      "id": "bac0b3e4cacacd38",
+      "title": "Simdutf Can Now Be Used Without libc++ or libc++abi",
+      "url": "https://mitchellh.com/writing/simdutf-no-libcxx",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-04-15T00:00:00.000Z",
+      "summary_en": "Mitchell Hashimoto announces that the simdutf library can now be utilized without dependencies on libc++ or libc++abi. This change improves portability and reduces binary size for developers integrating the library into various systems. It simplifies the setup process by removing strict standard library requirements.",
+      "summary_zh": "Mitchell Hashimoto 宣佈 simdutf 程式庫現在可以在不依賴 libc++ 或 libc++abi 的情況下使用。這項改進提升了移植性，並縮減了開發者整合該程式庫時的二進位檔案大小，簡化了設定流程。",
+      "keywords": [
+        "simdutf",
+        "C++",
+        "programming",
+        "optimization",
+        "dependency"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific technical update and performance/dependency improvement regarding a software library.",
+      "pacer_reason_zh": "本文報導了關於特定軟體程式庫的技術更新以及效能與依賴關係的改進。"
+    },
+    {
+      "id": "4a49b60be7495a28",
+      "title": "Pluralistic: Rights for robots (15 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/15/artificial-lifeforms/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-15T07:06:28.000Z",
+      "summary_en": "This article explores the concept of 'corporate personhood' in the legal system, tracing its evolution from 19th-century judicial decisions to modern cases like Citizens United. It contrasts this with the 'Rights of Nature' movement, which seeks to grant legal standing to ecosystems to protect them from corporate influence.",
+      "summary_zh": "本文探討了法律體系中「企業法人人格」的概念，回顧其從 19 世紀司法判決到現代案例（如公民聯合案）的演變。作者將此與旨在賦予生態系統法律地位以對抗企業影響的「自然權利」運動進行了對比。",
+      "keywords": [
+        "corporate personhood",
+        "Rights of Nature",
+        "legal standing",
+        "Cory Doctorow",
+        "14th Amendment"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of legal frameworks, specifically comparing the development of corporate personhood with the theory behind the Rights of Nature movement.",
+      "pacer_reason_zh": "本文對法律架構提供了概念性分析，特別比較了企業法人人格的發展與自然權利運動背後的理論。"
+    },
+    {
+      "id": "7c7721fb5b0380bd",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T17:13:57.000Z",
+      "summary_en": "Simon Willison quotes John Gruber on the declining quality of third-party software on Apple platforms. Gruber argues that the platform's competitive advantage is weakening as developers feel less motivated to build high-quality, native applications.",
+      "summary_zh": "Simon Willison 引用了 John Gruber 對 Apple 平台第三方軟體品質下滑的評論。Gruber 指出，由於開發者對於打造優質原生應用的動力下降，Apple 平台的競爭優勢正在逐漸減弱。",
+      "keywords": [
+        "Apple",
+        "John Gruber",
+        "Software Development",
+        "App Store",
+        "Native Apps"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis and commentary on the current state and future trends of the Apple software ecosystem.",
+      "pacer_reason_zh": "內容針對 Apple 軟體生態系統的現狀與未來趨勢進行了概念性的分析與評論。"
+    },
+    {
+      "id": "4952d7c89a406232",
+      "title": "Gemini 3.1 Flash TTS",
+      "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T17:13:14.000Z",
+      "summary_en": "Google has introduced Gemini 3.1 Flash TTS, a new text-to-speech model accessible via the Gemini API. The model distinguishes itself by allowing users to influence speech output through detailed prompt engineering, including scene setting, vocal style, and accent instructions.",
+      "summary_zh": "Google 推出了 Gemini 3.1 Flash TTS，這是一款可透過 Gemini API 使用的全新文字轉語音模型。該模型的特點在於允許使用者透過詳細的提示詞工程（Prompt Engineering）來控制語音輸出，包括場景設定、語氣風格及口音指示。",
+      "keywords": [
+        "Gemini 3.1 Flash TTS",
+        "Google",
+        "Text-to-Speech",
+        "AI",
+        "Prompt Engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a new tool and provides specific instructions on how to use prompt engineering to control its output.",
+      "pacer_reason_zh": "本文介紹了一款新工具，並提供了如何透過提示詞工程來控制其輸出的具體說明。"
+    },
+    {
+      "id": "fdb85b438965a17e",
+      "title": "Gemini 3.1 Flash TTS",
+      "url": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T16:41:46.000Z",
+      "summary_en": "Simon Willison introduces a new tool that leverages Google's Gemini 3.1 Flash model for text-to-speech conversion. The post provides direct access to the experimental tool and links to further technical notes regarding the model's capabilities.",
+      "summary_zh": "Simon Willison 介紹了一項運用 Google Gemini 3.1 Flash 模型進行文字轉語音（TTS）的新工具。該文章提供了工具的直接使用連結，並附上了關於模型功能的進一步技術說明。",
+      "keywords": [
+        "Gemini 3.1",
+        "TTS",
+        "Google",
+        "text-to-speech",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content acts as a functional utility tool and a guide to accessing the model's features.",
+      "pacer_reason_zh": "該內容主要作為功能性工具使用，並引導使用者存取模型功能。"
+    },
+    {
+      "id": "93002af5eda5fab5",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T15:36:02.000Z",
+      "summary_en": "The article discusses the emergence of 'meat shields'—human roles created to absorb accountability for the errors and failures of machine learning systems. It highlights how companies may utilize employees or third-party contractors to provide a veneer of human oversight or to act as scapegoats for automated system misbehavior.",
+      "summary_zh": "本文探討了「肉盾」（meat shields）角色的出現，即為了承擔機器學習系統錯誤與失敗責任而設立的人力職位。文中強調企業可能透過聘請員工或第三方承包商，提供人為監管的假象，或在自動化系統發生故障時充當替罪羔羊。",
+      "keywords": [
+        "AI",
+        "accountability",
+        "ethics",
+        "machine learning",
+        "careers"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual shift in human roles within AI-driven systems and the implications of algorithmic accountability.",
+      "pacer_reason_zh": "本文解釋了人工智慧系統中人類角色的概念性轉變，以及演算法問責制所帶來的影響。"
+    },
+    {
+      "id": "4d72dc289367e133",
+      "title": "datasette-ports 0.3",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T02:50:57.000Z",
+      "summary_en": "Datasette-ports 0.3 is a minor update to a utility tool used to monitor local Datasette instances. The new version adds visibility into the working directory and the full file paths of the databases for each active process.",
+      "summary_zh": "Datasette-ports 0.3 是一個用於監控本地 Datasette 實例的工具更新。新版本新增了顯示每個進程的工作目錄以及資料庫檔案完整路徑的功能。",
+      "keywords": [
+        "datasette",
+        "python",
+        "utility",
+        "CLI",
+        "web development"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement that serves as a reference for the updated tool's functionality.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，作為更新後工具功能的參考資料。"
+    },
+    {
+      "id": "8d2d32c4e5ed5be9",
+      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+      "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T01:59:21.000Z",
+      "summary_en": "Zig 0.16.0 has been released with comprehensive updates, most notably the 'Juicy Main' feature. This update introduces dependency injection for the main() function, allowing developers to easily access essential resources like allocators, I/O, and environment variables via the process.Init parameter.",
+      "summary_zh": "Zig 0.16.0 正式發布，其中最引人注目的亮點是「Juicy Main」功能。此更新為 main() 函數引入了依賴注入機制，開發者現在可以透過 process.Init 參數輕鬆存取分配器、I/O 以及環境變數等核心資源。",
+      "keywords": [
+        "Zig",
+        "Programming",
+        "Release Notes",
+        "Juicy Main",
+        "Software Development"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a summary and reference for the new features and release notes of the Zig programming language version 0.16.0.",
+      "pacer_reason_zh": "本文旨在摘要與介紹 Zig 程式語言 0.16.0 版本的新功能與發布說明，屬於參考性質的內容。"
+    },
+    {
+      "id": "c4f6461b92dd62b6",
+      "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+      "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-14T23:58:53.000Z",
+      "summary_en": "Datasette has replaced its traditional token-based CSRF protection with the modern Sec-Fetch-Site header approach. This change simplifies templates by removing the need for hidden form fields and deprecates complex plugin hooks for skipping protection.",
+      "summary_zh": "Datasette 已將傳統的基於 token 的 CSRF 防護替換為現代的 Sec-Fetch-Site 標頭驗證機制。此變更簡化了模板結構，移除了隱藏表單欄位，並棄用了用於跳過防護的複雜外掛程式 hook。",
+      "keywords": [
+        "Datasette",
+        "CSRF",
+        "Sec-Fetch-Site",
+        "Web Security",
+        "Python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a technical implementation change and how to adapt to the new security model in the software.",
+      "pacer_reason_zh": "文章說明了一項技術實作變更，並解釋如何適應該軟體中的新安全模型。"
+    },
+    {
+      "id": "2e509809966abd96",
+      "title": "An Arm Mainboard for the Framework Laptop",
+      "url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-04-15T14:49:00.000Z",
+      "summary_en": "Jeff Geerling tests an Arm-based Mainboard from MetaComputing for the Framework 13 laptop. This experiment demonstrates the modularity of the Framework chassis by successfully swapping between x86, RISC-V, and Arm architectures.",
+      "summary_zh": "Jeff Geerling 測試了適用於 Framework 13 筆記型電腦的 MetaComputing Arm 主機板。此實驗展示了 Framework 機殼的模組化特性，成功實現了 x86、RISC-V 與 Arm 架構之間的硬體轉換。",
+      "keywords": [
+        "Framework Laptop",
+        "Arm",
+        "Mainboard",
+        "Jeff Geerling",
+        "Modular computing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on testing and reporting results from specific hardware configurations, acting as a real-world experiment.",
+      "pacer_reason_zh": "本文內容重點在於測試特定硬體配置並報告結果，屬於實務實驗性質。"
+    },
     {
       "id": "f5ea5e5b8931005a",
       "title": "Nothing ever dies. It merely becomes embarrassing.",
