@@ -4,8 +4,158 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 15 Apr 2026 22:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:12:24 GMT</lastBuildDate>
     
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</link>
+      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</guid>
+      <pubDate>Thu, 16 Apr 2026 11:33:06 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article serves as the fifth chapter of the 'SQLAlchemy 2 in Practice' book, focusing on advanced implementations of many-to-many relationships. It explores how to tweak standard relational database building blocks to achieve specific design goals.</description>
+    </item>
+
+    <item>
+      <title>The Power of Possibility</title>
+      <link>https://anildash.com/2026/04/16/girls-club-gala/</link>
+      <guid>https://anildash.com/2026/04/16/girls-club-gala/</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash advocates for the Lower Eastside Girls Club, highlighting its effective community-focused model and successful outcomes in STEM, arts, and leadership programs. He encourages readers to support the organization through direct donations or by attending their 30th Anniversary Gala.</description>
+    </item>
+
+    <item>
+      <title>What I learned this week - Pretraining parallelisms, Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails</title>
+      <link>https://www.dwarkesh.com/p/what-i-learned-april-15</link>
+      <guid>https://www.dwarkesh.com/p/what-i-learned-april-15</guid>
+      <pubDate>Wed, 15 Apr 2026 14:03:00 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This digest explores advanced AI engineering topics, including pretraining parallelization techniques and the mechanics of pipeline reinforcement learning. It further examines the challenges of pretraining stability and the evolving dynamics of cybersecurity in the age of AI.</description>
+    </item>
+
+    <item>
+      <title>Features everyone should steal from npmx</title>
+      <link>https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html</link>
+      <guid>https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html</guid>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article discusses the impact of npmx.dev, an alternative npm frontend that has revitalized development for the package registry. It highlights how npmx serves as a practical reference for registry features, including transitive install size tracking and security disclosures for install scripts.</description>
+    </item>
+
+    <item>
+      <title>I truly hate mostpeopleslop</title>
+      <link>https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/</link>
+      <guid>https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/</guid>
+      <pubDate>Thu, 16 Apr 2026 04:50:26 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article explores the decline of social media writing quality, citing Joe Sugarman’s copywriting principle that the first sentence exists solely to hook the reader. It critiques the current trend of 'slop' content, where the focus on engagement has undermined the purpose of effective, compelling communication.</description>
+    </item>
+
+    <item>
+      <title>Newton diameters</title>
+      <link>https://www.johndcook.com/blog/2026/04/16/newton-diameters/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/16/newton-diameters/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:02:13 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The post defines Newton diameters, which are lines that intersect the zero set of an nth-degree polynomial exactly n times. It explores this mathematical concept using the example of a circle's diameter to illustrate how geometric lines relate to polynomial roots.</description>
+    </item>
+
+    <item>
+      <title>What’s up with window message 0x0091? We’re getting it with unexpected parameters</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</guid>
+      <pubDate>Thu, 16 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post investigates an undocumented Windows message, 0x0091, which appears to be used internally by the system. The author warns against intercepting or relying on such system-reserved messages due to the risk of unexpected behavior.</description>
+    </item>
+
+    <item>
+      <title>RSS Club for WordPress</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</guid>
+      <pubDate>Thu, 16 Apr 2026 11:34:10 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author introduces 'RSS Club,' a method to create exclusive content hidden from website visitors but visible to RSS and Atom feed subscribers. The post outlines the technical requirements for WordPress users to implement this gatekeeping feature on their own blogs.</description>
+    </item>
+
+    <item>
+      <title>Why is it so hard to passively stalk my friends' locations?</title>
+      <link>https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</guid>
+      <pubDate>Wed, 15 Apr 2026 11:34:45 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author explores the technical and social challenges of location-sharing tools, highlighting the tension between the desire for serendipitous social encounters and privacy concerns. He reflects on why modern technology makes it difficult to passively track friends' locations despite the potential for spontaneous meetups.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/16/pascals-wager/</link>
+      <guid>https://pluralistic.net/2026/04/16/pascals-wager/</guid>
+      <pubDate>Thu, 16 Apr 2026 11:09:32 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that focusing on hypothetical future AI existential risks is a distraction from the immediate dangers posed by unchecked corporate power and surveillance. He asserts that we should prioritize regulating current technologies used to exploit workers rather than speculating about AI's potential sentience.</description>
+    </item>
+
+    <item>
+      <title>
+AI cybersecurity is not proof of work
+</title>
+      <link>
+http://antirez.com/news/163
+</link>
+      <guid>
+http://antirez.com/news/163
+</guid>
+      <pubDate>Thu, 16 Apr 2026 10:46:46 GMT</pubDate>
+      <source url="http://antirez.com/"></source>
+      <description>The author argues that AI-driven cybersecurity should not be viewed through the lens of 'proof of work,' where more computational power guarantees success. Instead, finding software vulnerabilities depends on model intelligence, as weaker models lack the reasoning capacity to identify complex bugs regardless of how much compute is applied.</description>
+    </item>
+
+    <item>
+      <title>llm-anthropic 0.25</title>
+      <link>https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 20:37:12 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The llm-anthropic 0.25 update introduces support for the claude-opus-4.7 model and new thinking process configurations. It also increases default token limits and removes obsolete beta headers for better compatibility.</description>
+    </item>
+
+    <item>
+      <title>Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 17:16:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison compares image generation capabilities between the Qwen3.6-35B-A3B model running locally and Claude Opus 4.7. He uses his quirky 'pelican riding a bicycle' benchmark to evaluate the accuracy of the outputs, finding that the smaller local model outperformed the larger model.</description>
+    </item>
+
+    <item>
+      <title>datasette.io news preview</title>
+      <link>https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 00:18:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison developed a custom preview tool to simplify editing the YAML-based news feed for the Datasette website. By leveraging Claude Artifacts, the tool provides a side-by-side view to validate YAML formatting and render the resulting Markdown content in real-time.</description>
+    </item>
+
+    <item>
+      <title>datasette-export-database 0.3a1</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 23:52:35 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-export-database version 0.3a1 has been released. This update addresses a breaking change in Datasette 1.0a27 regarding the removal of the ds_csrftoken cookie, requiring an update to how the plugin handles signed URLs.</description>
+    </item>
+
+    <item>
+      <title>datasette 1.0a27</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/15/datasette/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 23:16:34 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette 1.0a27 introduces significant updates, including a move away from Django-style CSRF tokens in favor of modern browser headers. It also adds a RenameTableEvent for plugin compatibility and introduces new parameters for the Datasette client and database handling.</description>
+    </item>
+
     <item>
       <title>Speed is Not Conducive to Wisdom</title>
       <link>https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</link>
@@ -760,150 +910,6 @@
       <pubDate>Thu, 09 Apr 2026 10:50:56 GMT</pubDate>
       <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description>Cory Doctorow highlights the memoir of EFF executive director Cindy Cohn, 'Privacy's Defender,' which chronicles her decades-long fight for digital rights. The post focuses on her pivotal role in the landmark Bernstein case, which established that code constitutes protected free speech.</description>
-    </item>
-
-    <item>
-      <title>What Are You Trying to Say? </title>
-      <link>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</link>
-      <guid>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</guid>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The article explores the challenge of clear communication and the tendency to overcomplicate messages. It suggests that asking oneself 'what am I trying to say?' helps strip away unnecessary fluff, encouraging writers and speakers to distill complex thoughts into their core, primitive meaning.</description>
-    </item>
-
-    <item>
-      <title>GitHub Repo Size</title>
-      <link>https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</guid>
-      <pubDate>Thu, 09 Apr 2026 21:31:50 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released a simple web tool that displays the total size of any GitHub repository. It bypasses the lack of size information in the GitHub UI by leveraging the repository's CORS-friendly API.</description>
-    </item>
-
-    <item>
-      <title>asgi-gzip 0.3</title>
-      <link>https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</guid>
-      <pubDate>Thu, 09 Apr 2026 03:54:40 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released version 0.3 of asgi-gzip to fix an issue where SSE responses were being incorrectly compressed. The update was triggered after realizing that the library's automated sync with Starlette had failed to capture a necessary upstream fix.</description>
-    </item>
-
-    <item>
-      <title>Meta's new model is Muse Spark, and meta.ai chat has some interesting tools</title>
-      <link>https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</guid>
-      <pubDate>Wed, 08 Apr 2026 23:07:44 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Meta has released Muse Spark, a new hosted AI model available via meta.ai with 'Instant' and 'Thinking' modes. The author tests the model's capabilities using his signature 'pelican riding a bicycle' prompt to compare performance across these modes.</description>
-    </item>
-
-    <item>
-      <title>When the crisis comes</title>
-      <link>https://anildash.com/2026/04/08/when-the-crisis-comes/</link>
-      <guid>https://anildash.com/2026/04/08/when-the-crisis-comes/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash reflects on the challenges of leadership during constant crises, emphasizing the importance of finding clarity and expert support. He highlights the book 'Crisis Engineering' as a vital resource for navigating turbulent times and transforming crises into opportunities for growth.</description>
-    </item>
-
-    <item>
-      <title>The day you get cut out of the economy</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html</guid>
-      <pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The article argues that as global economic growth stagnates, AI frontier model developers will shift from a SaaS subscription model to vertical integration. By capturing the value currently held by the AI application layer, model makers will consolidate the market to recoup the massive costs of frontier training runs.</description>
-    </item>
-
-    <item>
-      <title>Pork &amp; Puppetry</title>
-      <link>https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview</link>
-      <guid>https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview</guid>
-      <pubDate>Wed, 08 Apr 2026 03:50:54 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the origin of a viral parody trailer featuring a warthog puppet named Pork Johnson, which mocks the open-source image editor GIMP. The author interviews creator Dustin Grissom, who explains how the puppet served as a creative outlet and a personal tribute to his childhood.</description>
-    </item>
-
-    <item>
-      <title>Package Security Problems for AI Agents</title>
-      <link>https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html</link>
-      <guid>https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html</guid>
-      <pubDate>Wed, 08 Apr 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article examines how AI agents are uniquely vulnerable to traditional package security threats like typosquatting and registry poisoning. Because agents dynamically discover and install tools without human oversight, they can inadvertently execute malicious code from compromised or spoofed package repositories.</description>
-    </item>
-
-    <item>
-      <title>Mario and Earendil</title>
-      <link>https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</link>
-      <guid>https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>Armin Ronacher announces that Mario Zechner is joining Earendil. The post highlights Ronacher's admiration for Zechner's commitment to software quality, thoughtful design, and craftsmanship in the field of AI coding agents.</description>
-    </item>
-
-    <item>
-      <title>How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</guid>
-      <pubDate>Wed, 08 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>The article explains that you cannot directly add or remove a handle from an active MsgWaitForMultipleObjects call. Instead, you must design your application logic to signal the waiter to handle these updates internally.</description>
-    </item>
-
-    <item>
-      <title>Theatre Review: Avenue Q ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</guid>
-      <pubDate>Wed, 08 Apr 2026 11:34:25 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on re-watching the musical Avenue Q, contemplating the passage of time and the challenges of updating classic productions. The review highlights the emotional resonance of the show while discussing the balance between preserving a work's original charm and keeping it relevant.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Process knowledge (08 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</link>
-      <guid>https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</guid>
-      <pubDate>Wed, 08 Apr 2026 13:39:44 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article examines the problematic nature of the term 'intellectual property,' arguing that it is a vague, catch-all label for disparate legal doctrines and abstract concepts. It highlights how the conflation of copyright, patents, trademarks, and newer, less-defined rights complicates modern tech regulation and global trade policy.</description>
-    </item>
-
-    <item>
-      <title>Quoting Giles Turnbull</title>
-      <link>https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</guid>
-      <pubDate>Wed, 08 Apr 2026 15:18:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a reflection by Giles Turnbull on the double standard regarding AI adoption. It notes that while people enjoy using AI to mimic other professions, they often resent when AI is used to replace their own work.</description>
-    </item>
-
-    <item>
-      <title>Actually, people love to work hard</title>
-      <link>https://anildash.com/2026/04/06/people-love-to-work-hard/</link>
-      <guid>https://anildash.com/2026/04/06/people-love-to-work-hard/</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash challenges the common corporate trope that employees lack a desire to work hard. He argues that people are inherently motivated when they have clear goals, shared values, and trust, suggesting that claims of laziness are merely management tactics to suppress wages.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 498</title>
-      <link>https://www.troyhunt.com/weekly-update-498/</link>
-      <guid>https://www.troyhunt.com/weekly-update-498/</guid>
-      <pubDate>Tue, 07 Apr 2026 01:53:05 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt shares his frustrations regarding the administrative burden of chasing long-overdue invoices from clients. The update highlights the real-world difficulties of managing payment terms in a professional consulting business.</description>
-    </item>
-
-    <item>
-      <title>Michael Nielsen – How science actually progresses</title>
-      <link>https://www.dwarkesh.com/p/michael-nielsen</link>
-      <guid>https://www.dwarkesh.com/p/michael-nielsen</guid>
-      <pubDate>Tue, 07 Apr 2026 15:49:28 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>Michael Nielsen discusses the nuances of scientific progress, challenging traditional narratives about historical figures like Einstein, Newton, and Darwin. The conversation explores how scientific breakthroughs actually occur through collaborative environments and evolving methodologies rather than isolated genius.</description>
     </item>
   </channel>
 </rss>

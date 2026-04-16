@@ -1,6 +1,325 @@
 {
-  "last_updated": "2026-04-15T22:13:48.048Z",
+  "last_updated": "2026-04-16T22:12:24.868Z",
   "articles": [
+    {
+      "id": "b06dc189f4e0745b",
+      "title": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-04-16T11:33:06.000Z",
+      "summary_en": "This article serves as the fifth chapter of the 'SQLAlchemy 2 in Practice' book, focusing on advanced implementations of many-to-many relationships. It explores how to tweak standard relational database building blocks to achieve specific design goals.",
+      "summary_zh": "本文是《SQLAlchemy 2 in Practice》一書的第五章，專注於探討多對多關聯（many-to-many relationships）的進階實作。內容說明了如何調整關聯式資料庫的基礎結構，以達成特定的設計目標。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Database",
+        "ORM",
+        "Many-to-Many"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is part of a technical guide designed to teach readers how to implement specific database relationship patterns.",
+      "pacer_reason_zh": "此內容屬於技術指南的一部分，旨在教導讀者如何實作特定的資料庫關聯模式。"
+    },
+    {
+      "id": "cf5f8b327ea01ae5",
+      "title": "The Power of Possibility",
+      "url": "https://anildash.com/2026/04/16/girls-club-gala/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-16T00:00:00.000Z",
+      "summary_en": "Anil Dash advocates for the Lower Eastside Girls Club, highlighting its effective community-focused model and successful outcomes in STEM, arts, and leadership programs. He encourages readers to support the organization through direct donations or by attending their 30th Anniversary Gala.",
+      "summary_zh": "Anil Dash 呼籲支持下東城女孩俱樂部（Lower Eastside Girls Club），強調其以社區為中心的成功模式，並在 STEM、藝術及領導力培育方面取得顯著成果。他鼓勵讀者透過直接捐款或參加 30 週年晚宴來支持該組織。",
+      "keywords": [
+        "Lower Eastside Girls Club",
+        "nonprofit",
+        "community support",
+        "philanthropy",
+        "empowerment"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides specific evidence of the organization's impact, including graduation rate metrics and a description of their facility's resources.",
+      "pacer_reason_zh": "本文提供了組織影響力的具體證據，包括畢業率數據以及對其設施資源的描述。"
+    },
+    {
+      "id": "d445780e74d7b6ed",
+      "title": "What I learned this week - Pretraining parallelisms, Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails",
+      "url": "https://www.dwarkesh.com/p/what-i-learned-april-15",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-04-15T14:03:00.000Z",
+      "summary_en": "This digest explores advanced AI engineering topics, including pretraining parallelization techniques and the mechanics of pipeline reinforcement learning. It further examines the challenges of pretraining stability and the evolving dynamics of cybersecurity in the age of AI.",
+      "summary_zh": "本摘要探討了 AI 工程的高階主題，包括預訓練平行化技術與管線強化學習的運作機制。同時探討了預訓練穩定性面臨的挑戰，以及 AI 時代下網路安全動態的演變。",
+      "keywords": [
+        "AI Engineering",
+        "Pretraining",
+        "Reinforcement Learning",
+        "Cybersecurity",
+        "Machine Learning"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list or digest of technical topics and industry insights from a specific podcast episode.",
+      "pacer_reason_zh": "該內容彙整了特定播客集數中的技術主題與產業觀點，屬於參考性質的清單。"
+    },
+    {
+      "id": "ceb5d5b7546b0c96",
+      "title": "Features everyone should steal from npmx",
+      "url": "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-16T10:00:00.000Z",
+      "summary_en": "The article discusses the impact of npmx.dev, an alternative npm frontend that has revitalized development for the package registry. It highlights how npmx serves as a practical reference for registry features, including transitive install size tracking and security disclosures for install scripts.",
+      "summary_zh": "本文探討了 npmx.dev 作為 npm 註冊表的替代前端，如何透過開放原始碼與實用功能推動生態系的改進。文章重點介紹了該專案提供的參考價值，特別是在顯示依賴包安裝大小以及揭露安裝腳本安全性方面的創新。",
+      "keywords": [
+        "npm",
+        "npmx",
+        "open source",
+        "package registry",
+        "web development"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study on how a community-driven alternative project influences the development and feature backlog of an established, closed-source platform.",
+      "pacer_reason_zh": "本文是一個案例研究，探討社群驅動的替代專案如何影響已建立的封閉原始碼平台之功能開發與進度。"
+    },
+    {
+      "id": "f0b8873edc53f23c",
+      "title": "I truly hate mostpeopleslop",
+      "url": "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-16T04:50:26.000Z",
+      "summary_en": "This article explores the decline of social media writing quality, citing Joe Sugarman’s copywriting principle that the first sentence exists solely to hook the reader. It critiques the current trend of 'slop' content, where the focus on engagement has undermined the purpose of effective, compelling communication.",
+      "summary_zh": "本文探討了社群媒體寫作品質的下降，引用了喬·舒格曼的文案原則，即第一句話的唯一目的是吸引讀者閱讀第二句話。作者批評了當前「粗製濫造」的內容趨勢，指出過度追求互動已削弱了有效且引人入勝的溝通本質。",
+      "keywords": [
+        "copywriting",
+        "social media",
+        "content quality",
+        "engagement",
+        "Joe Sugarman"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a concept or theory regarding writing quality and the nature of modern content creation.",
+      "pacer_reason_zh": "本文側重於闡述關於寫作品質及現代內容創作本質的概念與理論。"
+    },
+    {
+      "id": "590b3b459ee48cf7",
+      "title": "Newton diameters",
+      "url": "https://www.johndcook.com/blog/2026/04/16/newton-diameters/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-16T12:02:13.000Z",
+      "summary_en": "The post defines Newton diameters, which are lines that intersect the zero set of an nth-degree polynomial exactly n times. It explores this mathematical concept using the example of a circle's diameter to illustrate how geometric lines relate to polynomial roots.",
+      "summary_zh": "本文介紹了牛頓直徑的定義，即與 n 次多項式的零集恰好交於 n 點的直線。文章透過圓形直徑的例子，說明了幾何直線與多項式根之間的數學關係。",
+      "keywords": [
+        "Newton diameters",
+        "polynomials",
+        "mathematics",
+        "geometry",
+        "zero sets"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical concept and its theoretical definition.",
+      "pacer_reason_zh": "本文解釋了一個特定的數學概念及其理論定義。"
+    },
+    {
+      "id": "faf1d75a70b6d999",
+      "title": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-16T14:00:00.000Z",
+      "summary_en": "This post investigates an undocumented Windows message, 0x0091, which appears to be used internally by the system. The author warns against intercepting or relying on such system-reserved messages due to the risk of unexpected behavior.",
+      "summary_zh": "本文探討了未公開的 Windows 訊息 0x0091，該訊息似乎由系統內部使用。作者警告不應攔截或依賴此類系統保留訊息，以免導致未預期的行為。",
+      "keywords": [
+        "Windows API",
+        "System Messages",
+        "0x0091",
+        "The Old New Thing",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation regarding the nature and proper handling of reserved system messages.",
+      "pacer_reason_zh": "本文針對系統保留訊息的本質及其正確處理方式提供了概念性的解釋。"
+    },
+    {
+      "id": "22c38c04e75cb14e",
+      "title": "RSS Club for WordPress",
+      "url": "https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-16T11:34:10.000Z",
+      "summary_en": "The author introduces 'RSS Club,' a method to create exclusive content hidden from website visitors but visible to RSS and Atom feed subscribers. The post outlines the technical requirements for WordPress users to implement this gatekeeping feature on their own blogs.",
+      "summary_zh": "作者介紹了「RSS Club」的概念，這是一種將獨家內容隱藏在網站頁面之外，僅提供給 RSS 和 Atom 訂閱者閱讀的方法。文章進一步說明了 WordPress 用戶如何在自己的部落格上實作此功能的技術需求。",
+      "keywords": [
+        "RSS",
+        "WordPress",
+        "Content Strategy",
+        "Web Development",
+        "Privacy"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide, explaining the specific requirements and steps to implement the RSS-exclusive content feature.",
+      "pacer_reason_zh": "本文屬於操作指南，說明了實作 RSS 專屬內容功能所需的具體需求與步驟。"
+    },
+    {
+      "id": "a45b99892b9ed273",
+      "title": "Why is it so hard to passively stalk my friends' locations?",
+      "url": "https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-15T11:34:45.000Z",
+      "summary_en": "The author explores the technical and social challenges of location-sharing tools, highlighting the tension between the desire for serendipitous social encounters and privacy concerns. He reflects on why modern technology makes it difficult to passively track friends' locations despite the potential for spontaneous meetups.",
+      "summary_zh": "作者探討了地理位置分享工具在技術與社交層面上的挑戰，反映了人們在渴望隨機社交機遇與隱私保障之間的矛盾。文中剖析了為何在現代科技環境下，想要被動追蹤好友位置以實現不期而遇仍相當困難。",
+      "keywords": [
+        "location sharing",
+        "privacy",
+        "social serendipity",
+        "geolocation",
+        "digital networking"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of the social and technical friction inherent in location-based networking.",
+      "pacer_reason_zh": "本文是對基於地理位置的社交網絡中，社交與技術摩擦的觀念性探討。"
+    },
+    {
+      "id": "53307694ac774aeb",
+      "title": "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-16T11:09:32.000Z",
+      "summary_en": "Cory Doctorow argues that focusing on hypothetical future AI existential risks is a distraction from the immediate dangers posed by unchecked corporate power and surveillance. He asserts that we should prioritize regulating current technologies used to exploit workers rather than speculating about AI's potential sentience.",
+      "summary_zh": "Cory Doctorow 認為，將注意力集中在假設性的 AI 未來生存風險上，會掩蓋當前企業權力膨脹與監視技術帶來的直接威脅。他主張我們應該優先處理現有技術對勞工的剝削問題，而非過度擔憂 AI 的潛在智慧。",
+      "keywords": [
+        "AI",
+        "Doctorow",
+        "TechEthics",
+        "CorporatePower",
+        "Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique that challenges common narratives surrounding AI risks and shifts the focus toward existing socio-political issues.",
+      "pacer_reason_zh": "本文是一篇概念性評論，旨在挑戰目前關於 AI 風險的主流敘事，並將關注點轉向現有的社會政治問題。"
+    },
+    {
+      "id": "db38d0a0002794e5",
+      "title": "\nAI cybersecurity is not proof of work\n",
+      "url": "\nhttp://antirez.com/news/163\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-04-16T10:46:46.000Z",
+      "summary_en": "The author argues that AI-driven cybersecurity should not be viewed through the lens of 'proof of work,' where more computational power guarantees success. Instead, finding software vulnerabilities depends on model intelligence, as weaker models lack the reasoning capacity to identify complex bugs regardless of how much compute is applied.",
+      "summary_zh": "作者認為AI網路安全不應被視為「工作量證明」，即認為算力增加就能保證發現漏洞。相反地，發現軟體漏洞取決於模型本身的智慧程度，因為較弱的模型即便投入再多算力，也無法理解或辨識複雜的程式錯誤。",
+      "keywords": [
+        "AI Cybersecurity",
+        "Proof of Work",
+        "LLM",
+        "Vulnerability Discovery",
+        "Model Intelligence"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'proof of work' mechanism as an analogy to explain why computing power is insufficient for AI bug discovery.",
+      "pacer_reason_zh": "文章利用「工作量證明」機制作為類比，解釋為何僅憑算力不足以讓AI發現軟體漏洞。"
+    },
+    {
+      "id": "e68bca815842db18",
+      "title": "llm-anthropic 0.25",
+      "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-16T20:37:12.000Z",
+      "summary_en": "The llm-anthropic 0.25 update introduces support for the claude-opus-4.7 model and new thinking process configurations. It also increases default token limits and removes obsolete beta headers for better compatibility.",
+      "summary_zh": "llm-anthropic 0.25 更新支援了 claude-opus-4.7 模型與新的思維過程配置選項。同時提高了預設 token 上限，並移除了舊有的測試版標頭以提升相容性。",
+      "keywords": [
+        "llm",
+        "anthropic",
+        "claude",
+        "software update",
+        "API"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release note detailing specific changes, new features, and technical updates for a software tool.",
+      "pacer_reason_zh": "此內容為軟體發布說明，詳細列出了特定變更、新功能及技術更新。"
+    },
+    {
+      "id": "6b6d9ea3d2062eed",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-16T17:16:52.000Z",
+      "summary_en": "Simon Willison compares image generation capabilities between the Qwen3.6-35B-A3B model running locally and Claude Opus 4.7. He uses his quirky 'pelican riding a bicycle' benchmark to evaluate the accuracy of the outputs, finding that the smaller local model outperformed the larger model.",
+      "summary_zh": "Simon Willison 比較了本地運行的 Qwen3.6-35B-A3B 模型與 Claude Opus 4.7 的圖像生成能力。他運用個人趣味的「鵜鶘騎腳踏車」基準測試來評估輸出結果，發現該本地模型在圖像準確度上勝過了 Claude Opus。",
+      "keywords": [
+        "LLM",
+        "Qwen",
+        "Claude",
+        "benchmark",
+        "local-AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a comparative test of two models using a specific prompt as an informal benchmark for image generation quality.",
+      "pacer_reason_zh": "該文章透過特定提示詞作為非正式基準，比較並展示了兩個 AI 模型在圖像生成品質上的實測結果。"
+    },
+    {
+      "id": "e08576616f920335",
+      "title": "datasette.io news preview",
+      "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-16T00:18:03.000Z",
+      "summary_en": "Simon Willison developed a custom preview tool to simplify editing the YAML-based news feed for the Datasette website. By leveraging Claude Artifacts, the tool provides a side-by-side view to validate YAML formatting and render the resulting Markdown content in real-time.",
+      "summary_zh": "Simon Willison 開發了一個自定義預覽工具，用以簡化 Datasette 網站中基於 YAML 格式的新聞資訊編輯流程。透過使用 Claude Artifacts，該工具能提供即時的並排預覽，協助驗證 YAML 格式並渲染相應的 Markdown 內容。",
+      "keywords": [
+        "Datasette",
+        "YAML",
+        "Claude Artifacts",
+        "Development Tools",
+        "Web Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates how the author built a specific utility tool to streamline a workflow, functioning as a practical implementation guide.",
+      "pacer_reason_zh": "本文展示了作者如何構建特定的實用工具來簡化工作流程，屬於實際應用教學的性質。"
+    },
+    {
+      "id": "a1e8bdd1398719e5",
+      "title": "datasette-export-database 0.3a1",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T23:52:35.000Z",
+      "summary_en": "Datasette-export-database version 0.3a1 has been released. This update addresses a breaking change in Datasette 1.0a27 regarding the removal of the ds_csrftoken cookie, requiring an update to how the plugin handles signed URLs.",
+      "summary_zh": "Datasette-export-database 發布 0.3a1 版本。此次更新修正了 Datasette 1.0a27 移除 ds_csrftoken Cookie 後導致的相容性問題，並調整了插件處理簽署 URL 的方式。",
+      "keywords": [
+        "datasette",
+        "plugin",
+        "software update",
+        "csrf",
+        "database"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for plugin versioning and compatibility updates.",
+      "pacer_reason_zh": "這是一則軟體發布公告，作為插件版本控制與相容性更新的參考資訊。"
+    },
+    {
+      "id": "112c4f7bb7c9fab9",
+      "title": "datasette 1.0a27",
+      "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-15T23:16:34.000Z",
+      "summary_en": "Datasette 1.0a27 introduces significant updates, including a move away from Django-style CSRF tokens in favor of modern browser headers. It also adds a RenameTableEvent for plugin compatibility and introduces new parameters for the Datasette client and database handling.",
+      "summary_zh": "Datasette 1.0a27 發布了重要更新，包括放棄 Django 風格的 CSRF 令牌，改用現代瀏覽器標頭。此外，更新中還新增了 RenameTableEvent 以增強插件相容性，並優化了客戶端 API 與資料庫處理機制。",
+      "keywords": [
+        "datasette",
+        "sqlite",
+        "software release",
+        "web security",
+        "python"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content is a release announcement serving as a reference for software changes, new features, and technical updates.",
+      "pacer_reason_zh": "本文為軟體發布公告，作為軟體變更、新功能及技術更新的參考資料。"
+    },
     {
       "id": "0d007d8001809cbc",
       "title": "Speed is Not Conducive to Wisdom",
