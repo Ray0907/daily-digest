@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-04-16T22:12:24.868Z",
+  "last_updated": "2026-04-17T22:10:29.623Z",
   "articles": [
+    {
+      "id": "936a8eaf07bca80a",
+      "title": "Here's What Agentic AI Can Do With Have I Been Pwned's APIs",
+      "url": "https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-04-16T23:09:24.000Z",
+      "summary_en": "Troy Hunt explores the practical integration of Agentic AI with the 'Have I Been Pwned' API. He balances skepticism regarding AI hype with a demonstration of how agents can perform genuinely useful security tasks.",
+      "summary_zh": "Troy Hunt 探討了 Agentic AI 與「Have I Been Pwned」API 的實際整合應用。他對人工智慧的炒作持保留態度，並展示了 AI 代理如何能執行真正有用的安全性任務。",
+      "keywords": [
+        "Agentic AI",
+        "Have I Been Pwned",
+        "API",
+        "Cybersecurity",
+        "Troy Hunt"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific practical implementation and case study to demonstrate the actual utility of AI agents.",
+      "pacer_reason_zh": "本文透過具體的實際應用與案例研究，展示了 AI 代理的實際效用。"
+    },
+    {
+      "id": "bf325ff1e19a8042",
+      "title": "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
+      "url": "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-04-17T16:12:17.000Z",
+      "summary_en": "This article examines the historical and pseudo-historical origins of the Rennes-le-Château mystery, focusing on the impact of the 1982 book 'The Holy Blood and the Holy Grail'. It traces how these narratives influenced the development of the video game 'Gabriel Knight 3'.",
+      "summary_zh": "本文探討了雷恩堡（Rennes-le-Château）之謎的歷史與偽歷史根源，特別聚焦於 1982 年出版的《聖血與聖杯》一書。文中記錄了這些敘事如何影響電子遊戲《Gabriel Knight 3》的開發過程。",
+      "keywords": [
+        "Rennes-le-Château",
+        "Gabriel Knight 3",
+        "The Holy Blood and the Holy Grail",
+        "Digital Antiquarian",
+        "history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the historical context and conceptual background behind a specific cultural mystery and its influence on media.",
+      "pacer_reason_zh": "本文解釋了特定文化謎團的歷史背景與概念，以及其對媒體內容的影響。"
+    },
+    {
+      "id": "25afe3af3ddc72b5",
+      "title": "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-17T11:34:26.000Z",
+      "summary_en": "This book review explores 'How To Kill A Witch,' which investigates the historical realities and societal motivations behind the Scottish Witch Trials. The author examines why women were targeted and discusses the lingering modern consequences of these historical persecutions.",
+      "summary_zh": "這篇書評探討了《如何殺死女巫》一書，深入分析蘇格蘭獵巫審判背後的歷史真相與社會動機。作者探討了女性為何成為目標，並討論了這些歷史迫害在現代所產生的持續影響。",
+      "keywords": [
+        "Book Review",
+        "Witch Trials",
+        "Scottish History",
+        "Patriarchy",
+        "Gender History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and historical explanation of the origins and consequences of witch trials.",
+      "pacer_reason_zh": "內容提供了關於獵巫審判起源與後果的概念性概述與歷史解釋。"
+    },
+    {
+      "id": "e164c74c93d0e168",
+      "title": "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/17/for-youze/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-17T10:30:52.000Z",
+      "summary_en": "Cory Doctorow analyzes how Facebook’s shift toward algorithmic content, or 'Tiktokification,' prioritizes engagement over organic social connection. By forcing users to interact with strangers rather than friends, the platform seeks to maximize revenue at the expense of genuine user context.",
+      "summary_zh": "Cory Doctorow 分析了 Facebook 如何透過演算法內容（即「TikTok 化」）將參與度置於有機社交連結之上。平台藉由強制用戶觀看陌生人的貼文來最大化營收，卻犧牲了用戶之間真實的互動脈絡。",
+      "keywords": [
+        "Facebook",
+        "Tiktokification",
+        "Social Media",
+        "Algorithm",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual shift in social media business models, focusing on the theory behind why platforms abandon social networking for algorithmic feed content.",
+      "pacer_reason_zh": "本文解釋了社群媒體商業模式的概念轉變，探討為何平台會放棄社交網路機制，改採演算法資訊流內容的背後理論。"
+    },
+    {
+      "id": "a8d54db70e1098bd",
+      "title": "datasette 1.0a28",
+      "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-17T04:01:56.000Z",
+      "summary_en": "Datasette 1.0a28 is a maintenance release that addresses compatibility issues and resource management bugs introduced in version 1.0a27. It introduces improved connection handling, new close methods, and an automatic pytest cleanup plugin to prevent file descriptor exhaustion.",
+      "summary_zh": "Datasette 1.0a28 是一個維護版本，主要修復了 1.0a27 版本中引入的相容性錯誤與資源管理問題。本次更新改進了連線處理機制、新增了關閉方法，並引入了 pytest 自動清理插件以避免檔案描述符過度消耗。",
+      "keywords": [
+        "datasette",
+        "software-release",
+        "pytest",
+        "bug-fix",
+        "sqlite"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a release note detailing specific software updates, bug fixes, and technical changes.",
+      "pacer_reason_zh": "內容屬於軟體發布說明，詳細列出了更新項目、錯誤修復及技術變更細節。"
+    },
     {
       "id": "b06dc189f4e0745b",
       "title": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",

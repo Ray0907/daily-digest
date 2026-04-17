@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 16 Apr 2026 22:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:10:29 GMT</lastBuildDate>
     
+    <item>
+      <title>Here's What Agentic AI Can Do With Have I Been Pwned's APIs</title>
+      <link>https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</link>
+      <guid>https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</guid>
+      <pubDate>Thu, 16 Apr 2026 23:09:24 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt explores the practical integration of Agentic AI with the 'Have I Been Pwned' API. He balances skepticism regarding AI hype with a demonstration of how agents can perform genuinely useful security tasks.</description>
+    </item>
+
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction</title>
+      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</link>
+      <guid>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</guid>
+      <pubDate>Fri, 17 Apr 2026 16:12:17 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This article examines the historical and pseudo-historical origins of the Rennes-le-Château mystery, focusing on the impact of the 1982 book 'The Holy Blood and the Holy Grail'. It traces how these narratives influenced the development of the video game 'Gabriel Knight 3'.</description>
+    </item>
+
+    <item>
+      <title>Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</guid>
+      <pubDate>Fri, 17 Apr 2026 11:34:26 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This book review explores 'How To Kill A Witch,' which investigates the historical realities and societal motivations behind the Scottish Witch Trials. The author examines why women were targeted and discusses the lingering modern consequences of these historical persecutions.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Tiktokification shall set us free (17 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/17/for-youze/</link>
+      <guid>https://pluralistic.net/2026/04/17/for-youze/</guid>
+      <pubDate>Fri, 17 Apr 2026 10:30:52 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow analyzes how Facebook’s shift toward algorithmic content, or 'Tiktokification,' prioritizes engagement over organic social connection. By forcing users to interact with strangers rather than friends, the platform seeks to maximize revenue at the expense of genuine user context.</description>
+    </item>
+
+    <item>
+      <title>datasette 1.0a28</title>
+      <link>https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</guid>
+      <pubDate>Fri, 17 Apr 2026 04:01:56 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette 1.0a28 is a maintenance release that addresses compatibility issues and resource management bugs introduced in version 1.0a27. It introduces improved connection handling, new close methods, and an automatic pytest cleanup plugin to prevent file descriptor exhaustion.</description>
+    </item>
+
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships</title>
       <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</link>
@@ -865,51 +910,6 @@ http://antirez.com/news/163
       <pubDate>Thu, 09 Apr 2026 00:18:57 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
       <description>This post discusses Andrica's conjecture, which posits that the difference between the square roots of consecutive prime numbers is always less than one. The author notes that while this remains unproven, it has been empirically verified for primes up to 2 × 10^19.</description>
-    </item>
-
-    <item>
-      <title>A Three- and a Four- Body Problem</title>
-      <link>https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</guid>
-      <pubDate>Wed, 08 Apr 2026 23:30:15 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the orbital mechanics of the Artemis I and Artemis II missions, focusing on the differences in trajectory and duration. It highlights how the unmanned nature of Artemis I allowed for a more complex, longer-duration orbit compared to the crewed Artemis II mission.</description>
-    </item>
-
-    <item>
-      <title>How do you add or remove a handle from an active Wait­For­Multiple­Objects?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</guid>
-      <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>The article explains that it is impossible to directly modify the handles being monitored by an active WaitForMultipleObjects call. Instead, the author advises using a cooperative approach between threads to manage the monitored objects.</description>
-    </item>
-
-    <item>
-      <title>I quit drinking for a year</title>
-      <link>https://dynomight.net/drinking/</link>
-      <guid>https://dynomight.net/drinking/</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://dynomight.net/">DYNOMIGHT</source>
-      <description>The author recounts their experience of quitting alcohol for over a year after a spontaneous decision triggered by a discussion about 'damp January.' They discovered that total abstinence was surprisingly easier than moderate drinking because it removed the mental burden of constantly deciding whether or not to consume alcohol.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:34:59 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>Terence Eden reviews the book 'Small Comfort' by Ia Genberg, expressing mixed feelings about its execution. While he appreciates the experimental structure of interrelated stories, he finds the overall narrative unconvincing and disjointed.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Cindy Cohn's &quot;Privacy's Defender&quot; (09 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/09/bernstein-2/</link>
-      <guid>https://pluralistic.net/2026/04/09/bernstein-2/</guid>
-      <pubDate>Thu, 09 Apr 2026 10:50:56 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow highlights the memoir of EFF executive director Cindy Cohn, 'Privacy's Defender,' which chronicles her decades-long fight for digital rights. The post focuses on her pivotal role in the landmark Bernstein case, which established that code constitutes protected free speech.</description>
     </item>
   </channel>
 </rss>
