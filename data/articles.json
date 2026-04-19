@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-04-18T22:06:33.670Z",
+  "last_updated": "2026-04-19T22:06:42.575Z",
   "articles": [
+    {
+      "id": "1fd2e40f35d85818",
+      "title": "Figma's woes compound with Claude Design",
+      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-04-19T00:00:00.000Z",
+      "summary_en": "Figma faces increasing competitive pressure as AI tools like Claude Design emerge. The platform's dependency on non-designer user bases makes it particularly vulnerable to these new automated design solutions.",
+      "summary_zh": "Figma 正面臨來自 Claude Design 等 AI 工具日益增長的競爭壓力。由於 Figma 的商業模式過於依賴非設計師用戶，使其在面對這些新興自動化設計方案時顯得特別脆弱。",
+      "keywords": [
+        "Figma",
+        "Claude Design",
+        "AI",
+        "UI/UX",
+        "Product Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual business challenge Figma faces due to AI market shifts.",
+      "pacer_reason_zh": "本文解釋了 Figma 因 AI 市場轉變而面臨的概念性商業挑戰。"
+    },
+    {
+      "id": "00591345fe51a3ed",
+      "title": "Big tech clouds worden niet veiliger met stapels papier",
+      "url": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-04-19T19:00:00.000Z",
+      "summary_en": "This article discusses the inherent risks of relying on American cloud providers for critical government and societal infrastructure. It argues that U.S. laws and geopolitical control override local agreements, making data and services vulnerable to unilateral U.S. intervention regardless of server location.",
+      "summary_zh": "本文探討了將關鍵政府與社會基礎設施託付給美國雲端供應商所帶來的固有風險。作者指出，美國法律與地緣政治控制凌駕於本地協議之上，無論伺服器位於何處，數據與服務皆可能因美國單方面的政策而面臨中斷風險。",
+      "keywords": [
+        "cloud computing",
+        "data sovereignty",
+        "US law",
+        "cybersecurity",
+        "digital infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual risks and theoretical challenges inherent in the current model of international cloud reliance.",
+      "pacer_reason_zh": "本文旨在解釋當前依賴國際雲端服務模式中固有的風險與理論挑戰。"
+    },
+    {
+      "id": "f3655cea1c229f96",
+      "title": "Hitachi Ltd, Part II",
+      "url": "https://www.abortretry.fail/p/hitachi-ltd-part-ii",
+      "source": "Abort Retry Fail",
+      "source_url": "https://www.abortretry.fail/",
+      "published": "2026-04-19T20:36:46.000Z",
+      "summary_en": "This post continues the exploration of Hitachi's semiconductor history, specifically focusing on the H8, PA-RISC, and SuperH processor architectures. It examines the technical evolution and legacy of these significant computing platforms within Hitachi's product portfolio.",
+      "summary_zh": "本文延續了對日立半導體歷史的探討，重點介紹 H8、PA-RISC 和 SuperH 處理器架構。文中審視了這些重要運算平台在日立產品組合中的技術演進及其歷史影響。",
+      "keywords": [
+        "Hitachi",
+        "H8",
+        "PA-RISC",
+        "SuperH",
+        "Semiconductors"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a historical and technical explanation of specific processor architectures.",
+      "pacer_reason_zh": "該內容是對特定處理器架構的歷史與技術解釋。"
+    },
+    {
+      "id": "084a42f7920b1173",
+      "title": "Hook It Up to the Machine",
+      "url": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-19T19:00:00.000Z",
+      "summary_en": "The author reflects on a childhood road trip in an overheating van that required a specialized computer diagnostic to fix. This anecdote illustrates the historical shift toward complex, software-dependent systems in modern mechanics.",
+      "summary_zh": "作者回憶起童年時一輛因過熱而故障的休旅車，必須透過電腦檢測才能找出問題。這個故事闡述了現代機械系統逐漸轉向依賴軟體診斷的技術轉變。",
+      "keywords": [
+        "mechanics",
+        "diagnostics",
+        "software",
+        "history",
+        "technology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a personal anecdote about a car repair to illustrate the broader conceptual shift toward computer-dependent technology.",
+      "pacer_reason_zh": "文章透過個人的修車經歷，類比並說明了現代技術轉向依賴電腦診斷的趨勢。"
+    },
+    {
+      "id": "b121c38713eae2e0",
+      "title": "Wander Console 0.5.0",
+      "url": "https://susam.net/code/news/wander/0.5.0.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-04-19T00:00:00.000Z",
+      "summary_en": "Wander Console 0.5.0 introduces a new built-in network crawler that performs a breadth-first search to discover interconnected websites and page recommendations. This update simplifies the exploration of the Wander community network and provides straightforward upgrade and setup instructions for personal website owners.",
+      "summary_zh": "Wander Console 0.5.0 推出內建網路爬蟲功能，可透過廣度優先搜尋（BFS）探索連結網站與推薦內容。此更新讓個人網站擁有者能更輕鬆地加入 Wander 社群網路，並提供了簡易的升級與安裝指南。",
+      "keywords": [
+        "Wander Console",
+        "web crawler",
+        "decentralized web",
+        "web development",
+        "BFS"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an announcement that provides specific instructions on how to install, upgrade, and use the new crawler feature.",
+      "pacer_reason_zh": "本文作為發布公告，提供了關於安裝、升級以及如何使用新爬蟲功能的具體操作說明。"
+    },
+    {
+      "id": "d12a0c9d012e8cab",
+      "title": "Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)",
+      "url": "https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-19T11:34:32.000Z",
+      "summary_en": "This post provides a technical guide on converting dual fisheye video files from an obsolete LG 360 camera into the equirectangular format. It demonstrates how to use the FFmpeg command-line tool with the v360 filter to make these videos compatible with modern spherical video players.",
+      "summary_zh": "本文提供了一份技術指南，說明如何將 LG 360 相機拍攝的雙魚眼格式影片轉換為等距柱狀投影（equirectangular）格式。作者展示了如何使用 FFmpeg 工具的 v360 濾鏡，讓這些過時格式的影片能在現代全景播放器中正常顯示。",
+      "keywords": [
+        "FFmpeg",
+        "LG 360",
+        "video conversion",
+        "dual fisheye",
+        "equirectangular"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a practical, step-by-step tutorial on how to use software commands to achieve a specific video format conversion.",
+      "pacer_reason_zh": "本文是一篇實用的逐步教學指南，示範如何透過軟體指令來完成特定的影片格式轉換。"
+    },
+    {
+      "id": "3f6c048bb25e54bf",
+      "title": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-04-18T00:00:00.000Z",
+      "summary_en": "This post explores the design of a 5x5 pixel font optimized for extremely low-memory embedded systems like 8-bit microcontrollers. The author explains why 5x5 is the minimal size for legible typography and compares the efficiency of this hand-crafted approach to traditional antialiased vector fonts.",
+      "summary_zh": "這篇文章探討了專為 8 位元微控制器等極低記憶體嵌入式系統設計的 5x5 像素字型。作者說明了為何 5x5 是確保字體可讀性的最小尺寸，並將這種手工製作的方法與傳統的反鋸齒向量字型進行了效率比較。",
+      "keywords": [
+        "pixel font",
+        "embedded systems",
+        "typography",
+        "microcontrollers",
+        "C header"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content provides specific font data, technical specifications, and reference materials for developers working on low-memory displays.",
+      "pacer_reason_zh": "內容提供了具體的字型數據、技術規格以及供開發者在低記憶體顯示器上參考的資料。"
+    },
+    {
+      "id": "55e625e03c8e56a9",
+      "title": "Headless everything for personal AI",
+      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-19T21:46:38.000Z",
+      "summary_en": "The rise of 'headless' services, where platforms expose their functionality via APIs rather than user-facing GUIs, is set to revolutionize how personal AI agents interact with software. This shift allows AI to execute tasks more efficiently while posing significant challenges to traditional per-seat SaaS pricing models.",
+      "summary_zh": "「無頭」（headless）服務正逐漸興起，平台透過 API 而非用戶介面來提供功能，這將徹底改變個人 AI 代理與軟體互動的方式。這種轉變不僅能提升 AI 執行任務的效率，也對傳統按人頭計費的 SaaS 定價模式構成了挑戰。",
+      "keywords": [
+        "headless",
+        "AI agents",
+        "SaaS",
+        "APIs",
+        "Salesforce"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift toward headless services and the theoretical implications for AI integration and business pricing models.",
+      "pacer_reason_zh": "本文探討了轉向「無頭」服務的概念性趨勢，以及其對 AI 整合與軟體定價模式的理論性影響。"
+    },
+    {
+      "id": "e72047652dc3db52",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-18T23:59:40.000Z",
+      "summary_en": "Simon Willison examines the evolution of Anthropic's system prompts by comparing the versions between Claude Opus 4.6 and 4.7. The post highlights specific updates, such as the rebranding of the developer platform and the addition of new tool capabilities like Claude in PowerPoint.",
+      "summary_zh": "Simon Willison 透過比較 Claude Opus 4.6 與 4.7 的系統提示詞，探討了 Anthropic 模型架構的演進。文章重點整理了關鍵變更，包括開發者平台更名以及新增了「Claude in PowerPoint」等工具功能。",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "system prompt",
+        "AI research",
+        "git diff"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a comparative analysis and evidence-based breakdown of specific changes between two software versions.",
+      "pacer_reason_zh": "文章透過比較兩個軟體版本之間的差異，提供了具體的分析與證據基礎。"
+    },
+    {
+      "id": "67c4827c500f98ac",
+      "title": "Claude system prompts as a git timeline",
+      "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-18T12:25:00.000Z",
+      "summary_en": "Simon Willison converted Anthropic's Claude system prompts into a git-style timeline to track version history. By assigning fake commit dates to these prompts, he created a browsable interface for analyzing incremental model changes.",
+      "summary_zh": "Simon Willison 將 Anthropic 的 Claude 系統提示詞轉換為 Git 風格的時間軸，以便追蹤版本演變。透過為這些提示詞分配模擬的提交日期，他建立了一個可瀏覽的介面來分析模型的增量變化。",
+      "keywords": [
+        "Claude",
+        "system-prompts",
+        "git",
+        "version-control",
+        "Anthropic"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes the technical process and methodology used to transform documentation into a version-controlled timeline.",
+      "pacer_reason_zh": "該文章描述了將文件轉換為版本控制時間軸的技術流程與方法論。"
+    },
     {
       "id": "49e2ff74d324a973",
       "title": "America lost the Mandate of Heaven",
