@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-04-19T22:06:42.575Z",
+  "last_updated": "2026-04-20T22:13:32.740Z",
   "articles": [
+    {
+      "id": "97c21652488d35cb",
+      "title": "Discovering Prince, Ten Years Later",
+      "url": "https://anildash.com/2026/04/20/prince-ten-years/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-20T00:00:00.000Z",
+      "summary_en": "Anil Dash reflects on the tenth anniversary of Prince's passing by curating a collection of his own writings, playlists, and analytical work. The post serves as a guide for new fans to explore Prince's extensive musical catalog, music videos, and cultural legacy.",
+      "summary_zh": "Anil Dash 在 Prince 去世十週年之際，整理了他過去關於這位傳奇音樂人的文章、播放清單與研究心得。這篇文章旨在作為引導，幫助新樂迷深入探索 Prince 的音樂目錄、音樂錄影帶及其文化影響力。",
+      "keywords": [
+        "Prince",
+        "Anil Dash",
+        "Music History",
+        "Pop Culture",
+        "Discography"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a curated reference list and starting point for exploring Prince's discography and media legacy.",
+      "pacer_reason_zh": "本文主要作為精選的參考清單，為讀者提供探索 Prince 音樂作品與影音遺產的起點。"
+    },
+    {
+      "id": "b2caa127e6a32215",
+      "title": "What is freedom?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-19T16:00:00.000Z",
+      "summary_en": "The author critiques conventional definitions of freedom, arguing that political engagement, dissent, and protest are ineffective performances that fail to deliver tangible results. Instead, the piece suggests that true freedom is found in personal agency, safety, and individual optionality rather than participation in systemic political theater.",
+      "summary_zh": "作者批評了傳統對於「自由」的定義，認為參與政治、異議與抗議往往只是無效的表演，無法帶來實質改變。文章主張真正的自由應源於個人自主權、安全感與生活選擇，而非深陷於體制內的政治劇場。",
+      "keywords": [
+        "freedom",
+        "politics",
+        "dissent",
+        "agency",
+        "optionality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and conceptualizing a subjective idea of freedom compared to the conventional political understanding.",
+      "pacer_reason_zh": "本文重點在於重新定義與概念化「自由」的主觀含義，並將其與傳統政治框架進行對比分析。"
+    },
+    {
+      "id": "7ebc112fc44318b2",
+      "title": "How we lost the living Now",
+      "url": "https://www.joanwestenberg.com/how-we-lost-the-living-now/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-20T01:01:22.000Z",
+      "summary_en": "The article explores how the necessity of synchronized railway schedules in the 19th century fundamentally altered our perception of time. It highlights the shift from local, solar-based timekeeping to the high-precision, standardized synchronization that defines our modern era.",
+      "summary_zh": "這篇文章探討了 19 世紀鐵路時刻表的同步需求，如何從根本上改變了人類對時間的感知。它強調了從基於地方太陽的時間觀，轉向定義現代的高精度標準化時間的過程。",
+      "keywords": [
+        "timekeeping",
+        "railway",
+        "standardization",
+        "history",
+        "synchronization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how historical technological shifts fundamentally changed human perception and societal structures regarding time.",
+      "pacer_reason_zh": "本文對歷史技術變遷如何從根本上改變人類對時間的認知與社會結構提供了概念性的解釋。"
+    },
+    {
+      "id": "5257d0da786994d8",
+      "title": "256 Lines or Less: Test Case Minimization",
+      "url": "https://matklad.github.io/2026/04/20/test-case-minimization.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-04-20T00:00:00.000Z",
+      "summary_en": "The article introduces a minimalist property-based testing (PBT) library implemented in under 256 lines of Zig code. It highlights the utility of a Finite Random Number Generator (FRNG) as a core abstraction for efficient testing and debugging.",
+      "summary_zh": "這篇文章介紹了一個以不到 256 行 Zig 程式碼實作的極簡屬性測試（PBT）函式庫。作者強調了以有限隨機數生成器（FRNG）作為核心抽象，在測試與除錯上的高效能價值。",
+      "keywords": [
+        "Zig",
+        "PBT",
+        "Property Based Testing",
+        "FRNG",
+        "Software Testing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial and code-focused guide on implementing a specific minimalist testing tool in the Zig programming language.",
+      "pacer_reason_zh": "該文章作為教學與程式碼指南，示範如何在 Zig 程式語言中實作特定的極簡測試工具。"
+    },
+    {
+      "id": "14ba4d4fb8d1a920",
+      "title": "More on Newton’s diameter theorem",
+      "url": "https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-20T13:50:33.000Z",
+      "summary_en": "This post provides a follow-up discussion on Newton’s diameter theorem, which involves identifying the centers of chords created by parallel lines intersecting a polynomial curve. It explores the mathematical properties of these midpoints and their alignment along a specific line.",
+      "summary_zh": "本文深入探討了牛頓直徑定理，該定理涉及找出由平行線與多項式曲線相交所形成的弦之中心點。文章進一步分析了這些中點如何排列在一條特定的直線上。",
+      "keywords": [
+        "Newton's diameter theorem",
+        "polynomials",
+        "geometry",
+        "mathematics",
+        "chords"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical theory and its properties.",
+      "pacer_reason_zh": "本文旨在解釋一項特定的數學理論及其相關屬性。"
+    },
+    {
+      "id": "520ea2952c56e774",
+      "title": "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-20T14:00:00.000Z",
+      "summary_en": "This post explains the technical challenges of handling 24-bit-per-pixel formats on older video cards using bank-switched memory. It emphasizes the critical requirement of maintaining aligned memory accesses even when pixel data is not naturally aligned.",
+      "summary_zh": "本文解釋了在處理使用記憶體分頁技術（bank-switched memory）的舊式顯示卡時，處理 24 位元像素格式所面臨的技術挑戰。文章強調了即便像素資料未對齊，仍必須堅持使用記憶體對齊存取的原則。",
+      "keywords": [
+        "24-bit-per-pixel",
+        "bank-switched memory",
+        "memory alignment",
+        "legacy hardware",
+        "computer architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a technical concept related to low-level hardware memory management and data alignment constraints.",
+      "pacer_reason_zh": "本文解釋了與底層硬體記憶體管理及資料對齊限制相關的技術概念。"
+    },
+    {
+      "id": "c5c70b1fef98fa6d",
+      "title": "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-20T11:34:38.000Z",
+      "summary_en": "This blog post reviews Dr. Lucy Rogers' book, 'Up,' which explores atmospheric and celestial science. The reviewer praises the book for its accessible, personal, and joyful approach to science, noting its ability to inspire curiosity about the world above us.",
+      "summary_zh": "這篇部落格文章評論了露西·羅傑斯博士（Dr. Lucy Rogers）的著作《Up》，該書探討了大氣與天體科學。評論者讚賞該書以平易近人且充滿個人色彩的敘事方式，成功激發讀者對頭頂上方科學世界的探索熱情。",
+      "keywords": [
+        "book review",
+        "popular science",
+        "Lucy Rogers",
+        "astronomy",
+        "atmosphere"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a testimonial and expert-vetted review of a specific work, providing an evaluative perspective on the book's quality.",
+      "pacer_reason_zh": "內容為對特定著作的推薦與評價，提供了針對該書品質的分析觀點。"
+    },
+    {
+      "id": "0e0789281f9ce8f6",
+      "title": "Pluralistic: Comrade Trump (20 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/20/praxis/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-20T16:44:33.000Z",
+      "summary_en": "Cory Doctorow analyzes the 'Trump era' through a paradoxical lens, acknowledging the anxiety caused by his administration's policies while simultaneously observing the dismantling of the flawed, US-dominated 'rules-based international order.' The piece explores how Trump's protectionist trade actions inadvertently challenge long-standing geopolitical and economic structures.",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）以矛盾的視角探討「川普時代」，他在承認川普政府政策引發焦慮的同時，也觀察到這些行為正在拆解過去由美國主導、充滿缺陷的「以規則為基礎的國際秩序」。文中探討了川普的保護主義貿易政策如何無意間挑戰了既有的地緣政治與經濟結構。",
+      "keywords": [
+        "Trump",
+        "geopolitics",
+        "neoliberalism",
+        "international order",
+        "trade policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, providing an analytical critique and theoretical interpretation of current political events and global systems.",
+      "pacer_reason_zh": "本文主要為概念性內容，針對當前的政治事件與全球體系提供了分析性的批判與理論詮釋。"
+    },
+    {
+      "id": "f609f9860d50f024",
+      "title": "Advice from a millionaire ",
+      "url": "https://idiallo.com/blog/advice-from-a-millionaire?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-20T12:00:00.000Z",
+      "summary_en": "The article uses a narrative vignette to contrast a wealthy man's unsolicited advice about mindset and discipline with the reality of a busy mother's life. It highlights the gap between abstract success philosophies and the demanding practicalities of daily responsibilities.",
+      "summary_zh": "本文透過一段敘事場景，對比了一位富有男子對成功心態與紀律的說教，以及一名忙碌母親在現實生活中的真實困境。文章呈現了抽象的成功哲學與沉重生活負擔之間的強烈反差。",
+      "keywords": [
+        "storytelling",
+        "mindset",
+        "wealth",
+        "perspective",
+        "life-balance"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a narrative analogy to critique success advice by contrasting it with the realities of daily life.",
+      "pacer_reason_zh": "文章運用敘事類比的方式，將成功哲學與日常生活中的真實處境進行對比，藉此反思說教內容。"
+    },
+    {
+      "id": "7ef1bf382162c638",
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-20T02:33:58.000Z",
+      "summary_en": "This post explains three methods for importing data from a Datasette instance into Google Sheets. It covers using the importdata() function, creating custom named functions, and utilizing Google Apps Script for scenarios requiring API authentication.",
+      "summary_zh": "本文介紹了將 Datasette 數據匯入 Google Sheets 的三種方法。內容涵蓋使用 importdata() 函數、自定義命名函數，以及針對需要 API 認證的情況使用 Google Apps Script 的技巧。",
+      "keywords": [
+        "Google Sheets",
+        "Datasette",
+        "SQL",
+        "Data Integration",
+        "Apps Script"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific methods and step-by-step guidance on how to fetch data from a Datasette instance into Google Sheets.",
+      "pacer_reason_zh": "本文提供了將 Datasette 數據匯入 Google Sheets 的具體方法與操作指南，屬於教學性質。"
+    },
+    {
+      "id": "29947831513c4be4",
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-20T00:50:45.000Z",
+      "summary_en": "Simon Willison has updated his Claude Token Counter tool to support side-by-side comparisons of different Claude models. The update highlights how the new Opus 4.7 model uses an updated tokenizer that results in higher token counts for the same input compared to previous versions.",
+      "summary_zh": "Simon Willison 更新了他的 Claude Token Counter 工具，現在支援不同 Claude 模型之間的代幣計算比較。此次更新凸顯了新的 Opus 4.7 模型使用更新後的斷詞器（tokenizer），導致相同內容的輸入在該模型中會產生比舊版本更多的代幣。",
+      "keywords": [
+        "Claude",
+        "Tokenizer",
+        "Token Counting",
+        "Simon Willison",
+        "Opus 4.7"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces an update to a functional utility tool and demonstrates how to use its new feature to compare model tokenization.",
+      "pacer_reason_zh": "本文介紹了一款功能性工具的更新，並示範如何使用其新功能來比較不同模型的代幣計算結果。"
+    },
     {
       "id": "1fd2e40f35d85818",
       "title": "Figma's woes compound with Claude Design",
