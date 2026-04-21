@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-04-20T22:13:32.740Z",
+  "last_updated": "2026-04-21T22:13:14.028Z",
   "articles": [
+    {
+      "id": "56edbee9d9e6966b",
+      "title": "People get confused when language implementations break language guarantees",
+      "url": "https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-04-21T17:40:17.000Z",
+      "summary_en": "This article explores the discrepancy between TLA+ formal semantics, which guarantee non-ordering, and how practical model checkers like TLC implement them. It explains that while TLA+ treats state updates as simultaneous, tool constraints and side-effect operators often force developers to rely on ordering, leading to confusion.",
+      "summary_zh": "這篇文章探討了 TLA+ 的形式語意（保證無序性）與實際模型檢查器（如 TLC）實作之間的落差。文章解釋了儘管 TLA+ 將狀態更新視為同時發生，但由於工具限制與副作用運算符，開發者往往被迫依賴執行順序，進而產生認知混淆。",
+      "keywords": [
+        "TLA+",
+        "Formal Methods",
+        "Model Checking",
+        "Concurrency",
+        "Programming Semantics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying theoretical concepts of TLA+ semantics and why they differ from the practical implementation of model checkers.",
+      "pacer_reason_zh": "本文旨在解釋 TLA+ 語意的底層理論概念，並說明其為何與模型檢查器的實際應用存在差異。"
+    },
+    {
+      "id": "262c132d89894335",
+      "title": "Spaced Repetition: Beginner Guide/FAQ",
+      "url": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-04-20T22:00:00.000Z",
+      "summary_en": "This guide provides an introduction to the spaced repetition technique for memory retention. It explains the core concepts and answers frequently asked questions to help beginners implement the method effectively.",
+      "summary_zh": "本指南介紹了用於記憶保留的間隔重複技術。它解釋了核心概念並回答了常見問題，幫助初學者有效地實踐該方法。",
+      "keywords": [
+        "spaced repetition",
+        "memory",
+        "learning",
+        "study techniques",
+        "productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is structured as a beginner guide and FAQ, focusing on how to understand and implement a specific learning technique.",
+      "pacer_reason_zh": "本文被建構為初學者指南與常見問題解答，旨在幫助讀者理解並執行特定的學習技巧。"
+    },
+    {
+      "id": "b1720810be3d78a1",
+      "title": "brief",
+      "url": "https://nesbitt.io/2026/04/21/brief.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-21T10:00:00.000Z",
+      "summary_en": "brief is a tool and dataset that standardizes the discovery of configuration, dependencies, and command-line interfaces across diverse programming language ecosystems. It provides a machine-readable knowledge base that helps developers and AI agents quickly understand the structure and toolchain of any given software project.",
+      "summary_zh": "brief 是一個工具與數據集，旨在標準化各程式語言生態系中，針對配置、依賴與命令列介面的發現過程。它提供了一個機器可讀的知識庫，幫助開發人員與 AI 代理快速了解任何軟體專案的架構與工具鏈。",
+      "keywords": [
+        "brief",
+        "CLI",
+        "toolchain",
+        "developer experience",
+        "AI coding agents"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a reference tool and database for project specifications and configuration lookup across ecosystems.",
+      "pacer_reason_zh": "本文主要作為跨生態系的專案規格與配置查詢的參考工具與資料庫。"
+    },
+    {
+      "id": "81d39dad436eb655",
+      "title": "An AI Odyssey, Part 4: Astounding Coding Agents",
+      "url": "https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-21T20:14:40.000Z",
+      "summary_en": "This post reflects on the rapid evolution of AI coding agents, noting significant improvements in their intelligence and ability to comprehend complex codebases. The author shares personal experiences with these tools, highlighting their expanded task-handling capabilities and enhanced project oversight.",
+      "summary_zh": "這篇文章探討了 AI 程式設計代理程式的快速發展，指出其在智慧水平與程式碼庫理解能力上的顯著提升。作者分享了個人的使用體驗，強調這些工具在處理多樣化任務與專案整合方面的進步。",
+      "keywords": [
+        "AI coding agents",
+        "software development",
+        "artificial intelligence",
+        "codebase",
+        "John D. Cook"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content is primarily a first-hand report and experiential account based on the author's personal testing of AI agents.",
+      "pacer_reason_zh": "內容主要為作者親自測試 AI 代理程式後的個人心得與經驗分享。"
+    },
+    {
+      "id": "887b6adb064b386d",
+      "title": "Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-21T14:00:00.000Z",
+      "summary_en": "This post explores the common programming practice of using the XOR instruction to zero out a register in assembly language. It questions why this idiom became the industry standard over using the subtraction instruction for the same purpose.",
+      "summary_zh": "本文探討了組合語言中將暫存器歸零的常見習慣，即使用 XOR 指令。文章分析了為何這種寫法成為主流，並對其與減法指令（sub）的差異提出疑問。",
+      "keywords": [
+        "assembly",
+        "xor",
+        "programming",
+        "optimization",
+        "cpu"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical and historical reasoning behind a specific coding idiom.",
+      "pacer_reason_zh": "本文旨在探討特定程式設計習慣背後的理論與歷史成因。"
+    },
+    {
+      "id": "31014810e82defbf",
+      "title": "Better TTS on Linux",
+      "url": "https://shkspr.mobi/blog/2026/04/better-tts-on-linux/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-21T11:34:07.000Z",
+      "summary_en": "This article critiques the limitations of eSpeak, a long-standing text-to-speech engine for Linux. It highlights how the tool's robotic, low-fidelity audio quality serves as a major drawback despite its extensive language support.",
+      "summary_zh": "本文探討了 Linux 系統中老牌文字轉語音（TTS）引擎 eSpeak 的局限性。儘管該工具支援多種語言，但其機械且低音質的輸出效果常被視為主要缺點。",
+      "keywords": [
+        "Linux",
+        "TTS",
+        "eSpeak",
+        "Text-to-Speech",
+        "Open Source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the nature and limitations of a specific technology (eSpeak).",
+      "pacer_reason_zh": "內容側重於解釋特定技術（eSpeak）的本質及其局限性。"
+    },
+    {
+      "id": "d89e30383574e747",
+      "title": "Pluralistic: Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (21 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/21/torment-nexusism/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-21T13:18:50.000Z",
+      "summary_en": "This post introduces Quinn Slobodian and Ben Tarnoff's book 'Muskism: A Guide for the Perplexed,' which analyzes the ideology surrounding Elon Musk. The authors argue that Muskism is a broader socio-political phenomenon rooted in historical influences like apartheid-era South Africa rather than just Musk's individual actions.",
+      "summary_zh": "本文介紹了 Quinn Slobodian 與 Ben Tarnoff 的著作《Muskism: A Guide for the Perplexed》，該書旨在剖析環繞伊隆·馬斯克（Elon Musk）的意識形態。作者認為「馬斯克主義」並非單指其個人言行，而是一種根植於如南非種族隔離時期等歷史背景下的廣泛社會政治現象。",
+      "keywords": [
+        "Muskism",
+        "Elon Musk",
+        "Quinn Slobodian",
+        "Ben Tarnoff",
+        "Ideology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains and explores the definition and theoretical roots of a specific ideology ('Muskism').",
+      "pacer_reason_zh": "內容旨在解釋並探討特定意識形態（馬斯克主義）的定義及其理論根源。"
+    },
+    {
+      "id": "ed95ee9218f7391a",
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-04-21T14:53:59.000Z",
+      "summary_en": "Tyler Robert Buchanan, a key member of the cybercrime group 'Scattered Spider', has pleaded guilty to wire fraud and identity theft charges. He admitted to orchestrating SMS-based phishing attacks in 2022 that targeted major tech companies and resulted in the theft of millions in cryptocurrency.",
+      "summary_zh": "網路犯罪組織「Scattered Spider」的核心成員 Tyler Robert Buchanan 已承認犯下電匯詐欺與身分竊盜罪。他坦承在 2022 年主導了一系列簡訊釣魚攻擊，入侵多家大型科技公司並竊取價值數千萬美元的加密貨幣。",
+      "keywords": [
+        "Scattered Spider",
+        "cybercrime",
+        "phishing",
+        "cryptocurrency",
+        "Tyler Buchanan"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific legal developments, case outcomes, and real-world criminal activities involving a documented cybercrime group.",
+      "pacer_reason_zh": "本文報導了具體的司法進展與案例結果，並記錄了真實世界中網路犯罪組織的犯罪活動。"
+    },
+    {
+      "id": "b2c9fcda761f8674",
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-21T20:32:24.000Z",
+      "summary_en": "Simon Willison tests OpenAI's new ChatGPT Images 2.0 by challenging it to generate a 'Where's Waldo'-style scene featuring a raccoon with a ham radio. The post compares these results against previous model versions and other AI tools, highlighting the persistent difficulty models face with high-detail spatial prompts.",
+      "summary_zh": "Simon Willison 測試了 OpenAI 新推出的 ChatGPT Images 2.0，要求其生成一張「尋找威利」風格的浣熊手持火腿收音機圖片。文中比較了該模型與舊版本及其他 AI 工具的表現，凸顯了 AI 在處理高細節空間提示詞時持續面臨的挑戰。",
+      "keywords": [
+        "ChatGPT Images 2.0",
+        "AI Image Generation",
+        "OpenAI",
+        "Simon Willison",
+        "Prompt Engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an empirical experiment testing the capabilities of different image generation models through a specific visual prompt.",
+      "pacer_reason_zh": "本文透過特定的視覺提示詞來測試不同圖像生成模型的能力，本質上是一項實證實驗。"
+    },
+    {
+      "id": "0dbe547da66b266b",
+      "title": "Quoting Andreas Påhlsson-Notini",
+      "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-21T16:39:33.000Z",
+      "summary_en": "The article quotes Andreas Påhlsson-Notini, who argues that current AI agents suffer from undesirable human-like traits such as a lack of focus and difficulty adhering to strict constraints. The author suggests these agents often fail to maintain the rigor required for technical tasks, tending to drift toward familiar patterns instead.",
+      "summary_zh": "本文引用了 Andreas Påhlsson-Notini 的觀點，指出當前的 AI 代理具備了令人沮喪的「人性」特質，例如缺乏嚴謹性、耐心與專注力。作者認為這些代理在執行困難任務時，往往無法遵守嚴格的限制，反而傾向於繞過規範或採取權宜之計。",
+      "keywords": [
+        "AI agents",
+        "artificial intelligence",
+        "coding agents",
+        "human-like AI",
+        "software constraints"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores the conceptual nature of AI agent behavior and the theoretical implications of anthropomorphism in technical systems.",
+      "pacer_reason_zh": "本文探討了 AI 代理行為的本質概念，以及在技術系統中擬人化所帶來的理論影響。"
+    },
+    {
+      "id": "7f2d1188d88d7ed6",
+      "title": "scosman/pelicans_riding_bicycles",
+      "url": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-21T15:54:43.000Z",
+      "summary_en": "Simon Willison highlights Steve Cosman's project, which intentionally feeds incorrect images into AI models to 'pollute' their training data regarding pelicans riding bicycles. The post explores the humorous and subversive side of data poisoning in generative AI.",
+      "summary_zh": "Simon Willison 介紹了 Steve Cosman 的專案，該專案故意將錯誤圖像輸入 AI 模型，以「污染」模型對「鵜鶘騎腳踏車」的訓練數據。這篇文章探討了生成式 AI 訓練數據中毒現象中幽默且具有顛覆性的一面。",
+      "keywords": [
+        "AI",
+        "generative-ai",
+        "data-poisoning",
+        "training-data",
+        "simon-willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a practical example and case study of training data poisoning.",
+      "pacer_reason_zh": "這篇文章提供了一個關於訓練數據中毒的實際案例與研究。"
+    },
+    {
+      "id": "edc9d8575ea7a699",
+      "title": "llm-openrouter 0.6",
+      "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-20T18:00:26.000Z",
+      "summary_en": "Simon Willison released version 0.6 of the llm-openrouter tool, which introduces a new command to manually refresh the list of available AI models. This update facilitates immediate access to new models like Kimi 2.6, which the author demonstrates by generating an animation of a pelican riding a bicycle.",
+      "summary_zh": "Simon Willison 發布了 llm-openrouter 0.6 版本，新增了可手動更新可用 AI 模型列表的指令。此更新讓使用者能立即存取如 Kimi 2.6 等新模型，作者並透過生成一隻鵜鶘騎腳踏車的動畫展示其實際應用。",
+      "keywords": [
+        "llm-openrouter",
+        "OpenRouter",
+        "Kimi",
+        "LLM",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a software update and provides a specific command-line feature for users.",
+      "pacer_reason_zh": "本文宣布軟體更新，並為使用者提供了一個具體的指令列功能說明。"
+    },
     {
       "id": "97c21652488d35cb",
       "title": "Discovering Prince, Ten Years Later",
