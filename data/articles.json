@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-04-22T22:13:50.833Z",
+  "last_updated": "2026-04-23T22:13:00.010Z",
   "articles": [
+    {
+      "id": "deaa867f105533d4",
+      "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-04-23T13:10:55.000Z",
+      "summary_en": "This article introduces the sixth chapter of the 'SQLAlchemy 2 in Practice' book, which focuses on building a web traffic analytics application. It serves as a practical implementation guide to reinforce previously learned database design techniques.",
+      "summary_zh": "本文介紹了《SQLAlchemy 2 in Practice》一書的第六章，重點在於構建一個網頁流量分析解決方案。透過這個實作範例，讀者可以強化先前學習過的資料庫設計技術。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Database Design",
+        "Web Analytics",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content describes a practical project-based chapter designed to guide readers through building a specific software solution.",
+      "pacer_reason_zh": "內容描述了一個基於實作專案的章節，旨在引導讀者建構特定的軟體解決方案。"
+    },
+    {
+      "id": "905c76f537db5730",
+      "title": "Debugging WASM in Chrome DevTools",
+      "url": "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-04-23T02:23:00.000Z",
+      "summary_en": "This post provides a practical guide on using Chrome DevTools to debug WebAssembly (WASM) code. It covers the setup process, including local server requirements, and demonstrates how to navigate the Sources panel to set breakpoints and inspect execution states.",
+      "summary_zh": "本文介紹如何使用 Chrome DevTools 偵錯 WebAssembly (WASM) 程式碼的實作指南。內容涵蓋了設定開發環境、啟動本地伺服器，以及如何在 Sources 面板中設置中斷點與查看程式執行狀態。",
+      "keywords": [
+        "WASM",
+        "WebAssembly",
+        "Chrome DevTools",
+        "Debugging",
+        "WAT"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a step-by-step tutorial on how to configure and use Chrome DevTools for debugging WASM applications.",
+      "pacer_reason_zh": "本文是一篇關於如何設定並使用 Chrome DevTools 來對 WASM 應用程式進行偵錯的步驟式教學。"
+    },
+    {
+      "id": "a653bd3ee6bf6868",
+      "title": "Do you really want the US to “win” AI?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-22T16:00:00.000Z",
+      "summary_en": "The author critically examines the power dynamics and ideological leanings of key figures in the AI industry, such as Elon Musk, Sam Altman, and the leadership at Anthropic. The piece argues against the prevailing 'win-at-all-costs' mentality, suggesting that the current approach to AI development risks creating a society that prioritizes ego and control over truly open and beneficial innovation.",
+      "summary_zh": "作者批判性地審視了 AI 產業關鍵人物（如馬斯克、山姆·奧特曼及 Anthropic 領導層）之間的權力鬥爭與意識形態傾向。文章反對當前 AI 發展中「不計代價求勝」的思維，認為這種發展模式可能導致社會被自我與權力掌控所支配，而非走向真正開源且有益的創新。",
+      "keywords": [
+        "AI",
+        "Elon Musk",
+        "Sam Altman",
+        "Anthropic",
+        "Tech Ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is an opinionated conceptual exploration of AI industry power dynamics, leadership philosophies, and the societal implications of current development trends.",
+      "pacer_reason_zh": "本文屬於觀點導向的概念性探討，分析了 AI 產業中的權力結構、領導風格及其對社會的潛在影響。"
+    },
+    {
+      "id": "a45da45377598d0a",
+      "title": "Construction Costs Rarely Fall",
+      "url": "https://www.construction-physics.com/p/construction-costs-rarely-fall",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-23T12:02:35.000Z",
+      "summary_en": "The construction industry faces a unique challenge where productivity remains stagnant or declines, contrasting sharply with the growth seen in manufacturing and agriculture. This persistent trend indicates that construction costs rarely decrease over time in developed nations.",
+      "summary_zh": "營建業面臨一項獨特挑戰，即生產力呈現停滯或衰退，與製造業和農業的成長趨勢形成強烈對比。這一現象顯示，在已開發國家中，營建成本隨時間下降的情況極為罕見。",
+      "keywords": [
+        "construction",
+        "productivity",
+        "economics",
+        "industry trends",
+        "cost analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why construction productivity trends differ from other sectors.",
+      "pacer_reason_zh": "本文提供了關於營建業生產力趨勢為何與其他產業不同的概念性解釋。"
+    },
+    {
+      "id": "55a1877f6b0ee736",
+      "title": "Why prediction markets are a sure sign that our civilisation is in decay",
+      "url": "https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-23T03:10:02.000Z",
+      "summary_en": "The article argues that prediction markets are a symptom of civilizational decay. While acknowledging their functional utility and technical success, the author contends that their broader societal impact is fundamentally corrosive.",
+      "summary_zh": "本文主張預測市場是文明衰落的明顯跡象。儘管作者承認其功能實用且技術成熟，但認為其對社會的長期影響具有腐蝕性。",
+      "keywords": [
+        "prediction markets",
+        "civilization",
+        "decadence",
+        "social impact",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article offers a theoretical argument and a conceptual critique regarding the societal implications of a specific mechanism.",
+      "pacer_reason_zh": "本文針對特定機制的社會影響提出了理論性論點與觀念上的批判。"
+    },
+    {
+      "id": "be3fde3cbfa7455e",
+      "title": "Approximation to solve an oblique triangle",
+      "url": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-23T15:56:02.000Z",
+      "summary_en": "This article explores a mathematical approximation for calculating the angles of an oblique triangle. It extends previous work on right triangles to provide a simplified method for solving triangle geometry using radians.",
+      "summary_zh": "本文探討了一種用於計算斜三角形角度的數學近似法。作者將先前針對直角三角形的研究進行擴展，提供了一種使用弧度來簡化求解三角形幾何問題的方法。",
+      "keywords": [
+        "trigonometry",
+        "approximation",
+        "mathematics",
+        "oblique triangle",
+        "radians"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific mathematical formula and method for solving a geometric problem.",
+      "pacer_reason_zh": "本文提供了解決幾何問題的特定數學公式與計算方法。"
+    },
+    {
+      "id": "edbd499a487c85c8",
+      "title": "Simple approximation for solving a right triangle",
+      "url": "https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-23T12:13:35.000Z",
+      "summary_en": "This post introduces a surprisingly accurate and simple approximation formula for calculating the angle of a right triangle. The method estimates the angle opposite the shortest side using only basic arithmetic involving the triangle's sides.",
+      "summary_zh": "這篇文章介紹了一種計算直角三角形角度的簡易近似公式，準確度令人驚訝。該方法僅需利用三角形邊長進行簡單的算術運算，即可估算出短邊對應的角度。",
+      "keywords": [
+        "geometry",
+        "approximation",
+        "trigonometry",
+        "mathematics",
+        "triangle"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific formula and guide for solving a mathematical problem, acting as a procedural utility.",
+      "pacer_reason_zh": "本文提供了解決數學問題的具體公式與指南，屬於程序性工具類型。"
+    },
+    {
+      "id": "d1a6f59d44075f92",
+      "title": "Another crash caused by uninstaller code injection into Explorer",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-23T14:00:00.000Z",
+      "summary_en": "This post discusses a recurring technical issue where uninstaller software causes Windows Explorer to crash by injecting code into its process. The author highlights the inherent dangers of modifying a system component while it is actively running.",
+      "summary_zh": "本文探討了常見的技術問題：卸載程式透過將程式碼注入 Windows Explorer 進程而導致其崩潰。作者強調了在系統元件執行期間對其進行修改所帶來的潛在風險。",
+      "keywords": [
+        "Windows Explorer",
+        "uninstaller",
+        "code injection",
+        "software crash",
+        "system stability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of why a specific technical failure occurs within the operating system.",
+      "pacer_reason_zh": "該文章針對作業系統內發生的特定技術故障提供了概念性的解釋。"
+    },
+    {
+      "id": "600d859d69a6af85",
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-23T11:34:48.000Z",
+      "summary_en": "The author discusses the challenge of managing spam comments on their blog, specifically identifying a sophisticated 'conversational' spam technique where multiple accounts reply to one another. Despite using automated filtering tools like Antispam Bee, some deceptive spam continues to evade detection.",
+      "summary_zh": "作者探討了管理部落格留言垃圾訊息的挑戰，並特別指出一種複雜的「對話式」垃圾訊息手法，即多個帳號相互回覆以偽裝成正常討論。儘管使用了 Antispam Bee 等自動篩選工具，仍有一些隱蔽的垃圾留言會繞過防禦。",
+      "keywords": [
+        "blogging",
+        "spam",
+        "antispam",
+        "moderation",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study, presenting specific examples of modern spam tactics observed by the author.",
+      "pacer_reason_zh": "這篇文章作為案例研究，展示了作者所觀察到的現代垃圾訊息策略的具體範例。"
+    },
+    {
+      "id": "8c0e7ef2b4fa9743",
+      "title": "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/23/poison-pill/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-23T12:25:06.000Z",
+      "summary_en": "The article discusses the controversial tool Malus.sh, which uses LLMs to refactor open-source software into 'clean room' versions to bypass original licensing obligations. The creator intended this as a provocative project to highlight the existential threat AI-driven reverse engineering poses to the free software commons.",
+      "summary_zh": "本文討論了名為 Malus.sh 的爭議性工具，該工具利用大型語言模型重構開源軟體，產出不受原授權義務約束的「潔淨室」版本。開發者此舉旨在透過挑釁性的實驗，突顯 AI 驅動的反向工程對自由軟體共享資源所構成的生存威脅。",
+      "keywords": [
+        "Malus.sh",
+        "open source",
+        "copyright",
+        "AI",
+        "software licensing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual conflict between AI-driven code refactoring and open-source licensing principles.",
+      "pacer_reason_zh": "本文旨在闡述 AI 驅動的程式碼重構與開源授權原則之間的概念衝突。"
+    },
+    {
+      "id": "54fc3df44693f387",
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-23T21:54:24.000Z",
+      "summary_en": "Simon Willison discusses adapting the LiteParse Node.js CLI tool to run entirely within a web browser. The article highlights how LiteParse handles complex spatial text parsing without AI models and explores the potential of using visual citations to improve the credibility of RAG-based applications.",
+      "summary_zh": "Simon Willison 探討了如何將 LiteParse 這個 Node.js 指令列工具移植到瀏覽器中執行。文中介紹了 LiteParse 如何在不依賴 AI 模型的情況下處理複雜的空間文字解析，並探討了透過視覺引用來提升 RAG 應用問答可信度的潛力。",
+      "keywords": [
+        "LiteParse",
+        "PDF",
+        "Browser",
+        "Parsing",
+        "LlamaIndex"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the author's process of porting a tool to the browser and includes technical snippets on how to implement and use the CLI tool.",
+      "pacer_reason_zh": "本文描述了作者將工具移植到瀏覽器的過程，並包含如何實作與使用該 CLI 工具的技術片段。"
+    },
+    {
+      "id": "6db84ae4c270dda6",
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-23T19:59:47.000Z",
+      "summary_en": "The article discusses the release of OpenAI's GPT-5.5 model, noting its current availability for ChatGPT subscribers while highlighting the absence of a public API. It explores the tension regarding third-party tools like OpenClaw accessing subscription-based model features via unofficial API pathways.",
+      "summary_zh": "本文探討了 OpenAI GPT-5.5 模型的發布，指出目前該模型僅開放給 ChatGPT 訂閱用戶，且尚未提供公開 API。作者同時分析了第三方工具（如 OpenClaw）透過非官方 API 路徑存取訂閱制模型功能所引發的爭議與背景。",
+      "keywords": [
+        "GPT-5.5",
+        "OpenAI",
+        "API",
+        "OpenClaw",
+        "AI models"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides an evaluation of a new AI model and discusses real-world usage patterns, performance benchmarks, and industry integration controversies.",
+      "pacer_reason_zh": "本文針對新 AI 模型進行了評價，並討論了實際使用模式、效能基準測試以及業界整合所引發的爭議。"
+    },
+    {
+      "id": "1336fec95b3824cd",
+      "title": "Quoting Maggie Appleton",
+      "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-23T13:35:37.000Z",
+      "summary_en": "This post highlights the career benefits of 'learning in public' through practices like digital gardening or content creation. By sharing knowledge openly, individuals can enhance their perceived competence and gain access to exclusive professional networks.",
+      "summary_zh": "本文強調透過數位園藝或內容創作來「公開學習」的職場優勢。透過公開分享知識，個人不僅能提升他人對其專業能力的印象，還能獲得參與獨家專業社交活動的機會。",
+      "keywords": [
+        "learning in public",
+        "digital gardening",
+        "networking",
+        "content creation",
+        "personal branding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual benefits and career outcomes associated with the practice of 'learning in public'.",
+      "pacer_reason_zh": "本文解釋了「公開學習」這一概念所帶來的效益與職場影響。"
+    },
     {
       "id": "72a5280e2c385cc6",
       "title": "The commodification of travel",

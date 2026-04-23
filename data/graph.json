@@ -1,6 +1,198 @@
 {
   "nodes": [
     {
+      "id": "54fc3df44693f387",
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "LiteParse",
+        "PDF",
+        "Browser",
+        "Parsing",
+        "LlamaIndex"
+      ],
+      "published": "2026-04-23T21:54:24.000Z"
+    },
+    {
+      "id": "6db84ae4c270dda6",
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "GPT-5.5",
+        "OpenAI",
+        "API",
+        "OpenClaw",
+        "AI models"
+      ],
+      "published": "2026-04-23T19:59:47.000Z"
+    },
+    {
+      "id": "be3fde3cbfa7455e",
+      "title": "Approximation to solve an oblique triangle",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/",
+      "pacer": "P",
+      "keywords": [
+        "trigonometry",
+        "approximation",
+        "mathematics",
+        "oblique triangle",
+        "radians"
+      ],
+      "published": "2026-04-23T15:56:02.000Z"
+    },
+    {
+      "id": "d1a6f59d44075f92",
+      "title": "Another crash caused by uninstaller code injection into Explorer",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261",
+      "pacer": "C",
+      "keywords": [
+        "Windows Explorer",
+        "uninstaller",
+        "code injection",
+        "software crash",
+        "system stability"
+      ],
+      "published": "2026-04-23T14:00:00.000Z"
+    },
+    {
+      "id": "1336fec95b3824cd",
+      "title": "Quoting Maggie Appleton",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "learning in public",
+        "digital gardening",
+        "networking",
+        "content creation",
+        "personal branding"
+      ],
+      "published": "2026-04-23T13:35:37.000Z"
+    },
+    {
+      "id": "deaa867f105533d4",
+      "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution",
+      "pacer": "P",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Database Design",
+        "Web Analytics",
+        "Programming"
+      ],
+      "published": "2026-04-23T13:10:55.000Z"
+    },
+    {
+      "id": "8c0e7ef2b4fa9743",
+      "title": "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/23/poison-pill/",
+      "pacer": "C",
+      "keywords": [
+        "Malus.sh",
+        "open source",
+        "copyright",
+        "AI",
+        "software licensing"
+      ],
+      "published": "2026-04-23T12:25:06.000Z"
+    },
+    {
+      "id": "edbd499a487c85c8",
+      "title": "Simple approximation for solving a right triangle",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/",
+      "pacer": "P",
+      "keywords": [
+        "geometry",
+        "approximation",
+        "trigonometry",
+        "mathematics",
+        "triangle"
+      ],
+      "published": "2026-04-23T12:13:35.000Z"
+    },
+    {
+      "id": "a45da45377598d0a",
+      "title": "Construction Costs Rarely Fall",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/construction-costs-rarely-fall",
+      "pacer": "C",
+      "keywords": [
+        "construction",
+        "productivity",
+        "economics",
+        "industry trends",
+        "cost analysis"
+      ],
+      "published": "2026-04-23T12:02:35.000Z"
+    },
+    {
+      "id": "600d859d69a6af85",
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "pacer": "E",
+      "keywords": [
+        "blogging",
+        "spam",
+        "antispam",
+        "moderation",
+        "cybersecurity"
+      ],
+      "published": "2026-04-23T11:34:48.000Z"
+    },
+    {
+      "id": "55a1877f6b0ee736",
+      "title": "Why prediction markets are a sure sign that our civilisation is in decay",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/",
+      "pacer": "C",
+      "keywords": [
+        "prediction markets",
+        "civilization",
+        "decadence",
+        "social impact",
+        "technology"
+      ],
+      "published": "2026-04-23T03:10:02.000Z"
+    },
+    {
+      "id": "905c76f537db5730",
+      "title": "Debugging WASM in Chrome DevTools",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/",
+      "pacer": "P",
+      "keywords": [
+        "WASM",
+        "WebAssembly",
+        "Chrome DevTools",
+        "Debugging",
+        "WAT"
+      ],
+      "published": "2026-04-23T02:23:00.000Z"
+    },
+    {
       "id": "c37f793c559c2ed9",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "source": "Simon Willison's Weblog",
@@ -15,6 +207,22 @@
         "llama.cpp"
       ],
       "published": "2026-04-22T16:45:23.000Z"
+    },
+    {
+      "id": "a653bd3ee6bf6868",
+      "title": "Do you really want the US to “win” AI?",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Elon Musk",
+        "Sam Altman",
+        "Anthropic",
+        "Tech Ethics"
+      ],
+      "published": "2026-04-22T16:00:00.000Z"
     },
     {
       "id": "e4662687979abee1",
@@ -129,38 +337,6 @@
       "published": "2026-04-22T03:35:00.000Z"
     },
     {
-      "id": "2c96923e2106d91b",
-      "title": "Changes to GitHub Copilot Individual plans",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "GitHub Copilot",
-        "AI Agents",
-        "Pricing",
-        "LLM",
-        "Compute"
-      ],
-      "published": "2026-04-22T03:30:02.000Z"
-    },
-    {
-      "id": "1d8a38f4e5131609",
-      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Anthropic",
-        "Claude Code",
-        "Pricing",
-        "Software",
-        "Tech News"
-      ],
-      "published": "2026-04-22T02:07:34.000Z"
-    },
-    {
       "id": "72a5280e2c385cc6",
       "title": "The commodification of travel",
       "source": "Herman's blog",
@@ -207,22 +383,6 @@
         "career"
       ],
       "published": "2026-04-21T23:51:44.000Z"
-    },
-    {
-      "id": "b2c9fcda761f8674",
-      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "ChatGPT Images 2.0",
-        "AI Image Generation",
-        "OpenAI",
-        "Simon Willison",
-        "Prompt Engineering"
-      ],
-      "published": "2026-04-21T20:32:24.000Z"
     },
     {
       "id": "81d39dad436eb655",
@@ -705,22 +865,6 @@
       "published": "2026-04-18T03:00:00.000Z"
     },
     {
-      "id": "3b5e69ae1c40c1aa",
-      "title": "4-bit floating point FP4",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
-      "pacer": "C",
-      "keywords": [
-        "floating point",
-        "FP4",
-        "computing",
-        "binary",
-        "data representation"
-      ],
-      "published": "2026-04-18T01:08:54.000Z"
-    },
-    {
       "id": "3f6c048bb25e54bf",
       "title": "5x5 Pixel font for tiny screens",
       "source": "Maurycy's Blog",
@@ -817,38 +961,6 @@
       "published": "2026-04-17T14:00:00.000Z"
     },
     {
-      "id": "25afe3af3ddc72b5",
-      "title": "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/",
-      "pacer": "C",
-      "keywords": [
-        "Book Review",
-        "Witch Trials",
-        "Scottish History",
-        "Patriarchy",
-        "Gender History"
-      ],
-      "published": "2026-04-17T11:34:26.000Z"
-    },
-    {
-      "id": "e164c74c93d0e168",
-      "title": "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/17/for-youze/",
-      "pacer": "C",
-      "keywords": [
-        "Facebook",
-        "Tiktokification",
-        "Social Media",
-        "Algorithm",
-        "Cory Doctorow"
-      ],
-      "published": "2026-04-17T10:30:52.000Z"
-    },
-    {
       "id": "402cef8e305f9b69",
       "title": "Taking down my site on purpose:",
       "source": "Maurycy's Blog",
@@ -879,38 +991,6 @@
         "Troy Hunt"
       ],
       "published": "2026-04-16T23:09:24.000Z"
-    },
-    {
-      "id": "faf1d75a70b6d999",
-      "title": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240",
-      "pacer": "C",
-      "keywords": [
-        "Windows API",
-        "System Messages",
-        "0x0091",
-        "The Old New Thing",
-        "Programming"
-      ],
-      "published": "2026-04-16T14:00:00.000Z"
-    },
-    {
-      "id": "590b3b459ee48cf7",
-      "title": "Newton diameters",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/16/newton-diameters/",
-      "pacer": "C",
-      "keywords": [
-        "Newton diameters",
-        "polynomials",
-        "mathematics",
-        "geometry",
-        "zero sets"
-      ],
-      "published": "2026-04-16T12:02:13.000Z"
     },
     {
       "id": "b06dc189f4e0745b",
@@ -1152,22 +1232,6 @@
       "published": "2026-04-14T16:16:42.000Z"
     },
     {
-      "id": "7de86bf4b12395ea",
-      "title": "zappa: an AI powered mitmproxy",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html",
-      "pacer": "P",
-      "keywords": [
-        "mitmproxy",
-        "AI agents",
-        "web filtering",
-        "ad-blocking",
-        "zappa"
-      ],
-      "published": "2026-04-14T16:00:00.000Z"
-    },
-    {
       "id": "a188a6768f851c0a",
       "title": "Back button hijacking is going away ",
       "source": "iDiallo.com",
@@ -1406,22 +1470,6 @@
         "programming"
       ],
       "published": "2026-04-10T02:28:00.000Z"
-    },
-    {
-      "id": "a237192d7a03ca05",
-      "title": "Why I quit \"The Strive\"",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/why-i-quit-the-strive/",
-      "pacer": "C",
-      "keywords": [
-        "newsletter",
-        "subscription",
-        "business model",
-        "creator economy",
-        "content strategy"
-      ],
-      "published": "2026-04-10T01:50:12.000Z"
     },
     {
       "id": "33c0394f5059feb4",
@@ -1886,22 +1934,6 @@
         "mental models"
       ],
       "published": "2026-04-03T00:00:00.000Z"
-    },
-    {
-      "id": "0ebc5f78d4097760",
-      "title": "Information and Technological Evolution",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/information-and-technological-evolution",
-      "pacer": "C",
-      "keywords": [
-        "technological progress",
-        "information theory",
-        "technology evolution",
-        "literature review",
-        "construction physics"
-      ],
-      "published": "2026-04-02T12:16:08.000Z"
     },
     {
       "id": "c88ef4bc96c22d50",
@@ -2464,16 +2496,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-20T00:00:00.000Z"
-    },
-    {
-      "id": "d222456bdb3b6fc4",
-      "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-19T23:25:39.000Z"
     },
     {
       "id": "0fe1832d16446e7a",
@@ -3055,12 +3077,22 @@
   ],
   "links": [
     {
-      "source": "14ba4d4fb8d1a920",
-      "target": "590b3b459ee48cf7",
+      "source": "be3fde3cbfa7455e",
+      "target": "edbd499a487c85c8",
       "shared_keywords": [
-        "polynomials",
-        "mathematics",
-        "geometry"
+        "approximation",
+        "trigonometry",
+        "mathematics"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "deaa867f105533d4",
+      "target": "c88ef4bc96c22d50",
+      "shared_keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Programming"
       ],
       "strength": 0.6
     },

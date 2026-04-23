@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 22 Apr 2026 22:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:13:00 GMT</lastBuildDate>
     
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution</link>
+      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution</guid>
+      <pubDate>Thu, 23 Apr 2026 13:10:55 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article introduces the sixth chapter of the 'SQLAlchemy 2 in Practice' book, which focuses on building a web traffic analytics application. It serves as a practical implementation guide to reinforce previously learned database design techniques.</description>
+    </item>
+
+    <item>
+      <title>Debugging WASM in Chrome DevTools</title>
+      <link>https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</link>
+      <guid>https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</guid>
+      <pubDate>Thu, 23 Apr 2026 02:23:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This post provides a practical guide on using Chrome DevTools to debug WebAssembly (WASM) code. It covers the setup process, including local server requirements, and demonstrates how to navigate the Sources panel to set breakpoints and inspect execution states.</description>
+    </item>
+
+    <item>
+      <title>Do you really want the US to “win” AI?</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</guid>
+      <pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author critically examines the power dynamics and ideological leanings of key figures in the AI industry, such as Elon Musk, Sam Altman, and the leadership at Anthropic. The piece argues against the prevailing 'win-at-all-costs' mentality, suggesting that the current approach to AI development risks creating a society that prioritizes ego and control over truly open and beneficial innovation.</description>
+    </item>
+
+    <item>
+      <title>Construction Costs Rarely Fall</title>
+      <link>https://www.construction-physics.com/p/construction-costs-rarely-fall</link>
+      <guid>https://www.construction-physics.com/p/construction-costs-rarely-fall</guid>
+      <pubDate>Thu, 23 Apr 2026 12:02:35 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>The construction industry faces a unique challenge where productivity remains stagnant or declines, contrasting sharply with the growth seen in manufacturing and agriculture. This persistent trend indicates that construction costs rarely decrease over time in developed nations.</description>
+    </item>
+
+    <item>
+      <title>Why prediction markets are a sure sign that our civilisation is in decay</title>
+      <link>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</link>
+      <guid>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</guid>
+      <pubDate>Thu, 23 Apr 2026 03:10:02 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The article argues that prediction markets are a symptom of civilizational decay. While acknowledging their functional utility and technical success, the author contends that their broader societal impact is fundamentally corrosive.</description>
+    </item>
+
+    <item>
+      <title>Approximation to solve an oblique triangle</title>
+      <link>https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</guid>
+      <pubDate>Thu, 23 Apr 2026 15:56:02 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores a mathematical approximation for calculating the angles of an oblique triangle. It extends previous work on right triangles to provide a simplified method for solving triangle geometry using radians.</description>
+    </item>
+
+    <item>
+      <title>Simple approximation for solving a right triangle</title>
+      <link>https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</guid>
+      <pubDate>Thu, 23 Apr 2026 12:13:35 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post introduces a surprisingly accurate and simple approximation formula for calculating the angle of a right triangle. The method estimates the angle opposite the shortest side using only basic arithmetic involving the triangle's sides.</description>
+    </item>
+
+    <item>
+      <title>Another crash caused by uninstaller code injection into Explorer</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</guid>
+      <pubDate>Thu, 23 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses a recurring technical issue where uninstaller software causes Windows Explorer to crash by injecting code into its process. The author highlights the inherent dangers of modifying a system component while it is actively running.</description>
+    </item>
+
+    <item>
+      <title>Sneaky spam in conversational replies to blog posts</title>
+      <link>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</guid>
+      <pubDate>Thu, 23 Apr 2026 11:34:48 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author discusses the challenge of managing spam comments on their blog, specifically identifying a sophisticated 'conversational' spam technique where multiple accounts reply to one another. Despite using automated filtering tools like Antispam Bee, some deceptive spam continues to evade detection.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/23/poison-pill/</link>
+      <guid>https://pluralistic.net/2026/04/23/poison-pill/</guid>
+      <pubDate>Thu, 23 Apr 2026 12:25:06 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>The article discusses the controversial tool Malus.sh, which uses LLMs to refactor open-source software into 'clean room' versions to bypass original licensing obligations. The creator intended this as a provocative project to highlight the existential threat AI-driven reverse engineering poses to the free software commons.</description>
+    </item>
+
+    <item>
+      <title>Extract PDF text in your browser with LiteParse for the web</title>
+      <link>https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</guid>
+      <pubDate>Thu, 23 Apr 2026 21:54:24 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison discusses adapting the LiteParse Node.js CLI tool to run entirely within a web browser. The article highlights how LiteParse handles complex spatial text parsing without AI models and explores the potential of using visual citations to improve the credibility of RAG-based applications.</description>
+    </item>
+
+    <item>
+      <title>A pelican for GPT-5.5 via the semi-official Codex backdoor API</title>
+      <link>https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</guid>
+      <pubDate>Thu, 23 Apr 2026 19:59:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses the release of OpenAI's GPT-5.5 model, noting its current availability for ChatGPT subscribers while highlighting the absence of a public API. It explores the tension regarding third-party tools like OpenClaw accessing subscription-based model features via unofficial API pathways.</description>
+    </item>
+
+    <item>
+      <title>Quoting Maggie Appleton</title>
+      <link>https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything</guid>
+      <pubDate>Thu, 23 Apr 2026 13:35:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights the career benefits of 'learning in public' through practices like digital gardening or content creation. By sharing knowledge openly, individuals can enhance their perceived competence and gain access to exclusive professional networks.</description>
+    </item>
+
     <item>
       <title>The commodification of travel</title>
       <link>https://herman.bearblog.dev/the-commodification-of-travel/</link>
@@ -793,123 +910,6 @@ http://antirez.com/news/163
       <pubDate>Wed, 15 Apr 2026 02:58:42 GMT</pubDate>
       <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
       <description>The author explores the challenges of finding reliable fingerprint authentication for Linux laptops compared to more mature Windows and macOS ecosystems. By experimenting with a budget-friendly USB reader from Temu, the article highlights the ongoing compatibility issues and lack of standardized support for biometric hardware on Linux.</description>
-    </item>
-
-    <item>
-      <title>The Tuesday Test</title>
-      <link>https://nesbitt.io/2026/04/15/the-tuesday-test.html</link>
-      <guid>https://nesbitt.io/2026/04/15/the-tuesday-test.html</guid>
-      <pubDate>Wed, 15 Apr 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author introduces the 'Tuesday Test' as a simple heuristic to determine if a package manager is truly declarative. A system passes the test if installing a package yields the same result regardless of when it is run, ensuring the process is isolated from hidden external inputs.</description>
-    </item>
-
-    <item>
-      <title>Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
-      <pubDate>Wed, 15 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article addresses a common developer confusion regarding delays when waiting for a thread to exit in Windows. It suggests that a perceived delay in WaitForSingleObject often indicates that the thread has not actually finished its execution yet.</description>
-    </item>
-
-    <item>
-      <title>Simdutf Can Now Be Used Without libc++ or libc++abi</title>
-      <link>https://mitchellh.com/writing/simdutf-no-libcxx</link>
-      <guid>https://mitchellh.com/writing/simdutf-no-libcxx</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
-      <description>Mitchell Hashimoto announces that the simdutf library can now be utilized without dependencies on libc++ or libc++abi. This change improves portability and reduces binary size for developers integrating the library into various systems. It simplifies the setup process by removing strict standard library requirements.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Rights for robots (15 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/15/artificial-lifeforms/</link>
-      <guid>https://pluralistic.net/2026/04/15/artificial-lifeforms/</guid>
-      <pubDate>Wed, 15 Apr 2026 07:06:28 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article explores the concept of 'corporate personhood' in the legal system, tracing its evolution from 19th-century judicial decisions to modern cases like Citizens United. It contrasts this with the 'Rights of Nature' movement, which seeks to grant legal standing to ecosystems to protect them from corporate influence.</description>
-    </item>
-
-    <item>
-      <title>Quoting John Gruber</title>
-      <link>https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 17:13:57 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison quotes John Gruber on the declining quality of third-party software on Apple platforms. Gruber argues that the platform's competitive advantage is weakening as developers feel less motivated to build high-quality, native applications.</description>
-    </item>
-
-    <item>
-      <title>Gemini 3.1 Flash TTS</title>
-      <link>https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 17:13:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Google has introduced Gemini 3.1 Flash TTS, a new text-to-speech model accessible via the Gemini API. The model distinguishes itself by allowing users to influence speech output through detailed prompt engineering, including scene setting, vocal style, and accent instructions.</description>
-    </item>
-
-    <item>
-      <title>Gemini 3.1 Flash TTS</title>
-      <link>https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 16:41:46 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces a new tool that leverages Google's Gemini 3.1 Flash model for text-to-speech conversion. The post provides direct access to the experimental tool and links to further technical notes regarding the model's capabilities.</description>
-    </item>
-
-    <item>
-      <title>Quoting Kyle Kingsbury</title>
-      <link>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 15:36:02 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses the emergence of 'meat shields'—human roles created to absorb accountability for the errors and failures of machine learning systems. It highlights how companies may utilize employees or third-party contractors to provide a veneer of human oversight or to act as scapegoats for automated system misbehavior.</description>
-    </item>
-
-    <item>
-      <title>datasette-ports 0.3</title>
-      <link>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 02:50:57 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette-ports 0.3 is a minor update to a utility tool used to monitor local Datasette instances. The new version adds visibility into the working directory and the full file paths of the databases for each active process.</description>
-    </item>
-
-    <item>
-      <title>Zig 0.16.0 release notes: &quot;Juicy Main&quot;</title>
-      <link>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 01:59:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Zig 0.16.0 has been released with comprehensive updates, most notably the 'Juicy Main' feature. This update introduces dependency injection for the main() function, allowing developers to easily access essential resources like allocators, I/O, and environment variables via the process.Init parameter.</description>
-    </item>
-
-    <item>
-      <title>datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</title>
-      <link>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</guid>
-      <pubDate>Tue, 14 Apr 2026 23:58:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette has replaced its traditional token-based CSRF protection with the modern Sec-Fetch-Site header approach. This change simplifies templates by removing the need for hidden form fields and deprecates complex plugin hooks for skipping protection.</description>
-    </item>
-
-    <item>
-      <title>An Arm Mainboard for the Framework Laptop</title>
-      <link>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
-      <pubDate>Wed, 15 Apr 2026 14:49:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling tests an Arm-based Mainboard from MetaComputing for the Framework 13 laptop. This experiment demonstrates the modularity of the Framework chassis by successfully swapping between x86, RISC-V, and Arm architectures.</description>
-    </item>
-
-    <item>
-      <title>Nothing ever dies. It merely becomes embarrassing.</title>
-      <link>https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes</link>
-      <guid>https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes</guid>
-      <pubDate>Tue, 14 Apr 2026 16:16:42 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This article explores the 'Halo theory of science,' arguing that scientific ideas never truly disappear but instead persist in evolving, often awkward forms. The author examines how outdated concepts linger in our discourse, suggesting that cultural memory preserves them long after their original utility has faded.</description>
     </item>
   </channel>
 </rss>
