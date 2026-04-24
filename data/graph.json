@@ -1,36 +1,228 @@
 {
   "nodes": [
     {
-      "id": "54fc3df44693f387",
-      "title": "Extract PDF text in your browser with LiteParse for the web",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-      "pacer": "P",
+      "id": "10e303901dc1a90b",
+      "title": "Blog prize for the big questions about AI",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/blog-prize",
+      "pacer": "C",
       "keywords": [
-        "LiteParse",
-        "PDF",
-        "Browser",
-        "Parsing",
-        "LlamaIndex"
+        "AI",
+        "Dwarkesh Podcast",
+        "researcher",
+        "contest",
+        "artificial intelligence"
       ],
-      "published": "2026-04-23T21:54:24.000Z"
+      "published": "2026-04-24T16:37:49.000Z"
     },
     {
-      "id": "6db84ae4c270dda6",
-      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "id": "a73e6b8e9310daeb",
+      "title": "This Week on The Analog Antiquarian",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/",
+      "pacer": "C",
+      "keywords": [
+        "The Bard",
+        "gaming history",
+        "retrogaming",
+        "RPG",
+        "The Digital Antiquarian"
+      ],
+      "published": "2026-04-24T16:09:50.000Z"
+    },
+    {
+      "id": "8163544b6b8d0131",
+      "title": "Defending against exceptions in a scope_exit RAII type",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266",
+      "pacer": "C",
+      "keywords": [
+        "C++",
+        "RAII",
+        "scope_exit",
+        "exception handling",
+        "programming"
+      ],
+      "published": "2026-04-24T14:00:00.000Z"
+    },
+    {
+      "id": "8d69f2c94c7d7006",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "pacer": "E",
       "keywords": [
-        "GPT-5.5",
-        "OpenAI",
-        "API",
-        "OpenClaw",
-        "AI models"
+        "10GbE",
+        "USB 3.2",
+        "RTL8159",
+        "networking",
+        "Thunderbolt"
       ],
-      "published": "2026-04-23T19:59:47.000Z"
+      "published": "2026-04-24T14:00:00.000Z"
+    },
+    {
+      "id": "465b72c356e7667b",
+      "title": "Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/",
+      "pacer": "C",
+      "keywords": [
+        "enshittification",
+        "tech policy",
+        "Cory Doctorow",
+        "visual identity",
+        "digital literacy"
+      ],
+      "published": "2026-04-24T12:50:06.000Z"
+    },
+    {
+      "id": "1ee07d6130c854b4",
+      "title": "Does Mythos mean you need to shut down your Open Source repositories?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/",
+      "pacer": "C",
+      "keywords": [
+        "Open Source",
+        "Mythos",
+        "AI",
+        "Software Security",
+        "Training Data"
+      ],
+      "published": "2026-04-24T11:34:30.000Z"
+    },
+    {
+      "id": "173507185225dea0",
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "DeepSeek",
+        "AI Models",
+        "LLM",
+        "OpenRouter",
+        "Machine Learning"
+      ],
+      "published": "2026-04-24T06:01:04.000Z"
+    },
+    {
+      "id": "900e4e02634ba81b",
+      "title": "Millisecond Converter",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "milliseconds",
+        "converter",
+        "tools",
+        "web utility",
+        "Simon Willison"
+      ],
+      "published": "2026-04-24T04:23:11.000Z"
+    },
+    {
+      "id": "c8852cc459c62d39",
+      "title": "It's a big one",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "newsletter",
+        "AI",
+        "Agentic Engineering",
+        "Simon Willison",
+        "curation"
+      ],
+      "published": "2026-04-24T04:09:54.000Z"
+    },
+    {
+      "id": "d9b26639942b8116",
+      "title": "A Plethora of Tweezers",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history",
+      "pacer": "C",
+      "keywords": [
+        "tweezers",
+        "history",
+        "tools",
+        "Tedium",
+        "artifacts"
+      ],
+      "published": "2026-04-24T03:00:00.000Z"
+    },
+    {
+      "id": "a9010abe1031b287",
+      "title": "russellromney/honker",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "SQLite",
+        "Rust",
+        "Honker",
+        "Postgres",
+        "Message Queue"
+      ],
+      "published": "2026-04-24T01:50:07.000Z"
+    },
+    {
+      "id": "3ca7b61b9b38d4ff",
+      "title": "An update on recent Claude Code quality reports",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Claude Code",
+        "Anthropic",
+        "AI Agent",
+        "Postmortem",
+        "Software Engineering"
+      ],
+      "published": "2026-04-24T01:31:25.000Z"
+    },
+    {
+      "id": "4a202a1173bb01aa",
+      "title": "Software engineering may no longer be a lifetime career",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "pacer": "C",
+      "keywords": [
+        "software engineering",
+        "career development",
+        "tech industry",
+        "professional longevity",
+        "career trajectory"
+      ],
+      "published": "2026-04-24T00:00:00.000Z"
+    },
+    {
+      "id": "a163bf4bdb060be1",
+      "title": "Positivity",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/24/positivity.html",
+      "pacer": "C",
+      "keywords": [
+        "positivity",
+        "artificial intelligence",
+        "open source",
+        "technology",
+        "perspective"
+      ],
+      "published": "2026-04-23T16:00:00.000Z"
     },
     {
       "id": "be3fde3cbfa7455e",
@@ -63,22 +255,6 @@
         "system stability"
       ],
       "published": "2026-04-23T14:00:00.000Z"
-    },
-    {
-      "id": "1336fec95b3824cd",
-      "title": "Quoting Maggie Appleton",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "learning in public",
-        "digital gardening",
-        "networking",
-        "content creation",
-        "personal branding"
-      ],
-      "published": "2026-04-23T13:35:37.000Z"
     },
     {
       "id": "deaa867f105533d4",
@@ -193,20 +369,20 @@
       "published": "2026-04-23T02:23:00.000Z"
     },
     {
-      "id": "c37f793c559c2ed9",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
-      "pacer": "P",
+      "id": "dadbfb84c7691c0d",
+      "title": "Equity for Europeans",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
+      "pacer": "C",
       "keywords": [
-        "Qwen3.6-27B",
-        "LLM",
-        "Coding",
-        "Local-LLM",
-        "llama.cpp"
+        "equity",
+        "linguistics",
+        "finance",
+        "european-law",
+        "culture"
       ],
-      "published": "2026-04-22T16:45:23.000Z"
+      "published": "2026-04-23T00:00:00.000Z"
     },
     {
       "id": "a653bd3ee6bf6868",
@@ -303,22 +479,6 @@
         "long-term storage"
       ],
       "published": "2026-04-22T11:34:46.000Z"
-    },
-    {
-      "id": "3dbe344b5984c97c",
-      "title": "Quoting Bobby Holley",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Firefox",
-        "AI",
-        "Anthropic",
-        "Cybersecurity",
-        "Vulnerabilities"
-      ],
-      "published": "2026-04-22T05:40:56.000Z"
     },
     {
       "id": "840b08fcf3665e0f",
@@ -721,22 +881,6 @@
       "published": "2026-04-19T16:00:00.000Z"
     },
     {
-      "id": "d12a0c9d012e8cab",
-      "title": "Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/",
-      "pacer": "P",
-      "keywords": [
-        "FFmpeg",
-        "LG 360",
-        "video conversion",
-        "dual fisheye",
-        "equirectangular"
-      ],
-      "published": "2026-04-19T11:34:32.000Z"
-    },
-    {
       "id": "1fd2e40f35d85818",
       "title": "Figma's woes compound with Claude Design",
       "source": "Martin Alderson",
@@ -815,22 +959,6 @@
         "Gaussian distribution"
       ],
       "published": "2026-04-18T14:49:27.000Z"
-    },
-    {
-      "id": "62c035233390bd25",
-      "title": "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/18/dominion-sucks-actually/",
-      "pacer": "C",
-      "keywords": [
-        "voting technology",
-        "election integrity",
-        "IEEE",
-        "standardization",
-        "Dominion"
-      ],
-      "published": "2026-04-18T13:00:44.000Z"
     },
     {
       "id": "404226d0d68e0bea",
@@ -927,38 +1055,6 @@
         "geopolitics"
       ],
       "published": "2026-04-17T16:00:00.000Z"
-    },
-    {
-      "id": "94d721d3b2c07c36",
-      "title": "Five Simple Steps to Fix America",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html",
-      "pacer": "C",
-      "keywords": [
-        "gold standard",
-        "entitlement programs",
-        "economic reform",
-        "US policy",
-        "fiat currency"
-      ],
-      "published": "2026-04-17T16:00:00.000Z"
-    },
-    {
-      "id": "aac4e2d373782fba",
-      "title": "Forgotten message from the past: LB_INIT­STORAGE",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243",
-      "pacer": "C",
-      "keywords": [
-        "Windows API",
-        "LB_INITSTORAGE",
-        "Memory Allocation",
-        "Performance",
-        "List Box"
-      ],
-      "published": "2026-04-17T14:00:00.000Z"
     },
     {
       "id": "402cef8e305f9b69",
@@ -1614,22 +1710,6 @@
         "生活方式"
       ],
       "published": "2026-04-09T00:00:00.000Z"
-    },
-    {
-      "id": "dc222ec6bd8dcd4a",
-      "title": "Pork & Puppetry",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview",
-      "pacer": "C",
-      "keywords": [
-        "Pork Johnson",
-        "GIMP",
-        "parody",
-        "puppetry",
-        "Dustin Grissom"
-      ],
-      "published": "2026-04-08T03:50:54.000Z"
     },
     {
       "id": "4f3ecb3b854e113d",
@@ -2328,16 +2408,6 @@
       "published": "2026-03-26T12:30:03.000Z"
     },
     {
-      "id": "37e8892897cbe883",
-      "title": "Engineers do get promoted for writing simple code",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/simple-work-gets-rewarded/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-26T00:00:00.000Z"
-    },
-    {
       "id": "71b84c588ff701f2",
       "title": "Which Design Doc Did a Human Write?",
       "source": "Refactoring English",
@@ -2356,16 +2426,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "0daaa5ad57ae0abb",
-      "title": "Using FireWire on a Raspberry Pi",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T16:00:00.000Z"
     },
     {
       "id": "96bf37e3a8738c1f",
@@ -2674,38 +2734,6 @@
         "web"
       ],
       "published": "2026-03-14T00:00:00.000Z"
-    },
-    {
-      "id": "6bce7fe828e91b82",
-      "title": "This Week on The Analog Antiquarian",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/",
-      "pacer": "C",
-      "keywords": [
-        "Galileo",
-        "History of Science",
-        "The Digital Antiquarian",
-        "Galileo's Trial",
-        "Intellectual History"
-      ],
-      "published": "2026-03-13T17:33:40.000Z"
-    },
-    {
-      "id": "23a4a20fcb45b5af",
-      "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/dylan-patel",
-      "pacer": "C",
-      "keywords": [
-        "AI compute",
-        "H100",
-        "hardware bottlenecks",
-        "scaling AI",
-        "semiconductors"
-      ],
-      "published": "2026-03-13T16:00:42.000Z"
     },
     {
       "id": "e92b08fe1024d018",
@@ -3055,22 +3083,6 @@
         "Magit",
         "Virtual Document",
         "Version Control"
-      ],
-      "published": "2026-03-05T00:00:00.000Z"
-    },
-    {
-      "id": "c55f6d9abe615956",
-      "title": "AI And The Ship of Theseus",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "GPL",
-        "Copyleft",
-        "Software Licensing",
-        "Reverse Engineering"
       ],
       "published": "2026-03-05T00:00:00.000Z"
     }
