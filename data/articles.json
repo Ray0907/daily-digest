@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-04-24T22:13:17.527Z",
+  "last_updated": "2026-04-25T22:07:39.440Z",
   "articles": [
+    {
+      "id": "6ef0b2fa542a4794",
+      "title": "A Mutating AI Powered Virus",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-04-24T16:00:00.000Z",
+      "summary_en": "The article explores the hypothetical evolution of AI-driven computer viruses that leverage large language models to self-replicate and infiltrate networks. It argues that as AI masters physical and operational tasks, it may bypass traditional cybersecurity by 'living' within host machines and mimicking biological viral behavior.",
+      "summary_zh": "本文探討了人工智慧驅動的電腦病毒，認為隨著 AI 逐漸掌握複雜任務，未來可能出現具備自我複製與變異能力的「類病毒」程式。這些病毒能利用大型語言模型滲透網路並潛伏於主機中，對現有的資安防護構成新型威脅。",
+      "keywords": [
+        "AI",
+        "Cybersecurity",
+        "Moravec's Paradox",
+        "Self-replication",
+        "Malware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the theoretical evolution and conceptual framework of how AI-based viruses might function and expand.",
+      "pacer_reason_zh": "本文主要探討人工智慧病毒的演化理論與概念性架構，解釋其運作邏輯。"
+    },
+    {
+      "id": "4f00a7150f379ee9",
+      "title": "Reading List 04/25/26",
+      "url": "https://www.construction-physics.com/p/reading-list-042526",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-25T14:16:17.000Z",
+      "summary_en": "This reading list covers a diverse array of technical and industrial topics, ranging from transformer steel production to textile engineering. It also examines large-scale infrastructure challenges, such as the rapid commissioning of power plants and the study of infrasound.",
+      "summary_zh": "本閱讀清單涵蓋了變壓器鋼材製造、紡織工程等多元的技術與工業議題。同時探討了大型基礎設施的挑戰，例如快速啟用發電廠以及對次聲波的研究。",
+      "keywords": [
+        "transformer steel",
+        "textile engineering",
+        "power plants",
+        "infrasound",
+        "construction physics"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list of references and resources across various technical domains.",
+      "pacer_reason_zh": "該內容為跨多個技術領域的參考資料與資源清單。"
+    },
+    {
+      "id": "1e9ea24df8daee6e",
+      "title": "Closed-form solution to the nonlinear pendulum equation",
+      "url": "https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-25T16:16:12.000Z",
+      "summary_en": "This article discusses the limitations of linearizing the nonlinear pendulum equation by replacing sin θ with θ. It explores how to achieve higher accuracy for larger initial displacements by finding a closed-form solution to the nonlinear model.",
+      "summary_zh": "本文探討了將非線性擺方程線性化（將 sin θ 替換為 θ）所帶來的局限性。文章進一步說明了當初始位移較大時，如何透過尋求非線性模型的閉式解來顯著提升計算準確度。",
+      "keywords": [
+        "nonlinear pendulum",
+        "physics",
+        "linearization",
+        "differential equations",
+        "closed-form solution"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of the nonlinear pendulum equation and the mathematical reasoning behind improving linearization accuracy.",
+      "pacer_reason_zh": "本文解釋了非線性擺方程的理論概念，並說明提升線性化準確度背後的數學原理。"
+    },
+    {
+      "id": "1e8638b522134e3d",
+      "title": "nth derivative of a quotient",
+      "url": "https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-25T13:12:39.000Z",
+      "summary_en": "This article explores the formula for calculating the nth derivative of a quotient, noting that it is significantly more complex than the analogous product rule. It demonstrates the derivation process starting from an unconventional application of the standard quotient rule.",
+      "summary_zh": "本文探討了商的 n 次導數公式，指出其複雜程度遠高於類似的乘積規則。文章從一種非傳統的商規則應用方式出發，逐步推導並說明了該公式的計算過程。",
+      "keywords": [
+        "calculus",
+        "derivative",
+        "quotient rule",
+        "mathematics",
+        "formula"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the mathematical concept and theoretical derivation behind a specific derivative formula.",
+      "pacer_reason_zh": "內容解釋了特定導數公式背後的數學概念與理論推導。"
+    },
+    {
+      "id": "de92edb2a18f6fe6",
+      "title": "How nonlinearity affects a pendulum",
+      "url": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-24T23:53:29.000Z",
+      "summary_en": "This article explores the transition from linear approximations to nonlinear differential equations in pendulum motion. It explains why introductory physics assumes small angles and examines the impact of removing this simplification.",
+      "summary_zh": "本文探討了單擺運動從線性近似到非線性微分方程的轉換。文中解釋了為何入門物理課程通常假設小角度近似，並分析了移除此假設後的實際影響。",
+      "keywords": [
+        "pendulum",
+        "nonlinearity",
+        "physics",
+        "differential equations",
+        "mechanics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual physical and mathematical principles behind pendulum motion and the limitations of linear approximations.",
+      "pacer_reason_zh": "本文側重於解釋單擺運動背後的物理與數學概念，並探討線性近似的侷限性。"
+    },
+    {
+      "id": "b4091de30989a9cc",
+      "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
+      "url": "https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-25T11:34:15.000Z",
+      "summary_en": "This post discusses using PHP's native parse_ini_file() function to read .env files as a lightweight alternative to external libraries. It warns that while the method works, the subtle differences in syntax and behavior between .env and .ini formats can lead to unexpected issues.",
+      "summary_zh": "本文探討了使用 PHP 原生的 parse_ini_file() 函式來解析 .env 檔案，作為使用外部函式庫之外的一種輕量級替代方案。文章同時提醒讀者，由於 .env 與 .ini 格式在語法和行為上存在細微差異，直接轉換可能會導致非預期的錯誤。",
+      "keywords": [
+        "PHP",
+        ".env",
+        "ini",
+        "parsing",
+        "web development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a specific technical implementation method for parsing files in PHP.",
+      "pacer_reason_zh": "文章說明了一種在 PHP 中解析檔案的特定技術實作方法。"
+    },
+    {
+      "id": "751aede1477afe59",
+      "title": "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/25/machiavellian/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-25T11:17:58.000Z",
+      "summary_en": "Cory Doctorow highlights Ada Palmer's book 'Inventing the Renaissance,' praising it as a brilliant work of historiography rather than just a history book. He contextualizes this release alongside other major works by his peers, emphasizing the depth and importance of Palmer's research.",
+      "summary_zh": "Cory Doctorow 在文中高度讚揚 Ada Palmer 的著作《Inventing the Renaissance》，認為這是一部探討歷史編纂學的傑作，而不僅僅是一本歷史書。他並將此書與其友人的重要作品進行對比，強調了帕爾默研究成果的深度與價值。",
+      "keywords": [
+        "Ada Palmer",
+        "Inventing the Renaissance",
+        "historiography",
+        "Cory Doctorow",
+        "book review"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a recommendation and reference to a specific book, acting as a curated link for readers.",
+      "pacer_reason_zh": "這篇文章主要作為特定書籍的推薦與參考資訊，屬於整理給讀者的導讀連結。"
+    },
+    {
+      "id": "93005ac7aefa66ff",
+      "title": "The Satisfaction of a ChatGPT Plan ",
+      "url": "https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-25T17:44:16.000Z",
+      "summary_en": "The author observes a trend where people use AI to generate elaborate business plans for their ideas, finding satisfaction in the existence of the plan rather than its execution. Because the AI provides automatic validation and complex frameworks, creators often feel their work is done before any real-world action occurs.",
+      "summary_zh": "作者觀察到人們傾向利用 AI 生成複雜的商業企劃書，並從中獲得滿足感，而非追求實際執行。由於 AI 提供了自動驗證與詳盡的架構，許多人在尚未採取任何現實行動前，就誤以為問題已經解決。",
+      "keywords": [
+        "ChatGPT",
+        "AI productivity",
+        "business planning",
+        "execution",
+        "idea validation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of human behavior and cognitive biases when interacting with AI-generated content.",
+      "pacer_reason_zh": "本文是對人們與 AI 生成內容互動時的行為模式及認知偏誤所進行的概念性分析。"
+    },
+    {
+      "id": "db570ef2c373496f",
+      "title": "What Do You Charge For? ",
+      "url": "https://idiallo.com/blog/what-do-you-charge-for?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-25T05:00:00.000Z",
+      "summary_en": "The article explores the fundamental question of what goes into pricing professional services, using a web development project as a case study. It illustrates that high project costs are often driven by the cumulative salaries of a diverse team rather than just the final product, revealing that pricing should reflect total operational investment.",
+      "summary_zh": "本文探討了專業服務定價的核心問題，並以網頁開發專案作為案例分析。內容說明高昂的專案成本往往來自團隊成員的累積薪資，而非僅是產品本身，揭示了定價應反映整體的營運投入與人力成本。",
+      "keywords": [
+        "pricing",
+        "business strategy",
+        "web development",
+        "cost analysis",
+        "value-based pricing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific internal case study and budget breakdown as evidence to explain how pricing models are constructed.",
+      "pacer_reason_zh": "本文透過具體的內部案例研究與預算拆解作為證據，用以解釋定價模式是如何建構的。"
+    },
+    {
+      "id": "1fee9e330493d70d",
+      "title": "WHY ARE YOU LIKE THIS",
+      "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-25T16:44:01.000Z",
+      "summary_en": "This post highlights an example of AI-generated humor where ChatGPT added an ironic sign reading 'WHY ARE YOU LIKE THIS' to a chaotic image prompt. It showcases the unpredictable and occasionally witty behavior of modern image generation models.",
+      "summary_zh": "這篇文章展示了 AI 生成圖像時的幽默案例，ChatGPT 在執行一個混亂的指令時，自動添加了一塊寫著「WHY ARE YOU LIKE THIS」（你為什麼會這樣）的標示牌。文章凸顯了現代圖像生成模型在創作過程中出現的不可預測性與趣味細節。",
+      "keywords": [
+        "AI",
+        "generative-ai",
+        "ChatGPT",
+        "text-to-image",
+        "humor"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a specific evidence-based example of AI model behavior and image generation results.",
+      "pacer_reason_zh": "這篇文章提供了 AI 模型行為與圖像生成結果的具體實例作為證據。"
+    },
+    {
+      "id": "6bafb810acd498df",
+      "title": "Quoting Romain Huet",
+      "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-25T12:06:55.000Z",
+      "summary_en": "Simon Willison highlights updates from OpenAI regarding the integration of coding models into their core AI systems. Romain Huet confirms that separate 'Codex' models are being phased out in favor of unified systems capable of advanced agentic tasks.",
+      "summary_zh": "Simon Willison 分享了 OpenAI 的最新更新，指出編碼模型已整合進其核心 AI 系統中。Romain Huet 確認將不再發布獨立的 'Codex' 模型，未來的 AI 將具備更強大的代理式任務處理能力。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.5",
+        "Codex",
+        "Generative AI",
+        "Agentic Coding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual shift in OpenAI's product strategy regarding the unification of coding models.",
+      "pacer_reason_zh": "本文解釋了 OpenAI 在編碼模型整合策略上的概念性轉變。"
+    },
+    {
+      "id": "76a5f876fdc36e33",
+      "title": "GPT-5.5 prompting guide",
+      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-25T04:13:36.000Z",
+      "summary_en": "This post highlights OpenAI's new prompting guidance for GPT-5.5, emphasizing that it should be treated as a new model family rather than a simple drop-in replacement. It offers practical tips like sending interim status updates during multi-step tasks and recommends starting with a fresh baseline prompt for better performance.",
+      "summary_zh": "本文介紹 OpenAI 針對 GPT-5.5 發布的提示詞指引，強調該模型應被視為全新的系列，而非舊版本的直接替代品。文中建議在多步驟任務中加入過渡訊息以提升使用者體驗，並建議從全新的基準提示詞開始進行調整與優化。",
+      "keywords": [
+        "GPT-5.5",
+        "OpenAI",
+        "Prompt Engineering",
+        "AI Models",
+        "Migration Guide"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on providing practical instructions and actionable advice for developers on how to prompt and migrate to the new GPT-5.5 model.",
+      "pacer_reason_zh": "內容主要提供開發者關於如何使用與遷移至 GPT-5.5 的實用指導與具體建議。"
+    },
+    {
+      "id": "c19e047960b0d2a4",
+      "title": "llm 0.31",
+      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-24T23:35:07.000Z",
+      "summary_en": "Simon Willison released llm version 0.31, which introduces support for the new GPT-5.5 model. It also adds configuration options for text verbosity and image detail levels when interacting with OpenAI models.",
+      "summary_zh": "Simon Willison 發布了 llm 0.31 版本，新增了對 GPT-5.5 模型的支援。此外，該版本還為與 OpenAI 模型互動時的文字詳盡度與影像細節層級提供了新的配置選項。",
+      "keywords": [
+        "llm",
+        "GPT-5.5",
+        "OpenAI",
+        "CLI",
+        "軟體更新"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a software release note detailing new features and configuration parameters for the llm CLI tool.",
+      "pacer_reason_zh": "這是一份軟體發布說明，詳細列出了 llm 命令列工具的新功能與配置參數。"
+    },
+    {
+      "id": "dbab8fd935f60b4e",
+      "title": "The people do not yearn for automation",
+      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-24T22:38:49.000Z",
+      "summary_en": "The article discusses Nilay Patel's concept of 'software brain,' where tech-centric individuals mistakenly believe everyone desires constant automation. It argues that the public's backlash against AI stems from the realization that such technology flattens the human experience and reduces life to data-driven business loops.",
+      "summary_zh": "本文探討了 Nilay Patel 提出的「軟體腦」概念，指出科技導向者誤以為大眾渴望無所不在的自動化。文章認為，公眾對 AI 的反感源於這類技術將人類經驗扁平化，並試圖將複雜的生活簡化為數據驅動的商業循環。",
+      "keywords": [
+        "AI",
+        "software brain",
+        "automation",
+        "human experience",
+        "technology ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and philosophical analysis of how AI and automation are perceived by the public versus technology proponents.",
+      "pacer_reason_zh": "本文針對公眾與科技推動者對 AI 及自動化認知的差異，提供了概念性的評論與哲學分析。"
+    },
     {
       "id": "a73e6b8e9310daeb",
       "title": "This Week on The Analog Antiquarian",
