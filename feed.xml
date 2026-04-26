@@ -4,8 +4,17 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 25 Apr 2026 22:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:08:32 GMT</lastBuildDate>
     
+    <item>
+      <title>How Bitwarden Encrypts and Decrypts Secrets</title>
+      <link>https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</link>
+      <guid>https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</guid>
+      <pubDate>Sun, 26 Apr 2026 14:05:41 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article explores the encryption and decryption processes used by Bitwarden and Vaultwarden for storing secrets. The author provides a technical explanation and Python code examples to help readers understand how to interact with and secure these databases independently.</description>
+    </item>
+
     <item>
       <title>A Mutating AI Powered Virus</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</link>
@@ -895,15 +904,6 @@
       <pubDate>Fri, 17 Apr 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
       <description>This post discusses the historical Windows message LB_INITSTORAGE, designed to preallocate memory for list boxes. It explains how this mechanism was intended to prevent the performance degradation associated with quadratic time complexity during item insertion.</description>
-    </item>
-
-    <item>
-      <title>Taking down my site on purpose:</title>
-      <link>https://maurycyz.com/misc/v6day/</link>
-      <guid>https://maurycyz.com/misc/v6day/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>The article explains the historical limitation of IPv4 addresses and the transition to IPv6. The author decides to disable IPv4 support on their website to encourage wider adoption of IPv6, despite the potential loss of accessibility for some users.</description>
     </item>
   </channel>
 </rss>

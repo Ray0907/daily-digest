@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-04-25T22:07:39.440Z",
+  "last_updated": "2026-04-26T22:08:32.791Z",
   "articles": [
+    {
+      "id": "83a6d480d9071e85",
+      "title": "How Bitwarden Encrypts and Decrypts Secrets",
+      "url": "https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-04-26T14:05:41.000Z",
+      "summary_en": "This article explores the encryption and decryption processes used by Bitwarden and Vaultwarden for storing secrets. The author provides a technical explanation and Python code examples to help readers understand how to interact with and secure these databases independently.",
+      "summary_zh": "本文探討了 Bitwarden 和 Vaultwarden 在儲存密鑰時所使用的加密與解密機制。作者透過技術解析與 Python 程式碼範例，幫助讀者理解如何獨立操作這些資料庫並保障個人資訊安全。",
+      "keywords": [
+        "Bitwarden",
+        "Vaultwarden",
+        "Encryption",
+        "Python",
+        "Self-hosting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a technical guide and code examples for users to build their own tools for decrypting secrets.",
+      "pacer_reason_zh": "本文提供了技術指南與程式碼範例，引導使用者自行開發工具以解密密鑰。"
+    },
     {
       "id": "6ef0b2fa542a4794",
       "title": "A Mutating AI Powered Virus",
