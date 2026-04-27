@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "a4e35c226123689d",
+      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "Microsoft",
+        "AGI",
+        "contract",
+        "tech policy"
+      ],
+      "published": "2026-04-27T18:38:17.000Z"
+    },
+    {
+      "id": "6dab30f065ef7986",
+      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Google Meet",
+        "speech translation",
+        "real-time communication",
+        "AI",
+        "mobile"
+      ],
+      "published": "2026-04-27T17:37:47.000Z"
+    },
+    {
+      "id": "83dc90be47e7bb96",
+      "title": "Looking at consequences of passing too few register parameters to a C function on various architectures",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "pacer": "C",
+      "keywords": [
+        "C programming",
+        "CPU architecture",
+        "register parameters",
+        "Itanium",
+        "calling convention"
+      ],
+      "published": "2026-04-27T14:00:00.000Z"
+    },
+    {
+      "id": "7bb2aa2b1141e731",
+      "title": "What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/what-ive-been-thinking-april-27",
+      "pacer": "C",
+      "keywords": [
+        "Intelligence",
+        "Power",
+        "Science",
+        "Darwinism",
+        "Discovery"
+      ],
+      "published": "2026-04-27T13:51:32.000Z"
+    },
+    {
+      "id": "d200fd9994d806dd",
+      "title": "Theatre Review: Hadestown ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/",
+      "pacer": "C",
+      "keywords": [
+        "Hadestown",
+        "Theatre Review",
+        "Musical",
+        "Performance",
+        "Anaïs Mitchell"
+      ],
+      "published": "2026-04-27T11:34:27.000Z"
+    },
+    {
+      "id": "55ebf176f2eb267c",
+      "title": "The stages of package installation",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html",
+      "pacer": "C",
+      "keywords": [
+        "package manager",
+        "software engineering",
+        "dependency resolution",
+        "metadata",
+        "system design"
+      ],
+      "published": "2026-04-27T10:00:00.000Z"
+    },
+    {
+      "id": "45066ba63479c4e5",
+      "title": "Pluralistic: The enshittification multiverse (27 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/27/analogs-and-analogies/",
+      "pacer": "A",
+      "keywords": [
+        "enshittification",
+        "Cory Doctorow",
+        "economics",
+        "surveillance pricing",
+        "zero-sum"
+      ],
+      "published": "2026-04-27T08:39:48.000Z"
+    },
+    {
+      "id": "2c00d63d65ce3373",
+      "title": "Collective Speed Is Not the Summation of Individual Speed",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/",
+      "pacer": "A",
+      "keywords": [
+        "productivity",
+        "teamwork",
+        "software development",
+        "collaboration",
+        "systems thinking"
+      ],
+      "published": "2026-04-26T19:00:00.000Z"
+    },
+    {
       "id": "83a6d480d9071e85",
       "title": "How Bitwarden Encrypts and Decrypts Secrets",
       "source": "Miguel Grinberg's Blog",
@@ -191,38 +319,6 @@
         "mechanics"
       ],
       "published": "2026-04-24T23:53:29.000Z"
-    },
-    {
-      "id": "c19e047960b0d2a4",
-      "title": "llm 0.31",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "GPT-5.5",
-        "OpenAI",
-        "CLI",
-        "軟體更新"
-      ],
-      "published": "2026-04-24T23:35:07.000Z"
-    },
-    {
-      "id": "dbab8fd935f60b4e",
-      "title": "The people do not yearn for automation",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "software brain",
-        "automation",
-        "human experience",
-        "technology ethics"
-      ],
-      "published": "2026-04-24T22:38:49.000Z"
     },
     {
       "id": "10e303901dc1a90b",
@@ -769,38 +865,6 @@
       "published": "2026-04-21T14:00:00.000Z"
     },
     {
-      "id": "d89e30383574e747",
-      "title": "Pluralistic: Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (21 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/21/torment-nexusism/",
-      "pacer": "C",
-      "keywords": [
-        "Muskism",
-        "Elon Musk",
-        "Quinn Slobodian",
-        "Ben Tarnoff",
-        "Ideology"
-      ],
-      "published": "2026-04-21T13:18:50.000Z"
-    },
-    {
-      "id": "31014810e82defbf",
-      "title": "Better TTS on Linux",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/better-tts-on-linux/",
-      "pacer": "C",
-      "keywords": [
-        "Linux",
-        "TTS",
-        "eSpeak",
-        "Text-to-Speech",
-        "Open Source"
-      ],
-      "published": "2026-04-21T11:34:07.000Z"
-    },
-    {
       "id": "b1720810be3d78a1",
       "title": "brief",
       "source": "Andrew Nesbitt",
@@ -831,22 +895,6 @@
         "productivity"
       ],
       "published": "2026-04-20T22:00:00.000Z"
-    },
-    {
-      "id": "520ea2952c56e774",
-      "title": "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245",
-      "pacer": "C",
-      "keywords": [
-        "24-bit-per-pixel",
-        "bank-switched memory",
-        "memory alignment",
-        "legacy hardware",
-        "computer architecture"
-      ],
-      "published": "2026-04-20T14:00:00.000Z"
     },
     {
       "id": "f609f9860d50f024",
@@ -1456,22 +1504,6 @@
       "published": "2026-04-13T22:00:00.000Z"
     },
     {
-      "id": "8a52a54a894081ff",
-      "title": "Common Package Specification",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/13/common-package-specification.html",
-      "pacer": "C",
-      "keywords": [
-        "CPS",
-        "CMake",
-        "C++",
-        "Dependency Management",
-        "Build Systems"
-      ],
-      "published": "2026-04-13T10:00:00.000Z"
-    },
-    {
       "id": "d87a8caa0d51344a",
       "title": "Sometimes powerful people just do dumb shit",
       "source": "Westenberg.",
@@ -1870,22 +1902,6 @@
         "information evaluation"
       ],
       "published": "2026-04-06T22:00:00.000Z"
-    },
-    {
-      "id": "b20850c9b1eb7ddd",
-      "title": "Prototyping with LLMs",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/",
-      "pacer": "A",
-      "keywords": [
-        "LLM",
-        "prototyping",
-        "sketching",
-        "design process",
-        "productivity"
-      ],
-      "published": "2026-04-06T19:00:00.000Z"
     },
     {
       "id": "3e73213b65c0a33f",
@@ -2532,16 +2548,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-20T18:09:52.000Z"
-    },
-    {
-      "id": "59d8c86b95245f20",
-      "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/terence-tao",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T16:00:55.000Z"
     },
     {
       "id": "24396c2491a6d525",

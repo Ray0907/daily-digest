@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 26 Apr 2026 22:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:14:49 GMT</lastBuildDate>
     
+    <item>
+      <title>Collective Speed Is Not the Summation of Individual Speed</title>
+      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</link>
+      <guid>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</guid>
+      <pubDate>Sun, 26 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The article uses the analogy of an Olympic relay race to argue that individual speed does not necessarily translate to team or organizational performance. It highlights that in software development, as in racing, the effectiveness of the connections, interfaces, and coordination between individuals is more critical than the speed of any single contributor.</description>
+    </item>
+
+    <item>
+      <title>What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism</title>
+      <link>https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</link>
+      <guid>https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</guid>
+      <pubDate>Mon, 27 Apr 2026 13:51:32 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This post is a collection of speculative reflections covering diverse topics such as the nature of intelligence versus power and the verification challenges in scientific research. It also explores historical patterns, specifically the phenomenon of simultaneous or parallel discoveries, exemplified by the development of Darwinism.</description>
+    </item>
+
+    <item>
+      <title>The stages of package installation</title>
+      <link>https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html</link>
+      <guid>https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html</guid>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article decomposes the package installation process into distinct, modular stages to improve understanding and security. It highlights the separation of fetching metadata, which requires network access, and resolution, which involves pure computation to determine version dependencies.</description>
+    </item>
+
+    <item>
+      <title>Looking at consequences of passing too few register parameters to a C function on various architectures</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</guid>
+      <pubDate>Mon, 27 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses the technical implications of failing to pass the required number of register parameters to C functions. It highlights that this practice causes issues across architectures, with the Itanium architecture being particularly problematic.</description>
+    </item>
+
+    <item>
+      <title>Theatre Review: Hadestown ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</guid>
+      <pubDate>Mon, 27 Apr 2026 11:34:27 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post provides a glowing five-star review of the musical Hadestown, praising its magical production and emotionally resonant performances. The author highlights the intimate, immersive atmosphere of the show, particularly from front-row seating.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The enshittification multiverse (27 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/27/analogs-and-analogies/</link>
+      <guid>https://pluralistic.net/2026/04/27/analogs-and-analogies/</guid>
+      <pubDate>Mon, 27 Apr 2026 08:39:48 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow expands the definition of 'enshittification' beyond digital platforms, arguing it describes any systemic practice where value is extracted from users to profit the operator. The post explores how zero-sum economic behaviors, such as surveillance pricing, demonstrate these parasitic dynamics across various sectors.</description>
+    </item>
+
+    <item>
+      <title>Tracking the history of the now-deceased OpenAI Microsoft AGI clause</title>
+      <link>https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 18:38:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article tracks the evolution and eventual removal of a specific clause in the OpenAI-Microsoft partnership agreement regarding AGI. It examines historical documents and charters to highlight the difficulty of legally defining AGI in commercial contracts.</description>
+    </item>
+
+    <item>
+      <title>Speech translation in Google Meet is now rolling out to mobile devices</title>
+      <link>https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 17:37:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Google Meet is expanding its real-time speech translation feature to mobile devices, enabling live cross-lingual communication with voice synthesis. While the technology aims for seamless translation across multiple languages, current performance remains in an early alpha stage with notable reliability issues.</description>
+    </item>
+
     <item>
       <title>How Bitwarden Encrypts and Decrypts Secrets</title>
       <link>https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</link>
@@ -832,78 +904,6 @@
       <pubDate>Sat, 18 Apr 2026 12:25:00 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison converted Anthropic's Claude system prompts into a git-style timeline to track version history. By assigning fake commit dates to these prompts, he created a browsable interface for analyzing incremental model changes.</description>
-    </item>
-
-    <item>
-      <title>America lost the Mandate of Heaven</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</guid>
-      <pubDate>Fri, 17 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The article critiques the decline of American manufacturing and labor power, arguing that over-reliance on outsourcing has eroded the nation's productive capacity. It explores how protectionist policies like tariffs could potentially restore domestic bargaining power, while cautioning against the long-term geopolitical risks of insular economic strategies.</description>
-    </item>
-
-    <item>
-      <title>Five Simple Steps to Fix America</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</guid>
-      <pubDate>Fri, 17 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author presents a provocative manifesto for reforming the United States by advocating for a return to the gold standard, the complete elimination of government entitlement programs, and a reinterpretation of human equality. These points argue against modern economic policies and social welfare systems, proposing a shift toward individual responsibility and fixed monetary values.</description>
-    </item>
-
-    <item>
-      <title>A Taxing Discussion</title>
-      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
-      <guid>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
-      <pubDate>Sat, 18 Apr 2026 19:11:40 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the historical origins of the U.S. income tax, specifically focusing on how World War II transformed it from a practice for the wealthy into a requirement for the general public. It examines the introduction of the 1040 form and the government's efforts to encourage compliance through propaganda.</description>
-    </item>
-
-    <item>
-      <title>Reading List 04/18/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-04182026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-04182026</guid>
-      <pubDate>Sat, 18 Apr 2026 12:00:53 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This reading list covers a diverse range of topics, including advancements in quadruped welding robotics and the 'China Shock 2.0' economic phenomenon. It also explores emerging trends in transformer startups and recent anomalous movements observed in Chinese satellite technology.</description>
-    </item>
-
-    <item>
-      <title>Gaussian distributed weights for LLMs</title>
-      <link>https://www.johndcook.com/blog/2026/04/18/qlora/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/18/qlora/</guid>
-      <pubDate>Sat, 18 Apr 2026 14:49:27 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses 4-bit floating point formats like NF4 and FP4 used for LLM weight quantization. It explores the relationship between these formats and the Gaussian distribution of model weights.</description>
-    </item>
-
-    <item>
-      <title>4-bit floating point FP4</title>
-      <link>https://www.johndcook.com/blog/2026/04/17/fp4/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/17/fp4/</guid>
-      <pubDate>Sat, 18 Apr 2026 01:08:54 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the evolution of floating-point representation, tracing the transition from 32-bit and 64-bit standards to the current emergence of 4-bit (FP4) formats. It highlights how programming languages like C historically handled these sizes and sets the stage for understanding modern low-precision computing.</description>
-    </item>
-
-    <item>
-      <title>The electromechanical angle computer inside the B-52 bomber's star tracker</title>
-      <link>http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
-      <guid>http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</guid>
-      <pubDate>Sat, 18 Apr 2026 16:24:00 GMT</pubDate>
-      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
-      <description>This article explores the technical inner workings of the B-52 bomber's 'Angle Computer,' an electromechanical analog system used for celestial navigation. It explains how the device physically models the celestial sphere to track stars and calculate precise headings without the use of digital computers.</description>
-    </item>
-
-    <item>
-      <title>Forgotten message from the past: LB_INIT­STORAGE</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</guid>
-      <pubDate>Fri, 17 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the historical Windows message LB_INITSTORAGE, designed to preallocate memory for list boxes. It explains how this mechanism was intended to prevent the performance degradation associated with quadratic time complexity during item insertion.</description>
     </item>
   </channel>
 </rss>

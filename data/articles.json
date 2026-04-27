@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-04-26T22:08:32.791Z",
+  "last_updated": "2026-04-27T22:14:48.952Z",
   "articles": [
+    {
+      "id": "2c00d63d65ce3373",
+      "title": "Collective Speed Is Not the Summation of Individual Speed",
+      "url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-26T19:00:00.000Z",
+      "summary_en": "The article uses the analogy of an Olympic relay race to argue that individual speed does not necessarily translate to team or organizational performance. It highlights that in software development, as in racing, the effectiveness of the connections, interfaces, and coordination between individuals is more critical than the speed of any single contributor.",
+      "summary_zh": "本文透過奧運接力賽的比喻，探討個人速度並不等於團隊或組織的總體效率。文章強調在軟體開發中，如同接力賽一樣，個人之間的溝通協作與介面銜接，遠比單一成員的執行速度更為關鍵。",
+      "keywords": [
+        "productivity",
+        "teamwork",
+        "software development",
+        "collaboration",
+        "systems thinking"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post primarily uses the analogy of a 4x100 relay race to explain organizational dynamics.",
+      "pacer_reason_zh": "該文章主要利用 4x100 接力賽的比喻來解釋組織動力學。"
+    },
+    {
+      "id": "7bb2aa2b1141e731",
+      "title": "What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism",
+      "url": "https://www.dwarkesh.com/p/what-ive-been-thinking-april-27",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-04-27T13:51:32.000Z",
+      "summary_en": "This post is a collection of speculative reflections covering diverse topics such as the nature of intelligence versus power and the verification challenges in scientific research. It also explores historical patterns, specifically the phenomenon of simultaneous or parallel discoveries, exemplified by the development of Darwinism.",
+      "summary_zh": "本文彙整了作者對多項議題的深入思考，涵蓋智能與權力的本質、科學驗證的難題，以及達爾文主義發現過程中所展現的同步發現現象。這些反思旨在探討科學發展的規律與人類認知的界限。",
+      "keywords": [
+        "Intelligence",
+        "Power",
+        "Science",
+        "Darwinism",
+        "Discovery"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily reflective and theoretical, focusing on exploring concepts and questions rather than providing data or tutorials.",
+      "pacer_reason_zh": "內容主要屬於反思性與理論性的探討，側重於對核心概念與議題的延伸思考，而非提供數據或操作指南。"
+    },
+    {
+      "id": "55ebf176f2eb267c",
+      "title": "The stages of package installation",
+      "url": "https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-27T10:00:00.000Z",
+      "summary_en": "The article decomposes the package installation process into distinct, modular stages to improve understanding and security. It highlights the separation of fetching metadata, which requires network access, and resolution, which involves pure computation to determine version dependencies.",
+      "summary_zh": "本文將軟體套件的安裝過程拆解為不同的模組化階段，以提升系統架構的清晰度與安全性。文章重點介紹了「獲取元數據」與「解析依賴關係」兩個階段，並區分了網路需求與純計算邏輯的不同特性。",
+      "keywords": [
+        "package manager",
+        "software engineering",
+        "dependency resolution",
+        "metadata",
+        "system design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the fundamental conceptual stages of how package managers function and how they should be architected.",
+      "pacer_reason_zh": "本文解釋了套件管理器運作的核心概念階段，以及其架構設計的基本原理。"
+    },
+    {
+      "id": "83dc90be47e7bb96",
+      "title": "Looking at consequences of passing too few register parameters to a C function on various architectures",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-27T14:00:00.000Z",
+      "summary_en": "This article discusses the technical implications of failing to pass the required number of register parameters to C functions. It highlights that this practice causes issues across architectures, with the Itanium architecture being particularly problematic.",
+      "summary_zh": "本文探討了在 C 語言函數呼叫中，若傳遞的暫存器參數數量不足所引發的技術後果。文章指出這種做法在各個架構下都會導致問題，其中 Itanium 架構的情況尤為嚴重。",
+      "keywords": [
+        "C programming",
+        "CPU architecture",
+        "register parameters",
+        "Itanium",
+        "calling convention"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual underpinnings and behavioral consequences of ABI-level register parameter handling in C functions.",
+      "pacer_reason_zh": "文章解釋了 C 語言函數中 ABI 層級暫存器參數處理的概念基礎及其行為後果。"
+    },
+    {
+      "id": "d200fd9994d806dd",
+      "title": "Theatre Review: Hadestown ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-27T11:34:27.000Z",
+      "summary_en": "This blog post provides a glowing five-star review of the musical Hadestown, praising its magical production and emotionally resonant performances. The author highlights the intimate, immersive atmosphere of the show, particularly from front-row seating.",
+      "summary_zh": "這篇部落格文章對音樂劇《冥界》（Hadestown）給予了五星好評，讚賞其充滿魔力的製作與觸動人心的表演。作者特別提到該劇在舞台前排所營造出的親密感與沉浸式體驗。",
+      "keywords": [
+        "Hadestown",
+        "Theatre Review",
+        "Musical",
+        "Performance",
+        "Anaïs Mitchell"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a subjective review and critique of a theatrical performance, providing an explanation of the author's personal experience.",
+      "pacer_reason_zh": "這是一篇關於戲劇表演的主觀評論與賞析，旨在表達作者的個人觀影體驗與見解。"
+    },
+    {
+      "id": "45066ba63479c4e5",
+      "title": "Pluralistic: The enshittification multiverse (27 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/27/analogs-and-analogies/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-27T08:39:48.000Z",
+      "summary_en": "Cory Doctorow expands the definition of 'enshittification' beyond digital platforms, arguing it describes any systemic practice where value is extracted from users to profit the operator. The post explores how zero-sum economic behaviors, such as surveillance pricing, demonstrate these parasitic dynamics across various sectors.",
+      "summary_zh": "Cory Doctorow 將「去質化」（enshittification）的概念從數位平台擴展到更廣泛的領域，指出這是指透過犧牲用戶利益來獲取利潤的系統性行為。文章探討了如監控定價等零和博弈現象，如何體現了這種將價值從用戶轉移至操作者的掠奪性本質。",
+      "keywords": [
+        "enshittification",
+        "Cory Doctorow",
+        "economics",
+        "surveillance pricing",
+        "zero-sum"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the concept of 'enshittification' as an analogy to explain complex economic behaviors and zero-sum power dynamics across non-digital domains.",
+      "pacer_reason_zh": "文章以「去質化」作為類比概念，用來解釋跨領域的複雜經濟行為與零和博弈的權力動態。"
+    },
+    {
+      "id": "a4e35c226123689d",
+      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-27T18:38:17.000Z",
+      "summary_en": "The article tracks the evolution and eventual removal of a specific clause in the OpenAI-Microsoft partnership agreement regarding AGI. It examines historical documents and charters to highlight the difficulty of legally defining AGI in commercial contracts.",
+      "summary_zh": "本文追蹤了 OpenAI 與微軟合作協議中關於 AGI（通用人工智慧）條款的演變與最終取消。作者透過檢視歷史文件與公開章程，探討在商業合約中對 AGI 進行法律定義的困難性。",
+      "keywords": [
+        "OpenAI",
+        "Microsoft",
+        "AGI",
+        "contract",
+        "tech policy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative analysis, providing evidence through historical web archives and document excerpts to track a specific policy change.",
+      "pacer_reason_zh": "本文屬於調查分析性質，透過網路檔案庫與文件摘錄提供證據，追蹤特定政策條款的變動歷程。"
+    },
+    {
+      "id": "6dab30f065ef7986",
+      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-27T17:37:47.000Z",
+      "summary_en": "Google Meet is expanding its real-time speech translation feature to mobile devices, enabling live cross-lingual communication with voice synthesis. While the technology aims for seamless translation across multiple languages, current performance remains in an early alpha stage with notable reliability issues.",
+      "summary_zh": "Google Meet 正在將其即時語音翻譯功能擴展至行動裝置，支援跨語言對話與語音合成。儘管該技術旨在實現無縫翻譯，但目前仍處於早期測試階段，在不同裝置間的穩定性表現尚不穩定。",
+      "keywords": [
+        "Google Meet",
+        "speech translation",
+        "real-time communication",
+        "AI",
+        "mobile"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a personal account and observation of a specific feature rollout and performance, functioning as a qualitative case study.",
+      "pacer_reason_zh": "本文提供了作者對特定功能發布及其效能的親身體驗與觀察，屬於質性案例分析。"
+    },
     {
       "id": "83a6d480d9071e85",
       "title": "How Bitwarden Encrypts and Decrypts Secrets",
