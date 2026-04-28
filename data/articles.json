@@ -1,6 +1,466 @@
 {
-  "last_updated": "2026-04-27T22:14:48.952Z",
+  "last_updated": "2026-04-28T22:18:10.006Z",
   "articles": [
+    {
+      "id": "30dd8b350b87e1f8",
+      "title": "(One) Good AI Is Here",
+      "url": "https://anildash.com/2026/04/28/one-good-ai-is-here/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-28T00:00:00.000Z",
+      "summary_en": "Anil Dash critiques the polarized state of the AI industry, where big platforms face criticism for lack of accountability and ethics while zealots make extreme, alarmist claims. He argues for a shift toward 'good AI'—tools that are built with consent and transparency, suggesting that positive, beneficial implementations of LLMs are possible and necessary.",
+      "summary_zh": "Anil Dash 批評了當前 AI 產業兩極化的現狀，大型平台因缺乏透明度與道德考量而備受質疑，而支持者則過度誇大或散播恐懼。他呼籲轉向「良善 AI」，主張開發具備知情同意與透明度、能真正造福人類而非帶來負面外部影響的技術應用。",
+      "keywords": [
+        "AI ethics",
+        "LLM",
+        "tech criticism",
+        "responsible AI",
+        "digital society"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual framework of 'good AI' and discusses the societal implications and ethics of current machine learning models.",
+      "pacer_reason_zh": "這篇文章探討了「良善 AI」的概念框架，並討論了當前機器學習模型對社會的影響及倫理問題。"
+    },
+    {
+      "id": "569a50f16c8e75c5",
+      "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
+      "url": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-04-28T17:48:50.000Z",
+      "summary_en": "This post announces the third iteration of the author's annual blog competition and jamboree. It invites readers to participate in the upcoming writing event.",
+      "summary_zh": "這篇文章宣佈了作者舉辦的年度部落格競賽與慶典邁入第三屆。文中邀請讀者共襄盛舉，參與即將到來的寫作活動。",
+      "keywords": [
+        "Experimental History",
+        "blogging",
+        "competition",
+        "writing",
+        "community"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions as an announcement or reference for an upcoming event schedule.",
+      "pacer_reason_zh": "該文章作為即將到來活動的公告或參考資訊。"
+    },
+    {
+      "id": "685c81d2a92b1d1f",
+      "title": "Weekly Update 501",
+      "url": "https://www.troyhunt.com/weekly-update-501/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-04-28T05:01:42.000Z",
+      "summary_en": "Troy Hunt discusses the emerging trend of creating equality policies for AI bots, highlighting the shift in human-AI interaction. He notes that while the concept is partially tongue-in-cheek, it addresses the evolving necessity for professional conduct in the age of advanced artificial intelligence.",
+      "summary_zh": "Troy Hunt 探討了為 AI 機器人制定平等政策的新興趨勢，強調人機互動模式的轉變。他指出，雖然此舉帶有諷刺意味，但反映了在先進人工智慧時代，規範人機互動專業行為的必要性。",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Ethics",
+        "Policy",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores the conceptual shift in social norms and policies regarding human interactions with artificial intelligence.",
+      "pacer_reason_zh": "該內容探討了關於人類與人工智慧互動的社會規範與政策的概念性轉變。"
+    },
+    {
+      "id": "a1db390df188cc3d",
+      "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
+      "url": "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-04-28T13:00:48.000Z",
+      "summary_en": "The article explores the shifting threats in cybersecurity, moving from the long-feared 'quantum apocalypse' to the more immediate and unpredictable risks posed by generative AI. It highlights how the integration of AI into malicious activities represents a fundamental shift in the global threat landscape.",
+      "summary_zh": "本文探討了網路安全威脅的轉變，從長期令人擔憂的「量子末日」轉向由生成式 AI 所帶來的即時且不可預測的風險。文章強調，將 AI 整合至惡意活動中，正代表全球威脅格局的根本性改變。",
+      "keywords": [
+        "Cybersecurity",
+        "Generative AI",
+        "Quantum Computing",
+        "Threat Landscape",
+        "Tech Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how emerging technologies like AI are fundamentally changing the nature of cybersecurity threats.",
+      "pacer_reason_zh": "本文針對生成式 AI 等新興技術如何從根本上改變網路安全威脅本質，提供了概念性的分析。"
+    },
+    {
+      "id": "2e7f0c888d6d8f53",
+      "title": "Collective Speed Is Not the Summation of Individual Speed",
+      "url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-04-26T19:00:00.000Z",
+      "summary_en": "The article uses the analogy of a 4x100 relay race to argue that individual speed does not directly translate to collective performance. It suggests that, like baton passes in a race, the success of a software development team depends more on the quality of communication and relationships between members than the speed of individual contributors.",
+      "summary_zh": "本文透過 4x100 公尺接力賽的比喻，探討個人速度並不等於團隊整體速度的總和。作者認為軟體開發團隊的成功關鍵與接力賽一樣，成員間的溝通互動與介面協作遠比單打獨鬥的個人速度更為重要。",
+      "keywords": [
+        "teamwork",
+        "productivity",
+        "software engineering",
+        "analogy",
+        "collaboration"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article primarily uses the analogy of an Olympic relay race to explain organizational dynamics and software development efficiency.",
+      "pacer_reason_zh": "文章主要透過奧運接力賽的類比，來解釋組織運作與軟體開發效率之間的關聯。"
+    },
+    {
+      "id": "067a78a56cfb3074",
+      "title": "Illegal vs Unwanted States",
+      "url": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-04-28T15:14:09.000Z",
+      "summary_en": "The article distinguishes between illegal states, which are fundamentally forbidden, and unwanted states, which are undesirable but potentially recoverable. It argues that systems must be designed to represent and handle these unwanted states because external factors often force systems into them, necessitating effective detection and resolution mechanisms.",
+      "summary_zh": "本文區分了「非法狀態」（系統絕對禁止的狀態）與「不想要的狀態」（雖不理想但可能需要暫時容忍的狀態）。作者指出，系統設計必須具備識別與處理這些不想要狀態的能力，因為外部因素往往不可避免地會導致這類情況發生。",
+      "keywords": [
+        "system design",
+        "software architecture",
+        "state management",
+        "error handling",
+        "data consistency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework for categorizing system states, focusing on the theoretical distinction between illegal and unwanted states.",
+      "pacer_reason_zh": "本文提供了一套系統狀態的分類概念框架，重點在於探討非法狀態與不想要狀態之間的理論區別。"
+    },
+    {
+      "id": "153815117020d326",
+      "title": "Understanding systems",
+      "url": "https://entropicthoughts.com/understanding-systems",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-04-27T22:00:00.000Z",
+      "summary_en": "This article explores the fundamental principles of systems thinking and how they apply to complex organizational structures. It aims to provide a framework for better decision-making and problem-solving within interconnected environments.",
+      "summary_zh": "本文探討系統思考的基本原則及其在複雜組織結構中的應用。旨在為互聯環境中的決策與問題解決提供一套分析架構。",
+      "keywords": [
+        "systems thinking",
+        "complexity",
+        "systems theory",
+        "problem solving",
+        "organizational structure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and theoretical foundations of systems thinking.",
+      "pacer_reason_zh": "本文重點在於解釋系統思考的理論架構與基本概念。"
+    },
+    {
+      "id": "01f072847147e7fe",
+      "title": "QuickQWERTY 1.2.2",
+      "url": "https://susam.net/code/news/quickqwerty/1.2.2.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-04-28T00:00:00.000Z",
+      "summary_en": "QuickQWERTY 1.2.2 has been released, featuring a critical bug fix for the lesson restart function. The project has also migrated its source code hosting platform to Codeberg, marking its third hosting location in 17 years.",
+      "summary_zh": "QuickQWERTY 1.2.2 已正式發布，修復了練習頁面重啟功能的錯誤。此外，該專案在運作 17 年後，已將原始碼託管平台遷移至 Codeberg。",
+      "keywords": [
+        "QuickQWERTY",
+        "typing tutor",
+        "software update",
+        "Codeberg",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a release note, providing a reference for the latest version and updates to a software project.",
+      "pacer_reason_zh": "本文屬於軟體更新公告，為專案的最新版本與變更提供了參考資訊。"
+    },
+    {
+      "id": "0160dcfd272dc595",
+      "title": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-28T10:00:00.000Z",
+      "summary_en": "The article argues that GitHub Actions has become a major security vulnerability in the open-source supply chain. It highlights how convenient default features, such as mutable dependency tags and permissive workflow triggers, are frequently exploited to compromise repositories and harvest credentials.",
+      "summary_zh": "本文指出 GitHub Actions 已成為開源軟體供應鏈中的重大安全漏洞。作者強調，該平台為了方便性而設計的預設功能（如可變動的相依性標籤與寬鬆的工作流程觸發器），常被駭客利用來攻擊儲存庫並竊取憑證。",
+      "keywords": [
+        "GitHub Actions",
+        "Supply Chain Security",
+        "Open Source",
+        "CI/CD",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific, documented real-world incidents and examples of security failures to support its argument about systemic vulnerabilities.",
+      "pacer_reason_zh": "本文引用了多起實際發生的安全事故與具體案例，藉此支持其關於系統性漏洞的論點。"
+    },
+    {
+      "id": "08d7491bf33094af",
+      "title": "The Loop: everything has happened before, and everything will happen again",
+      "url": "https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-27T22:38:38.000Z",
+      "summary_en": "This article discusses the cyclical nature of human behavior, suggesting that we repeat historical mistakes because our cognitive hardware has remained largely unchanged for millennia. It highlights persistent patterns like financial bubbles and social scapegoating as evidence of our evolutionary limitations.",
+      "summary_zh": "這篇文章探討了人類行為的循環性，認為我們不斷重蹈覆轍是因為大腦的運作機制數千年來並未升級。文中指出諸如金融泡沫與代罪羔羊等現象，皆反映了人類演化上的侷限性。",
+      "keywords": [
+        "human behavior",
+        "evolutionary psychology",
+        "history",
+        "cognitive limitations",
+        "patterns"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining a theory regarding human nature and behavioral patterns.",
+      "pacer_reason_zh": "內容側重於解釋關於人性與行為模式的理論。"
+    },
+    {
+      "id": "dc0f16a9e550d3b8",
+      "title": "Turning a trick into a technique",
+      "url": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-28T21:44:58.000Z",
+      "summary_en": "The author explores the transition from a mathematical 'trick' to a formal 'technique' by generalizing a high-order approximation method. By refining a previous observation involving even functions, the article demonstrates how iterative mathematical patterns can be systematized for broader application.",
+      "summary_zh": "作者探討如何將數學中的「技巧」轉化為正式的「技術」，並藉由推廣先前提到的一種高階近似法來實現。透過改良處理偶函數的數學方法，文章展示了如何將特定的操作模式系統化以應用於更廣泛的場景。",
+      "keywords": [
+        "mathematics",
+        "approximation",
+        "even functions",
+        "methodology",
+        "calculus"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the process of transforming a specific mathematical calculation into a repeatable, systematized technique.",
+      "pacer_reason_zh": "文章重點在於將特定的數學計算過程轉化為可重複、系統化的技術方法。"
+    },
+    {
+      "id": "28800fcaa5d21833",
+      "title": "Circular arc approximation",
+      "url": "https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-28T13:09:42.000Z",
+      "summary_en": "This article explores the mathematical approximation of a circular arc length using the lengths of the arc's chord and the chord of its half-arc. It provides the geometric derivation to calculate the arc length based on these chord measurements.",
+      "summary_zh": "本文探討了如何利用圓弧的弦長及其半弧的弦長來近似計算圓弧長度。文中提供了相關的幾何推導，說明如何根據這些弦長數據來得出圓弧長度。",
+      "keywords": [
+        "geometry",
+        "circular arc",
+        "mathematics",
+        "approximation",
+        "trigonometry"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content explains a specific mathematical method and derivation for calculating arc length.",
+      "pacer_reason_zh": "內容解釋了一種計算圓弧長度的具體數學方法與推導過程。"
+    },
+    {
+      "id": "fef8766c3e95d3f5",
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-04-28T00:00:00.000Z",
+      "summary_en": "The author reflects on the evolution of Open Source hosting, tracing the shift from tools like SourceForge and Trac to the dominance of GitHub. They discuss how GitHub became a critical social and professional hub for developers while expressing concern over its recent decline and the long-term impact of frictionless code distribution.",
+      "summary_zh": "作者回顧了開源軟體託管的演變，從 SourceForge 和 Trac 等早期工具到 GitHub 的壟斷地位。文章討論了 GitHub 如何成為開發者社群的核心社交與專業連結樞紐，同時也表達了對其現狀衰退以及對開源生態系統深遠影響的擔憂。",
+      "keywords": [
+        "Open Source",
+        "GitHub",
+        "software history",
+        "developer community",
+        "dependencies"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the history of open source infrastructure and the sociological impact of platform shifts.",
+      "pacer_reason_zh": "本文是對開源基礎設施歷史及其平台轉移所帶來社會學影響的概念性反思。"
+    },
+    {
+      "id": "e2cd66c55df0c0b4",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-28T14:00:00.000Z",
+      "summary_en": "This article explores the implementation of a cross-process reader/writer lock that restricts the number of concurrent readers. It introduces the use of a semaphore as a fundamental synchronization mechanism to manage access to a shared resource.",
+      "summary_zh": "本文探討了如何實作一個限制讀取者數量的跨行程讀寫鎖。文中介紹了使用信號量（semaphore）作為管理共享資源存取的基礎同步機制。",
+      "keywords": [
+        "semaphore",
+        "reader-writer lock",
+        "synchronization",
+        "concurrency",
+        "process communication"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a series providing a step-by-step technical guide on developing a specific software locking mechanism.",
+      "pacer_reason_zh": "本文屬於技術指南系列的一部分，逐步說明如何開發特定的軟體鎖定機制。"
+    },
+    {
+      "id": "434fee2b0869a15a",
+      "title": "Ghostty Is Leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-04-28T00:00:00.000Z",
+      "summary_en": "Mitchell Hashimoto announces the migration of the Ghostty terminal emulator project away from GitHub. This move marks a significant shift in infrastructure for the open-source project.",
+      "summary_zh": "Mitchell Hashimoto 宣布 Ghostty 終端機模擬器專案將遷移至 GitHub 以外的平台。此舉標誌著該開源專案在基礎設施選擇上的重大轉變。",
+      "keywords": [
+        "Ghostty",
+        "GitHub",
+        "Mitchell Hashimoto",
+        "Open Source",
+        "Infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a conceptual announcement regarding project management and platform strategy.",
+      "pacer_reason_zh": "這是一篇關於專案管理與平台策略的概念性公告。"
+    },
+    {
+      "id": "974fc309adf20df8",
+      "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/27/mouseketeers/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-28T05:57:01.000Z",
+      "summary_en": "Cory Doctorow highlights Vicky Osterweil's 'The Extended Universe,' a critical examination of how Disney's cultural dominance has reshaped the film industry. The post reflects on the power of sharp cultural criticism by comparing it to John Kessel's famous analysis of Orson Scott Card's 'Ender's Game.'",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）推薦了薇琪·奧斯特維爾（Vicky Osterweil）的著作《擴展宇宙》，該書深入剖析了迪士尼的文化霸權如何重塑電影產業。本文藉此反思了深度文化評論的影響力，並將其與約翰·凱塞爾（John Kessel）對《安德的遊戲》的經典評論進行了對比。",
+      "keywords": [
+        "Disney",
+        "cultural criticism",
+        "Vicky Osterweil",
+        "media studies",
+        "literary analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on presenting and explaining critical perspectives on cultural and literary works, framing it as conceptual analysis.",
+      "pacer_reason_zh": "內容重點在於介紹並闡述對文化與文學作品的批判性觀點，屬於概念性的分析。"
+    },
+    {
+      "id": "0b4f74ee818bd5d8",
+      "title": "Don't use localhost:3000, use your own custom domain ",
+      "url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-27T23:17:54.000Z",
+      "summary_en": "The author advocates for using custom local domains instead of incrementing localhost ports to improve project management and development workflows. By configuring the system hosts file and a reverse proxy, developers can map friendly URLs to local applications, simplifying navigation and cross-project communication.",
+      "summary_zh": "作者建議開發者使用自定義的本地網域，而非依賴不斷累加的 localhost 連接埠，以提升專案管理與開發效率。透過設定系統 hosts 檔案與反向代理伺服器，開發者可以將易記的網址對應至本地應用程式，從而優化開發流程與跨專案的連接需求。",
+      "keywords": [
+        "localhost",
+        "web-development",
+        "reverse-proxy",
+        "hosts-file",
+        "development-workflow"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical step-by-step guide on how to configure local domains for development projects.",
+      "pacer_reason_zh": "這篇文章提供了具體的逐步指南，說明如何為開發專案配置本地網域。"
+    },
+    {
+      "id": "f8e1a00d510bbea7",
+      "title": "Spring 2026 Dev Contest Results!",
+      "url": "https://repebble.com/blog/spring-2026-dev-contest-results",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "published": "2026-04-28T00:00:00.000Z",
+      "summary_en": "Eric Migicovsky announces the results of the Spring 2026 Pebble developer contest. Over 500 new applications and watchfaces were submitted by the community.",
+      "summary_zh": "Eric Migicovsky 公布了 2026 年春季 Pebble 開發者大賽的結果。社群成員總共提交了超過 500 款全新的應用程式與錶面設計。",
+      "keywords": [
+        "Pebble",
+        "Dev Contest",
+        "Apps",
+        "Watchfaces",
+        "Eric Migicovsky"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports the results and quantitative data from a completed event.",
+      "pacer_reason_zh": "本文報導了一項已完成活動的結果與量化數據。"
+    },
+    {
+      "id": "b200fc08cb865f20",
+      "title": "Quoting OpenAI Codex base_instructions",
+      "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-28T22:02:53.000Z",
+      "summary_en": "Simon Willison highlights a specific constraint found within the OpenAI Codex base instructions. The excerpt reveals a system directive that strictly limits the model from discussing certain mythical creatures or animals unless directly relevant to the user query.",
+      "summary_zh": "Simon Willison 引用了 OpenAI Codex 基礎指令中的特定限制條款。該指令明確規定，除非與使用者的查詢內容明確相關，否則模型不得討論哥布林、小精靈或其他生物。",
+      "keywords": [
+        "OpenAI",
+        "Codex",
+        "System Prompts",
+        "Prompt Engineering",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a direct reference to a specific configuration file and system instruction provided by OpenAI.",
+      "pacer_reason_zh": "本文內容直接引用並展示了 OpenAI 提供的特定配置文件與系統指令，屬於參考性質內容。"
+    },
+    {
+      "id": "bc974bbb4f1a1973",
+      "title": "Quoting Matthew Yglesias",
+      "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-28T13:25:29.000Z",
+      "summary_en": "The post quotes Matthew Yglesias reflecting on the current state of AI in software development. Yglesias expresses a preference for professionally managed software products built with AI assistance rather than 'vibe-coding' by individuals.",
+      "summary_zh": "本文引用了 Matthew Yglesias 對當前軟體開發中 AI 應用的看法。他表示比起個人化的「vibe-coding」，他更傾向於由專業軟體公司運用 AI 輔助開發，以提供品質更好且更具成本效益的產品。",
+      "keywords": [
+        "AI",
+        "vibe-coding",
+        "software engineering",
+        "Matthew Yglesias",
+        "agentic engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a conceptual perspective on the industry-wide evolution of AI in software production.",
+      "pacer_reason_zh": "內容提出了關於 AI 在軟體生產產業中演變的觀念性觀點。"
+    },
+    {
+      "id": "afbaac3fcc8a2327",
+      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-28T05:23:05.000Z",
+      "summary_en": "Python's pip 26.1 introduces significant updates, including support for lockfiles via a new command and dependency cooldowns to ensure package stability. The update also drops support for Python 3.9, encouraging users to upgrade to newer environments.",
+      "summary_zh": "Python 的 pip 26.1 版本引入了重大更新，包括透過新指令支援鎖定檔案 (lockfiles)，以及確保套件穩定性的依賴冷卻機制。此版本同時終止了對 Python 3.9 的支援，鼓勵使用者升級至更新的環境。",
+      "keywords": [
+        "pip",
+        "Python",
+        "lockfiles",
+        "dependency management",
+        "software updates"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates how to use new features like pip lockfiles and dependency cooldowns through step-by-step code examples.",
+      "pacer_reason_zh": "本文透過逐步的程式碼範例，示範了如何使用 pip 鎖定檔案與依賴冷卻等新功能。"
+    },
+    {
+      "id": "a79eeb4c6ea1c7f8",
+      "title": "Introducing talkie: a 13B vintage language model from 1930",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-28T02:47:42.000Z",
+      "summary_en": "Talkie is a new 13B language model trained exclusively on pre-1931 historical English text. The project explores research questions such as the model's ability to predict historical events or independently discover scientific concepts that emerged after its training cutoff.",
+      "summary_zh": "Talkie 是一個全新的 13B 語言模型，專門使用 1931 年之前的歷史英語文本進行訓練。該項目旨在探討模型是否能預測歷史事件，或是獨立發現訓練資料時間點之後才出現的科學概念。",
+      "keywords": [
+        "LLM",
+        "Talkie",
+        "1930",
+        "AI research",
+        "machine learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explores the implications and research potential of training language models on historically restricted datasets.",
+      "pacer_reason_zh": "本文在概念上探討了使用具有歷史時限的數據集訓練語言模型的意涵及其研究潛力。"
+    },
+    {
+      "id": "c70f7c2b5ce2a5ae",
+      "title": "microsoft/VibeVoice",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-27T23:46:56.000Z",
+      "summary_en": "Microsoft has released VibeVoice, an open-source, Whisper-style speech-to-text model featuring built-in speaker diarization. This post provides a practical demonstration of how to run the model locally on a Mac using the uv tool and the mlx-audio library.",
+      "summary_zh": "微軟發布了名為 VibeVoice 的開源語音轉文字模型，該模型具備內建的說話者識別（diarization）功能。本文介紹如何透過 uv 工具與 mlx-audio 函式庫，在 Mac 上執行此模型的實作步驟。",
+      "keywords": [
+        "VibeVoice",
+        "Microsoft",
+        "speech-to-text",
+        "diarization",
+        "mlx-audio"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific command-line tutorial and setup guide for running the VibeVoice model on local hardware.",
+      "pacer_reason_zh": "本文提供具體的指令列教學與設定指南，指導使用者如何在本地硬體上執行 VibeVoice 模型。"
+    },
     {
       "id": "2c00d63d65ce3373",
       "title": "Collective Speed Is Not the Summation of Individual Speed",

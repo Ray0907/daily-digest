@@ -1,36 +1,356 @@
 {
   "nodes": [
     {
-      "id": "a4e35c226123689d",
-      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "id": "b200fc08cb865f20",
+      "title": "Quoting OpenAI Codex base_instructions",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-      "pacer": "E",
+      "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+      "pacer": "R",
       "keywords": [
         "OpenAI",
-        "Microsoft",
-        "AGI",
-        "contract",
-        "tech policy"
+        "Codex",
+        "System Prompts",
+        "Prompt Engineering",
+        "LLM"
       ],
-      "published": "2026-04-27T18:38:17.000Z"
+      "published": "2026-04-28T22:02:53.000Z"
     },
     {
-      "id": "6dab30f065ef7986",
-      "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+      "id": "dc0f16a9e550d3b8",
+      "title": "Turning a trick into a technique",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/",
+      "pacer": "P",
+      "keywords": [
+        "mathematics",
+        "approximation",
+        "even functions",
+        "methodology",
+        "calculus"
+      ],
+      "published": "2026-04-28T21:44:58.000Z"
+    },
+    {
+      "id": "569a50f16c8e75c5",
+      "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition",
+      "pacer": "R",
+      "keywords": [
+        "Experimental History",
+        "blogging",
+        "competition",
+        "writing",
+        "community"
+      ],
+      "published": "2026-04-28T17:48:50.000Z"
+    },
+    {
+      "id": "067a78a56cfb3074",
+      "title": "Illegal vs Unwanted States",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "url": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/",
+      "pacer": "C",
+      "keywords": [
+        "system design",
+        "software architecture",
+        "state management",
+        "error handling",
+        "data consistency"
+      ],
+      "published": "2026-04-28T15:14:09.000Z"
+    },
+    {
+      "id": "e2cd66c55df0c0b4",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278",
+      "pacer": "P",
+      "keywords": [
+        "semaphore",
+        "reader-writer lock",
+        "synchronization",
+        "concurrency",
+        "process communication"
+      ],
+      "published": "2026-04-28T14:00:00.000Z"
+    },
+    {
+      "id": "bc974bbb4f1a1973",
+      "title": "Quoting Matthew Yglesias",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
+      "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "vibe-coding",
+        "software engineering",
+        "Matthew Yglesias",
+        "agentic engineering"
+      ],
+      "published": "2026-04-28T13:25:29.000Z"
+    },
+    {
+      "id": "28800fcaa5d21833",
+      "title": "Circular arc approximation",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/",
+      "pacer": "P",
+      "keywords": [
+        "geometry",
+        "circular arc",
+        "mathematics",
+        "approximation",
+        "trigonometry"
+      ],
+      "published": "2026-04-28T13:09:42.000Z"
+    },
+    {
+      "id": "a1db390df188cc3d",
+      "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "url": "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/",
+      "pacer": "C",
+      "keywords": [
+        "Cybersecurity",
+        "Generative AI",
+        "Quantum Computing",
+        "Threat Landscape",
+        "Tech Policy"
+      ],
+      "published": "2026-04-28T13:00:48.000Z"
+    },
+    {
+      "id": "0160dcfd272dc595",
+      "title": "GitHub Actions is the weakest link",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
       "pacer": "E",
       "keywords": [
-        "Google Meet",
-        "speech translation",
-        "real-time communication",
-        "AI",
-        "mobile"
+        "GitHub Actions",
+        "Supply Chain Security",
+        "Open Source",
+        "CI/CD",
+        "Cybersecurity"
       ],
-      "published": "2026-04-27T17:37:47.000Z"
+      "published": "2026-04-28T10:00:00.000Z"
+    },
+    {
+      "id": "974fc309adf20df8",
+      "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/04/27/mouseketeers/",
+      "pacer": "C",
+      "keywords": [
+        "Disney",
+        "cultural criticism",
+        "Vicky Osterweil",
+        "media studies",
+        "literary analysis"
+      ],
+      "published": "2026-04-28T05:57:01.000Z"
+    },
+    {
+      "id": "afbaac3fcc8a2327",
+      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "pip",
+        "Python",
+        "lockfiles",
+        "dependency management",
+        "software updates"
+      ],
+      "published": "2026-04-28T05:23:05.000Z"
+    },
+    {
+      "id": "685c81d2a92b1d1f",
+      "title": "Weekly Update 501",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-501/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Ethics",
+        "Policy",
+        "Troy Hunt"
+      ],
+      "published": "2026-04-28T05:01:42.000Z"
+    },
+    {
+      "id": "a79eeb4c6ea1c7f8",
+      "title": "Introducing talkie: a 13B vintage language model from 1930",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "LLM",
+        "Talkie",
+        "1930",
+        "AI research",
+        "machine learning"
+      ],
+      "published": "2026-04-28T02:47:42.000Z"
+    },
+    {
+      "id": "30dd8b350b87e1f8",
+      "title": "(One) Good AI Is Here",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "url": "https://anildash.com/2026/04/28/one-good-ai-is-here/",
+      "pacer": "C",
+      "keywords": [
+        "AI ethics",
+        "LLM",
+        "tech criticism",
+        "responsible AI",
+        "digital society"
+      ],
+      "published": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "id": "01f072847147e7fe",
+      "title": "QuickQWERTY 1.2.2",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/code/news/quickqwerty/1.2.2.html",
+      "pacer": "R",
+      "keywords": [
+        "QuickQWERTY",
+        "typing tutor",
+        "software update",
+        "Codeberg",
+        "open source"
+      ],
+      "published": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "id": "fef8766c3e95d3f5",
+      "title": "Before GitHub",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "pacer": "C",
+      "keywords": [
+        "Open Source",
+        "GitHub",
+        "software history",
+        "developer community",
+        "dependencies"
+      ],
+      "published": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "id": "434fee2b0869a15a",
+      "title": "Ghostty Is Leaving GitHub",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "pacer": "C",
+      "keywords": [
+        "Ghostty",
+        "GitHub",
+        "Mitchell Hashimoto",
+        "Open Source",
+        "Infrastructure"
+      ],
+      "published": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "id": "f8e1a00d510bbea7",
+      "title": "Spring 2026 Dev Contest Results!",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "url": "https://repebble.com/blog/spring-2026-dev-contest-results",
+      "pacer": "E",
+      "keywords": [
+        "Pebble",
+        "Dev Contest",
+        "Apps",
+        "Watchfaces",
+        "Eric Migicovsky"
+      ],
+      "published": "2026-04-28T00:00:00.000Z"
+    },
+    {
+      "id": "c70f7c2b5ce2a5ae",
+      "title": "microsoft/VibeVoice",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "VibeVoice",
+        "Microsoft",
+        "speech-to-text",
+        "diarization",
+        "mlx-audio"
+      ],
+      "published": "2026-04-27T23:46:56.000Z"
+    },
+    {
+      "id": "0b4f74ee818bd5d8",
+      "title": "Don't use localhost:3000, use your own custom domain ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
+      "pacer": "P",
+      "keywords": [
+        "localhost",
+        "web-development",
+        "reverse-proxy",
+        "hosts-file",
+        "development-workflow"
+      ],
+      "published": "2026-04-27T23:17:54.000Z"
+    },
+    {
+      "id": "08d7491bf33094af",
+      "title": "The Loop: everything has happened before, and everything will happen again",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/",
+      "pacer": "C",
+      "keywords": [
+        "human behavior",
+        "evolutionary psychology",
+        "history",
+        "cognitive limitations",
+        "patterns"
+      ],
+      "published": "2026-04-27T22:38:38.000Z"
+    },
+    {
+      "id": "153815117020d326",
+      "title": "Understanding systems",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/understanding-systems",
+      "pacer": "C",
+      "keywords": [
+        "systems thinking",
+        "complexity",
+        "systems theory",
+        "problem solving",
+        "organizational structure"
+      ],
+      "published": "2026-04-27T22:00:00.000Z"
     },
     {
       "id": "83dc90be47e7bb96",
@@ -113,6 +433,22 @@
       "published": "2026-04-27T08:39:48.000Z"
     },
     {
+      "id": "2e7f0c888d6d8f53",
+      "title": "Collective Speed Is Not the Summation of Individual Speed",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/",
+      "pacer": "A",
+      "keywords": [
+        "teamwork",
+        "productivity",
+        "software engineering",
+        "analogy",
+        "collaboration"
+      ],
+      "published": "2026-04-26T19:00:00.000Z"
+    },
+    {
       "id": "2c00d63d65ce3373",
       "title": "Collective Speed Is Not the Summation of Individual Speed",
       "source": "Jim Nielsen’s Blog",
@@ -159,22 +495,6 @@
         "idea validation"
       ],
       "published": "2026-04-25T17:44:16.000Z"
-    },
-    {
-      "id": "1fee9e330493d70d",
-      "title": "WHY ARE YOU LIKE THIS",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "AI",
-        "generative-ai",
-        "ChatGPT",
-        "text-to-image",
-        "humor"
-      ],
-      "published": "2026-04-25T16:44:01.000Z"
     },
     {
       "id": "1e9ea24df8daee6e",
@@ -225,22 +545,6 @@
       "published": "2026-04-25T13:12:39.000Z"
     },
     {
-      "id": "6bafb810acd498df",
-      "title": "Quoting Romain Huet",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "OpenAI",
-        "GPT-5.5",
-        "Codex",
-        "Generative AI",
-        "Agentic Coding"
-      ],
-      "published": "2026-04-25T12:06:55.000Z"
-    },
-    {
       "id": "b4091de30989a9cc",
       "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
       "source": "Terence Eden’s Blog",
@@ -287,22 +591,6 @@
         "value-based pricing"
       ],
       "published": "2026-04-25T05:00:00.000Z"
-    },
-    {
-      "id": "76a5f876fdc36e33",
-      "title": "GPT-5.5 prompting guide",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "GPT-5.5",
-        "OpenAI",
-        "Prompt Engineering",
-        "AI Models",
-        "Migration Guide"
-      ],
-      "published": "2026-04-25T04:13:36.000Z"
     },
     {
       "id": "de92edb2a18f6fe6",
@@ -481,22 +769,6 @@
       "published": "2026-04-23T16:00:00.000Z"
     },
     {
-      "id": "be3fde3cbfa7455e",
-      "title": "Approximation to solve an oblique triangle",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/",
-      "pacer": "P",
-      "keywords": [
-        "trigonometry",
-        "approximation",
-        "mathematics",
-        "oblique triangle",
-        "radians"
-      ],
-      "published": "2026-04-23T15:56:02.000Z"
-    },
-    {
       "id": "d1a6f59d44075f92",
       "title": "Another crash caused by uninstaller code injection into Explorer",
       "source": "The Old New Thing",
@@ -543,22 +815,6 @@
         "software licensing"
       ],
       "published": "2026-04-23T12:25:06.000Z"
-    },
-    {
-      "id": "edbd499a487c85c8",
-      "title": "Simple approximation for solving a right triangle",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/",
-      "pacer": "P",
-      "keywords": [
-        "geometry",
-        "approximation",
-        "trigonometry",
-        "mathematics",
-        "triangle"
-      ],
-      "published": "2026-04-23T12:13:35.000Z"
     },
     {
       "id": "a45da45377598d0a",
@@ -671,22 +927,6 @@
         "Lean LaunchPad"
       ],
       "published": "2026-04-22T15:34:09.000Z"
-    },
-    {
-      "id": "c3cd5b60a31d7196",
-      "title": "Pluralistic: It's not a crime if we do it (to nurses) with an app (22 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/22/uber-for-nurses/",
-      "pacer": "C",
-      "keywords": [
-        "tech policy",
-        "regulation",
-        "copyright",
-        "Cory Doctorow",
-        "digital rights"
-      ],
-      "published": "2026-04-22T15:24:00.000Z"
     },
     {
       "id": "c7e6f781bf95b5dc",
@@ -847,22 +1087,6 @@
         "Tyler Buchanan"
       ],
       "published": "2026-04-21T14:53:59.000Z"
-    },
-    {
-      "id": "887b6adb064b386d",
-      "title": "Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
-      "pacer": "C",
-      "keywords": [
-        "assembly",
-        "xor",
-        "programming",
-        "optimization",
-        "cpu"
-      ],
-      "published": "2026-04-21T14:00:00.000Z"
     },
     {
       "id": "b1720810be3d78a1",
@@ -1103,22 +1327,6 @@
         "satellites"
       ],
       "published": "2026-04-18T12:00:53.000Z"
-    },
-    {
-      "id": "3bf5a6a91caa3761",
-      "title": "We Are All Playing Politics at Work ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/we-are-playing-politics?src=feed",
-      "pacer": "C",
-      "keywords": [
-        "workplace politics",
-        "human behavior",
-        "office dynamics",
-        "perception",
-        "professionalism"
-      ],
-      "published": "2026-04-18T03:00:00.000Z"
     },
     {
       "id": "3f6c048bb25e54bf",
@@ -1440,22 +1648,6 @@
       "published": "2026-04-14T16:16:42.000Z"
     },
     {
-      "id": "02a651357352b8f5",
-      "title": "Standing on the shoulders of Homebrew",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html",
-      "pacer": "E",
-      "keywords": [
-        "Homebrew",
-        "zerobrew",
-        "nanobrew",
-        "package-manager",
-        "benchmarks"
-      ],
-      "published": "2026-04-14T10:00:00.000Z"
-    },
-    {
       "id": "3c555ec4dca2c266",
       "title": "Weekly Update 499",
       "source": "Troy Hunt",
@@ -1550,22 +1742,6 @@
         "design philosophy"
       ],
       "published": "2026-04-12T19:00:00.000Z"
-    },
-    {
-      "id": "583762ce6570d21e",
-      "title": "Optimism is not a personality flaw",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/",
-      "pacer": "C",
-      "keywords": [
-        "樂觀",
-        "心態",
-        "心理學",
-        "觀點",
-        "人格"
-      ],
-      "published": "2026-04-12T01:26:10.000Z"
     },
     {
       "id": "1d2933d1f54de004",
@@ -1678,22 +1854,6 @@
         "engineering"
       ],
       "published": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "id": "d104095b5ed4465c",
-      "title": "Fewer Computers, Fewer Problems: Going Local With Builds & Deployments",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/",
-      "pacer": "C",
-      "keywords": [
-        "local-first",
-        "web development",
-        "deployment",
-        "devops",
-        "personal website"
-      ],
-      "published": "2026-04-09T19:00:00.000Z"
     },
     {
       "id": "9c2788e6ec779a30",
@@ -1854,22 +2014,6 @@
         "freelancing"
       ],
       "published": "2026-04-07T01:53:05.000Z"
-    },
-    {
-      "id": "e553ef725b57e793",
-      "title": "Actually, people love to work hard",
-      "source": "Anil Dash",
-      "source_url": "https://anildash.com/",
-      "url": "https://anildash.com/2026/04/06/people-love-to-work-hard/",
-      "pacer": "C",
-      "keywords": [
-        "work ethic",
-        "management",
-        "corporate culture",
-        "employee motivation",
-        "workplace psychology"
-      ],
-      "published": "2026-04-07T00:00:00.000Z"
     },
     {
       "id": "0a0c8791c404efbf",
@@ -2238,16 +2382,6 @@
       "published": "2026-03-31T13:00:48.000Z"
     },
     {
-      "id": "7d8ad03f6bc8b4c4",
-      "title": "Weekly Update 497",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-497/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-31T00:41:44.000Z"
-    },
-    {
       "id": "ffb8794b9801b282",
       "title": "Notes from March 2026",
       "source": "Evan Hahn (dot com)",
@@ -2440,16 +2574,6 @@
       "published": "2026-03-25T00:00:00.000Z"
     },
     {
-      "id": "61d3a6d6c08cf368",
-      "title": "Wander 0.3.0",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/code/news/wander/0.3.0.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
       "id": "96bf37e3a8738c1f",
       "title": "Choose Boring Technology and Innovative Practices",
       "source": "Computer Things",
@@ -2468,16 +2592,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-24T00:00:00.000Z"
-    },
-    {
-      "id": "e835a7e268ecb814",
-      "title": "Lines of code are useful",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/lines-of-code",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-23T23:00:00.000Z"
     },
     {
       "id": "2d2b09e6477329a5",
@@ -2558,16 +2672,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-20T11:00:00.000Z"
-    },
-    {
-      "id": "314da8d317f89371",
-      "title": "Some Things Just Take Time",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T00:00:00.000Z"
     },
     {
       "id": "0fe1832d16446e7a",
@@ -2844,22 +2948,6 @@
       "published": "2026-03-10T22:48:40.000Z"
     },
     {
-      "id": "8494471bd44055f0",
-      "title": "LLMs are bad at vibing specifications",
-      "source": "Computer Things",
-      "source_url": "https://buttondown.com/hillelwayne",
-      "url": "https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/",
-      "pacer": "E",
-      "keywords": [
-        "LLM",
-        "TLA+",
-        "Alloy",
-        "formal methods",
-        "AI"
-      ],
-      "published": "2026-03-10T17:12:30.000Z"
-    },
-    {
       "id": "7750eaf897aa7a60",
       "title": "[Sponsor] Finalist",
       "source": "Daring Fireball",
@@ -3101,12 +3189,12 @@
   ],
   "links": [
     {
-      "source": "be3fde3cbfa7455e",
-      "target": "edbd499a487c85c8",
+      "source": "2e7f0c888d6d8f53",
+      "target": "2c00d63d65ce3373",
       "shared_keywords": [
-        "approximation",
-        "trigonometry",
-        "mathematics"
+        "productivity",
+        "teamwork",
+        "collaboration"
       ],
       "strength": 0.6
     },

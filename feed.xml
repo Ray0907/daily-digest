@@ -4,8 +4,215 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 27 Apr 2026 22:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:18:10 GMT</lastBuildDate>
     
+    <item>
+      <title>(One) Good AI Is Here</title>
+      <link>https://anildash.com/2026/04/28/one-good-ai-is-here/</link>
+      <guid>https://anildash.com/2026/04/28/one-good-ai-is-here/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash critiques the polarized state of the AI industry, where big platforms face criticism for lack of accountability and ethics while zealots make extreme, alarmist claims. He argues for a shift toward 'good AI'—tools that are built with consent and transparency, suggesting that positive, beneficial implementations of LLMs are possible and necessary.</description>
+    </item>
+
+    <item>
+      <title>The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree</title>
+      <link>https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition</link>
+      <guid>https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition</guid>
+      <pubDate>Tue, 28 Apr 2026 17:48:50 GMT</pubDate>
+      <source url="https://www.experimental-history.com/">Experimental History</source>
+      <description>This post announces the third iteration of the author's annual blog competition and jamboree. It invites readers to participate in the upcoming writing event.</description>
+    </item>
+
+    <item>
+      <title>Weekly Update 501</title>
+      <link>https://www.troyhunt.com/weekly-update-501/</link>
+      <guid>https://www.troyhunt.com/weekly-update-501/</guid>
+      <pubDate>Tue, 28 Apr 2026 05:01:42 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt discusses the emerging trend of creating equality policies for AI bots, highlighting the shift in human-AI interaction. He notes that while the concept is partially tongue-in-cheek, it addresses the evolving necessity for professional conduct in the age of advanced artificial intelligence.</description>
+    </item>
+
+    <item>
+      <title>Anthropic Mythos – We’ve Opened Pandora’s Box</title>
+      <link>https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</link>
+      <guid>https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:00:48 GMT</pubDate>
+      <source url="https://steveblank.com/">Steve Blank</source>
+      <description>The article explores the shifting threats in cybersecurity, moving from the long-feared 'quantum apocalypse' to the more immediate and unpredictable risks posed by generative AI. It highlights how the integration of AI into malicious activities represents a fundamental shift in the global threat landscape.</description>
+    </item>
+
+    <item>
+      <title>Collective Speed Is Not the Summation of Individual Speed</title>
+      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</link>
+      <guid>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</guid>
+      <pubDate>Sun, 26 Apr 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The article uses the analogy of a 4x100 relay race to argue that individual speed does not directly translate to collective performance. It suggests that, like baton passes in a race, the success of a software development team depends more on the quality of communication and relationships between members than the speed of individual contributors.</description>
+    </item>
+
+    <item>
+      <title>Illegal vs Unwanted States</title>
+      <link>https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:14:09 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The article distinguishes between illegal states, which are fundamentally forbidden, and unwanted states, which are undesirable but potentially recoverable. It argues that systems must be designed to represent and handle these unwanted states because external factors often force systems into them, necessitating effective detection and resolution mechanisms.</description>
+    </item>
+
+    <item>
+      <title>Understanding systems</title>
+      <link>https://entropicthoughts.com/understanding-systems</link>
+      <guid>https://entropicthoughts.com/understanding-systems</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article explores the fundamental principles of systems thinking and how they apply to complex organizational structures. It aims to provide a framework for better decision-making and problem-solving within interconnected environments.</description>
+    </item>
+
+    <item>
+      <title>QuickQWERTY 1.2.2</title>
+      <link>https://susam.net/code/news/quickqwerty/1.2.2.html</link>
+      <guid>https://susam.net/code/news/quickqwerty/1.2.2.html</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>QuickQWERTY 1.2.2 has been released, featuring a critical bug fix for the lesson restart function. The project has also migrated its source code hosting platform to Codeberg, marking its third hosting location in 17 years.</description>
+    </item>
+
+    <item>
+      <title>GitHub Actions is the weakest link</title>
+      <link>https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</link>
+      <guid>https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</guid>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article argues that GitHub Actions has become a major security vulnerability in the open-source supply chain. It highlights how convenient default features, such as mutable dependency tags and permissive workflow triggers, are frequently exploited to compromise repositories and harvest credentials.</description>
+    </item>
+
+    <item>
+      <title>The Loop: everything has happened before, and everything will happen again</title>
+      <link>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</link>
+      <guid>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</guid>
+      <pubDate>Mon, 27 Apr 2026 22:38:38 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article discusses the cyclical nature of human behavior, suggesting that we repeat historical mistakes because our cognitive hardware has remained largely unchanged for millennia. It highlights persistent patterns like financial bubbles and social scapegoating as evidence of our evolutionary limitations.</description>
+    </item>
+
+    <item>
+      <title>Turning a trick into a technique</title>
+      <link>https://www.johndcook.com/blog/2026/04/28/even-series-trick/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/28/even-series-trick/</guid>
+      <pubDate>Tue, 28 Apr 2026 21:44:58 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author explores the transition from a mathematical 'trick' to a formal 'technique' by generalizing a high-order approximation method. By refining a previous observation involving even functions, the article demonstrates how iterative mathematical patterns can be systematized for broader application.</description>
+    </item>
+
+    <item>
+      <title>Circular arc approximation</title>
+      <link>https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:09:42 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the mathematical approximation of a circular arc length using the lengths of the arc's chord and the chord of its half-arc. It provides the geometric derivation to calculate the arc length based on these chord measurements.</description>
+    </item>
+
+    <item>
+      <title>Before GitHub</title>
+      <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
+      <guid>https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author reflects on the evolution of Open Source hosting, tracing the shift from tools like SourceForge and Trac to the dominance of GitHub. They discuss how GitHub became a critical social and professional hub for developers while expressing concern over its recent decline and the long-term impact of frictionless code distribution.</description>
+    </item>
+
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</guid>
+      <pubDate>Tue, 28 Apr 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores the implementation of a cross-process reader/writer lock that restricts the number of concurrent readers. It introduces the use of a semaphore as a fundamental synchronization mechanism to manage access to a shared resource.</description>
+    </item>
+
+    <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <guid>https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
+      <description>Mitchell Hashimoto announces the migration of the Ghostty terminal emulator project away from GitHub. This move marks a significant shift in infrastructure for the open-source project.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Vicky Osterweil's &quot;The Extended Universe&quot; (28 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/27/mouseketeers/</link>
+      <guid>https://pluralistic.net/2026/04/27/mouseketeers/</guid>
+      <pubDate>Tue, 28 Apr 2026 05:57:01 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow highlights Vicky Osterweil's 'The Extended Universe,' a critical examination of how Disney's cultural dominance has reshaped the film industry. The post reflects on the power of sharp cultural criticism by comparing it to John Kessel's famous analysis of Orson Scott Card's 'Ender's Game.'</description>
+    </item>
+
+    <item>
+      <title>Don't use localhost:3000, use your own custom domain </title>
+      <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
+      <guid>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
+      <pubDate>Mon, 27 Apr 2026 23:17:54 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author advocates for using custom local domains instead of incrementing localhost ports to improve project management and development workflows. By configuring the system hosts file and a reverse proxy, developers can map friendly URLs to local applications, simplifying navigation and cross-project communication.</description>
+    </item>
+
+    <item>
+      <title>Spring 2026 Dev Contest Results!</title>
+      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
+      <guid>https://repebble.com/blog/spring-2026-dev-contest-results</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="http://github.com/dylang/node-rss">Eric Migicovsky's Blog RSS Feed</source>
+      <description>Eric Migicovsky announces the results of the Spring 2026 Pebble developer contest. Over 500 new applications and watchfaces were submitted by the community.</description>
+    </item>
+
+    <item>
+      <title>Quoting OpenAI Codex base_instructions</title>
+      <link>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 22:02:53 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison highlights a specific constraint found within the OpenAI Codex base instructions. The excerpt reveals a system directive that strictly limits the model from discussing certain mythical creatures or animals unless directly relevant to the user query.</description>
+    </item>
+
+    <item>
+      <title>Quoting Matthew Yglesias</title>
+      <link>https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 13:25:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The post quotes Matthew Yglesias reflecting on the current state of AI in software development. Yglesias expresses a preference for professionally managed software products built with AI assistance rather than 'vibe-coding' by individuals.</description>
+    </item>
+
+    <item>
+      <title>What's new in pip 26.1 - lockfiles and dependency cooldowns!</title>
+      <link>https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 05:23:05 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Python's pip 26.1 introduces significant updates, including support for lockfiles via a new command and dependency cooldowns to ensure package stability. The update also drops support for Python 3.9, encouraging users to upgrade to newer environments.</description>
+    </item>
+
+    <item>
+      <title>Introducing talkie: a 13B vintage language model from 1930</title>
+      <link>https://simonwillison.net/2026/Apr/28/talkie/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/28/talkie/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 02:47:42 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Talkie is a new 13B language model trained exclusively on pre-1931 historical English text. The project explores research questions such as the model's ability to predict historical events or independently discover scientific concepts that emerged after its training cutoff.</description>
+    </item>
+
+    <item>
+      <title>microsoft/VibeVoice</title>
+      <link>https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 23:46:56 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Microsoft has released VibeVoice, an open-source, Whisper-style speech-to-text model featuring built-in speaker diarization. This post provides a practical demonstration of how to run the model locally on a Mac using the uv tool and the mlx-audio library.</description>
+    </item>
+
     <item>
       <title>Collective Speed Is Not the Summation of Individual Speed</title>
       <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</link>
@@ -697,213 +904,6 @@
       <pubDate>Tue, 21 Apr 2026 16:39:33 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>The article quotes Andreas Påhlsson-Notini, who argues that current AI agents suffer from undesirable human-like traits such as a lack of focus and difficulty adhering to strict constraints. The author suggests these agents often fail to maintain the rigor required for technical tasks, tending to drift toward familiar patterns instead.</description>
-    </item>
-
-    <item>
-      <title>scosman/pelicans_riding_bicycles</title>
-      <link>https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</guid>
-      <pubDate>Tue, 21 Apr 2026 15:54:43 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights Steve Cosman's project, which intentionally feeds incorrect images into AI models to 'pollute' their training data regarding pelicans riding bicycles. The post explores the humorous and subversive side of data poisoning in generative AI.</description>
-    </item>
-
-    <item>
-      <title>llm-openrouter 0.6</title>
-      <link>https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 18:00:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released version 0.6 of the llm-openrouter tool, which introduces a new command to manually refresh the list of available AI models. This update facilitates immediate access to new models like Kimi 2.6, which the author demonstrates by generating an animation of a pelican riding a bicycle.</description>
-    </item>
-
-    <item>
-      <title>Discovering Prince, Ten Years Later</title>
-      <link>https://anildash.com/2026/04/20/prince-ten-years/</link>
-      <guid>https://anildash.com/2026/04/20/prince-ten-years/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash reflects on the tenth anniversary of Prince's passing by curating a collection of his own writings, playlists, and analytical work. The post serves as a guide for new fans to explore Prince's extensive musical catalog, music videos, and cultural legacy.</description>
-    </item>
-
-    <item>
-      <title>What is freedom?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html</guid>
-      <pubDate>Sun, 19 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critiques conventional definitions of freedom, arguing that political engagement, dissent, and protest are ineffective performances that fail to deliver tangible results. Instead, the piece suggests that true freedom is found in personal agency, safety, and individual optionality rather than participation in systemic political theater.</description>
-    </item>
-
-    <item>
-      <title>How we lost the living Now</title>
-      <link>https://www.joanwestenberg.com/how-we-lost-the-living-now/</link>
-      <guid>https://www.joanwestenberg.com/how-we-lost-the-living-now/</guid>
-      <pubDate>Mon, 20 Apr 2026 01:01:22 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The article explores how the necessity of synchronized railway schedules in the 19th century fundamentally altered our perception of time. It highlights the shift from local, solar-based timekeeping to the high-precision, standardized synchronization that defines our modern era.</description>
-    </item>
-
-    <item>
-      <title>256 Lines or Less: Test Case Minimization</title>
-      <link>https://matklad.github.io/2026/04/20/test-case-minimization.html</link>
-      <guid>https://matklad.github.io/2026/04/20/test-case-minimization.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The article introduces a minimalist property-based testing (PBT) library implemented in under 256 lines of Zig code. It highlights the utility of a Finite Random Number Generator (FRNG) as a core abstraction for efficient testing and debugging.</description>
-    </item>
-
-    <item>
-      <title>More on Newton’s diameter theorem</title>
-      <link>https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</guid>
-      <pubDate>Mon, 20 Apr 2026 13:50:33 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post provides a follow-up discussion on Newton’s diameter theorem, which involves identifying the centers of chords created by parallel lines intersecting a polynomial curve. It explores the mathematical properties of these midpoints and their alignment along a specific line.</description>
-    </item>
-
-    <item>
-      <title>How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245</guid>
-      <pubDate>Mon, 20 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains the technical challenges of handling 24-bit-per-pixel formats on older video cards using bank-switched memory. It emphasizes the critical requirement of maintaining aligned memory accesses even when pixel data is not naturally aligned.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</guid>
-      <pubDate>Mon, 20 Apr 2026 11:34:38 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews Dr. Lucy Rogers' book, 'Up,' which explores atmospheric and celestial science. The reviewer praises the book for its accessible, personal, and joyful approach to science, noting its ability to inspire curiosity about the world above us.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Comrade Trump (20 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/20/praxis/</link>
-      <guid>https://pluralistic.net/2026/04/20/praxis/</guid>
-      <pubDate>Mon, 20 Apr 2026 16:44:33 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes the 'Trump era' through a paradoxical lens, acknowledging the anxiety caused by his administration's policies while simultaneously observing the dismantling of the flawed, US-dominated 'rules-based international order.' The piece explores how Trump's protectionist trade actions inadvertently challenge long-standing geopolitical and economic structures.</description>
-    </item>
-
-    <item>
-      <title>Advice from a millionaire </title>
-      <link>https://idiallo.com/blog/advice-from-a-millionaire?src=feed</link>
-      <guid>https://idiallo.com/blog/advice-from-a-millionaire?src=feed</guid>
-      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The article uses a narrative vignette to contrast a wealthy man's unsolicited advice about mindset and discipline with the reality of a busy mother's life. It highlights the gap between abstract success philosophies and the demanding practicalities of daily responsibilities.</description>
-    </item>
-
-    <item>
-      <title>SQL functions in Google Sheets to fetch data from Datasette</title>
-      <link>https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 02:33:58 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post explains three methods for importing data from a Datasette instance into Google Sheets. It covers using the importdata() function, creating custom named functions, and utilizing Google Apps Script for scenarios requiring API authentication.</description>
-    </item>
-
-    <item>
-      <title>Claude Token Counter, now with model comparisons</title>
-      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 00:50:45 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has updated his Claude Token Counter tool to support side-by-side comparisons of different Claude models. The update highlights how the new Opus 4.7 model uses an updated tokenizer that results in higher token counts for the same input compared to previous versions.</description>
-    </item>
-
-    <item>
-      <title>Figma's woes compound with Claude Design</title>
-      <link>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>Figma faces increasing competitive pressure as AI tools like Claude Design emerge. The platform's dependency on non-designer user bases makes it particularly vulnerable to these new automated design solutions.</description>
-    </item>
-
-    <item>
-      <title>Big tech clouds worden niet veiliger met stapels papier</title>
-      <link>https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</link>
-      <guid>https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</guid>
-      <pubDate>Sun, 19 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>This article discusses the inherent risks of relying on American cloud providers for critical government and societal infrastructure. It argues that U.S. laws and geopolitical control override local agreements, making data and services vulnerable to unilateral U.S. intervention regardless of server location.</description>
-    </item>
-
-    <item>
-      <title>Hitachi Ltd, Part II</title>
-      <link>https://www.abortretry.fail/p/hitachi-ltd-part-ii</link>
-      <guid>https://www.abortretry.fail/p/hitachi-ltd-part-ii</guid>
-      <pubDate>Sun, 19 Apr 2026 20:36:46 GMT</pubDate>
-      <source url="https://www.abortretry.fail/">Abort Retry Fail</source>
-      <description>This post continues the exploration of Hitachi's semiconductor history, specifically focusing on the H8, PA-RISC, and SuperH processor architectures. It examines the technical evolution and legacy of these significant computing platforms within Hitachi's product portfolio.</description>
-    </item>
-
-    <item>
-      <title>Hook It Up to the Machine</title>
-      <link>https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/</link>
-      <guid>https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/</guid>
-      <pubDate>Sun, 19 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on a childhood road trip in an overheating van that required a specialized computer diagnostic to fix. This anecdote illustrates the historical shift toward complex, software-dependent systems in modern mechanics.</description>
-    </item>
-
-    <item>
-      <title>Wander Console 0.5.0</title>
-      <link>https://susam.net/code/news/wander/0.5.0.html</link>
-      <guid>https://susam.net/code/news/wander/0.5.0.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>Wander Console 0.5.0 introduces a new built-in network crawler that performs a breadth-first search to discover interconnected websites and page recommendations. This update simplifies the exploration of the Wander community network and provides straightforward upgrade and setup instructions for personal website owners.</description>
-    </item>
-
-    <item>
-      <title>Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)</title>
-      <link>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</guid>
-      <pubDate>Sun, 19 Apr 2026 11:34:32 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post provides a technical guide on converting dual fisheye video files from an obsolete LG 360 camera into the equirectangular format. It demonstrates how to use the FFmpeg command-line tool with the v360 filter to make these videos compatible with modern spherical video players.</description>
-    </item>
-
-    <item>
-      <title>5x5 Pixel font for tiny screens</title>
-      <link>https://maurycyz.com/projects/mcufont/</link>
-      <guid>https://maurycyz.com/projects/mcufont/</guid>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post explores the design of a 5x5 pixel font optimized for extremely low-memory embedded systems like 8-bit microcontrollers. The author explains why 5x5 is the minimal size for legible typography and compares the efficiency of this hand-crafted approach to traditional antialiased vector fonts.</description>
-    </item>
-
-    <item>
-      <title>Headless everything for personal AI</title>
-      <link>https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</guid>
-      <pubDate>Sun, 19 Apr 2026 21:46:38 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The rise of 'headless' services, where platforms expose their functionality via APIs rather than user-facing GUIs, is set to revolutionize how personal AI agents interact with software. This shift allows AI to execute tasks more efficiently while posing significant challenges to traditional per-seat SaaS pricing models.</description>
-    </item>
-
-    <item>
-      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
-      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</guid>
-      <pubDate>Sat, 18 Apr 2026 23:59:40 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison examines the evolution of Anthropic's system prompts by comparing the versions between Claude Opus 4.6 and 4.7. The post highlights specific updates, such as the rebranding of the developer platform and the addition of new tool capabilities like Claude in PowerPoint.</description>
-    </item>
-
-    <item>
-      <title>Claude system prompts as a git timeline</title>
-      <link>https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything</guid>
-      <pubDate>Sat, 18 Apr 2026 12:25:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison converted Anthropic's Claude system prompts into a git-style timeline to track version history. By assigning fake commit dates to these prompts, he created a browsable interface for analyzing incremental model changes.</description>
     </item>
   </channel>
 </rss>
