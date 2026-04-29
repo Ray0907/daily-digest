@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-04-28T22:18:10.006Z",
+  "last_updated": "2026-04-29T22:17:08.418Z",
   "articles": [
+    {
+      "id": "56644072a06695ab",
+      "title": "Reiner Pope – The math behind how LLMs are trained and served",
+      "url": "https://www.dwarkesh.com/p/reiner-pope",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-04-29T17:07:03.000Z",
+      "summary_en": "Reiner Pope explores the underlying mathematical principles that govern the training and deployment of Large Language Models. He demonstrates how technical equations can provide significant insights into the development strategies currently employed by AI research labs.",
+      "summary_zh": "Reiner Pope 探討了大型語言模型（LLM）訓練與部署背後的數學原理。他展示了如何透過簡單的方程式，推導並洞察當前 AI 實驗室的開發策略。",
+      "keywords": [
+        "LLM",
+        "Mathematics",
+        "AI Development",
+        "Reiner Pope",
+        "Machine Learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the theoretical mathematical framework and conceptual understanding behind LLM operations.",
+      "pacer_reason_zh": "內容重點在於解釋大型語言模型運作背後的理論數學框架與概念理解。"
+    },
+    {
+      "id": "160c08c3ac58b632",
+      "title": "Multiple URLs in Git Remote",
+      "url": "https://susam.net/multiple-urls-in-git-remote.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-04-29T00:00:00.000Z",
+      "summary_en": "This article explains how to configure a single Git remote with multiple URLs to facilitate pushing to several repositories simultaneously. It demonstrates that while pulling always uses the first defined URL, pushing will distribute changes to all configured URLs.",
+      "summary_zh": "本文介紹如何為單一 Git 遠端設定多個 URL，以便能同時推送到多個儲存庫。文中說明了在這種配置下，Git 擷取 (fetch) 時會使用第一個 URL，而推送 (push) 時則會同時更新所有設定的 URL。",
+      "keywords": [
+        "Git",
+        "remote",
+        "version control",
+        "command line",
+        "repository"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content provides a clear, step-by-step tutorial on how to configure and use multiple URLs for a Git remote.",
+      "pacer_reason_zh": "本文提供了關於如何設定與使用 Git 多重遠端 URL 的明確操作教學。"
+    },
+    {
+      "id": "564b2bc166e9db33",
+      "title": "When The Bill Comes Due",
+      "url": "https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-04-29T03:30:00.000Z",
+      "summary_en": "The article warns that current generative AI tools are heavily subsidized to gain user adoption and will soon face sustainability issues. As companies shift toward usage-based pricing, users are likely to encounter unexpected costs and credit limits that undermine the current AI bubble.",
+      "summary_zh": "本文指出目前生成式 AI 工具的高額補貼是為了吸引用戶，但這種模式並不具備永續性。隨著企業轉向按量計費，用戶將面臨意想不到的成本與限制，這預示著 AI 熱潮可能面臨修正。",
+      "keywords": [
+        "AI",
+        "generative AI",
+        "billing",
+        "subsidies",
+        "software economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual and economic shift in AI software models, focusing on the sustainability of the current subscription and pricing landscape.",
+      "pacer_reason_zh": "本文探討了 AI 軟體模式的概念與經濟轉變，重點分析了當前訂閱制與定價環境的可持續性問題。"
+    },
+    {
+      "id": "e43afa3c1903a04a",
+      "title": "On wintering.",
+      "url": "https://www.joanwestenberg.com/on-wintering/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-04-29T01:54:43.000Z",
+      "summary_en": "The concept of 'wintering' describes a period of withdrawal from traditional professional pressures and performance cycles. By stepping away from constant auditing and short-term metrics, individuals gain the freedom to pursue long-term, deep work.",
+      "summary_zh": "「冬眠」的概念描述了一種從傳統職業壓力和績效週期中抽離的狀態。通過擺脫持續的審計與短期目標，個人能獲得自由，進而從事長期且深度的研究工作。",
+      "keywords": [
+        "wintering",
+        "deep work",
+        "productivity",
+        "career strategy",
+        "long-term planning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of wintering and its impact on long-term professional behavior.",
+      "pacer_reason_zh": "本文解釋了「冬眠」的概念理論及其對長期職業行為的影響。"
+    },
+    {
+      "id": "0eb54bab0bfae18a",
+      "title": "Let's Get Digging!",
+      "url": "https://shkspr.mobi/blog/2026/04/lets-get-digging/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-04-29T11:34:23.000Z",
+      "summary_en": "The author shares their experience participating in a public archaeology project at Lesnes Abbey, organized by DigVentures. After a safety briefing, they engaged in hands-on excavation work to help uncover historical artifacts in their local park.",
+      "summary_zh": "作者分享了他們參與由 DigVentures 舉辦的萊斯內斯修道院（Lesnes Abbey）考古挖掘計畫的經驗。在完成安全簡報後，他們親身投入挖掘工作，協助探索當地的歷史文物。",
+      "keywords": [
+        "archaeology",
+        "DigVentures",
+        "Lesnes Abbey",
+        "community project",
+        "fieldwork"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post recounts a personal experience and narrative adventure, which serves as an analogous entry point to public participation in archaeology.",
+      "pacer_reason_zh": "這篇文章敘述了個人的經驗與冒險故事，作為參與公眾考古活動的一個生動類比案例。"
+    },
+    {
+      "id": "9285d6a73cec4149",
+      "title": "LLM 0.32a0  is a major backwards-compatible refactor",
+      "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-29T19:01:47.000Z",
+      "summary_en": "Simon Willison has released LLM 0.32a0, a significant refactor of his Python library and CLI tool. This update moves beyond the original text-prompt abstraction to better support modern capabilities like structured JSON output, tool execution, and multi-modal inputs.",
+      "summary_zh": "Simon Willison 發布了 LLM 0.32a0，這是其 Python 函式庫與 CLI 工具的一次重大重構。此次更新超越了原有的純文字對話模型，以更完善地支援結構化 JSON 輸出、工具調用以及多模態輸入等現代化功能。",
+      "keywords": [
+        "LLM",
+        "Python",
+        "CLI",
+        "refactor",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual shift in the library's underlying architecture to accommodate evolving LLM capabilities.",
+      "pacer_reason_zh": "文章解釋了該函式庫底層架構的觀念轉變，以適應不斷演進的 LLM 功能。"
+    },
+    {
+      "id": "693766bae970157c",
+      "title": "Raspberry Pi Connect may control Windows soon",
+      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-04-29T17:00:00.000Z",
+      "summary_en": "Raspberry Pi is reportedly considering adding support for Windows PC remote control to its Raspberry Pi Connect service. This development aims to evolve the service from a Pi-specific tool into a more robust competitor to established solutions like RealVNC.",
+      "summary_zh": "Raspberry Pi 據傳正在考慮將 Windows 電腦的遠端控制功能加入到 Raspberry Pi Connect 服務中。此舉旨在將該服務從單純的樹莓派工具，升級為足以與 RealVNC 等成熟軟體競爭的解決方案。",
+      "keywords": [
+        "Raspberry Pi",
+        "Raspberry Pi Connect",
+        "Remote Access",
+        "Windows",
+        "RealVNC"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an update on product features and explains the conceptual strategy behind the evolution of a remote access service.",
+      "pacer_reason_zh": "文章針對產品功能更新進行說明，並闡述了該遠端存取服務演進背後的概念性策略。"
+    },
     {
       "id": "30dd8b350b87e1f8",
       "title": "(One) Good AI Is Here",

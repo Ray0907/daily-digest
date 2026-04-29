@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 28 Apr 2026 22:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 22:17:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Reiner Pope – The math behind how LLMs are trained and served</title>
+      <link>https://www.dwarkesh.com/p/reiner-pope</link>
+      <guid>https://www.dwarkesh.com/p/reiner-pope</guid>
+      <pubDate>Wed, 29 Apr 2026 17:07:03 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>Reiner Pope explores the underlying mathematical principles that govern the training and deployment of Large Language Models. He demonstrates how technical equations can provide significant insights into the development strategies currently employed by AI research labs.</description>
+    </item>
+
+    <item>
+      <title>Multiple URLs in Git Remote</title>
+      <link>https://susam.net/multiple-urls-in-git-remote.html</link>
+      <guid>https://susam.net/multiple-urls-in-git-remote.html</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>This article explains how to configure a single Git remote with multiple URLs to facilitate pushing to several repositories simultaneously. It demonstrates that while pulling always uses the first defined URL, pushing will distribute changes to all configured URLs.</description>
+    </item>
+
+    <item>
+      <title>When The Bill Comes Due</title>
+      <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
+      <guid>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</guid>
+      <pubDate>Wed, 29 Apr 2026 03:30:00 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>The article warns that current generative AI tools are heavily subsidized to gain user adoption and will soon face sustainability issues. As companies shift toward usage-based pricing, users are likely to encounter unexpected costs and credit limits that undermine the current AI bubble.</description>
+    </item>
+
+    <item>
+      <title>On wintering.</title>
+      <link>https://www.joanwestenberg.com/on-wintering/</link>
+      <guid>https://www.joanwestenberg.com/on-wintering/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:54:43 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The concept of 'wintering' describes a period of withdrawal from traditional professional pressures and performance cycles. By stepping away from constant auditing and short-term metrics, individuals gain the freedom to pursue long-term, deep work.</description>
+    </item>
+
+    <item>
+      <title>Let's Get Digging!</title>
+      <link>https://shkspr.mobi/blog/2026/04/lets-get-digging/</link>
+      <guid>https://shkspr.mobi/blog/2026/04/lets-get-digging/</guid>
+      <pubDate>Wed, 29 Apr 2026 11:34:23 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares their experience participating in a public archaeology project at Lesnes Abbey, organized by DigVentures. After a safety briefing, they engaged in hands-on excavation work to help uncover historical artifacts in their local park.</description>
+    </item>
+
+    <item>
+      <title>LLM 0.32a0  is a major backwards-compatible refactor</title>
+      <link>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</guid>
+      <pubDate>Wed, 29 Apr 2026 19:01:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released LLM 0.32a0, a significant refactor of his Python library and CLI tool. This update moves beyond the original text-prompt abstraction to better support modern capabilities like structured JSON output, tool execution, and multi-modal inputs.</description>
+    </item>
+
+    <item>
+      <title>Raspberry Pi Connect may control Windows soon</title>
+      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Raspberry Pi is reportedly considering adding support for Windows PC remote control to its Raspberry Pi Connect service. This development aims to evolve the service from a Pi-specific tool into a more robust competitor to established solutions like RealVNC.</description>
+    </item>
+
     <item>
       <title>(One) Good AI Is Here</title>
       <link>https://anildash.com/2026/04/28/one-good-ai-is-here/</link>
@@ -841,69 +904,6 @@
       <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>brief is a tool and dataset that standardizes the discovery of configuration, dependencies, and command-line interfaces across diverse programming language ecosystems. It provides a machine-readable knowledge base that helps developers and AI agents quickly understand the structure and toolchain of any given software project.</description>
-    </item>
-
-    <item>
-      <title>An AI Odyssey, Part 4: Astounding Coding Agents</title>
-      <link>https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</guid>
-      <pubDate>Tue, 21 Apr 2026 20:14:40 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post reflects on the rapid evolution of AI coding agents, noting significant improvements in their intelligence and ability to comprehend complex codebases. The author shares personal experiences with these tools, highlighting their expanded task-handling capabilities and enhanced project oversight.</description>
-    </item>
-
-    <item>
-      <title>Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</guid>
-      <pubDate>Tue, 21 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explores the common programming practice of using the XOR instruction to zero out a register in assembly language. It questions why this idiom became the industry standard over using the subtraction instruction for the same purpose.</description>
-    </item>
-
-    <item>
-      <title>Better TTS on Linux</title>
-      <link>https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</guid>
-      <pubDate>Tue, 21 Apr 2026 11:34:07 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This article critiques the limitations of eSpeak, a long-standing text-to-speech engine for Linux. It highlights how the tool's robotic, low-fidelity audio quality serves as a major drawback despite its extensive language support.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Quinn Slobodian and Ben Tarnoff's &quot;Muskism: A Guide for the Perplexed&quot; (21 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/21/torment-nexusism/</link>
-      <guid>https://pluralistic.net/2026/04/21/torment-nexusism/</guid>
-      <pubDate>Tue, 21 Apr 2026 13:18:50 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post introduces Quinn Slobodian and Ben Tarnoff's book 'Muskism: A Guide for the Perplexed,' which analyzes the ideology surrounding Elon Musk. The authors argue that Muskism is a broader socio-political phenomenon rooted in historical influences like apartheid-era South Africa rather than just Musk's individual actions.</description>
-    </item>
-
-    <item>
-      <title>‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty</title>
-      <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
-      <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
-      <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Tyler Robert Buchanan, a key member of the cybercrime group 'Scattered Spider', has pleaded guilty to wire fraud and identity theft charges. He admitted to orchestrating SMS-based phishing attacks in 2022 that targeted major tech companies and resulted in the theft of millions in cryptocurrency.</description>
-    </item>
-
-    <item>
-      <title>Where's the raccoon with the ham radio? (ChatGPT Images 2.0)</title>
-      <link>https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything</guid>
-      <pubDate>Tue, 21 Apr 2026 20:32:24 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison tests OpenAI's new ChatGPT Images 2.0 by challenging it to generate a 'Where's Waldo'-style scene featuring a raccoon with a ham radio. The post compares these results against previous model versions and other AI tools, highlighting the persistent difficulty models face with high-detail spatial prompts.</description>
-    </item>
-
-    <item>
-      <title>Quoting Andreas Påhlsson-Notini</title>
-      <link>https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything</guid>
-      <pubDate>Tue, 21 Apr 2026 16:39:33 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article quotes Andreas Påhlsson-Notini, who argues that current AI agents suffer from undesirable human-like traits such as a lack of focus and difficulty adhering to strict constraints. The author suggests these agents often fail to maintain the rigor required for technical tasks, tending to drift toward familiar patterns instead.</description>
     </item>
   </channel>
 </rss>
