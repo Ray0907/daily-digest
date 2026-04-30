@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-04-29T22:17:08.418Z",
+  "last_updated": "2026-04-30T22:16:56.290Z",
   "articles": [
+    {
+      "id": "1e8a7cc7e02f2683",
+      "title": "Why are the Artemis II photos on Flickr?",
+      "url": "https://anildash.com/2026/04/30/artemis-photos-flickr/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-04-30T00:00:00.000Z",
+      "summary_en": "The article explains why NASA chooses Flickr to host Artemis II mission photos, highlighting the platform's Web 2.0 roots and its focus on data ownership, licensing, and long-term preservation. Unlike modern social media, Flickr provides the necessary infrastructure for full-resolution, public-domain archiving managed by the Flickr Foundation.",
+      "summary_zh": "本文探討 NASA 為何選擇 Flickr 作為阿提米絲二號任務照片的發布平台，強調該平台在 Web 2.0 時代對數據所有權、授權彈性及長期保存的重視。相較於現代社群媒體，Flickr 具備完善的基礎設施，能確保高畫質影像的公共領域存檔與永久保存。",
+      "keywords": [
+        "NASA",
+        "Flickr",
+        "Artemis II",
+        "Web 2.0",
+        "Digital Archiving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of the historical context and the philosophy behind why a specific platform is used for archival purposes.",
+      "pacer_reason_zh": "本文解釋了為何特定平台被選用於檔案保存的歷史背景與核心理念，屬於概念性說明內容。"
+    },
+    {
+      "id": "16a055c63c1c722b",
+      "title": "Thoughts on WebAssembly as a stack machine",
+      "url": "https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-04-30T02:28:00.000Z",
+      "summary_en": "This article discusses whether WebAssembly (Wasm) qualifies as a formal stack machine by comparing its architecture to traditional stack-based languages like Forth. The author argues that while Wasm uses a stack for operations, its inclusion of local registers improves code readability and maintainability compared to pure stack machines.",
+      "summary_zh": "本文探討 WebAssembly (Wasm) 是否符合堆疊機（stack machine）的定義，並將其架構與 Forth 等傳統堆疊語言進行比較。作者認為，儘管 Wasm 運作時使用堆疊，但引入區域暫存器（locals）後，其程式碼的可讀性與可維護性均優於純堆疊機。",
+      "keywords": [
+        "WebAssembly",
+        "Wasm",
+        "Stack Machine",
+        "Forth",
+        "Architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual definition of a stack machine and provides an analytical comparison between Wasm and other programming models.",
+      "pacer_reason_zh": "本文旨在探討堆疊機的概念定義，並對 Wasm 與其他程式設計模型進行分析比較。"
+    },
+    {
+      "id": "13e2babbaa2b2473",
+      "title": "How an Oil Refinery Works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-04-30T12:03:35.000Z",
+      "summary_en": "This article explores the fundamental mechanisms and operational processes of oil refineries. It highlights the continued critical importance of petroleum in the global energy landscape despite the growth of renewables.",
+      "summary_zh": "本文探討了煉油廠的基本運作機制與處理流程。儘管再生能源持續增長，文章強調石油在現代全球能源結構中仍扮演不可或缺的關鍵角色。",
+      "keywords": [
+        "oil refinery",
+        "petroleum",
+        "energy",
+        "industrial processes",
+        "global infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the nature and function of an oil refinery as a system.",
+      "pacer_reason_zh": "本文旨在解釋煉油廠作為一個系統的本質與功能，屬於概念性內容。"
+    },
+    {
+      "id": "4ba818c5d4fc5549",
+      "title": "Announcing the 2026 Open Source Fantasy Draft",
+      "url": "https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-04-30T10:00:00.000Z",
+      "summary_en": "The Open Source Fantasy League is returning for its sixth season, featuring a fantasy sports-style draft based on open-source maintainers' activity. Participants score points based on download metrics, releases, and issue management, while facing penalties for security vulnerabilities or CVEs.",
+      "summary_zh": "開源奇幻聯盟（Open Source Fantasy League）即將邁入第六個賽季，參與者透過挑選開源專案維護者進行虛擬對戰。評分機制基於專案下載量、軟體更新與問題修復情況，同時會針對軟體安全性漏洞（CVE）進行扣分。",
+      "keywords": [
+        "Open Source",
+        "Fantasy League",
+        "Software Development",
+        "Gamification",
+        "Maintainers"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the concept and rules of a specific niche gaming competition, defining how the scoring system and roster mechanics function.",
+      "pacer_reason_zh": "內容說明了該特殊趣味競賽的概念與規則，詳細解釋了計分方式與隊伍編組機制。"
+    },
+    {
+      "id": "89575027634cb61f",
+      "title": "Notes from April 2026",
+      "url": "https://evanhahn.com/notes-from-april-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-04-30T00:00:00.000Z",
+      "summary_en": "This monthly digest provides a personal update on the author's recent projects, including a defense of GitHub's uptime and software releases. It also features a curated collection of links covering topics such as digital public goods, AI development critiques, and reflections on technology.",
+      "summary_zh": "這篇月度摘要分享了作者近期的個人專案更新，包括對 GitHub 穩定性的看法以及 JavaScript 函式庫的釋出。同時也彙整了一系列關於數位公共財、AI 開發批判及科技反思的連結資源。",
+      "keywords": [
+        "tech-digest",
+        "software-development",
+        "AI",
+        "GitHub",
+        "monthly-notes"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and project updates, serving as reference material for the reader.",
+      "pacer_reason_zh": "本文彙整了各類連結與專案更新，主要作為讀者的參考資訊來源。"
+    },
+    {
+      "id": "8ba9d7a2f01eb9f4",
+      "title": "Three ways to differentiate ReLU",
+      "url": "https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-04-30T14:51:08.000Z",
+      "summary_en": "This article explores three different mathematical generalizations of the derivative for the ReLU activation function. It highlights how these methods address points where the classical derivative is undefined in neural network architectures.",
+      "summary_zh": "本文探討了針對 ReLU 激活函數的三種廣義導數計算方法。文章說明了當 ReLU 函數在傳統意義上不可微時，如何運用這些數學概念來處理神經網絡中的導數問題。",
+      "keywords": [
+        "ReLU",
+        "derivative",
+        "neural networks",
+        "calculus",
+        "machine learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical explanation of mathematical concepts and their specific application to a standard neural network function.",
+      "pacer_reason_zh": "本文對數學概念進行了理論性解釋，並探討了其在神經網絡函數中的具體應用。"
+    },
+    {
+      "id": "8cbece6c014ec2c7",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 3: Fairness",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-30T14:00:00.000Z",
+      "summary_en": "This article discusses the implementation of a cross-process reader/writer lock, focusing on the importance of fairness. It explains how to ensure exclusive access requests are not starved by a continuous stream of shared access requests.",
+      "summary_zh": "本文探討了跨處理序讀寫鎖（reader/writer lock）的實作，重點在於公平性機制。內容說明如何確保獨佔存取請求不會被連續不斷的共享存取請求所犧牲。",
+      "keywords": [
+        "reader/writer lock",
+        "cross-process",
+        "fairness",
+        "concurrency",
+        "multithreading"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a series providing a technical, step-by-step approach to implementing a specific synchronization primitive.",
+      "pacer_reason_zh": "本文屬於一系列技術教學文章，針對如何實作特定的同步機制提供了循序漸進的指導。"
+    },
+    {
+      "id": "d54f2df041954b65",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 2: Taking turns when being grabby",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260429-00/?p=112286",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-04-29T14:00:00.000Z",
+      "summary_en": "This article is the second part of a series focusing on creating a cross-process reader/writer lock that restricts the number of concurrent readers. It explores techniques for managing resource access to prevent overwhelming the system.",
+      "summary_zh": "本文是關於開發限制讀取者數量的跨處理序讀寫鎖系列的第二部分。文章探討了如何透過資源存取管理，避免系統因同時處理過多請求而過載。",
+      "keywords": [
+        "multithreading",
+        "lock",
+        "programming",
+        "concurrency",
+        "Windows API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a technical approach and implementation logic for solving a specific synchronization problem.",
+      "pacer_reason_zh": "文章針對特定的同步問題提供了技術解決方案與實作邏輯。"
+    },
+    {
+      "id": "75deb0f793687c54",
+      "title": "You’re probably taking the wrong painkiller",
+      "url": "https://dynomight.net/painkillers/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-04-30T00:00:00.000Z",
+      "summary_en": "The article challenges the common assumption that ibuprofen is safer than acetaminophen based on overdose toxicity. It highlights how focusing on extreme risks can obscure the broader, more important medical consensus regarding the safety profiles of these common painkillers when used as directed.",
+      "summary_zh": "本文挑戰了基於過量毒性而認為布洛芬比乙醯胺酚更安全的普遍認知。文章強調，過度關注極端風險可能會掩蓋醫學界對於這些常用止痛藥在正確使用下安全性的核心共識。",
+      "keywords": [
+        "acetaminophen",
+        "ibuprofen",
+        "painkillers",
+        "medical risk",
+        "pharmacology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual errors in how individuals evaluate medical risks by contrasting metabolic realities with intuitive but flawed reasoning.",
+      "pacer_reason_zh": "本文闡述了人們在評估醫療風險時存在的概念性錯誤，並透過對比代謝事實與直覺上的誤判進行了解釋。"
+    },
+    {
+      "id": "fa64ea4d5c08d78c",
+      "title": "Pluralistic: How not to ban surveillance pricing (30 Apr 2026)",
+      "url": "https://pluralistic.net/2026/04/30/something-must-be-done/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-04-30T14:38:35.000Z",
+      "summary_en": "Cory Doctorow critiques Maryland's new consumer protection law, arguing that it fails to effectively curb surveillance pricing due to poor drafting and ignored warnings. He explains that surveillance pricing exploits personal data to maximize costs for consumers, labeling the legislation an ineffective loophole-filled failure.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）批評馬里蘭州新的消費者保護法，認為由於草案撰寫不當且無視警告，該法案無法有效遏制監控定價。他解釋了監控定價如何利用個人數據最大化消費者成本，並稱該法案充滿漏洞且成效不彰。",
+      "keywords": [
+        "surveillance pricing",
+        "tech regulation",
+        "privacy",
+        "Maryland law",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of surveillance pricing and analyzes the policy failures behind specific legislative attempts to regulate it.",
+      "pacer_reason_zh": "本文對監控定價進行了概念性解釋，並分析了特定立法嘗試背後的政策失敗原因。"
+    },
+    {
+      "id": "2ed88262787c79ee",
+      "title": "Have You Seen the New Excel? ",
+      "url": "https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-04-29T23:40:00.000Z",
+      "summary_en": "The author argues that Microsoft Excel is a more powerful and accessible tool than modern software engineering practices, effectively serving as the ultimate no-code solution. By abstracting away complex technical dependencies, Excel allows users to focus on business outcomes rather than the maintenance of fragile codebases.",
+      "summary_zh": "作者認為微軟 Excel 比現代軟體工程更具優勢，是一種強大且易於入門的「無程式碼」解決方案。它透過簡化技術複雜性，讓使用者能專注於業務成果，而非維護難以管理的程式碼庫。",
+      "keywords": [
+        "Excel",
+        "No-Code",
+        "Software Engineering",
+        "Productivity",
+        "Enterprise Software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the shift from traditional software development to spreadsheet-based business logic.",
+      "pacer_reason_zh": "本文提出了一項關於從傳統軟體開發轉向基於試算表的業務邏輯的概念性論點。"
+    },
+    {
+      "id": "c521ba313d3fccf1",
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-04-30T14:04:26.000Z",
+      "summary_en": "A Brazilian anti-DDoS firm is implicated in facilitating a massive botnet used to attack rival ISPs. The company's CEO claims the unauthorized activity was caused by a security breach orchestrated by a competitor.",
+      "summary_zh": "一家巴西防禦 DDoS 攻擊的科技公司被爆料協助運作僵屍網路，對國內其他網路業者發動攻擊。該公司執行長聲稱此惡意活動是因安全漏洞引起，並懷疑是競爭對手為抹黑其形象所為。",
+      "keywords": [
+        "DDoS",
+        "botnet",
+        "cybersecurity",
+        "Krebs on Security",
+        "ISP"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific security incident, acting as an investigative journalistic case study of a real-world breach.",
+      "pacer_reason_zh": "本文針對一起特定的安全事件進行報導，屬於對真實駭客攻擊與資安漏洞的調查性案例研究。"
+    },
+    {
+      "id": "0cd3b2d2d5c5771c",
+      "title": "Quoting Andrew Kelley",
+      "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-30T21:24:55.000Z",
+      "summary_en": "Andrew Kelley, creator of the Zig programming language, shares his perspective on the distinct 'digital smell' of LLM-generated code in pull requests. He argues that AI-assisted contributions are easily identifiable due to their unique patterns of error, likening the practice to smoking in a non-smoking space.",
+      "summary_zh": "Zig 程式語言創始人 Andrew Kelley 分享了他對於 AI 生成程式碼在 Pull Request 中所展現的獨特「數位氣味」的看法。他認為 AI 輔助的代碼錯誤模式與人類截然不同，並將在代碼庫中使用 AI 的行為比喻為在禁止吸菸的空間內吸菸。",
+      "keywords": [
+        "Zig",
+        "LLM",
+        "AI",
+        "Software Engineering",
+        "Coding"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content relies on an analogy comparing the use of AI in coding to the smell of cigarette smoke to explain how human reviewers detect LLM-assisted contributions.",
+      "pacer_reason_zh": "該內容使用了類比法，將程式設計中使用 AI 的行為比作吸菸的氣味，以解釋人類審閱者如何察覺 AI 輔助的貢獻。"
+    },
+    {
+      "id": "3327b8f64af7dad2",
+      "title": "We need RSS for sharing abundant vibe-coded apps",
+      "url": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-30T18:38:48.000Z",
+      "summary_en": "Simon Willison discusses the need for RSS feeds to distribute 'vibe-coded' micro-apps, mirroring Matt Webb's observation that modern app development is becoming as frequent and personal as blogging. Inspired by this, Willison implemented an Atom feed for his own collection of tools to facilitate easier tracking and discovery.",
+      "summary_zh": "Simon Willison 探討了利用 RSS 訂閱來發布「氛圍編碼」(vibe-coded) 微型應用的必要性，呼應了 Matt Webb 關於現代軟體開發正變得如同撰寫部落格般頻繁且個性化的觀點。受此啟發，Willison 為其個人工具頁面新增了 Atom 訂閱源，以便於追蹤與發現這些開發成果。",
+      "keywords": [
+        "RSS",
+        "vibe-coding",
+        "Atom",
+        "micro-apps",
+        "web-development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a conceptual shift in how we distribute micro-apps, treating them like blog posts rather than traditional software launches.",
+      "pacer_reason_zh": "該內容提出了一種關於微型應用發布方式的概念性轉變，將其視為如同部落格文章般的發布，而非傳統的軟體發布模式。"
+    },
+    {
+      "id": "f4b86aa6117ee25b",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-30T01:24:23.000Z",
+      "summary_en": "The Zig project maintains a strict policy banning LLM-generated contributions, which has created tension with projects like Bun that rely on AI-assisted development. While critics argue this hinders innovation, Zig maintainers emphasize the importance of human-authored, comprehensible code contributions to the project's long-term integrity.",
+      "summary_zh": "Zig 專案維持嚴格禁止使用 AI 生成程式碼的政策，這與依賴 AI 輔助開發的 Bun 等專案產生了摩擦。儘管批評者認為此舉阻礙了創新，但 Zig 維護者強調，確保貢獻內容由人類撰寫且易於理解，對於維護專案的長期完整性至關重要。",
+      "keywords": [
+        "Zig",
+        "LLM",
+        "Open Source",
+        "Bun",
+        "Code Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the rationale and philosophy behind a specific policy, focusing on the conceptual conflict between AI-assisted development and open source project governance.",
+      "pacer_reason_zh": "本文旨在說明該政策背後的邏輯與理念，探討 AI 輔助開發與開源專案治理之間的觀念衝突。"
+    },
+    {
+      "id": "16b9b64d93d535a9",
+      "title": "llm 0.32a1",
+      "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-29T23:52:50.000Z",
+      "summary_en": "Simon Willison has released version 0.32a1 of the LLM command-line tool. This update specifically fixes a bug related to the incorrect reinflation of tool-calling conversations from SQLite storage.",
+      "summary_zh": "Simon Willison 發布了 LLM 命令列工具的 0.32a1 版本。此次更新修復了先前版本中關於 SQLite 工具調用對話恢復錯誤的問題。",
+      "keywords": [
+        "llm",
+        "sqlite",
+        "software release",
+        "bug fix",
+        "command-line tool"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing version updates and bug fixes, serving as reference material for users.",
+      "pacer_reason_zh": "這是詳細說明版本更新與錯誤修正的軟體發布日誌，屬於使用者的參考資料。"
+    },
+    {
+      "id": "e1e105aa0ed92c24",
+      "title": "llm 0.32a0",
+      "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-29T18:57:47.000Z",
+      "summary_en": "Simon Willison has released version 0.32a0 of the LLM command-line utility. The post serves as a brief announcement directing users to the GitHub release page and the detailed annotated release notes.",
+      "summary_zh": "Simon Willison 發布了 LLM 命令列工具的 0.32a0 版本。本文為簡短的發布公告，引導使用者前往 GitHub 發布頁面及閱讀詳細的註釋說明。",
+      "keywords": [
+        "llm",
+        "command-line",
+        "software release",
+        "simon willison",
+        "tooling"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a reference/announcement for a specific software release version and its documentation links.",
+      "pacer_reason_zh": "本文作為特定軟體版本發布與其文件連結的參考公告。"
+    },
     {
       "id": "56644072a06695ab",
       "title": "Reiner Pope – The math behind how LLMs are trained and served",
