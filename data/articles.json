@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-04-30T22:16:56.290Z",
+  "last_updated": "2026-05-01T22:14:39.388Z",
   "articles": [
+    {
+      "id": "d1ce7fe94c7c987c",
+      "title": "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
+      "url": "https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-05-01T15:46:03.000Z",
+      "summary_en": "This article explores the historical origins and myths surrounding the Plantard family in the context of the game Gabriel Knight 3. It investigates the validity of the Plantard lineage by distinguishing between documented history and the fabricated narratives found in the Lobineau dossier.",
+      "summary_zh": "本文探討了遊戲《Gabriel Knight 3》背景中關於普蘭塔德（Plantard）家族的歷史起源與迷思。文章旨在區分有據可查的家族歷史與羅比諾檔案（Lobineau dossier）中偽造的敘事內容。",
+      "keywords": [
+        "Gabriel Knight 3",
+        "Rennes-le-Château",
+        "Plantard",
+        "Lobineau",
+        "history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the historical context and conceptual background behind the game's narrative elements.",
+      "pacer_reason_zh": "本文主要解釋遊戲敘事背後的歷史脈絡與概念背景。"
+    },
+    {
+      "id": "cee386aa804c993c",
+      "title": "AI will create jobs",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-01T07:00:00.000Z",
+      "summary_en": "The author argues that AI will create more jobs by increasing efficiency and overall economic productivity, much like immigration expands an economy. By referencing the Jevons paradox, the piece suggests that increased efficiency leads to higher demand rather than job displacement.",
+      "summary_zh": "作者認為 AI 與移民一樣，能透過提高效率來創造更多工作機會並擴大整體經濟規模。文章引用傑文斯悖論（Jevons paradox）說明，效率提升反而會帶動需求增加，而非導致工作被取代。",
+      "keywords": [
+        "AI",
+        "Jevons paradox",
+        "economics",
+        "job creation",
+        "productivity"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article primarily functions by drawing an analogy between the economic impact of AI and immigration.",
+      "pacer_reason_zh": "本文主要透過將 AI 的經濟影響與移民進行類比來闡述觀點。"
+    },
+    {
+      "id": "e4a932d5592c7271",
+      "title": "Touch Typing Number Keys",
+      "url": "https://susam.net/touch-typing-number-keys.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-01T00:00:00.000Z",
+      "summary_en": "The author reflects on the personal value of touch typing, arguing it enhances the fluidity of writing and coding similar to musical technique. The post also discusses the author's open-source typing tutor, QuickQWERTY, and compares different finger-placement techniques for the numeric keypad.",
+      "summary_zh": "作者分享了盲打對提升寫作與程式編碼流暢度的重要性，將其比喻為演奏樂器的技巧。文章同時介紹了作者開發的開源打字練習工具 QuickQWERTY，並探討了數字鍵盤的不同指法配置。",
+      "keywords": [
+        "touch typing",
+        "typing tutor",
+        "keyboard layout",
+        "QuickQWERTY",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual value of touch typing and explores different theories/methods regarding digit finger placement.",
+      "pacer_reason_zh": "文章重點在於探討盲打的觀念價值，並分析了數字鍵位指法的不同理論與方法。"
+    },
+    {
+      "id": "baa5f0a0effeaa23",
+      "title": "Apr '26 Notes",
+      "url": "https://susam.net/26d.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-04-30T00:00:00.000Z",
+      "summary_en": "This post covers the author's monthly intellectual explorations, focusing primarily on their study of Tutte's theorem regarding arc-transitive cubic graphs. Additionally, the author discusses the fundamental importance of cosets in group theory and provides notes on related elementary results.",
+      "summary_zh": "這篇文章記錄了作者的月度知識探索，主要集中在圖論中關於 Tutte 定理的研究，探討了弧可遞三次圖的相關性質。此外，作者也分享了對群論中陪集概念的見解，並整理了相關基礎理論的學習筆記。",
+      "keywords": [
+        "Graph Theory",
+        "Tutte's Theorem",
+        "Group Theory",
+        "Cosets",
+        "Mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, explaining mathematical theories and the author's process of understanding specific proofs and algebraic concepts.",
+      "pacer_reason_zh": "文章性質偏向概念性，旨在說明數學理論以及作者對特定證明與代數概念的理解過程。"
+    },
+    {
+      "id": "a7cdedd42814bbfa",
+      "title": "Patching and forking in package managers",
+      "url": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-01T10:00:00.000Z",
+      "summary_en": "This article discusses the growing challenge of patching vulnerabilities in unmaintained packages and how modern language package managers struggle to handle these scenarios. It compares the maintenance models of system package managers with language-specific ones and explores various workarounds like forking and dependency overriding.",
+      "summary_zh": "本文探討了在維護者缺席的情況下修補漏洞所面臨的挑戰，並分析了語言套件管理器與系統套件管理器在處理這類問題時的差異。作者進一步介紹了透過分叉（forking）或依賴覆寫等解決方案，來應對無法從上游獲取修補程式的情境。",
+      "keywords": [
+        "package managers",
+        "vulnerabilities",
+        "dependency management",
+        "patching",
+        "forking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical examples and specific syntax for addressing unmaintained package vulnerabilities using various language package managers.",
+      "pacer_reason_zh": "文章針對處理無人維護套件的漏洞提供了具體的實作範例與語法說明，屬於實用指南性質。"
+    },
+    {
+      "id": "ef1d17fba0ab1829",
+      "title": "Offline command line translation with TranslateGemma + Ollama",
+      "url": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-05-01T00:00:00.000Z",
+      "summary_en": "This post introduces a custom command-line tool built with Deno, Ollama, and TranslateGemma that enables private, offline text translation. By integrating language detection with a local language model, the script automates translation directly into the user's system language.",
+      "summary_zh": "本文介紹了一款結合 Deno、Ollama 與 TranslateGemma 的自製命令列工具，旨在實現隱私且離線的文字翻譯。透過整合語言偵測與在地大型語言模型，該指令碼能自動將文字翻譯為使用者的系統語言。",
+      "keywords": [
+        "TranslateGemma",
+        "Ollama",
+        "CLI",
+        "Deno",
+        "Offline Translation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical demonstration and pseudo-code for building a specific command-line utility.",
+      "pacer_reason_zh": "本文提供了構建特定命令列工具的實作示範與虛擬碼。"
+    },
+    {
+      "id": "209869a3937db8db",
+      "title": "Approximating even functions by powers of cosine",
+      "url": "https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-01T00:06:12.000Z",
+      "summary_en": "This post discusses the mathematical technique of approximating even functions using powers of cosine. It builds upon a previous example involving the Bessel function to demonstrate how specific trigonometric constructions can serve as effective, simple approximations.",
+      "summary_zh": "本文探討了利用餘弦函數的冪次來近似偶函數的數學技巧。作者以貝索函數為例，說明如何透過特定的三角函數構造來實現簡單且精確的近似計算。",
+      "keywords": [
+        "mathematics",
+        "approximation",
+        "cosine",
+        "Bessel function",
+        "numerical analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and the theory behind approximating functions.",
+      "pacer_reason_zh": "本文旨在解釋函數近似的數學概念與相關理論。"
+    },
+    {
+      "id": "ca0dd726ab1c87f3",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-01T14:00:00.000Z",
+      "summary_en": "This article explores the technical challenges of handling process abandonment in a cross-process reader/writer lock implementation. It focuses on strategies for recovering system stability when the owner of the lock terminates unexpectedly.",
+      "summary_zh": "本文探討了在跨進程讀寫鎖實作中處理進程異常終止的技術挑戰。重點在於當鎖持有者意外死亡時，確保系統穩定性的恢復策略。",
+      "keywords": [
+        "inter-process communication",
+        "reader-writer lock",
+        "synchronization",
+        "process abandonment",
+        "Windows programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a series providing a technical, step-by-step implementation guide for complex synchronization primitives.",
+      "pacer_reason_zh": "本文屬於一系列技術教學文章的一部分，提供了複雜同步原語的步驟實作指南。"
+    },
+    {
+      "id": "f1688933a72395b4",
+      "title": "NHS Goes To War Against Open Source",
+      "url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-01T11:44:04.000Z",
+      "summary_en": "The author expresses deep disappointment regarding the NHS's decision to close most of its Open Source repositories. Drawing on his extensive experience in UK government digital services, he criticizes this strategic shift away from the open collaboration principles he previously championed.",
+      "summary_zh": "作者對於英國國民保健署（NHS）準備關閉大部分開源儲存庫的決定表示極度失望。他結合自己在英國政府數位服務部門的豐富經驗，批評了此舉背離了他過去大力提倡的開源協作原則。",
+      "keywords": [
+        "NHS",
+        "Open Source",
+        "UK Government",
+        "Policy",
+        "Digital Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a conceptual critique and reflection on organizational strategy and policy changes.",
+      "pacer_reason_zh": "內容屬於對組織策略與政策變更的觀念性評論與反思。"
+    },
+    {
+      "id": "199911941bfe4f19",
+      "title": "iNaturalist Sightings",
+      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-01T19:35:41.000Z",
+      "summary_en": "Simon Willison demonstrates how he built a personal tool to visualize his iNaturalist observations by grouping data geographically and temporally. He used a custom Python CLI, Git scraping for data persistence, and Claude Code to generate the front-end interface entirely from his phone.",
+      "summary_zh": "Simon Willison 分享了他如何開發一個個人工具，將 iNaturalist 觀測記錄按地理位置與時間進行分組。他透過自訂 Python CLI、Git Scraping 儲存資料，並完全利用手機上的 Claude Code 完成前端網頁的建構。",
+      "keywords": [
+        "iNaturalist",
+        "Git Scraping",
+        "Claude Code",
+        "Python",
+        "Web Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the process and workflow of building a specific tool, serving as a practical guide to his implementation method.",
+      "pacer_reason_zh": "文章描述了建構特定工具的過程與工作流程，作為其實作方法的實用指南。"
+    },
+    {
+      "id": "3a5b18b2ae174af0",
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-30T23:23:17.000Z",
+      "summary_en": "Codex CLI version 0.128.0 introduces a new '/goal' feature, allowing the AI agent to iteratively work toward a defined objective until completion or token exhaustion. This functionality is driven by specialized system prompts that manage goal continuation and budget constraints.",
+      "summary_zh": "Codex CLI 0.128.0 版本新增了「/goal」功能，允許 AI 代理針對特定目標持續執行任務，直到達成目標或消耗完 Token 配額為止。此功能透過自動注入的系統提示詞來管理任務的持續進行與預算限制。",
+      "keywords": [
+        "Codex CLI",
+        "AI agents",
+        "OpenAI",
+        "prompt engineering",
+        "automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a functional update announcement for a CLI tool, detailing how to use the new feature.",
+      "pacer_reason_zh": "本文介紹 CLI 工具的功能更新，並說明如何使用該新功能。"
+    },
+    {
+      "id": "2689fb473ab44ee1",
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-04-30T23:03:24.000Z",
+      "summary_en": "The UK's AI Security Institute recently evaluated OpenAI's GPT-5.5 model for its ability to identify security vulnerabilities. The results indicate that GPT-5.5 performs comparably to Claude Mythos, with the added distinction of being currently available to the public.",
+      "summary_zh": "英國人工智慧安全研究所最近評估了 OpenAI 的 GPT-5.5 模型在識別安全漏洞方面的能力。結果顯示，GPT-5.5 的表現與 Claude Mythos 相當，且目前已全面開放使用。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.5",
+        "AI Security Institute",
+        "cybersecurity",
+        "vulnerability assessment"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post summarizes findings from a formal AI evaluation conducted by a government research body.",
+      "pacer_reason_zh": "該文章總結了政府研究機構對人工智慧模型進行正式評估的結果。"
+    },
+    {
+      "id": "e59363a86818deae",
+      "title": "SBC Clusters are a terrible value, but they're fun anyway",
+      "url": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-01T14:00:00.000Z",
+      "summary_en": "The article reviews the DeskPi Super4C, a 4-node Raspberry Pi cluster board, while reflecting on the impractical yet educational nature of SBC clusters. It also highlights the recent Single Board Cluster Competition (SBCC 2026), where university teams benchmarked mini HPC clusters.",
+      "summary_zh": "本文評測了 DeskPi Super4C 這款四節點樹莓派叢集板，並反思了單板電腦叢集雖然經濟效益不高，但仍具備教育意義。文中同時介紹了「SBCC 2026」競賽，展示大學團隊如何運用有限預算進行高效能運算叢集測試。",
+      "keywords": [
+        "SBC",
+        "Raspberry Pi",
+        "DeskPi Super4C",
+        "HPC",
+        "Clusters"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on real-world testing of hardware benchmarks and a competitive case study of HPC performance.",
+      "pacer_reason_zh": "內容聚焦於硬體基準測試的實測結果，並透過高效能運算競賽案例進行分析。"
+    },
     {
       "id": "1e8a7cc7e02f2683",
       "title": "Why are the Artemis II photos on Flickr?",

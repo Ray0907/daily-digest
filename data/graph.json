@@ -1,6 +1,198 @@
 {
   "nodes": [
     {
+      "id": "199911941bfe4f19",
+      "title": "iNaturalist Sightings",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "iNaturalist",
+        "Git Scraping",
+        "Claude Code",
+        "Python",
+        "Web Development"
+      ],
+      "published": "2026-05-01T19:35:41.000Z"
+    },
+    {
+      "id": "d1ce7fe94c7c987c",
+      "title": "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/",
+      "pacer": "C",
+      "keywords": [
+        "Gabriel Knight 3",
+        "Rennes-le-Château",
+        "Plantard",
+        "Lobineau",
+        "history"
+      ],
+      "published": "2026-05-01T15:46:03.000Z"
+    },
+    {
+      "id": "ca0dd726ab1c87f3",
+      "title": "Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291",
+      "pacer": "P",
+      "keywords": [
+        "inter-process communication",
+        "reader-writer lock",
+        "synchronization",
+        "process abandonment",
+        "Windows programming"
+      ],
+      "published": "2026-05-01T14:00:00.000Z"
+    },
+    {
+      "id": "e59363a86818deae",
+      "title": "SBC Clusters are a terrible value, but they're fun anyway",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/",
+      "pacer": "E",
+      "keywords": [
+        "SBC",
+        "Raspberry Pi",
+        "DeskPi Super4C",
+        "HPC",
+        "Clusters"
+      ],
+      "published": "2026-05-01T14:00:00.000Z"
+    },
+    {
+      "id": "f1688933a72395b4",
+      "title": "NHS Goes To War Against Open Source",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+      "pacer": "C",
+      "keywords": [
+        "NHS",
+        "Open Source",
+        "UK Government",
+        "Policy",
+        "Digital Strategy"
+      ],
+      "published": "2026-05-01T11:44:04.000Z"
+    },
+    {
+      "id": "a7cdedd42814bbfa",
+      "title": "Patching and forking in package managers",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html",
+      "pacer": "P",
+      "keywords": [
+        "package managers",
+        "vulnerabilities",
+        "dependency management",
+        "patching",
+        "forking"
+      ],
+      "published": "2026-05-01T10:00:00.000Z"
+    },
+    {
+      "id": "cee386aa804c993c",
+      "title": "AI will create jobs",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "Jevons paradox",
+        "economics",
+        "job creation",
+        "productivity"
+      ],
+      "published": "2026-05-01T07:00:00.000Z"
+    },
+    {
+      "id": "209869a3937db8db",
+      "title": "Approximating even functions by powers of cosine",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "approximation",
+        "cosine",
+        "Bessel function",
+        "numerical analysis"
+      ],
+      "published": "2026-05-01T00:06:12.000Z"
+    },
+    {
+      "id": "e4a932d5592c7271",
+      "title": "Touch Typing Number Keys",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/touch-typing-number-keys.html",
+      "pacer": "C",
+      "keywords": [
+        "touch typing",
+        "typing tutor",
+        "keyboard layout",
+        "QuickQWERTY",
+        "productivity"
+      ],
+      "published": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "id": "ef1d17fba0ab1829",
+      "title": "Offline command line translation with TranslateGemma + Ollama",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/",
+      "pacer": "P",
+      "keywords": [
+        "TranslateGemma",
+        "Ollama",
+        "CLI",
+        "Deno",
+        "Offline Translation"
+      ],
+      "published": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "id": "3a5b18b2ae174af0",
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Codex CLI",
+        "AI agents",
+        "OpenAI",
+        "prompt engineering",
+        "automation"
+      ],
+      "published": "2026-04-30T23:23:17.000Z"
+    },
+    {
+      "id": "2689fb473ab44ee1",
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.5",
+        "AI Security Institute",
+        "cybersecurity",
+        "vulnerability assessment"
+      ],
+      "published": "2026-04-30T23:03:24.000Z"
+    },
+    {
       "id": "0cd3b2d2d5c5771c",
       "title": "Quoting Andrew Kelley",
       "source": "Simon Willison's Weblog",
@@ -145,20 +337,20 @@
       "published": "2026-04-30T02:28:00.000Z"
     },
     {
-      "id": "f4b86aa6117ee25b",
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+      "id": "baa5f0a0effeaa23",
+      "title": "Apr '26 Notes",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/26d.html",
       "pacer": "C",
       "keywords": [
-        "Zig",
-        "LLM",
-        "Open Source",
-        "Bun",
-        "Code Policy"
+        "Graph Theory",
+        "Tutte's Theorem",
+        "Group Theory",
+        "Cosets",
+        "Mathematics"
       ],
-      "published": "2026-04-30T01:24:23.000Z"
+      "published": "2026-04-30T00:00:00.000Z"
     },
     {
       "id": "1e8a7cc7e02f2683",
@@ -209,22 +401,6 @@
       "published": "2026-04-30T00:00:00.000Z"
     },
     {
-      "id": "16b9b64d93d535a9",
-      "title": "llm 0.32a1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "sqlite",
-        "software release",
-        "bug fix",
-        "command-line tool"
-      ],
-      "published": "2026-04-29T23:52:50.000Z"
-    },
-    {
       "id": "2ed88262787c79ee",
       "title": "Have You Seen the New Excel? ",
       "source": "iDiallo.com",
@@ -239,22 +415,6 @@
         "Enterprise Software"
       ],
       "published": "2026-04-29T23:40:00.000Z"
-    },
-    {
-      "id": "9285d6a73cec4149",
-      "title": "LLM 0.32a0  is a major backwards-compatible refactor",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "Python",
-        "CLI",
-        "refactor",
-        "software development"
-      ],
-      "published": "2026-04-29T19:01:47.000Z"
     },
     {
       "id": "56644072a06695ab",
@@ -817,22 +977,6 @@
       "published": "2026-04-25T14:16:17.000Z"
     },
     {
-      "id": "1e8638b522134e3d",
-      "title": "nth derivative of a quotient",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/",
-      "pacer": "C",
-      "keywords": [
-        "calculus",
-        "derivative",
-        "quotient rule",
-        "mathematics",
-        "formula"
-      ],
-      "published": "2026-04-25T13:12:39.000Z"
-    },
-    {
       "id": "b4091de30989a9cc",
       "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
       "source": "Terence Eden’s Blog",
@@ -927,22 +1071,6 @@
         "Malware"
       ],
       "published": "2026-04-24T16:00:00.000Z"
-    },
-    {
-      "id": "8163544b6b8d0131",
-      "title": "Defending against exceptions in a scope_exit RAII type",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "RAII",
-        "scope_exit",
-        "exception handling",
-        "programming"
-      ],
-      "published": "2026-04-24T14:00:00.000Z"
     },
     {
       "id": "8d69f2c94c7d7006",
@@ -1071,22 +1199,6 @@
         "cost analysis"
       ],
       "published": "2026-04-23T12:02:35.000Z"
-    },
-    {
-      "id": "600d859d69a6af85",
-      "title": "Sneaky spam in conversational replies to blog posts",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "pacer": "E",
-      "keywords": [
-        "blogging",
-        "spam",
-        "antispam",
-        "moderation",
-        "cybersecurity"
-      ],
-      "published": "2026-04-23T11:34:48.000Z"
     },
     {
       "id": "55a1877f6b0ee736",
@@ -1425,22 +1537,6 @@
       "published": "2026-04-19T19:00:00.000Z"
     },
     {
-      "id": "b2caa127e6a32215",
-      "title": "What is freedom?",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html",
-      "pacer": "C",
-      "keywords": [
-        "freedom",
-        "politics",
-        "dissent",
-        "agency",
-        "optionality"
-      ],
-      "published": "2026-04-19T16:00:00.000Z"
-    },
-    {
       "id": "1fd2e40f35d85818",
       "title": "Figma's woes compound with Claude Design",
       "source": "Martin Alderson",
@@ -1630,22 +1726,6 @@
         "Model Intelligence"
       ],
       "published": "2026-04-16T10:46:46.000Z"
-    },
-    {
-      "id": "ceb5d5b7546b0c96",
-      "title": "Features everyone should steal from npmx",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html",
-      "pacer": "E",
-      "keywords": [
-        "npm",
-        "npmx",
-        "open source",
-        "package registry",
-        "web development"
-      ],
-      "published": "2026-04-16T10:00:00.000Z"
     },
     {
       "id": "f0b8873edc53f23c",
@@ -2208,22 +2288,6 @@
       "published": "2026-04-04T00:00:00.000Z"
     },
     {
-      "id": "27309dbe0bae9474",
-      "title": "Wander Console 0.4.0",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/code/news/wander/0.4.0.html",
-      "pacer": "P",
-      "keywords": [
-        "Wander Console",
-        "decentralized web",
-        "web tools",
-        "self-hosted",
-        "web discovery"
-      ],
-      "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
       "id": "25e8b8191249a571",
       "title": "Absurd In Production",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -2318,22 +2382,6 @@
         "Developer"
       ],
       "published": "2026-04-02T00:00:00.000Z"
-    },
-    {
-      "id": "f68887fa44f1e59e",
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "pacer": "C",
-      "keywords": [
-        "Raspberry Pi",
-        "SBC",
-        "DRAM",
-        "pricing",
-        "hardware"
-      ],
-      "published": "2026-04-01T21:00:00.000Z"
     },
     {
       "id": "8172bbcb3c646187",
@@ -2534,22 +2582,6 @@
       "published": "2026-03-30T17:18:09.000Z"
     },
     {
-      "id": "5f47d761cc9eedef",
-      "title": "Mar '26 Notes",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/26c.html",
-      "pacer": "R",
-      "keywords": [
-        "Algebraic Graph Theory",
-        "Wander Console",
-        "Open Source",
-        "Mathematics",
-        "Personal Notes"
-      ],
-      "published": "2026-03-30T00:00:00.000Z"
-    },
-    {
       "id": "80c336a8f07213fd",
       "title": "Small note about AI 'GPUs'",
       "source": "Xe Iaso's blog",
@@ -2708,26 +2740,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-22T00:00:00.000Z"
-    },
-    {
-      "id": "81969a2a88050224",
-      "title": "Little web app to pick a random programming language",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/random-programming-language/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-22T00:00:00.000Z"
-    },
-    {
-      "id": "680a2d1fec7c898d",
-      "title": "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T18:09:52.000Z"
     },
     {
       "id": "24396c2491a6d525",
@@ -3238,6 +3250,16 @@
     }
   ],
   "links": [
+    {
+      "source": "d1ce7fe94c7c987c",
+      "target": "bf325ff1e19a8042",
+      "shared_keywords": [
+        "Rennes-le-Château",
+        "Gabriel Knight 3",
+        "history"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "2e7f0c888d6d8f53",
       "target": "2c00d63d65ce3373",

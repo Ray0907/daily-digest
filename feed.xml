@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 30 Apr 2026 22:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 22:14:39 GMT</lastBuildDate>
     
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
+      <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
+      <guid>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</guid>
+      <pubDate>Fri, 01 May 2026 15:46:03 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This article explores the historical origins and myths surrounding the Plantard family in the context of the game Gabriel Knight 3. It investigates the validity of the Plantard lineage by distinguishing between documented history and the fabricated narratives found in the Lobineau dossier.</description>
+    </item>
+
+    <item>
+      <title>AI will create jobs</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</guid>
+      <pubDate>Fri, 01 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author argues that AI will create more jobs by increasing efficiency and overall economic productivity, much like immigration expands an economy. By referencing the Jevons paradox, the piece suggests that increased efficiency leads to higher demand rather than job displacement.</description>
+    </item>
+
+    <item>
+      <title>Touch Typing Number Keys</title>
+      <link>https://susam.net/touch-typing-number-keys.html</link>
+      <guid>https://susam.net/touch-typing-number-keys.html</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>The author reflects on the personal value of touch typing, arguing it enhances the fluidity of writing and coding similar to musical technique. The post also discusses the author's open-source typing tutor, QuickQWERTY, and compares different finger-placement techniques for the numeric keypad.</description>
+    </item>
+
+    <item>
+      <title>Apr '26 Notes</title>
+      <link>https://susam.net/26d.html</link>
+      <guid>https://susam.net/26d.html</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>This post covers the author's monthly intellectual explorations, focusing primarily on their study of Tutte's theorem regarding arc-transitive cubic graphs. Additionally, the author discusses the fundamental importance of cosets in group theory and provides notes on related elementary results.</description>
+    </item>
+
+    <item>
+      <title>Patching and forking in package managers</title>
+      <link>https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</link>
+      <guid>https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</guid>
+      <pubDate>Fri, 01 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article discusses the growing challenge of patching vulnerabilities in unmaintained packages and how modern language package managers struggle to handle these scenarios. It compares the maintenance models of system package managers with language-specific ones and explores various workarounds like forking and dependency overriding.</description>
+    </item>
+
+    <item>
+      <title>Offline command line translation with TranslateGemma + Ollama</title>
+      <link>https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</link>
+      <guid>https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This post introduces a custom command-line tool built with Deno, Ollama, and TranslateGemma that enables private, offline text translation. By integrating language detection with a local language model, the script automates translation directly into the user's system language.</description>
+    </item>
+
+    <item>
+      <title>Approximating even functions by powers of cosine</title>
+      <link>https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</link>
+      <guid>https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</guid>
+      <pubDate>Fri, 01 May 2026 00:06:12 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the mathematical technique of approximating even functions using powers of cosine. It builds upon a previous example involving the Bessel function to demonstrate how specific trigonometric constructions can serve as effective, simple approximations.</description>
+    </item>
+
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores the technical challenges of handling process abandonment in a cross-process reader/writer lock implementation. It focuses on strategies for recovering system stability when the owner of the lock terminates unexpectedly.</description>
+    </item>
+
+    <item>
+      <title>NHS Goes To War Against Open Source</title>
+      <link>https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</guid>
+      <pubDate>Fri, 01 May 2026 11:44:04 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author expresses deep disappointment regarding the NHS's decision to close most of its Open Source repositories. Drawing on his extensive experience in UK government digital services, he criticizes this strategic shift away from the open collaboration principles he previously championed.</description>
+    </item>
+
+    <item>
+      <title>iNaturalist Sightings</title>
+      <link>https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</guid>
+      <pubDate>Fri, 01 May 2026 19:35:41 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison demonstrates how he built a personal tool to visualize his iNaturalist observations by grouping data geographically and temporally. He used a custom Python CLI, Git scraping for data persistence, and Claude Code to generate the front-end interface entirely from his phone.</description>
+    </item>
+
+    <item>
+      <title>Codex CLI 0.128.0 adds /goal</title>
+      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:23:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Codex CLI version 0.128.0 introduces a new '/goal' feature, allowing the AI agent to iteratively work toward a defined objective until completion or token exhaustion. This functionality is driven by specialized system prompts that manage goal continuation and budget constraints.</description>
+    </item>
+
+    <item>
+      <title>Our evaluation of OpenAI's GPT-5.5 cyber capabilities</title>
+      <link>https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:03:24 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The UK's AI Security Institute recently evaluated OpenAI's GPT-5.5 model for its ability to identify security vulnerabilities. The results indicate that GPT-5.5 performs comparably to Claude Mythos, with the added distinction of being currently available to the public.</description>
+    </item>
+
+    <item>
+      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
+      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>The article reviews the DeskPi Super4C, a 4-node Raspberry Pi cluster board, while reflecting on the impractical yet educational nature of SBC clusters. It also highlights the recent Single Board Cluster Competition (SBCC 2026), where university teams benchmarked mini HPC clusters.</description>
+    </item>
+
     <item>
       <title>Why are the Artemis II photos on Flickr?</title>
       <link>https://anildash.com/2026/04/30/artemis-photos-flickr/</link>
@@ -787,123 +904,6 @@
       <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article explores the shifting landscape of software engineering, questioning whether it remains a sustainable lifelong career path. It examines factors like ageism, rapid technological turnover, and market saturation that challenge traditional notions of industry longevity.</description>
-    </item>
-
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution</link>
-      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution</guid>
-      <pubDate>Thu, 23 Apr 2026 13:10:55 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description>This article introduces the sixth chapter of the 'SQLAlchemy 2 in Practice' book, which focuses on building a web traffic analytics application. It serves as a practical implementation guide to reinforce previously learned database design techniques.</description>
-    </item>
-
-    <item>
-      <title>Debugging WASM in Chrome DevTools</title>
-      <link>https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</link>
-      <guid>https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</guid>
-      <pubDate>Thu, 23 Apr 2026 02:23:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This post provides a practical guide on using Chrome DevTools to debug WebAssembly (WASM) code. It covers the setup process, including local server requirements, and demonstrates how to navigate the Sources panel to set breakpoints and inspect execution states.</description>
-    </item>
-
-    <item>
-      <title>Do you really want the US to “win” AI?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</guid>
-      <pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critically examines the power dynamics and ideological leanings of key figures in the AI industry, such as Elon Musk, Sam Altman, and the leadership at Anthropic. The piece argues against the prevailing 'win-at-all-costs' mentality, suggesting that the current approach to AI development risks creating a society that prioritizes ego and control over truly open and beneficial innovation.</description>
-    </item>
-
-    <item>
-      <title>Construction Costs Rarely Fall</title>
-      <link>https://www.construction-physics.com/p/construction-costs-rarely-fall</link>
-      <guid>https://www.construction-physics.com/p/construction-costs-rarely-fall</guid>
-      <pubDate>Thu, 23 Apr 2026 12:02:35 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>The construction industry faces a unique challenge where productivity remains stagnant or declines, contrasting sharply with the growth seen in manufacturing and agriculture. This persistent trend indicates that construction costs rarely decrease over time in developed nations.</description>
-    </item>
-
-    <item>
-      <title>Why prediction markets are a sure sign that our civilisation is in decay</title>
-      <link>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</link>
-      <guid>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</guid>
-      <pubDate>Thu, 23 Apr 2026 03:10:02 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The article argues that prediction markets are a symptom of civilizational decay. While acknowledging their functional utility and technical success, the author contends that their broader societal impact is fundamentally corrosive.</description>
-    </item>
-
-    <item>
-      <title>Approximation to solve an oblique triangle</title>
-      <link>https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</guid>
-      <pubDate>Thu, 23 Apr 2026 15:56:02 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores a mathematical approximation for calculating the angles of an oblique triangle. It extends previous work on right triangles to provide a simplified method for solving triangle geometry using radians.</description>
-    </item>
-
-    <item>
-      <title>Simple approximation for solving a right triangle</title>
-      <link>https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</guid>
-      <pubDate>Thu, 23 Apr 2026 12:13:35 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post introduces a surprisingly accurate and simple approximation formula for calculating the angle of a right triangle. The method estimates the angle opposite the shortest side using only basic arithmetic involving the triangle's sides.</description>
-    </item>
-
-    <item>
-      <title>Another crash caused by uninstaller code injection into Explorer</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</guid>
-      <pubDate>Thu, 23 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a recurring technical issue where uninstaller software causes Windows Explorer to crash by injecting code into its process. The author highlights the inherent dangers of modifying a system component while it is actively running.</description>
-    </item>
-
-    <item>
-      <title>Sneaky spam in conversational replies to blog posts</title>
-      <link>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</guid>
-      <pubDate>Thu, 23 Apr 2026 11:34:48 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author discusses the challenge of managing spam comments on their blog, specifically identifying a sophisticated 'conversational' spam technique where multiple accounts reply to one another. Despite using automated filtering tools like Antispam Bee, some deceptive spam continues to evade detection.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/23/poison-pill/</link>
-      <guid>https://pluralistic.net/2026/04/23/poison-pill/</guid>
-      <pubDate>Thu, 23 Apr 2026 12:25:06 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>The article discusses the controversial tool Malus.sh, which uses LLMs to refactor open-source software into 'clean room' versions to bypass original licensing obligations. The creator intended this as a provocative project to highlight the existential threat AI-driven reverse engineering poses to the free software commons.</description>
-    </item>
-
-    <item>
-      <title>Extract PDF text in your browser with LiteParse for the web</title>
-      <link>https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</guid>
-      <pubDate>Thu, 23 Apr 2026 21:54:24 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison discusses adapting the LiteParse Node.js CLI tool to run entirely within a web browser. The article highlights how LiteParse handles complex spatial text parsing without AI models and explores the potential of using visual citations to improve the credibility of RAG-based applications.</description>
-    </item>
-
-    <item>
-      <title>A pelican for GPT-5.5 via the semi-official Codex backdoor API</title>
-      <link>https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</guid>
-      <pubDate>Thu, 23 Apr 2026 19:59:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses the release of OpenAI's GPT-5.5 model, noting its current availability for ChatGPT subscribers while highlighting the absence of a public API. It explores the tension regarding third-party tools like OpenClaw accessing subscription-based model features via unofficial API pathways.</description>
-    </item>
-
-    <item>
-      <title>Quoting Maggie Appleton</title>
-      <link>https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything</guid>
-      <pubDate>Thu, 23 Apr 2026 13:35:37 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the career benefits of 'learning in public' through practices like digital gardening or content creation. By sharing knowledge openly, individuals can enhance their perceived competence and gain access to exclusive professional networks.</description>
     </item>
   </channel>
 </rss>
