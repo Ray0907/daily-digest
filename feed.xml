@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 01 May 2026 22:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 22:10:38 GMT</lastBuildDate>
     
+    <item>
+      <title>Scaling, stretching and shifting sinusoids</title>
+      <link>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</link>
+      <guid>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</guid>
+      <pubDate>Sat, 02 May 2026 14:17:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article provides a mathematical explanation of how to modify the standard sine function by adjusting its amplitude, frequency, and phase shift. It breaks down each parameter to demonstrate how they influence the shape and position of the waveform.</description>
+    </item>
+
+    <item>
+      <title>Reading List 05/02/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-05022026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-05022026</guid>
+      <pubDate>Sat, 02 May 2026 12:01:30 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This digest explores current trends in the build-to-rent sector and the scalability of robotic manufacturing. It also covers shifts in energy infrastructure, specifically PJM's interconnection queue and emerging challenges for battery storage systems.</description>
+    </item>
+
+    <item>
+      <title>A GitHub for maintainers</title>
+      <link>https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</link>
+      <guid>https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</guid>
+      <pubDate>Sat, 02 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author argues that GitHub replacements focus too heavily on individual client-side development tasks rather than the inter-project coordination that maintainers actually need. They propose that future forges should better model cross-repository relationships, such as dependency tracking and downstream testing, to improve the reliability of software ecosystems.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/02/denazification/</link>
+      <guid>https://pluralistic.net/2026/05/02/denazification/</guid>
+      <pubDate>Sat, 02 May 2026 11:22:11 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post from Cory Doctorow's Pluralistic blog explores the unexpected political shifts under the Trump administration, highlighting how its policies are inadvertently forcing the Democratic Party toward a more populist, worker-centric stance. The article discusses ongoing legislative efforts to dismantle corrupt corporate mergers and contrasts this with historical political compromises.</description>
+    </item>
+
+    <item>
+      <title>Editing my LLM assisted Articles </title>
+      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
+      <guid>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
+      <pubDate>Sat, 02 May 2026 03:00:23 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author shares their experience of rewriting AI-generated articles to better reflect their authentic voice and original intent. By providing before-and-after examples, they demonstrate how to refine content while discussing the creative value of building experimental, 'useless' programming projects.</description>
+    </item>
+
+    <item>
+      <title>Disable Auto-Update </title>
+      <link>https://idiallo.com/blog/disable-auto-update?src=feed</link>
+      <guid>https://idiallo.com/blog/disable-auto-update?src=feed</guid>
+      <pubDate>Fri, 01 May 2026 23:30:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author argues against automatic app updates, citing instances where developers add invasive data collection, subscription requirements, or intrusive advertising to once-simple tools. By disabling updates, users can preserve the functionality of legacy apps that already work perfectly offline without unnecessary bloat.</description>
+    </item>
+
+    <item>
+      <title>Sightings</title>
+      <link>https://simonwillison.net/2026/May/2/sightings/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/2/sightings/#atom-everything</guid>
+      <pubDate>Sat, 02 May 2026 17:26:40 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has updated his personal blog to automatically syndicate wildlife photographs from his iNaturalist account. The new 'Sightings' feature integrates historical and current bird and animal sightings into his site's homepage, search, and archive pages.</description>
+    </item>
+
     <item>
       <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
       <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
@@ -841,69 +904,6 @@
       <pubDate>Fri, 24 Apr 2026 04:23:11 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison developed a simple web-based millisecond converter tool to quickly translate LLM prompt durations into readable seconds and minutes. This utility addresses the inefficiency of manual calculation for technical performance data.</description>
-    </item>
-
-    <item>
-      <title>It's a big one</title>
-      <link>https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 04:09:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison's latest newsletter update highlights a collection of creative AI-generated images and curated content. It also introduces a new chapter in his ongoing series on Agentic Engineering Patterns.</description>
-    </item>
-
-    <item>
-      <title>russellromney/honker</title>
-      <link>https://simonwillison.net/2026/Apr/24/honker/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/honker/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 01:50:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Honker is a Rust-based SQLite extension that provides Postgres-style NOTIFY/LISTEN semantics for event messaging. It enables developers to implement task queues and Kafka-like durable streams directly within SQLite databases.</description>
-    </item>
-
-    <item>
-      <title>An update on recent Claude Code quality reports</title>
-      <link>https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 01:31:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic released a postmortem explaining that a decline in Claude Code's performance was due to technical bugs in its infrastructure rather than the AI models themselves. Simon Willison highlights how these complex harness issues serve as a valuable case study for developers building agentic systems.</description>
-    </item>
-
-    <item>
-      <title>Serving the For You feed</title>
-      <link>https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 01:08:17 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post explores the technical architecture behind Bluesky's 'For You' feed, which is managed by a single developer using a home server and SQLite. It highlights how a cost-effective, decentralized system can handle significant scale by leveraging efficient data processing and simple infrastructure.</description>
-    </item>
-
-    <item>
-      <title>llm-openai-via-codex 0.1a0</title>
-      <link>https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything</guid>
-      <pubDate>Thu, 23 Apr 2026 19:22:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released a new utility, llm-openai-via-codex, which allows users to perform LLM API calls by repurposing existing Codex CLI credentials. This tool provides a bridge for users to leverage their current authentication for OpenAI models.</description>
-    </item>
-
-    <item>
-      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
-      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>New USB 3.2 adapters based on the RTL8159 chip offer a smaller, cooler, and more affordable alternative to traditional Thunderbolt 10 GbE solutions. These devices address the previous market gap for high-bandwidth networking in a portable form factor.</description>
-    </item>
-
-    <item>
-      <title>Software engineering may no longer be a lifetime career</title>
-      <link>https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</link>
-      <guid>https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the shifting landscape of software engineering, questioning whether it remains a sustainable lifelong career path. It examines factors like ageism, rapid technological turnover, and market saturation that challenge traditional notions of industry longevity.</description>
     </item>
   </channel>
 </rss>

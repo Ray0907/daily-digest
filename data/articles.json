@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-05-01T22:14:39.388Z",
+  "last_updated": "2026-05-02T22:10:38.451Z",
   "articles": [
+    {
+      "id": "8b083fd5283b6063",
+      "title": "Scaling, stretching and shifting sinusoids",
+      "url": "https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-05-02T14:17:00.000Z",
+      "summary_en": "This article provides a mathematical explanation of how to modify the standard sine function by adjusting its amplitude, frequency, and phase shift. It breaks down each parameter to demonstrate how they influence the shape and position of the waveform.",
+      "summary_zh": "本文詳細介紹了如何通過調整振幅、頻率和相位偏移來修改標準正弦函數。文中逐一解析了這些參數如何影響波形的形狀與位置。",
+      "keywords": [
+        "sinusoid",
+        "mathematics",
+        "trigonometry",
+        "amplitude",
+        "frequency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how mathematical parameters influence the properties of a sinusoid function.",
+      "pacer_reason_zh": "本文針對數學參數如何影響正弦函數特性提供了概念性的解釋。"
+    },
+    {
+      "id": "bd8bd6534a3965e0",
+      "title": "Reading List 05/02/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-05022026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-02T12:01:30.000Z",
+      "summary_en": "This digest explores current trends in the build-to-rent sector and the scalability of robotic manufacturing. It also covers shifts in energy infrastructure, specifically PJM's interconnection queue and emerging challenges for battery storage systems.",
+      "summary_zh": "本期摘要探討了租賃住宅領域的趨勢與機器人製造的擴展潛力。內容同時涵蓋能源基礎設施的變革，特別是 PJM 的互連排程及電池儲能系統面臨的阻力。",
+      "keywords": [
+        "build-to-rent",
+        "robotics",
+        "energy storage",
+        "PJM",
+        "construction"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content is a curated list of links and topical summaries acting as a reference for current industry developments.",
+      "pacer_reason_zh": "本文屬於彙整連結與議題摘要的閱讀清單，作為行業最新發展的參考資料。"
+    },
+    {
+      "id": "ab8b107c3c328e43",
+      "title": "A GitHub for maintainers",
+      "url": "https://nesbitt.io/2026/05/02/a-github-for-maintainers.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-02T10:00:00.000Z",
+      "summary_en": "The author argues that GitHub replacements focus too heavily on individual client-side development tasks rather than the inter-project coordination that maintainers actually need. They propose that future forges should better model cross-repository relationships, such as dependency tracking and downstream testing, to improve the reliability of software ecosystems.",
+      "summary_zh": "作者認為目前的 GitHub 替代方案過度關注個人客戶端的開發體驗，卻忽略了維護者真正需要的跨專案協作功能。他建議未來的程式碼託管平台應更妥善地處理儲存庫之間的關聯，例如依賴關係追蹤與下游自動化測試，以提升軟體生態系統的可靠性。",
+      "keywords": [
+        "GitHub",
+        "maintainer",
+        "dependencies",
+        "software ecosystem",
+        "code forge"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument for rethinking the role of code forges, moving beyond individual task management toward ecosystem-level coordination.",
+      "pacer_reason_zh": "本文提出了一個關於重新思考程式碼託管平台角色的概念性觀點，強調應從個人任務管理轉向生態系統層級的協作支援。"
+    },
+    {
+      "id": "6f4e686150a5373f",
+      "title": "Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)",
+      "url": "https://pluralistic.net/2026/05/02/denazification/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-02T11:22:11.000Z",
+      "summary_en": "This post from Cory Doctorow's Pluralistic blog explores the unexpected political shifts under the Trump administration, highlighting how its policies are inadvertently forcing the Democratic Party toward a more populist, worker-centric stance. The article discusses ongoing legislative efforts to dismantle corrupt corporate mergers and contrasts this with historical political compromises.",
+      "summary_zh": "這篇來自 Cory Doctorow 的 Pluralistic 部落格文章，探討了川普政府執政下意想不到的政治轉變，並強調這些政策如何迫使民主黨轉向更具民粹主義與工人階級利益的立場。文中討論了目前撤銷腐敗企業合併的立法工作，並將其與過去的政治妥協進行了對比。",
+      "keywords": [
+        "politics",
+        "Democratic Party",
+        "antitrust",
+        "Cory Doctorow",
+        "populism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides conceptual commentary and political analysis on current events and shifting ideological landscapes.",
+      "pacer_reason_zh": "該內容針對當前時事與政治意識形態的轉變提供了概念性的評論與分析。"
+    },
+    {
+      "id": "221999a86f0f88b4",
+      "title": "Editing my LLM assisted Articles ",
+      "url": "https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-02T03:00:23.000Z",
+      "summary_en": "The author shares their experience of rewriting AI-generated articles to better reflect their authentic voice and original intent. By providing before-and-after examples, they demonstrate how to refine content while discussing the creative value of building experimental, 'useless' programming projects.",
+      "summary_zh": "作者分享了重寫 AI 生成文章的經驗，旨在找回個人真實語調並表達最初的寫作意圖。透過展示修改前後的對比，作者探討了如何優化內容，同時討論了開發實驗性「無用」程式專案對職涯成長的價值。",
+      "keywords": [
+        "AI writing",
+        "content editing",
+        "authentic voice",
+        "programming journey",
+        "side projects"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a process-oriented guide, showing the author's workflow for editing AI-assisted writing.",
+      "pacer_reason_zh": "本文主要作為流程導向的指南，展示了作者在編輯 AI 輔助寫作時的工作流程。"
+    },
+    {
+      "id": "0cfaba3fb71c09cb",
+      "title": "Disable Auto-Update ",
+      "url": "https://idiallo.com/blog/disable-auto-update?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-01T23:30:00.000Z",
+      "summary_en": "The author argues against automatic app updates, citing instances where developers add invasive data collection, subscription requirements, or intrusive advertising to once-simple tools. By disabling updates, users can preserve the functionality of legacy apps that already work perfectly offline without unnecessary bloat.",
+      "summary_zh": "作者主張停用自動更新，以避免開發人員在應用程式中加入不必要的訂閱機制、資料收集或干擾性的廣告。透過保留舊版應用程式，使用者能確保軟體維持原本簡潔、離線且無干擾的使用體驗。",
+      "keywords": [
+        "auto-update",
+        "digital privacy",
+        "software maintenance",
+        "legacy apps",
+        "user control"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual problem of software degradation through updates and advocates for a specific user philosophy.",
+      "pacer_reason_zh": "內容闡述了軟體更新導致功能退化的概念性問題，並提倡特定的使用者數位自主哲學。"
+    },
+    {
+      "id": "1aa1432e45e77fe3",
+      "title": "Sightings",
+      "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-02T17:26:40.000Z",
+      "summary_en": "Simon Willison has updated his personal blog to automatically syndicate wildlife photographs from his iNaturalist account. The new 'Sightings' feature integrates historical and current bird and animal sightings into his site's homepage, search, and archive pages.",
+      "summary_zh": "Simon Willison 更新了他的個人部落格，將 iNaturalist 帳號中的野生動物攝影紀錄自動同步至網站。這項名為「Sightings」的新功能將歷史及最新的觀測紀錄整合進了他的首頁、搜尋與存檔頁面中。",
+      "keywords": [
+        "iNaturalist",
+        "syndication",
+        "wildlife photography",
+        "web development",
+        "blogging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post documents the development process of adding a new feature to the author's blog, including links to the PR and prompt used.",
+      "pacer_reason_zh": "這篇文章記錄了作者為部落格新增功能的開發過程，並提供了相關的程式碼提交（PR）與提示詞連結。"
+    },
     {
       "id": "d1ce7fe94c7c987c",
       "title": "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
