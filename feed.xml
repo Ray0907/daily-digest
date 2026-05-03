@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 02 May 2026 22:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:11:31 GMT</lastBuildDate>
     
+    <item>
+      <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
+      <link>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
+      <guid>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</guid>
+      <pubDate>Sun, 03 May 2026 06:44:00 GMT</pubDate>
+      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
+      <description>This article explores the technical history and current recovery efforts surrounding the unreleased Apple Network Server ROMs designed to boot MacOS and Windows NT. The author details the process of testing these rare components on specific server hardware to evaluate their compatibility and performance compared to the officially supported AIX.</description>
+    </item>
+
+    <item>
+      <title>callgraph analysis</title>
+      <link>https://jyn.dev/callgraph-analysis/</link>
+      <guid>https://jyn.dev/callgraph-analysis/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://jyn.dev/">the website of jyn</source>
+      <description>The author discusses how to implement a custom linting tool that leverages a program's full call graph. This technique allows developers to perform deeper static analysis for code quality and structure validation.</description>
+    </item>
+
+    <item>
+      <title>Punk, or why I don’t stream anymore</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</guid>
+      <pubDate>Sun, 03 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author critiques the shift from authentic participation in hacker culture to the 'spectacle' of streaming and algorithmic consumption. They argue that AI and modern social platforms foster a loss of individual identity, replacing real-world experience with passive, pre-digested content.</description>
+    </item>
+
+    <item>
+      <title>QuickQWERTY 1.2.3</title>
+      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
+      <guid>https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>QuickQWERTY 1.2.3 is a minor update for the web-based touch typing tutor. This release resolves two specific bugs, including a broken license link and an unnecessary dialog box triggered when selecting keyboard split preferences.</description>
+    </item>
+
+    <item>
+      <title>Reinventing the Wheel</title>
+      <link>https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</link>
+      <guid>https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</guid>
+      <pubDate>Sun, 03 May 2026 13:41:32 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the historical attempts to reinvent the wheel, specifically focusing on alternative locomotion technologies like Archimedes screw vehicles. It highlights the inherent limitations of traditional wheels and examines past patents and experimental designs aimed at overcoming these constraints.</description>
+    </item>
+
+    <item>
+      <title>png-cmp: like cmp for PNGs</title>
+      <link>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</link>
+      <guid>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>Evan Hahn introduces png-cmp, a command-line tool designed to determine if two PNG images are visually identical. Unlike standard binary comparison tools, it specifically analyzes pixel data while ignoring metadata differences.</description>
+    </item>
+
+    <item>
+      <title>Minimal Viable Zig Error Contexts</title>
+      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
+      <guid>https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The article explores a lightweight approach to improving error reporting in the Zig programming language. It suggests using the `errdefer` pattern to provide contextual information, such as file paths, without the boilerplate overhead of complex diagnostic sinks.</description>
+    </item>
+
+    <item>
+      <title>The shape of a guitar pick</title>
+      <link>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</guid>
+      <pubDate>Sun, 03 May 2026 20:49:41 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the geometric transformation resulting from the equation (log x)² + (log y)² = 1. By comparing the standard unit circle to its logarithmic counterpart, the author reveals how this function generates a shape resembling a guitar pick.</description>
+    </item>
+
+    <item>
+      <title>Vertically Aligning Roman Numerals in Code</title>
+      <link>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</guid>
+      <pubDate>Sun, 03 May 2026 11:34:59 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author discusses the challenge of vertically aligning Roman numeral characters in code due to their inconsistent widths. They explore the typographic issues with using Unicode Roman numerals and provide a practical solution for better layout alignment.</description>
+    </item>
+
+    <item>
+      <title>Quoting Anthropic</title>
+      <link>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</guid>
+      <pubDate>Sun, 03 May 2026 15:13:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights Anthropic's research on sycophantic behavior in the Claude model when providing personal guidance. The data shows that while sycophancy is generally low, it increases significantly in discussions regarding spirituality and relationships.</description>
+    </item>
+
+    <item>
+      <title>Why I don't like the &quot;staff engineer archetypes&quot;</title>
+      <link>https://seangoedecke.com/staff-engineer-archetypes/</link>
+      <guid>https://seangoedecke.com/staff-engineer-archetypes/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>The author critiques common frameworks used to categorize staff engineer roles, arguing that these rigid archetypes often fail to capture the nuanced reality of the position. Instead of relying on labels, the post suggests a more fluid approach to understanding engineering leadership.</description>
+    </item>
+
     <item>
       <title>Scaling, stretching and shifting sinusoids</title>
       <link>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</link>
@@ -805,105 +904,6 @@
       <pubDate>Fri, 24 Apr 2026 23:35:07 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison released llm version 0.31, which introduces support for the new GPT-5.5 model. It also adds configuration options for text verbosity and image detail levels when interacting with OpenAI models.</description>
-    </item>
-
-    <item>
-      <title>The people do not yearn for automation</title>
-      <link>https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 22:38:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses Nilay Patel's concept of 'software brain,' where tech-centric individuals mistakenly believe everyone desires constant automation. It argues that the public's backlash against AI stems from the realization that such technology flattens the human experience and reduces life to data-driven business loops.</description>
-    </item>
-
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</link>
-      <guid>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 24 Apr 2026 16:09:50 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>This entry explores the historical significance and development of 'The Bard', a classic role-playing game. It details the game's cultural impact and technical evolution during its era.</description>
-    </item>
-
-    <item>
-      <title>Positivity</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/24/positivity.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/04/24/positivity.html</guid>
-      <pubDate>Thu, 23 Apr 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author reflects on the importance of maintaining a positive outlook amidst the rapid evolution of technology and global societal shifts. By highlighting advancements in AI, the rise of open-source projects, and the unique strengths of modern nations, the piece encourages acknowledging current progress rather than solely focusing on criticisms.</description>
-    </item>
-
-    <item>
-      <title>Blog prize for the big questions about AI</title>
-      <link>https://www.dwarkesh.com/p/blog-prize</link>
-      <guid>https://www.dwarkesh.com/p/blog-prize</guid>
-      <pubDate>Fri, 24 Apr 2026 16:37:49 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>The Dwarkesh Podcast has launched a blog prize contest aimed at exploring significant questions regarding artificial intelligence. The primary objective behind this initiative is to identify and recruit a talented researcher.</description>
-    </item>
-
-    <item>
-      <title>A Plethora of Tweezers</title>
-      <link>https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</link>
-      <guid>https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</guid>
-      <pubDate>Fri, 24 Apr 2026 03:00:00 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the historical significance and practical utility of tweezers, tracing their use back to ancient Egypt and India. It highlights the humble tool's role in solving small-scale problems and touches upon niche services like professional tweezer resharpening.</description>
-    </item>
-
-    <item>
-      <title>Equity for Europeans</title>
-      <link>https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</link>
-      <guid>https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author explores the linguistic and cultural difficulties Europeans face when trying to understand the multifaceted American concept of 'equity.' By contrasting common-law traditions with continental civil-law systems, the post highlights how the lack of a direct translation in languages like German impacts financial and social understanding.</description>
-    </item>
-
-    <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the trade-offs and complexity of handling exceptions within a scope_exit RAII object in C++. It questions whether the overhead and design challenges required to make such objects exception-safe are truly worth the effort.</description>
-    </item>
-
-    <item>
-      <title>Does Mythos mean you need to shut down your Open Source repositories?</title>
-      <link>https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</guid>
-      <pubDate>Fri, 24 Apr 2026 11:34:30 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author argues that shutting down open source repositories in response to the 'Mythos' AI is unnecessary and ineffective. Since open source code has already been ingested for AI training purposes, closing projects now provides no additional security.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</link>
-      <guid>https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</guid>
-      <pubDate>Fri, 24 Apr 2026 12:50:06 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow discusses his ongoing effort to make abstract tech policy issues more accessible through the coining of the term 'enshittification' and his use of visual collages. By combining public domain imagery with provocative concepts, he aims to engage the public in critical discussions about digital platforms and corporate behavior.</description>
-    </item>
-
-    <item>
-      <title>DeepSeek V4 - almost on the frontier, a fraction of the price</title>
-      <link>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 06:01:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison examines the release of DeepSeek's new V4-Pro and V4-Flash models, noting their impressive scale and efficiency. He highlights the model specifications and shares his initial experience testing them via OpenRouter.</description>
-    </item>
-
-    <item>
-      <title>Millisecond Converter</title>
-      <link>https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 04:23:11 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison developed a simple web-based millisecond converter tool to quickly translate LLM prompt durations into readable seconds and minutes. This utility addresses the inefficiency of manual calculation for technical performance data.</description>
     </item>
   </channel>
 </rss>

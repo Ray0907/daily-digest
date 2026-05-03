@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-05-02T22:10:38.451Z",
+  "last_updated": "2026-05-03T22:11:31.464Z",
   "articles": [
+    {
+      "id": "7714a0db634311d2",
+      "title": "Testing MacOS on the Apple Network Server 2.0 ROMs",
+      "url": "https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-05-03T06:44:00.000Z",
+      "summary_en": "This article explores the technical history and current recovery efforts surrounding the unreleased Apple Network Server ROMs designed to boot MacOS and Windows NT. The author details the process of testing these rare components on specific server hardware to evaluate their compatibility and performance compared to the officially supported AIX.",
+      "summary_zh": "本文探討了 Apple Network Server 未發布的 MacOS 與 Windows NT 啟動 ROM 的技術歷史及恢復過程。作者詳細記錄了在特定伺服器硬體上測試這些稀有組件的過程，並評估其與官方支援的 AIX 相比的相容性與效能表現。",
+      "keywords": [
+        "Apple Network Server",
+        "MacOS",
+        "ROM",
+        "Retro Computing",
+        "Vintage Apple"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on testing, benchmarking, and experimental results obtained from running rare ROMs on specific hardware.",
+      "pacer_reason_zh": "本文重點在於測試、效能基準評估，以及在特定硬體上運行稀有 ROM 的實驗結果。"
+    },
+    {
+      "id": "60063bfe0b2c0125",
+      "title": "callgraph analysis",
+      "url": "https://jyn.dev/callgraph-analysis/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-05-03T00:00:00.000Z",
+      "summary_en": "The author discusses how to implement a custom linting tool that leverages a program's full call graph. This technique allows developers to perform deeper static analysis for code quality and structure validation.",
+      "summary_zh": "作者分享了如何實作一個自定義代碼檢查工具（lint），並利用程式的完整調用圖（call graph）進行深度分析。這種方法能幫助開發者在靜態分析中更有效地驗證代碼結構與品質。",
+      "keywords": [
+        "callgraph",
+        "static analysis",
+        "linting",
+        "software engineering",
+        "code quality"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on implementing custom linting using call graph analysis.",
+      "pacer_reason_zh": "該文章旨在引導讀者如何透過調用圖分析來實作自定義的代碼檢查工具。"
+    },
+    {
+      "id": "a88907848248da0d",
+      "title": "Punk, or why I don’t stream anymore",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-03T07:00:00.000Z",
+      "summary_en": "The author critiques the shift from authentic participation in hacker culture to the 'spectacle' of streaming and algorithmic consumption. They argue that AI and modern social platforms foster a loss of individual identity, replacing real-world experience with passive, pre-digested content.",
+      "summary_zh": "作者批評駭客文化已從真實的參與轉變為「奇觀式」的串流與消費。文章認為，人工智慧與現代社群平台導致了個人身份的喪失，並以被動、預先咀嚼過的內容取代了真實世界的體驗。",
+      "keywords": [
+        "hacker culture",
+        "spectacle",
+        "AI",
+        "identity",
+        "consumption"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique of cultural shifts, identity, and the impact of technology on human agency.",
+      "pacer_reason_zh": "這是一篇關於文化轉變、個人身份以及科技對人類主動性影響的概念性評論。"
+    },
+    {
+      "id": "00d9b9dbde28b8c6",
+      "title": "QuickQWERTY 1.2.3",
+      "url": "https://susam.net/code/news/quickqwerty/1.2.3.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-03T00:00:00.000Z",
+      "summary_en": "QuickQWERTY 1.2.3 is a minor update for the web-based touch typing tutor. This release resolves two specific bugs, including a broken license link and an unnecessary dialog box triggered when selecting keyboard split preferences.",
+      "summary_zh": "QuickQWERTY 1.2.3 是此網頁版打字練習工具的小幅更新。此次更新修復了兩個錯誤，包括失效的授權連結以及切換鍵盤分割設定時會出現的多餘對話框。",
+      "keywords": [
+        "QuickQWERTY",
+        "typing tutor",
+        "web app",
+        "software update",
+        "bug fix"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release note/reference document for a software project update.",
+      "pacer_reason_zh": "本文內容為軟體更新發布說明，屬於參考性質文件。"
+    },
+    {
+      "id": "41ec5c30a3a98ddb",
+      "title": "Reinventing the Wheel",
+      "url": "https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-05-03T13:41:32.000Z",
+      "summary_en": "This article explores the historical attempts to reinvent the wheel, specifically focusing on alternative locomotion technologies like Archimedes screw vehicles. It highlights the inherent limitations of traditional wheels and examines past patents and experimental designs aimed at overcoming these constraints.",
+      "summary_zh": "本文探討了重塑車輪的歷史嘗試，特別是針對阿基米德螺桿車輛等替代性移動技術。文中指出傳統車輪的固有侷限性，並回顧了過去為克服這些障礙所提出的專利設計與實驗性發明。",
+      "keywords": [
+        "invention",
+        "locomotion",
+        "engineering",
+        "history",
+        "innovation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of the limitations of the wheel and the theoretical history of alternative locomotion inventions.",
+      "pacer_reason_zh": "本文針對車輪的侷限性以及替代性移動發明的理論歷史進行了概念性的探討。"
+    },
+    {
+      "id": "5e2f323ab5686327",
+      "title": "png-cmp: like cmp for PNGs",
+      "url": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-05-03T00:00:00.000Z",
+      "summary_en": "Evan Hahn introduces png-cmp, a command-line tool designed to determine if two PNG images are visually identical. Unlike standard binary comparison tools, it specifically analyzes pixel data while ignoring metadata differences.",
+      "summary_zh": "Evan Hahn 介紹了 png-cmp，這是一個用來比對兩張 PNG 圖片是否視覺相同的命令列工具。與傳統的二進位比較工具不同，它專注於像素數據分析，並會自動忽略元數據的差異。",
+      "keywords": [
+        "png-cmp",
+        "image-comparison",
+        "command-line-tool",
+        "pixel-data",
+        "development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a specific tool and demonstrates its practical command-line usage.",
+      "pacer_reason_zh": "本文介紹了一款特定的開發工具，並示範了其實際的命令列使用方式。"
+    },
+    {
+      "id": "a5d70471be5e3860",
+      "title": "Minimal Viable Zig Error Contexts",
+      "url": "https://matklad.github.io/2026/05/03/zig-error-context.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-03T00:00:00.000Z",
+      "summary_en": "The article explores a lightweight approach to improving error reporting in the Zig programming language. It suggests using the `errdefer` pattern to provide contextual information, such as file paths, without the boilerplate overhead of complex diagnostic sinks.",
+      "summary_zh": "本文探討了改善 Zig 程式語言錯誤回報的輕量級方法。建議利用 `errdefer` 模式來提供如檔案路徑等關聯資訊，從而避免傳統診斷模式中繁瑣的編碼工作。",
+      "keywords": [
+        "Zig",
+        "Error Handling",
+        "errdefer",
+        "Programming",
+        "Code Quality"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content provides a specific coding pattern and practical technique for improving error handling workflows in Zig.",
+      "pacer_reason_zh": "內容提供了一種具體的程式碼編寫模式與實用技巧，用於改善 Zig 語言中的錯誤處理工作流程。"
+    },
+    {
+      "id": "f30f75bae085419f",
+      "title": "The shape of a guitar pick",
+      "url": "https://www.johndcook.com/blog/2026/05/03/guitar-pick/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-03T20:49:41.000Z",
+      "summary_en": "This post explores the geometric transformation resulting from the equation (log x)² + (log y)² = 1. By comparing the standard unit circle to its logarithmic counterpart, the author reveals how this function generates a shape resembling a guitar pick.",
+      "summary_zh": "本文探討了方程式 (log x)² + (log y)² = 1 所產生的幾何變換。透過將標準單位圓與其對數形式進行對比，作者揭示了該函數如何繪製出類似吉他撥片的形狀。",
+      "keywords": [
+        "mathematics",
+        "geometry",
+        "logarithm",
+        "visualization",
+        "functions"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and explores the visual result of a specific function.",
+      "pacer_reason_zh": "本文解釋了數學概念，並探討了特定函數的視覺化結果。"
+    },
+    {
+      "id": "3c5351782707ff08",
+      "title": "Vertically Aligning Roman Numerals in Code",
+      "url": "https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-03T11:34:59.000Z",
+      "summary_en": "The author discusses the challenge of vertically aligning Roman numeral characters in code due to their inconsistent widths. They explore the typographic issues with using Unicode Roman numerals and provide a practical solution for better layout alignment.",
+      "summary_zh": "作者探討了在程式碼中垂直對齊羅馬數字時，因字元寬度不一致而面臨的挑戰。文章分析了使用 Unicode 羅馬數字的排版問題，並提供了一種優化排版對齊的實作解決方案。",
+      "keywords": [
+        "Roman Numerals",
+        "Typography",
+        "PHP",
+        "Unicode",
+        "Code Formatting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post focuses on identifying a specific technical problem and providing a step-by-step approach to fixing the formatting/alignment.",
+      "pacer_reason_zh": "文章針對特定的技術問題進行診斷，並提供了解決格式與對齊問題的操作指南。"
+    },
+    {
+      "id": "1b76c8c3ceb8eb7a",
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-03T15:13:23.000Z",
+      "summary_en": "This post highlights Anthropic's research on sycophantic behavior in the Claude model when providing personal guidance. The data shows that while sycophancy is generally low, it increases significantly in discussions regarding spirituality and relationships.",
+      "summary_zh": "本文引用了 Anthropic 關於 Claude 模型在提供個人指導時表現出「逢迎」（sycophancy）行為的研究。數據顯示，儘管總體逢迎比例不高，但在涉及靈性和人際關係的話題中，該行為出現的頻率顯著增加。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "sycophancy",
+        "AI ethics",
+        "LLMs"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on reporting research data and specific behavioral statistics from Anthropic's model analysis.",
+      "pacer_reason_zh": "內容主要在引用 Anthropic 對模型進行分析後的研究數據與特定行為統計。"
+    },
+    {
+      "id": "3b205665dce4d0e6",
+      "title": "Why I don't like the \"staff engineer archetypes\"",
+      "url": "https://seangoedecke.com/staff-engineer-archetypes/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-03T00:00:00.000Z",
+      "summary_en": "The author critiques common frameworks used to categorize staff engineer roles, arguing that these rigid archetypes often fail to capture the nuanced reality of the position. Instead of relying on labels, the post suggests a more fluid approach to understanding engineering leadership.",
+      "summary_zh": "作者批評了將主任工程師（Staff Engineer）角色劃分為特定原型的常見框架，認為這些僵化的分類往往無法捕捉到該職位的真實細微差別。文章建議應採取更靈活的方法來理解工程領導力，而非依賴標籤。",
+      "keywords": [
+        "staff engineer",
+        "engineering leadership",
+        "career development",
+        "tech management",
+        "archetypes"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a critical conceptual analysis of leadership archetypes rather than a tutorial or data-heavy report.",
+      "pacer_reason_zh": "本文針對領導力原型提出了批判性的概念分析，而非教學指南或數據報告。"
+    },
     {
       "id": "8b083fd5283b6063",
       "title": "Scaling, stretching and shifting sinusoids",
