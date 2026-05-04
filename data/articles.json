@@ -1,6 +1,225 @@
 {
-  "last_updated": "2026-05-03T22:11:31.464Z",
+  "last_updated": "2026-05-04T22:18:42.637Z",
   "articles": [
+    {
+      "id": "779e8c793e4c6f70",
+      "title": "29th August 2026: a scenario",
+      "url": "https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-05-04T00:00:00.000Z",
+      "summary_en": "This piece explores the implications of AI on cloud security through a fictional narrative. By shifting from technical jargon to a scenario-based approach, the author aims to communicate complex security challenges to a broader audience.",
+      "summary_zh": "本文透過虛構情境探討人工智慧對雲端安全的影響。作者試圖擺脫晦澀的技術術語，改以敘事方式讓更廣泛的受眾理解複雜的安全挑戰。",
+      "keywords": [
+        "AI",
+        "cloud security",
+        "scenario",
+        "narrative",
+        "cybersecurity"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a fictional scenario as an analogy to explain complex technical changes in cloud security.",
+      "pacer_reason_zh": "本文使用虛構情境作為類比，以解釋雲端安全領域中複雜的技術變革。"
+    },
+    {
+      "id": "1d1a1cb59c729269",
+      "title": "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
+      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-05-03T19:00:00.000Z",
+      "summary_en": "The author advocates for building websites using multiple simple HTML pages rather than complex JavaScript-based in-page interactions. By leveraging standard links enhanced with CSS view transitions, this approach ensures functionality remains robust across all devices while providing a modern user experience.",
+      "summary_zh": "作者提倡使用多個簡單的 HTML 頁面來構建網站，而非依賴複雜的 JavaScript 頁面內交互。透過結合標準連結與 CSS 視圖轉場效果，這種方法不僅能確保網站在各種裝置上的兼容性，同時也能提供現代化的使用者體驗。",
+      "keywords": [
+        "HTML",
+        "Web Development",
+        "CSS View Transitions",
+        "Progressive Enhancement",
+        "JavaScript"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a specific technical approach for building websites using HTML navigation, providing code snippets as a tutorial.",
+      "pacer_reason_zh": "文章說明了一種透過 HTML 導航構建網站的特定技術方法，並提供了程式碼片段作為實作教學。"
+    },
+    {
+      "id": "92d93496e4adf869",
+      "title": "From RSS to Atom",
+      "url": "https://susam.net/from-rss-to-atom.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-04T00:00:00.000Z",
+      "summary_en": "The author details their decision to migrate their personal website's syndication feed from RSS to Atom in 2026. The process involved a quick coding session using Common Lisp, which served as a relaxing break from intense academic studies.",
+      "summary_zh": "作者分享了其在 2026 年將個人網站的訂閱來源從 RSS 遷移到 Atom 的過程。這項工作是作者在繁忙的學術研究空檔中，透過 Common Lisp 進行的「衝動編碼」實踐，不僅完成了技術更新，也成為了放鬆身心的方式。",
+      "keywords": [
+        "RSS",
+        "Atom",
+        "Common Lisp",
+        "web development",
+        "migration"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the author's process and implementation details of migrating from RSS to Atom, serving as a practical account of a technical task.",
+      "pacer_reason_zh": "文章描述了作者從 RSS 遷移到 Atom 的具體過程與實作細節，屬於技術任務的實踐分享。"
+    },
+    {
+      "id": "443d13cb3696dd64",
+      "title": "Package Manager CWEs",
+      "url": "https://nesbitt.io/2026/05/04/package-manager-cwes.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-04T10:00:00.000Z",
+      "summary_en": "This article analyzes common security vulnerabilities (CWEs) found across various package managers by reviewing historical CVE data. It highlights recurring failure patterns, such as archive extraction path traversal, to serve as a guide for developers building or maintaining package management tools.",
+      "summary_zh": "本文透過分析公開的 CVE 安全通報，探討各類套件管理器中常見的安全漏洞（CWE）。作者整理了跨平台的重複性失敗模式，旨在為開發者與維護者提供實用的安全性檢查清單。",
+      "keywords": [
+        "CWE",
+        "CVE",
+        "package manager",
+        "security",
+        "vulnerabilities"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article acts as a curated reference list of common security failure modes and patterns identified in software package managers.",
+      "pacer_reason_zh": "本文整理並列舉了套件管理器中常見的安全性失敗模式與漏洞類型，適合作為開發者的參考指南。"
+    },
+    {
+      "id": "baf0560bfe83e07a",
+      "title": "Content for Content’s Sake",
+      "url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-05-04T00:00:00.000Z",
+      "summary_en": "The author investigates whether the rise of LLM-generated content is influencing current language usage by analyzing their own local coding session data. By comparing word frequency trends against Google search data, the piece suggests that certain vocabulary shifts may be driven by machine-generated output.",
+      "summary_zh": "作者透過分析個人程式設計工作中的詞彙頻率，探討 LLM 生成的內容是否正在影響當前的語言使用。透過對比詞彙趨勢與 Google 搜尋數據，作者認為某些語言習慣的改變可能源自於機器生成的輸出。",
+      "keywords": [
+        "LLM",
+        "language evolution",
+        "data analysis",
+        "coding",
+        "word frequency"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is classified as Evidence because it presents a data-driven investigation using personal coding session logs and Google Trends to test a hypothesis.",
+      "pacer_reason_zh": "該文章被歸類為證據（Evidence），因為它透過個人的程式編寫日誌數據與 Google 趨勢分析來驗證假設，屬於基於數據的研究。"
+    },
+    {
+      "id": "a0853cac3217a517",
+      "title": "How do I inform Windows that I’m writing a binary file?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-04T14:00:00.000Z",
+      "summary_en": "This post clarifies that Windows does not distinguish between binary and text files at the file system level. All files are treated as raw binary data, meaning no specific OS-level flag is required to write binary files.",
+      "summary_zh": "這篇文章說明在檔案系統層級中，Windows 並不會區分二進位檔與文字檔。所有檔案本質上皆為二進位資料，因此在寫入時無需向作業系統特別宣告。",
+      "keywords": [
+        "Windows",
+        "binary files",
+        "file system",
+        "programming",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual clarification regarding how the Windows file system handles file types.",
+      "pacer_reason_zh": "內容針對 Windows 檔案系統如何處理檔案類型提供了概念性的釐清。"
+    },
+    {
+      "id": "f7a5a7d75daf2718",
+      "title": "[RSS Club] Where are you from?",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-04T11:34:40.000Z",
+      "summary_en": "The author shares a method for tracking visitor geography using privacy-first, locally hosted GeoIP statistics. While acknowledging limitations like VPN usage and roaming, the author finds these insights sufficient for personal blog analytics.",
+      "summary_zh": "作者分享了一種使用隱私導向的本地化 GeoIP 統計數據來追蹤部落格訪客地理位置的方法。儘管存在 VPN 和漫遊等誤差因素，作者認為這對於個人部落格的分析需求已足夠使用。",
+      "keywords": [
+        "RSS",
+        "GeoIP",
+        "privacy",
+        "analytics",
+        "blogging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes a specific implementation and personal workflow for adding visitor statistics to a website.",
+      "pacer_reason_zh": "該文章介紹了將訪客統計數據整合至網站的具體實作方法與工作流程。"
+    },
+    {
+      "id": "8f888a779abff501",
+      "title": "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)",
+      "url": "https://pluralistic.net/2026/05/04/hope-in-the-dark/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-04T09:39:28.000Z",
+      "summary_en": "This post discusses Rebecca Solnit's essay on 'demand destruction,' exploring how fossil fuel shortages can trigger permanent behavioral shifts that reduce long-term energy consumption. It frames these crises not just as environmental threats, but as opportunities for structural changes that permanently lower demand for fossil fuels.",
+      "summary_zh": "本文探討了 Rebecca Solnit 關於「需求破壞」的論點，分析化石燃料短缺如何促使民眾改變行為，進而實現長期減少能源需求。文章指出，這類危機不僅是環境威脅，也可能成為推動結構性改革、降低能源依賴的轉機。",
+      "keywords": [
+        "demand destruction",
+        "climate change",
+        "Rebecca Solnit",
+        "fossil fuels",
+        "behavioral economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of demand destruction and how societal reactions to economic pressures lead to systemic change.",
+      "pacer_reason_zh": "本文解釋了「需求破壞」的理論概念，並探討社會對經濟壓力的反應如何引發系統性變革。"
+    },
+    {
+      "id": "7f2d51d86f3497f0",
+      "title": "\nRedis array type: short story of a long development\n",
+      "url": "\nhttp://antirez.com/news/164\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-05-04T14:21:45.000Z",
+      "summary_en": "The author details the development of a new Redis Array data type, highlighting how AI-assisted coding and specification design significantly accelerated the process. The narrative describes transitioning from manual documentation to using LLMs for iterative system design and implementing complex data structures without compromising performance.",
+      "summary_zh": "作者分享了開發 Redis Array 資料類型的過程，強調人工智慧輔助編碼與規格設計如何大幅提升開發效率。文章描述了從手動撰寫規格轉向利用 AI 進行系統設計，並在不妥協效能的前提下實現複雜資料結構的技術經歷。",
+      "keywords": [
+        "Redis",
+        "Array",
+        "AI-assisted programming",
+        "data structures",
+        "software development"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a first-person case study documenting the real-world application and workflow results of using AI in systems programming.",
+      "pacer_reason_zh": "本文屬於第一人稱案例研究，記錄了在系統程式設計中使用人工智慧的實際應用過程與工作流成果。"
+    },
+    {
+      "id": "398b9f083cf0bcd3",
+      "title": "TRE Python binding — ReDoS robustness demo",
+      "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-04T17:52:00.000Z",
+      "summary_en": "Simon Willison explores the TRE regular expression library as a robust alternative to Python's built-in regex, which is vulnerable to ReDoS attacks. By creating a Python binding using ctypes, he demonstrates how TRE's lack of backtracking effectively prevents catastrophic backtracking exploits.",
+      "summary_zh": "Simon Willison 探討了 TRE 正規表示式函式庫，作為 Python 內建函式庫在面對 ReDoS 攻擊時的穩健替代方案。透過使用 ctypes 建立 Python 綁定，他展示了 TRE 因不支援回溯（backtracking），能有效防止災難性回溯攻擊。",
+      "keywords": [
+        "TRE",
+        "Python",
+        "ReDoS",
+        "security",
+        "regular expressions"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents an experimental test case demonstrating the security performance of the TRE library against ReDoS attacks.",
+      "pacer_reason_zh": "文章呈現了一個實驗性的測試案例，展示了 TRE 函式庫針對 ReDoS 攻擊的安全效能。"
+    },
+    {
+      "id": "ac0eb875a27d5deb",
+      "title": "Redis Array Playground",
+      "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-04T15:53:57.000Z",
+      "summary_en": "Simon Willison has created an interactive browser-based playground for Redis's new experimental array data type. The tool allows users to test various commands, including the powerful ARGREP function, using a WASM-compiled version of Redis.",
+      "summary_zh": "Simon Willison 為 Redis 新實驗性的陣列資料型態製作了一個互動式瀏覽器網頁工具。使用者可以透過此工具，利用編譯成 WASM 的 Redis 版本來測試各項指令，包括功能強大的 ARGREP。",
+      "keywords": [
+        "Redis",
+        "Array",
+        "WASM",
+        "ARGREP",
+        "Browser Tool"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces an interactive tool and provides a platform to experiment with new Redis commands.",
+      "pacer_reason_zh": "本文介紹了一個互動式工具，並提供了一個平台來測試 Redis 的新指令。"
+    },
     {
       "id": "7714a0db634311d2",
       "title": "Testing MacOS on the Apple Network Server 2.0 ROMs",

@@ -1,6 +1,165 @@
 {
   "nodes": [
     {
+      "id": "398b9f083cf0bcd3",
+      "title": "TRE Python binding — ReDoS robustness demo",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "TRE",
+        "Python",
+        "ReDoS",
+        "security",
+        "regular expressions"
+      ],
+      "published": "2026-05-04T17:52:00.000Z"
+    },
+    {
+      "id": "ac0eb875a27d5deb",
+      "title": "Redis Array Playground",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Redis",
+        "Array",
+        "WASM",
+        "ARGREP",
+        "Browser Tool"
+      ],
+      "published": "2026-05-04T15:53:57.000Z"
+    },
+    {
+      "id": "7f2d51d86f3497f0",
+      "title": "\nRedis array type: short story of a long development\n",
+      "source_url": "http://antirez.com/",
+      "url": "\nhttp://antirez.com/news/164\n",
+      "pacer": "E",
+      "keywords": [
+        "Redis",
+        "Array",
+        "AI-assisted programming",
+        "data structures",
+        "software development"
+      ],
+      "published": "2026-05-04T14:21:45.000Z"
+    },
+    {
+      "id": "a0853cac3217a517",
+      "title": "How do I inform Windows that I’m writing a binary file?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "binary files",
+        "file system",
+        "programming",
+        "The Old New Thing"
+      ],
+      "published": "2026-05-04T14:00:00.000Z"
+    },
+    {
+      "id": "f7a5a7d75daf2718",
+      "title": "[RSS Club] Where are you from?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/",
+      "pacer": "P",
+      "keywords": [
+        "RSS",
+        "GeoIP",
+        "privacy",
+        "analytics",
+        "blogging"
+      ],
+      "published": "2026-05-04T11:34:40.000Z"
+    },
+    {
+      "id": "443d13cb3696dd64",
+      "title": "Package Manager CWEs",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/04/package-manager-cwes.html",
+      "pacer": "R",
+      "keywords": [
+        "CWE",
+        "CVE",
+        "package manager",
+        "security",
+        "vulnerabilities"
+      ],
+      "published": "2026-05-04T10:00:00.000Z"
+    },
+    {
+      "id": "8f888a779abff501",
+      "title": "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/04/hope-in-the-dark/",
+      "pacer": "C",
+      "keywords": [
+        "demand destruction",
+        "climate change",
+        "Rebecca Solnit",
+        "fossil fuels",
+        "behavioral economics"
+      ],
+      "published": "2026-05-04T09:39:28.000Z"
+    },
+    {
+      "id": "779e8c793e4c6f70",
+      "title": "29th August 2026: a scenario",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "cloud security",
+        "scenario",
+        "narrative",
+        "cybersecurity"
+      ],
+      "published": "2026-05-04T00:00:00.000Z"
+    },
+    {
+      "id": "92d93496e4adf869",
+      "title": "From RSS to Atom",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/from-rss-to-atom.html",
+      "pacer": "P",
+      "keywords": [
+        "RSS",
+        "Atom",
+        "Common Lisp",
+        "web development",
+        "migration"
+      ],
+      "published": "2026-05-04T00:00:00.000Z"
+    },
+    {
+      "id": "baf0560bfe83e07a",
+      "title": "Content for Content’s Sake",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
+      "pacer": "E",
+      "keywords": [
+        "LLM",
+        "language evolution",
+        "data analysis",
+        "coding",
+        "word frequency"
+      ],
+      "published": "2026-05-04T00:00:00.000Z"
+    },
+    {
       "id": "f30f75bae085419f",
       "title": "The shape of a guitar pick",
       "source": "John D. Cook",
@@ -15,6 +174,22 @@
         "functions"
       ],
       "published": "2026-05-03T20:49:41.000Z"
+    },
+    {
+      "id": "1d1a1cb59c729269",
+      "title": "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+      "pacer": "P",
+      "keywords": [
+        "HTML",
+        "Web Development",
+        "CSS View Transitions",
+        "Progressive Enhancement",
+        "JavaScript"
+      ],
+      "published": "2026-05-03T19:00:00.000Z"
     },
     {
       "id": "1b76c8c3ceb8eb7a",
@@ -447,38 +622,6 @@
         "Offline Translation"
       ],
       "published": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "id": "3a5b18b2ae174af0",
-      "title": "Codex CLI 0.128.0 adds /goal",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Codex CLI",
-        "AI agents",
-        "OpenAI",
-        "prompt engineering",
-        "automation"
-      ],
-      "published": "2026-04-30T23:23:17.000Z"
-    },
-    {
-      "id": "2689fb473ab44ee1",
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "OpenAI",
-        "GPT-5.5",
-        "AI Security Institute",
-        "cybersecurity",
-        "vulnerability assessment"
-      ],
-      "published": "2026-04-30T23:03:24.000Z"
     },
     {
       "id": "8ba9d7a2f01eb9f4",
@@ -945,22 +1088,6 @@
       "published": "2026-04-28T00:00:00.000Z"
     },
     {
-      "id": "01f072847147e7fe",
-      "title": "QuickQWERTY 1.2.2",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/code/news/quickqwerty/1.2.2.html",
-      "pacer": "R",
-      "keywords": [
-        "QuickQWERTY",
-        "typing tutor",
-        "software update",
-        "Codeberg",
-        "open source"
-      ],
-      "published": "2026-04-28T00:00:00.000Z"
-    },
-    {
       "id": "fef8766c3e95d3f5",
       "title": "Before GitHub",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -1057,22 +1184,6 @@
       "published": "2026-04-27T22:00:00.000Z"
     },
     {
-      "id": "83dc90be47e7bb96",
-      "title": "Looking at consequences of passing too few register parameters to a C function on various architectures",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
-      "pacer": "C",
-      "keywords": [
-        "C programming",
-        "CPU architecture",
-        "register parameters",
-        "Itanium",
-        "calling convention"
-      ],
-      "published": "2026-04-27T14:00:00.000Z"
-    },
-    {
       "id": "7bb2aa2b1141e731",
       "title": "What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism",
       "source": "Dwarkesh Podcast",
@@ -1103,22 +1214,6 @@
         "Anaïs Mitchell"
       ],
       "published": "2026-04-27T11:34:27.000Z"
-    },
-    {
-      "id": "55ebf176f2eb267c",
-      "title": "The stages of package installation",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html",
-      "pacer": "C",
-      "keywords": [
-        "package manager",
-        "software engineering",
-        "dependency resolution",
-        "metadata",
-        "system design"
-      ],
-      "published": "2026-04-27T10:00:00.000Z"
     },
     {
       "id": "45066ba63479c4e5",
@@ -1215,38 +1310,6 @@
         "construction physics"
       ],
       "published": "2026-04-25T14:16:17.000Z"
-    },
-    {
-      "id": "b4091de30989a9cc",
-      "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/",
-      "pacer": "P",
-      "keywords": [
-        "PHP",
-        ".env",
-        "ini",
-        "parsing",
-        "web development"
-      ],
-      "published": "2026-04-25T11:34:15.000Z"
-    },
-    {
-      "id": "751aede1477afe59",
-      "title": "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/25/machiavellian/",
-      "pacer": "R",
-      "keywords": [
-        "Ada Palmer",
-        "Inventing the Renaissance",
-        "historiography",
-        "Cory Doctorow",
-        "book review"
-      ],
-      "published": "2026-04-25T11:17:58.000Z"
     },
     {
       "id": "10e303901dc1a90b",
@@ -2080,22 +2143,6 @@
       "published": "2026-04-13T00:00:00.000Z"
     },
     {
-      "id": "a8db07f47bb1bb77",
-      "title": "That’s a Skill Issue",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/skill-issue/",
-      "pacer": "C",
-      "keywords": [
-        "UX design",
-        "human-centered",
-        "AI",
-        "tool-making",
-        "design philosophy"
-      ],
-      "published": "2026-04-12T19:00:00.000Z"
-    },
-    {
       "id": "5e131784a3a28aae",
       "title": "The Center Has a Bias",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -2384,22 +2431,6 @@
       "published": "2026-04-04T00:00:00.000Z"
     },
     {
-      "id": "25e8b8191249a571",
-      "title": "Absurd In Production",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
-      "pacer": "E",
-      "keywords": [
-        "PostgreSQL",
-        "durable execution",
-        "workflow",
-        "distributed systems",
-        "Absurd"
-      ],
-      "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
       "id": "b3eb6f0d51bf5c12",
       "title": "Build your own Dial-up ISP with a Raspberry Pi",
       "source": "Jeff Geerling",
@@ -2635,16 +2666,6 @@
         "Zelda Dungeon",
         "Development Logs"
       ],
-      "published": "2026-03-31T00:00:00.000Z"
-    },
-    {
-      "id": "e8a36a864d49a48e",
-      "title": "Telnyx, LiteLLM and Axios: the supply chain crisis",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [],
       "published": "2026-03-31T00:00:00.000Z"
     },
     {
@@ -3326,16 +3347,6 @@
     }
   ],
   "links": [
-    {
-      "source": "00d9b9dbde28b8c6",
-      "target": "01f072847147e7fe",
-      "shared_keywords": [
-        "QuickQWERTY",
-        "typing tutor",
-        "software update"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "d1ce7fe94c7c987c",
       "target": "bf325ff1e19a8042",
