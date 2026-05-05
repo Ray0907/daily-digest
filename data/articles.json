@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-05-04T22:18:42.637Z",
+  "last_updated": "2026-05-05T22:18:27.848Z",
   "articles": [
+    {
+      "id": "e627abaa0459d814",
+      "title": "The Impossible Things We Have to Believe",
+      "url": "https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-05-05T15:09:12.000Z",
+      "summary_en": "This article explores the cognitive dissonance required to navigate modern existential crises, such as climate change. It uses a literary reference to illustrate the psychological struggle of accepting unsettling realities while maintaining daily sanity.",
+      "summary_zh": "本文探討了現代人在面對氣候變遷等生存危機時，為了維持心理平衡所產生的認知失調。透過引用《愛麗絲鏡中奇遇記》的典故，說明人們如何在接受嚴峻現實與維持日常生活心態之間進行掙扎。",
+      "keywords": [
+        "climate change",
+        "cognitive dissonance",
+        "psychology",
+        "Lewis Carroll",
+        "existentialism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that explores the theoretical and psychological framework of how we process contradictory information.",
+      "pacer_reason_zh": "這是一篇概念性文章，探討了我們處理矛盾資訊時的理論與心理框架。"
+    },
+    {
+      "id": "ec564620ee7592a9",
+      "title": "Fizz Buzz Through Monoids",
+      "url": "https://entropicthoughts.com/fizzbuzz-through-monoids",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-05-04T22:00:00.000Z",
+      "summary_en": "This article demonstrates an elegant and modular implementation of the Fizz Buzz problem using Haskell's Monoid properties. By utilizing the mconcat function on lists of strings, the author shows how to combine conditional logic cleanly without complex if-else structures.",
+      "summary_zh": "本文展示了如何利用 Haskell 的 Monoid 特性來實現一個優雅且模組化的 Fizz Buzz 程式。透過對字串列表使用 mconcat 函數，作者示範了如何無需複雜的 if-else 邏輯即可簡潔地組合條件判斷。",
+      "keywords": [
+        "Haskell",
+        "FizzBuzz",
+        "Monoid",
+        "Functional Programming",
+        "Modularity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific code implementation and demonstrates how to build a program step-by-step using functional programming techniques.",
+      "pacer_reason_zh": "本文提供了具體的程式碼實作，並示範了如何透過函數式程式設計技巧一步步建構程式。"
+    },
+    {
+      "id": "4f2ad61f714430b3",
+      "title": "Package Manager Threat Models",
+      "url": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-05T10:00:00.000Z",
+      "summary_en": "This article examines the inherent security risks in package managers, specifically focusing on how features designed for functionality, like install-time code execution, are often exploited in supply-chain attacks. It argues that unlike typical bugs, these incidents stem from working-as-designed behaviors that require critical evaluation by developers.",
+      "summary_zh": "本文探討了軟體包管理器中固有的安全風險，特別關注那些被設計用於功能性（如安裝時程式碼執行）的機制如何常被用於供應鏈攻擊。作者強調，與典型的程式錯誤不同，這些安全事件源於按設計運行的功能，因此開發人員需要對這些行為進行審慎評估。",
+      "keywords": [
+        "supply-chain security",
+        "package manager",
+        "code execution",
+        "threat model",
+        "software security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying theoretical design choices of package managers and their security implications, framing them as a conceptual framework for analysis.",
+      "pacer_reason_zh": "本文解釋了軟體包管理器的底層設計決策及其安全影響，將其架構為一種用於分析的概念性框架。"
+    },
+    {
+      "id": "f412a136b425e7cc",
+      "title": "Outrage is letting someone else set the frame",
+      "url": "https://www.joanwestenberg.com/outrag/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-05T06:20:33.000Z",
+      "summary_en": "This article explores how media outlets strategically manufacture outrage to influence audience perceptions and drive engagement. By referencing historical examples like William Randolph Hearst, it highlights the danger of allowing external forces to frame our emotional responses.",
+      "summary_zh": "本文探討媒體如何策略性地製造憤怒，以影響讀者觀點並提升參與度。透過威廉·赫斯特等歷史案例，文章提醒我們若任由外界框架情感，將會失去對觀點的主導權。",
+      "keywords": [
+        "media",
+        "outrage",
+        "framing",
+        "history",
+        "psychology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "Uses historical analogies to explain modern media dynamics and the psychological impact of framing.",
+      "pacer_reason_zh": "利用歷史比喻來解釋現代媒體動態以及框架效應對心理的影響。"
+    },
+    {
+      "id": "3548843fda67bb69",
+      "title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-05T14:00:00.000Z",
+      "summary_en": "This post discusses a historical disagreement regarding the TAB key that revealed fundamental differences in corporate culture between Microsoft and IBM. It illustrates how organizational structures can lead to friction when companies collaborate on product design.",
+      "summary_zh": "本文探討了關於 TAB 鍵的一場歷史性爭論，該爭論揭示了微軟與 IBM 在企業文化上的根本差異。它說明了組織結構的不同如何在產品設計合作中造成衝突。",
+      "keywords": [
+        "Microsoft",
+        "IBM",
+        "TAB key",
+        "Corporate Culture",
+        "Organizational Structure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how organizational dynamics impact inter-company professional interactions.",
+      "pacer_reason_zh": "本文提供了關於組織動態如何影響公司間專業互動的概念性解釋。"
+    },
+    {
+      "id": "98fd933603b2f870",
+      "title": "RSS Feeds Send Me More Traffic Than Google",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-05T11:34:12.000Z",
+      "summary_en": "The author investigates the traffic sources of their personal blog, comparing the impact of RSS feeds versus search engines like Google. By analyzing their own site data, they highlight the surprising effectiveness of RSS as a driver of engagement compared to traditional SEO strategies.",
+      "summary_zh": "作者探討了個人部落格的流量來源，比較了 RSS 訂閱與 Google 搜尋引擎對網站流量的影響。透過分析自身數據，作者強調了 RSS 在推動流量方面出人意料的有效性，並反思了對傳統 SEO 的依賴。",
+      "keywords": [
+        "RSS",
+        "SEO",
+        "blogging",
+        "web traffic",
+        "analytics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses the author's own website analytics as a data point to investigate and discuss traffic trends.",
+      "pacer_reason_zh": "本文使用作者個人網站的流量分析數據作為案例，來探討與驗證流量趨勢。"
+    },
+    {
+      "id": "17ea16df59b14bb8",
+      "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+      "url": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-05T12:31:41.000Z",
+      "summary_en": "The article analyzes the nature of political coalition building, noting how leaders like Donald Trump unify contradictory factions to consolidate power. It discusses the fragility of these coalitions and suggests that Trump's current behavior is inadvertently sparking the formation of a new, diverse anti-Trump alliance.",
+      "summary_zh": "本文分析了政治聯盟的構建本質，指出川普等領導人如何整合立場矛盾的派系以鞏固權力。文章探討了這類聯盟的脆弱性，並認為川普目前的行徑正無意間促成了一個多元化的反川普聯盟。",
+      "keywords": [
+        "coalition",
+        "politics",
+        "Trump",
+        "power",
+        "political science"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of political dynamics and the mechanics of coalition building.",
+      "pacer_reason_zh": "本文對政治動態與聯盟構建機制進行了概念性的分析。"
+    },
+    {
+      "id": "eb8f8fefb0d7878b",
+      "title": "AI didn't delete your database, you did ",
+      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-04T22:25:00.000Z",
+      "summary_en": "The article discusses the viral incident of a developer blaming an AI agent for a deleted production database, arguing that human error and poor system architecture are the true culprits. It advocates for taking accountability and implementing robust CI/CD pipelines to prevent accidental data loss instead of scapegoating automated tools.",
+      "summary_zh": "本文探討了開發者將資料庫刪除歸咎於 AI 代理的爭議，強調人為疏失與系統架構缺陷才是問題根源。作者呼籲開發者應承擔責任，並透過建立穩健的 CI/CD 自動化流程來避免人為錯誤，而非將過錯歸咎於 AI 工具。",
+      "keywords": [
+        "AI",
+        "database",
+        "CI/CD",
+        "accountability",
+        "automation"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses a personal anecdote about a manual deployment error to draw a parallel with modern AI usage, illustrating the importance of accountability and automation.",
+      "pacer_reason_zh": "作者透過個人早年手動部署錯誤的案例，與當前 AI 誤操作爭議進行類比，藉此闡述責任歸屬與自動化的重要性。"
+    },
+    {
+      "id": "6786076f2f232d68",
+      "title": "datasette-llm 0.1a7",
+      "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-05T01:56:55.000Z",
+      "summary_en": "The release of datasette-llm 0.1a7 introduces a new configuration mechanism for plugins using LLMs. Users can now set default options, such as temperature, for specific models to streamline enrichment operations.",
+      "summary_zh": "datasette-llm 0.1a7 發布了新的配置機制，讓開發者能為使用大型語言模型的插件設定預設選項。這項更新讓使用者能夠針對特定模型設定溫度參數，進而簡化資料豐富化操作的流程。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "plugin",
+        "configuration",
+        "software-release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a release update for a technical tool, focusing on the procedural aspect of configuring new features.",
+      "pacer_reason_zh": "該文章提供了技術工具的發布更新，重點在於如何設定新功能的程序說明。"
+    },
+    {
+      "id": "cc242aee1b48b5c1",
+      "title": "llm-echo 0.5a0",
+      "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-05T01:31:54.000Z",
+      "summary_en": "Simon Willison released llm-echo 0.5a0, a plugin for the LLM CLI tool that simulates models for testing purposes. The update introduces a new option to mimic reasoning blocks, facilitating easier automated testing of LLM integrations.",
+      "summary_zh": "Simon Willison 發布了 llm-echo 0.5a0，這是一款專為 LLM 命令列工具設計的測試外掛程式，能模擬模型輸出。此次更新新增了模擬推理區塊的功能，旨在簡化 LLM 整合的自動化測試流程。",
+      "keywords": [
+        "llm-echo",
+        "LLM",
+        "testing",
+        "CLI",
+        "automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content acts as a release announcement for a software tool, specifically providing a command example on how to use the plugin for testing.",
+      "pacer_reason_zh": "此內容為軟體工具的發布公告，並提供了如何使用該外掛程式進行測試的具體指令範例。"
+    },
+    {
+      "id": "e246958d7aa5b07c",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-05T00:46:29.000Z",
+      "summary_en": "This post highlights John Gruber's report on Y Combinator's ownership stake in OpenAI. It estimates that Y Combinator holds a 0.6 percent share, which is valued at over $5 billion based on OpenAI's $852 billion valuation.",
+      "summary_zh": "這篇文章引用了 John Gruber 的報導，探討 Y Combinator 在 OpenAI 的持股情況。據估計，Y Combinator 持有 OpenAI 約 0.6% 的股份，按目前 OpenAI 8520 億美元的估值計算，價值超過 50 億美元。",
+      "keywords": [
+        "OpenAI",
+        "Y Combinator",
+        "John Gruber",
+        "valuation",
+        "investment"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content provides specific financial data and valuation benchmarks regarding an investment stake.",
+      "pacer_reason_zh": "內容提供了關於投資持股的具體財務數據與估值基準。"
+    },
+    {
+      "id": "9e2378534e2ce27c",
+      "title": "Granite 4.1 3B SVG Pelican Gallery",
+      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-04T23:49:24.000Z",
+      "summary_en": "The author tests IBM's new Granite 4.1 3B LLM by generating SVG images of a pelican riding a bicycle across various quantized model sizes. The experiment reveals no significant correlation between model quantization size and output quality, as all results were notably poor.",
+      "summary_zh": "作者測試了 IBM 新發布的 Granite 4.1 3B 大型語言模型，嘗試透過不同量化版本的模型生成「鵜鶘騎腳踏車」的 SVG 影像。實驗結果顯示模型檔案大小與輸出品質之間並無明顯關聯，所有生成的圖像效果皆不理想。",
+      "keywords": [
+        "IBM",
+        "Granite 4.1",
+        "LLM",
+        "GGUF",
+        "SVG"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article documents an empirical experiment testing multiple model variants to observe and compare output quality.",
+      "pacer_reason_zh": "本文記錄了一項實證實驗，透過測試多種模型版本來觀察並比較輸出品質。"
+    },
+    {
+      "id": "bf7b7e0f90f7ff6d",
+      "title": "Quoting Andy Masley",
+      "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-04T22:51:09.000Z",
+      "summary_en": "This post highlights Andy Masley's critique of the argument that data center expansion threatens US food security. By comparing data center land use to the significantly larger amount of farmland sold by farmers over the past two decades, the author argues that concerns regarding farmland depletion are misplaced.",
+      "summary_zh": "這篇文章引用了 Andy Masley 的觀點，反駁了數據中心擴建會威脅美國糧食安全的說法。作者透過對比過去二十年間農民轉讓的土地規模與數據中心佔地面積，指出對農地流失的擔憂被過度誇大了。",
+      "keywords": [
+        "data centers",
+        "land use",
+        "food security",
+        "agriculture",
+        "AI infrastructure"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content uses comparative data and historical land-use statistics to refute a specific argument.",
+      "pacer_reason_zh": "內容運用了比較數據與歷史土地利用統計資料，以反駁特定的論點。"
+    },
+    {
+      "id": "b28a49081af9a8c0",
+      "title": "April 2026 newsletter",
+      "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-04T22:38:36.000Z",
+      "summary_en": "Simon Willison announces the release of his April 2026 sponsors-only newsletter, featuring updates on new AI models like Opus 4.7, GPT-5.5, and Claude Mythos. He encourages readers to subscribe to gain early access to these industry insights and his monthly tech recommendations.",
+      "summary_zh": "Simon Willison 發布了 2026 年 4 月的贊助者限定電子報，內容涵蓋 Opus 4.7、GPT-5.5 及 Claude Mythos 等最新 AI 模型動態。他邀請讀者透過訂閱支持，以搶先獲取產業見解與他個人的科技工具推薦。",
+      "keywords": [
+        "newsletter",
+        "AI models",
+        "Simon Willison",
+        "GPT-5.5",
+        "tech trends"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves primarily as a reference and announcement list for a subscription-based newsletter archive.",
+      "pacer_reason_zh": "此內容主要作為訂閱制電子報存檔的參考資訊與公告清單。"
+    },
     {
       "id": "779e8c793e4c6f70",
       "title": "29th August 2026: a scenario",

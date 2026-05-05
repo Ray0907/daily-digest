@@ -1,36 +1,212 @@
 {
   "nodes": [
     {
-      "id": "398b9f083cf0bcd3",
-      "title": "TRE Python binding — ReDoS robustness demo",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
-      "pacer": "E",
+      "id": "e627abaa0459d814",
+      "title": "The Impossible Things We Have to Believe",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/",
+      "pacer": "C",
       "keywords": [
-        "TRE",
-        "Python",
-        "ReDoS",
-        "security",
-        "regular expressions"
+        "climate change",
+        "cognitive dissonance",
+        "psychology",
+        "Lewis Carroll",
+        "existentialism"
       ],
-      "published": "2026-05-04T17:52:00.000Z"
+      "published": "2026-05-05T15:09:12.000Z"
     },
     {
-      "id": "ac0eb875a27d5deb",
-      "title": "Redis Array Playground",
+      "id": "3548843fda67bb69",
+      "title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "pacer": "C",
+      "keywords": [
+        "Microsoft",
+        "IBM",
+        "TAB key",
+        "Corporate Culture",
+        "Organizational Structure"
+      ],
+      "published": "2026-05-05T14:00:00.000Z"
+    },
+    {
+      "id": "17ea16df59b14bb8",
+      "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/",
+      "pacer": "C",
+      "keywords": [
+        "coalition",
+        "politics",
+        "Trump",
+        "power",
+        "political science"
+      ],
+      "published": "2026-05-05T12:31:41.000Z"
+    },
+    {
+      "id": "98fd933603b2f870",
+      "title": "RSS Feeds Send Me More Traffic Than Google",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+      "pacer": "E",
+      "keywords": [
+        "RSS",
+        "SEO",
+        "blogging",
+        "web traffic",
+        "analytics"
+      ],
+      "published": "2026-05-05T11:34:12.000Z"
+    },
+    {
+      "id": "4f2ad61f714430b3",
+      "title": "Package Manager Threat Models",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html",
+      "pacer": "C",
+      "keywords": [
+        "supply-chain security",
+        "package manager",
+        "code execution",
+        "threat model",
+        "software security"
+      ],
+      "published": "2026-05-05T10:00:00.000Z"
+    },
+    {
+      "id": "f412a136b425e7cc",
+      "title": "Outrage is letting someone else set the frame",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/outrag/",
+      "pacer": "A",
+      "keywords": [
+        "media",
+        "outrage",
+        "framing",
+        "history",
+        "psychology"
+      ],
+      "published": "2026-05-05T06:20:33.000Z"
+    },
+    {
+      "id": "6786076f2f232d68",
+      "title": "datasette-llm 0.1a7",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
       "pacer": "P",
       "keywords": [
-        "Redis",
-        "Array",
-        "WASM",
-        "ARGREP",
-        "Browser Tool"
+        "datasette",
+        "llm",
+        "plugin",
+        "configuration",
+        "software-release"
       ],
-      "published": "2026-05-04T15:53:57.000Z"
+      "published": "2026-05-05T01:56:55.000Z"
+    },
+    {
+      "id": "cc242aee1b48b5c1",
+      "title": "llm-echo 0.5a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "llm-echo",
+        "LLM",
+        "testing",
+        "CLI",
+        "automation"
+      ],
+      "published": "2026-05-05T01:31:54.000Z"
+    },
+    {
+      "id": "e246958d7aa5b07c",
+      "title": "Quoting John Gruber",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "Y Combinator",
+        "John Gruber",
+        "valuation",
+        "investment"
+      ],
+      "published": "2026-05-05T00:46:29.000Z"
+    },
+    {
+      "id": "9e2378534e2ce27c",
+      "title": "Granite 4.1 3B SVG Pelican Gallery",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "IBM",
+        "Granite 4.1",
+        "LLM",
+        "GGUF",
+        "SVG"
+      ],
+      "published": "2026-05-04T23:49:24.000Z"
+    },
+    {
+      "id": "bf7b7e0f90f7ff6d",
+      "title": "Quoting Andy Masley",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "data centers",
+        "land use",
+        "food security",
+        "agriculture",
+        "AI infrastructure"
+      ],
+      "published": "2026-05-04T22:51:09.000Z"
+    },
+    {
+      "id": "eb8f8fefb0d7878b",
+      "title": "AI didn't delete your database, you did ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "database",
+        "CI/CD",
+        "accountability",
+        "automation"
+      ],
+      "published": "2026-05-04T22:25:00.000Z"
+    },
+    {
+      "id": "ec564620ee7592a9",
+      "title": "Fizz Buzz Through Monoids",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/fizzbuzz-through-monoids",
+      "pacer": "P",
+      "keywords": [
+        "Haskell",
+        "FizzBuzz",
+        "Monoid",
+        "Functional Programming",
+        "Modularity"
+      ],
+      "published": "2026-05-04T22:00:00.000Z"
     },
     {
       "id": "7f2d51d86f3497f0",
@@ -192,22 +368,6 @@
       "published": "2026-05-03T19:00:00.000Z"
     },
     {
-      "id": "1b76c8c3ceb8eb7a",
-      "title": "Quoting Anthropic",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "sycophancy",
-        "AI ethics",
-        "LLMs"
-      ],
-      "published": "2026-05-03T15:13:23.000Z"
-    },
-    {
       "id": "41ec5c30a3a98ddb",
       "title": "Reinventing the Wheel",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -352,22 +512,6 @@
       "published": "2026-05-03T00:00:00.000Z"
     },
     {
-      "id": "1aa1432e45e77fe3",
-      "title": "Sightings",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "iNaturalist",
-        "syndication",
-        "wildlife photography",
-        "web development",
-        "blogging"
-      ],
-      "published": "2026-05-02T17:26:40.000Z"
-    },
-    {
       "id": "8b083fd5283b6063",
       "title": "Scaling, stretching and shifting sinusoids",
       "source": "Eli Bendersky's website",
@@ -462,22 +606,6 @@
         "user control"
       ],
       "published": "2026-05-01T23:30:00.000Z"
-    },
-    {
-      "id": "199911941bfe4f19",
-      "title": "iNaturalist Sightings",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "iNaturalist",
-        "Git Scraping",
-        "Claude Code",
-        "Python",
-        "Web Development"
-      ],
-      "published": "2026-05-01T19:35:41.000Z"
     },
     {
       "id": "d1ce7fe94c7c987c",
@@ -976,22 +1104,6 @@
       "published": "2026-04-28T15:14:09.000Z"
     },
     {
-      "id": "e2cd66c55df0c0b4",
-      "title": "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278",
-      "pacer": "P",
-      "keywords": [
-        "semaphore",
-        "reader-writer lock",
-        "synchronization",
-        "concurrency",
-        "process communication"
-      ],
-      "published": "2026-04-28T14:00:00.000Z"
-    },
-    {
       "id": "28800fcaa5d21833",
       "title": "Circular arc approximation",
       "source": "John D. Cook",
@@ -1022,22 +1134,6 @@
         "Tech Policy"
       ],
       "published": "2026-04-28T13:00:48.000Z"
-    },
-    {
-      "id": "0160dcfd272dc595",
-      "title": "GitHub Actions is the weakest link",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-      "pacer": "E",
-      "keywords": [
-        "GitHub Actions",
-        "Supply Chain Security",
-        "Open Source",
-        "CI/CD",
-        "Cybersecurity"
-      ],
-      "published": "2026-04-28T10:00:00.000Z"
     },
     {
       "id": "974fc309adf20df8",
@@ -1200,38 +1296,6 @@
       "published": "2026-04-27T13:51:32.000Z"
     },
     {
-      "id": "d200fd9994d806dd",
-      "title": "Theatre Review: Hadestown ★★★★★",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/",
-      "pacer": "C",
-      "keywords": [
-        "Hadestown",
-        "Theatre Review",
-        "Musical",
-        "Performance",
-        "Anaïs Mitchell"
-      ],
-      "published": "2026-04-27T11:34:27.000Z"
-    },
-    {
-      "id": "45066ba63479c4e5",
-      "title": "Pluralistic: The enshittification multiverse (27 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/27/analogs-and-analogies/",
-      "pacer": "A",
-      "keywords": [
-        "enshittification",
-        "Cory Doctorow",
-        "economics",
-        "surveillance pricing",
-        "zero-sum"
-      ],
-      "published": "2026-04-27T08:39:48.000Z"
-    },
-    {
       "id": "2e7f0c888d6d8f53",
       "title": "Collective Speed Is Not the Summation of Individual Speed",
       "source": "Jim Nielsen’s Blog",
@@ -1278,22 +1342,6 @@
         "Self-hosting"
       ],
       "published": "2026-04-26T14:05:41.000Z"
-    },
-    {
-      "id": "93005ac7aefa66ff",
-      "title": "The Satisfaction of a ChatGPT Plan ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed",
-      "pacer": "C",
-      "keywords": [
-        "ChatGPT",
-        "AI productivity",
-        "business planning",
-        "execution",
-        "idea validation"
-      ],
-      "published": "2026-04-25T17:44:16.000Z"
     },
     {
       "id": "4f00a7150f379ee9",
@@ -1917,22 +1965,6 @@
         "Model Intelligence"
       ],
       "published": "2026-04-16T10:46:46.000Z"
-    },
-    {
-      "id": "f0b8873edc53f23c",
-      "title": "I truly hate mostpeopleslop",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/",
-      "pacer": "C",
-      "keywords": [
-        "copywriting",
-        "social media",
-        "content quality",
-        "engagement",
-        "Joe Sugarman"
-      ],
-      "published": "2026-04-16T04:50:26.000Z"
     },
     {
       "id": "cf5f8b327ea01ae5",
@@ -2679,16 +2711,6 @@
       "published": "2026-03-31T00:00:00.000Z"
     },
     {
-      "id": "dd60b7e3032528fc",
-      "title": "The MVC Mistake",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/mvc-mistake",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-30T22:00:00.000Z"
-    },
-    {
       "id": "e5b0cc2f83a094aa",
       "title": "The Webs Digital Locks have Never had a Stronger Opponent",
       "source": "Cats with power tools",
@@ -2993,22 +3015,6 @@
         "Operating Systems"
       ],
       "published": "2026-03-16T08:10:00.000Z"
-    },
-    {
-      "id": "e0c368b9bd6d2798",
-      "title": "BertVote Gemeenteraadsverkiezingen 2026",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/",
-      "pacer": "R",
-      "keywords": [
-        "BertVote",
-        "Gemeenteraadsverkiezingen",
-        "Nederland",
-        "Verkiezingen",
-        "Politiek"
-      ],
-      "published": "2026-03-15T11:39:25.000Z"
     },
     {
       "id": "e92b08fe1024d018",
@@ -3347,6 +3353,16 @@
     }
   ],
   "links": [
+    {
+      "source": "98fd933603b2f870",
+      "target": "f7a5a7d75daf2718",
+      "shared_keywords": [
+        "RSS",
+        "analytics",
+        "blogging"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "d1ce7fe94c7c987c",
       "target": "bf325ff1e19a8042",
