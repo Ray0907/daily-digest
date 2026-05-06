@@ -4,8 +4,161 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 05 May 2026 22:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:15:19 GMT</lastBuildDate>
     
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</link>
+      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</guid>
+      <pubDate>Wed, 06 May 2026 21:49:20 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article introduces asynchronous programming support in SQLAlchemy 2, which was added in version 1.4. It explains the integration of asyncio with both Core and ORM modules, highlighting its benefits for modern web frameworks like FastAPI.</description>
+    </item>
+
+    <item>
+      <title>Open weights are quietly closing up - and that's a problem</title>
+      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article warns that the trend of closing off open-weight AI models threatens market competition. It argues that these models are essential for preventing frontier AI labs from establishing a restrictive oligopoly that extracts excessive consumer surplus.</description>
+    </item>
+
+    <item>
+      <title>Weekly Update 502</title>
+      <link>https://www.troyhunt.com/weekly-update-502/</link>
+      <guid>https://www.troyhunt.com/weekly-update-502/</guid>
+      <pubDate>Wed, 06 May 2026 00:14:13 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt analyzes how the ShinyHunters group successfully compromises major brands despite their limited technical experience. The post highlights how the group leverages accessible vulnerabilities to gain unauthorized access to large-scale data.</description>
+    </item>
+
+    <item>
+      <title>New Logic for Programmers (and the future of this newsletter)</title>
+      <link>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</guid>
+      <pubDate>Wed, 06 May 2026 17:03:46 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author provides updates on the 'Logic for Programmers' book release and announces their new role as a developer educator at Antithesis. They clarify that the newsletter will continue independently while shifting its focus slightly as the author explores new professional topics.</description>
+    </item>
+
+    <item>
+      <title>Revisiting the 2015 Open Source Census</title>
+      <link>https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</link>
+      <guid>https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</guid>
+      <pubDate>Wed, 06 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article revisits the 2015 Open Source Census, a project designed to identify high-risk software vulnerabilities before they become critical. It highlights how the xz-utils library was identified as a risk years before it became a major security concern, demonstrating the limitations of historical risk-scoring formulas.</description>
+    </item>
+
+    <item>
+      <title>Emotional regulation is a dying art.</title>
+      <link>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</link>
+      <guid>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</guid>
+      <pubDate>Wed, 06 May 2026 00:21:50 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The article laments the decline of emotional regulation in modern society, contrasting current reactive behaviors with past norms of restraint and composure. It suggests that the ability to process difficult emotions and disagreements without escalating has become an increasingly rare skill.</description>
+    </item>
+
+    <item>
+      <title>Triangular analog of the squircle</title>
+      <link>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</guid>
+      <pubDate>Wed, 06 May 2026 19:53:29 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the mathematical derivation of a 'triangular squircle,' a shape that applies the principles of superellipses to a triangular geometry. The author examines how to maintain continuous curvature while transitioning a triangle into a rounded, squircle-like form.</description>
+    </item>
+
+    <item>
+      <title>Unified config files</title>
+      <link>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</guid>
+      <pubDate>Wed, 06 May 2026 16:32:20 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author discusses strategies for maintaining a consistent work environment across multiple computers by unifying configuration settings. The post highlights practical approaches, such as key remapping, to ensure that unimportant differences between machines do not disrupt productivity.</description>
+    </item>
+
+    <item>
+      <title>The mythology of category theory</title>
+      <link>https://www.johndcook.com/blog/2026/05/06/category-mythology/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/06/category-mythology/</guid>
+      <pubDate>Wed, 06 May 2026 11:37:42 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the common misconceptions surrounding category theory, arguing that while it serves as a powerful language for describing patterns, it is not a magical solution that provides something for nothing. The author critiques the unrealistic expectations placed on the field and references external perspectives to demystify its practical utility.</description>
+    </item>
+
+    <item>
+      <title>Changing one character in a PDF</title>
+      <link>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</guid>
+      <pubDate>Tue, 05 May 2026 22:45:26 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author investigates why replacing a hyphen with an en-dash in a PDF results in a larger file size. The analysis explores how character encoding and the internal structure of PDF streams influence document metadata and byte count.</description>
+    </item>
+
+    <item>
+      <title>Why not have changes in API behavior depend on the SDK you link against?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</guid>
+      <pubDate>Wed, 06 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>The author explains why tying API behavior changes to the linked SDK version is problematic in practice. He argues that static libraries make this approach effectively impossible to implement consistently.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: In praise of vultures (06 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/06/champerty-loves-company/</link>
+      <guid>https://pluralistic.net/2026/05/06/champerty-loves-company/</guid>
+      <pubDate>Wed, 06 May 2026 10:15:36 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that modern capitalists fundamentally oppose the competition required for true capitalism to function. He contends that corporations seek to restrict consumer choice to maintain monopolies, contrary to the theoretical ideal of markets as distributed, efficiency-optimizing systems.</description>
+    </item>
+
+    <item>
+      <title>Asimov's three laws are merely a suggestion </title>
+      <link>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</link>
+      <guid>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The article explores the limitations of applying Asimov's Three Laws of Robotics to modern generative AI. It argues that unlike deterministic logical constraints, current AI safety measures are based on learned behaviors and system prompts that remain susceptible to jailbreaks.</description>
+    </item>
+
+    <item>
+      <title>Live blog: Code w/ Claude 2026</title>
+      <link>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</guid>
+      <pubDate>Wed, 06 May 2026 15:58:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post is a live-blogging entry covering the keynote sessions from Anthropic's 'Code w/ Claude' 2026 event. It captures real-time updates and highlights regarding the company's latest developments in AI coding tools.</description>
+    </item>
+
+    <item>
+      <title>Vibe coding and agentic engineering are getting closer than I'd like</title>
+      <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</guid>
+      <pubDate>Wed, 06 May 2026 14:24:08 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison discusses the evolving intersection between 'vibe coding'—a rapid, output-focused approach to AI programming—and 'agentic engineering,' which emphasizes rigorous technical standards. He notes a personal shift where these previously distinct methodologies are beginning to blur in his own workflow.</description>
+    </item>
+
+    <item>
+      <title>datasette-referrer-policy 0.1</title>
+      <link>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</guid>
+      <pubDate>Tue, 05 May 2026 23:44:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces the datasette-referrer-policy 0.1 plugin, developed to resolve OpenStreetMap tile loading issues in Datasette. The plugin allows users to override the default no-referrer policy, which was previously blocking tile requests.</description>
+    </item>
+
+    <item>
+      <title>Our AI started a cafe in Stockholm</title>
+      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
+      <pubDate>Tue, 05 May 2026 22:14:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Andon Labs is experimenting with an AI agent managing a cafe in Stockholm, which has led to absurd inventory orders and logistical errors. The post critiques the ethical implications of using real-world systems for such experiments, arguing that they waste human time and resources.</description>
+    </item>
+
     <item>
       <title>The Impossible Things We Have to Believe</title>
       <link>https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/</link>
@@ -757,159 +910,6 @@ http://antirez.com/news/164
       <pubDate>Tue, 28 Apr 2026 05:01:42 GMT</pubDate>
       <source url="https://www.troyhunt.com/">Troy Hunt</source>
       <description>Troy Hunt discusses the emerging trend of creating equality policies for AI bots, highlighting the shift in human-AI interaction. He notes that while the concept is partially tongue-in-cheek, it addresses the evolving necessity for professional conduct in the age of advanced artificial intelligence.</description>
-    </item>
-
-    <item>
-      <title>Anthropic Mythos – We’ve Opened Pandora’s Box</title>
-      <link>https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</link>
-      <guid>https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:00:48 GMT</pubDate>
-      <source url="https://steveblank.com/">Steve Blank</source>
-      <description>The article explores the shifting threats in cybersecurity, moving from the long-feared 'quantum apocalypse' to the more immediate and unpredictable risks posed by generative AI. It highlights how the integration of AI into malicious activities represents a fundamental shift in the global threat landscape.</description>
-    </item>
-
-    <item>
-      <title>Collective Speed Is Not the Summation of Individual Speed</title>
-      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</link>
-      <guid>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</guid>
-      <pubDate>Sun, 26 Apr 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The article uses the analogy of a 4x100 relay race to argue that individual speed does not directly translate to collective performance. It suggests that, like baton passes in a race, the success of a software development team depends more on the quality of communication and relationships between members than the speed of individual contributors.</description>
-    </item>
-
-    <item>
-      <title>Illegal vs Unwanted States</title>
-      <link>https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:14:09 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The article distinguishes between illegal states, which are fundamentally forbidden, and unwanted states, which are undesirable but potentially recoverable. It argues that systems must be designed to represent and handle these unwanted states because external factors often force systems into them, necessitating effective detection and resolution mechanisms.</description>
-    </item>
-
-    <item>
-      <title>Understanding systems</title>
-      <link>https://entropicthoughts.com/understanding-systems</link>
-      <guid>https://entropicthoughts.com/understanding-systems</guid>
-      <pubDate>Mon, 27 Apr 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article explores the fundamental principles of systems thinking and how they apply to complex organizational structures. It aims to provide a framework for better decision-making and problem-solving within interconnected environments.</description>
-    </item>
-
-    <item>
-      <title>QuickQWERTY 1.2.2</title>
-      <link>https://susam.net/code/news/quickqwerty/1.2.2.html</link>
-      <guid>https://susam.net/code/news/quickqwerty/1.2.2.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>QuickQWERTY 1.2.2 has been released, featuring a critical bug fix for the lesson restart function. The project has also migrated its source code hosting platform to Codeberg, marking its third hosting location in 17 years.</description>
-    </item>
-
-    <item>
-      <title>GitHub Actions is the weakest link</title>
-      <link>https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</link>
-      <guid>https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</guid>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article argues that GitHub Actions has become a major security vulnerability in the open-source supply chain. It highlights how convenient default features, such as mutable dependency tags and permissive workflow triggers, are frequently exploited to compromise repositories and harvest credentials.</description>
-    </item>
-
-    <item>
-      <title>The Loop: everything has happened before, and everything will happen again</title>
-      <link>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</link>
-      <guid>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</guid>
-      <pubDate>Mon, 27 Apr 2026 22:38:38 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This article discusses the cyclical nature of human behavior, suggesting that we repeat historical mistakes because our cognitive hardware has remained largely unchanged for millennia. It highlights persistent patterns like financial bubbles and social scapegoating as evidence of our evolutionary limitations.</description>
-    </item>
-
-    <item>
-      <title>Turning a trick into a technique</title>
-      <link>https://www.johndcook.com/blog/2026/04/28/even-series-trick/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/28/even-series-trick/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:44:58 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author explores the transition from a mathematical 'trick' to a formal 'technique' by generalizing a high-order approximation method. By refining a previous observation involving even functions, the article demonstrates how iterative mathematical patterns can be systematized for broader application.</description>
-    </item>
-
-    <item>
-      <title>Circular arc approximation</title>
-      <link>https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</link>
-      <guid>https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:09:42 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the mathematical approximation of a circular arc length using the lengths of the arc's chord and the chord of its half-arc. It provides the geometric derivation to calculate the arc length based on these chord measurements.</description>
-    </item>
-
-    <item>
-      <title>Before GitHub</title>
-      <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
-      <guid>https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author reflects on the evolution of Open Source hosting, tracing the shift from tools like SourceForge and Trac to the dominance of GitHub. They discuss how GitHub became a critical social and professional hub for developers while expressing concern over its recent decline and the long-term impact of frictionless code distribution.</description>
-    </item>
-
-    <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</guid>
-      <pubDate>Tue, 28 Apr 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article explores the implementation of a cross-process reader/writer lock that restricts the number of concurrent readers. It introduces the use of a semaphore as a fundamental synchronization mechanism to manage access to a shared resource.</description>
-    </item>
-
-    <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <guid>https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
-      <description>Mitchell Hashimoto announces the migration of the Ghostty terminal emulator project away from GitHub. This move marks a significant shift in infrastructure for the open-source project.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Vicky Osterweil's &quot;The Extended Universe&quot; (28 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/27/mouseketeers/</link>
-      <guid>https://pluralistic.net/2026/04/27/mouseketeers/</guid>
-      <pubDate>Tue, 28 Apr 2026 05:57:01 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow highlights Vicky Osterweil's 'The Extended Universe,' a critical examination of how Disney's cultural dominance has reshaped the film industry. The post reflects on the power of sharp cultural criticism by comparing it to John Kessel's famous analysis of Orson Scott Card's 'Ender's Game.'</description>
-    </item>
-
-    <item>
-      <title>Don't use localhost:3000, use your own custom domain </title>
-      <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
-      <guid>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
-      <pubDate>Mon, 27 Apr 2026 23:17:54 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The author advocates for using custom local domains instead of incrementing localhost ports to improve project management and development workflows. By configuring the system hosts file and a reverse proxy, developers can map friendly URLs to local applications, simplifying navigation and cross-project communication.</description>
-    </item>
-
-    <item>
-      <title>Spring 2026 Dev Contest Results!</title>
-      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
-      <guid>https://repebble.com/blog/spring-2026-dev-contest-results</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="http://github.com/dylang/node-rss">Eric Migicovsky's Blog RSS Feed</source>
-      <description>Eric Migicovsky announces the results of the Spring 2026 Pebble developer contest. Over 500 new applications and watchfaces were submitted by the community.</description>
-    </item>
-
-    <item>
-      <title>Quoting OpenAI Codex base_instructions</title>
-      <link>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</guid>
-      <pubDate>Tue, 28 Apr 2026 22:02:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights a specific constraint found within the OpenAI Codex base instructions. The excerpt reveals a system directive that strictly limits the model from discussing certain mythical creatures or animals unless directly relevant to the user query.</description>
-    </item>
-
-    <item>
-      <title>Quoting Matthew Yglesias</title>
-      <link>https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</guid>
-      <pubDate>Tue, 28 Apr 2026 13:25:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The post quotes Matthew Yglesias reflecting on the current state of AI in software development. Yglesias expresses a preference for professionally managed software products built with AI assistance rather than 'vibe-coding' by individuals.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-05-05T22:18:27.848Z",
+  "last_updated": "2026-05-06T22:15:19.739Z",
   "articles": [
+    {
+      "id": "6b5da7a47758bb5e",
+      "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-05-06T21:49:20.000Z",
+      "summary_en": "This article introduces asynchronous programming support in SQLAlchemy 2, which was added in version 1.4. It explains the integration of asyncio with both Core and ORM modules, highlighting its benefits for modern web frameworks like FastAPI.",
+      "summary_zh": "本文介紹了 SQLAlchemy 2 自 1.4 版本起對非同步程式設計的支援。文章說明了如何將 asyncio 與 Core 及 ORM 模組整合，並強調了其對 FastAPI 等現代 Web 框架的應用價值。",
+      "keywords": [
+        "SQLAlchemy",
+        "asyncio",
+        "FastAPI",
+        "Python",
+        "ORM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview of the new asynchronous capabilities introduced in SQLAlchemy 2.",
+      "pacer_reason_zh": "本文內容概述了 SQLAlchemy 2 中引入的非同步功能之概念與背景。"
+    },
+    {
+      "id": "cafc54395b674132",
+      "title": "Open weights are quietly closing up - and that's a problem",
+      "url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-05-06T00:00:00.000Z",
+      "summary_en": "The article warns that the trend of closing off open-weight AI models threatens market competition. It argues that these models are essential for preventing frontier AI labs from establishing a restrictive oligopoly that extracts excessive consumer surplus.",
+      "summary_zh": "本文指出開放權重人工智慧模型的封閉趨勢將威脅市場競爭。作者認為這些模型對於防止領先 AI 實驗室形成壟斷並榨取過多消費者剩餘至關重要。",
+      "keywords": [
+        "open weights",
+        "AI",
+        "oligopoly",
+        "frontier labs",
+        "market competition"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the economic risks associated with the industry's shift away from open-weight models.",
+      "pacer_reason_zh": "本文針對產業轉向封閉權重模型所帶來的經濟風險提供了概念性的分析與觀點。"
+    },
+    {
+      "id": "5e7ed3b1708285f6",
+      "title": "Weekly Update 502",
+      "url": "https://www.troyhunt.com/weekly-update-502/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-06T00:14:13.000Z",
+      "summary_en": "Troy Hunt analyzes how the ShinyHunters group successfully compromises major brands despite their limited technical experience. The post highlights how the group leverages accessible vulnerabilities to gain unauthorized access to large-scale data.",
+      "summary_zh": "Troy Hunt 分析了 ShinyHunters 組織如何在技術經驗有限的情況下，成功侵入各大品牌的資料庫。文中指出該組織如何透過善用可存取的漏洞，獲取大規模的數據資料。",
+      "keywords": [
+        "cybersecurity",
+        "ShinyHunters",
+        "data breach",
+        "vulnerabilities",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying dynamics and conceptual reality of modern cyber threats and attacker behavior.",
+      "pacer_reason_zh": "內容解釋了現代網路威脅與攻擊者行為背後的運作機制與概念。"
+    },
+    {
+      "id": "b2710547aaf0b8aa",
+      "title": "New Logic for Programmers (and the future of this newsletter)",
+      "url": "https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-05-06T17:03:46.000Z",
+      "summary_en": "The author provides updates on the 'Logic for Programmers' book release and announces their new role as a developer educator at Antithesis. They clarify that the newsletter will continue independently while shifting its focus slightly as the author explores new professional topics.",
+      "summary_zh": "作者分享了書籍《Logic for Programmers》的發行進度，並宣布將加入 Antithesis 擔任開發者教育人員。文中強調該電子報將維持獨立運作，但未來內容可能會隨著作者工作重心的轉移而進行調整。",
+      "keywords": [
+        "Logic for Programmers",
+        "Antithesis",
+        "software engineering",
+        "newsletter",
+        "developer education"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post functions primarily as a personal update and a conceptual announcement regarding the future direction of the author's work.",
+      "pacer_reason_zh": "本文主要作為作者的個人近況更新，並對未來寫作方向進行了概念性的說明與規劃。"
+    },
+    {
+      "id": "0c5519ffb403e74a",
+      "title": "Revisiting the 2015 Open Source Census",
+      "url": "https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-06T10:00:00.000Z",
+      "summary_en": "The article revisits the 2015 Open Source Census, a project designed to identify high-risk software vulnerabilities before they become critical. It highlights how the xz-utils library was identified as a risk years before it became a major security concern, demonstrating the limitations of historical risk-scoring formulas.",
+      "summary_zh": "本文重新審視了 2015 年的開源普查計畫，該計畫旨在識別高風險軟體漏洞以防止危機發生。文章指出，xz-utils 庫在多年前就已被標記為風險項目，但當時的評分公式未能正確預測其後來的安全威脅，凸顯了風險評估模型的侷限性。",
+      "keywords": [
+        "open source",
+        "software security",
+        "risk assessment",
+        "xz-utils",
+        "Linux Foundation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses the 2015 Open Source Census as a case study to evaluate the effectiveness of historical security risk-scoring methodologies.",
+      "pacer_reason_zh": "本文以 2015 年開源普查作為案例研究，評估歷史安全風險評分方法的有效性。"
+    },
+    {
+      "id": "932be102436e00a0",
+      "title": "Emotional regulation is a dying art.",
+      "url": "https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-06T00:21:50.000Z",
+      "summary_en": "The article laments the decline of emotional regulation in modern society, contrasting current reactive behaviors with past norms of restraint and composure. It suggests that the ability to process difficult emotions and disagreements without escalating has become an increasingly rare skill.",
+      "summary_zh": "本文感嘆現代社會情緒調節能力的衰退，對比了過去人們面對衝突或壞消息時的克制，與當今社會日益激進的反應。文章指出，保持冷靜處理困難情緒的能力已逐漸成為一種罕見的素養。",
+      "keywords": [
+        "emotional regulation",
+        "social behavior",
+        "mental health",
+        "communication",
+        "psychology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores a conceptual argument regarding the shift in social norms and emotional intelligence.",
+      "pacer_reason_zh": "內容探討了關於社會規範變遷與情緒智商的理論性論點。"
+    },
+    {
+      "id": "e0a681faebc18d5b",
+      "title": "Triangular analog of the squircle",
+      "url": "https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-06T19:53:29.000Z",
+      "summary_en": "This post explores the mathematical derivation of a 'triangular squircle,' a shape that applies the principles of superellipses to a triangular geometry. The author examines how to maintain continuous curvature while transitioning a triangle into a rounded, squircle-like form.",
+      "summary_zh": "本文探討了「三角形超橢圓」（triangular squircle）的數學推導，這是一種將超橢圓原理應用於三角形幾何的形狀。作者分析了如何在保持連續曲率的同時，將三角形轉化為類似圓角的形狀。",
+      "keywords": [
+        "mathematics",
+        "geometry",
+        "squircle",
+        "superellipse",
+        "calculus"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and explores the theoretical construction of a new geometric shape.",
+      "pacer_reason_zh": "本文解釋了一個數學概念，並探討了一種新幾何形狀的理論建構。"
+    },
+    {
+      "id": "88221048aa685fe9",
+      "title": "Unified config files",
+      "url": "https://www.johndcook.com/blog/2026/05/06/unified-config-files/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-06T16:32:20.000Z",
+      "summary_en": "The author discusses strategies for maintaining a consistent work environment across multiple computers by unifying configuration settings. The post highlights practical approaches, such as key remapping, to ensure that unimportant differences between machines do not disrupt productivity.",
+      "summary_zh": "作者探討如何透過統一設定檔來在多台電腦間維持一致的工作環境。文中強調了透過重新對應按鍵等實作方式，確保機器間不必要的差異不會影響生產力。",
+      "keywords": [
+        "configuration",
+        "productivity",
+        "key mapping",
+        "workflow",
+        "environment"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on practical methods and techniques for configuring a consistent work environment.",
+      "pacer_reason_zh": "本文著重於配置一致工作環境的實作方法與技巧。"
+    },
+    {
+      "id": "8a2e291cf284126b",
+      "title": "The mythology of category theory",
+      "url": "https://www.johndcook.com/blog/2026/05/06/category-mythology/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-06T11:37:42.000Z",
+      "summary_en": "This post discusses the common misconceptions surrounding category theory, arguing that while it serves as a powerful language for describing patterns, it is not a magical solution that provides something for nothing. The author critiques the unrealistic expectations placed on the field and references external perspectives to demystify its practical utility.",
+      "summary_zh": "這篇文章探討了圍繞範疇論的常見誤解，指出雖然它是描述模式的強大語言，但並非能平白創造價值的神奇工具。作者批判了人們對該領域不切實際的期望，並引用外部觀點來釐清其真正的實用性。",
+      "keywords": [
+        "category theory",
+        "mathematics",
+        "patterns",
+        "misconceptions",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the nature, purpose, and limitations of a theoretical concept.",
+      "pacer_reason_zh": "本文重點在於解釋一個理論概念的本質、目的及其侷限性。"
+    },
+    {
+      "id": "ddc2f8e60c31c57a",
+      "title": "Changing one character in a PDF",
+      "url": "https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-05T22:45:26.000Z",
+      "summary_en": "The author investigates why replacing a hyphen with an en-dash in a PDF results in a larger file size. The analysis explores how character encoding and the internal structure of PDF streams influence document metadata and byte count.",
+      "summary_zh": "作者探討了將 PDF 中的連字號替換為連接號後，檔案大小為何會增加的問題。文中分析了字元編碼方式以及 PDF 檔案結構如何影響元數據與最終的位元組大小。",
+      "keywords": [
+        "PDF",
+        "encoding",
+        "UTF-8",
+        "file size",
+        "character encoding"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post analyzes a specific observation about file size changes, functioning as a technical investigation of a phenomenon.",
+      "pacer_reason_zh": "本文針對檔案大小變化的特定現象進行分析，屬於針對技術現象的調查與驗證。"
+    },
+    {
+      "id": "b62a2965e399c5be",
+      "title": "Why not have changes in API behavior depend on the SDK you link against?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-06T14:00:00.000Z",
+      "summary_en": "The author explains why tying API behavior changes to the linked SDK version is problematic in practice. He argues that static libraries make this approach effectively impossible to implement consistently.",
+      "summary_zh": "作者解釋了為什麼將 API 行為的變更綁定到連結的 SDK 版本在實務上行不通。他指出靜態函式庫的存在使得這種機制難以一致地執行。",
+      "keywords": [
+        "API",
+        "SDK",
+        "static libraries",
+        "software engineering",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation for the technical limitations of linking API behavior to specific SDK versions.",
+      "pacer_reason_zh": "這篇文章針對將 API 行為連結至特定 SDK 版本所面臨的技術限制，提供了概念性的解釋。"
+    },
+    {
+      "id": "f717688c521e5c99",
+      "title": "Pluralistic: In praise of vultures (06 May 2026)",
+      "url": "https://pluralistic.net/2026/05/06/champerty-loves-company/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-06T10:15:36.000Z",
+      "summary_en": "Cory Doctorow argues that modern capitalists fundamentally oppose the competition required for true capitalism to function. He contends that corporations seek to restrict consumer choice to maintain monopolies, contrary to the theoretical ideal of markets as distributed, efficiency-optimizing systems.",
+      "summary_zh": "Cory Doctorow 認為現代資本家從根本上反對真正資本主義運作所需的競爭環境。他主張企業試圖限制消費者的選擇以維持壟斷，這與將市場視為分配式優化系統的理想模式背道而馳。",
+      "keywords": [
+        "capitalism",
+        "monopoly",
+        "competition",
+        "markets",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of contemporary capitalist practices and their divergence from economic theory.",
+      "pacer_reason_zh": "本文對當代資本主義實踐及其與經濟理論的背離提供了概念性的批判分析。"
+    },
+    {
+      "id": "f19803d518324517",
+      "title": "Asimov's three laws are merely a suggestion ",
+      "url": "https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-06T12:00:00.000Z",
+      "summary_en": "The article explores the limitations of applying Asimov's Three Laws of Robotics to modern generative AI. It argues that unlike deterministic logical constraints, current AI safety measures are based on learned behaviors and system prompts that remain susceptible to jailbreaks.",
+      "summary_zh": "本文探討了將艾西莫夫機器人三定律應用於現代生成式 AI 的局限性。文中指出，與確定性的邏輯約束不同，目前的 AI 安全措施是基於學習行為和系統提示詞，因此仍然容易受到越獄攻擊的影響。",
+      "keywords": [
+        "AI Safety",
+        "Asimov's Laws",
+        "Generative AI",
+        "Jailbreak",
+        "System Prompts"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of why current AI safety mechanisms fundamentally differ from hard logic constraints.",
+      "pacer_reason_zh": "本文針對目前的 AI 安全機制與硬邏輯約束在根本上的差異，提供了概念性的解析。"
+    },
+    {
+      "id": "bbb4f250c21dbb1f",
+      "title": "Live blog: Code w/ Claude 2026",
+      "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-06T15:58:27.000Z",
+      "summary_en": "This post is a live-blogging entry covering the keynote sessions from Anthropic's 'Code w/ Claude' 2026 event. It captures real-time updates and highlights regarding the company's latest developments in AI coding tools.",
+      "summary_zh": "本文是 Anthropic 2026 年「Code w/ Claude」活動的主題演講現場轉播。文章記錄了活動早期的重點內容，分享了關於 Anthropic 最新 AI 編碼工具的即時資訊與觀察。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI",
+        "live-blog",
+        "coding"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a chronological reference log of an event, providing a record of the proceedings.",
+      "pacer_reason_zh": "本文作為活動的即時記錄與參考資料，整理了會議過程的時間軸與關鍵資訊。"
+    },
+    {
+      "id": "b4a37e868793364a",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-06T14:24:08.000Z",
+      "summary_en": "Simon Willison discusses the evolving intersection between 'vibe coding'—a rapid, output-focused approach to AI programming—and 'agentic engineering,' which emphasizes rigorous technical standards. He notes a personal shift where these previously distinct methodologies are beginning to blur in his own workflow.",
+      "summary_zh": "Simon Willison 探討了「氛圍編碼」(vibe coding) 與「代理式工程」(agentic engineering) 之間日益模糊的界線。他指出，原本將這種不深究程式碼品質的開發模式與嚴謹的工程實踐區分開來，但現在兩者在實際應用中已開始產生重疊。",
+      "keywords": [
+        "AI coding",
+        "vibe coding",
+        "agentic engineering",
+        "software development",
+        "Simon Willison"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis and reflection on the evolving definition of AI-assisted programming paradigms.",
+      "pacer_reason_zh": "本文對 AI 輔助編程範式的演變定義進行了概念性分析與反思。"
+    },
+    {
+      "id": "da773fbd4b4acb1d",
+      "title": "datasette-referrer-policy 0.1",
+      "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-05T23:44:27.000Z",
+      "summary_en": "Simon Willison introduces the datasette-referrer-policy 0.1 plugin, developed to resolve OpenStreetMap tile loading issues in Datasette. The plugin allows users to override the default no-referrer policy, which was previously blocking tile requests.",
+      "summary_zh": "Simon Willison 推出了 datasette-referrer-policy 0.1 外掛程式，旨在解決 Datasette 中 OpenStreetMap 圖磚無法正常顯示的問題。該外掛允許使用者自訂 Referrer-Policy 標頭，解決了因預設阻擋導致的請求失敗問題。",
+      "keywords": [
+        "datasette",
+        "openstreetmap",
+        "referrer-policy",
+        "plugin",
+        "web-development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces the release of a new tool and explains how it solves specific technical configuration issues.",
+      "pacer_reason_zh": "本文宣布了一項新工具的發布，並解釋了該工具如何解決特定的技術配置問題。"
+    },
+    {
+      "id": "e3667d49dc363deb",
+      "title": "Our AI started a cafe in Stockholm",
+      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-05T22:14:21.000Z",
+      "summary_en": "Andon Labs is experimenting with an AI agent managing a cafe in Stockholm, which has led to absurd inventory orders and logistical errors. The post critiques the ethical implications of using real-world systems for such experiments, arguing that they waste human time and resources.",
+      "summary_zh": "Andon Labs 在斯德哥爾摩進行了一項由 AI 管理咖啡廳的實驗，過程中 AI 出現了訂購錯誤物資及處理行政申請失敗等荒謬情況。本文批評這類直接影響現實世界的實驗有違倫理，並指出其浪費了人類的寶貴時間與資源。",
+      "keywords": [
+        "AI agent",
+        "Andon Labs",
+        "AI ethics",
+        "automation",
+        "Stockholm"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a real-world case study to evaluate the consequences and ethical implications of AI-driven operational management.",
+      "pacer_reason_zh": "本文通過一個真實的案例研究，評估了 AI 營運管理所帶來的後果與倫理影響。"
+    },
     {
       "id": "e627abaa0459d814",
       "title": "The Impossible Things We Have to Believe",

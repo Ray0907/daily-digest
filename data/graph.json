@@ -1,6 +1,278 @@
 {
   "nodes": [
     {
+      "id": "6b5da7a47758bb5e",
+      "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy",
+      "pacer": "C",
+      "keywords": [
+        "SQLAlchemy",
+        "asyncio",
+        "FastAPI",
+        "Python",
+        "ORM"
+      ],
+      "published": "2026-05-06T21:49:20.000Z"
+    },
+    {
+      "id": "e0a681faebc18d5b",
+      "title": "Triangular analog of the squircle",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "geometry",
+        "squircle",
+        "superellipse",
+        "calculus"
+      ],
+      "published": "2026-05-06T19:53:29.000Z"
+    },
+    {
+      "id": "b2710547aaf0b8aa",
+      "title": "New Logic for Programmers (and the future of this newsletter)",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "url": "https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/",
+      "pacer": "C",
+      "keywords": [
+        "Logic for Programmers",
+        "Antithesis",
+        "software engineering",
+        "newsletter",
+        "developer education"
+      ],
+      "published": "2026-05-06T17:03:46.000Z"
+    },
+    {
+      "id": "88221048aa685fe9",
+      "title": "Unified config files",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/06/unified-config-files/",
+      "pacer": "P",
+      "keywords": [
+        "configuration",
+        "productivity",
+        "key mapping",
+        "workflow",
+        "environment"
+      ],
+      "published": "2026-05-06T16:32:20.000Z"
+    },
+    {
+      "id": "bbb4f250c21dbb1f",
+      "title": "Live blog: Code w/ Claude 2026",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI",
+        "live-blog",
+        "coding"
+      ],
+      "published": "2026-05-06T15:58:27.000Z"
+    },
+    {
+      "id": "b4a37e868793364a",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI coding",
+        "vibe coding",
+        "agentic engineering",
+        "software development",
+        "Simon Willison"
+      ],
+      "published": "2026-05-06T14:24:08.000Z"
+    },
+    {
+      "id": "b62a2965e399c5be",
+      "title": "Why not have changes in API behavior depend on the SDK you link against?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303",
+      "pacer": "C",
+      "keywords": [
+        "API",
+        "SDK",
+        "static libraries",
+        "software engineering",
+        "The Old New Thing"
+      ],
+      "published": "2026-05-06T14:00:00.000Z"
+    },
+    {
+      "id": "f19803d518324517",
+      "title": "Asimov's three laws are merely a suggestion ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI Safety",
+        "Asimov's Laws",
+        "Generative AI",
+        "Jailbreak",
+        "System Prompts"
+      ],
+      "published": "2026-05-06T12:00:00.000Z"
+    },
+    {
+      "id": "8a2e291cf284126b",
+      "title": "The mythology of category theory",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/06/category-mythology/",
+      "pacer": "C",
+      "keywords": [
+        "category theory",
+        "mathematics",
+        "patterns",
+        "misconceptions",
+        "philosophy"
+      ],
+      "published": "2026-05-06T11:37:42.000Z"
+    },
+    {
+      "id": "f717688c521e5c99",
+      "title": "Pluralistic: In praise of vultures (06 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/06/champerty-loves-company/",
+      "pacer": "C",
+      "keywords": [
+        "capitalism",
+        "monopoly",
+        "competition",
+        "markets",
+        "Cory Doctorow"
+      ],
+      "published": "2026-05-06T10:15:36.000Z"
+    },
+    {
+      "id": "0c5519ffb403e74a",
+      "title": "Revisiting the 2015 Open Source Census",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html",
+      "pacer": "E",
+      "keywords": [
+        "open source",
+        "software security",
+        "risk assessment",
+        "xz-utils",
+        "Linux Foundation"
+      ],
+      "published": "2026-05-06T10:00:00.000Z"
+    },
+    {
+      "id": "932be102436e00a0",
+      "title": "Emotional regulation is a dying art.",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/",
+      "pacer": "C",
+      "keywords": [
+        "emotional regulation",
+        "social behavior",
+        "mental health",
+        "communication",
+        "psychology"
+      ],
+      "published": "2026-05-06T00:21:50.000Z"
+    },
+    {
+      "id": "5e7ed3b1708285f6",
+      "title": "Weekly Update 502",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-502/",
+      "pacer": "C",
+      "keywords": [
+        "cybersecurity",
+        "ShinyHunters",
+        "data breach",
+        "vulnerabilities",
+        "Troy Hunt"
+      ],
+      "published": "2026-05-06T00:14:13.000Z"
+    },
+    {
+      "id": "cafc54395b674132",
+      "title": "Open weights are quietly closing up - and that's a problem",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "open weights",
+        "AI",
+        "oligopoly",
+        "frontier labs",
+        "market competition"
+      ],
+      "published": "2026-05-06T00:00:00.000Z"
+    },
+    {
+      "id": "da773fbd4b4acb1d",
+      "title": "datasette-referrer-policy 0.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "datasette",
+        "openstreetmap",
+        "referrer-policy",
+        "plugin",
+        "web-development"
+      ],
+      "published": "2026-05-05T23:44:27.000Z"
+    },
+    {
+      "id": "ddc2f8e60c31c57a",
+      "title": "Changing one character in a PDF",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/",
+      "pacer": "E",
+      "keywords": [
+        "PDF",
+        "encoding",
+        "UTF-8",
+        "file size",
+        "character encoding"
+      ],
+      "published": "2026-05-05T22:45:26.000Z"
+    },
+    {
+      "id": "e3667d49dc363deb",
+      "title": "Our AI started a cafe in Stockholm",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "AI agent",
+        "Andon Labs",
+        "AI ethics",
+        "automation",
+        "Stockholm"
+      ],
+      "published": "2026-05-05T22:14:21.000Z"
+    },
+    {
       "id": "e627abaa0459d814",
       "title": "The Impossible Things We Have to Believe",
       "source": "Bert Hubert's writings",
@@ -111,70 +383,6 @@
         "software-release"
       ],
       "published": "2026-05-05T01:56:55.000Z"
-    },
-    {
-      "id": "cc242aee1b48b5c1",
-      "title": "llm-echo 0.5a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "llm-echo",
-        "LLM",
-        "testing",
-        "CLI",
-        "automation"
-      ],
-      "published": "2026-05-05T01:31:54.000Z"
-    },
-    {
-      "id": "e246958d7aa5b07c",
-      "title": "Quoting John Gruber",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "OpenAI",
-        "Y Combinator",
-        "John Gruber",
-        "valuation",
-        "investment"
-      ],
-      "published": "2026-05-05T00:46:29.000Z"
-    },
-    {
-      "id": "9e2378534e2ce27c",
-      "title": "Granite 4.1 3B SVG Pelican Gallery",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "IBM",
-        "Granite 4.1",
-        "LLM",
-        "GGUF",
-        "SVG"
-      ],
-      "published": "2026-05-04T23:49:24.000Z"
-    },
-    {
-      "id": "bf7b7e0f90f7ff6d",
-      "title": "Quoting Andy Masley",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "data centers",
-        "land use",
-        "food security",
-        "agriculture",
-        "AI infrastructure"
-      ],
-      "published": "2026-05-04T22:51:09.000Z"
     },
     {
       "id": "eb8f8fefb0d7878b",
@@ -704,22 +912,6 @@
       "published": "2026-05-01T07:00:00.000Z"
     },
     {
-      "id": "209869a3937db8db",
-      "title": "Approximating even functions by powers of cosine",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/",
-      "pacer": "C",
-      "keywords": [
-        "mathematics",
-        "approximation",
-        "cosine",
-        "Bessel function",
-        "numerical analysis"
-      ],
-      "published": "2026-05-01T00:06:12.000Z"
-    },
-    {
       "id": "e4a932d5592c7271",
       "title": "Touch Typing Number Keys",
       "source": "Susam Pal",
@@ -750,22 +942,6 @@
         "Offline Translation"
       ],
       "published": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "id": "8ba9d7a2f01eb9f4",
-      "title": "Three ways to differentiate ReLU",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/",
-      "pacer": "C",
-      "keywords": [
-        "ReLU",
-        "derivative",
-        "neural networks",
-        "calculus",
-        "machine learning"
-      ],
-      "published": "2026-04-30T14:51:08.000Z"
     },
     {
       "id": "fa64ea4d5c08d78c",
@@ -830,22 +1006,6 @@
         "global infrastructure"
       ],
       "published": "2026-04-30T12:03:35.000Z"
-    },
-    {
-      "id": "4ba818c5d4fc5549",
-      "title": "Announcing the 2026 Open Source Fantasy Draft",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html",
-      "pacer": "C",
-      "keywords": [
-        "Open Source",
-        "Fantasy League",
-        "Software Development",
-        "Gamification",
-        "Maintainers"
-      ],
-      "published": "2026-04-30T10:00:00.000Z"
     },
     {
       "id": "16a055c63c1c722b",
@@ -976,22 +1136,6 @@
       "published": "2026-04-29T17:00:00.000Z"
     },
     {
-      "id": "d54f2df041954b65",
-      "title": "Developing a cross-process reader/writer lock with limited readers, part 2: Taking turns when being grabby",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260429-00/?p=112286",
-      "pacer": "P",
-      "keywords": [
-        "multithreading",
-        "lock",
-        "programming",
-        "concurrency",
-        "Windows API"
-      ],
-      "published": "2026-04-29T14:00:00.000Z"
-    },
-    {
       "id": "0eb54bab0bfae18a",
       "title": "Let's Get Digging!",
       "source": "Terence Eden’s Blog",
@@ -1056,22 +1200,6 @@
       "published": "2026-04-29T00:00:00.000Z"
     },
     {
-      "id": "dc0f16a9e550d3b8",
-      "title": "Turning a trick into a technique",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/",
-      "pacer": "P",
-      "keywords": [
-        "mathematics",
-        "approximation",
-        "even functions",
-        "methodology",
-        "calculus"
-      ],
-      "published": "2026-04-28T21:44:58.000Z"
-    },
-    {
       "id": "569a50f16c8e75c5",
       "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
       "source": "Experimental History",
@@ -1104,22 +1232,6 @@
       "published": "2026-04-28T15:14:09.000Z"
     },
     {
-      "id": "28800fcaa5d21833",
-      "title": "Circular arc approximation",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/",
-      "pacer": "P",
-      "keywords": [
-        "geometry",
-        "circular arc",
-        "mathematics",
-        "approximation",
-        "trigonometry"
-      ],
-      "published": "2026-04-28T13:09:42.000Z"
-    },
-    {
       "id": "a1db390df188cc3d",
       "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
       "source": "Steve Blank",
@@ -1134,22 +1246,6 @@
         "Tech Policy"
       ],
       "published": "2026-04-28T13:00:48.000Z"
-    },
-    {
-      "id": "974fc309adf20df8",
-      "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/27/mouseketeers/",
-      "pacer": "C",
-      "keywords": [
-        "Disney",
-        "cultural criticism",
-        "Vicky Osterweil",
-        "media studies",
-        "literary analysis"
-      ],
-      "published": "2026-04-28T05:57:01.000Z"
     },
     {
       "id": "685c81d2a92b1d1f",
@@ -1230,22 +1326,6 @@
         "Eric Migicovsky"
       ],
       "published": "2026-04-28T00:00:00.000Z"
-    },
-    {
-      "id": "0b4f74ee818bd5d8",
-      "title": "Don't use localhost:3000, use your own custom domain ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
-      "pacer": "P",
-      "keywords": [
-        "localhost",
-        "web-development",
-        "reverse-proxy",
-        "hosts-file",
-        "development-workflow"
-      ],
-      "published": "2026-04-27T23:17:54.000Z"
     },
     {
       "id": "08d7491bf33094af",
@@ -1694,22 +1774,6 @@
         "productivity"
       ],
       "published": "2026-04-20T22:00:00.000Z"
-    },
-    {
-      "id": "7ebc112fc44318b2",
-      "title": "How we lost the living Now",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/how-we-lost-the-living-now/",
-      "pacer": "C",
-      "keywords": [
-        "timekeeping",
-        "railway",
-        "standardization",
-        "history",
-        "synchronization"
-      ],
-      "published": "2026-04-20T01:01:22.000Z"
     },
     {
       "id": "97c21652488d35cb",
@@ -2351,22 +2415,6 @@
       "published": "2026-04-07T17:02:44.000Z"
     },
     {
-      "id": "612663a6ac4616e5",
-      "title": "Weekly Update 498",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-498/",
-      "pacer": "E",
-      "keywords": [
-        "invoicing",
-        "business management",
-        "payment terms",
-        "Troy Hunt",
-        "freelancing"
-      ],
-      "published": "2026-04-07T01:53:05.000Z"
-    },
-    {
       "id": "0a0c8791c404efbf",
       "title": "The Building Block Economy",
       "source": "Mitchell Hashimoto",
@@ -2413,22 +2461,6 @@
         "cybercrime"
       ],
       "published": "2026-04-06T02:07:17.000Z"
-    },
-    {
-      "id": "a836970785340e9b",
-      "title": "What next for the compute crunch?",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "compute",
-        "supply chain",
-        "hardware",
-        "market trends"
-      ],
-      "published": "2026-04-06T00:00:00.000Z"
     },
     {
       "id": "bac2344713d38351",
@@ -2509,22 +2541,6 @@
         "mental models"
       ],
       "published": "2026-04-03T00:00:00.000Z"
-    },
-    {
-      "id": "c88ef4bc96c22d50",
-      "title": "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships",
-      "pacer": "P",
-      "keywords": [
-        "SQLAlchemy",
-        "Python",
-        "ORM",
-        "Database",
-        "Programming"
-      ],
-      "published": "2026-04-02T10:17:15.000Z"
     },
     {
       "id": "2564525890f34fc8",
@@ -2809,16 +2825,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "96bf37e3a8738c1f",
-      "title": "Choose Boring Technology and Innovative Practices",
-      "source": "Computer Things",
-      "source_url": "https://buttondown.com/hillelwayne",
-      "url": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T14:38:06.000Z"
     },
     {
       "id": "0a7e9be12937a83d",
@@ -3354,6 +3360,26 @@
   ],
   "links": [
     {
+      "source": "6b5da7a47758bb5e",
+      "target": "b06dc189f4e0745b",
+      "shared_keywords": [
+        "SQLAlchemy",
+        "Python",
+        "ORM"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "6b5da7a47758bb5e",
+      "target": "9c2788e6ec779a30",
+      "shared_keywords": [
+        "SQLAlchemy",
+        "Python",
+        "ORM"
+      ],
+      "strength": 0.6
+    },
+    {
       "source": "98fd933603b2f870",
       "target": "f7a5a7d75daf2718",
       "shared_keywords": [
@@ -3384,16 +3410,6 @@
       "strength": 0.6
     },
     {
-      "source": "deaa867f105533d4",
-      "target": "c88ef4bc96c22d50",
-      "shared_keywords": [
-        "SQLAlchemy",
-        "Python",
-        "Programming"
-      ],
-      "strength": 0.6
-    },
-    {
       "source": "b06dc189f4e0745b",
       "target": "9c2788e6ec779a30",
       "shared_keywords": [
@@ -3404,28 +3420,6 @@
         "Many-to-Many"
       ],
       "strength": 1
-    },
-    {
-      "source": "b06dc189f4e0745b",
-      "target": "c88ef4bc96c22d50",
-      "shared_keywords": [
-        "SQLAlchemy",
-        "Python",
-        "ORM",
-        "Database"
-      ],
-      "strength": 0.8
-    },
-    {
-      "source": "9c2788e6ec779a30",
-      "target": "c88ef4bc96c22d50",
-      "shared_keywords": [
-        "SQLAlchemy",
-        "Python",
-        "ORM",
-        "Database"
-      ],
-      "strength": 0.8
     }
   ]
 }
