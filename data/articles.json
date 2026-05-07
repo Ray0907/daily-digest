@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-05-06T22:15:19.739Z",
+  "last_updated": "2026-05-07T22:20:19.433Z",
   "articles": [
+    {
+      "id": "b7832e901b96abd8",
+      "title": "Monitor your devices with LibreNMS on FreeBSD",
+      "url": "https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-05-07T10:45:00.000Z",
+      "summary_en": "This guide provides a straightforward walkthrough for installing LibreNMS on FreeBSD using native packages. It covers the initial configuration of the web stack, including Nginx, PHP, and MySQL, to establish a functional monitoring environment.",
+      "summary_zh": "本指南介紹如何在 FreeBSD 上使用原生套件安裝 LibreNMS 的基本流程。內容涵蓋了 Nginx、PHP 與 MySQL 等網頁堆疊的初步設定，旨在協助使用者建立一個可運作的監控環境。",
+      "keywords": [
+        "LibreNMS",
+        "FreeBSD",
+        "monitoring",
+        "tutorial",
+        "sysadmin"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a step-by-step installation guide for a specific software tool.",
+      "pacer_reason_zh": "本文是針對特定軟體工具的逐步安裝教學指南。"
+    },
+    {
+      "id": "ff3991334b393933",
+      "title": "Article previews in RSS",
+      "url": "https://entropicthoughts.com/article-previews-in-rss",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-05-06T22:00:00.000Z",
+      "summary_en": "The author details their technical process for updating an RSS feed to include article previews. By utilizing Emacs Lisp and the ox-rss backend, they transformed a previously minimal feed into a more informative resource.",
+      "summary_zh": "作者詳細說明了為 RSS 訂閱源增加文章預覽功能的技術過程。通過使用 Emacs Lisp 和 ox-rss 後端，作者將原本簡陋的訂閱源改進為內容更豐富的格式。",
+      "keywords": [
+        "RSS",
+        "Emacs",
+        "Org-mode",
+        "Blog",
+        "Automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the specific technical steps and tools used to implement a new feature in the site's RSS feed.",
+      "pacer_reason_zh": "本文描述了實現網站 RSS 訂閱源新功能所使用的具體技術步驟與工具。"
+    },
+    {
+      "id": "0690e2f03912c943",
+      "title": "How Long Do We Wait for New Inventions?",
+      "url": "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-07T15:23:28.000Z",
+      "summary_en": "This article examines the timeline for the adoption and maturation of new inventions. It suggests that, contrary to popular belief, the gap between invention and widespread implementation is often shorter than anticipated.",
+      "summary_zh": "本文探討了新發明從問世到普及所需的時間跨度。研究指出，與大眾的普遍認知相反，發明轉化為實際應用所需的等待時間往往比預期的要短。",
+      "keywords": [
+        "innovation",
+        "invention",
+        "technology adoption",
+        "history of technology",
+        "construction physics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual question regarding the speed of technological adoption and innovation cycles.",
+      "pacer_reason_zh": "本文探討了關於技術採用速度與創新週期的概念性問題。"
+    },
+    {
+      "id": "a4e7c7b09cd12642",
+      "title": "Free as in Tribbles",
+      "url": "https://nesbitt.io/2026/05/07/free-as-in-tribbles.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-07T10:00:00.000Z",
+      "summary_en": "The author evolves the metaphor of open-source software from 'free as in puppy' to 'free as in tribbles.' While software was once a manageable responsibility like a single pet, modern dependency-heavy stacks replicate uncontrollably, making maintenance overwhelming.",
+      "summary_zh": "作者將開源軟體的隱喻從「免費如小狗」演變為「免費如毛球族 (Tribbles)」。過去軟體如同單一寵物般易於管理，但現代開發依賴龐大的套件鏈，導致軟體像毛球族一樣不斷自我複製，造成維護上的失控。",
+      "keywords": [
+        "open source",
+        "software lifecycle",
+        "dependencies",
+        "metaphor",
+        "maintenance"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'tribbles' analogy to illustrate the uncontrollable growth of modern software dependencies.",
+      "pacer_reason_zh": "本文運用「毛球族」的類比，生動說明現代軟體相依性無限制增長的問題。"
+    },
+    {
+      "id": "b1a19a945aa9f38b",
+      "title": "The war between fast and legitimate is here",
+      "url": "https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-07T01:18:04.000Z",
+      "summary_en": "This article examines the growing tension between rapid technological innovation in artificial intelligence and the slower pace of regulatory efforts like the EU AI Act. It highlights how the agility of tech companies often outstrips the ability of policymakers to keep up with evolving AI capabilities.",
+      "summary_zh": "這篇文章探討了人工智慧快速技術創新與歐盟《人工智慧法案》等緩慢監管努力之間的緊張關係。文中強調，科技公司的靈活性往往超過了決策者跟上不斷演進的 AI 能力的步伐。",
+      "keywords": [
+        "AI Act",
+        "Regulation",
+        "OpenAI",
+        "Innovation",
+        "EU"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual conflict between technological acceleration and regulatory frameworks.",
+      "pacer_reason_zh": "內容解釋了技術加速與監管框架之間的觀念衝突。"
+    },
+    {
+      "id": "9a06e28c9d388b2e",
+      "title": "Smoothed polygons",
+      "url": "https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-07T18:19:24.000Z",
+      "summary_en": "This post explores the mathematical construction of 'smoothed polygons,' which act as triangular analogs to the squircle. By utilizing p-norm level sets, the author explains how these shapes transition between Euclidean geometries as the p-parameter varies.",
+      "summary_zh": "這篇文章探討了「平滑多邊形」的數學結構，這些形狀作為圓角正方形（squircle）的三角形類比。作者透過 p-範數水平集，解釋了隨著 p 參數變化，這些幾何圖形如何在不同的歐幾里得幾何形態間轉換。",
+      "keywords": [
+        "p-norm",
+        "squircle",
+        "geometry",
+        "mathematics",
+        "smoothed polygons"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical theory and conceptual definition behind constructing smoothed polygons using p-norms.",
+      "pacer_reason_zh": "本文解釋了使用 p-範數建構平滑多邊形背後的數學理論與概念定義。"
+    },
+    {
+      "id": "d8b8c46b24ca6c46",
+      "title": "When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-07T14:00:00.000Z",
+      "summary_en": "When upgrading resource strings to Unicode in C++, it is essential to use the L prefix for string literals. Failing to do so can cause the compiler to map the strings back to the original 8-bit code page, potentially leading to encoding issues.",
+      "summary_zh": "在將資源字串升級為 Unicode 時，必須為字串常數加上 L 前綴。若未加上該前綴，編譯器可能會將其映射回 8 位元字碼頁，導致編碼錯誤。",
+      "keywords": [
+        "Unicode",
+        "C++",
+        "Programming",
+        "Resource Strings",
+        "Encoding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is a technical tip providing a specific step to follow when performing a coding task.",
+      "pacer_reason_zh": "這是一則技術提示，提供了執行程式設計任務時必須遵循的具體步驟。"
+    },
+    {
+      "id": "5290c504d1f50709",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-05-07T00:00:00.000Z",
+      "summary_en": "The article discusses the recent emergence of security vulnerabilities within the Linux kernel. It advises users to exercise caution and avoid installing new software updates immediately to mitigate potential risks.",
+      "summary_zh": "本文探討了 Linux 核心近期出現的一系列安全漏洞問題。建議使用者應保持謹慎，暫緩安裝新的軟體更新，以降低潛在風險。",
+      "keywords": [
+        "Linux",
+        "security",
+        "vulnerability",
+        "kernel",
+        "software updates"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a conceptual warning and advisory regarding current system security trends.",
+      "pacer_reason_zh": "內容主要針對當前系統安全趨勢提供概念性的警告與建議。"
+    },
+    {
+      "id": "fdddfe3f5c31486e",
+      "title": "I've found just the right paper for my Bottom Hole problem",
+      "url": "https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-07T11:34:54.000Z",
+      "summary_en": "The author documents a personal investigation to identify the real-world newspaper used as a prop in the 1995 TV show 'Bottom'. By analyzing visual cues and layout patterns, the author attempts to trace the prop back to its source material.",
+      "summary_zh": "作者記錄了一項個人研究，旨在找出 1995 年電視劇《Bottom》中作為道具使用的真實報紙原型。透過分析劇中的視覺線索與版面配置，作者試圖追溯該道具報紙的來源。",
+      "keywords": [
+        "Bottom",
+        "prop",
+        "investigation",
+        "TV show",
+        "newspaper"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content describes an investigative process and the steps taken to verify a hypothesis based on visual evidence.",
+      "pacer_reason_zh": "內容描述了一項調查過程，並說明了基於視覺證據驗證假設所採取的步驟。"
+    },
+    {
+      "id": "6b0f187c62ae2bb6",
+      "title": "Pluralistic: Bubbles are REALLY evil (07 May 2026)",
+      "url": "https://pluralistic.net/2026/05/07/dump-the-pumpers/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-07T08:08:49.000Z",
+      "summary_en": "Cory Doctorow analyzes the varying long-term legacies of economic bubbles, comparing the fraudulent activities of Enron and Worldcom. He illustrates that while both were catastrophic, the aftermath of Enron left behind a unique historical record in the form of released corporate emails.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）分析了經濟泡沫破裂後的不同長期影響，並對安然公司（Enron）與世界通訊公司（Worldcom）的欺詐行為進行了比較。他指出，儘管兩者都造成了災難性後果，但安然公司的崩潰卻意外地留下了一份獨特的歷史紀錄：公司內部郵件的公開。",
+      "keywords": [
+        "economic bubbles",
+        "Enron",
+        "Worldcom",
+        "corporate fraud",
+        "digital archives"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical comparison of corporate collapses as an analogy to explore the broader implications and legacies of economic bubbles.",
+      "pacer_reason_zh": "文章透過比較安然公司與世界通訊公司崩潰的歷史案例作為類比，進一步探討經濟泡沫的深遠影響與遺產。"
+    },
+    {
+      "id": "8179ec5fd21c4cf7",
+      "title": "llm-gemini 0.31",
+      "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-07T19:57:06.000Z",
+      "summary_en": "Simon Willison provides an update on the llm-gemini tool, noting that the Gemini 3.1 Flash-Lite model has transitioned out of its preview phase. The author references his previous analysis of the model, indicating no significant changes in functionality.",
+      "summary_zh": "Simon Willison 針對 llm-gemini 工具發布更新，指出 Gemini 3.1 Flash-Lite 模型已正式脫離預覽階段。作者並提及先前對該模型的分析，表示其功能並無顯著變動。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.1 Flash-Lite",
+        "Simon Willison",
+        "AI",
+        "Generative AI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release announcement and reference for the status change of a specific software model.",
+      "pacer_reason_zh": "此文章作為軟體模型狀態變更的發布公告與參考資訊。"
+    },
+    {
+      "id": "b04200899d48186e",
+      "title": "Big Words",
+      "url": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-07T18:47:09.000Z",
+      "summary_en": "Simon Willison introduces 'Big Words,' a simple web tool designed to generate slide-ready text for presentations using URL query parameters. The tool allows for easy customization of text, colors, gradients, and font settings through an interactive interface.",
+      "summary_zh": "Simon Willison 介紹了一款名為「Big Words」的網頁工具，該工具可透過網址參數快速生成適用於簡報的文字幻燈片。使用者可以透過互動介面輕鬆調整文字內容、顏色、漸層及字體設定。",
+      "keywords": [
+        "web tool",
+        "vibe-coding",
+        "presentation",
+        "URL parameters",
+        "design"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post introduces a specific utility tool and explains how to use its query string parameters to generate slide content.",
+      "pacer_reason_zh": "該文章介紹了一款實用的工具，並說明如何透過網址查詢參數來生成幻燈片內容。"
+    },
+    {
+      "id": "446f5a8605ef2e79",
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-07T17:56:25.000Z",
+      "summary_en": "Mozilla significantly accelerated its Firefox security patching process by leveraging the Claude Mythos AI model to identify and remediate vulnerabilities. By refining their orchestration techniques, the team increased monthly bug fixes from around 20 to over 400, effectively resolving long-standing issues.",
+      "summary_zh": "Mozilla 利用 Claude Mythos AI 模型大幅提升了 Firefox 的安全性修復效率，成功識別並修復了數百個漏洞。透過優化模型引導與篩選技術，該團隊將每月修復的漏洞數量從約 20 個大幅提升至超過 400 個，有效解決了許多深藏已久的技術債。",
+      "keywords": [
+        "Mozilla",
+        "Firefox",
+        "Claude Mythos",
+        "Cybersecurity",
+        "AI-assisted development"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on empirical data and specific outcomes regarding the effectiveness of AI in software security, highlighted by a dramatic spike in bug fix metrics.",
+      "pacer_reason_zh": "本文重點在於 AI 在軟體安全性方面的實證數據與具體成果，並透過漏洞修復數量的顯著增長來呈現其成效。"
+    },
+    {
+      "id": "d4576f9d8fdb5830",
+      "title": "Notes on the xAI/Anthropic data center deal",
+      "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-07T17:09:28.000Z",
+      "summary_en": "Simon Willison critiques Anthropic's new deal to utilize xAI's Colossus data center, citing significant environmental concerns and controversies surrounding its power infrastructure. The author argues that partnering with this facility is a poor strategic move given the increasing political scrutiny over AI data centers.",
+      "summary_zh": "Simon Willison 評論了 Anthropic 與 xAI 達成的新協議，將使用其 Colossus 資料中心，並指出該設施在電力基礎設施方面存在嚴重的環境問題與爭議。作者認為，鑑於公眾對 AI 資料中心的政治審查日益嚴格，Anthropic 選擇與該設施合作是一個糟糕的決策。",
+      "keywords": [
+        "Anthropic",
+        "xAI",
+        "Colossus",
+        "data center",
+        "environmental impact"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides commentary and an analytical perspective on the implications and ethical issues surrounding a corporate partnership.",
+      "pacer_reason_zh": "本文針對企業合作帶來的影響與道德問題提供了評論及分析觀點。"
+    },
+    {
+      "id": "94895c326bda3991",
+      "title": "GitHub Repo Stats",
+      "url": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-07T07:25:14.000Z",
+      "summary_en": "Simon Willison developed a web tool that retrieves hidden GitHub repository statistics, such as total commit counts, which are not displayed on the mobile interface. The tool leverages GitHub's REST and GraphQL APIs to provide users with more comprehensive insights into project activity.",
+      "summary_zh": "Simon Willison 開發了一款網路工具，用於檢索 GitHub 行動版介面上無法直接查看的儲存庫統計資訊，例如總提交次數。該工具透過 GitHub 的 REST 和 GraphQL API 運作，協助使用者更全面地評估專案的活躍度。",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "API",
+        "web tool",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a specific tool and explains the prompt used to create it, serving as a functional utility.",
+      "pacer_reason_zh": "本文介紹了一項特定工具並說明了建立該工具所使用的指令，屬於功能性實用資源。"
+    },
+    {
+      "id": "728bda873362146a",
+      "title": "Why hasn't longer-horizon training slowed AI progress?",
+      "url": "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-07T00:00:00.000Z",
+      "summary_en": "This article explores the theoretical reasons why extending training horizons in AI development has not yet resulted in diminishing returns. It examines the scaling laws and efficiency factors that continue to drive progress despite increased compute demands.",
+      "summary_zh": "本文探討了為何延長 AI 訓練週期至今仍未出現邊際效用遞減的現象。文章分析了持續推動進步的縮放定律與效率因素，儘管算力需求不斷增加。",
+      "keywords": [
+        "AI",
+        "Scaling Laws",
+        "Machine Learning",
+        "Compute",
+        "AI Progress"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual analysis explaining the underlying mechanisms and theories behind current AI scaling trends.",
+      "pacer_reason_zh": "本文屬於概念性分析，旨在解釋當前 AI 擴展趨勢背後的潛在機制與理論。"
+    },
     {
       "id": "6b5da7a47758bb5e",
       "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",

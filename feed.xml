@@ -4,8 +4,152 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 06 May 2026 22:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:20:19 GMT</lastBuildDate>
     
+    <item>
+      <title>Monitor your devices with LibreNMS on FreeBSD</title>
+      <link>https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</link>
+      <guid>https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</guid>
+      <pubDate>Thu, 07 May 2026 10:45:00 GMT</pubDate>
+      <source url="https://it-notes.dragas.net/">IT Notes</source>
+      <description>This guide provides a straightforward walkthrough for installing LibreNMS on FreeBSD using native packages. It covers the initial configuration of the web stack, including Nginx, PHP, and MySQL, to establish a functional monitoring environment.</description>
+    </item>
+
+    <item>
+      <title>Article previews in RSS</title>
+      <link>https://entropicthoughts.com/article-previews-in-rss</link>
+      <guid>https://entropicthoughts.com/article-previews-in-rss</guid>
+      <pubDate>Wed, 06 May 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The author details their technical process for updating an RSS feed to include article previews. By utilizing Emacs Lisp and the ox-rss backend, they transformed a previously minimal feed into a more informative resource.</description>
+    </item>
+
+    <item>
+      <title>How Long Do We Wait for New Inventions?</title>
+      <link>https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions</link>
+      <guid>https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions</guid>
+      <pubDate>Thu, 07 May 2026 15:23:28 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article examines the timeline for the adoption and maturation of new inventions. It suggests that, contrary to popular belief, the gap between invention and widespread implementation is often shorter than anticipated.</description>
+    </item>
+
+    <item>
+      <title>Free as in Tribbles</title>
+      <link>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</link>
+      <guid>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author evolves the metaphor of open-source software from 'free as in puppy' to 'free as in tribbles.' While software was once a manageable responsibility like a single pet, modern dependency-heavy stacks replicate uncontrollably, making maintenance overwhelming.</description>
+    </item>
+
+    <item>
+      <title>The war between fast and legitimate is here</title>
+      <link>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</link>
+      <guid>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</guid>
+      <pubDate>Thu, 07 May 2026 01:18:04 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article examines the growing tension between rapid technological innovation in artificial intelligence and the slower pace of regulatory efforts like the EU AI Act. It highlights how the agility of tech companies often outstrips the ability of policymakers to keep up with evolving AI capabilities.</description>
+    </item>
+
+    <item>
+      <title>Smoothed polygons</title>
+      <link>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</guid>
+      <pubDate>Thu, 07 May 2026 18:19:24 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the mathematical construction of 'smoothed polygons,' which act as triangular analogs to the squircle. By utilizing p-norm level sets, the author explains how these shapes transition between Euclidean geometries as the p-parameter varies.</description>
+    </item>
+
+    <item>
+      <title>When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</guid>
+      <pubDate>Thu, 07 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>When upgrading resource strings to Unicode in C++, it is essential to use the L prefix for string literals. Failing to do so can cause the compiler to map the strings back to the original 8-bit code page, potentially leading to encoding issues.</description>
+    </item>
+
+    <item>
+      <title>Maybe you shouldn't install new software for a bit</title>
+      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
+      <guid>https://xeiaso.net/blog/2026/abstain-from-install/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The article discusses the recent emergence of security vulnerabilities within the Linux kernel. It advises users to exercise caution and avoid installing new software updates immediately to mitigate potential risks.</description>
+    </item>
+
+    <item>
+      <title>I've found just the right paper for my Bottom Hole problem</title>
+      <link>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</guid>
+      <pubDate>Thu, 07 May 2026 11:34:54 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author documents a personal investigation to identify the real-world newspaper used as a prop in the 1995 TV show 'Bottom'. By analyzing visual cues and layout patterns, the author attempts to trace the prop back to its source material.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Bubbles are REALLY evil (07 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/07/dump-the-pumpers/</link>
+      <guid>https://pluralistic.net/2026/05/07/dump-the-pumpers/</guid>
+      <pubDate>Thu, 07 May 2026 08:08:49 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow analyzes the varying long-term legacies of economic bubbles, comparing the fraudulent activities of Enron and Worldcom. He illustrates that while both were catastrophic, the aftermath of Enron left behind a unique historical record in the form of released corporate emails.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.31</title>
+      <link>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 19:57:06 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison provides an update on the llm-gemini tool, noting that the Gemini 3.1 Flash-Lite model has transitioned out of its preview phase. The author references his previous analysis of the model, indicating no significant changes in functionality.</description>
+    </item>
+
+    <item>
+      <title>Big Words</title>
+      <link>https://simonwillison.net/2026/May/7/big-words/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/7/big-words/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 18:47:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces 'Big Words,' a simple web tool designed to generate slide-ready text for presentations using URL query parameters. The tool allows for easy customization of text, colors, gradients, and font settings through an interactive interface.</description>
+    </item>
+
+    <item>
+      <title>Behind the Scenes Hardening Firefox with Claude Mythos Preview</title>
+      <link>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:56:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Mozilla significantly accelerated its Firefox security patching process by leveraging the Claude Mythos AI model to identify and remediate vulnerabilities. By refining their orchestration techniques, the team increased monthly bug fixes from around 20 to over 400, effectively resolving long-standing issues.</description>
+    </item>
+
+    <item>
+      <title>Notes on the xAI/Anthropic data center deal</title>
+      <link>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:09:28 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison critiques Anthropic's new deal to utilize xAI's Colossus data center, citing significant environmental concerns and controversies surrounding its power infrastructure. The author argues that partnering with this facility is a poor strategic move given the increasing political scrutiny over AI data centers.</description>
+    </item>
+
+    <item>
+      <title>GitHub Repo Stats</title>
+      <link>https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 07:25:14 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison developed a web tool that retrieves hidden GitHub repository statistics, such as total commit counts, which are not displayed on the mobile interface. The tool leverages GitHub's REST and GraphQL APIs to provide users with more comprehensive insights into project activity.</description>
+    </item>
+
+    <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <guid>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the theoretical reasons why extending training horizons in AI development has not yet resulted in diminishing returns. It examines the scaling laws and efficiency factors that continue to drive progress despite increased compute demands.</description>
+    </item>
+
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
       <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</link>
@@ -766,150 +910,6 @@ http://antirez.com/news/164
       <pubDate>Wed, 29 Apr 2026 23:40:00 GMT</pubDate>
       <source url="https://idiallo.com/">iDiallo.com</source>
       <description>The author argues that Microsoft Excel is a more powerful and accessible tool than modern software engineering practices, effectively serving as the ultimate no-code solution. By abstracting away complex technical dependencies, Excel allows users to focus on business outcomes rather than the maintenance of fragile codebases.</description>
-    </item>
-
-    <item>
-      <title>Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</title>
-      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
-      <guid>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:04:26 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>A Brazilian anti-DDoS firm is implicated in facilitating a massive botnet used to attack rival ISPs. The company's CEO claims the unauthorized activity was caused by a security breach orchestrated by a competitor.</description>
-    </item>
-
-    <item>
-      <title>Quoting Andrew Kelley</title>
-      <link>https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 21:24:55 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Andrew Kelley, creator of the Zig programming language, shares his perspective on the distinct 'digital smell' of LLM-generated code in pull requests. He argues that AI-assisted contributions are easily identifiable due to their unique patterns of error, likening the practice to smoking in a non-smoking space.</description>
-    </item>
-
-    <item>
-      <title>We need RSS for sharing abundant vibe-coded apps</title>
-      <link>https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 18:38:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison discusses the need for RSS feeds to distribute 'vibe-coded' micro-apps, mirroring Matt Webb's observation that modern app development is becoming as frequent and personal as blogging. Inspired by this, Willison implemented an Atom feed for his own collection of tools to facilitate easier tracking and discovery.</description>
-    </item>
-
-    <item>
-      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
-      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 01:24:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The Zig project maintains a strict policy banning LLM-generated contributions, which has created tension with projects like Bun that rely on AI-assisted development. While critics argue this hinders innovation, Zig maintainers emphasize the importance of human-authored, comprehensible code contributions to the project's long-term integrity.</description>
-    </item>
-
-    <item>
-      <title>llm 0.32a1</title>
-      <link>https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</guid>
-      <pubDate>Wed, 29 Apr 2026 23:52:50 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.32a1 of the LLM command-line tool. This update specifically fixes a bug related to the incorrect reinflation of tool-calling conversations from SQLite storage.</description>
-    </item>
-
-    <item>
-      <title>llm 0.32a0</title>
-      <link>https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything</guid>
-      <pubDate>Wed, 29 Apr 2026 18:57:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.32a0 of the LLM command-line utility. The post serves as a brief announcement directing users to the GitHub release page and the detailed annotated release notes.</description>
-    </item>
-
-    <item>
-      <title>Reiner Pope – The math behind how LLMs are trained and served</title>
-      <link>https://www.dwarkesh.com/p/reiner-pope</link>
-      <guid>https://www.dwarkesh.com/p/reiner-pope</guid>
-      <pubDate>Wed, 29 Apr 2026 17:07:03 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>Reiner Pope explores the underlying mathematical principles that govern the training and deployment of Large Language Models. He demonstrates how technical equations can provide significant insights into the development strategies currently employed by AI research labs.</description>
-    </item>
-
-    <item>
-      <title>Multiple URLs in Git Remote</title>
-      <link>https://susam.net/multiple-urls-in-git-remote.html</link>
-      <guid>https://susam.net/multiple-urls-in-git-remote.html</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>This article explains how to configure a single Git remote with multiple URLs to facilitate pushing to several repositories simultaneously. It demonstrates that while pulling always uses the first defined URL, pushing will distribute changes to all configured URLs.</description>
-    </item>
-
-    <item>
-      <title>When The Bill Comes Due</title>
-      <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
-      <guid>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</guid>
-      <pubDate>Wed, 29 Apr 2026 03:30:00 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>The article warns that current generative AI tools are heavily subsidized to gain user adoption and will soon face sustainability issues. As companies shift toward usage-based pricing, users are likely to encounter unexpected costs and credit limits that undermine the current AI bubble.</description>
-    </item>
-
-    <item>
-      <title>On wintering.</title>
-      <link>https://www.joanwestenberg.com/on-wintering/</link>
-      <guid>https://www.joanwestenberg.com/on-wintering/</guid>
-      <pubDate>Wed, 29 Apr 2026 01:54:43 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The concept of 'wintering' describes a period of withdrawal from traditional professional pressures and performance cycles. By stepping away from constant auditing and short-term metrics, individuals gain the freedom to pursue long-term, deep work.</description>
-    </item>
-
-    <item>
-      <title>Let's Get Digging!</title>
-      <link>https://shkspr.mobi/blog/2026/04/lets-get-digging/</link>
-      <guid>https://shkspr.mobi/blog/2026/04/lets-get-digging/</guid>
-      <pubDate>Wed, 29 Apr 2026 11:34:23 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares their experience participating in a public archaeology project at Lesnes Abbey, organized by DigVentures. After a safety briefing, they engaged in hands-on excavation work to help uncover historical artifacts in their local park.</description>
-    </item>
-
-    <item>
-      <title>LLM 0.32a0  is a major backwards-compatible refactor</title>
-      <link>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</guid>
-      <pubDate>Wed, 29 Apr 2026 19:01:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released LLM 0.32a0, a significant refactor of his Python library and CLI tool. This update moves beyond the original text-prompt abstraction to better support modern capabilities like structured JSON output, tool execution, and multi-modal inputs.</description>
-    </item>
-
-    <item>
-      <title>Raspberry Pi Connect may control Windows soon</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Raspberry Pi is reportedly considering adding support for Windows PC remote control to its Raspberry Pi Connect service. This development aims to evolve the service from a Pi-specific tool into a more robust competitor to established solutions like RealVNC.</description>
-    </item>
-
-    <item>
-      <title>(One) Good AI Is Here</title>
-      <link>https://anildash.com/2026/04/28/one-good-ai-is-here/</link>
-      <guid>https://anildash.com/2026/04/28/one-good-ai-is-here/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash critiques the polarized state of the AI industry, where big platforms face criticism for lack of accountability and ethics while zealots make extreme, alarmist claims. He argues for a shift toward 'good AI'—tools that are built with consent and transparency, suggesting that positive, beneficial implementations of LLMs are possible and necessary.</description>
-    </item>
-
-    <item>
-      <title>The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree</title>
-      <link>https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition</link>
-      <guid>https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition</guid>
-      <pubDate>Tue, 28 Apr 2026 17:48:50 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This post announces the third iteration of the author's annual blog competition and jamboree. It invites readers to participate in the upcoming writing event.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 501</title>
-      <link>https://www.troyhunt.com/weekly-update-501/</link>
-      <guid>https://www.troyhunt.com/weekly-update-501/</guid>
-      <pubDate>Tue, 28 Apr 2026 05:01:42 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt discusses the emerging trend of creating equality policies for AI bots, highlighting the shift in human-AI interaction. He notes that while the concept is partially tongue-in-cheek, it addresses the evolving necessity for professional conduct in the age of advanced artificial intelligence.</description>
     </item>
   </channel>
 </rss>

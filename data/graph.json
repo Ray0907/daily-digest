@@ -1,6 +1,262 @@
 {
   "nodes": [
     {
+      "id": "8179ec5fd21c4cf7",
+      "title": "llm-gemini 0.31",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.1 Flash-Lite",
+        "Simon Willison",
+        "AI",
+        "Generative AI"
+      ],
+      "published": "2026-05-07T19:57:06.000Z"
+    },
+    {
+      "id": "b04200899d48186e",
+      "title": "Big Words",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "web tool",
+        "vibe-coding",
+        "presentation",
+        "URL parameters",
+        "design"
+      ],
+      "published": "2026-05-07T18:47:09.000Z"
+    },
+    {
+      "id": "9a06e28c9d388b2e",
+      "title": "Smoothed polygons",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/",
+      "pacer": "C",
+      "keywords": [
+        "p-norm",
+        "squircle",
+        "geometry",
+        "mathematics",
+        "smoothed polygons"
+      ],
+      "published": "2026-05-07T18:19:24.000Z"
+    },
+    {
+      "id": "446f5a8605ef2e79",
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Mozilla",
+        "Firefox",
+        "Claude Mythos",
+        "Cybersecurity",
+        "AI-assisted development"
+      ],
+      "published": "2026-05-07T17:56:25.000Z"
+    },
+    {
+      "id": "d4576f9d8fdb5830",
+      "title": "Notes on the xAI/Anthropic data center deal",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Anthropic",
+        "xAI",
+        "Colossus",
+        "data center",
+        "environmental impact"
+      ],
+      "published": "2026-05-07T17:09:28.000Z"
+    },
+    {
+      "id": "0690e2f03912c943",
+      "title": "How Long Do We Wait for New Inventions?",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions",
+      "pacer": "C",
+      "keywords": [
+        "innovation",
+        "invention",
+        "technology adoption",
+        "history of technology",
+        "construction physics"
+      ],
+      "published": "2026-05-07T15:23:28.000Z"
+    },
+    {
+      "id": "d8b8c46b24ca6c46",
+      "title": "When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307",
+      "pacer": "P",
+      "keywords": [
+        "Unicode",
+        "C++",
+        "Programming",
+        "Resource Strings",
+        "Encoding"
+      ],
+      "published": "2026-05-07T14:00:00.000Z"
+    },
+    {
+      "id": "fdddfe3f5c31486e",
+      "title": "I've found just the right paper for my Bottom Hole problem",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/",
+      "pacer": "E",
+      "keywords": [
+        "Bottom",
+        "prop",
+        "investigation",
+        "TV show",
+        "newspaper"
+      ],
+      "published": "2026-05-07T11:34:54.000Z"
+    },
+    {
+      "id": "b7832e901b96abd8",
+      "title": "Monitor your devices with LibreNMS on FreeBSD",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "url": "https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/",
+      "pacer": "P",
+      "keywords": [
+        "LibreNMS",
+        "FreeBSD",
+        "monitoring",
+        "tutorial",
+        "sysadmin"
+      ],
+      "published": "2026-05-07T10:45:00.000Z"
+    },
+    {
+      "id": "a4e7c7b09cd12642",
+      "title": "Free as in Tribbles",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/07/free-as-in-tribbles.html",
+      "pacer": "A",
+      "keywords": [
+        "open source",
+        "software lifecycle",
+        "dependencies",
+        "metaphor",
+        "maintenance"
+      ],
+      "published": "2026-05-07T10:00:00.000Z"
+    },
+    {
+      "id": "6b0f187c62ae2bb6",
+      "title": "Pluralistic: Bubbles are REALLY evil (07 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/07/dump-the-pumpers/",
+      "pacer": "A",
+      "keywords": [
+        "economic bubbles",
+        "Enron",
+        "Worldcom",
+        "corporate fraud",
+        "digital archives"
+      ],
+      "published": "2026-05-07T08:08:49.000Z"
+    },
+    {
+      "id": "94895c326bda3991",
+      "title": "GitHub Repo Stats",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "API",
+        "web tool",
+        "Simon Willison"
+      ],
+      "published": "2026-05-07T07:25:14.000Z"
+    },
+    {
+      "id": "b1a19a945aa9f38b",
+      "title": "The war between fast and legitimate is here",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/",
+      "pacer": "C",
+      "keywords": [
+        "AI Act",
+        "Regulation",
+        "OpenAI",
+        "Innovation",
+        "EU"
+      ],
+      "published": "2026-05-07T01:18:04.000Z"
+    },
+    {
+      "id": "5290c504d1f50709",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "pacer": "C",
+      "keywords": [
+        "Linux",
+        "security",
+        "vulnerability",
+        "kernel",
+        "software updates"
+      ],
+      "published": "2026-05-07T00:00:00.000Z"
+    },
+    {
+      "id": "728bda873362146a",
+      "title": "Why hasn't longer-horizon training slowed AI progress?",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Scaling Laws",
+        "Machine Learning",
+        "Compute",
+        "AI Progress"
+      ],
+      "published": "2026-05-07T00:00:00.000Z"
+    },
+    {
+      "id": "ff3991334b393933",
+      "title": "Article previews in RSS",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/article-previews-in-rss",
+      "pacer": "P",
+      "keywords": [
+        "RSS",
+        "Emacs",
+        "Org-mode",
+        "Blog",
+        "Automation"
+      ],
+      "published": "2026-05-06T22:00:00.000Z"
+    },
+    {
       "id": "6b5da7a47758bb5e",
       "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
       "source": "Miguel Grinberg's Blog",
@@ -63,38 +319,6 @@
         "environment"
       ],
       "published": "2026-05-06T16:32:20.000Z"
-    },
-    {
-      "id": "bbb4f250c21dbb1f",
-      "title": "Live blog: Code w/ Claude 2026",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AI",
-        "live-blog",
-        "coding"
-      ],
-      "published": "2026-05-06T15:58:27.000Z"
-    },
-    {
-      "id": "b4a37e868793364a",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI coding",
-        "vibe coding",
-        "agentic engineering",
-        "software development",
-        "Simon Willison"
-      ],
-      "published": "2026-05-06T14:24:08.000Z"
     },
     {
       "id": "b62a2965e399c5be",
@@ -225,22 +449,6 @@
       "published": "2026-05-06T00:00:00.000Z"
     },
     {
-      "id": "da773fbd4b4acb1d",
-      "title": "datasette-referrer-policy 0.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "datasette",
-        "openstreetmap",
-        "referrer-policy",
-        "plugin",
-        "web-development"
-      ],
-      "published": "2026-05-05T23:44:27.000Z"
-    },
-    {
       "id": "ddc2f8e60c31c57a",
       "title": "Changing one character in a PDF",
       "source": "John D. Cook",
@@ -255,22 +463,6 @@
         "character encoding"
       ],
       "published": "2026-05-05T22:45:26.000Z"
-    },
-    {
-      "id": "e3667d49dc363deb",
-      "title": "Our AI started a cafe in Stockholm",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "AI agent",
-        "Andon Labs",
-        "AI ethics",
-        "automation",
-        "Stockholm"
-      ],
-      "published": "2026-05-05T22:14:21.000Z"
     },
     {
       "id": "e627abaa0459d814",
@@ -367,22 +559,6 @@
         "psychology"
       ],
       "published": "2026-05-05T06:20:33.000Z"
-    },
-    {
-      "id": "6786076f2f232d68",
-      "title": "datasette-llm 0.1a7",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "datasette",
-        "llm",
-        "plugin",
-        "configuration",
-        "software-release"
-      ],
-      "published": "2026-05-05T01:56:55.000Z"
     },
     {
       "id": "eb8f8fefb0d7878b",
@@ -542,22 +718,6 @@
         "word frequency"
       ],
       "published": "2026-05-04T00:00:00.000Z"
-    },
-    {
-      "id": "f30f75bae085419f",
-      "title": "The shape of a guitar pick",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/03/guitar-pick/",
-      "pacer": "C",
-      "keywords": [
-        "mathematics",
-        "geometry",
-        "logarithm",
-        "visualization",
-        "functions"
-      ],
-      "published": "2026-05-03T20:49:41.000Z"
     },
     {
       "id": "1d1a1cb59c729269",
@@ -880,22 +1040,6 @@
       "published": "2026-05-01T11:44:04.000Z"
     },
     {
-      "id": "a7cdedd42814bbfa",
-      "title": "Patching and forking in package managers",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html",
-      "pacer": "P",
-      "keywords": [
-        "package managers",
-        "vulnerabilities",
-        "dependency management",
-        "patching",
-        "forking"
-      ],
-      "published": "2026-05-01T10:00:00.000Z"
-    },
-    {
       "id": "cee386aa804c993c",
       "title": "AI will create jobs",
       "source": "the singularity is nearer",
@@ -944,22 +1088,6 @@
       "published": "2026-05-01T00:00:00.000Z"
     },
     {
-      "id": "fa64ea4d5c08d78c",
-      "title": "Pluralistic: How not to ban surveillance pricing (30 Apr 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/04/30/something-must-be-done/",
-      "pacer": "C",
-      "keywords": [
-        "surveillance pricing",
-        "tech regulation",
-        "privacy",
-        "Maryland law",
-        "Cory Doctorow"
-      ],
-      "published": "2026-04-30T14:38:35.000Z"
-    },
-    {
       "id": "c521ba313d3fccf1",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "source": "Krebs on Security",
@@ -974,22 +1102,6 @@
         "ISP"
       ],
       "published": "2026-04-30T14:04:26.000Z"
-    },
-    {
-      "id": "8cbece6c014ec2c7",
-      "title": "Developing a cross-process reader/writer lock with limited readers, part 3: Fairness",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288",
-      "pacer": "P",
-      "keywords": [
-        "reader/writer lock",
-        "cross-process",
-        "fairness",
-        "concurrency",
-        "multithreading"
-      ],
-      "published": "2026-04-30T14:00:00.000Z"
     },
     {
       "id": "13e2babbaa2b2473",
@@ -1134,22 +1246,6 @@
         "RealVNC"
       ],
       "published": "2026-04-29T17:00:00.000Z"
-    },
-    {
-      "id": "0eb54bab0bfae18a",
-      "title": "Let's Get Digging!",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/04/lets-get-digging/",
-      "pacer": "A",
-      "keywords": [
-        "archaeology",
-        "DigVentures",
-        "Lesnes Abbey",
-        "community project",
-        "fieldwork"
-      ],
-      "published": "2026-04-29T11:34:23.000Z"
     },
     {
       "id": "564b2bc166e9db33",
@@ -1584,22 +1680,6 @@
       "published": "2026-04-23T12:02:35.000Z"
     },
     {
-      "id": "55a1877f6b0ee736",
-      "title": "Why prediction markets are a sure sign that our civilisation is in decay",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/",
-      "pacer": "C",
-      "keywords": [
-        "prediction markets",
-        "civilization",
-        "decadence",
-        "social impact",
-        "technology"
-      ],
-      "published": "2026-04-23T03:10:02.000Z"
-    },
-    {
       "id": "905c76f537db5730",
       "title": "Debugging WASM in Chrome DevTools",
       "source": "Eli Bendersky's website",
@@ -1902,22 +1982,6 @@
         "Engineering History"
       ],
       "published": "2026-04-18T16:24:00.000Z"
-    },
-    {
-      "id": "404226d0d68e0bea",
-      "title": "Reading List 04/18/2026",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-04182026",
-      "pacer": "R",
-      "keywords": [
-        "robotics",
-        "welding",
-        "China Shock",
-        "transformers",
-        "satellites"
-      ],
-      "published": "2026-04-18T12:00:53.000Z"
     },
     {
       "id": "3f6c048bb25e54bf",
@@ -2431,22 +2495,6 @@
       "published": "2026-04-07T00:00:00.000Z"
     },
     {
-      "id": "fddc826e75ec5885",
-      "title": "Readership maths skills",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/readership-math-skills",
-      "pacer": "C",
-      "keywords": [
-        "mathematical literacy",
-        "data analysis",
-        "critical thinking",
-        "readership",
-        "information evaluation"
-      ],
-      "published": "2026-04-06T22:00:00.000Z"
-    },
-    {
       "id": "3e73213b65c0a33f",
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
       "source": "Krebs on Security",
@@ -2523,22 +2571,6 @@
         "packets",
         "data integrity",
         "protocols"
-      ],
-      "published": "2026-04-03T00:00:00.000Z"
-    },
-    {
-      "id": "2276b65479290606",
-      "title": "Programming (with AI agents) as theory building",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/",
-      "pacer": "C",
-      "keywords": [
-        "programming",
-        "AI agents",
-        "theory building",
-        "software development",
-        "mental models"
       ],
       "published": "2026-04-03T00:00:00.000Z"
     },
@@ -3087,22 +3119,6 @@
       "published": "2026-03-11T19:02:11.000Z"
     },
     {
-      "id": "ca92511462c5d642",
-      "title": "I don't know if I like working at higher levels of abstraction",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/blog/2026/ai-abstraction/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "abstraction",
-        "software development",
-        "programming",
-        "technology philosophy"
-      ],
-      "published": "2026-03-11T00:00:00.000Z"
-    },
-    {
       "id": "cc55d5b5367d75f4",
       "title": "★ The MacBook Neo",
       "source": "Daring Fireball",
@@ -3359,6 +3375,16 @@
     }
   ],
   "links": [
+    {
+      "source": "9a06e28c9d388b2e",
+      "target": "e0a681faebc18d5b",
+      "shared_keywords": [
+        "mathematics",
+        "geometry",
+        "squircle"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "6b5da7a47758bb5e",
       "target": "b06dc189f4e0745b",
