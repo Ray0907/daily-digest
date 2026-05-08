@@ -1,6 +1,386 @@
 {
-  "last_updated": "2026-05-07T22:20:19.433Z",
+  "last_updated": "2026-05-08T22:18:10.900Z",
   "articles": [
+    {
+      "id": "44e6e37d1f7ee826",
+      "title": "George Orwell's review of Russel's Power: A New Social Analysis",
+      "url": "https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-05-08T20:35:10.000Z",
+      "summary_en": "The author discusses recovering a lost book review by George Orwell regarding Bertrand Russell's 'Power: A New Social Analysis' from the internet archive. This piece highlights the historical significance of the original 1939 review and ensures its continued accessibility for readers.",
+      "summary_zh": "作者分享了從網路檔案館中找回喬治·歐威爾針對羅素著作《權力：一種新的社會分析》所寫的書評之過程。這篇文章強調了該 1939 年書評的歷史價值，並確保其內容能再次被公開閱讀。",
+      "keywords": [
+        "George Orwell",
+        "Bertrand Russell",
+        "Power",
+        "Internet Archive",
+        "Book Review"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts primarily as a curator, providing access to and historical context for a specific reference document.",
+      "pacer_reason_zh": "本文主要扮演策展人的角色，提供特定參考文獻的獲取途徑與歷史背景。"
+    },
+    {
+      "id": "3404ce0457697715",
+      "title": "Flower: an SSG with a Clojure template language",
+      "url": "https://jyn.dev/talks/flower/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "This article introduces Flower, a new static site generator (SSG) that utilizes a Clojure-based template language. It explores the design philosophy behind the project and demonstrates how leveraging Clojure's syntax enhances the flexibility of site generation.",
+      "summary_zh": "本文介紹了一款名為 Flower 的靜態網站生成器 (SSG)，其核心特色是使用 Clojure 語言編寫模板。文章探討了該專案的設計理念，並展示了如何利用 Clojure 的語法來提升網站生成的靈活性。",
+      "keywords": [
+        "Flower",
+        "SSG",
+        "Clojure",
+        "Web Development",
+        "Static Site Generator"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'why' behind a new software project, focusing on the conceptual design and implementation of the template language.",
+      "pacer_reason_zh": "本文解釋了該軟體專案的本質與開發動機，重點在於說明模板語言的概念設計與實作理念。"
+    },
+    {
+      "id": "2dfe08d135725745",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-05-08T16:11:33.000Z",
+      "summary_en": "The author announces a one-week break from the blog to focus on home and garden maintenance. New content focusing on video games is scheduled to return in two weeks.",
+      "summary_zh": "作者宣布下週將暫停部落格更新，以便處理居家與園藝事務。全新的遊戲相關文章預計將於兩週後回歸。",
+      "keywords": [
+        "The Analog Antiquarian",
+        "blog update",
+        "announcement",
+        "gaming",
+        "hiatus"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a status update announcement regarding the blog's schedule, serving as a reference point for readers.",
+      "pacer_reason_zh": "這是關於部落格發布時程的狀態公告，作為讀者的參考資訊。"
+    },
+    {
+      "id": "c272b5a26b4d5a12",
+      "title": "Notes on the Hantavirus Outbreak",
+      "url": "https://borretti.me/article/notes-on-the-hantavirus-outbreak",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "This article presents a critical perspective on the environmental and public health risks associated with the cruise ship industry. It suggests that these vessels act as vectors for disease transmission and overall global harm.",
+      "summary_zh": "本文從批判的角度探討了遊輪產業對環境與公共衛生的危害。文中指出這類船舶容易成為傳染病的載體，對全球造成負面影響。",
+      "keywords": [
+        "cruise ships",
+        "public health",
+        "Hantavirus",
+        "environmental impact",
+        "travel"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique of the cruise industry's impact on health and global society.",
+      "pacer_reason_zh": "本文針對遊輪產業對健康及全球社會的影響提供了概念性的觀點與評論。"
+    },
+    {
+      "id": "3221a8a238ec6443",
+      "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
+      "url": "https://www.dwarkesh.com/p/david-reich-2",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-08T16:38:22.000Z",
+      "summary_en": "Geneticist David Reich discusses the rapid pace of human evolution, emphasizing that natural selection remains a powerful and constant force rather than a dormant process. The conversation explores how the Bronze Age served as a critical turning point for human genetic development and social structure.",
+      "summary_zh": "遺傳學家大衛·萊赫探討了人類演化的快速進程，強調自然選擇仍是一種持續且強大的力量。對談重點在於青銅時代如何作為人類基因發展與社會結構演變的關鍵轉折點。",
+      "keywords": [
+        "David Reich",
+        "Human Evolution",
+        "Natural Selection",
+        "Bronze Age",
+        "Genetics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining biological theories and the conceptual framework of human evolution.",
+      "pacer_reason_zh": "內容重點在於解釋生物學理論以及人類演化的概念架構。"
+    },
+    {
+      "id": "d9135de9cdd37e70",
+      "title": "Wander Console 0.6.0",
+      "url": "https://susam.net/code/news/wander/0.6.0.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "Wander Console 0.6.0 has been released, introducing minor UI updates and removing the 'via' query parameter to improve URL compatibility. This decentralized, self-hosted tool enables independent website owners to share and discover content within a community network.",
+      "summary_zh": "Wander Console 0.6.0 已發布，此次更新包含介面優化，並移除了可能導致網頁載入錯誤的 'via' 查詢參數。這是一款去中心化且可自託管的網頁工具，讓獨立網站擁有者能共同建立互聯推薦網絡。",
+      "keywords": [
+        "Wander Console",
+        "decentralized web",
+        "web development",
+        "software release",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a release note and reference for a software update.",
+      "pacer_reason_zh": "本文主要作為軟體更新的發布說明與參考資訊。"
+    },
+    {
+      "id": "3de61ffd56b1f119",
+      "title": "The Bold Ones Win",
+      "url": "https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-05-08T00:13:15.000Z",
+      "summary_en": "This article examines the legacy of media mogul Ted Turner by drawing parallels between his audacious business strategies and the modern approach of CEO Ryan Cohen. It reflects on Turner's career of high-stakes risks and bold moves to illustrate the nature of unconventional entrepreneurship.",
+      "summary_zh": "本文透過將媒體大亨泰德·透納（Ted Turner）大膽的商業策略，與現代執行長瑞安·科恩（Ryan Cohen）的作風進行對比，探討了其企業傳奇。文章回顧了透納職業生涯中多次高風險的決策，藉此分析非傳統創業精神的本質。",
+      "keywords": [
+        "Ted Turner",
+        "Ryan Cohen",
+        "entrepreneurship",
+        "business strategy",
+        "boldness"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article is primarily structured around comparing the business tactics and personalities of two different entrepreneurs, drawing an analogy between their 'bold' career choices.",
+      "pacer_reason_zh": "本文主要透過比較兩位不同創業家的商業策略與個人風格，並在他們「大膽」的職業決策之間建立類比關係。"
+    },
+    {
+      "id": "b2fb7a1de0de9b20",
+      "title": "Weekend at Bernie’s",
+      "url": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-08T10:00:00.000Z",
+      "summary_en": "The article explores the precarious state of open-source software maintenance, comparing abandoned projects to the film 'Weekend at Bernie's' where appearances are maintained despite the absence of a 'living' maintainer. It highlights the security risks when critical packages lack active oversight, especially as AI-driven vulnerability discovery accelerates, and notes the lack of centralized patching mechanisms in modern language package managers.",
+      "summary_zh": "本文探討開源軟體維護的脆弱現狀，將無人維護但持續運行的項目比作電影《老闆度假去》（Weekend at Bernie's），強調在AI輔助漏洞挖掘技術興起下，缺乏實際維護者所帶來的安全風險。作者指出，現行程式語言套件管理器缺乏類似Linux發行版的修復機制，導致這些「殭屍」套件難以有效更新。",
+      "keywords": [
+        "open source",
+        "software maintenance",
+        "cybersecurity",
+        "package manager",
+        "vulnerability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the 'abandonware' problem in open-source ecosystems and the systemic risks it creates.",
+      "pacer_reason_zh": "本文針對開源生態系統中「棄用軟體」的問題及其產生的系統性風險進行了概念性分析。"
+    },
+    {
+      "id": "ba65c0791cf75332",
+      "title": "Steering Zig Fmt",
+      "url": "https://matklad.github.io/2026/05/08/steering-zig-fmt.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "This article explores the unique, 'steerable' design of the Zig programming language's code formatter. It demonstrates how adding trailing commas or manual line breaks allows developers to control the layout of function calls and arrays, providing more flexibility than traditional automated formatters.",
+      "summary_zh": "本文介紹了 Zig 程式語言代碼格式化工具（zig fmt）獨特的「可引導」設計。透過在代碼中加入尾隨逗號或手動換行，開發者可以靈活控制函數呼叫與陣列的排版方式，比傳統自動化格式工具更具彈性。",
+      "keywords": [
+        "Zig",
+        "zig fmt",
+        "formatting",
+        "code style",
+        "programming tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical tips and step-by-step techniques for using specific syntactic triggers to control code formatting.",
+      "pacer_reason_zh": "文章提供了實用的操作技巧與教學，說明如何透過特定的語法觸發條件來控制代碼格式。"
+    },
+    {
+      "id": "43f8833290d2980f",
+      "title": "Calculating curvature",
+      "url": "https://www.johndcook.com/blog/2026/05/08/calculating-curvature/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-08T13:54:18.000Z",
+      "summary_en": "This article explores the mathematical complexity behind calculating the curvature of level set curves. It explains that while the concept is straightforward, the resulting formulas can quickly become cumbersome even with simple initial expressions.",
+      "summary_zh": "本文探討了計算水平集曲線曲率背後的數學複雜性。作者指出，雖然曲率的概念簡單，但即便函數表達式本身很簡潔，推導出的曲率計算公式仍可能變得相當複雜。",
+      "keywords": [
+        "curvature",
+        "mathematics",
+        "level set",
+        "calculus",
+        "geometry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical concept of curvature and explores the theoretical derivation of its formula.",
+      "pacer_reason_zh": "本文解釋了曲率的數學概念，並探討了其公式的理論推導過程。"
+    },
+    {
+      "id": "4d443773127eb5bb",
+      "title": "Pushing Local Models With Focus And Polish",
+      "url": "https://lucumr.pocoo.org/2026/5/8/local-models/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "The author discusses the significant gap between making local AI models functional and providing a polished, user-friendly experience for developers. He highlights that while technical progress in inference and quantization is rapid, the current fragmentation and complexity of local stacks create a frustrating user experience compared to hosted APIs.",
+      "summary_zh": "作者探討了使本地 AI 模型具備基本功能與提供精緻開發者體驗之間的巨大落差。他指出，儘管推理與量化技術發展迅速，但目前本地模型的堆疊過於零散且複雜，導致其用戶體驗遠遜於現成的託管 API。",
+      "keywords": [
+        "Local LLMs",
+        "AI Infrastructure",
+        "Developer Experience",
+        "Inference",
+        "Quantization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual challenges and industry maturity gap between technical 'runnability' and high-quality product finish for local AI models.",
+      "pacer_reason_zh": "本文探討了本地 AI 模型在技術「可執行性」與高品質產品完成度之間的觀念落差與行業瓶頸。"
+    },
+    {
+      "id": "5a94645623e22227",
+      "title": "Developing more confidence when tracking renames via Read­Directory­ChangesW",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-08T14:00:00.000Z",
+      "summary_en": "This post explains how to improve the reliability of tracking file renames when using the ReadDirectoryChangesW API. It highlights that developers can achieve more consistent results by tracking unique file IDs rather than relying solely on file names.",
+      "summary_zh": "本文介紹了在使用 ReadDirectoryChangesW API 追蹤檔案重新命名時，如何提升可靠性。作者指出，開發者應透過追蹤檔案 ID 而非僅僅依賴檔案名稱，以獲得更準確的變更紀錄。",
+      "keywords": [
+        "ReadDirectoryChangesW",
+        "Windows API",
+        "file system",
+        "programming",
+        "file tracking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific technical method for solving a development problem related to an API.",
+      "pacer_reason_zh": "文章針對開發問題提供了具體的技術解決方案，屬於操作指南類型的內容。"
+    },
+    {
+      "id": "da41e3b62fd38daf",
+      "title": "Pluralistic: Lee Lai's \"Cannon\" (08 May 2026)",
+      "url": "https://pluralistic.net/2026/05/08/gung-gung/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-08T12:19:36.000Z",
+      "summary_en": "This post features a review of Lee Lai's graphic novel 'Cannon,' praising it as a sophisticated, emotionally complex story about a queer chef navigating personal and professional turmoil. Cory Doctorow highlights the book as a successful follow-up to Lai's acclaimed debut, 'Stone Fruit,' avoiding typical sophomore-year slumps.",
+      "summary_zh": "這篇文章介紹了李萊（Lee Lai）的圖像小說《Cannon》，稱讚這部作品深刻描繪了一位酷兒廚師在面對生活與工作困境時的複雜情感。作者科利·多克托羅（Cory Doctorow）盛讚該書延續了前作《Stone Fruit》的卓越水準，成功打破了創作生涯常見的「第二部魔咒」。",
+      "keywords": [
+        "Lee Lai",
+        "Cannon",
+        "Graphic Novel",
+        "Cory Doctorow",
+        "Book Review"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions primarily as a reference or link-roundup digest, providing a recommendation and links to external creative works.",
+      "pacer_reason_zh": "該內容主要作為資訊匯整與推薦清單，為讀者提供外部創作作品的介紹與連結。"
+    },
+    {
+      "id": "07a97d4ce68465ec",
+      "title": "Hi stranger ",
+      "url": "https://idiallo.com/blog/hi?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-08T14:00:00.000Z",
+      "summary_en": "The author reflects on the personal, asynchronous nature of blogging and the 'small web' community. Despite the lack of direct feedback, he discusses the surprising scale of his audience and the human connection formed through writing.",
+      "summary_zh": "作者反思了部落格寫作中個人化且非同步的溝通本質，以及所謂「小網路」的社群連結。儘管缺乏直接互動，他分享了對於閱讀人數的觀察，並探討了寫作背後的人文連結。",
+      "keywords": [
+        "blogging",
+        "small web",
+        "asynchronous communication",
+        "personal reflection",
+        "audience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the nature of blogging, human connection, and the dynamics of the 'small web'.",
+      "pacer_reason_zh": "本文是對部落格寫作本質、人際連結以及「小網路」動態的觀念性反思。"
+    },
+    {
+      "id": "71d567a7a33d95af",
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-05-08T02:58:46.000Z",
+      "summary_en": "A widespread data extortion attack on the Canvas education platform has disrupted schools and universities across the U.S. Cybercriminals defaced the login page to demand a ransom, threatening to leak sensitive data belonging to millions of students and faculty members.",
+      "summary_zh": "教育科技平台 Canvas 遭遇大規模數據勒索攻擊，導致美國各地的學校與大學運作受到嚴重影響。駭客透過竄改登入頁面提出贖金要求，並威脅洩露 2.75 億名師生的敏感數據。",
+      "keywords": [
+        "Canvas",
+        "cybersecurity",
+        "data breach",
+        "ransomware",
+        "education technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an informative overview of a current event, explaining the nature of the security incident and its impact.",
+      "pacer_reason_zh": "本文提供了一則時事報導，解釋了該資安事件的本質及其對教育機構的影響。"
+    },
+    {
+      "id": "0abd127d4083ebc6",
+      "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+      "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-08T21:00:11.000Z",
+      "summary_en": "Simon Willison discusses the benefits of requesting HTML instead of Markdown as output from AI models like Claude. By leveraging HTML, users can incorporate interactive widgets, SVG diagrams, and better navigation to create more effective and readable explanations.",
+      "summary_zh": "Simon Willison 探討了向 Claude 等 AI 模型請求以 HTML 取代 Markdown 作為輸出格式的優勢。透過使用 HTML，使用者可以嵌入互動式元件、SVG 圖表以及更佳的導航結構，從而製作出更有效且易於閱讀的解釋內容。",
+      "keywords": [
+        "Claude Code",
+        "HTML",
+        "Markdown",
+        "AI Prompting",
+        "Data Visualization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides actionable advice and prompt suggestions for users to improve their AI interactions by changing output formats.",
+      "pacer_reason_zh": "文章提供了實用的建議與提示詞範例，教導使用者如何透過改變輸出格式來優化 AI 的互動結果。"
+    },
+    {
+      "id": "2896ea54fdbf0ac0",
+      "title": "HomePod mini feels like magic, but it's just good timing",
+      "url": "https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-08T14:00:00.000Z",
+      "summary_en": "The author investigates the technical mechanics behind Apple's HomePod mini stereo pairing functionality. Through personal experimentation and demonstration, they explore how the device manages wireless audio synchronization via AirPlay and Wi-Fi.",
+      "summary_zh": "作者探討了 Apple HomePod mini 立體聲配對功能的技術運作原理。透過實際購買與測試，作者深入研究這些裝置如何利用 AirPlay 和 Wi-Fi 實現無線音訊同步。",
+      "keywords": [
+        "HomePod mini",
+        "Apple",
+        "AirPlay",
+        "stereo pairing",
+        "wireless audio"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content relies on personal experimentation and a practical test to explain a technical feature.",
+      "pacer_reason_zh": "內容基於作者的親身實驗與實際測試，藉此解釋該技術功能的運作方式。"
+    },
+    {
+      "id": "bfb48c88c6050039",
+      "title": "AI makes weak engineers less harmful",
+      "url": "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-09T00:00:00.000Z",
+      "summary_en": "This article explores how artificial intelligence tools can mitigate the negative impact of less experienced engineers by providing guardrails and support. It suggests that AI acts as a leveling force, reducing the severity of errors in software development.",
+      "summary_zh": "本文探討人工智慧工具如何透過提供輔助與規範，降低初級工程師可能造成的負面影響。文章指出 AI 扮演了平衡者的角色，有效減少軟體開發過程中的錯誤嚴重性。",
+      "keywords": [
+        "AI",
+        "Software Engineering",
+        "Productivity",
+        "Developer Tools",
+        "Quality Control"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument about the impact of AI on software development team dynamics and performance.",
+      "pacer_reason_zh": "本文針對 AI 對軟體開發團隊動態與效能的影響，提供了概念性的觀點與論述。"
+    },
+    {
+      "id": "55d27252d9dac18f",
+      "title": "Notes on incidents",
+      "url": "https://seangoedecke.com/notes-on-incidents/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-08T00:00:00.000Z",
+      "summary_en": "This article discusses the foundational practices and philosophy behind effective incident management in engineering. It explores strategies for handling technical failures and improving system reliability through structured response.",
+      "summary_zh": "本文探討了工程領域中有效事件管理的基本實踐與核心理念。內容涵蓋如何應對技術故障，以及透過結構化的流程提升系統可靠性的策略。",
+      "keywords": [
+        "incident management",
+        "reliability",
+        "engineering",
+        "system failure",
+        "best practices"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual framework and philosophy of incident management.",
+      "pacer_reason_zh": "內容側重於事件管理的概念架構與哲學思維。"
+    },
     {
       "id": "b7832e901b96abd8",
       "title": "Monitor your devices with LibreNMS on FreeBSD",
