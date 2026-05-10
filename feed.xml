@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 09 May 2026 22:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:13:36 GMT</lastBuildDate>
     
+    <item>
+      <title>The Real Singularity is the Friends We Made Along the Way</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</guid>
+      <pubDate>Sat, 09 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author critiques the 'Singularity' movement, comparing belief in superintelligence to religious fervor or 'the rapture for nerds.' It argues that current hyperscaler investments in AI are driven by strategic panic and fear of missing out rather than immediate return on investment.</description>
+    </item>
+
+    <item>
+      <title>Madame Semver Will See You Now</title>
+      <link>https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</link>
+      <guid>https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</guid>
+      <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This piece uses the metaphorical framing of a tarot reading to explore the common, frustrating realities of maintaining open-source software. It highlights the challenges of dependency management, malicious pull requests, misinformation, and the exhausting nature of handling unsolicited security audits.</description>
+    </item>
+
+    <item>
+      <title>The linear algebra of bit twiddling</title>
+      <link>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</guid>
+      <pubDate>Sun, 10 May 2026 18:51:40 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the application of linear algebra within the binary field to understand bit manipulation operations. It specifically examines the Mersenne Twister's tempering process by treating bitwise operations as matrix multiplications over a finite field.</description>
+    </item>
+
+    <item>
+      <title>Reverse engineering Mersenne Twister with Linear Algebra</title>
+      <link>https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</guid>
+      <pubDate>Sun, 10 May 2026 17:32:02 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article demonstrates how to recover the internal state of the Mersenne Twister random number generator by applying linear algebra techniques. It highlights the distinction between standard PRNGs and cryptographically secure generators by showing how the MT's output can be reverse-engineered.</description>
+    </item>
+
+    <item>
+      <title>[RSS Club] A Sneak Preview of Upcoming Posts</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</guid>
+      <pubDate>Sun, 10 May 2026 11:34:38 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares a preview of upcoming blog posts exclusively with RSS subscribers as a token of appreciation. The post mentions the use of the Editorial Calendar plugin to manage a schedule characterized by writing in bursts.</description>
+    </item>
+
+    <item>
+      <title>Quoting Andrew Quinn</title>
+      <link>https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</guid>
+      <pubDate>Sun, 10 May 2026 14:59:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Andrew Quinn reflects on the psychological burden of fearing that one's programming work is obsolete. He argues that 'reinventing the wheel' a few times is a necessary learning process to reach the true frontier of technical knowledge effectively.</description>
+    </item>
+
+    <item>
+      <title>The left-wing case for AI</title>
+      <link>https://seangoedecke.com/the-left-wing-case-for-ai/</link>
+      <guid>https://seangoedecke.com/the-left-wing-case-for-ai/</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the political implications of artificial intelligence from a left-wing perspective. It examines how AI technologies can be leveraged or critiqued within the context of labor rights, social equity, and economic policy.</description>
+    </item>
+
     <item>
       <title>I Will Not Add Query Strings to Your URLs</title>
       <link>https://susam.net/no-query-strings.html</link>
@@ -847,69 +910,6 @@ http://antirez.com/news/164
       <pubDate>Sun, 03 May 2026 15:13:23 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>This post highlights Anthropic's research on sycophantic behavior in the Claude model when providing personal guidance. The data shows that while sycophancy is generally low, it increases significantly in discussions regarding spirituality and relationships.</description>
-    </item>
-
-    <item>
-      <title>Why I don't like the &quot;staff engineer archetypes&quot;</title>
-      <link>https://seangoedecke.com/staff-engineer-archetypes/</link>
-      <guid>https://seangoedecke.com/staff-engineer-archetypes/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The author critiques common frameworks used to categorize staff engineer roles, arguing that these rigid archetypes often fail to capture the nuanced reality of the position. Instead of relying on labels, the post suggests a more fluid approach to understanding engineering leadership.</description>
-    </item>
-
-    <item>
-      <title>Scaling, stretching and shifting sinusoids</title>
-      <link>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</link>
-      <guid>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</guid>
-      <pubDate>Sat, 02 May 2026 14:17:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This article provides a mathematical explanation of how to modify the standard sine function by adjusting its amplitude, frequency, and phase shift. It breaks down each parameter to demonstrate how they influence the shape and position of the waveform.</description>
-    </item>
-
-    <item>
-      <title>Reading List 05/02/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-05022026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-05022026</guid>
-      <pubDate>Sat, 02 May 2026 12:01:30 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This digest explores current trends in the build-to-rent sector and the scalability of robotic manufacturing. It also covers shifts in energy infrastructure, specifically PJM's interconnection queue and emerging challenges for battery storage systems.</description>
-    </item>
-
-    <item>
-      <title>A GitHub for maintainers</title>
-      <link>https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</link>
-      <guid>https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</guid>
-      <pubDate>Sat, 02 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author argues that GitHub replacements focus too heavily on individual client-side development tasks rather than the inter-project coordination that maintainers actually need. They propose that future forges should better model cross-repository relationships, such as dependency tracking and downstream testing, to improve the reliability of software ecosystems.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/02/denazification/</link>
-      <guid>https://pluralistic.net/2026/05/02/denazification/</guid>
-      <pubDate>Sat, 02 May 2026 11:22:11 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post from Cory Doctorow's Pluralistic blog explores the unexpected political shifts under the Trump administration, highlighting how its policies are inadvertently forcing the Democratic Party toward a more populist, worker-centric stance. The article discusses ongoing legislative efforts to dismantle corrupt corporate mergers and contrasts this with historical political compromises.</description>
-    </item>
-
-    <item>
-      <title>Editing my LLM assisted Articles </title>
-      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
-      <guid>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
-      <pubDate>Sat, 02 May 2026 03:00:23 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The author shares their experience of rewriting AI-generated articles to better reflect their authentic voice and original intent. By providing before-and-after examples, they demonstrate how to refine content while discussing the creative value of building experimental, 'useless' programming projects.</description>
-    </item>
-
-    <item>
-      <title>Disable Auto-Update </title>
-      <link>https://idiallo.com/blog/disable-auto-update?src=feed</link>
-      <guid>https://idiallo.com/blog/disable-auto-update?src=feed</guid>
-      <pubDate>Fri, 01 May 2026 23:30:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The author argues against automatic app updates, citing instances where developers add invasive data collection, subscription requirements, or intrusive advertising to once-simple tools. By disabling updates, users can preserve the functionality of legacy apps that already work perfectly offline without unnecessary bloat.</description>
     </item>
   </channel>
 </rss>

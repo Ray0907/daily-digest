@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-05-09T22:12:25.234Z",
+  "last_updated": "2026-05-10T22:13:36.416Z",
   "articles": [
+    {
+      "id": "c87ff212069c9809",
+      "title": "The Real Singularity is the Friends We Made Along the Way",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-09T07:00:00.000Z",
+      "summary_en": "The author critiques the 'Singularity' movement, comparing belief in superintelligence to religious fervor or 'the rapture for nerds.' It argues that current hyperscaler investments in AI are driven by strategic panic and fear of missing out rather than immediate return on investment.",
+      "summary_zh": "作者批評了「奇點」運動，將對超級人工智慧的信仰比作宗教狂熱或「書呆子的升天」。文章認為，目前超大規模企業對人工智慧的巨額投資，更多是出於戰略恐慌和錯失恐懼症，而非實際的投資回報。",
+      "keywords": [
+        "Singularity",
+        "AI",
+        "Investment",
+        "Hyperscalers",
+        "Tech Culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a critical conceptual framework and analysis of the belief systems and market dynamics surrounding AI and the Singularity.",
+      "pacer_reason_zh": "本文針對圍繞人工智慧與奇點的信仰體系及市場動態，提供了批判性的概念架構與分析。"
+    },
+    {
+      "id": "fb20b22697420788",
+      "title": "Madame Semver Will See You Now",
+      "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-10T10:00:00.000Z",
+      "summary_en": "This piece uses the metaphorical framing of a tarot reading to explore the common, frustrating realities of maintaining open-source software. It highlights the challenges of dependency management, malicious pull requests, misinformation, and the exhausting nature of handling unsolicited security audits.",
+      "summary_zh": "本文透過塔羅牌占卜的隱喻，探討了維護開源軟體的常見痛點與無奈。內容描述了依賴關係管理、惡意合併請求、錯誤資訊以及處理無窮無盡的安全審計報告所帶來的疲憊感。",
+      "keywords": [
+        "open source",
+        "software maintenance",
+        "dependency management",
+        "technical storytelling",
+        "developer experience"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of a fortune teller reading tarot cards to explain the predictable cycles and struggles of software repository maintenance.",
+      "pacer_reason_zh": "本文運用塔羅牌占卜的類比，來解析軟體庫維護過程中可預見的循環與困境。"
+    },
+    {
+      "id": "f66de7b236100be3",
+      "title": "The linear algebra of bit twiddling",
+      "url": "https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-10T18:51:40.000Z",
+      "summary_en": "This article explores the application of linear algebra within the binary field to understand bit manipulation operations. It specifically examines the Mersenne Twister's tempering process by treating bitwise operations as matrix multiplications over a finite field.",
+      "summary_zh": "本文探討了二進位域中線性代數的應用，以理解位元操作的運作原理。文章具體分析了梅森旋轉演算法（Mersenne Twister）的調節步驟，將位元運算視為有限域上的矩陣乘法。",
+      "keywords": [
+        "linear algebra",
+        "bit twiddling",
+        "Mersenne Twister",
+        "finite field",
+        "binary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the theoretical framework of applying linear algebra concepts to bitwise operations.",
+      "pacer_reason_zh": "該文章解釋了將線性代數概念應用於位元運算的理論框架。"
+    },
+    {
+      "id": "a2df1b92f60a8b9f",
+      "title": "Reverse engineering Mersenne Twister with Linear Algebra",
+      "url": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-10T17:32:02.000Z",
+      "summary_en": "This article demonstrates how to recover the internal state of the Mersenne Twister random number generator by applying linear algebra techniques. It highlights the distinction between standard PRNGs and cryptographically secure generators by showing how the MT's output can be reverse-engineered.",
+      "summary_zh": "本文介紹了如何利用線性代數技術，從梅森旋轉演算法（Mersenne Twister）的輸出中恢復其內部狀態。文中透過此案例區分了偽隨機數生成器與密碼學安全生成器之間的本質差異。",
+      "keywords": [
+        "Mersenne Twister",
+        "Linear Algebra",
+        "Cryptography",
+        "PRNG",
+        "Reverse Engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical tutorial or guide on how to perform reverse engineering on a specific algorithm.",
+      "pacer_reason_zh": "本文屬於技術教學性質，指導讀者如何對特定演算法進行逆向工程分析。"
+    },
+    {
+      "id": "63d089c0ab9a2c06",
+      "title": "[RSS Club] A Sneak Preview of Upcoming Posts",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-10T11:34:38.000Z",
+      "summary_en": "The author shares a preview of upcoming blog posts exclusively with RSS subscribers as a token of appreciation. The post mentions the use of the Editorial Calendar plugin to manage a schedule characterized by writing in bursts.",
+      "summary_zh": "作者為了感謝 RSS 訂閱者，搶先分享了未來部落格文章的預告。文中提到使用 Editorial Calendar 外掛來管理其非定期、集中式的寫作節奏。",
+      "keywords": [
+        "RSS",
+        "blogging",
+        "content schedule",
+        "Editorial Calendar",
+        "preview"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as an announcement and a preview list of future content.",
+      "pacer_reason_zh": "這篇文章主要作為公告，並提供未來內容的清單參考。"
+    },
+    {
+      "id": "5113484316ce7f78",
+      "title": "Quoting Andrew Quinn",
+      "url": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-10T14:59:17.000Z",
+      "summary_en": "Andrew Quinn reflects on the psychological burden of fearing that one's programming work is obsolete. He argues that 'reinventing the wheel' a few times is a necessary learning process to reach the true frontier of technical knowledge effectively.",
+      "summary_zh": "Andrew Quinn 反思了程式設計師擔心自己的作品已過時的心理壓力。他認為，適度地「重新發明輪子」是獲取深層技術知識、進而觸及專業領域前沿的必要學習過程。",
+      "keywords": [
+        "programming",
+        "learning",
+        "reinventing the wheel",
+        "career",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a philosophical perspective on software development and the conceptual value of learning through hands-on reinvention.",
+      "pacer_reason_zh": "內容探討了關於軟體開發的哲學觀點，並解釋了透過親手實作來學習的觀念價值。"
+    },
+    {
+      "id": "f651323dcca4695e",
+      "title": "The left-wing case for AI",
+      "url": "https://seangoedecke.com/the-left-wing-case-for-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-10T00:00:00.000Z",
+      "summary_en": "This article explores the political implications of artificial intelligence from a left-wing perspective. It examines how AI technologies can be leveraged or critiqued within the context of labor rights, social equity, and economic policy.",
+      "summary_zh": "本文從左派視角探討人工智慧的政治意涵。文中分析了在勞工權益、社會公平與經濟政策的脈絡下，應如何運用或批判 AI 技術。",
+      "keywords": [
+        "AI",
+        "politics",
+        "left-wing",
+        "labor",
+        "economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on theoretical arguments and conceptual analysis of AI's societal impact.",
+      "pacer_reason_zh": "本文側重於針對 AI 社會影響的理論論述與概念分析。"
+    },
     {
       "id": "016ff330286eceb8",
       "title": "I Will Not Add Query Strings to Your URLs",

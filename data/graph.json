@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "f66de7b236100be3",
+      "title": "The linear algebra of bit twiddling",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/",
+      "pacer": "C",
+      "keywords": [
+        "linear algebra",
+        "bit twiddling",
+        "Mersenne Twister",
+        "finite field",
+        "binary"
+      ],
+      "published": "2026-05-10T18:51:40.000Z"
+    },
+    {
+      "id": "a2df1b92f60a8b9f",
+      "title": "Reverse engineering Mersenne Twister with Linear Algebra",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/",
+      "pacer": "P",
+      "keywords": [
+        "Mersenne Twister",
+        "Linear Algebra",
+        "Cryptography",
+        "PRNG",
+        "Reverse Engineering"
+      ],
+      "published": "2026-05-10T17:32:02.000Z"
+    },
+    {
+      "id": "5113484316ce7f78",
+      "title": "Quoting Andrew Quinn",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "programming",
+        "learning",
+        "reinventing the wheel",
+        "career",
+        "software development"
+      ],
+      "published": "2026-05-10T14:59:17.000Z"
+    },
+    {
+      "id": "63d089c0ab9a2c06",
+      "title": "[RSS Club] A Sneak Preview of Upcoming Posts",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/",
+      "pacer": "R",
+      "keywords": [
+        "RSS",
+        "blogging",
+        "content schedule",
+        "Editorial Calendar",
+        "preview"
+      ],
+      "published": "2026-05-10T11:34:38.000Z"
+    },
+    {
+      "id": "fb20b22697420788",
+      "title": "Madame Semver Will See You Now",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+      "pacer": "A",
+      "keywords": [
+        "open source",
+        "software maintenance",
+        "dependency management",
+        "technical storytelling",
+        "developer experience"
+      ],
+      "published": "2026-05-10T10:00:00.000Z"
+    },
+    {
+      "id": "f651323dcca4695e",
+      "title": "The left-wing case for AI",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/the-left-wing-case-for-ai/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "politics",
+        "left-wing",
+        "labor",
+        "economics"
+      ],
+      "published": "2026-05-10T00:00:00.000Z"
+    },
+    {
       "id": "62c15c8b8cf9ff0d",
       "title": "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -63,6 +159,22 @@
         "Criticality"
       ],
       "published": "2026-05-09T10:00:00.000Z"
+    },
+    {
+      "id": "c87ff212069c9809",
+      "title": "The Real Singularity is the Friends We Made Along the Way",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html",
+      "pacer": "C",
+      "keywords": [
+        "Singularity",
+        "AI",
+        "Investment",
+        "Hyperscalers",
+        "Tech Culture"
+      ],
+      "published": "2026-05-09T07:00:00.000Z"
     },
     {
       "id": "55bf5e37506c112a",
@@ -449,22 +561,6 @@
       "published": "2026-05-07T18:19:24.000Z"
     },
     {
-      "id": "446f5a8605ef2e79",
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Mozilla",
-        "Firefox",
-        "Claude Mythos",
-        "Cybersecurity",
-        "AI-assisted development"
-      ],
-      "published": "2026-05-07T17:56:25.000Z"
-    },
-    {
       "id": "0690e2f03912c943",
       "title": "How Long Do We Wait for New Inventions?",
       "source": "Construction Physics",
@@ -673,22 +769,6 @@
       "published": "2026-05-06T17:03:46.000Z"
     },
     {
-      "id": "88221048aa685fe9",
-      "title": "Unified config files",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/06/unified-config-files/",
-      "pacer": "P",
-      "keywords": [
-        "configuration",
-        "productivity",
-        "key mapping",
-        "workflow",
-        "environment"
-      ],
-      "published": "2026-05-06T16:32:20.000Z"
-    },
-    {
       "id": "b62a2965e399c5be",
       "title": "Why not have changes in API behavior depend on the SDK you link against?",
       "source": "The Old New Thing",
@@ -719,22 +799,6 @@
         "System Prompts"
       ],
       "published": "2026-05-06T12:00:00.000Z"
-    },
-    {
-      "id": "8a2e291cf284126b",
-      "title": "The mythology of category theory",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/06/category-mythology/",
-      "pacer": "C",
-      "keywords": [
-        "category theory",
-        "mathematics",
-        "patterns",
-        "misconceptions",
-        "philosophy"
-      ],
-      "published": "2026-05-06T11:37:42.000Z"
     },
     {
       "id": "f717688c521e5c99",
@@ -879,22 +943,6 @@
         "analytics"
       ],
       "published": "2026-05-05T11:34:12.000Z"
-    },
-    {
-      "id": "4f2ad61f714430b3",
-      "title": "Package Manager Threat Models",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html",
-      "pacer": "C",
-      "keywords": [
-        "supply-chain security",
-        "package manager",
-        "code execution",
-        "threat model",
-        "software security"
-      ],
-      "published": "2026-05-05T10:00:00.000Z"
     },
     {
       "id": "f412a136b425e7cc",
@@ -1070,22 +1118,6 @@
         "innovation"
       ],
       "published": "2026-05-03T13:41:32.000Z"
-    },
-    {
-      "id": "3c5351782707ff08",
-      "title": "Vertically Aligning Roman Numerals in Code",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/",
-      "pacer": "P",
-      "keywords": [
-        "Roman Numerals",
-        "Typography",
-        "PHP",
-        "Unicode",
-        "Code Formatting"
-      ],
-      "published": "2026-05-03T11:34:59.000Z"
     },
     {
       "id": "a88907848248da0d",
@@ -1824,22 +1856,6 @@
       "published": "2026-04-24T03:00:00.000Z"
     },
     {
-      "id": "4a202a1173bb01aa",
-      "title": "Software engineering may no longer be a lifetime career",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "pacer": "C",
-      "keywords": [
-        "software engineering",
-        "career development",
-        "tech industry",
-        "professional longevity",
-        "career trajectory"
-      ],
-      "published": "2026-04-24T00:00:00.000Z"
-    },
-    {
       "id": "a163bf4bdb060be1",
       "title": "Positivity",
       "source": "the singularity is nearer",
@@ -1902,22 +1918,6 @@
         "culture"
       ],
       "published": "2026-04-23T00:00:00.000Z"
-    },
-    {
-      "id": "a653bd3ee6bf6868",
-      "title": "Do you really want the US to “win” AI?",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Elon Musk",
-        "Sam Altman",
-        "Anthropic",
-        "Tech Ethics"
-      ],
-      "published": "2026-04-22T16:00:00.000Z"
     },
     {
       "id": "e4662687979abee1",
