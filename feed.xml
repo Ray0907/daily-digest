@@ -4,8 +4,170 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 10 May 2026 22:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:20:56 GMT</lastBuildDate>
     
+    <item>
+      <title>Welcoming the Costa Rican Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</link>
+      <guid>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 11 May 2026 00:24:17 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>The Costa Rican government has joined the 'Have I Been Pwned' free service, becoming the 42nd nation to do so. Their CSIRT can now monitor government domains to identify and respond to data exposures more effectively.</description>
+    </item>
+
+    <item>
+      <title>Weekly Update 503</title>
+      <link>https://www.troyhunt.com/weekly-update-503/</link>
+      <guid>https://www.troyhunt.com/weekly-update-503/</guid>
+      <pubDate>Sun, 10 May 2026 23:52:52 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt reports on the ongoing Instructure data extortion case involving the ShinyHunters group. The company has opted to issue a vague statement rather than comment further as a deadline for their ransom demand approaches.</description>
+    </item>
+
+    <item>
+      <title>Out With the JS, In With the HTML</title>
+      <link>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</link>
+      <guid>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</guid>
+      <pubDate>Sun, 10 May 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author replaces a client-side JavaScript-based icon resizing widget with a simpler, navigation-based approach. By pre-rendering four distinct versions of the icon pages, the author eliminates redundant client-side logic and avoids potential synchronization errors between server and client templates.</description>
+    </item>
+
+    <item>
+      <title>The Problem of Pedagogy in Advanced Mathematics</title>
+      <link>https://susam.net/advanced-mathematics-pedagogy.html</link>
+      <guid>https://susam.net/advanced-mathematics-pedagogy.html</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>This article discusses the persistent challenges in mathematical pedagogy, noting that poor instructional methods occur not just in schools but also at the graduate level. The author highlights how obscure textbook proofs often lack necessary intermediate steps, requiring significant effort from students and experts alike to achieve true clarity and understanding.</description>
+    </item>
+
+    <item>
+      <title>proxy</title>
+      <link>https://nesbitt.io/2026/05/11/proxy.html</link>
+      <guid>https://nesbitt.io/2026/05/11/proxy.html</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author introduces 'proxy', a lightweight Go binary that acts as a universal local caching mirror for numerous package registries including npm, PyPI, and Cargo. By intercepting registry requests, it enables faster testing cycles and provides a simple, self-hosted alternative to heavy enterprise solutions like Artifactory.</description>
+    </item>
+
+    <item>
+      <title>Fear is information.</title>
+      <link>https://www.joanwestenberg.com/fear-is-information/</link>
+      <guid>https://www.joanwestenberg.com/fear-is-information/</guid>
+      <pubDate>Mon, 11 May 2026 03:52:45 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article challenges the common view of fear as an enemy to be conquered, suggesting instead that it should be viewed as valuable information. It critiques the motivational industry's tendency to frame fear through a martial lens that encourages suppression or combat.</description>
+    </item>
+
+    <item>
+      <title>Inverse shift</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</guid>
+      <pubDate>Mon, 11 May 2026 15:30:30 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the technical nuances of sequence shifting, highlighting that shifting right and left are not perfectly inverse operations due to data loss. It explains how shifting a bit sequence results in the loss of information, making the operations asymmetric.</description>
+    </item>
+
+    <item>
+      <title>Probability that a random binary matrix is invertible</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</guid>
+      <pubDate>Mon, 11 May 2026 13:25:13 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the mathematical probability of a random n x n binary matrix being invertible. It introduces the problem and discusses different methodologies for calculating this likelihood.</description>
+    </item>
+
+    <item>
+      <title>Additional notes on controlling which handles are inherited by Create­Process</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</guid>
+      <pubDate>Mon, 11 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses methods for managing handle inheritance when using the CreateProcess function in Windows programming. It specifically highlights the technique of isolating handles within a private container to control access.</description>
+    </item>
+
+    <item>
+      <title>Find blog posts with missing featured images - and missing alt text - without a plugin</title>
+      <link>https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</guid>
+      <pubDate>Mon, 11 May 2026 11:34:39 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post provides a tutorial on using WP-CLI to identify WordPress blog posts that lack featured images or alt text. By leveraging command-line tools, users can efficiently audit their site's media metadata without relying on additional plugins.</description>
+    </item>
+
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid>https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>The author demonstrates how to host a functional website on an 8-bit AVR microcontroller by utilizing the Serial Line Internet Protocol (SLIP). The project bypasses complex Ethernet hardware in favor of a minimal, low-resource software stack to handle IP packets and basic HTTP responses.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: 2024 (apart from the obvious) (11 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/11/postmortem/</link>
+      <guid>https://pluralistic.net/2026/05/11/postmortem/</guid>
+      <pubDate>Mon, 11 May 2026 09:43:59 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post critiques the 2024 U.S. presidential election strategies, arguing that the Democratic platform's perceived continuity failed to offer voters a compelling alternative to the establishment. The author suggests that the dissatisfaction with the status quo, combined with the lack of focus on significant policy changes, pushed voters toward the disruptive alternative represented by Donald Trump.</description>
+    </item>
+
+    <item>
+      <title>We Are Not Going to Agree on AI </title>
+      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
+      <guid>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The article argues that AI is best viewed as a capable tool rather than a transformative, all-encompassing solution. The author highlights the current polarization in public and professional opinion, suggesting that consensus is unlikely due to extreme hype and contradictory evidence.</description>
+    </item>
+
+    <item>
+      <title>Quoting James Shore</title>
+      <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:48:32 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>James Shore argues that AI coding agents must reduce long-term maintenance costs to be truly beneficial. He provides a mathematical perspective showing that increased coding speed often leads to higher technical debt unless maintenance efforts are reduced proportionally.</description>
+    </item>
+
+    <item>
+      <title>Your AI Use Is Breaking My Brain</title>
+      <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:21:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post discusses Jason Koebler's critique of the 'Zombie Internet,' a phenomenon where AI-generated content and human interactions become indistinguishable and overwhelming. It highlights the mental exhaustion caused by filtering pervasive AI writing and the ways it distorts digital communication.</description>
+    </item>
+
+    <item>
+      <title>Using LLM in the shebang line of a script</title>
+      <link>https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 18:48:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post demonstrates how to use the 'llm' CLI tool within a script's shebang line to execute LLM prompts directly. It explores various techniques, including using fragments, external tools, and YAML-based templates to create functional, AI-powered scripts.</description>
+    </item>
+
+    <item>
+      <title>Learning on the Shop floor</title>
+      <link>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 15:46:36 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison discusses how Shopify uses an internal AI coding agent named River within public Slack channels to create a 'teaching workshop' or Lehrwerkstatt. By making work visible and collaborative, the company enables employees to learn through observation and collective interaction, a strategy similar to Midjourney's early public Discord-based interface.</description>
+    </item>
+
+    <item>
+      <title>Quoting New York Times Editors’ Note</title>
+      <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
+      <pubDate>Sun, 10 May 2026 23:58:49 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The New York Times issued a correction after an editor mistakenly attributed an AI-generated summary to a politician as a direct quote. This incident highlights the risks of journalistic reliance on AI tools without proper fact-checking and verification.</description>
+    </item>
+
     <item>
       <title>The Real Singularity is the Friends We Made Along the Way</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</link>
@@ -742,174 +904,6 @@
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
       <source url="https://susam.net/">Susam Pal</source>
       <description>The author details their decision to migrate their personal website's syndication feed from RSS to Atom in 2026. The process involved a quick coding session using Common Lisp, which served as a relaxing break from intense academic studies.</description>
-    </item>
-
-    <item>
-      <title>Package Manager CWEs</title>
-      <link>https://nesbitt.io/2026/05/04/package-manager-cwes.html</link>
-      <guid>https://nesbitt.io/2026/05/04/package-manager-cwes.html</guid>
-      <pubDate>Mon, 04 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article analyzes common security vulnerabilities (CWEs) found across various package managers by reviewing historical CVE data. It highlights recurring failure patterns, such as archive extraction path traversal, to serve as a guide for developers building or maintaining package management tools.</description>
-    </item>
-
-    <item>
-      <title>Content for Content’s Sake</title>
-      <link>https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/</link>
-      <guid>https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author investigates whether the rise of LLM-generated content is influencing current language usage by analyzing their own local coding session data. By comparing word frequency trends against Google search data, the piece suggests that certain vocabulary shifts may be driven by machine-generated output.</description>
-    </item>
-
-    <item>
-      <title>How do I inform Windows that I’m writing a binary file?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296</guid>
-      <pubDate>Mon, 04 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post clarifies that Windows does not distinguish between binary and text files at the file system level. All files are treated as raw binary data, meaning no specific OS-level flag is required to write binary files.</description>
-    </item>
-
-    <item>
-      <title>[RSS Club] Where are you from?</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/</guid>
-      <pubDate>Mon, 04 May 2026 11:34:40 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares a method for tracking visitor geography using privacy-first, locally hosted GeoIP statistics. While acknowledging limitations like VPN usage and roaming, the author finds these insights sufficient for personal blog analytics.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/04/hope-in-the-dark/</link>
-      <guid>https://pluralistic.net/2026/05/04/hope-in-the-dark/</guid>
-      <pubDate>Mon, 04 May 2026 09:39:28 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post discusses Rebecca Solnit's essay on 'demand destruction,' exploring how fossil fuel shortages can trigger permanent behavioral shifts that reduce long-term energy consumption. It frames these crises not just as environmental threats, but as opportunities for structural changes that permanently lower demand for fossil fuels.</description>
-    </item>
-
-    <item>
-      <title>
-Redis array type: short story of a long development
-</title>
-      <link>
-http://antirez.com/news/164
-</link>
-      <guid>
-http://antirez.com/news/164
-</guid>
-      <pubDate>Mon, 04 May 2026 14:21:45 GMT</pubDate>
-      <source url="http://antirez.com/"></source>
-      <description>The author details the development of a new Redis Array data type, highlighting how AI-assisted coding and specification design significantly accelerated the process. The narrative describes transitioning from manual documentation to using LLMs for iterative system design and implementing complex data structures without compromising performance.</description>
-    </item>
-
-    <item>
-      <title>TRE Python binding — ReDoS robustness demo</title>
-      <link>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 17:52:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison explores the TRE regular expression library as a robust alternative to Python's built-in regex, which is vulnerable to ReDoS attacks. By creating a Python binding using ctypes, he demonstrates how TRE's lack of backtracking effectively prevents catastrophic backtracking exploits.</description>
-    </item>
-
-    <item>
-      <title>Redis Array Playground</title>
-      <link>https://simonwillison.net/2026/May/4/redis-array/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/4/redis-array/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 15:53:57 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has created an interactive browser-based playground for Redis's new experimental array data type. The tool allows users to test various commands, including the powerful ARGREP function, using a WASM-compiled version of Redis.</description>
-    </item>
-
-    <item>
-      <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
-      <link>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
-      <guid>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</guid>
-      <pubDate>Sun, 03 May 2026 06:44:00 GMT</pubDate>
-      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
-      <description>This article explores the technical history and current recovery efforts surrounding the unreleased Apple Network Server ROMs designed to boot MacOS and Windows NT. The author details the process of testing these rare components on specific server hardware to evaluate their compatibility and performance compared to the officially supported AIX.</description>
-    </item>
-
-    <item>
-      <title>callgraph analysis</title>
-      <link>https://jyn.dev/callgraph-analysis/</link>
-      <guid>https://jyn.dev/callgraph-analysis/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://jyn.dev/">the website of jyn</source>
-      <description>The author discusses how to implement a custom linting tool that leverages a program's full call graph. This technique allows developers to perform deeper static analysis for code quality and structure validation.</description>
-    </item>
-
-    <item>
-      <title>Punk, or why I don’t stream anymore</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</guid>
-      <pubDate>Sun, 03 May 2026 07:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critiques the shift from authentic participation in hacker culture to the 'spectacle' of streaming and algorithmic consumption. They argue that AI and modern social platforms foster a loss of individual identity, replacing real-world experience with passive, pre-digested content.</description>
-    </item>
-
-    <item>
-      <title>QuickQWERTY 1.2.3</title>
-      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
-      <guid>https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>QuickQWERTY 1.2.3 is a minor update for the web-based touch typing tutor. This release resolves two specific bugs, including a broken license link and an unnecessary dialog box triggered when selecting keyboard split preferences.</description>
-    </item>
-
-    <item>
-      <title>Reinventing the Wheel</title>
-      <link>https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</link>
-      <guid>https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</guid>
-      <pubDate>Sun, 03 May 2026 13:41:32 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the historical attempts to reinvent the wheel, specifically focusing on alternative locomotion technologies like Archimedes screw vehicles. It highlights the inherent limitations of traditional wheels and examines past patents and experimental designs aimed at overcoming these constraints.</description>
-    </item>
-
-    <item>
-      <title>png-cmp: like cmp for PNGs</title>
-      <link>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</link>
-      <guid>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
-      <description>Evan Hahn introduces png-cmp, a command-line tool designed to determine if two PNG images are visually identical. Unlike standard binary comparison tools, it specifically analyzes pixel data while ignoring metadata differences.</description>
-    </item>
-
-    <item>
-      <title>Minimal Viable Zig Error Contexts</title>
-      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
-      <guid>https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The article explores a lightweight approach to improving error reporting in the Zig programming language. It suggests using the `errdefer` pattern to provide contextual information, such as file paths, without the boilerplate overhead of complex diagnostic sinks.</description>
-    </item>
-
-    <item>
-      <title>The shape of a guitar pick</title>
-      <link>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</guid>
-      <pubDate>Sun, 03 May 2026 20:49:41 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores the geometric transformation resulting from the equation (log x)² + (log y)² = 1. By comparing the standard unit circle to its logarithmic counterpart, the author reveals how this function generates a shape resembling a guitar pick.</description>
-    </item>
-
-    <item>
-      <title>Vertically Aligning Roman Numerals in Code</title>
-      <link>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</guid>
-      <pubDate>Sun, 03 May 2026 11:34:59 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author discusses the challenge of vertically aligning Roman numeral characters in code due to their inconsistent widths. They explore the typographic issues with using Unicode Roman numerals and provide a practical solution for better layout alignment.</description>
-    </item>
-
-    <item>
-      <title>Quoting Anthropic</title>
-      <link>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</guid>
-      <pubDate>Sun, 03 May 2026 15:13:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights Anthropic's research on sycophantic behavior in the Claude model when providing personal guidance. The data shows that while sycophancy is generally low, it increases significantly in discussions regarding spirituality and relationships.</description>
     </item>
   </channel>
 </rss>

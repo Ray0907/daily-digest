@@ -1,6 +1,366 @@
 {
-  "last_updated": "2026-05-10T22:13:36.416Z",
+  "last_updated": "2026-05-11T22:20:56.260Z",
   "articles": [
+    {
+      "id": "7a927153c1e9d4d3",
+      "title": "Welcoming the Costa Rican Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-11T00:24:17.000Z",
+      "summary_en": "The Costa Rican government has joined the 'Have I Been Pwned' free service, becoming the 42nd nation to do so. Their CSIRT can now monitor government domains to identify and respond to data exposures more effectively.",
+      "summary_zh": "哥斯大黎加政府正式加入「Have I Been Pwned」免費服務，成為第 42 個參與的國家。該國的資安應變小組（CSIRT）將能監控政府網域，並即時識別潛在的資料外洩威脅。",
+      "keywords": [
+        "Have I Been Pwned",
+        "Costa Rica",
+        "Cybersecurity",
+        "Data Breach",
+        "CSIRT"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as an update on a real-world implementation case involving a government agency.",
+      "pacer_reason_zh": "此文章為關於政府機構導入實際案例的更新報導。"
+    },
+    {
+      "id": "dd7688b740b435e0",
+      "title": "Weekly Update 503",
+      "url": "https://www.troyhunt.com/weekly-update-503/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-10T23:52:52.000Z",
+      "summary_en": "Troy Hunt reports on the ongoing Instructure data extortion case involving the ShinyHunters group. The company has opted to issue a vague statement rather than comment further as a deadline for their ransom demand approaches.",
+      "summary_zh": "Troy Hunt 報導了涉及 ShinyHunters 組織的 Instructure 數據勒索案。隨著贖金勒索截止日期臨近，該公司選擇發布一份模糊的聲明，拒絕進一步置評。",
+      "keywords": [
+        "Instructure",
+        "ShinyHunters",
+        "Data Breach",
+        "Cybersecurity",
+        "Troy Hunt"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content reports on specific, timely news and documented events regarding a cybersecurity incident.",
+      "pacer_reason_zh": "本文報導了關於網路安全事件的特定時事與已記錄的現況。"
+    },
+    {
+      "id": "c571339677cc5c1f",
+      "title": "Out With the JS, In With the HTML",
+      "url": "https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-05-10T19:00:00.000Z",
+      "summary_en": "The author replaces a client-side JavaScript-based icon resizing widget with a simpler, navigation-based approach. By pre-rendering four distinct versions of the icon pages, the author eliminates redundant client-side logic and avoids potential synchronization errors between server and client templates.",
+      "summary_zh": "作者將原本基於 JavaScript 的客戶端圖示調整大小功能，改為更簡單的導航式設計。透過預先渲染四種不同尺寸的頁面，作者消除了冗餘的客戶端邏輯，並避免了伺服器與客戶端範本之間不同步的問題。",
+      "keywords": [
+        "HTML",
+        "JavaScript",
+        "Web Performance",
+        "Static Site",
+        "Refactoring"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the contrast between the old JS-based method and the new navigation-based method to illustrate a paradigm shift in web architecture.",
+      "pacer_reason_zh": "本文透過對比舊有的 JavaScript 方法與新的導航式方法，闡述了網頁架構設計觀念的轉變。"
+    },
+    {
+      "id": "e5065dae171b33ef",
+      "title": "The Problem of Pedagogy in Advanced Mathematics",
+      "url": "https://susam.net/advanced-mathematics-pedagogy.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-11T00:00:00.000Z",
+      "summary_en": "This article discusses the persistent challenges in mathematical pedagogy, noting that poor instructional methods occur not just in schools but also at the graduate level. The author highlights how obscure textbook proofs often lack necessary intermediate steps, requiring significant effort from students and experts alike to achieve true clarity and understanding.",
+      "summary_zh": "本文探討了數學教學中持續存在的挑戰，指出教學問題不僅限於基礎教育，也存在於研究所階段。作者強調許多數學教科書中的證明過於簡略且缺乏中間步驟，導致學生甚至專業人士需要投入大量心力才能真正理解其邏輯。",
+      "keywords": [
+        "mathematics",
+        "pedagogy",
+        "education",
+        "proofs",
+        "textbooks"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of the problems inherent in how mathematics is taught and presented in literature.",
+      "pacer_reason_zh": "本文是對數學教學方式及文獻呈現問題的概念性探討。"
+    },
+    {
+      "id": "7f049332a3d7b67a",
+      "title": "proxy",
+      "url": "https://nesbitt.io/2026/05/11/proxy.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-11T10:00:00.000Z",
+      "summary_en": "The author introduces 'proxy', a lightweight Go binary that acts as a universal local caching mirror for numerous package registries including npm, PyPI, and Cargo. By intercepting registry requests, it enables faster testing cycles and provides a simple, self-hosted alternative to heavy enterprise solutions like Artifactory.",
+      "summary_zh": "作者介紹了一款名為 'proxy' 的輕量級 Go 二進位檔案，它能作為 npm、PyPI 和 Cargo 等多種套件註冊中心的通用本地快取鏡像。透過攔截註冊中心請求，該工具不僅能加速測試流程，還為尋求輕量級方案的用戶提供了 Artifactory 或 Nexus 的替代選擇。",
+      "keywords": [
+        "proxy",
+        "caching",
+        "package-manager",
+        "devops",
+        "go-lang"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains how to solve the problem of testing against external registries by providing a tool and examples of how to implement it locally.",
+      "pacer_reason_zh": "本文介紹瞭如何透過提供工具及其實作範例，解決開發過程中對外部註冊中心進行測試的問題。"
+    },
+    {
+      "id": "52fe36e3b529b195",
+      "title": "Fear is information.",
+      "url": "https://www.joanwestenberg.com/fear-is-information/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-11T03:52:45.000Z",
+      "summary_en": "This article challenges the common view of fear as an enemy to be conquered, suggesting instead that it should be viewed as valuable information. It critiques the motivational industry's tendency to frame fear through a martial lens that encourages suppression or combat.",
+      "summary_zh": "本文挑戰了將恐懼視為必須戰勝之敵的普遍觀點，主張應將恐懼視為有價值的資訊。文章批評了勵志產業傾向於使用軍事化語言，鼓勵人們壓抑或對抗恐懼。",
+      "keywords": [
+        "fear",
+        "psychology",
+        "motivation",
+        "mindset",
+        "perception"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual shift in how to frame and understand the emotion of fear.",
+      "pacer_reason_zh": "本文針對如何定義與理解「恐懼」這一情感，提供了概念上的轉變。"
+    },
+    {
+      "id": "03c0c1948038db4c",
+      "title": "Inverse shift",
+      "url": "https://www.johndcook.com/blog/2026/05/11/inverse-shift/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-11T15:30:30.000Z",
+      "summary_en": "This article explores the technical nuances of sequence shifting, highlighting that shifting right and left are not perfectly inverse operations due to data loss. It explains how shifting a bit sequence results in the loss of information, making the operations asymmetric.",
+      "summary_zh": "本文探討了序列位移技術中的細節，指出由於數據丟失，向右移位和向左移位並非完全互逆的操作。文章解釋了位元序列在移位過程中會導致信息流失，使這些運算在數學上呈現非對稱性。",
+      "keywords": [
+        "bit shifting",
+        "sequences",
+        "data loss",
+        "inverse operations",
+        "binary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of bitwise operations and why they do not function as perfect mathematical inverses.",
+      "pacer_reason_zh": "文章解釋了位元運算的概念，並說明了為什麼它們在數學上無法構成完美的逆運算。"
+    },
+    {
+      "id": "21ecf3708616ce67",
+      "title": "Probability that a random binary matrix is invertible",
+      "url": "https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-11T13:25:13.000Z",
+      "summary_en": "This article explores the mathematical probability of a random n x n binary matrix being invertible. It introduces the problem and discusses different methodologies for calculating this likelihood.",
+      "summary_zh": "本文探討了隨機二元矩陣可逆的數學機率問題。文章介紹了該問題的背景，並討論了計算此類矩陣可逆機率的不同方法。",
+      "keywords": [
+        "binary matrix",
+        "invertible matrix",
+        "probability",
+        "linear algebra",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a mathematical concept and the theoretical framework behind determining matrix invertibility.",
+      "pacer_reason_zh": "本文重點在於解釋數學概念，以及探討判定矩陣可逆性背後的理論框架。"
+    },
+    {
+      "id": "bd10ae0b637480cf",
+      "title": "Additional notes on controlling which handles are inherited by Create­Process",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-11T14:00:00.000Z",
+      "summary_en": "This post discusses methods for managing handle inheritance when using the CreateProcess function in Windows programming. It specifically highlights the technique of isolating handles within a private container to control access.",
+      "summary_zh": "這篇文章探討了在使用 CreateProcess 函數進行 Windows 程式開發時，如何管理控制代碼（handle）繼承的問題。文中特別介紹了將控制代碼放置於私有容器中，以精確控制存取權限的技術。",
+      "keywords": [
+        "CreateProcess",
+        "Windows API",
+        "Handle Inheritance",
+        "Programming",
+        "Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content provides technical instructions and implementation techniques for a specific programming task.",
+      "pacer_reason_zh": "內容提供了針對特定程式開發任務的技術指導與實作技巧。"
+    },
+    {
+      "id": "27544c25f1028f68",
+      "title": "Find blog posts with missing featured images - and missing alt text - without a plugin",
+      "url": "https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-11T11:34:39.000Z",
+      "summary_en": "This post provides a tutorial on using WP-CLI to identify WordPress blog posts that lack featured images or alt text. By leveraging command-line tools, users can efficiently audit their site's media metadata without relying on additional plugins.",
+      "summary_zh": "這篇文章介紹了如何利用 WP-CLI 指令行工具，在不使用外掛的情況下找出 WordPress 網站中缺乏精選圖片或替代文字的部落格文章。透過指令行操作，使用者可以更有效率地稽核與管理網站的媒體中繼資料。",
+      "keywords": [
+        "WordPress",
+        "WP-CLI",
+        "SEO",
+        "Featured Image",
+        "Command Line"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step technical guide on using command-line tools to solve a specific administrative task in WordPress.",
+      "pacer_reason_zh": "該文章提供了逐步操作的技術指南，教導如何使用指令行工具來解決 WordPress 中的特定管理任務。"
+    },
+    {
+      "id": "2f8b4827eba6f92e",
+      "title": "Hosting a website on an 8-bit microcontroller.",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-05-11T00:00:00.000Z",
+      "summary_en": "The author demonstrates how to host a functional website on an 8-bit AVR microcontroller by utilizing the Serial Line Internet Protocol (SLIP). The project bypasses complex Ethernet hardware in favor of a minimal, low-resource software stack to handle IP packets and basic HTTP responses.",
+      "summary_zh": "作者展示了如何透過串列線路網際網路協定 (SLIP)，在 8 位元 AVR 微控制器上架設網站。此專案避開了複雜的乙太網路硬體，改採精簡的軟體堆疊來處理 IP 封包與基礎的 HTTP 回應。",
+      "keywords": [
+        "AVR",
+        "Microcontroller",
+        "SLIP",
+        "Embedded",
+        "Networking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a technical walkthrough detailing the implementation steps for hosting a web server on restricted hardware.",
+      "pacer_reason_zh": "本文屬於技術實作指南，詳細說明了如何在受限的硬體環境中架設網頁伺服器的步驟。"
+    },
+    {
+      "id": "cc1c12c67958e74c",
+      "title": "Pluralistic: 2024 (apart from the obvious) (11 May 2026)",
+      "url": "https://pluralistic.net/2026/05/11/postmortem/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-11T09:43:59.000Z",
+      "summary_en": "This post critiques the 2024 U.S. presidential election strategies, arguing that the Democratic platform's perceived continuity failed to offer voters a compelling alternative to the establishment. The author suggests that the dissatisfaction with the status quo, combined with the lack of focus on significant policy changes, pushed voters toward the disruptive alternative represented by Donald Trump.",
+      "summary_zh": "這篇文章評論了 2024 年美國總統大選的競選策略，認為民主黨延續前任政府的路線未能為選民提供具吸引力的替代方案。作者指出，選民對現狀的不滿加上缺乏實質政策變革，使得選民傾向選擇川普所代表的顛覆性路線。",
+      "keywords": [
+        "2024 Election",
+        "Cory Doctorow",
+        "US Politics",
+        "Democratic Party",
+        "Political Commentary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily a conceptual analysis and critique of political strategy and voter behavior.",
+      "pacer_reason_zh": "內容主要針對政治策略與選民行為進行概念性分析與評論。"
+    },
+    {
+      "id": "c1849797b6c82dd5",
+      "title": "We Are Not Going to Agree on AI ",
+      "url": "https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-11T12:00:00.000Z",
+      "summary_en": "The article argues that AI is best viewed as a capable tool rather than a transformative, all-encompassing solution. The author highlights the current polarization in public and professional opinion, suggesting that consensus is unlikely due to extreme hype and contradictory evidence.",
+      "summary_zh": "本文主張人工智慧應被視為一種實用工具，而非包羅萬象的革命性方案。作者指出目前大眾與專業領域對 AI 的意見分歧，認為由於過度炒作與矛盾的證據，我們將難以就 AI 的定位達成共識。",
+      "keywords": [
+        "AI",
+        "technology",
+        "productivity",
+        "software development",
+        "innovation"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses the analogy of shopping for a stud finder at Home Depot to illustrate the conflict between practical utility and excessive, complex features in AI.",
+      "pacer_reason_zh": "作者透過在五金行購買測牆儀（stud finder）的親身經歷作為類比，說明人工智慧在實用性與過度堆疊複雜功能之間的衝突。"
+    },
+    {
+      "id": "1a4ad3d48a105311",
+      "title": "Quoting James Shore",
+      "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-11T19:48:32.000Z",
+      "summary_en": "James Shore argues that AI coding agents must reduce long-term maintenance costs to be truly beneficial. He provides a mathematical perspective showing that increased coding speed often leads to higher technical debt unless maintenance efforts are reduced proportionally.",
+      "summary_zh": "James Shore 指出，AI 編碼代理必須能降低長期維護成本才具備實質效益。他透過數學邏輯分析說明，若未能同步降低維護成本，程式碼產出的速度提升反而會導致技術債的顯著增加。",
+      "keywords": [
+        "AI coding agents",
+        "technical debt",
+        "maintenance costs",
+        "productivity",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the theoretical economic impact and conceptual framework of using AI in software development.",
+      "pacer_reason_zh": "該文章側重於探討在軟體開發中使用 AI 的經濟影響與概念性框架。"
+    },
+    {
+      "id": "86964fb98bdd7e8e",
+      "title": "Your AI Use Is Breaking My Brain",
+      "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-11T19:21:27.000Z",
+      "summary_en": "This post discusses Jason Koebler's critique of the 'Zombie Internet,' a phenomenon where AI-generated content and human interactions become indistinguishable and overwhelming. It highlights the mental exhaustion caused by filtering pervasive AI writing and the ways it distorts digital communication.",
+      "summary_zh": "本文探討了 Jason Koebler 對「殭屍網路」（Zombie Internet）的批判，指出 AI 生成內容與人類互動的界線日益模糊，令人難以招架。文章強調了過濾無處不在的 AI 內容所帶來的精神消耗，以及這種趨勢如何扭曲人類的數位溝通模式。",
+      "keywords": [
+        "AI",
+        "Zombie Internet",
+        "Generative AI",
+        "Digital Culture",
+        "Content Quality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual definition and cultural commentary on the impact of AI-generated content on internet discourse.",
+      "pacer_reason_zh": "本文提供了一種概念性定義與文化評論，探討 AI 生成內容對網路討論環境的影響。"
+    },
+    {
+      "id": "3ee4cc623426e867",
+      "title": "Using LLM in the shebang line of a script",
+      "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-11T18:48:57.000Z",
+      "summary_en": "This post demonstrates how to use the 'llm' CLI tool within a script's shebang line to execute LLM prompts directly. It explores various techniques, including using fragments, external tools, and YAML-based templates to create functional, AI-powered scripts.",
+      "summary_zh": "本文介紹如何利用 shebang 行將 'llm' 命令列工具嵌入腳本中，直接執行 LLM 提示詞。文中展示了多種技巧，包括使用 fragments、外部工具以及基於 YAML 的模板來建立功能強大的 AI 驅動腳本。",
+      "keywords": [
+        "LLM",
+        "shebang",
+        "CLI",
+        "automation",
+        "scripts"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific, actionable code snippets and instructions on how to configure script files for LLM integration.",
+      "pacer_reason_zh": "本文提供了具體且可操作的程式碼片段與說明，指導使用者如何配置腳本檔案以進行 LLM 整合。"
+    },
+    {
+      "id": "b6be045d33aaf60f",
+      "title": "Learning on the Shop floor",
+      "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-11T15:46:36.000Z",
+      "summary_en": "Simon Willison discusses how Shopify uses an internal AI coding agent named River within public Slack channels to create a 'teaching workshop' or Lehrwerkstatt. By making work visible and collaborative, the company enables employees to learn through observation and collective interaction, a strategy similar to Midjourney's early public Discord-based interface.",
+      "summary_zh": "Simon Willison 探討了 Shopify 如何透過名為 River 的內部 AI 編碼代理工具，在公開的 Slack 頻道中打造「教學工作坊」。透過將工作過程透明化與協作化，公司讓員工能透過觀察與互動進行學習，這種策略與 Midjourney 早期利用公開 Discord 頻道促進使用者交流的做法如出一轍。",
+      "keywords": [
+        "Shopify",
+        "AI Agents",
+        "Lehrwerkstatt",
+        "Organizational Learning",
+        "Midjourney"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual framework of 'osmosis learning' and how public AI workflows serve as an organizational teaching model.",
+      "pacer_reason_zh": "本文探討了「滲透式學習」的概念架構，以及公開的 AI 工作流如何作為組織性的教學模式。"
+    },
+    {
+      "id": "05d042dc5905ba44",
+      "title": "Quoting New York Times Editors’ Note",
+      "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-10T23:58:49.000Z",
+      "summary_en": "The New York Times issued a correction after an editor mistakenly attributed an AI-generated summary to a politician as a direct quote. This incident highlights the risks of journalistic reliance on AI tools without proper fact-checking and verification.",
+      "summary_zh": "紐約時報在錯誤地將人工智慧生成的總結視為政治人物的直接引言後，發布了更正聲明。此事件凸顯了新聞工作若缺乏嚴格事實查核，僅依賴 AI 工具所帶來的潛在風險。",
+      "keywords": [
+        "AI-ethics",
+        "hallucinations",
+        "generative-ai",
+        "journalism",
+        "fact-checking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "It presents a specific case study of a journalistic error caused by AI, serving as evidence of the dangers of unverified AI usage.",
+      "pacer_reason_zh": "透過新聞工作因誤用 AI 而犯錯的具體案例，作為未經查核使用 AI 所帶來風險的實證。"
+    },
     {
       "id": "c87ff212069c9809",
       "title": "The Real Singularity is the Friends We Made Along the Way",
