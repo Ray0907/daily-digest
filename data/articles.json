@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-05-11T22:20:56.260Z",
+  "last_updated": "2026-05-12T22:24:08.668Z",
   "articles": [
+    {
+      "id": "bb70ceee9840de9c",
+      "title": "Shame them, shun them, ban them, beat them!",
+      "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-05-12T13:23:30.000Z",
+      "summary_en": "This article explores the psychological and social dynamics of shame, ostracism, and punishment in modern society. It examines how these mechanisms influence human behavior and group cohesion through a historical and experimental lens.",
+      "summary_zh": "本文探討了現代社會中羞辱、排斥與懲罰行為背後的心理與社會動力。透過歷史與實驗視角，分析了這些機制如何影響人類行為與群體凝聚力。",
+      "keywords": [
+        "shame",
+        "social dynamics",
+        "experimental history",
+        "behavioral psychology",
+        "ostracism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theoretical and conceptual underpinnings of social punishment and behavior.",
+      "pacer_reason_zh": "本文探討了社會懲罰與行為背後的理論基礎與概念。"
+    },
+    {
+      "id": "5995e1578a718d83",
+      "title": "Welcoming the Bangladesh Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-11T22:27:32.000Z",
+      "summary_en": "The Bangladesh government has joined the 'Have I Been Pwned' free government service, becoming the 43rd nation to participate. Their BGD e-GOV CIRT department can now utilize APIs to monitor and query government domains for potential data breaches.",
+      "summary_zh": "孟加拉政府正式加入「Have I Been Pwned」的免費政府服務計畫，成為全球第 43 個合作國家。該國的 BGD e-GOV CIRT 部門現在可以透過 API 全面監控政府網域，並即時查詢未來的資料外洩風險。",
+      "keywords": [
+        "Have I Been Pwned",
+        "Bangladesh",
+        "Cybersecurity",
+        "Data Breach",
+        "Government"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "This post functions as a report on a real-world case study of institutional adoption and service implementation.",
+      "pacer_reason_zh": "此文章報導了一個真實的機構採用與服務落實案例，屬於實證資訊。"
+    },
+    {
+      "id": "2e0998400f798d8e",
+      "title": "Building Software Requires Digestion",
+      "url": "https://blog.jim-nielsen.com/2026/software-requires-digestion/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-05-12T19:00:00.000Z",
+      "summary_en": "The author argues that modern chatbot interfaces, which prioritize rapid interaction, discourage the deep reflection necessary for effective software development. By drawing on the Japanese concept of 'Ma,' the post emphasizes that pausing and 'digesting' information are critical, active components of the creative problem-solving process.",
+      "summary_zh": "作者指出，現代聊天機器人介面過度追求快速互動，反而阻礙了軟體開發中所需的深度思考。文章引用日本「間」（Ma）的概念，強調暫停與資訊「消化」是創意問題解決過程中不可或缺的積極組成部分。",
+      "keywords": [
+        "software development",
+        "Ma",
+        "human-computer interaction",
+        "reflection",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theoretical impact of interface design on human cognitive processes and proposes a conceptual framework for better problem-solving.",
+      "pacer_reason_zh": "文章討論了介面設計對人類認知過程的理論影響，並提出了改善解決問題能力的觀念框架。"
+    },
+    {
+      "id": "74e2fefc5207281c",
+      "title": "Regatta Starting Stations – Chi-squared Continued",
+      "url": "https://entropicthoughts.com/regatta-starting-stations",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-05-11T22:00:00.000Z",
+      "summary_en": "This article investigates a statistical anomaly in the Henley Royal Regatta, where the Berkshire starting station yields a significantly higher win rate than the Buckinghamshire one. The author uses historical data to challenge the assumption that both stations are identical and fair.",
+      "summary_zh": "本文探討了亨利皇家賽船會中一個統計異常現象，即伯克郡（Berkshire）起點站的勝率明顯高於白金漢郡（Buckinghamshire）起點站。作者透過歷史數據挑戰了兩條航道完全相同且公平的假設。",
+      "keywords": [
+        "Henley Royal Regatta",
+        "statistics",
+        "Chi-squared",
+        "fairness",
+        "sports data"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on analyzing historical race data and statistical benchmarks to prove a deviation from expected outcomes.",
+      "pacer_reason_zh": "本文重點在於分析歷史賽事數據與統計基準，以證明現有結果偏離了預期。"
+    },
+    {
+      "id": "d3cced5f56daa883",
+      "title": "Not a Security Issue",
+      "url": "https://nesbitt.io/2026/05/12/not-a-security-issue.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-12T10:00:00.000Z",
+      "summary_en": "The author demonstrates how providing AI scanners with a project's specific vulnerability disclosure policy allows them to automatically filter out non-security bugs. By context-loading curl's policy, the tools successfully classified issues like minor leaks and crashes as low-priority quality bugs rather than false-positive security alerts.",
+      "summary_zh": "作者展示了將專案的漏洞揭露政策載入 AI 掃描器後，能有效自動過濾非安全性漏洞。透過將 curl 的政策作為上下文，掃描工具能自動將小型洩漏或崩潰等問題歸類為一般品質瑕疵，而非偽陽性的安全性警報。",
+      "keywords": [
+        "curl",
+        "AI security",
+        "vulnerability disclosure",
+        "triage",
+        "agentic scanners"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides an experimental demonstration of using policy-aware AI scanners on the curl codebase to reduce false-positive security reports.",
+      "pacer_reason_zh": "本文透過在 curl 程式碼庫中使用具備政策感知能力的 AI 掃描器進行實驗，展示了減少偽陽性安全性報告的實作案例。"
+    },
+    {
+      "id": "91e6d188a8e84b94",
+      "title": "Position or Perish: The Narrative Blueprint",
+      "url": "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-12T10:15:17.000Z",
+      "summary_en": "This article explores how Avis transformed its market position by embracing its status as the number two car rental company. By leveraging a counterintuitive narrative, they turned their competitive disadvantage into a memorable and highly profitable brand identity.",
+      "summary_zh": "這篇文章探討了 Avis 如何透過擁抱市場第二名的地位來轉型。透過運用反直覺的敘事策略，他們將競爭劣勢轉化為令人印象深刻且獲利豐厚的品牌形象。",
+      "keywords": [
+        "branding",
+        "marketing",
+        "narrative",
+        "Avis",
+        "positioning"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical case study of Avis to draw parallels between business positioning strategies and narrative development.",
+      "pacer_reason_zh": "本文透過 Avis 的歷史案例研究，歸納出商業定位策略與敘事發展之間的類比關係。"
+    },
+    {
+      "id": "36e95b8758c3e999",
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-12T00:00:00.000Z",
+      "summary_en": "The author argues that software architecture is best learned through practical experience rather than formal theory. He highlights that software design is deeply influenced by organizational social structures, often referred to as Conway's Law, rather than just technical coding skills.",
+      "summary_zh": "作者認為軟體架構應透過實際經驗而非形式理論來學習。他強調軟體設計深受組織社會結構（即康威定律）的影響，而不僅僅是程式碼編寫技巧。",
+      "keywords": [
+        "software architecture",
+        "software design",
+        "Conway's Law",
+        "engineering",
+        "skill acquisition"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework for understanding how software architecture is learned and how it relates to organizational incentives.",
+      "pacer_reason_zh": "本文提供了關於如何學習軟體架構以及其如何與組織激勵機制相關聯的概念性框架。"
+    },
+    {
+      "id": "5280a1231d22a263",
+      "title": "Initialize and print 128-bit integers in C",
+      "url": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-12T12:20:20.000Z",
+      "summary_en": "This article discusses the nuances of initializing and printing 128-bit integers in the C programming language. It highlights the complexities of handling these non-standard types and provides guidance on the correct implementation techniques.",
+      "summary_zh": "本文探討了在 C 語言中初始化與列印 128 位元整數的細節。作者說明了處理這類非標準資料類型的複雜性，並提供了正確的實作建議與技術指導。",
+      "keywords": [
+        "C programming",
+        "128-bit integer",
+        "data types",
+        "initialization",
+        "coding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on how to correctly perform specific coding tasks related to 128-bit integer handling in C.",
+      "pacer_reason_zh": "本文重點在於說明如何在 C 語言中正確執行與 128 位元整數處理相關的程式編碼任務。"
+    },
+    {
+      "id": "27e9ccf97e02349d",
+      "title": "Hacking the lehmer64 RNG",
+      "url": "https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-12T11:07:31.000Z",
+      "summary_en": "This article explains how to recover the internal state of the lehmer64 random number generator using a sequence of its outputs. It explores the vulnerability of this generator, noting that its simple implementation allows for efficient state reversal.",
+      "summary_zh": "本文介紹了如何透過 lehmer64 隨機數生成器的輸出序列來反推其內部狀態。文章指出該生成器因結構簡單，使其狀態逆向分析變得相對容易。",
+      "keywords": [
+        "lehmer64",
+        "RNG",
+        "cryptography",
+        "reverse engineering",
+        "random number generator"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical walkthrough or 'how-to' guide for reversing the state of a specific cryptographic algorithm.",
+      "pacer_reason_zh": "本文屬於技術實作指南，解釋了如何針對特定隨機數生成演算法進行狀態逆向操作。"
+    },
+    {
+      "id": "ab40e636fb62f6f3",
+      "title": "Euler function",
+      "url": "https://www.johndcook.com/blog/2026/05/11/euler-function/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-12T00:49:41.000Z",
+      "summary_en": "This post discusses the probability that a random n×n matrix over a finite field with q elements is invertible. It explores how this probability converges as n increases, highlighting the connection to the Euler function.",
+      "summary_zh": "本文探討了有限體上隨機 n×n 矩陣可逆的機率。文章分析了隨矩陣維度 n 增加時，該機率如何快速收斂，並探討了其與歐拉函數之間的關聯。",
+      "keywords": [
+        "Euler function",
+        "finite field",
+        "invertible matrix",
+        "probability",
+        "linear algebra"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post analyzes mathematical probabilities and convergence patterns based on specific algebraic definitions.",
+      "pacer_reason_zh": "文章基於特定的代數定義，對數學機率和收斂模式進行了分析。"
+    },
+    {
+      "id": "100711ec5948d37d",
+      "title": "I'm really frustrated that GitLab is doing layoffs",
+      "url": "https://xeiaso.net/notes/2026/gitlab-layoffs/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-05-11T00:00:00.000Z",
+      "summary_en": "The author expresses deep frustration and disappointment regarding the recent layoffs at GitLab. The piece reflects on how the company could have achieved success without resorting to these workforce reductions.",
+      "summary_zh": "作者對於 GitLab 近期的裁員決策表達了深切的挫折感與失望。文中反思了該公司本可以在不採取裁員手段的情況下，依然達成成功的願景。",
+      "keywords": [
+        "GitLab",
+        "layoffs",
+        "tech industry",
+        "workforce",
+        "corporate culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a commentary on corporate decision-making and workplace sentiment rather than a guide, data report, or reference material.",
+      "pacer_reason_zh": "本文屬於對企業決策與職場情緒的評論，而非教學指南、數據報告或參考資料。"
+    },
+    {
+      "id": "73d7155c4a0bddf6",
+      "title": "Pluralistic: A fascist paradigm (12 May 2026)",
+      "url": "https://pluralistic.net/2026/05/12/donella-meadows/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-12T07:22:17.000Z",
+      "summary_en": "This article explores the application of systems thinking to political change, drawing on Donella Meadows' canonical work. It distinguishes between complicated mechanical systems and complex adaptive systems, arguing that understanding these interconnected relationships is essential for effective intervention.",
+      "summary_zh": "本文探討了系統思維在政治變革中的應用，並借鑒了 Donella Meadows 的經典著作。文章區分了複雜的機械系統與複雜適應系統，強調理解這些相互關聯的關係對於進行有效干預至關重要。",
+      "keywords": [
+        "systems thinking",
+        "politics",
+        "Donella Meadows",
+        "complexity",
+        "interconnectedness"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual framework of systems thinking and differentiates between complicated and complex systems.",
+      "pacer_reason_zh": "內容解釋了系統思維的概念框架，並區分了複雜（complicated）與複雜（complex）系統的差異。"
+    },
+    {
+      "id": "f42d900629cb626d",
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-05-12T21:46:45.000Z",
+      "summary_en": "Major tech companies including Apple, Google, and Microsoft have released a record number of security patches this month. This surge highlights the increasing role of AI in both uncovering vulnerabilities in human-written code and potential future security risks.",
+      "summary_zh": "包含蘋果、Google 和微軟在內的各大科技公司本月發布了創紀錄數量的安全更新。這波修補潮凸顯了人工智慧在檢測人類編碼漏洞方面的關鍵作用，以及其帶來的潛在安全影響。",
+      "keywords": [
+        "Cybersecurity",
+        "Patch Tuesday",
+        "AI",
+        "Software Vulnerability",
+        "Tech News"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on current industry trends and data regarding security patch volumes and the evolving role of AI.",
+      "pacer_reason_zh": "本文報導了關於安全更新數量與人工智慧應用發展的產業現況與數據。"
+    },
+    {
+      "id": "466f592dc33567ef",
+      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+      "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-11T23:58:55.000Z",
+      "summary_en": "Simon Willison analyzes GitLab's recent announcement regarding workforce reductions and organizational restructuring as they pivot toward an 'agentic' product strategy. The post highlights GitLab's shift to reduce its global country footprint, flatten management layers, and reorganize R&D into smaller, autonomous units.",
+      "summary_zh": "Simon Willison 分析了 GitLab 最近關於裁員與組織重組的公告，以及其轉向「代理人（agentic）」產品策略的舉措。文章重點介紹了 GitLab 縮減全球營運國家布局、精簡管理層級，並將研發部門改組為更小型、具備端到端所有權的團隊。",
+      "keywords": [
+        "GitLab",
+        "workforce reduction",
+        "organizational structure",
+        "tech industry",
+        "management"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides commentary and conceptual analysis on organizational shifts and industry trends rather than acting as a technical guide or raw data set.",
+      "pacer_reason_zh": "本文針對組織轉型與產業趨勢進行評論與概念分析，而非提供技術指南或原始數據集。"
+    },
+    {
+      "id": "d7ad8983c0c7b693",
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-12T14:00:00.000Z",
+      "summary_en": "Jeff Geerling expresses concerns over Bambu Lab's move toward restrictive, cloud-dependent printer management. He details the technical steps he took to regain control of his hardware, including firewall restrictions and switching to open-source software.",
+      "summary_zh": "Jeff Geerling 對 Bambu Lab 轉向依賴雲端的限制性管理模式表示擔憂。他詳細介紹了自己如何透過防火牆限制及改用開源軟體等技術手段，重新奪回對硬體的控制權。",
+      "keywords": [
+        "Bambu Lab",
+        "3D printing",
+        "open source",
+        "firmware",
+        "privacy"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step account of how the author bypassed manufacturer restrictions on his hardware.",
+      "pacer_reason_zh": "本文提供了一份具體的操作步驟指南，說明作者如何繞過製造商對其硬體的限制。"
+    },
+    {
+      "id": "31fcfebcf785aadd",
+      "title": "Thinking Machines and interaction models",
+      "url": "https://seangoedecke.com/interaction-models/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-12T00:00:00.000Z",
+      "summary_en": "This article explores the evolving landscape of interaction models for AI-driven systems. It examines how human-machine interaction is shifting from traditional command-based inputs to more intuitive, cognitive-aligned frameworks.",
+      "summary_zh": "本文探討了人工智慧系統互動模型的演變趨勢。文章分析了人類與機器之間的互動模式如何從傳統的指令式輸入，轉向更直觀且符合認知邏輯的架構。",
+      "keywords": [
+        "AI",
+        "Interaction Design",
+        "Cognitive Models",
+        "Machine Intelligence",
+        "User Experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the theoretical framework and conceptual understanding of how humans interact with intelligent machines.",
+      "pacer_reason_zh": "本文聚焦於人類如何與智慧機器互動的理論架構與概念理解。"
+    },
     {
       "id": "7a927153c1e9d4d3",
       "title": "Welcoming the Costa Rican Government to Have I Been Pwned",

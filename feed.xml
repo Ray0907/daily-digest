@@ -4,8 +4,152 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 11 May 2026 22:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:24:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Shame them, shun them, ban them, beat them!</title>
+      <link>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</link>
+      <guid>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</guid>
+      <pubDate>Tue, 12 May 2026 13:23:30 GMT</pubDate>
+      <source url="https://www.experimental-history.com/">Experimental History</source>
+      <description>This article explores the psychological and social dynamics of shame, ostracism, and punishment in modern society. It examines how these mechanisms influence human behavior and group cohesion through a historical and experimental lens.</description>
+    </item>
+
+    <item>
+      <title>Welcoming the Bangladesh Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</link>
+      <guid>https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 11 May 2026 22:27:32 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>The Bangladesh government has joined the 'Have I Been Pwned' free government service, becoming the 43rd nation to participate. Their BGD e-GOV CIRT department can now utilize APIs to monitor and query government domains for potential data breaches.</description>
+    </item>
+
+    <item>
+      <title>Building Software Requires Digestion</title>
+      <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
+      <guid>https://blog.jim-nielsen.com/2026/software-requires-digestion/</guid>
+      <pubDate>Tue, 12 May 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author argues that modern chatbot interfaces, which prioritize rapid interaction, discourage the deep reflection necessary for effective software development. By drawing on the Japanese concept of 'Ma,' the post emphasizes that pausing and 'digesting' information are critical, active components of the creative problem-solving process.</description>
+    </item>
+
+    <item>
+      <title>Regatta Starting Stations – Chi-squared Continued</title>
+      <link>https://entropicthoughts.com/regatta-starting-stations</link>
+      <guid>https://entropicthoughts.com/regatta-starting-stations</guid>
+      <pubDate>Mon, 11 May 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article investigates a statistical anomaly in the Henley Royal Regatta, where the Berkshire starting station yields a significantly higher win rate than the Buckinghamshire one. The author uses historical data to challenge the assumption that both stations are identical and fair.</description>
+    </item>
+
+    <item>
+      <title>Not a Security Issue</title>
+      <link>https://nesbitt.io/2026/05/12/not-a-security-issue.html</link>
+      <guid>https://nesbitt.io/2026/05/12/not-a-security-issue.html</guid>
+      <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author demonstrates how providing AI scanners with a project's specific vulnerability disclosure policy allows them to automatically filter out non-security bugs. By context-loading curl's policy, the tools successfully classified issues like minor leaks and crashes as low-priority quality bugs rather than false-positive security alerts.</description>
+    </item>
+
+    <item>
+      <title>Position or Perish: The Narrative Blueprint</title>
+      <link>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</link>
+      <guid>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</guid>
+      <pubDate>Tue, 12 May 2026 10:15:17 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>This article explores how Avis transformed its market position by embracing its status as the number two car rental company. By leveraging a counterintuitive narrative, they turned their competitive disadvantage into a memorable and highly profitable brand identity.</description>
+    </item>
+
+    <item>
+      <title>Learning Software Architecture</title>
+      <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
+      <guid>https://matklad.github.io/2026/05/12/software-architecture.html</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The author argues that software architecture is best learned through practical experience rather than formal theory. He highlights that software design is deeply influenced by organizational social structures, often referred to as Conway's Law, rather than just technical coding skills.</description>
+    </item>
+
+    <item>
+      <title>Initialize and print 128-bit integers in C</title>
+      <link>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</guid>
+      <pubDate>Tue, 12 May 2026 12:20:20 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the nuances of initializing and printing 128-bit integers in the C programming language. It highlights the complexities of handling these non-standard types and provides guidance on the correct implementation techniques.</description>
+    </item>
+
+    <item>
+      <title>Hacking the lehmer64 RNG</title>
+      <link>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</guid>
+      <pubDate>Tue, 12 May 2026 11:07:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explains how to recover the internal state of the lehmer64 random number generator using a sequence of its outputs. It explores the vulnerability of this generator, noting that its simple implementation allows for efficient state reversal.</description>
+    </item>
+
+    <item>
+      <title>Euler function</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/euler-function/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/11/euler-function/</guid>
+      <pubDate>Tue, 12 May 2026 00:49:41 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the probability that a random n×n matrix over a finite field with q elements is invertible. It explores how this probability converges as n increases, highlighting the connection to the Euler function.</description>
+    </item>
+
+    <item>
+      <title>I'm really frustrated that GitLab is doing layoffs</title>
+      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
+      <guid>https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The author expresses deep frustration and disappointment regarding the recent layoffs at GitLab. The piece reflects on how the company could have achieved success without resorting to these workforce reductions.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: A fascist paradigm (12 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/12/donella-meadows/</link>
+      <guid>https://pluralistic.net/2026/05/12/donella-meadows/</guid>
+      <pubDate>Tue, 12 May 2026 07:22:17 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article explores the application of systems thinking to political change, drawing on Donella Meadows' canonical work. It distinguishes between complicated mechanical systems and complex adaptive systems, arguing that understanding these interconnected relationships is essential for effective intervention.</description>
+    </item>
+
+    <item>
+      <title>Patch Tuesday, May 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
+      <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
+      <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>Major tech companies including Apple, Google, and Microsoft have released a record number of security patches this month. This surge highlights the increasing role of AI in both uncovering vulnerabilities in human-written code and potential future security risks.</description>
+    </item>
+
+    <item>
+      <title>Thoughts on GitLab's workforce reduction&quot; and &quot;structural and strategic decisions&quot;</title>
+      <link>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 23:58:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison analyzes GitLab's recent announcement regarding workforce reductions and organizational restructuring as they pivot toward an 'agentic' product strategy. The post highlights GitLab's shift to reduce its global country footprint, flatten management layers, and reorganize R&amp;D into smaller, autonomous units.</description>
+    </item>
+
+    <item>
+      <title>Bambu Lab is abusing the open source social contract</title>
+      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling expresses concerns over Bambu Lab's move toward restrictive, cloud-dependent printer management. He details the technical steps he took to regain control of his hardware, including firewall restrictions and switching to open-source software.</description>
+    </item>
+
+    <item>
+      <title>Thinking Machines and interaction models</title>
+      <link>https://seangoedecke.com/interaction-models/</link>
+      <guid>https://seangoedecke.com/interaction-models/</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the evolving landscape of interaction models for AI-driven systems. It examines how human-machine interaction is shifting from traditional command-based inputs to more intuitive, cognitive-aligned frameworks.</description>
+    </item>
+
     <item>
       <title>Welcoming the Costa Rican Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</link>
@@ -760,150 +904,6 @@
       <pubDate>Tue, 05 May 2026 15:09:12 GMT</pubDate>
       <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
       <description>This article explores the cognitive dissonance required to navigate modern existential crises, such as climate change. It uses a literary reference to illustrate the psychological struggle of accepting unsettling realities while maintaining daily sanity.</description>
-    </item>
-
-    <item>
-      <title>Fizz Buzz Through Monoids</title>
-      <link>https://entropicthoughts.com/fizzbuzz-through-monoids</link>
-      <guid>https://entropicthoughts.com/fizzbuzz-through-monoids</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article demonstrates an elegant and modular implementation of the Fizz Buzz problem using Haskell's Monoid properties. By utilizing the mconcat function on lists of strings, the author shows how to combine conditional logic cleanly without complex if-else structures.</description>
-    </item>
-
-    <item>
-      <title>Package Manager Threat Models</title>
-      <link>https://nesbitt.io/2026/05/05/package-manager-threat-models.html</link>
-      <guid>https://nesbitt.io/2026/05/05/package-manager-threat-models.html</guid>
-      <pubDate>Tue, 05 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article examines the inherent security risks in package managers, specifically focusing on how features designed for functionality, like install-time code execution, are often exploited in supply-chain attacks. It argues that unlike typical bugs, these incidents stem from working-as-designed behaviors that require critical evaluation by developers.</description>
-    </item>
-
-    <item>
-      <title>Outrage is letting someone else set the frame</title>
-      <link>https://www.joanwestenberg.com/outrag/</link>
-      <guid>https://www.joanwestenberg.com/outrag/</guid>
-      <pubDate>Tue, 05 May 2026 06:20:33 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This article explores how media outlets strategically manufacture outrage to influence audience perceptions and drive engagement. By referencing historical examples like William Randolph Hearst, it highlights the danger of allowing external forces to frame our emotional responses.</description>
-    </item>
-
-    <item>
-      <title>A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
-      <pubDate>Tue, 05 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a historical disagreement regarding the TAB key that revealed fundamental differences in corporate culture between Microsoft and IBM. It illustrates how organizational structures can lead to friction when companies collaborate on product design.</description>
-    </item>
-
-    <item>
-      <title>RSS Feeds Send Me More Traffic Than Google</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</guid>
-      <pubDate>Tue, 05 May 2026 11:34:12 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author investigates the traffic sources of their personal blog, comparing the impact of RSS feeds versus search engines like Google. By analyzing their own site data, they highlight the surprising effectiveness of RSS as a driver of engagement compared to traditional SEO strategies.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The three armies fighting for the post-American world (05 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/05/three-is-a-magic-number/</link>
-      <guid>https://pluralistic.net/2026/05/05/three-is-a-magic-number/</guid>
-      <pubDate>Tue, 05 May 2026 12:31:41 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>The article analyzes the nature of political coalition building, noting how leaders like Donald Trump unify contradictory factions to consolidate power. It discusses the fragility of these coalitions and suggests that Trump's current behavior is inadvertently sparking the formation of a new, diverse anti-Trump alliance.</description>
-    </item>
-
-    <item>
-      <title>AI didn't delete your database, you did </title>
-      <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</link>
-      <guid>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</guid>
-      <pubDate>Mon, 04 May 2026 22:25:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The article discusses the viral incident of a developer blaming an AI agent for a deleted production database, arguing that human error and poor system architecture are the true culprits. It advocates for taking accountability and implementing robust CI/CD pipelines to prevent accidental data loss instead of scapegoating automated tools.</description>
-    </item>
-
-    <item>
-      <title>datasette-llm 0.1a7</title>
-      <link>https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 01:56:55 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The release of datasette-llm 0.1a7 introduces a new configuration mechanism for plugins using LLMs. Users can now set default options, such as temperature, for specific models to streamline enrichment operations.</description>
-    </item>
-
-    <item>
-      <title>llm-echo 0.5a0</title>
-      <link>https://simonwillison.net/2026/May/5/llm-echo/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/5/llm-echo/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 01:31:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released llm-echo 0.5a0, a plugin for the LLM CLI tool that simulates models for testing purposes. The update introduces a new option to mimic reasoning blocks, facilitating easier automated testing of LLM integrations.</description>
-    </item>
-
-    <item>
-      <title>Quoting John Gruber</title>
-      <link>https://simonwillison.net/2026/May/5/john-gruber/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/5/john-gruber/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 00:46:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights John Gruber's report on Y Combinator's ownership stake in OpenAI. It estimates that Y Combinator holds a 0.6 percent share, which is valued at over $5 billion based on OpenAI's $852 billion valuation.</description>
-    </item>
-
-    <item>
-      <title>Granite 4.1 3B SVG Pelican Gallery</title>
-      <link>https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 23:49:24 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The author tests IBM's new Granite 4.1 3B LLM by generating SVG images of a pelican riding a bicycle across various quantized model sizes. The experiment reveals no significant correlation between model quantization size and output quality, as all results were notably poor.</description>
-    </item>
-
-    <item>
-      <title>Quoting Andy Masley</title>
-      <link>https://simonwillison.net/2026/May/4/andy-masley/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/4/andy-masley/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 22:51:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights Andy Masley's critique of the argument that data center expansion threatens US food security. By comparing data center land use to the significantly larger amount of farmland sold by farmers over the past two decades, the author argues that concerns regarding farmland depletion are misplaced.</description>
-    </item>
-
-    <item>
-      <title>April 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 22:38:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison announces the release of his April 2026 sponsors-only newsletter, featuring updates on new AI models like Opus 4.7, GPT-5.5, and Claude Mythos. He encourages readers to subscribe to gain early access to these industry insights and his monthly tech recommendations.</description>
-    </item>
-
-    <item>
-      <title>29th August 2026: a scenario</title>
-      <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>This piece explores the implications of AI on cloud security through a fictional narrative. By shifting from technical jargon to a scenario-based approach, the author aims to communicate complex security challenges to a broader audience.</description>
-    </item>
-
-    <item>
-      <title>Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions</title>
-      <link>https://blog.jim-nielsen.com/2026/small-html-pages/</link>
-      <guid>https://blog.jim-nielsen.com/2026/small-html-pages/</guid>
-      <pubDate>Sun, 03 May 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author advocates for building websites using multiple simple HTML pages rather than complex JavaScript-based in-page interactions. By leveraging standard links enhanced with CSS view transitions, this approach ensures functionality remains robust across all devices while providing a modern user experience.</description>
-    </item>
-
-    <item>
-      <title>From RSS to Atom</title>
-      <link>https://susam.net/from-rss-to-atom.html</link>
-      <guid>https://susam.net/from-rss-to-atom.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>The author details their decision to migrate their personal website's syndication feed from RSS to Atom in 2026. The process involved a quick coding session using Common Lisp, which served as a relaxing break from intense academic studies.</description>
     </item>
   </channel>
 </rss>
