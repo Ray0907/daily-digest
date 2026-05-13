@@ -4,8 +4,161 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 12 May 2026 22:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 22:24:51 GMT</lastBuildDate>
     
+    <item>
+      <title>Partial static single information form</title>
+      <link>https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This post explores Partial Static Single Information (SSI) form as an extension to Static Single Assignment (SSA) in compilers. It explains how reifying flow-sensitive information as IR nodes allows for better type refinement and more effective optimization.</description>
+    </item>
+
+    <item>
+      <title>Ideal failures</title>
+      <link>https://danieldelaney.net/ideal-failures/</link>
+      <guid>https://danieldelaney.net/ideal-failures/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://danieldelaney.net/">Daniel De Laney</source>
+      <description>The author argues that designers often fall into the trap of only anticipating &quot;ideal failures&quot; based on their own imagination. Instead of relying on sketches or prototypes, designers should build and instrument real systems to uncover actual failure modes that occur in practice.</description>
+    </item>
+
+    <item>
+      <title>Points are a weird and inconsistent unit of measure</title>
+      <link>https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/</guid>
+      <pubDate>Wed, 13 May 2026 15:56:37 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author explores the frustrating inconsistency in how digital tools define a 'point' as a unit of measurement. By comparing LaTeX and Inkscape, the article highlights the historical origins of typographic points and how varying regional and technological standards led to these discrepancies.</description>
+    </item>
+
+    <item>
+      <title>Commenting Guidelines</title>
+      <link>https://susam.net/commenting.html</link>
+      <guid>https://susam.net/commenting.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>This post outlines the commenting guidelines for the author's blog to ensure respectful and productive discussions. It directs readers to the main comment index for specific rules and policies governing engagement.</description>
+    </item>
+
+    <item>
+      <title>Showing Our Work</title>
+      <link>https://nesbitt.io/2026/05/13/showing-our-work.html</link>
+      <guid>https://nesbitt.io/2026/05/13/showing-our-work.html</guid>
+      <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>Researchers from TU Munich used a dependency model to analyze the impact of maintenance activities across the Python ecosystem. Their study found that the ecosyste.ms fund, which distributes support based on dependency criticality, significantly outperforms other funding mechanisms in terms of impact efficiency.</description>
+    </item>
+
+    <item>
+      <title>Open Link in Unloaded Tab, a little Firefox extension</title>
+      <link>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</link>
+      <guid>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>Developer Evan Hahn has released a new Firefox extension called 'Open Link in Unloaded Tab.' It allows users to open links in an unloaded state directly from the context menu, helping to save system resources.</description>
+    </item>
+
+    <item>
+      <title>The case of the hang when the user changed keyboard layouts</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318</guid>
+      <pubDate>Wed, 13 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post investigates a technical issue where an application would hang specifically when a user switched keyboard layouts. It highlights the complexities of Windows messaging and input language synchronization in legacy software.</description>
+    </item>
+
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid>https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://dynomight.net/">DYNOMIGHT</source>
+      <description>This article explores the rise of using slide decks for non-presentation communication in workplace settings. The author investigates whether this trend is due to falling literacy rates or a decline in reading habits, ultimately finding that the evidence for these theories remains inconclusive.</description>
+    </item>
+
+    <item>
+      <title>Stupidly Simple SVG Sparklines</title>
+      <link>https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/</guid>
+      <pubDate>Wed, 13 May 2026 11:34:01 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post explains how to generate minimalist sparklines using SVG polylines. It demonstrates the technical implementation process while highlighting common pitfalls when mapping data to coordinate points.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/13/vibe-governance/</link>
+      <guid>https://pluralistic.net/2026/05/13/vibe-governance/</guid>
+      <pubDate>Wed, 13 May 2026 15:47:35 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow explores how extreme wealth and power lead to 'solipsism,' causing leaders and tech moguls to view people as mere data points rather than human beings. He argues that this dehumanizing perspective clashes with the reality of social platforms, where users prioritize human connections over algorithmic engagement.</description>
+    </item>
+
+    <item>
+      <title>Quoting Boris Mann</title>
+      <link>https://simonwillison.net/2026/May/13/boris-mann/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/13/boris-mann/#atom-everything</guid>
+      <pubDate>Wed, 13 May 2026 16:15:50 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Boris Mann critiques the vague nature of the term 'AI agents,' suggesting it is as imprecise as quantifying work by the number of spreadsheets or browser tabs open. Simon Willison highlights this perspective to underscore the lack of standardized meaning in current AI terminology.</description>
+    </item>
+
+    <item>
+      <title>CSP Allow-list Experiment</title>
+      <link>https://simonwillison.net/2026/May/13/csp-allow/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/13/csp-allow/#atom-everything</guid>
+      <pubDate>Wed, 13 May 2026 04:50:45 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post introduces a web-based experiment that demonstrates how to manage Content Security Policy (CSP) restrictions dynamically using sandboxed iframes. By intercepting fetch errors, the tool allows users to interactively add blocked domains to an allow-list, simplifying the management of security policies.</description>
+    </item>
+
+    <item>
+      <title>datasette 1.0a29</title>
+      <link>https://simonwillison.net/2026/May/12/datasette/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/12/datasette/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 23:41:06 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette 1.0a29 has been released, introducing a new utility method for token restrictions and improving UI visibility for empty tables. The update also addresses several bug fixes, including a critical race condition that caused segfaults during testing.</description>
+    </item>
+
+    <item>
+      <title>Quoting Mo Bitar</title>
+      <link>https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 22:59:58 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a satirical TikTok video by Mo Bitar that mocks corporate obsession with AI. The content suggests that employees can secure promotions and job security by using meaningless AI buzzwords like 'Ralph Loops' to exploit management's fear of missing out on automation.</description>
+    </item>
+
+    <item>
+      <title>Quoting Mitchell Hashimoto</title>
+      <link>https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 22:21:51 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Mitchell Hashimoto observes that technical decision-makers often prioritize job security over innovation, relying on industry analyst trends rather than technical merit. This behavior leads to the adoption of technologies endorsed by firms like Gartner and McKinsey to avoid professional risk.</description>
+    </item>
+
+    <item>
+      <title>llm 0.32a2</title>
+      <link>https://simonwillison.net/2026/May/12/llm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/12/llm/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 17:45:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The LLM 0.32a2 release introduces support for OpenAI's new /v1/responses endpoint, enabling interleaved reasoning for advanced models. Users can now view these reasoning tokens directly in the terminal, with options to hide them if preferred.</description>
+    </item>
+
+    <item>
+      <title>AI datacenters in space do not have a cooling problem</title>
+      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
+      <guid>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the technical feasibility and thermodynamics of operating AI datacenters in space. It argues that the vacuum of space presents unique thermal management opportunities rather than the traditional cooling challenges faced on Earth.</description>
+    </item>
+
     <item>
       <title>Shame them, shun them, ban them, beat them!</title>
       <link>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</link>
@@ -751,159 +904,6 @@
       <pubDate>Wed, 06 May 2026 21:49:20 GMT</pubDate>
       <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
       <description>This article introduces asynchronous programming support in SQLAlchemy 2, which was added in version 1.4. It explains the integration of asyncio with both Core and ORM modules, highlighting its benefits for modern web frameworks like FastAPI.</description>
-    </item>
-
-    <item>
-      <title>Open weights are quietly closing up - and that's a problem</title>
-      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The article warns that the trend of closing off open-weight AI models threatens market competition. It argues that these models are essential for preventing frontier AI labs from establishing a restrictive oligopoly that extracts excessive consumer surplus.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 502</title>
-      <link>https://www.troyhunt.com/weekly-update-502/</link>
-      <guid>https://www.troyhunt.com/weekly-update-502/</guid>
-      <pubDate>Wed, 06 May 2026 00:14:13 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt analyzes how the ShinyHunters group successfully compromises major brands despite their limited technical experience. The post highlights how the group leverages accessible vulnerabilities to gain unauthorized access to large-scale data.</description>
-    </item>
-
-    <item>
-      <title>New Logic for Programmers (and the future of this newsletter)</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</guid>
-      <pubDate>Wed, 06 May 2026 17:03:46 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The author provides updates on the 'Logic for Programmers' book release and announces their new role as a developer educator at Antithesis. They clarify that the newsletter will continue independently while shifting its focus slightly as the author explores new professional topics.</description>
-    </item>
-
-    <item>
-      <title>Revisiting the 2015 Open Source Census</title>
-      <link>https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</link>
-      <guid>https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</guid>
-      <pubDate>Wed, 06 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article revisits the 2015 Open Source Census, a project designed to identify high-risk software vulnerabilities before they become critical. It highlights how the xz-utils library was identified as a risk years before it became a major security concern, demonstrating the limitations of historical risk-scoring formulas.</description>
-    </item>
-
-    <item>
-      <title>Emotional regulation is a dying art.</title>
-      <link>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</link>
-      <guid>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</guid>
-      <pubDate>Wed, 06 May 2026 00:21:50 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The article laments the decline of emotional regulation in modern society, contrasting current reactive behaviors with past norms of restraint and composure. It suggests that the ability to process difficult emotions and disagreements without escalating has become an increasingly rare skill.</description>
-    </item>
-
-    <item>
-      <title>Triangular analog of the squircle</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</guid>
-      <pubDate>Wed, 06 May 2026 19:53:29 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores the mathematical derivation of a 'triangular squircle,' a shape that applies the principles of superellipses to a triangular geometry. The author examines how to maintain continuous curvature while transitioning a triangle into a rounded, squircle-like form.</description>
-    </item>
-
-    <item>
-      <title>Unified config files</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</guid>
-      <pubDate>Wed, 06 May 2026 16:32:20 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author discusses strategies for maintaining a consistent work environment across multiple computers by unifying configuration settings. The post highlights practical approaches, such as key remapping, to ensure that unimportant differences between machines do not disrupt productivity.</description>
-    </item>
-
-    <item>
-      <title>The mythology of category theory</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/category-mythology/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/06/category-mythology/</guid>
-      <pubDate>Wed, 06 May 2026 11:37:42 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the common misconceptions surrounding category theory, arguing that while it serves as a powerful language for describing patterns, it is not a magical solution that provides something for nothing. The author critiques the unrealistic expectations placed on the field and references external perspectives to demystify its practical utility.</description>
-    </item>
-
-    <item>
-      <title>Changing one character in a PDF</title>
-      <link>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</guid>
-      <pubDate>Tue, 05 May 2026 22:45:26 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author investigates why replacing a hyphen with an en-dash in a PDF results in a larger file size. The analysis explores how character encoding and the internal structure of PDF streams influence document metadata and byte count.</description>
-    </item>
-
-    <item>
-      <title>Why not have changes in API behavior depend on the SDK you link against?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</guid>
-      <pubDate>Wed, 06 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>The author explains why tying API behavior changes to the linked SDK version is problematic in practice. He argues that static libraries make this approach effectively impossible to implement consistently.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: In praise of vultures (06 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/06/champerty-loves-company/</link>
-      <guid>https://pluralistic.net/2026/05/06/champerty-loves-company/</guid>
-      <pubDate>Wed, 06 May 2026 10:15:36 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that modern capitalists fundamentally oppose the competition required for true capitalism to function. He contends that corporations seek to restrict consumer choice to maintain monopolies, contrary to the theoretical ideal of markets as distributed, efficiency-optimizing systems.</description>
-    </item>
-
-    <item>
-      <title>Asimov's three laws are merely a suggestion </title>
-      <link>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</link>
-      <guid>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</guid>
-      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>The article explores the limitations of applying Asimov's Three Laws of Robotics to modern generative AI. It argues that unlike deterministic logical constraints, current AI safety measures are based on learned behaviors and system prompts that remain susceptible to jailbreaks.</description>
-    </item>
-
-    <item>
-      <title>Live blog: Code w/ Claude 2026</title>
-      <link>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</guid>
-      <pubDate>Wed, 06 May 2026 15:58:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post is a live-blogging entry covering the keynote sessions from Anthropic's 'Code w/ Claude' 2026 event. It captures real-time updates and highlights regarding the company's latest developments in AI coding tools.</description>
-    </item>
-
-    <item>
-      <title>Vibe coding and agentic engineering are getting closer than I'd like</title>
-      <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</guid>
-      <pubDate>Wed, 06 May 2026 14:24:08 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison discusses the evolving intersection between 'vibe coding'—a rapid, output-focused approach to AI programming—and 'agentic engineering,' which emphasizes rigorous technical standards. He notes a personal shift where these previously distinct methodologies are beginning to blur in his own workflow.</description>
-    </item>
-
-    <item>
-      <title>datasette-referrer-policy 0.1</title>
-      <link>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 23:44:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces the datasette-referrer-policy 0.1 plugin, developed to resolve OpenStreetMap tile loading issues in Datasette. The plugin allows users to override the default no-referrer policy, which was previously blocking tile requests.</description>
-    </item>
-
-    <item>
-      <title>Our AI started a cafe in Stockholm</title>
-      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 22:14:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Andon Labs is experimenting with an AI agent managing a cafe in Stockholm, which has led to absurd inventory orders and logistical errors. The post critiques the ethical implications of using real-world systems for such experiments, arguing that they waste human time and resources.</description>
-    </item>
-
-    <item>
-      <title>The Impossible Things We Have to Believe</title>
-      <link>https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/</link>
-      <guid>https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/</guid>
-      <pubDate>Tue, 05 May 2026 15:09:12 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>This article explores the cognitive dissonance required to navigate modern existential crises, such as climate change. It uses a literary reference to illustrate the psychological struggle of accepting unsettling realities while maintaining daily sanity.</description>
     </item>
   </channel>
 </rss>

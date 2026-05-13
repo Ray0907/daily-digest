@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-05-12T22:24:08.668Z",
+  "last_updated": "2026-05-13T22:24:51.094Z",
   "articles": [
+    {
+      "id": "5680b313e57d86b8",
+      "title": "Partial static single information form",
+      "url": "https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-05-12T00:00:00.000Z",
+      "summary_en": "This post explores Partial Static Single Information (SSI) form as an extension to Static Single Assignment (SSA) in compilers. It explains how reifying flow-sensitive information as IR nodes allows for better type refinement and more effective optimization.",
+      "summary_zh": "這篇文章探討了編譯器中靜態單一資訊形式 (SSI) 作為靜態單一賦值 (SSA) 的擴展。文中解釋了如何將流程敏感的資訊具象化為中間表示 (IR) 節點，藉此實現更佳的型別優化。",
+      "keywords": [
+        "compilers",
+        "SSA",
+        "SSI",
+        "optimization",
+        "IR"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of SSI and how it improves compiler intermediate representations.",
+      "pacer_reason_zh": "本文解釋了 SSI 的理論概念，以及它如何改善編譯器的中間表示形式。"
+    },
+    {
+      "id": "8d4bd872c2aee8ba",
+      "title": "Ideal failures",
+      "url": "https://danieldelaney.net/ideal-failures/",
+      "source": "Daniel De Laney",
+      "source_url": "https://danieldelaney.net/",
+      "published": "2026-05-13T00:00:00.000Z",
+      "summary_en": "The author argues that designers often fall into the trap of only anticipating \"ideal failures\" based on their own imagination. Instead of relying on sketches or prototypes, designers should build and instrument real systems to uncover actual failure modes that occur in practice.",
+      "summary_zh": "作者指出，設計師常陷入僅憑想像預測「理想故障模式」的誤區。與其依賴草圖或原型，設計師應親手建構並監測真實系統，以發掘實際運行中會發生的真實故障。",
+      "keywords": [
+        "UI design",
+        "failure modes",
+        "prototyping",
+        "software development",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual shift from theoretical design to empirical, system-based validation.",
+      "pacer_reason_zh": "本文解釋了從理論設計轉向基於實踐的系統驗證這一概念上的轉變。"
+    },
+    {
+      "id": "46ddf934fa1f2fa1",
+      "title": "Points are a weird and inconsistent unit of measure",
+      "url": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-05-13T15:56:37.000Z",
+      "summary_en": "The author explores the frustrating inconsistency in how digital tools define a 'point' as a unit of measurement. By comparing LaTeX and Inkscape, the article highlights the historical origins of typographic points and how varying regional and technological standards led to these discrepancies.",
+      "summary_zh": "作者探討了數位工具在定義「點」作為測量單位時令人困惑的不一致性。透過比較 LaTeX 與 Inkscape 的差異，文章解析了印刷術語中「點」的歷史起源，以及各地區與技術標準間如何造成這些數值上的微小誤差。",
+      "keywords": [
+        "typography",
+        "measurement",
+        "LaTeX",
+        "Inkscape",
+        "standards"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the historical and technical conceptual origins of typographic measurements and why they vary across software.",
+      "pacer_reason_zh": "本文解釋了印刷測量單位的歷史與技術概念起源，並說明了為何這些定義在不同軟體間存在差異。"
+    },
+    {
+      "id": "b0750490cc5d8b33",
+      "title": "Commenting Guidelines",
+      "url": "https://susam.net/commenting.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-14T00:00:00.000Z",
+      "summary_en": "This post outlines the commenting guidelines for the author's blog to ensure respectful and productive discussions. It directs readers to the main comment index for specific rules and policies governing engagement.",
+      "summary_zh": "本文概述了作者部落格的留言規範，旨在確保討論過程尊重且具建設性。文章引導讀者前往留言索引頁面，查看管理留言互動的詳細規則與政策。",
+      "keywords": [
+        "commenting guidelines",
+        "blog policy",
+        "community standards",
+        "moderation",
+        "netiquette"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a reference document for site rules and user expectations.",
+      "pacer_reason_zh": "本文作為網站規則與用戶預期的參考文件。"
+    },
+    {
+      "id": "b8fcb02881fcfe08",
+      "title": "Showing Our Work",
+      "url": "https://nesbitt.io/2026/05/13/showing-our-work.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-13T10:00:00.000Z",
+      "summary_en": "Researchers from TU Munich used a dependency model to analyze the impact of maintenance activities across the Python ecosystem. Their study found that the ecosyste.ms fund, which distributes support based on dependency criticality, significantly outperforms other funding mechanisms in terms of impact efficiency.",
+      "summary_zh": "慕尼黑工業大學的研究人員運用相依性模型，分析了 Python 生態系統中維護活動的影響。研究結果顯示，根據相依性關鍵程度分配支持資源的 ecosyste.ms 基金，在影響效率方面顯著優於其他資助機制。",
+      "keywords": [
+        "open source",
+        "dependency graph",
+        "PyPI",
+        "software maintenance",
+        "funding models"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on an empirical study that benchmarks various funding mechanisms against a data-driven model using PyPI data.",
+      "pacer_reason_zh": "本文聚焦於一項實證研究，利用 PyPI 數據對不同的資助機制進行基準測試與評估。"
+    },
+    {
+      "id": "10a918029d53d77b",
+      "title": "Open Link in Unloaded Tab, a little Firefox extension",
+      "url": "https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-05-13T00:00:00.000Z",
+      "summary_en": "Developer Evan Hahn has released a new Firefox extension called 'Open Link in Unloaded Tab.' It allows users to open links in an unloaded state directly from the context menu, helping to save system resources.",
+      "summary_zh": "開發者 Evan Hahn 發布了一款名為「Open Link in Unloaded Tab」的 Firefox 擴充功能。該功能允許使用者直接從右鍵選單以未載入狀態開啟連結，藉此節省系統資源。",
+      "keywords": [
+        "Firefox",
+        "extension",
+        "browser",
+        "web development",
+        "utility"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a new tool and explains how to use its new functionality to improve browser performance.",
+      "pacer_reason_zh": "文章介紹了一款新工具，並說明如何使用該功能來提升瀏覽器效能。"
+    },
+    {
+      "id": "cc595ed8dc73b3d8",
+      "title": "The case of the hang when the user changed keyboard layouts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-13T14:00:00.000Z",
+      "summary_en": "This post investigates a technical issue where an application would hang specifically when a user switched keyboard layouts. It highlights the complexities of Windows messaging and input language synchronization in legacy software.",
+      "summary_zh": "這篇文章探討了一個當使用者切換鍵盤配置時，應用程式會發生當機的技術問題。內容深入分析了 Windows 訊息機制以及舊版軟體在處理輸入語言同步時的複雜性。",
+      "keywords": [
+        "Windows",
+        "debugging",
+        "keyboard layout",
+        "input method",
+        "The Old New Thing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "It functions as a technical case study or diagnostic narrative involving a specific software investigation.",
+      "pacer_reason_zh": "這是一篇關於特定軟體故障排除的技術案例研究。"
+    },
+    {
+      "id": "c10d997e5268db8f",
+      "title": "What’s with all the slide decks?",
+      "url": "https://dynomight.net/slides/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-05-13T00:00:00.000Z",
+      "summary_en": "This article explores the rise of using slide decks for non-presentation communication in workplace settings. The author investigates whether this trend is due to falling literacy rates or a decline in reading habits, ultimately finding that the evidence for these theories remains inconclusive.",
+      "summary_zh": "本文探討了職場中將簡報檔（Slide Decks）用於非簡報用途的現象。作者研究了這是否源於讀寫能力下降或閱讀習慣的改變，並指出目前的證據尚不足以完全解釋這種趨勢。",
+      "keywords": [
+        "slide decks",
+        "workplace communication",
+        "literacy",
+        "reading habits",
+        "corporate culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, as it explores and questions the theoretical reasons behind a common modern workplace behavior.",
+      "pacer_reason_zh": "本文主要屬於概念性分析，探討並質疑現代職場行為背後的理論成因。"
+    },
+    {
+      "id": "cfb50abcac629207",
+      "title": "Stupidly Simple SVG Sparklines",
+      "url": "https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-13T11:34:01.000Z",
+      "summary_en": "This post explains how to generate minimalist sparklines using SVG polylines. It demonstrates the technical implementation process while highlighting common pitfalls when mapping data to coordinate points.",
+      "summary_zh": "這篇文章介紹了如何利用 SVG 的 polyline 功能來繪製簡潔的走勢圖（sparklines）。文中不僅展示了實作方法，還點出了將數據映射至座標點時可能會遇到的常見問題。",
+      "keywords": [
+        "SVG",
+        "sparklines",
+        "data visualization",
+        "polyline",
+        "web development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial on creating graphical elements programmatically using specific technical steps.",
+      "pacer_reason_zh": "該文章透過具體的技術步驟指導讀者如何以程式方式製作圖形元素，屬於教學性質。"
+    },
+    {
+      "id": "3ec8ce334bc58f5a",
+      "title": "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)",
+      "url": "https://pluralistic.net/2026/05/13/vibe-governance/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-13T15:47:35.000Z",
+      "summary_en": "Cory Doctorow explores how extreme wealth and power lead to 'solipsism,' causing leaders and tech moguls to view people as mere data points rather than human beings. He argues that this dehumanizing perspective clashes with the reality of social platforms, where users prioritize human connections over algorithmic engagement.",
+      "summary_zh": "Cory Doctorow 探討了極端財富與權力如何導致「唯我論」，使領導者和科技巨頭將人類視為數據點而非獨立個體。他指出這種去人性化的觀點與社交平台的現實相衝突，因為用戶更看重真實的人際互動而非演算法所追求的參與度。",
+      "keywords": [
+        "solipsism",
+        "technology",
+        "social media",
+        "power dynamics",
+        "humanity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique of power dynamics, explaining how wealth leads to dehumanization in the context of technology and society.",
+      "pacer_reason_zh": "本文是對權力動態的概念性批判，闡述了在科技與社會背景下，財富如何導致去人性化的現象。"
+    },
+    {
+      "id": "581522dde77cbd5f",
+      "title": "Quoting Boris Mann",
+      "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-13T16:15:50.000Z",
+      "summary_en": "Boris Mann critiques the vague nature of the term 'AI agents,' suggesting it is as imprecise as quantifying work by the number of spreadsheets or browser tabs open. Simon Willison highlights this perspective to underscore the lack of standardized meaning in current AI terminology.",
+      "summary_zh": "Boris Mann 批評「AI 代理人」一詞含糊不清，認為這就像用開啟的試算表或瀏覽器分頁數量來衡量工作一樣缺乏具體意義。Simon Willison 引述此觀點，強調目前 AI 術語定義仍缺乏統一標準。",
+      "keywords": [
+        "AI",
+        "AI agents",
+        "terminology",
+        "tech critique",
+        "definitions"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique of how terminology is used in the AI industry.",
+      "pacer_reason_zh": "內容針對 AI 產業如何使用術語進行了概念性的評論。"
+    },
+    {
+      "id": "0b61ddc929ed2668",
+      "title": "CSP Allow-list Experiment",
+      "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-13T04:50:45.000Z",
+      "summary_en": "This post introduces a web-based experiment that demonstrates how to manage Content Security Policy (CSP) restrictions dynamically using sandboxed iframes. By intercepting fetch errors, the tool allows users to interactively add blocked domains to an allow-list, simplifying the management of security policies.",
+      "summary_zh": "這篇文章介紹了一項關於如何在沙盒 iframe 中動態管理內容安全政策 (CSP) 的網路實驗。透過攔截 fetch 錯誤，該工具允許使用者以互動方式將被阻擋的網域加入白名單，從而簡化了安全政策的設定過程。",
+      "keywords": [
+        "CSP",
+        "web-security",
+        "iframe",
+        "fetch-api",
+        "allow-list"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents an interactive experiment and technical proof-of-concept demonstrating a specific method for handling CSP restrictions.",
+      "pacer_reason_zh": "本文介紹了一項互動式實驗與技術驗證原型，展示了處理 CSP 限制的具體方法。"
+    },
+    {
+      "id": "16379c9544b3fcad",
+      "title": "datasette 1.0a29",
+      "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-12T23:41:06.000Z",
+      "summary_en": "Datasette 1.0a29 has been released, introducing a new utility method for token restrictions and improving UI visibility for empty tables. The update also addresses several bug fixes, including a critical race condition that caused segfaults during testing.",
+      "summary_zh": "Datasette 1.0a29 已正式發布，引入了用於權杖限制的新工具方法，並改善了空資料表的介面顯示。此次更新同時修復了多項錯誤，包括導致測試期間發生分段錯誤（segfault）的關鍵競爭條件。",
+      "keywords": [
+        "datasette",
+        "software release",
+        "bug fix",
+        "python",
+        "data exploration"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing specific changes, bug fixes, and feature updates for a versioned tool.",
+      "pacer_reason_zh": "這是一份軟體發布說明，詳細列出了特定版本工具的變更、錯誤修復與功能更新。"
+    },
+    {
+      "id": "c856942fae27efe7",
+      "title": "Quoting Mo Bitar",
+      "url": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-12T22:59:58.000Z",
+      "summary_en": "This post highlights a satirical TikTok video by Mo Bitar that mocks corporate obsession with AI. The content suggests that employees can secure promotions and job security by using meaningless AI buzzwords like 'Ralph Loops' to exploit management's fear of missing out on automation.",
+      "summary_zh": "這篇文章引用了 Mo Bitar 的諷刺影片，調侃企業界對人工智慧的盲目崇拜。內容指出員工可以利用「Ralph Loops」等毫無意義的 AI 術語，藉由管理層對自動化趨勢的焦慮，來換取升遷與職位保障。",
+      "keywords": [
+        "AI",
+        "satire",
+        "corporate-culture",
+        "automation",
+        "workplace"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses an analogy of corporate workplace dynamics and social commentary to critique the current AI hype cycle.",
+      "pacer_reason_zh": "該內容透過職場動態的類比與社會評論，對當前的 AI 炒作現象進行了批判。"
+    },
+    {
+      "id": "30b3124abdc6f60d",
+      "title": "Quoting Mitchell Hashimoto",
+      "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-12T22:21:51.000Z",
+      "summary_en": "Mitchell Hashimoto observes that technical decision-makers often prioritize job security over innovation, relying on industry analyst trends rather than technical merit. This behavior leads to the adoption of technologies endorsed by firms like Gartner and McKinsey to avoid professional risk.",
+      "summary_zh": "Mitchell Hashimoto 指出，許多技術決策者為了保住職位，往往傾向於遵循 Gartner 或 McKinsey 等分析機構的流行趨勢，而非追求技術卓越。這種行為模式反映了他們優先考量「不被解僱」而非技術創新的心態。",
+      "keywords": [
+        "Mitchell Hashimoto",
+        "技術決策",
+        "職涯安全",
+        "行銷趨勢",
+        "企業軟體"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying psychological and professional motivations that drive enterprise software purchasing decisions.",
+      "pacer_reason_zh": "內容解釋了驅動企業軟體採購決策背後的心理與專業動機，屬於概念性分析。"
+    },
+    {
+      "id": "78f0f1b4376d76a3",
+      "title": "llm 0.32a2",
+      "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-12T17:45:07.000Z",
+      "summary_en": "The LLM 0.32a2 release introduces support for OpenAI's new /v1/responses endpoint, enabling interleaved reasoning for advanced models. Users can now view these reasoning tokens directly in the terminal, with options to hide them if preferred.",
+      "summary_zh": "LLM 0.32a2 版本現已支援 OpenAI 的 /v1/responses 端點，實現進階模型交錯推理（interleaved reasoning）的功能。使用者現在可以直接在終端機中查看推理過程的 tokens，並可選擇是否隱藏顯示。",
+      "keywords": [
+        "LLM",
+        "OpenAI",
+        "Generative AI",
+        "Reasoning tokens",
+        "CLI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post acts as release notes for a software tool, detailing new features and how to use specific command-line flags.",
+      "pacer_reason_zh": "本文為軟體工具的發布說明，詳細介紹了新功能以及如何使用特定的指令列旗標。"
+    },
+    {
+      "id": "69039d56fc162bf4",
+      "title": "AI datacenters in space do not have a cooling problem",
+      "url": "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-13T00:00:00.000Z",
+      "summary_en": "This article explores the technical feasibility and thermodynamics of operating AI datacenters in space. It argues that the vacuum of space presents unique thermal management opportunities rather than the traditional cooling challenges faced on Earth.",
+      "summary_zh": "本文探討在太空中運行 AI 資料中心的技術可行性與熱力學問題。作者認為，太空的真空環境為散熱管理提供了獨特的優勢，而非傳統地面環境所面臨的冷卻挑戰。",
+      "keywords": [
+        "AI",
+        "Datacenters",
+        "Space Technology",
+        "Thermal Management",
+        "Infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and theoretical viability of space-based computing infrastructure.",
+      "pacer_reason_zh": "本文側重於解釋太空運算基礎設施的概念框架與理論可行性。"
+    },
     {
       "id": "bb70ceee9840de9c",
       "title": "Shame them, shun them, ban them, beat them!",
