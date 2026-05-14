@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-05-13T22:24:51.094Z",
+  "last_updated": "2026-05-14T22:21:18.395Z",
   "articles": [
+    {
+      "id": "ee31b1556857165d",
+      "title": "Managed agents are the new Lambda",
+      "url": "https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-05-14T00:00:00.000Z",
+      "summary_en": "The article argues that while cloud-hosted managed agents are powerful, relying on specific frontier labs creates significant vendor lock-in risks. It provides guidance on how to navigate these challenges and suggests alternative architectural approaches to maintain flexibility.",
+      "summary_zh": "本文探討了託管式 AI 代理的強大潛力，並指出過度依賴特定領先實驗室的平台會帶來嚴重的廠商鎖定風險。作者分析了相關潛在危機，並建議開發者採取更具靈活性的架構策略。",
+      "keywords": [
+        "Managed Agents",
+        "AI Agents",
+        "Vendor Lock-in",
+        "Cloud Infrastructure",
+        "System Architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual shift and architectural implications of moving from standard functions to managed agents.",
+      "pacer_reason_zh": "內容聚焦於從傳統函數轉向託管代理的概念性轉變及其架構影響。"
+    },
+    {
+      "id": "e5f733174e0ade42",
+      "title": "Welcoming the Bahamian Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-14T03:49:29.000Z",
+      "summary_en": "The Bahamas has become the 44th government to join the Have I Been Pwned (HIBP) free government service. The National Computer Incident Response Team (CIRT-BS) will now use the platform to monitor government domains for data breaches.",
+      "summary_zh": "巴哈馬成為第 44 個加入 Have I Been Pwned (HIBP) 免費政府服務的國家。巴哈馬國家電腦事故應變小組 (CIRT-BS) 將運用此平台監控政府網域的數據洩漏情況。",
+      "keywords": [
+        "HIBP",
+        "The Bahamas",
+        "CIRT-BS",
+        "Data Breach",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "This is a real-world case study or announcement of a specific entity adopting a cybersecurity service.",
+      "pacer_reason_zh": "這是一篇關於特定機構採用資安服務的實際案例或公告。"
+    },
+    {
+      "id": "e09dad02fa2362fe",
+      "title": "The First Democratic Tech Alliance Assembly",
+      "url": "https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-05-14T14:17:12.000Z",
+      "summary_en": "Bert Hubert reports on his attendance at the inaugural Democratic Tech Alliance assembly held at the European Parliament. The gathering featured a broad coalition of major European political groups, signaling a hopeful collaborative effort regarding technology policy.",
+      "summary_zh": "Bert Hubert 分享了他在歐洲議會參加首屆民主科技聯盟（DTA）大會的見聞。該聯盟匯集了多個歐洲主要政治團體，此舉為科技政策的跨黨派合作帶來了新的希望。",
+      "keywords": [
+        "Democratic Tech Alliance",
+        "European Parliament",
+        "Tech Policy",
+        "Political Coalition",
+        "Bert Hubert"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and report on a specific political event and its broader implications for tech governance.",
+      "pacer_reason_zh": "內容概述了一項特定的政治活動及其對科技治理的廣泛影響，屬於概念性說明。"
+    },
+    {
+      "id": "b3be220cee150dad",
+      "title": "The Biz Reaper",
+      "url": "https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-05-14T03:50:47.000Z",
+      "summary_en": "This article examines Byron Allen's acquisition of BuzzFeed, framing it as a strategic move by a businessman known for revitalizing distressed media assets. It explores the transition of leadership from Jonah Peretti and questions the future direction of the company under Allen's management.",
+      "summary_zh": "本文探討了拜倫·艾倫（Byron Allen）收購 BuzzFeed 的事件，將其視為一位擅長重整困境媒體資產的商人的戰略舉措。文章分析了喬納·佩雷蒂（Jonah Peretti）的領導權移交，並探討了該公司在艾倫領導下的未來走向。",
+      "keywords": [
+        "Byron Allen",
+        "BuzzFeed",
+        "Media Business",
+        "Acquisition",
+        "Jonah Peretti"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical explanation of a business situation and the motivations behind a corporate acquisition.",
+      "pacer_reason_zh": "本文對商業情勢及企業併購背後的動機進行了分析與解釋。"
+    },
+    {
+      "id": "d4fd5bfbbfca36d9",
+      "title": "Centrality is not vitality",
+      "url": "https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-14T10:00:00.000Z",
+      "summary_en": "The author argues that PageRank is often misused as a metric for measuring the importance of open source dependency graphs. By analyzing the fundamental differences between web link structures and package dependencies, the article highlights why PageRank fails to accurately reflect the actual vitality or criticality of software ecosystems.",
+      "summary_zh": "作者指出，PageRank 經常被誤用來衡量開源依賴圖的重要性。透過分析網頁連結結構與軟體包依賴關係之間的根本差異，本文強調了為什麼 PageRank 無法準確反映軟體生態系統的實際生命力或關鍵性。",
+      "keywords": [
+        "PageRank",
+        "open source",
+        "dependency graphs",
+        "metrics",
+        "ecosystem"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of applying specific network analysis metrics to software dependency graphs.",
+      "pacer_reason_zh": "本文針對將特定網路分析指標應用於軟體依賴圖的方法論進行了概念性的批判。"
+    },
+    {
+      "id": "2f2191e67af30070",
+      "title": "Catch Flakes On Main",
+      "url": "https://matklad.github.io/2026/05/14/catch-flakes-on-main.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-14T00:00:00.000Z",
+      "summary_en": "The article suggests maintaining a record of test failures on the main branch while using a merge queue to identify and eliminate flaky tests. By ensuring the main branch is always stable, developers can effectively isolate intermittent infrastructure or scheduling issues from genuine bugs.",
+      "summary_zh": "本文建議在使用合併佇列的同時，記錄主分支上的測試失敗情形，以利識別並消除不穩定的測試（flaky tests）。透過確保主分支始終穩定，開發者能更有效地區分基礎設施問題與真實的程式錯誤。",
+      "keywords": [
+        "flaky tests",
+        "merge queue",
+        "CI/CD",
+        "software engineering",
+        "testing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific operational recommendation and mechanical habit for improving CI/CD processes.",
+      "pacer_reason_zh": "文章針對改善 CI/CD 流程提供了具體的操作建議與實踐方法。"
+    },
+    {
+      "id": "44c032526ff35d34",
+      "title": "A constant-space linear-time algorithm for deleting all but the 10 most recent files in a directory",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-14T14:00:00.000Z",
+      "summary_en": "This article discusses an efficient algorithm for cleaning up a directory by retaining only the ten most recent files. It emphasizes achieving this using constant space and linear time complexity through familiar data structures.",
+      "summary_zh": "本文探討了一種高效的演算法，用於清理目錄並僅保留最近的十個檔案。文中強調如何利用熟悉的資料結構，在常數空間和線性時間複雜度內完成此項任務。",
+      "keywords": [
+        "algorithm",
+        "file system",
+        "data structures",
+        "optimization",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a technical guide providing a specific algorithm for a file management task.",
+      "pacer_reason_zh": "這篇文章提供了一種針對檔案管理任務的演算法，屬於技術教學與指南性質。"
+    },
+    {
+      "id": "1fb35c1ff08b17d7",
+      "title": "Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-12T14:00:00.000Z",
+      "summary_en": "This post explains that Windows client editions limit 32-bit x86 systems to 4 GB of RAM primarily for software compatibility reasons. It emphasizes that maintaining legacy support is the core driver behind this artificial restriction.",
+      "summary_zh": "本文解釋了 Windows 客戶端版本將 32 位元 x86 系統的記憶體限制在 4 GB 以內，主要是為了維持軟體相容性。文章強調了對舊版軟體提供支援是造成此限制的主要原因。",
+      "keywords": [
+        "Windows",
+        "x86",
+        "RAM",
+        "compatibility",
+        "legacy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual explanation for a specific technical limitation in the Windows operating system.",
+      "pacer_reason_zh": "該內容針對 Windows 作業系統中的特定技術限制提供了概念性的解釋。"
+    },
+    {
+      "id": "7de6c4ca80f5b7ce",
+      "title": "Amazonbot is finally respecting robots.txt",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-05-14T00:00:00.000Z",
+      "summary_en": "Amazon's web crawler, Amazonbot, has finally been updated to respect robots.txt instructions. This change allows website owners to effectively manage how Amazon indexes their content, providing better control over site scraping.",
+      "summary_zh": "亞馬遜的網頁爬蟲 Amazonbot 終於開始遵循 robots.txt 的指令。此變更讓網站所有者能夠更有效地管理亞馬遜索引其內容的方式，從而提供對網站爬取行為的更好控制。",
+      "keywords": [
+        "Amazonbot",
+        "robots.txt",
+        "web scraping",
+        "SEO",
+        "indexing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual change in how Amazon handles site indexing and access control.",
+      "pacer_reason_zh": "本文解釋了亞馬遜在處理網站索引和存取控制方面的一項概念性變更。"
+    },
+    {
+      "id": "96ba518bb76ab011",
+      "title": "Building a clock from salvaged Vacuum Fluorescent Displays",
+      "url": "https://maurycyz.com/projects/tubeclock/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-05-14T00:00:00.000Z",
+      "summary_en": "This article explores the inner workings of Vacuum Fluorescent Displays (VFDs) and explains how to repurpose them for a clock project. It provides a technical breakdown of triode operation and a step-by-step guide for experimentally determining the pinout of unidentified salvaged tubes.",
+      "summary_zh": "這篇文章介紹了真空螢光顯示器 (VFD) 的運作原理，並分享如何將其應用於自製時鐘。文中詳細說明了三極管的電子結構，並提供了透過實驗法來判斷不明零件引腳配置的步驟指南。",
+      "keywords": [
+        "VFD",
+        "vacuum tubes",
+        "electronics",
+        "DIY clock",
+        "reverse engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step methodology for experimentally determining the pinout of unknown salvaged electronic components.",
+      "pacer_reason_zh": "本文提供了透過實驗方法來判斷不明電子零件引腳配置的逐步教學指南。"
+    },
+    {
+      "id": "80b3c4296183d360",
+      "title": "It's funny because it's true ",
+      "url": "https://idiallo.com/byte-size/its-funny-because-its-true?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-14T07:13:34.000Z",
+      "summary_en": "The author explores the dangers of AI hallucinations after a false rumor about Cliff Stoll's death was ingested and repeated as fact by language models. Through a humorous interaction referencing the novel Catch-22, the piece highlights how misinformation spreads online and the unexpected personal consequences of these digital errors.",
+      "summary_zh": "作者探討了 AI 幻覺所帶來的潛在風險，起因是網路上關於 Cliff Stoll 去世的謠言被語言模型吸收並誤傳為事實。透過引用《第 22 條軍規》的幽默互動，本文強調了錯誤訊息如何在網路上擴散，以及這些數位錯誤所引發的意外現實影響。",
+      "keywords": [
+        "AI hallucinations",
+        "Cliff Stoll",
+        "misinformation",
+        "Catch-22",
+        "LLM"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the literary analogy of Doc Daneeka from Catch-22 to contextualize the absurdity of AI-generated misinformation.",
+      "pacer_reason_zh": "文章運用《第 22 條軍規》中 Doc Daneeka 的文學類比，來體現 AI 生成虛假訊息的荒謬性。"
+    },
+    {
+      "id": "0e5e187c8e59117a",
+      "title": "Software Engineers are Obsolete ",
+      "url": "https://idiallo.com/blog/everyone-is-better-than-you?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-13T22:40:00.000Z",
+      "summary_en": "The author reflects on the evolution of software development, contrasting the era when developers were gatekeepers of technology with the current landscape. With the rise of AI tools like ChatGPT, non-technical individuals can now build and launch products independently, rendering traditional developer gatekeeping obsolete.",
+      "summary_zh": "作者回顧了軟體開發的演變，對比了過去開發者作為技術把關者的時代與現今的環境。隨著 ChatGPT 等人工智慧工具的興起，非技術背景的人現在也能夠獨立構建並發布產品，使傳統開發者的守門人角色逐漸過時。",
+      "keywords": [
+        "software engineering",
+        "AI",
+        "ChatGPT",
+        "technological shift",
+        "product development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the shifting conceptual role of software engineers in the age of AI, focusing on the changing nature of the profession.",
+      "pacer_reason_zh": "文章探討了人工智慧時代下軟體工程師角色的概念轉變，重點在於該職業本質的變遷。"
+    },
+    {
+      "id": "439d727a63cd10b1",
+      "title": "datasette-ip-rate-limit 0.1a0",
+      "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-14T04:10:23.000Z",
+      "summary_en": "Simon Willison released datasette-ip-rate-limit 0.1a0, a plugin developed with AI assistance to prevent crawlers from overwhelming Datasette sites. The post provides an example configuration for implementing IP-based rate limiting on specific paths.",
+      "summary_zh": "Simon Willison 發布了 datasette-ip-rate-limit 0.1a0 外掛程式，該程式由 AI 協助開發，旨在防止爬蟲對 Datasette 網站造成過度負載。文中並提供了實際的設定範例，教導使用者如何針對特定路徑實施 IP 限流。",
+      "keywords": [
+        "datasette",
+        "rate-limiting",
+        "python",
+        "plugin",
+        "web-scraping"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a new tool and provides specific configuration examples, functioning as a practical guide for implementation.",
+      "pacer_reason_zh": "本文介紹了一項新工具並提供具體的設定範例，屬於實作層面的操作指南。"
+    },
+    {
+      "id": "5af7a14f98c12cfb",
+      "title": "Welcome to the Datasette blog",
+      "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-13T23:59:39.000Z",
+      "summary_en": "Simon Willison announces the launch of a new official blog for the Datasette project. The site was built using OpenAI Codex, with the author providing links to the session transcript and related technical documentation.",
+      "summary_zh": "Simon Willison 宣布為 Datasette 專案正式推出官方部落格。該網站是使用 OpenAI Codex 建構的，作者並附上了完整的建構過程記錄與技術討論連結。",
+      "keywords": [
+        "Datasette",
+        "OpenAI Codex",
+        "blogging",
+        "AI-assisted programming",
+        "web development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a brief documentation of how the site was built, including links to the specific session transcript and technical issues.",
+      "pacer_reason_zh": "該文章簡要記錄了網站的建構方式，並提供了相關的會話記錄與技術討論連結。"
+    },
     {
       "id": "5680b313e57d86b8",
       "title": "Partial static single information form",

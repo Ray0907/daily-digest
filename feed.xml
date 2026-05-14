@@ -4,8 +4,134 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 13 May 2026 22:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 22:21:18 GMT</lastBuildDate>
     
+    <item>
+      <title>Managed agents are the new Lambda</title>
+      <link>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article argues that while cloud-hosted managed agents are powerful, relying on specific frontier labs creates significant vendor lock-in risks. It provides guidance on how to navigate these challenges and suggests alternative architectural approaches to maintain flexibility.</description>
+    </item>
+
+    <item>
+      <title>Welcoming the Bahamian Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</link>
+      <guid>https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</guid>
+      <pubDate>Thu, 14 May 2026 03:49:29 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>The Bahamas has become the 44th government to join the Have I Been Pwned (HIBP) free government service. The National Computer Incident Response Team (CIRT-BS) will now use the platform to monitor government domains for data breaches.</description>
+    </item>
+
+    <item>
+      <title>The First Democratic Tech Alliance Assembly</title>
+      <link>https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</link>
+      <guid>https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</guid>
+      <pubDate>Thu, 14 May 2026 14:17:12 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>Bert Hubert reports on his attendance at the inaugural Democratic Tech Alliance assembly held at the European Parliament. The gathering featured a broad coalition of major European political groups, signaling a hopeful collaborative effort regarding technology policy.</description>
+    </item>
+
+    <item>
+      <title>The Biz Reaper</title>
+      <link>https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</link>
+      <guid>https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</guid>
+      <pubDate>Thu, 14 May 2026 03:50:47 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article examines Byron Allen's acquisition of BuzzFeed, framing it as a strategic move by a businessman known for revitalizing distressed media assets. It explores the transition of leadership from Jonah Peretti and questions the future direction of the company under Allen's management.</description>
+    </item>
+
+    <item>
+      <title>Centrality is not vitality</title>
+      <link>https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html</link>
+      <guid>https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html</guid>
+      <pubDate>Thu, 14 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author argues that PageRank is often misused as a metric for measuring the importance of open source dependency graphs. By analyzing the fundamental differences between web link structures and package dependencies, the article highlights why PageRank fails to accurately reflect the actual vitality or criticality of software ecosystems.</description>
+    </item>
+
+    <item>
+      <title>Catch Flakes On Main</title>
+      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
+      <guid>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The article suggests maintaining a record of test failures on the main branch while using a merge queue to identify and eliminate flaky tests. By ensuring the main branch is always stable, developers can effectively isolate intermittent infrastructure or scheduling issues from genuine bugs.</description>
+    </item>
+
+    <item>
+      <title>A constant-space linear-time algorithm for deleting all but the 10 most recent files in a directory</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses an efficient algorithm for cleaning up a directory by retaining only the ten most recent files. It emphasizes achieving this using constant space and linear time complexity through familiar data structures.</description>
+    </item>
+
+    <item>
+      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains that Windows client editions limit 32-bit x86 systems to 4 GB of RAM primarily for software compatibility reasons. It emphasizes that maintaining legacy support is the core driver behind this artificial restriction.</description>
+    </item>
+
+    <item>
+      <title>Amazonbot is finally respecting robots.txt</title>
+      <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
+      <guid>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>Amazon's web crawler, Amazonbot, has finally been updated to respect robots.txt instructions. This change allows website owners to effectively manage how Amazon indexes their content, providing better control over site scraping.</description>
+    </item>
+
+    <item>
+      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
+      <link>https://maurycyz.com/projects/tubeclock/</link>
+      <guid>https://maurycyz.com/projects/tubeclock/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This article explores the inner workings of Vacuum Fluorescent Displays (VFDs) and explains how to repurpose them for a clock project. It provides a technical breakdown of triode operation and a step-by-step guide for experimentally determining the pinout of unidentified salvaged tubes.</description>
+    </item>
+
+    <item>
+      <title>It's funny because it's true </title>
+      <link>https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</link>
+      <guid>https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</guid>
+      <pubDate>Thu, 14 May 2026 07:13:34 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author explores the dangers of AI hallucinations after a false rumor about Cliff Stoll's death was ingested and repeated as fact by language models. Through a humorous interaction referencing the novel Catch-22, the piece highlights how misinformation spreads online and the unexpected personal consequences of these digital errors.</description>
+    </item>
+
+    <item>
+      <title>Software Engineers are Obsolete </title>
+      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
+      <guid>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
+      <pubDate>Wed, 13 May 2026 22:40:00 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>The author reflects on the evolution of software development, contrasting the era when developers were gatekeepers of technology with the current landscape. With the rise of AI tools like ChatGPT, non-technical individuals can now build and launch products independently, rendering traditional developer gatekeeping obsolete.</description>
+    </item>
+
+    <item>
+      <title>datasette-ip-rate-limit 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</guid>
+      <pubDate>Thu, 14 May 2026 04:10:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released datasette-ip-rate-limit 0.1a0, a plugin developed with AI assistance to prevent crawlers from overwhelming Datasette sites. The post provides an example configuration for implementing IP-based rate limiting on specific paths.</description>
+    </item>
+
+    <item>
+      <title>Welcome to the Datasette blog</title>
+      <link>https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</guid>
+      <pubDate>Wed, 13 May 2026 23:59:39 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison announces the launch of a new official blog for the Datasette project. The site was built using OpenAI Codex, with the author providing links to the session transcript and related technical documentation.</description>
+    </item>
+
     <item>
       <title>Partial static single information form</title>
       <link>https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss</link>
@@ -778,132 +904,6 @@
       <pubDate>Thu, 07 May 2026 15:23:28 GMT</pubDate>
       <source url="https://www.construction-physics.com/">Construction Physics</source>
       <description>This article examines the timeline for the adoption and maturation of new inventions. It suggests that, contrary to popular belief, the gap between invention and widespread implementation is often shorter than anticipated.</description>
-    </item>
-
-    <item>
-      <title>Free as in Tribbles</title>
-      <link>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</link>
-      <guid>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</guid>
-      <pubDate>Thu, 07 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author evolves the metaphor of open-source software from 'free as in puppy' to 'free as in tribbles.' While software was once a manageable responsibility like a single pet, modern dependency-heavy stacks replicate uncontrollably, making maintenance overwhelming.</description>
-    </item>
-
-    <item>
-      <title>The war between fast and legitimate is here</title>
-      <link>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</link>
-      <guid>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</guid>
-      <pubDate>Thu, 07 May 2026 01:18:04 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This article examines the growing tension between rapid technological innovation in artificial intelligence and the slower pace of regulatory efforts like the EU AI Act. It highlights how the agility of tech companies often outstrips the ability of policymakers to keep up with evolving AI capabilities.</description>
-    </item>
-
-    <item>
-      <title>Smoothed polygons</title>
-      <link>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</guid>
-      <pubDate>Thu, 07 May 2026 18:19:24 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores the mathematical construction of 'smoothed polygons,' which act as triangular analogs to the squircle. By utilizing p-norm level sets, the author explains how these shapes transition between Euclidean geometries as the p-parameter varies.</description>
-    </item>
-
-    <item>
-      <title>When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</guid>
-      <pubDate>Thu, 07 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>When upgrading resource strings to Unicode in C++, it is essential to use the L prefix for string literals. Failing to do so can cause the compiler to map the strings back to the original 8-bit code page, potentially leading to encoding issues.</description>
-    </item>
-
-    <item>
-      <title>Maybe you shouldn't install new software for a bit</title>
-      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
-      <guid>https://xeiaso.net/blog/2026/abstain-from-install/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The article discusses the recent emergence of security vulnerabilities within the Linux kernel. It advises users to exercise caution and avoid installing new software updates immediately to mitigate potential risks.</description>
-    </item>
-
-    <item>
-      <title>I've found just the right paper for my Bottom Hole problem</title>
-      <link>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</guid>
-      <pubDate>Thu, 07 May 2026 11:34:54 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author documents a personal investigation to identify the real-world newspaper used as a prop in the 1995 TV show 'Bottom'. By analyzing visual cues and layout patterns, the author attempts to trace the prop back to its source material.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Bubbles are REALLY evil (07 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/07/dump-the-pumpers/</link>
-      <guid>https://pluralistic.net/2026/05/07/dump-the-pumpers/</guid>
-      <pubDate>Thu, 07 May 2026 08:08:49 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes the varying long-term legacies of economic bubbles, comparing the fraudulent activities of Enron and Worldcom. He illustrates that while both were catastrophic, the aftermath of Enron left behind a unique historical record in the form of released corporate emails.</description>
-    </item>
-
-    <item>
-      <title>llm-gemini 0.31</title>
-      <link>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 19:57:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison provides an update on the llm-gemini tool, noting that the Gemini 3.1 Flash-Lite model has transitioned out of its preview phase. The author references his previous analysis of the model, indicating no significant changes in functionality.</description>
-    </item>
-
-    <item>
-      <title>Big Words</title>
-      <link>https://simonwillison.net/2026/May/7/big-words/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/7/big-words/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 18:47:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces 'Big Words,' a simple web tool designed to generate slide-ready text for presentations using URL query parameters. The tool allows for easy customization of text, colors, gradients, and font settings through an interactive interface.</description>
-    </item>
-
-    <item>
-      <title>Behind the Scenes Hardening Firefox with Claude Mythos Preview</title>
-      <link>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 17:56:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Mozilla significantly accelerated its Firefox security patching process by leveraging the Claude Mythos AI model to identify and remediate vulnerabilities. By refining their orchestration techniques, the team increased monthly bug fixes from around 20 to over 400, effectively resolving long-standing issues.</description>
-    </item>
-
-    <item>
-      <title>Notes on the xAI/Anthropic data center deal</title>
-      <link>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 17:09:28 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison critiques Anthropic's new deal to utilize xAI's Colossus data center, citing significant environmental concerns and controversies surrounding its power infrastructure. The author argues that partnering with this facility is a poor strategic move given the increasing political scrutiny over AI data centers.</description>
-    </item>
-
-    <item>
-      <title>GitHub Repo Stats</title>
-      <link>https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 07:25:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison developed a web tool that retrieves hidden GitHub repository statistics, such as total commit counts, which are not displayed on the mobile interface. The tool leverages GitHub's REST and GraphQL APIs to provide users with more comprehensive insights into project activity.</description>
-    </item>
-
-    <item>
-      <title>Why hasn't longer-horizon training slowed AI progress?</title>
-      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
-      <guid>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the theoretical reasons why extending training horizons in AI development has not yet resulted in diminishing returns. It examines the scaling laws and efficiency factors that continue to drive progress despite increased compute demands.</description>
-    </item>
-
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</link>
-      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</guid>
-      <pubDate>Wed, 06 May 2026 21:49:20 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description>This article introduces asynchronous programming support in SQLAlchemy 2, which was added in version 1.4. It explains the integration of asyncio with both Core and ORM modules, highlighting its benefits for modern web frameworks like FastAPI.</description>
     </item>
   </channel>
 </rss>
