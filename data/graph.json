@@ -1,6 +1,181 @@
 {
   "nodes": [
     {
+      "id": "72113f6d9207576d",
+      "title": "Eric Jang – Building AlphaGo from scratch",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/eric-jang",
+      "pacer": "C",
+      "keywords": [
+        "AlphaGo",
+        "Artificial Intelligence",
+        "Search Algorithms",
+        "Self-play",
+        "Machine Learning"
+      ],
+      "published": "2026-05-15T16:04:58.000Z"
+    },
+    {
+      "id": "2ad2f76ae39b9900",
+      "title": "The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327",
+      "pacer": "P",
+      "keywords": [
+        "Windows API",
+        "CreateFileMapping",
+        "ERROR_ALREADY_EXISTS",
+        "debugging",
+        "programming"
+      ],
+      "published": "2026-05-15T14:00:00.000Z"
+    },
+    {
+      "id": "28bcd02264f3196b",
+      "title": "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/15/not-ok-boomer/",
+      "pacer": "E",
+      "keywords": [
+        "politics",
+        "term limits",
+        "age limits",
+        "polling",
+        "US government"
+      ],
+      "published": "2026-05-15T12:38:04.000Z"
+    },
+    {
+      "id": "7bde0d116a80857b",
+      "title": "Recovering the state of xorshift128",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/15/xorshift128-state/",
+      "pacer": "P",
+      "keywords": [
+        "xorshift128",
+        "reverse engineering",
+        "random number generator",
+        "cryptography",
+        "programming"
+      ],
+      "published": "2026-05-15T12:34:29.000Z"
+    },
+    {
+      "id": "654f12fd17ed6192",
+      "title": "Language Registries Are Unstable by Default",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html",
+      "pacer": "A",
+      "keywords": [
+        "package managers",
+        "software supply chain",
+        "security",
+        "registries",
+        "instability"
+      ],
+      "published": "2026-05-15T10:00:00.000Z"
+    },
+    {
+      "id": "8c0e13374352a229",
+      "title": "UK Government Kicks Out Palantir",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+      "pacer": "P",
+      "keywords": [
+        "UK Government",
+        "Public Procurement",
+        "Transparency",
+        "Contracts Finder",
+        "Fact Checking"
+      ],
+      "published": "2026-05-15T05:34:03.000Z"
+    },
+    {
+      "id": "ba0d9b9d357ffe62",
+      "title": "QR code generator",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "QR code",
+        "web tool",
+        "vibe-coding",
+        "generative AI",
+        "Simon Willison"
+      ],
+      "published": "2026-05-15T04:00:49.000Z"
+    },
+    {
+      "id": "18ccca1cf4360652",
+      "title": "Search engine results are truly terrible",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/misc/search/",
+      "pacer": "E",
+      "keywords": [
+        "search engines",
+        "AI",
+        "web search",
+        "spam",
+        "benchmark"
+      ],
+      "published": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "id": "c533eb9ba1b6d17a",
+      "title": "Not so locked in any more",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "React Native",
+        "coding-agents",
+        "software-migration",
+        "AI-assisted-programming",
+        "technology-lock-in"
+      ],
+      "published": "2026-05-14T22:53:49.000Z"
+    },
+    {
+      "id": "eb690f8a5689ade8",
+      "title": "Quoting Mitchell Hashimoto",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Programming Languages",
+        "Bun",
+        "Rust",
+        "Zig",
+        "Tech Trends"
+      ],
+      "published": "2026-05-14T22:31:20.000Z"
+    },
+    {
+      "id": "51a1de3cd7cca57d",
+      "title": "\nA few words on DS4\n",
+      "source_url": "http://antirez.com/",
+      "url": "\nhttp://antirez.com/news/165\n",
+      "pacer": "C",
+      "keywords": [
+        "DS4",
+        "local AI",
+        "inference",
+        "quantization",
+        "DeepSeek"
+      ],
+      "published": "2026-05-14T22:22:45.000Z"
+    },
+    {
       "id": "e09dad02fa2362fe",
       "title": "The First Democratic Tech Alliance Assembly",
       "source": "Bert Hubert's writings",
@@ -31,6 +206,22 @@
         "programming"
       ],
       "published": "2026-05-14T14:00:00.000Z"
+    },
+    {
+      "id": "19438c3c29e66316",
+      "title": "Pluralistic: Kickstarting \"The Reverse Centaur's Guide to Life After AI\" (14 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/14/who-it-does-it-for/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Kickstarter",
+        "Cory Doctorow",
+        "Political Economy",
+        "Tech Criticism"
+      ],
+      "published": "2026-05-14T11:04:43.000Z"
     },
     {
       "id": "d4fd5bfbbfca36d9",
@@ -225,22 +416,6 @@
       "published": "2026-05-13T22:40:00.000Z"
     },
     {
-      "id": "581522dde77cbd5f",
-      "title": "Quoting Boris Mann",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "AI agents",
-        "terminology",
-        "tech critique",
-        "definitions"
-      ],
-      "published": "2026-05-13T16:15:50.000Z"
-    },
-    {
       "id": "46ddf934fa1f2fa1",
       "title": "Points are a weird and inconsistent unit of measure",
       "source": "Computer Things",
@@ -321,22 +496,6 @@
       "published": "2026-05-13T10:00:00.000Z"
     },
     {
-      "id": "0b61ddc929ed2668",
-      "title": "CSP Allow-list Experiment",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "CSP",
-        "web-security",
-        "iframe",
-        "fetch-api",
-        "allow-list"
-      ],
-      "published": "2026-05-13T04:50:45.000Z"
-    },
-    {
       "id": "8d4bd872c2aee8ba",
       "title": "Ideal failures",
       "source": "Daniel De Laney",
@@ -399,22 +558,6 @@
         "Infrastructure"
       ],
       "published": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "id": "16379c9544b3fcad",
-      "title": "datasette 1.0a29",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "software release",
-        "bug fix",
-        "python",
-        "data exploration"
-      ],
-      "published": "2026-05-12T23:41:06.000Z"
     },
     {
       "id": "f42d900629cb626d",
@@ -705,22 +848,6 @@
       "published": "2026-05-11T14:00:00.000Z"
     },
     {
-      "id": "21ecf3708616ce67",
-      "title": "Probability that a random binary matrix is invertible",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/",
-      "pacer": "C",
-      "keywords": [
-        "binary matrix",
-        "invertible matrix",
-        "probability",
-        "linear algebra",
-        "mathematics"
-      ],
-      "published": "2026-05-11T13:25:13.000Z"
-    },
-    {
       "id": "c1849797b6c82dd5",
       "title": "We Are Not Going to Agree on AI ",
       "source": "iDiallo.com",
@@ -913,22 +1040,6 @@
       "published": "2026-05-10T11:34:38.000Z"
     },
     {
-      "id": "fb20b22697420788",
-      "title": "Madame Semver Will See You Now",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-      "pacer": "A",
-      "keywords": [
-        "open source",
-        "software maintenance",
-        "dependency management",
-        "technical storytelling",
-        "developer experience"
-      ],
-      "published": "2026-05-10T10:00:00.000Z"
-    },
-    {
       "id": "f651323dcca4695e",
       "title": "The left-wing case for AI",
       "source": "seangoedecke.com RSS feed",
@@ -943,22 +1054,6 @@
         "economics"
       ],
       "published": "2026-05-10T00:00:00.000Z"
-    },
-    {
-      "id": "62c15c8b8cf9ff0d",
-      "title": "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/09/cossie-livvie-crissie/",
-      "pacer": "C",
-      "keywords": [
-        "Trump",
-        "oligarchs",
-        "cost of living",
-        "political economy",
-        "inequality"
-      ],
-      "published": "2026-05-09T12:51:02.000Z"
     },
     {
       "id": "187f3100e7d503ae",
@@ -1089,22 +1184,6 @@
       "published": "2026-05-08T16:11:33.000Z"
     },
     {
-      "id": "5a94645623e22227",
-      "title": "Developing more confidence when tracking renames via Read­Directory­ChangesW",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310",
-      "pacer": "P",
-      "keywords": [
-        "ReadDirectoryChangesW",
-        "Windows API",
-        "file system",
-        "programming",
-        "file tracking"
-      ],
-      "published": "2026-05-08T14:00:00.000Z"
-    },
-    {
       "id": "07a97d4ce68465ec",
       "title": "Hi stranger ",
       "source": "iDiallo.com",
@@ -1135,22 +1214,6 @@
         "wireless audio"
       ],
       "published": "2026-05-08T14:00:00.000Z"
-    },
-    {
-      "id": "da41e3b62fd38daf",
-      "title": "Pluralistic: Lee Lai's \"Cannon\" (08 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/08/gung-gung/",
-      "pacer": "R",
-      "keywords": [
-        "Lee Lai",
-        "Cannon",
-        "Graphic Novel",
-        "Cory Doctorow",
-        "Book Review"
-      ],
-      "published": "2026-05-08T12:19:36.000Z"
     },
     {
       "id": "71d567a7a33d95af",
@@ -1295,22 +1358,6 @@
         "construction physics"
       ],
       "published": "2026-05-07T15:23:28.000Z"
-    },
-    {
-      "id": "fdddfe3f5c31486e",
-      "title": "I've found just the right paper for my Bottom Hole problem",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/",
-      "pacer": "E",
-      "keywords": [
-        "Bottom",
-        "prop",
-        "investigation",
-        "TV show",
-        "newspaper"
-      ],
-      "published": "2026-05-07T11:34:54.000Z"
     },
     {
       "id": "b7832e901b96abd8",
@@ -2575,22 +2622,6 @@
       "published": "2026-04-15T16:18:02.000Z"
     },
     {
-      "id": "2667c9aefba0e069",
-      "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/jensen-huang",
-      "pacer": "C",
-      "keywords": [
-        "Jensen Huang",
-        "Nvidia",
-        "Supply Chain",
-        "AI Chips",
-        "Semiconductors"
-      ],
-      "published": "2026-04-15T15:45:23.000Z"
-    },
-    {
       "id": "bac0b3e4cacacd38",
       "title": "Simdutf Can Now Be Used Without libc++ or libc++abi",
       "source": "Mitchell Hashimoto",
@@ -2845,22 +2876,6 @@
         "computer science"
       ],
       "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
-      "id": "6dc6edb25015767a",
-      "title": "Loading... [13 kB]",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/misc/13kb/",
-      "pacer": "C",
-      "keywords": [
-        "TCP",
-        "networking",
-        "packets",
-        "data integrity",
-        "protocols"
-      ],
-      "published": "2026-04-03T00:00:00.000Z"
     },
     {
       "id": "2564525890f34fc8",
@@ -3518,12 +3533,12 @@
   ],
   "links": [
     {
-      "source": "ab40e636fb62f6f3",
-      "target": "21ecf3708616ce67",
+      "source": "7bde0d116a80857b",
+      "target": "27e9ccf97e02349d",
       "shared_keywords": [
-        "invertible matrix",
-        "probability",
-        "linear algebra"
+        "cryptography",
+        "reverse engineering",
+        "random number generator"
       ],
       "strength": 0.6
     },

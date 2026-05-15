@@ -1,6 +1,245 @@
 {
-  "last_updated": "2026-05-14T22:21:18.395Z",
+  "last_updated": "2026-05-15T22:17:16.816Z",
   "articles": [
+    {
+      "id": "72113f6d9207576d",
+      "title": "Eric Jang – Building AlphaGo from scratch",
+      "url": "https://www.dwarkesh.com/p/eric-jang",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-15T16:04:58.000Z",
+      "summary_en": "This article explores AlphaGo as a foundational model for understanding artificial intelligence. It highlights how the system effectively integrates search algorithms, experiential learning, and self-play mechanisms.",
+      "summary_zh": "本文探討 AlphaGo 作為理解人工智慧的基礎模型。重點在於該系統如何有效地整合搜尋演算法、經驗學習以及自我對弈機制。",
+      "keywords": [
+        "AlphaGo",
+        "Artificial Intelligence",
+        "Search Algorithms",
+        "Self-play",
+        "Machine Learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the core conceptual primitives of intelligence rather than providing a tutorial or specific data benchmarks.",
+      "pacer_reason_zh": "內容側重於智慧的核心概念基礎，而非提供教學指南或特定的數據基準測試。"
+    },
+    {
+      "id": "654f12fd17ed6192",
+      "title": "Language Registries Are Unstable by Default",
+      "url": "https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-15T10:00:00.000Z",
+      "summary_en": "This article highlights the inherent instability of language package registries like npm and pip, comparing them to Debian's 'unstable' branch. It argues that unlike traditional operating system package managers which offer stable release lanes, language ecosystems lack safety gates, exposing enterprise pipelines to unverified code updates.",
+      "summary_zh": "本文探討了如 npm 和 pip 等語言套件庫的內建不穩定性，並將其比作 Debian 的「unstable」分支。作者指出，與提供穩定發布版本的傳統作業系統套件管理器不同，語言生態系統缺乏安全審核機制，導致企業開發流程容易暴露於未經驗證的程式碼更新中。",
+      "keywords": [
+        "package managers",
+        "software supply chain",
+        "security",
+        "registries",
+        "instability"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of Debian's 'unstable' package repository to explain the structural risks of modern language package managers.",
+      "pacer_reason_zh": "本文透過將現代語言套件管理器與 Debian 的「unstable」軟體庫進行類比，來說明前者在架構上潛在的風險。"
+    },
+    {
+      "id": "7bde0d116a80857b",
+      "title": "Recovering the state of xorshift128",
+      "url": "https://www.johndcook.com/blog/2026/05/15/xorshift128-state/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-15T12:34:29.000Z",
+      "summary_en": "This article explores the technical process of reverse engineering the internal state of the xorshift128 random number generator. It follows the author's previous work on Mersenne Twister and lehmer64, providing a practical implementation and explanation of the recovery method.",
+      "summary_zh": "本文探討了如何對 xorshift128 亂數產生器進行逆向工程以恢復其內部狀態。繼先前對 Mersenne Twister 與 lehmer64 的分析，作者在此提供了具體的實作範例與恢復方法的說明。",
+      "keywords": [
+        "xorshift128",
+        "reverse engineering",
+        "random number generator",
+        "cryptography",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical guide demonstrating the specific steps required to reverse engineer a generator state.",
+      "pacer_reason_zh": "本文屬於技術指南，示範了逆向工程生成器狀態所需的具體步驟。"
+    },
+    {
+      "id": "2ad2f76ae39b9900",
+      "title": "The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-15T14:00:00.000Z",
+      "summary_en": "This post discusses a technical troubleshooting scenario where a CreateFileMapping call repeatedly returns an ERROR_ALREADY_EXISTS error. The author humorously points out that the error occurs simply because the resource already exists, highlighting the importance of verifying existing object handles.",
+      "summary_zh": "本文探討了一個關於 CreateFileMapping 函式持續回傳 ERROR_ALREADY_EXISTS 錯誤的技術排錯案例。作者幽默地指出，該錯誤發生的原因單純是因為資源已經存在，強調了檢查現有物件控制代碼的重要性。",
+      "keywords": [
+        "Windows API",
+        "CreateFileMapping",
+        "ERROR_ALREADY_EXISTS",
+        "debugging",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a troubleshooting guide explaining a specific error code behavior in Windows API programming.",
+      "pacer_reason_zh": "這篇文章作為故障排除指南，解釋了 Windows API 程式設計中特定錯誤代碼的行為。"
+    },
+    {
+      "id": "8c0e13374352a229",
+      "title": "UK Government Kicks Out Palantir",
+      "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-15T05:34:03.000Z",
+      "summary_en": "The article explains that the UK government provides transparent access to public contract awards through their official portal. It encourages readers to verify sensationalist claims about government deals by checking the actual documentation rather than relying on misinformation.",
+      "summary_zh": "本文指出英國政府透過其官方網站公開採購合約，提供了透明的查詢管道。作者建議讀者在面對關於政府合約的聳動傳聞時，應透過官方平台查證事實，而非輕信未經證實的論點。",
+      "keywords": [
+        "UK Government",
+        "Public Procurement",
+        "Transparency",
+        "Contracts Finder",
+        "Fact Checking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a guide on how to use the UK Government's contract database to verify information.",
+      "pacer_reason_zh": "本文提供了如何使用英國政府合約資料庫來查證資訊的操作指南。"
+    },
+    {
+      "id": "18ccca1cf4360652",
+      "title": "Search engine results are truly terrible",
+      "url": "https://maurycyz.com/misc/search/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-05-15T00:00:00.000Z",
+      "summary_en": "The author evaluates the quality of modern search engines and AI tools by testing their performance against specific search queries. The results demonstrate that none of the tested platforms consistently provide high-quality information, often being misled by online spam and advertisements.",
+      "summary_zh": "作者針對現代搜尋引擎與人工智慧工具進行了一項實驗，測試其在回答特定問題時的搜尋品質。結果顯示沒有任何工具能穩定提供優質資訊，且普遍容易受到網路垃圾內容與廣告的干擾。",
+      "keywords": [
+        "search engines",
+        "AI",
+        "web search",
+        "spam",
+        "benchmark"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an experiment providing a comparative analysis and benchmark of different search tools based on specific test cases.",
+      "pacer_reason_zh": "本文屬於實驗性質，透過具體的測試案例對各類搜尋工具進行了比較分析與基準測試。"
+    },
+    {
+      "id": "28bcd02264f3196b",
+      "title": "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)",
+      "url": "https://pluralistic.net/2026/05/15/not-ok-boomer/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-15T12:38:04.000Z",
+      "summary_en": "Cory Doctorow discusses widespread bipartisan support for implementing age and term limits across all branches of the US government. Citing polling data from G. Elliot Morris, the post highlights that a significant majority of Americans favor these structural changes regardless of their political affiliation.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）探討了美國各界對於在政府部門實施年齡與任期限制的廣泛兩黨共識。透過引用民調專家 G. Elliot Morris 的數據，文章指出儘管政治立場各異，大多數美國民眾仍支持這些體制上的改革。",
+      "keywords": [
+        "politics",
+        "term limits",
+        "age limits",
+        "polling",
+        "US government"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on the presentation and analysis of poll results to support the argument for political reform.",
+      "pacer_reason_zh": "本文主要透過呈現與分析民意調查結果，以支持推動政治改革的論點。"
+    },
+    {
+      "id": "19438c3c29e66316",
+      "title": "Pluralistic: Kickstarting \"The Reverse Centaur's Guide to Life After AI\" (14 May 2026)",
+      "url": "https://pluralistic.net/2026/05/14/who-it-does-it-for/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-14T11:04:43.000Z",
+      "summary_en": "Cory Doctorow announces a Kickstarter campaign for his new book, 'The Reverse Centaur's Guide to Life After AI,' which critically examines the political economy of the current AI bubble. The author argues that the AI boom is a product of market saturation and investor-driven 'pump-and-dump' schemes rather than genuine technological necessity.",
+      "summary_zh": "柯利·多克托羅（Cory Doctorow）宣布為其新書《人工智慧後的逆人馬指南》發起 Kickstarter 募資，該書深入探討了當前人工智慧泡沫背後的政治經濟學。作者認為，AI 熱潮是市場飽和及投資者導向的炒作騙局，而非真實的技術需求。",
+      "keywords": [
+        "AI",
+        "Kickstarter",
+        "Cory Doctorow",
+        "Political Economy",
+        "Tech Criticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual framework behind the author's critical stance on the AI bubble and its role in modern market economics.",
+      "pacer_reason_zh": "該內容闡述了作者對 AI 泡沫持批評態度的概念框架，並解釋了其在當代市場經濟中的運作邏輯。"
+    },
+    {
+      "id": "51a1de3cd7cca57d",
+      "title": "\nA few words on DS4\n",
+      "url": "\nhttp://antirez.com/news/165\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-05-14T22:22:45.000Z",
+      "summary_en": "The author discusses the rapid rise of DwarfStar 4 (DS4), a project enabling efficient local AI inference on high-end hardware using asymmetric quantization. They highlight the shift toward using local models for serious, professional tasks and outline future plans to adapt DS4 to various specialized domains.",
+      "summary_zh": "作者探討了 DwarfStar 4 (DS4) 的快速崛起，這是一個利用非對稱量化技術，讓高階硬體能高效執行在地 AI 推論的專案。文中強調在地模型已能勝任專業任務，並規劃未來將 DS4 擴展至醫療、法律及程式開發等專業領域。",
+      "keywords": [
+        "DS4",
+        "local AI",
+        "inference",
+        "quantization",
+        "DeepSeek"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a reflection on the development, philosophy, and future vision of a specific software project.",
+      "pacer_reason_zh": "本文屬於對特定軟體專案的開發歷程、設計理念及未來願景的敘述與分析。"
+    },
+    {
+      "id": "ba0d9b9d357ffe62",
+      "title": "QR code generator",
+      "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-15T04:00:49.000Z",
+      "summary_en": "Simon Willison introduces a new browser-based tool for generating QR codes, specifically designed to handle both standard URLs and WiFi network configurations. The utility was developed with the assistance of Claude, showcasing the practical application of AI-assisted coding.",
+      "summary_zh": "Simon Willison 推出了一款全新的瀏覽器 QR 碼產生器，專門用於建立網址連結與 Wi-Fi 網路設定碼。此工具是透過 Claude 輔助開發完成，展現了 AI 輔助編程的實際應用場景。",
+      "keywords": [
+        "QR code",
+        "web tool",
+        "vibe-coding",
+        "generative AI",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a functional tool for users to perform a specific task (generating QR codes), functioning as a utility guide/application.",
+      "pacer_reason_zh": "該文章提供了一個供使用者執行特定任務（產生 QR 碼）的功能性工具，屬於實用性質的應用程式。"
+    },
+    {
+      "id": "c533eb9ba1b6d17a",
+      "title": "Not so locked in any more",
+      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-14T22:53:49.000Z",
+      "summary_en": "The article discusses the shifting landscape of software development where programming languages and frameworks are becoming less of a permanent lock-in. With the rise of AI-assisted coding, companies can more easily migrate between technologies, such as moving from native mobile apps to React Native or switching between programming languages.",
+      "summary_zh": "本文探討了軟體開發趨勢的轉變，程式語言與框架不再構成永久性的技術鎖定。隨著 AI 輔助編程工具的興起，企業能更靈活地進行技術遷移，例如從原生開發轉向 React Native 或更換程式語言。",
+      "keywords": [
+        "React Native",
+        "coding-agents",
+        "software-migration",
+        "AI-assisted-programming",
+        "technology-lock-in"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explores the conceptual shift in software engineering regarding technical debt and the decreasing permanence of architectural choices due to AI.",
+      "pacer_reason_zh": "文章探討了軟體工程中關於技術債以及人工智慧降低架構決策永久性後的概念轉變。"
+    },
+    {
+      "id": "eb690f8a5689ade8",
+      "title": "Quoting Mitchell Hashimoto",
+      "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-14T22:31:20.000Z",
+      "summary_en": "Mitchell Hashimoto observes that modern programming languages are becoming increasingly interchangeable, as demonstrated by Bun's rapid porting between Zig and Rust. He argues that languages are no longer a source of vendor lock-in but are instead expendable tools that developers can easily swap as needs evolve.",
+      "summary_zh": "Mitchell Hashimoto 指出現代程式語言變得越來越可替換，Bun 在 Zig 與 Rust 之間的快速移植就是最佳例證。他認為程式語言不再構成技術鎖定，而是開發者可隨需求輕易轉換的消耗性工具。",
+      "keywords": [
+        "Programming Languages",
+        "Bun",
+        "Rust",
+        "Zig",
+        "Tech Trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual shift in the role of programming languages in modern software development.",
+      "pacer_reason_zh": "內容探討了程式語言在現代軟體開發中角色轉變的概念性觀點。"
+    },
     {
       "id": "ee31b1556857165d",
       "title": "Managed agents are the new Lambda",
