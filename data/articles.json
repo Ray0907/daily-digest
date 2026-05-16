@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-05-15T22:17:16.816Z",
+  "last_updated": "2026-05-16T22:14:25.041Z",
   "articles": [
+    {
+      "id": "eed2d316b0510025",
+      "title": "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
+      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-05-16T13:35:14.000Z",
+      "summary_en": "This final chapter of the SQLAlchemy 2 in Practice series explores integrating the SQLAlchemy ORM with Python web frameworks. It provides practical demonstrations of using SQLAlchemy within Flask and FastAPI applications.",
+      "summary_zh": "這是《SQLAlchemy 2 In Practice》系列的最後一章，探討如何將 SQLAlchemy ORM 整合至 Python 網路框架中。文中透過 Flask 和 FastAPI 的實際範例，示範了如何在網路應用程式中使用資料庫。",
+      "keywords": [
+        "SQLAlchemy",
+        "Python",
+        "Flask",
+        "FastAPI",
+        "Web Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a practical demonstration and tutorial for integrating SQLAlchemy with specific web frameworks.",
+      "pacer_reason_zh": "本文屬於實作教學性質，示範如何將 SQLAlchemy 整合至特定的網路開發框架中。"
+    },
+    {
+      "id": "2cfef118d57ade16",
+      "title": "The mistake of conflating intelligence and power",
+      "url": "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-16T19:04:16.000Z",
+      "summary_en": "The article critiques common definitions of intelligence that equate the ability to achieve goals with high cognitive capacity. It argues that conflating intelligence with power leads to absurd conclusions, such as characterizing authoritarian figures as the most intelligent individuals.",
+      "summary_zh": "本文批評了將目標達成能力等同於智慧的常見定義。文章認為將智慧與權力混為一談會導致荒謬的結論，例如將獨裁者視為歷史上最聰明的人。",
+      "keywords": [
+        "intelligence",
+        "power",
+        "definition",
+        "cognitive capacity",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on defining a concept and challenging its common usage.",
+      "pacer_reason_zh": "內容重點在於定義一個概念並挑戰其常見用法。"
+    },
+    {
+      "id": "ae9fde10dc856d6a",
+      "title": "Notes on pretraining parallelisms and failed training runs. ",
+      "url": "https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-16T19:01:16.000Z",
+      "summary_en": "This article explores the technical nuances and common pitfalls involved in pretraining large-scale AI models. It highlights the challenges of managing parallelization strategies and analyzing the root causes of failed training experiments.",
+      "summary_zh": "本文探討了大型人工智慧模型預訓練過程中的技術細節與常見陷阱。內容重點分析了管理並行策略的挑戰，並探討了導致訓練實驗失敗的根本原因。",
+      "keywords": [
+        "AI Pretraining",
+        "Parallelism",
+        "Training Failure",
+        "Deep Learning",
+        "Machine Learning Infrastructure"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on experimental outcomes and lessons learned from technical failures in pretraining infrastructure.",
+      "pacer_reason_zh": "內容側重於實驗結果以及從預訓練基礎設施的技術失敗中所獲得的經驗教訓。"
+    },
+    {
+      "id": "ca2c727f4ff94b8e",
+      "title": "RLVR might be disproportionately bad at science",
+      "url": "https://www.dwarkesh.com/p/rlvr-might-be-disproportionately",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-16T19:00:59.000Z",
+      "summary_en": "The article discusses the limitations of Reinforcement Learning with Verifiable Rewards (RLVR) in scientific domains. It highlights that scientific theory verification can span centuries, noting that even established theories may occasionally produce flawed predictions.",
+      "summary_zh": "本文探討了強化學習與可驗證獎勵（RLVR）在科學領域中的侷限性。文中指出，科學理論的驗證週期可能長達數世紀，且即使是被視為較優的現有理論，有時仍可能產生錯誤的預測。",
+      "keywords": [
+        "RLVR",
+        "科學方法",
+        "強化學習",
+        "理論驗證",
+        "人工智慧"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual challenges of applying RLVR to the scientific method and the nature of theory validation.",
+      "pacer_reason_zh": "內容解釋了將 RLVR 應用於科學方法與理論驗證性質時所面臨的概念性挑戰。"
+    },
+    {
+      "id": "cad821efb8a09290",
+      "title": "Five Minutes of Prime Time",
+      "url": "https://susam.net/five-minutes-of-prime-time.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-16T00:00:00.000Z",
+      "summary_en": "The author reminisces about their time at RSA, where a strong culture of intellectual curiosity and mathematics thrived among employees. This culture led to the author's participation in an HR-organized game challenge requiring employees to list prime numbers under a time constraint.",
+      "summary_zh": "作者回憶起在 RSA 工作時，辦公室內瀰漫著對數學和科學高度好奇的極客文化。這種氛圍促使他在一場由人資部門舉辦的競賽中，參與了一項限時列出質數的趣味挑戰。",
+      "keywords": [
+        "RSA",
+        "prime numbers",
+        "nerd culture",
+        "workplace anecdotes",
+        "mathematics"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article is primarily a personal narrative and reminiscence about workplace culture, using the story of a challenge to illustrate the broader theme of shared intellectual interests.",
+      "pacer_reason_zh": "這篇文章主要是關於職場文化的個人敘事與回憶，透過一項競賽故事來體現團隊共同知識興趣的氛圍。"
+    },
+    {
+      "id": "ef405ac557f29995",
+      "title": "Reading List 05/16/26",
+      "url": "https://www.construction-physics.com/p/reading-list-051626",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-16T12:01:26.000Z",
+      "summary_en": "This digest covers a diverse range of topics, including Tokyo's unique housing market dynamics and legislative developments regarding the Senate housing bill. It also touches on infrastructure security concerns and financial updates, specifically highlighting Fervo's recent IPO.",
+      "summary_zh": "本篇摘要涵蓋了多樣化的主題，包括東京獨特的房地產市場動態以及美國參議院住房法案的最新立法進展。內容同時觸及基礎設施安全議題，並針對 Fervo 的首次公開募股 (IPO) 提供了相關財務更新。",
+      "keywords": [
+        "housing",
+        "Tokyo",
+        "legislation",
+        "infrastructure",
+        "IPO"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a curated list of links and brief summaries on current events, serving as reference material.",
+      "pacer_reason_zh": "本文內容為時事連結與簡短摘要的策展清單，具有參考資料的屬性。"
+    },
+    {
+      "id": "0edec2e5a613b09c",
+      "title": "Make ZIP files smaller with ZIP Shrinker",
+      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-05-16T00:00:00.000Z",
+      "summary_en": "Evan Hahn developed ZIP Shrinker, a browser-based tool that reduces ZIP file sizes by re-compressing contents using libdeflate and removing unnecessary metadata and directory entries. The tool supports standard ZIPs and ZIP-based formats like APK and EPUB, demonstrating significant storage savings through optimized compression techniques.",
+      "summary_zh": "Evan Hahn 開發了 ZIP Shrinker，這是一款基於瀏覽器的工具，透過使用 libdeflate 重新壓縮內容並刪除多餘的元數據與目錄條目來縮減 ZIP 檔案大小。該工具支援標準 ZIP 及 APK、EPUB 等 ZIP 變體格式，並透過優化壓縮技術展現了顯著的空間節省效果。",
+      "keywords": [
+        "ZIP",
+        "compression",
+        "libdeflate",
+        "WebAssembly",
+        "file optimization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains the creation and technical implementation process of a specific browser tool, functioning as a developer-focused walkthrough.",
+      "pacer_reason_zh": "本文介紹了特定瀏覽器工具的開發過程與技術實作細節，屬於開發者導向的操作指南。"
+    },
+    {
+      "id": "74bc4144c1bc2f80",
+      "title": "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)",
+      "url": "https://pluralistic.net/2026/05/16/technopoly/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-16T08:35:41.000Z",
+      "summary_en": "Cory Doctorow analyzes the perceived collapse of American hegemony, distinguishing between the ephemeral nature of political power and long-term durability. He draws parallels between current political trends and the historical decline of monarchies, suggesting that systems reliant on cults of personality and systemic decay are inherently unstable.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）分析了美國霸權的崩解，指出政治權力的強大並不等同於體制的持久性。他將當前的政治趨勢與君主制的衰落進行類比，認為依賴個人崇拜和系統性腐敗的治理體系本質上是極不穩定的。",
+      "keywords": [
+        "American empire",
+        "political theory",
+        "Cory Doctorow",
+        "power structures",
+        "decline"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of monarchical decay and genetic inbreeding to explain the current trajectory of American political systems.",
+      "pacer_reason_zh": "文章運用君主制衰落與近親繁殖的類比，來解釋當前美國政治體系的發展軌跡。"
+    },
+    {
+      "id": "0174d8e48e63ec90",
+      "title": "Warelay -> OpenClaw",
+      "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-16T20:23:30.000Z",
+      "summary_en": "Simon Willison uses a Python utility to analyze the Git history of a project called OpenClaw. The post documents the evolution of the project's name through its various iterations from its inception as 'Warelay'.",
+      "summary_zh": "Simon Willison 利用 Python 工具分析了專案 OpenClaw 的 Git 歷史紀錄。文中記錄了該專案從最初命名為「Warelay」以來，經歷多次更名的演變過程。",
+      "keywords": [
+        "OpenClaw",
+        "Git history",
+        "Python",
+        "branding",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a data-driven look at repository history using a specific tool to extract and present evidence of naming changes.",
+      "pacer_reason_zh": "該文章透過特定工具呈現專案歷史的數據分析，提供了關於專案更名紀錄的具體證據。"
+    },
+    {
+      "id": "9620fb3381eaf8b8",
+      "title": "Quoting Julia Evans",
+      "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-16T16:45:37.000Z",
+      "summary_en": "Julia Evans shares her journey of shifting from viewing CSS as a source of frustration to embracing it as a sophisticated technology. By taking CSS seriously and deepening her understanding, she discovered that many perceived difficulties were actually solutions to complex layout challenges.",
+      "summary_zh": "Julia Evans 分享了她從將 CSS 視為挫折來源，轉變為將其視為一門精密技術的心路歷程。透過深入鑽研與認真看待 CSS，她發現許多被視為困難的問題，其實是針對複雜版面配置挑戰而設計的解決方案。",
+      "keywords": [
+        "CSS",
+        "web-development",
+        "Julia-Evans",
+        "frontend",
+        "web-design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual shift in perspective regarding how to approach and value CSS as a technology.",
+      "pacer_reason_zh": "該內容側重於關於如何看待與重視 CSS 技術的觀念轉變。"
+    },
+    {
+      "id": "5ae711b26a90b9e8",
+      "title": "inaturalist-clumper 0.1",
+      "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-15T23:53:11.000Z",
+      "summary_en": "Simon Willison has released version 0.1 of inaturalist-clumper, a tool used to manage and publish iNaturalist sightings on his personal blog. The release follows several weeks of production testing and is designed to process and output observational data.",
+      "summary_zh": "Simon Willison 發布了 inaturalist-clumper 0.1 版本，這是一項用於管理並在其個人部落格上發布 iNaturalist 觀測紀錄的工具。該版本經過數週的生產環境測試，旨在處理並輸出相關的觀測數據。",
+      "keywords": [
+        "inaturalist",
+        "python",
+        "clumper",
+        "data-processing",
+        "software-release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a software tool release with links to the repository, serving as a functional utility for users to adopt.",
+      "pacer_reason_zh": "該文章宣布發布一項軟體工具並提供儲存庫連結，屬於供使用者採用的功能性工具。"
+    },
+    {
+      "id": "c8d9ed79e0b129f7",
+      "title": "Western Gull, Rock Pigeon",
+      "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-15T14:42:00.000Z",
+      "summary_en": "Simon Willison shares photos of a Western Gull and a Rock Pigeon spotted during a morning bird walk in Los Angeles. The post offers a brief, personal look at local wildlife encounters near a conference event.",
+      "summary_zh": "Simon Willison 分享了在洛杉磯參加 PyCon 期間，於晨間賞鳥活動中拍攝到的西美鷗與岩鴿照片。這篇文章記錄了作者在會議期間觀察到的當地野生動物趣事。",
+      "keywords": [
+        "Western Gull",
+        "Rock Pigeon",
+        "Los Angeles",
+        "Birding",
+        "PyCon"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a personal observation or evidence of local wildlife sightings.",
+      "pacer_reason_zh": "該文章記錄了個人的觀察與當地野生動物目擊的實證。"
+    },
+    {
+      "id": "dab5068a10f001dc",
+      "title": "datasette-llm-limits 0.1a0",
+      "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-15T00:42:09.000Z",
+      "summary_en": "Simon Willison released datasette-llm-limits 0.1a0, a new plugin for Datasette that enables spending limits for LLM usage. It integrates with existing tools to provide per-user or global cost control based on configurable time windows and amounts.",
+      "summary_zh": "Simon Willison 發布了 datasette-llm-limits 0.1a0，這是一款用於 Datasette 的新外掛程式，可針對大型語言模型 (LLM) 的使用設定支出上限。它與現有工具整合，能根據設定的時間窗口與金額，對個別使用者或全域的使用量進行成本控管。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "plugin",
+        "spending-limits",
+        "cost-control"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a technical release announcement describing how to configure and use a new software tool.",
+      "pacer_reason_zh": "該文章作為軟體發布公告，說明如何設定及使用此項新工具。"
+    },
+    {
+      "id": "42d3a4e9a8fcb64f",
+      "title": "How I use LLMs as a staff engineer in 2026",
+      "url": "https://seangoedecke.com/how-i-use-llms-in-2026/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-17T00:00:00.000Z",
+      "summary_en": "This article explores the practical workflows and strategies a staff-level engineer employs when integrating Large Language Models into their daily technical tasks. It highlights the evolving role of AI tools in high-level software architecture, decision-making, and productivity.",
+      "summary_zh": "這篇文章探討了資深工程師如何在日常技術工作中整合大型語言模型（LLM）的實踐流程與策略。內容強調了 AI 工具在軟體架構決策與提升工作效率方面的演進與應用。",
+      "keywords": [
+        "LLM",
+        "staff engineer",
+        "AI workflows",
+        "software architecture",
+        "productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on personal workflows and practical usage of LLMs in a professional engineering role, serving as a guide on methodology.",
+      "pacer_reason_zh": "文章重點在於個人工作流程以及在專業工程職位中實際應用 LLM 的方式，具有方法論指導的性質。"
+    },
+    {
+      "id": "9e69bf2e0c8f44f9",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://seangoedecke.com/steering-vectors/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-16T00:00:00.000Z",
+      "summary_en": "This post explores the implications of DeepSeek-V4-Flash, focusing on how its architecture revitalizes techniques for LLM steering. It discusses the shifting landscape of model control and output optimization in the current AI ecosystem.",
+      "summary_zh": "這篇文章探討了 DeepSeek-V4-Flash 的技術意義，重點分析其架構如何為大型語言模型（LLM）的控制與引導帶來新機會。內容討論了當前 AI 生態中模型操作與輸出優化方式的演變。",
+      "keywords": [
+        "DeepSeek-V4-Flash",
+        "LLM",
+        "AI steering",
+        "model architecture",
+        "AI trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual implications of a new model architecture and its impact on steering theory.",
+      "pacer_reason_zh": "本文側重於探討新模型架構的概念性影響，以及其對模型引導理論的衝擊。"
+    },
     {
       "id": "72113f6d9207576d",
       "title": "Eric Jang – Building AlphaGo from scratch",

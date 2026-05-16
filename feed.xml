@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 15 May 2026 22:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 22:14:25 GMT</lastBuildDate>
     
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</link>
+      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</guid>
+      <pubDate>Sat, 16 May 2026 13:35:14 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This final chapter of the SQLAlchemy 2 in Practice series explores integrating the SQLAlchemy ORM with Python web frameworks. It provides practical demonstrations of using SQLAlchemy within Flask and FastAPI applications.</description>
+    </item>
+
+    <item>
+      <title>The mistake of conflating intelligence and power</title>
+      <link>https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence</link>
+      <guid>https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence</guid>
+      <pubDate>Sat, 16 May 2026 19:04:16 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The article critiques common definitions of intelligence that equate the ability to achieve goals with high cognitive capacity. It argues that conflating intelligence with power leads to absurd conclusions, such as characterizing authoritarian figures as the most intelligent individuals.</description>
+    </item>
+
+    <item>
+      <title>Notes on pretraining parallelisms and failed training runs. </title>
+      <link>https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms</link>
+      <guid>https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms</guid>
+      <pubDate>Sat, 16 May 2026 19:01:16 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This article explores the technical nuances and common pitfalls involved in pretraining large-scale AI models. It highlights the challenges of managing parallelization strategies and analyzing the root causes of failed training experiments.</description>
+    </item>
+
+    <item>
+      <title>RLVR might be disproportionately bad at science</title>
+      <link>https://www.dwarkesh.com/p/rlvr-might-be-disproportionately</link>
+      <guid>https://www.dwarkesh.com/p/rlvr-might-be-disproportionately</guid>
+      <pubDate>Sat, 16 May 2026 19:00:59 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The article discusses the limitations of Reinforcement Learning with Verifiable Rewards (RLVR) in scientific domains. It highlights that scientific theory verification can span centuries, noting that even established theories may occasionally produce flawed predictions.</description>
+    </item>
+
+    <item>
+      <title>Five Minutes of Prime Time</title>
+      <link>https://susam.net/five-minutes-of-prime-time.html</link>
+      <guid>https://susam.net/five-minutes-of-prime-time.html</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>The author reminisces about their time at RSA, where a strong culture of intellectual curiosity and mathematics thrived among employees. This culture led to the author's participation in an HR-organized game challenge requiring employees to list prime numbers under a time constraint.</description>
+    </item>
+
+    <item>
+      <title>Reading List 05/16/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-051626</link>
+      <guid>https://www.construction-physics.com/p/reading-list-051626</guid>
+      <pubDate>Sat, 16 May 2026 12:01:26 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This digest covers a diverse range of topics, including Tokyo's unique housing market dynamics and legislative developments regarding the Senate housing bill. It also touches on infrastructure security concerns and financial updates, specifically highlighting Fervo's recent IPO.</description>
+    </item>
+
+    <item>
+      <title>Make ZIP files smaller with ZIP Shrinker</title>
+      <link>https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</link>
+      <guid>https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>Evan Hahn developed ZIP Shrinker, a browser-based tool that reduces ZIP file sizes by re-compressing contents using libdeflate and removing unnecessary metadata and directory entries. The tool supports standard ZIPs and ZIP-based formats like APK and EPUB, demonstrating significant storage savings through optimized compression techniques.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/16/technopoly/</link>
+      <guid>https://pluralistic.net/2026/05/16/technopoly/</guid>
+      <pubDate>Sat, 16 May 2026 08:35:41 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow analyzes the perceived collapse of American hegemony, distinguishing between the ephemeral nature of political power and long-term durability. He draws parallels between current political trends and the historical decline of monarchies, suggesting that systems reliant on cults of personality and systemic decay are inherently unstable.</description>
+    </item>
+
+    <item>
+      <title>Warelay -&gt; OpenClaw</title>
+      <link>https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</guid>
+      <pubDate>Sat, 16 May 2026 20:23:30 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison uses a Python utility to analyze the Git history of a project called OpenClaw. The post documents the evolution of the project's name through its various iterations from its inception as 'Warelay'.</description>
+    </item>
+
+    <item>
+      <title>Quoting Julia Evans</title>
+      <link>https://simonwillison.net/2026/May/16/julia-evans/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/16/julia-evans/#atom-everything</guid>
+      <pubDate>Sat, 16 May 2026 16:45:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Julia Evans shares her journey of shifting from viewing CSS as a source of frustration to embracing it as a sophisticated technology. By taking CSS seriously and deepening her understanding, she discovered that many perceived difficulties were actually solutions to complex layout challenges.</description>
+    </item>
+
+    <item>
+      <title>inaturalist-clumper 0.1</title>
+      <link>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 23:53:11 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.1 of inaturalist-clumper, a tool used to manage and publish iNaturalist sightings on his personal blog. The release follows several weeks of production testing and is designed to process and output observational data.</description>
+    </item>
+
+    <item>
+      <title>Western Gull, Rock Pigeon</title>
+      <link>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 14:42:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares photos of a Western Gull and a Rock Pigeon spotted during a morning bird walk in Los Angeles. The post offers a brief, personal look at local wildlife encounters near a conference event.</description>
+    </item>
+
+    <item>
+      <title>datasette-llm-limits 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 00:42:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released datasette-llm-limits 0.1a0, a new plugin for Datasette that enables spending limits for LLM usage. It integrates with existing tools to provide per-user or global cost control based on configurable time windows and amounts.</description>
+    </item>
+
+    <item>
+      <title>How I use LLMs as a staff engineer in 2026</title>
+      <link>https://seangoedecke.com/how-i-use-llms-in-2026/</link>
+      <guid>https://seangoedecke.com/how-i-use-llms-in-2026/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the practical workflows and strategies a staff-level engineer employs when integrating Large Language Models into their daily technical tasks. It highlights the evolving role of AI tools in high-level software architecture, decision-making, and productivity.</description>
+    </item>
+
+    <item>
+      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
+      <link>https://seangoedecke.com/steering-vectors/</link>
+      <guid>https://seangoedecke.com/steering-vectors/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This post explores the implications of DeepSeek-V4-Flash, focusing on how its architecture revitalizes techniques for LLM steering. It discusses the shifting landscape of model control and output optimization in the current AI ecosystem.</description>
+    </item>
+
     <item>
       <title>Eric Jang – Building AlphaGo from scratch</title>
       <link>https://www.dwarkesh.com/p/eric-jang</link>
@@ -775,141 +910,6 @@ http://antirez.com/news/165
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       <source url="https://susam.net/">Susam Pal</source>
       <description>The author reflects on the influence of Chris Morgan's technical insights, specifically regarding web development best practices. He discusses the value of questioning common trends, such as the use of query strings in URLs, and emphasizes learning through careful observation and community feedback.</description>
-    </item>
-
-    <item>
-      <title>Reading List 05/09/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-05092026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-05092026</guid>
-      <pubDate>Sat, 09 May 2026 12:02:50 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This reading list explores diverse topics including the physics of trapped buildings, the emergence of residential data centers, and the development of cardboard military drones. It also examines infrastructure concerns, specifically the potential financial risks facing the Brightline high-speed rail project.</description>
-    </item>
-
-    <item>
-      <title>The Mismeasure of Open Source</title>
-      <link>https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html</link>
-      <guid>https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html</guid>
-      <pubDate>Sat, 09 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article critiques current open source criticality and risk assessment models for relying on limited, easily accessible data from APIs like GitHub. It highlights how these models suffer from 'missing data' biases, where the absence of a signal is incorrectly treated as zero, leading to inaccurate project evaluations.</description>
-    </item>
-
-    <item>
-      <title>Book Review: The Names by Florence Knapp ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/</guid>
-      <pubDate>Sat, 09 May 2026 11:34:20 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review of Florence Knapp's 'The Names' explores the book's narrative structure, which examines the divergent paths of a mother based on the choice of her child's name. Despite acknowledging the author's strong prose and creative storytelling, the reviewer found the heavy themes of domestic violence made the book unenjoyable.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</link>
-      <guid>https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</guid>
-      <pubDate>Sat, 09 May 2026 12:51:02 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that Donald Trump faces an inherent political contradiction: he cannot resolve the cost-of-living crisis without alienating the oligarchs who fund his base. Because these oligarchs profit from the very systems that drive economic suffering, Trump is forced to rely on performative politics instead of actual material reform.</description>
-    </item>
-
-    <item>
-      <title>Quoting Luke Curley</title>
-      <link>https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</guid>
-      <pubDate>Sat, 09 May 2026 01:03:58 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the inherent conflict between WebRTC's low-latency design and the requirements of voice-based AI applications. The author argues that aggressively dropping packets to maintain real-time performance is detrimental to LLM accuracy, where data integrity is more important than immediate responsiveness.</description>
-    </item>
-
-    <item>
-      <title>George Orwell's review of Russel's Power: A New Social Analysis</title>
-      <link>https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</link>
-      <guid>https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</guid>
-      <pubDate>Fri, 08 May 2026 20:35:10 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>The author discusses recovering a lost book review by George Orwell regarding Bertrand Russell's 'Power: A New Social Analysis' from the internet archive. This piece highlights the historical significance of the original 1939 review and ensures its continued accessibility for readers.</description>
-    </item>
-
-    <item>
-      <title>Flower: an SSG with a Clojure template language</title>
-      <link>https://jyn.dev/talks/flower/</link>
-      <guid>https://jyn.dev/talks/flower/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://jyn.dev/">the website of jyn</source>
-      <description>This article introduces Flower, a new static site generator (SSG) that utilizes a Clojure-based template language. It explores the design philosophy behind the project and demonstrates how leveraging Clojure's syntax enhances the flexibility of site generation.</description>
-    </item>
-
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</link>
-      <guid>https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 08 May 2026 16:11:33 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>The author announces a one-week break from the blog to focus on home and garden maintenance. New content focusing on video games is scheduled to return in two weeks.</description>
-    </item>
-
-    <item>
-      <title>Notes on the Hantavirus Outbreak</title>
-      <link>https://borretti.me/article/notes-on-the-hantavirus-outbreak</link>
-      <guid>https://borretti.me/article/notes-on-the-hantavirus-outbreak</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article presents a critical perspective on the environmental and public health risks associated with the cruise ship industry. It suggests that these vessels act as vectors for disease transmission and overall global harm.</description>
-    </item>
-
-    <item>
-      <title>David Reich – Why the Bronze Age was an inflection point in human evolution</title>
-      <link>https://www.dwarkesh.com/p/david-reich-2</link>
-      <guid>https://www.dwarkesh.com/p/david-reich-2</guid>
-      <pubDate>Fri, 08 May 2026 16:38:22 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>Geneticist David Reich discusses the rapid pace of human evolution, emphasizing that natural selection remains a powerful and constant force rather than a dormant process. The conversation explores how the Bronze Age served as a critical turning point for human genetic development and social structure.</description>
-    </item>
-
-    <item>
-      <title>Wander Console 0.6.0</title>
-      <link>https://susam.net/code/news/wander/0.6.0.html</link>
-      <guid>https://susam.net/code/news/wander/0.6.0.html</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>Wander Console 0.6.0 has been released, introducing minor UI updates and removing the 'via' query parameter to improve URL compatibility. This decentralized, self-hosted tool enables independent website owners to share and discover content within a community network.</description>
-    </item>
-
-    <item>
-      <title>The Bold Ones Win</title>
-      <link>https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</link>
-      <guid>https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</guid>
-      <pubDate>Fri, 08 May 2026 00:13:15 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article examines the legacy of media mogul Ted Turner by drawing parallels between his audacious business strategies and the modern approach of CEO Ryan Cohen. It reflects on Turner's career of high-stakes risks and bold moves to illustrate the nature of unconventional entrepreneurship.</description>
-    </item>
-
-    <item>
-      <title>Weekend at Bernie’s</title>
-      <link>https://nesbitt.io/2026/05/08/weekend-at-bernies.html</link>
-      <guid>https://nesbitt.io/2026/05/08/weekend-at-bernies.html</guid>
-      <pubDate>Fri, 08 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article explores the precarious state of open-source software maintenance, comparing abandoned projects to the film 'Weekend at Bernie's' where appearances are maintained despite the absence of a 'living' maintainer. It highlights the security risks when critical packages lack active oversight, especially as AI-driven vulnerability discovery accelerates, and notes the lack of centralized patching mechanisms in modern language package managers.</description>
-    </item>
-
-    <item>
-      <title>Steering Zig Fmt</title>
-      <link>https://matklad.github.io/2026/05/08/steering-zig-fmt.html</link>
-      <guid>https://matklad.github.io/2026/05/08/steering-zig-fmt.html</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>This article explores the unique, 'steerable' design of the Zig programming language's code formatter. It demonstrates how adding trailing commas or manual line breaks allows developers to control the layout of function calls and arrays, providing more flexibility than traditional automated formatters.</description>
-    </item>
-
-    <item>
-      <title>Calculating curvature</title>
-      <link>https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</guid>
-      <pubDate>Fri, 08 May 2026 13:54:18 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the mathematical complexity behind calculating the curvature of level set curves. It explains that while the concept is straightforward, the resulting formulas can quickly become cumbersome even with simple initial expressions.</description>
     </item>
   </channel>
 </rss>
