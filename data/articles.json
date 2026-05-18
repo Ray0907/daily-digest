@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-05-17T22:15:26.951Z",
+  "last_updated": "2026-05-18T22:18:46.703Z",
   "articles": [
+    {
+      "id": "773fb46b066eb8a9",
+      "title": "Weekly Update 504",
+      "url": "https://www.troyhunt.com/weekly-update-504/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-18T03:46:55.000Z",
+      "summary_en": "This update discusses the ongoing debate regarding whether organizations should pay ransoms to hackers to prevent data leaks. Troy Hunt highlights recent examples, such as Grafana's refusal to pay, to illustrate the industry's evolving stance on this critical cybersecurity dilemma.",
+      "summary_zh": "本週更新探討了企業是否應支付贖金給駭客以防止數據外洩的爭議。Troy Hunt 以 Grafana 等公司拒絕支付贖金的案例，分析了資安業界對此重大困境日益演變的立場與態度。",
+      "keywords": [
+        "cybersecurity",
+        "ransomware",
+        "data breach",
+        "information security",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and opinion on a current cybersecurity issue regarding ransom negotiations.",
+      "pacer_reason_zh": "本文針對贖金談判這一網路安全議題，提供了概念性的概述與觀點。"
+    },
+    {
+      "id": "a5381fa418385c56",
+      "title": "Travel notes: RubyKaigi Hakodate",
+      "url": "https://bernsteinbear.com/blog/travel-notes-rubykaigi-hakodate/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-05-18T00:00:00.000Z",
+      "summary_en": "The author recounts a three-week trip through Japan, detailing an extensive itinerary that included time with family, a conference, and a visit with a partner. The post shares personal travel notes, including activity suggestions, recommendations for vegetarian dining, and logistical experiences like riding the Shinkansen.",
+      "summary_zh": "作者分享了為期三週的日本之旅，行程橫跨多個城市，涵蓋了與家人團聚、參加研討會及與伴侶旅遊的經歷。文中記錄了個人的旅遊心得，並提供了素食餐廳建議以及搭乘新幹線等交通體驗。",
+      "keywords": [
+        "Japan",
+        "Travel",
+        "RubyKaigi",
+        "Vegetarian",
+        "Itinerary"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a set of personal travel notes, providing recommendations and a descriptive list of locations visited.",
+      "pacer_reason_zh": "本文屬於個人旅遊札記，提供了地點建議與行程列表，適合作為參考資料。"
+    },
+    {
+      "id": "ea5b40bf44dd6d03",
+      "title": "FediMeteo, HAProxy, and the art of not wasting snac threads",
+      "url": "https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-05-18T09:44:00.000Z",
+      "summary_en": "The author discusses the architectural evolution of FediMeteo, a lightweight weather service in the Fediverse. The article focuses on the challenges of maintaining efficiency and performance as the user base grows, specifically by optimizing backend request handling using snac and HAProxy.",
+      "summary_zh": "作者探討了聯邦宇宙中輕量級天氣服務 FediMeteo 的架構演進。文章重點在於如何隨著用戶增長維持系統效率，特別是透過優化 snac 後端與使用 HAProxy 來處理不斷增加的請求。",
+      "keywords": [
+        "FediMeteo",
+        "snac",
+        "HAProxy",
+        "Fediverse",
+        "Scalability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article shares personal, real-world experience and observations on managing infrastructure scaling for a specific software project.",
+      "pacer_reason_zh": "本文分享了作者在維護特定軟體專案時，處理基礎設施擴展的個人實務經驗與觀察。"
+    },
+    {
+      "id": "e26bfc747d21da3b",
+      "title": "Something’s Rotten in the State of macOS Icon Design",
+      "url": "https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-05-18T19:00:00.000Z",
+      "summary_en": "This article examines the decline in macOS icon design quality, arguing that Apple's strict adherence to a uniform 'squircle' shape is stifling creativity. The author suggests that Apple’s current design standards are regressing, forcing third-party developers to abandon unique, artistic expressions in favor of constrained aesthetics.",
+      "summary_zh": "本文探討了 macOS 圖示設計品質的下降，認為 Apple 對「圓角矩形」邊框的嚴格限制正在扼殺設計創意。作者指出，Apple 目前的設計標準正在退步，迫使第三方開發者放棄獨特的藝術風格，轉而服從於單一的視覺規範。",
+      "keywords": [
+        "macOS",
+        "icon design",
+        "Apple",
+        "UI/UX",
+        "design constraints"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of contemporary icon design trends and the impact of design philosophy on software ecosystems.",
+      "pacer_reason_zh": "本文針對當代圖示設計趨勢及其設計哲學對軟體生態系統的影響，進行了概念性的評論與探討。"
+    },
+    {
+      "id": "06243a9d5797ffd9",
+      "title": "Human Bottlenecks",
+      "url": "https://borretti.me/article/human-bottlenecks",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-05-18T00:00:00.000Z",
+      "summary_en": "The article explores the limitations of AI in augmenting human capabilities, arguing that human bottlenecks remain a persistent constraint. It suggests that AI's potential is bounded by the inherent difficulties of scaling human cognition and decision-making processes.",
+      "summary_zh": "這篇文章探討了人工智慧在增強人類能力方面的局限性，指出人類瓶頸仍然是持續存在的制約因素。作者認為人工智慧的潛力受到人類認知和決策過程擴展困難的本質性限制。",
+      "keywords": [
+        "AI",
+        "Human Potential",
+        "Bottlenecks",
+        "Productivity",
+        "Cognition"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis and theoretical argument regarding the limitations of AI in human augmentation.",
+      "pacer_reason_zh": "本文針對人工智慧在人類增強方面的局限性提供了概念性分析與理論觀點。"
+    },
+    {
+      "id": "edf3c92180b89d1b",
+      "title": "How to be inspired without copying",
+      "url": "https://www.joanwestenberg.com/how-to-be-inspired-without-copying/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-17T22:33:32.000Z",
+      "summary_en": "This article explores the practice of copying masters as a legitimate method for creative growth. By examining J.S. Bach's study of Vivaldi, it argues that deep transcription is a powerful tool for learning structure and technique rather than simple plagiarism.",
+      "summary_zh": "本文探討模仿大師作為一種促進創意成長的學習方法。透過研究巴哈臨摹韋瓦第作品的經歷，文章指出深入的轉錄是學習結構與技巧的有力工具，而非單純的抄襲。",
+      "keywords": [
+        "creativity",
+        "learning",
+        "J.S. Bach",
+        "inspiration",
+        "artistic growth"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article uses a historical example to provide a pedagogical method for how to learn from others without engaging in unethical copying.",
+      "pacer_reason_zh": "文章透過歷史案例提供了一種教學方法，指導讀者如何在不涉及不道德抄襲的情況下向他人學習。"
+    },
+    {
+      "id": "b7e45b85c59dfc3e",
+      "title": "Always Be Blaming",
+      "url": "https://matklad.github.io/2026/05/18/always-be-blaming.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-18T00:00:00.000Z",
+      "summary_en": "The article explores advanced techniques for code comprehension by viewing code as an evolving historical artifact rather than a static object. By applying 'theory of mind,' developers can look beyond the code's current state to understand the author's original intentions and the historical context of its evolution.",
+      "summary_zh": "本文探討了代碼理解的高級技巧，主張將代碼視為隨時間演進的歷史產物而非靜態物件。透過應用「心智理論」，開發者能超越代碼現狀，深入理解原作者的編寫意圖及其演變過程的脈絡。",
+      "keywords": [
+        "code comprehension",
+        "theory of mind",
+        "software engineering",
+        "refactoring",
+        "technical reading"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on conceptualizing the approach to code comprehension and the theoretical framework of understanding author intent.",
+      "pacer_reason_zh": "文章聚焦於代碼理解的概念化方法，以及理解作者意圖的理論框架。"
+    },
+    {
+      "id": "ace28ac54f782162",
+      "title": "Don't call yourself a Software Engineer, you are an AI Enabled Engineer. ",
+      "url": "https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-18T12:00:00.000Z",
+      "summary_en": "The author argues that software engineers must rebrand themselves as 'AI-Enabled Engineers' to stay relevant as the industry rapidly integrates AI tools. They contend that while other departments quickly adopt AI branding, software engineers risk being left behind by sticking to traditional, outdated titles.",
+      "summary_zh": "作者認為軟體工程師必須將自己重新定義為「AI 賦能工程師」，以在產業迅速整合人工智慧工具的趨勢中保持競爭力。文章指出，當其他部門紛紛採用 AI 相關職稱時，堅持傳統職稱的軟體工程師正面臨被時代淘汰的風險。",
+      "keywords": [
+        "Software Engineering",
+        "AI",
+        "Career Development",
+        "Tech Trends",
+        "Professional Branding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece reflecting on the evolving role of software engineers and the necessity of shifting professional identity in the age of AI.",
+      "pacer_reason_zh": "本文屬於概念性文章，探討軟體工程師角色的演變，並說明在 AI 時代調整職業認同的必要性。"
+    },
+    {
+      "id": "6a324559fa5c7d25",
+      "title": "How I Use My Index 01 + Production Update",
+      "url": "https://repebble.com/blog/how-i-use-my-index-01-production-update",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "published": "2026-05-18T00:00:00.000Z",
+      "summary_en": "Eric Migicovsky provides a production update on the Index 01, noting minor delays but continued progress. The post also explores his personal workflow with the device and discusses the underlying product design philosophy.",
+      "summary_zh": "Eric Migicovsky 針對 Index 01 發表了生產進度更新，說明項目雖略有延遲但仍在軌道上。此外，他分享了個人使用該設備的經驗，並深入探討了產品的設計理念。",
+      "keywords": [
+        "Index 01",
+        "product design",
+        "manufacturing",
+        "workflow",
+        "hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the design philosophy and personal use-case of a product rather than providing a tutorial or benchmark.",
+      "pacer_reason_zh": "本文重點在於闡述產品的設計理念與個人使用情境，而非提供教學指南或效能基準測試。"
+    },
+    {
+      "id": "7645ab8ebf923e8e",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-05-18T20:48:21.000Z",
+      "summary_en": "A CISA contractor inadvertently exposed highly privileged AWS GovCloud credentials and internal system configurations on a public GitHub repository. Security experts have labeled this one of the most severe government data leaks in recent history, revealing sensitive operational details.",
+      "summary_zh": "一名 CISA 承包商不慎將具備高度權限的 AWS GovCloud 憑證及內部系統配置洩露至公開的 GitHub 儲存庫中。安全專家指出，此次事件不僅揭露了敏感的內部作業流程，更被視為政府近期最嚴重的資料外洩事件之一。",
+      "keywords": [
+        "CISA",
+        "AWS GovCloud",
+        "GitHub",
+        "Data Leak",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific incident, acting as a case study or investigative evidence of a security failure.",
+      "pacer_reason_zh": "本文報導了一起特定的資安事件，作為安全疏失的案例研究或調查證據。"
+    },
+    {
+      "id": "a7f49c269fbfd310",
+      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+      "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-18T14:51:00.000Z",
+      "summary_en": "The author shares a collection of bird photography captured during a morning walk near the Los Angeles River. The post highlights local wildlife including gulls, pelicans, egrets, and geese observed while traveling for a conference.",
+      "summary_zh": "作者分享了在參加會議期間，於洛杉磯河畔散步時拍攝的一系列鳥類攝影作品。文中記錄了包括海鷗、鵜鶘、白鷺與加拿大雁在內的當地野生動物。",
+      "keywords": [
+        "birdwatching",
+        "photography",
+        "Los Angeles River",
+        "wildlife",
+        "travel"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a visual record or gallery of bird observations, acting primarily as reference material for the specific wildlife encountered.",
+      "pacer_reason_zh": "該文章主要作為觀察鳥類的影像記錄或圖庫，屬於特定觀察對象的參考資料。"
+    },
+    {
+      "id": "f8e4a9641d5cfcd4",
+      "title": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-18T00:00:00.000Z",
+      "summary_en": "This article explores how the 'just-say-no' engineering culture flourished during the era of Zero Interest Rate Policy (ZIRP). It examines how easy capital incentivized risk aversion and why that paradigm is shifting in the current economic climate.",
+      "summary_zh": "本文探討了「拒絕工程師」文化如何在零利率政策 (ZIRP) 時代蓬勃發展。文章分析了寬鬆資金如何促成避險心態，以及這種典範在當前經濟環境中面臨的轉變。",
+      "keywords": [
+        "ZIRP",
+        "engineering culture",
+        "economic history",
+        "software engineering",
+        "capital allocation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how macroeconomic conditions shape professional engineering culture.",
+      "pacer_reason_zh": "本文針對宏觀經濟條件如何塑造專業工程文化進行了概念性分析。"
+    },
     {
       "id": "afc14cc49cd35093",
       "title": "The Tomy Tutor and the state of 1983 home computers",
