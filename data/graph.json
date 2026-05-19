@@ -1,6 +1,133 @@
 {
   "nodes": [
     {
+      "id": "3c03a5c1d5148ebc",
+      "title": "Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "pacer": "C",
+      "keywords": [
+        "Wi-Wi",
+        "NICT",
+        "time synchronization",
+        "wireless protocol",
+        "STAMP"
+      ],
+      "published": "2026-05-19T14:00:00.000Z"
+    },
+    {
+      "id": "d649ab69009cbc4c",
+      "title": "Approximating Markov’s equation",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/19/zagiers-equation/",
+      "pacer": "C",
+      "keywords": [
+        "Markov numbers",
+        "mathematics",
+        "number theory",
+        "Don Zagier",
+        "arccosh"
+      ],
+      "published": "2026-05-19T12:09:54.000Z"
+    },
+    {
+      "id": "267f464dca7876c5",
+      "title": "Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/",
+      "pacer": "C",
+      "keywords": [
+        "Adrian Tchaikovsky",
+        "Book Review",
+        "Science Fiction",
+        "Novella",
+        "Loneliness"
+      ],
+      "published": "2026-05-19T11:34:17.000Z"
+    },
+    {
+      "id": "a56bfa532c95e16c",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "software maintenance",
+        "technical debt",
+        "project management",
+        "sustainability"
+      ],
+      "published": "2026-05-19T10:00:00.000Z"
+    },
+    {
+      "id": "2d355a1227b7c9a0",
+      "title": "\nAlternatives for the EDIT tool of LLM agents\n",
+      "source_url": "http://antirez.com/",
+      "url": "\nhttp://antirez.com/news/166\n",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "Agent",
+        "Token optimization",
+        "Coding assistant",
+        "Checksum"
+      ],
+      "published": "2026-05-19T07:26:03.000Z"
+    },
+    {
+      "id": "114ec11d91911c5c",
+      "title": "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/19/shes-dead-of-course/",
+      "pacer": "C",
+      "keywords": [
+        "age verification",
+        "technopolitics",
+        "internet regulation",
+        "public policy",
+        "digital rights"
+      ],
+      "published": "2026-05-19T07:17:09.000Z"
+    },
+    {
+      "id": "5ac9595927fac293",
+      "title": "The last six months in LLMs in five minutes",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "LLM",
+        "PyCon",
+        "Artificial Intelligence",
+        "Tech Trends",
+        "Simon Willison"
+      ],
+      "published": "2026-05-19T01:09:44.000Z"
+    },
+    {
+      "id": "a227a6df4f1be08c",
+      "title": "Pythagorean Addition",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/pythagorean-addition",
+      "pacer": "P",
+      "keywords": [
+        "Pythagorean theorem",
+        "mental math",
+        "approximation",
+        "algorithm",
+        "mathematics"
+      ],
+      "published": "2026-05-18T22:00:00.000Z"
+    },
+    {
       "id": "7645ab8ebf923e8e",
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "source": "Krebs on Security",
@@ -47,6 +174,22 @@
         "travel"
       ],
       "published": "2026-05-18T14:51:00.000Z"
+    },
+    {
+      "id": "5fcd4fe59331919b",
+      "title": "Just shows that nobody cares about debugging the parity flag any more",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334",
+      "pacer": "C",
+      "keywords": [
+        "debugging",
+        "parity flag",
+        "CPU architecture",
+        "The Old New Thing",
+        "legacy software"
+      ],
+      "published": "2026-05-18T14:00:00.000Z"
     },
     {
       "id": "ace28ac54f782162",
@@ -463,22 +606,6 @@
         "AI trends"
       ],
       "published": "2026-05-16T00:00:00.000Z"
-    },
-    {
-      "id": "5ae711b26a90b9e8",
-      "title": "inaturalist-clumper 0.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "inaturalist",
-        "python",
-        "clumper",
-        "data-processing",
-        "software-release"
-      ],
-      "published": "2026-05-15T23:53:11.000Z"
     },
     {
       "id": "72113f6d9207576d",
@@ -1104,22 +1231,6 @@
       "published": "2026-05-12T10:00:00.000Z"
     },
     {
-      "id": "73d7155c4a0bddf6",
-      "title": "Pluralistic: A fascist paradigm (12 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/12/donella-meadows/",
-      "pacer": "C",
-      "keywords": [
-        "systems thinking",
-        "politics",
-        "Donella Meadows",
-        "complexity",
-        "interconnectedness"
-      ],
-      "published": "2026-05-12T07:22:17.000Z"
-    },
-    {
       "id": "ab40e636fb62f6f3",
       "title": "Euler function",
       "source": "John D. Cook",
@@ -1216,38 +1327,6 @@
       "published": "2026-05-11T22:00:00.000Z"
     },
     {
-      "id": "03c0c1948038db4c",
-      "title": "Inverse shift",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/11/inverse-shift/",
-      "pacer": "C",
-      "keywords": [
-        "bit shifting",
-        "sequences",
-        "data loss",
-        "inverse operations",
-        "binary"
-      ],
-      "published": "2026-05-11T15:30:30.000Z"
-    },
-    {
-      "id": "bd10ae0b637480cf",
-      "title": "Additional notes on controlling which handles are inherited by Create­Process",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313",
-      "pacer": "P",
-      "keywords": [
-        "CreateProcess",
-        "Windows API",
-        "Handle Inheritance",
-        "Programming",
-        "Development"
-      ],
-      "published": "2026-05-11T14:00:00.000Z"
-    },
-    {
       "id": "c1849797b6c82dd5",
       "title": "We Are Not Going to Agree on AI ",
       "source": "iDiallo.com",
@@ -1278,22 +1357,6 @@
         "Command Line"
       ],
       "published": "2026-05-11T11:34:39.000Z"
-    },
-    {
-      "id": "7f049332a3d7b67a",
-      "title": "proxy",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/11/proxy.html",
-      "pacer": "P",
-      "keywords": [
-        "proxy",
-        "caching",
-        "package-manager",
-        "devops",
-        "go-lang"
-      ],
-      "published": "2026-05-11T10:00:00.000Z"
     },
     {
       "id": "52fe36e3b529b195",
@@ -1406,22 +1469,6 @@
         "Refactoring"
       ],
       "published": "2026-05-10T19:00:00.000Z"
-    },
-    {
-      "id": "63d089c0ab9a2c06",
-      "title": "[RSS Club] A Sneak Preview of Upcoming Posts",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/",
-      "pacer": "R",
-      "keywords": [
-        "RSS",
-        "blogging",
-        "content schedule",
-        "Editorial Calendar",
-        "preview"
-      ],
-      "published": "2026-05-10T11:34:38.000Z"
     },
     {
       "id": "187f3100e7d503ae",
@@ -2399,22 +2446,6 @@
       "published": "2026-04-24T16:00:00.000Z"
     },
     {
-      "id": "8d69f2c94c7d7006",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "pacer": "E",
-      "keywords": [
-        "10GbE",
-        "USB 3.2",
-        "RTL8159",
-        "networking",
-        "Thunderbolt"
-      ],
-      "published": "2026-04-24T14:00:00.000Z"
-    },
-    {
       "id": "d9b26639942b8116",
       "title": "A Plethora of Tweezers",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -2557,22 +2588,6 @@
         "Tyler Buchanan"
       ],
       "published": "2026-04-21T14:53:59.000Z"
-    },
-    {
-      "id": "262c132d89894335",
-      "title": "Spaced Repetition: Beginner Guide/FAQ",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq",
-      "pacer": "P",
-      "keywords": [
-        "spaced repetition",
-        "memory",
-        "learning",
-        "study techniques",
-        "productivity"
-      ],
-      "published": "2026-04-20T22:00:00.000Z"
     },
     {
       "id": "97c21652488d35cb",

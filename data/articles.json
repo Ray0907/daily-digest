@@ -1,6 +1,185 @@
 {
-  "last_updated": "2026-05-18T22:18:46.703Z",
+  "last_updated": "2026-05-19T22:24:32.681Z",
   "articles": [
+    {
+      "id": "a227a6df4f1be08c",
+      "title": "Pythagorean Addition",
+      "url": "https://entropicthoughts.com/pythagorean-addition",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-05-18T22:00:00.000Z",
+      "summary_en": "This article introduces the alpha-max plus beta-min algorithm as a mental shortcut for estimating the Pythagorean theorem. By using a simple linear approximation, users can quickly calculate the hypotenuse without needing to perform complex square root operations.",
+      "summary_zh": "本文介紹了「alpha-max plus beta-min」演算法，作為心算勾股定理的捷徑。透過簡單的線性估算，使用者無需進行複雜的平方根運算即可快速推算出斜邊長度。",
+      "keywords": [
+        "Pythagorean theorem",
+        "mental math",
+        "approximation",
+        "algorithm",
+        "mathematics"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific mental shortcut and mathematical formula for readers to follow as a practical guide.",
+      "pacer_reason_zh": "本文提供了一種具體的心算捷徑與數學公式，作為實用的操作指南供讀者參考。"
+    },
+    {
+      "id": "a56bfa532c95e16c",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-19T10:00:00.000Z",
+      "summary_en": "This article examines the common reasons why critical open-source projects become abandoned, including maintainer burnout, corporate restructuring, and academic neglect. It highlights how projects often persist in a state of 'ghost maintenance' without clear deprecation, posing significant risks for dependencies.",
+      "summary_zh": "本文探討了開源專案被遺棄的常見原因，包括維護者流失、企業調整以及學術界對維護研究軟體的忽視。文章強調了許多專案在缺乏維護的情況下仍維持活躍狀態，對依賴這些軟體的生態系統構成了顯著風險。",
+      "keywords": [
+        "open source",
+        "software maintenance",
+        "technical debt",
+        "project management",
+        "sustainability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the lifecycle and failure modes of open-source projects.",
+      "pacer_reason_zh": "文章針對開源專案的生命週期與失敗模式進行了概念性的分析與探討。"
+    },
+    {
+      "id": "d649ab69009cbc4c",
+      "title": "Approximating Markov’s equation",
+      "url": "https://www.johndcook.com/blog/2026/05/19/zagiers-equation/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-19T12:09:54.000Z",
+      "summary_en": "This post explores the mathematical derivation behind approximating Markov's equation, which involves integer solutions to x² + y² + z² = 3xyz. The author investigates Don Zagier’s transformation of this problem into the identity f(x) + f(y) = f(z) using the arccosh function.",
+      "summary_zh": "本文探討了馬可夫方程式 (Markov's equation) 的近似推導過程，該方程式涉及 x² + y² + z² = 3xyz 的整數解。作者分析了數學家 Don Zagier 如何透過 arccosh 函數，將此問題轉化為 f(x) + f(y) = f(z) 的恆等式。",
+      "keywords": [
+        "Markov numbers",
+        "mathematics",
+        "number theory",
+        "Don Zagier",
+        "arccosh"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the theoretical relationship and mathematical transformation behind Markov numbers.",
+      "pacer_reason_zh": "本文重點在於解釋馬可夫數背後的理論關係及其數學轉換過程。"
+    },
+    {
+      "id": "5fcd4fe59331919b",
+      "title": "Just shows that nobody cares about debugging the parity flag any more",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-18T14:00:00.000Z",
+      "summary_en": "This post highlights the ongoing neglect of the parity flag in modern software debugging. The author notes that this specific flag has been reported incorrectly since its inception, reflecting a broader lack of concern for legacy CPU features.",
+      "summary_zh": "這篇文章指出現代軟體除錯中，同位元旗標（parity flag）長期被忽略的問題。作者提到該旗標自設計以來就一直處於回報錯誤的狀態，反映出對舊有處理器功能關注度的下降。",
+      "keywords": [
+        "debugging",
+        "parity flag",
+        "CPU architecture",
+        "The Old New Thing",
+        "legacy software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It provides a conceptual observation about software development history and the status of specific technical legacy features.",
+      "pacer_reason_zh": "針對軟體開發歷史與特定技術遺留功能狀態的觀點性評論。"
+    },
+    {
+      "id": "267f464dca7876c5",
+      "title": "Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-19T11:34:17.000Z",
+      "summary_en": "This review explores Adrian Tchaikovsky's collection 'Terrible Worlds: Destinations', praising its three thematically linked novellas. The author notes that while the stories ostensibly focus on space and time travel, they are fundamentally explorations of human loneliness.",
+      "summary_zh": "這篇書評探討了 Adrian Tchaikovsky 的短篇小說集《Terrible Worlds: Destinations》，並讚揚了書中三篇主題連貫的故事。作者指出，儘管這些故事表面上圍繞著太空與時間旅行，但核心主題實際上是在探討人類的孤獨感。",
+      "keywords": [
+        "Adrian Tchaikovsky",
+        "Book Review",
+        "Science Fiction",
+        "Novella",
+        "Loneliness"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a thematic analysis and critique of a literary work.",
+      "pacer_reason_zh": "此內容提供了對文學作品的主題分析與評論。"
+    },
+    {
+      "id": "114ec11d91911c5c",
+      "title": "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
+      "url": "https://pluralistic.net/2026/05/19/shes-dead-of-course/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-19T07:17:09.000Z",
+      "summary_en": "The article critiques legislative attempts to mandate age verification online, arguing that such policies are fundamentally flawed and easily bypassed. It highlights the recurring pattern where politicians ignore expert warnings about unintended consequences, leading to increasingly invasive and ineffective regulatory measures.",
+      "summary_zh": "本文批評了強制進行線上年齡驗證的立法嘗試，認為這類政策在根本上存在缺陷且極易繞過。文中指出，政客們經常無視專家關於意想不到後果的警告，導致他們陷入必須採取更具侵入性且無效的監管措施的惡性循環。",
+      "keywords": [
+        "age verification",
+        "technopolitics",
+        "internet regulation",
+        "public policy",
+        "digital rights"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of why specific types of technology policy fail and the systemic patterns behind lawmaker decisions.",
+      "pacer_reason_zh": "本文針對特定科技政策為何失敗，以及決策背後的系統性模式提供了概念性的分析。"
+    },
+    {
+      "id": "2d355a1227b7c9a0",
+      "title": "\nAlternatives for the EDIT tool of LLM agents\n",
+      "url": "\nhttp://antirez.com/news/166\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-05-19T07:26:03.000Z",
+      "summary_en": "The author proposes a token-efficient approach for LLM agent file editing by replacing the traditional 'check-and-set' method of repeating entire blocks of text with a lightweight tag-based system. By assigning short, checksum-based tags to lines, agents can perform edits reliably without the high token cost or hallucination risks associated with verbatim text reproduction.",
+      "summary_zh": "作者針對大型語言模型（LLM）代理的檔案編輯提出了一種更節省 Token 的解決方案，透過為每一行代碼加上簡短的校驗標籤，取代以往必須重複輸出完整舊內容的編輯方式。這種設計既能維持操作的準確性，又能顯著減少 Token 消耗並降低模型出現幻覺的風險。",
+      "keywords": [
+        "LLM",
+        "Agent",
+        "Token optimization",
+        "Coding assistant",
+        "Checksum"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific technical method and implementation strategy for optimizing LLM tool usage.",
+      "pacer_reason_zh": "本文介紹了一種具體的技術方法與實作策略，旨在優化大型語言模型工具的使用方式。"
+    },
+    {
+      "id": "5ac9595927fac293",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T01:09:44.000Z",
+      "summary_en": "This post features annotated slides from a PyCon US 2026 lightning talk summarizing major LLM developments over the previous six months. It highlights the rapid pace of innovation and the significant industry inflection point that occurred in November 2025.",
+      "summary_zh": "這篇文章整理了作者在 PyCon US 2026 閃電演講中的簡報，重點摘要了過去六個月大型語言模型（LLM）的關鍵發展。文中特別回顧了 2025 年 11 月作為產業重要轉折點，以及模型領導地位的快速更迭。",
+      "keywords": [
+        "LLM",
+        "PyCon",
+        "Artificial Intelligence",
+        "Tech Trends",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a high-level summary and reference of industry developments, presented through annotated slides.",
+      "pacer_reason_zh": "該內容透過註解簡報的形式，作為產業發展的重點回顧與參考資料。"
+    },
+    {
+      "id": "3c03a5c1d5148ebc",
+      "title": "Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-19T14:00:00.000Z",
+      "summary_en": "Jeff Geerling highlights Wi-Wi STAMP, an emerging wireless synchronization protocol developed by NICT. The technology utilizes the 900 MHz band to achieve remarkable nanosecond-level time synchronization and centimeter-level distance accuracy.",
+      "summary_zh": "Jeff Geerling 介紹了由日本 NICT 開發的無線同步協議 Wi-Wi STAMP。該技術利用 900 MHz 頻段，實現了奈秒級的時間同步與公分級的距離定位精度。",
+      "keywords": [
+        "Wi-Wi",
+        "NICT",
+        "time synchronization",
+        "wireless protocol",
+        "STAMP"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new conceptual technology and its core capabilities rather than providing a tutorial or data-heavy experiment.",
+      "pacer_reason_zh": "文章旨在解釋一項新興的概念性技術及其核心能力，而非教學指南或數據密集的實驗報告。"
+    },
     {
       "id": "773fb46b066eb8a9",
       "title": "Weekly Update 504",

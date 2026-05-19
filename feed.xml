@@ -4,8 +4,95 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 18 May 2026 22:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:24:32 GMT</lastBuildDate>
     
+    <item>
+      <title>Pythagorean Addition</title>
+      <link>https://entropicthoughts.com/pythagorean-addition</link>
+      <guid>https://entropicthoughts.com/pythagorean-addition</guid>
+      <pubDate>Mon, 18 May 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article introduces the alpha-max plus beta-min algorithm as a mental shortcut for estimating the Pythagorean theorem. By using a simple linear approximation, users can quickly calculate the hypotenuse without needing to perform complex square root operations.</description>
+    </item>
+
+    <item>
+      <title>Dumb Ways for an Open Source Project to Die</title>
+      <link>https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</link>
+      <guid>https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</guid>
+      <pubDate>Tue, 19 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article examines the common reasons why critical open-source projects become abandoned, including maintainer burnout, corporate restructuring, and academic neglect. It highlights how projects often persist in a state of 'ghost maintenance' without clear deprecation, posing significant risks for dependencies.</description>
+    </item>
+
+    <item>
+      <title>Approximating Markov’s equation</title>
+      <link>https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</guid>
+      <pubDate>Tue, 19 May 2026 12:09:54 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the mathematical derivation behind approximating Markov's equation, which involves integer solutions to x² + y² + z² = 3xyz. The author investigates Don Zagier’s transformation of this problem into the identity f(x) + f(y) = f(z) using the arccosh function.</description>
+    </item>
+
+    <item>
+      <title>Just shows that nobody cares about debugging the parity flag any more</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</guid>
+      <pubDate>Mon, 18 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post highlights the ongoing neglect of the parity flag in modern software debugging. The author notes that this specific flag has been reported incorrectly since its inception, reflecting a broader lack of concern for legacy CPU features.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
+      <pubDate>Tue, 19 May 2026 11:34:17 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review explores Adrian Tchaikovsky's collection 'Terrible Worlds: Destinations', praising its three thematically linked novellas. The author notes that while the stories ostensibly focus on space and time travel, they are fundamentally explorations of human loneliness.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: There's no such thing as &quot;age verification&quot; (19 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/19/shes-dead-of-course/</link>
+      <guid>https://pluralistic.net/2026/05/19/shes-dead-of-course/</guid>
+      <pubDate>Tue, 19 May 2026 07:17:09 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>The article critiques legislative attempts to mandate age verification online, arguing that such policies are fundamentally flawed and easily bypassed. It highlights the recurring pattern where politicians ignore expert warnings about unintended consequences, leading to increasingly invasive and ineffective regulatory measures.</description>
+    </item>
+
+    <item>
+      <title>
+Alternatives for the EDIT tool of LLM agents
+</title>
+      <link>
+http://antirez.com/news/166
+</link>
+      <guid>
+http://antirez.com/news/166
+</guid>
+      <pubDate>Tue, 19 May 2026 07:26:03 GMT</pubDate>
+      <source url="http://antirez.com/"></source>
+      <description>The author proposes a token-efficient approach for LLM agent file editing by replacing the traditional 'check-and-set' method of repeating entire blocks of text with a lightweight tag-based system. By assigning short, checksum-based tags to lines, agents can perform edits reliably without the high token cost or hallucination risks associated with verbatim text reproduction.</description>
+    </item>
+
+    <item>
+      <title>The last six months in LLMs in five minutes</title>
+      <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 01:09:44 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post features annotated slides from a PyCon US 2026 lightning talk summarizing major LLM developments over the previous six months. It highlights the rapid pace of innovation and the significant industry inflection point that occurred in November 2025.</description>
+    </item>
+
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling highlights Wi-Wi STAMP, an emerging wireless synchronization protocol developed by NICT. The technology utilizes the 900 MHz band to achieve remarkable nanosecond-level time synchronization and centimeter-level distance accuracy.</description>
+    </item>
+
     <item>
       <title>Weekly Update 504</title>
       <link>https://www.troyhunt.com/weekly-update-504/</link>
@@ -829,87 +916,6 @@ http://antirez.com/news/165
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article explores the evolving landscape of interaction models for AI-driven systems. It examines how human-machine interaction is shifting from traditional command-based inputs to more intuitive, cognitive-aligned frameworks.</description>
-    </item>
-
-    <item>
-      <title>Welcoming the Costa Rican Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</link>
-      <guid>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</guid>
-      <pubDate>Mon, 11 May 2026 00:24:17 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>The Costa Rican government has joined the 'Have I Been Pwned' free service, becoming the 42nd nation to do so. Their CSIRT can now monitor government domains to identify and respond to data exposures more effectively.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 503</title>
-      <link>https://www.troyhunt.com/weekly-update-503/</link>
-      <guid>https://www.troyhunt.com/weekly-update-503/</guid>
-      <pubDate>Sun, 10 May 2026 23:52:52 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt reports on the ongoing Instructure data extortion case involving the ShinyHunters group. The company has opted to issue a vague statement rather than comment further as a deadline for their ransom demand approaches.</description>
-    </item>
-
-    <item>
-      <title>Out With the JS, In With the HTML</title>
-      <link>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</link>
-      <guid>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</guid>
-      <pubDate>Sun, 10 May 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author replaces a client-side JavaScript-based icon resizing widget with a simpler, navigation-based approach. By pre-rendering four distinct versions of the icon pages, the author eliminates redundant client-side logic and avoids potential synchronization errors between server and client templates.</description>
-    </item>
-
-    <item>
-      <title>The Problem of Pedagogy in Advanced Mathematics</title>
-      <link>https://susam.net/advanced-mathematics-pedagogy.html</link>
-      <guid>https://susam.net/advanced-mathematics-pedagogy.html</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://susam.net/">Susam Pal</source>
-      <description>This article discusses the persistent challenges in mathematical pedagogy, noting that poor instructional methods occur not just in schools but also at the graduate level. The author highlights how obscure textbook proofs often lack necessary intermediate steps, requiring significant effort from students and experts alike to achieve true clarity and understanding.</description>
-    </item>
-
-    <item>
-      <title>proxy</title>
-      <link>https://nesbitt.io/2026/05/11/proxy.html</link>
-      <guid>https://nesbitt.io/2026/05/11/proxy.html</guid>
-      <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author introduces 'proxy', a lightweight Go binary that acts as a universal local caching mirror for numerous package registries including npm, PyPI, and Cargo. By intercepting registry requests, it enables faster testing cycles and provides a simple, self-hosted alternative to heavy enterprise solutions like Artifactory.</description>
-    </item>
-
-    <item>
-      <title>Fear is information.</title>
-      <link>https://www.joanwestenberg.com/fear-is-information/</link>
-      <guid>https://www.joanwestenberg.com/fear-is-information/</guid>
-      <pubDate>Mon, 11 May 2026 03:52:45 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This article challenges the common view of fear as an enemy to be conquered, suggesting instead that it should be viewed as valuable information. It critiques the motivational industry's tendency to frame fear through a martial lens that encourages suppression or combat.</description>
-    </item>
-
-    <item>
-      <title>Inverse shift</title>
-      <link>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</guid>
-      <pubDate>Mon, 11 May 2026 15:30:30 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the technical nuances of sequence shifting, highlighting that shifting right and left are not perfectly inverse operations due to data loss. It explains how shifting a bit sequence results in the loss of information, making the operations asymmetric.</description>
-    </item>
-
-    <item>
-      <title>Probability that a random binary matrix is invertible</title>
-      <link>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</guid>
-      <pubDate>Mon, 11 May 2026 13:25:13 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the mathematical probability of a random n x n binary matrix being invertible. It introduces the problem and discusses different methodologies for calculating this likelihood.</description>
-    </item>
-
-    <item>
-      <title>Additional notes on controlling which handles are inherited by Create­Process</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</guid>
-      <pubDate>Mon, 11 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses methods for managing handle inheritance when using the CreateProcess function in Windows programming. It specifically highlights the technique of isolating handles within a private container to control access.</description>
     </item>
   </channel>
 </rss>
