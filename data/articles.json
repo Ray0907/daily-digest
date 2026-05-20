@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-05-19T22:24:32.681Z",
+  "last_updated": "2026-05-20T22:28:40.094Z",
   "articles": [
+    {
+      "id": "d9ea99e0710d8f6f",
+      "title": "The Fourth Era of Computing",
+      "url": "https://danieldelaney.net/fourth-era/",
+      "source": "Daniel De Laney",
+      "source_url": "https://danieldelaney.net/",
+      "published": "2026-05-19T00:00:00.000Z",
+      "summary_en": "The author argues that computing has entered a fourth era where raw, machine-readable interfaces like APIs and terminal commands are becoming easier to use than polished GUIs. As AI agents increasingly handle complex tasks, exposed system wiring is becoming more valuable than human-centered design for software.",
+      "summary_zh": "作者認為運算技術已進入第四個時代，此時原始的配置檔案、API 與終端指令變得比精緻的圖形使用者介面（GUI）更易於操作。隨著 AI 代理程式逐漸承擔複雜任務，暴露底層架構的軟體設計已比強調以人為本的設計更具優勢。",
+      "keywords": [
+        "computing",
+        "AI agents",
+        "GUI",
+        "user interface",
+        "software design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a theoretical shift in the paradigm of software design and human-computer interaction.",
+      "pacer_reason_zh": "本文提出了一種關於軟體設計與人機互動典範轉移的理論性觀點。"
+    },
+    {
+      "id": "8e521dbb1fa31b56",
+      "title": "What will better AI mean?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-20T07:00:00.000Z",
+      "summary_en": "The article argues that the era of massive AI scaling is reaching diminishing returns, shifting the focus toward efficiency and taste. It suggests that AI development has reached a plateau where human-level evaluation becomes difficult, and the real challenge lies in determining what goals to optimize for.",
+      "summary_zh": "本文認為大規模 AI 擴展的紅利期即將結束，發展重點將轉向效率與品味。作者指出 AI 能力已達到難以與人類區分的門檻，未來的核心挑戰在於定義優化目標而非單純的技術擴展。",
+      "keywords": [
+        "AI scaling",
+        "diminishing returns",
+        "artificial intelligence",
+        "S-curve",
+        "innovation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores theoretical concepts and predictions regarding the future trajectory of AI development and the definition of intelligence.",
+      "pacer_reason_zh": "本文探討了關於 AI 發展趨勢及智慧定義的理論性觀點與預測。"
+    },
+    {
+      "id": "afdc8571b630a033",
+      "title": "Assumptions weaken properties",
+      "url": "https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-05-20T15:13:16.000Z",
+      "summary_en": "This article explores the logical relationship between system specifications and assumptions, demonstrating that adding assumptions inherently weakens a property. Through formal logic, the author explains why fewer assumptions lead to a more robust system that is guaranteed to function in a wider range of cases.",
+      "summary_zh": "本文探討了系統規格與假設之間的邏輯關係，並證明了增加假設會削弱系統屬性的強度。作者透過形式邏輯解釋了為何減少假設能使系統更強健，並確保其在更多情況下皆能正常運作。",
+      "keywords": [
+        "logic",
+        "formal specification",
+        "software testing",
+        "system assumptions",
+        "properties"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical explanation of logical operators and their application to software specifications.",
+      "pacer_reason_zh": "文章針對邏輯運算子及其在軟體規格上的應用，提供了理論性的解釋與分析。"
+    },
+    {
+      "id": "b33403369b87d2f9",
+      "title": "Square root of x² − 1",
+      "url": "https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-20T00:49:50.000Z",
+      "summary_en": "This article explores the mathematical complexities of defining the square root of a complex variable expression, specifically √(z² − 1). It highlights that while the process seems straightforward for real numbers, it becomes significantly more subtle and nuanced when extended to the complex plane.",
+      "summary_zh": "本文探討了定義複變數表達式 √(z² − 1) 的數學複雜性。作者指出，雖然此運算對於實數而言直觀簡單，但當擴展到複數平面時，其定義與處理方式會變得更加微妙且具有挑戰性。",
+      "keywords": [
+        "mathematics",
+        "complex analysis",
+        "square root",
+        "algebra",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical and conceptual nuances behind defining a specific mathematical function in complex analysis.",
+      "pacer_reason_zh": "本文旨在解釋複變函數中定義特定數學運算背後的理論與概念細微差別。"
+    },
+    {
+      "id": "e669fb0212d47dd2",
+      "title": "Closer look at an identity",
+      "url": "https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-19T23:37:31.000Z",
+      "summary_en": "This article examines the mathematical constraints of a previously derived identity, specifically focusing on why the condition x > 1 and y > 1 is required. The author uses Mathematica to visualize the function, demonstrating that the identity holds only within these specified parameters.",
+      "summary_zh": "本文探討了先前推導出的數學恆等式，並特別分析為何必須滿足 x > 1 與 y > 1 的條件。作者透過 Mathematica 繪圖驗證，證實了該恆等式僅在這些指定的參數範圍內成立。",
+      "keywords": [
+        "mathematics",
+        "identity",
+        "Mathematica",
+        "visualization",
+        "analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a mathematical verification and visual evidence to support the constraints of a specific identity.",
+      "pacer_reason_zh": "本文透過數學驗證與視覺化圖表，為特定恆等式的限制條件提供了證據支持。"
+    },
+    {
+      "id": "4e52d5cd53592d65",
+      "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-19T14:00:00.000Z",
+      "summary_en": "This post explains the historical origin of the Windows error code ERROR_ARENA_TRASHED. It clarifies that the code refers to the corruption of storage control blocks within memory management systems.",
+      "summary_zh": "本文探討了 Windows 錯誤代碼 ERROR_ARENA_TRASHED 的歷史起源。文章說明該錯誤代碼是指記憶體管理系統中的儲存控制區塊遭到損毀。",
+      "keywords": [
+        "Windows",
+        "Error code",
+        "Memory management",
+        "ERROR_ARENA_TRASHED",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of a specific technical concept and its historical context.",
+      "pacer_reason_zh": "本文針對特定的技術概念及其歷史背景進行了解釋說明。"
+    },
+    {
+      "id": "0b95ba818f281583",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary_en": "This blog post offers a satirical commentary on software engineering frustrations by highlighting a programming language where specific, recurring bugs are considered unavoidable. The author uses irony to critique the normalization of poor technical design and the resulting developer burnout.",
+      "summary_zh": "這篇文章以諷刺手法探討軟體工程中的挫折感，點出某種程式語言中常見的錯誤被視為無可避免的現象。作者透過反諷的方式，批判這種將糟糕技術設計常態化的行為，以及隨之而來的開發者倦怠感。",
+      "keywords": [
+        "software engineering",
+        "satire",
+        "programming",
+        "developer experience",
+        "technical debt"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses satire and an analogy to bridge the gap between specific technical frustrations and the broader cultural issues in software development.",
+      "pacer_reason_zh": "文章運用諷刺與類比手法，將特定的技術挫折與軟體開發領域中更廣泛的文化問題連結起來。"
+    },
+    {
+      "id": "ef593f9034247d4f",
+      "title": "[RSS Club] Let's meet up AFK",
+      "url": "https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-20T11:34:04.000Z",
+      "summary_en": "The author is inviting RSS subscribers to meet up for drinks or food during his upcoming Interrail trip across Europe. He highlights his positive experience meeting locals on previous journeys and encourages readers to get in touch if they are available to host or guide him.",
+      "summary_zh": "作者邀請 RSS 訂閱者在他即將到來的歐洲鐵路旅行中相約會面，共進飲品或餐點。他分享了過往旅程中與當地人交流的美好經驗，並期待這次也能透過此方式結識當地讀者。",
+      "keywords": [
+        "RSS",
+        "Europe",
+        "Interrail",
+        "meetup",
+        "travel"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a personal announcement and call-to-action post regarding a travel event.",
+      "pacer_reason_zh": "這是一篇關於旅行聚會的個人公告與行動呼籲文章。"
+    },
+    {
+      "id": "1a725cefd7d55fbd",
+      "title": "How fast is 10 tokens per second really?",
+      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-20T17:57:45.000Z",
+      "summary_en": "This post highlights an interactive web tool created by Mike Veerman that visualizes different LLM token generation speeds. It helps users intuitively understand what specific token-per-second rates actually look like in practice.",
+      "summary_zh": "這篇文章介紹了由 Mike Veerman 開發的互動式網頁工具，旨在模擬大型語言模型（LLM）每秒生成 5 到 800 個 token 的速度。該工具能幫助使用者直觀地感受並理解不同 token 輸出速度的實際體驗。",
+      "keywords": [
+        "LLM",
+        "token speed",
+        "generative AI",
+        "visualization",
+        "Mike Veerman"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a functional tool and provides a practical way for users to experience and test LLM performance metrics.",
+      "pacer_reason_zh": "內容介紹了一款功能性工具，並提供了一種實用的方式讓使用者體驗與測試大型語言模型的效能指標。"
+    },
+    {
+      "id": "8f4070de49075516",
+      "title": "Google I/O, Gemini Spark, Antigravity",
+      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-20T15:32:17.000Z",
+      "summary_en": "Simon Willison discusses the recent Google I/O announcements, expressing skepticism toward tools that are not yet generally available. He highlights the new 'Gemini Spark' AI agent and questions the role of 'Antigravity,' a mysterious component integrated into the platform's infrastructure.",
+      "summary_zh": "Simon Willison 探討了 Google I/O 的最新發布，並對尚未全面開放的工具持保留態度。他重點介紹了全新 AI 代理 Gemini Spark，並針對其架構中神秘的「Antigravity」組件提出了疑問與觀察。",
+      "keywords": [
+        "Google I/O",
+        "Gemini Spark",
+        "Antigravity",
+        "AI Agents",
+        "Simon Willison"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual analysis and commentary on new AI product announcements and their underlying architecture.",
+      "pacer_reason_zh": "本文針對新的 AI 產品發布及其底層架構提供了概念性的分析與評論。"
+    },
+    {
+      "id": "710bfc310b2d02b1",
+      "title": "llm-gemini 0.32",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T23:46:27.000Z",
+      "summary_en": "Simon Willison has released version 0.32 of the llm-gemini plugin, which adds support for the new Gemini 3.5 Flash model. The update includes notes on the model's performance and an example of an image generated using the upgraded plugin.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 外掛程式的 0.32 版本，正式加入對 Gemini 3.5 Flash 模型的支援。更新內容包含對該模型效能的觀察，以及使用升級後外掛程式生成的圖像範例。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.5 Flash",
+        "Simon Willison",
+        "plugin",
+        "AI model"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a release announcement and reference for a software update to a specific tool.",
+      "pacer_reason_zh": "此貼文作為軟體工具更新的發布公告與參考資料。"
+    },
+    {
+      "id": "7bc402896a2afa7e",
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T22:40:25.000Z",
+      "summary_en": "Google has launched Gemini 3.5 Flash, integrating it across its consumer apps, enterprise platforms, and developer tools. The update includes a notable price increase and introduces new features like the Interactions API, though it lacks the 'computer use' capability found in other models.",
+      "summary_zh": "Google 正式推出 Gemini 3.5 Flash，並將其廣泛整合至消費級應用、企業平台及開發者工具中。此版本雖面臨價格上漲，但引入了新的 Interactions API 等功能，不過目前尚未支援電腦操作（computer use）功能。",
+      "keywords": [
+        "Gemini 3.5 Flash",
+        "Google",
+        "AI model",
+        "API",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference update, providing technical specifications and availability details for a newly released AI model.",
+      "pacer_reason_zh": "本文屬於參考資訊，提供新發布 AI 模型的功能規格與可用性摘要。"
+    },
+    {
+      "id": "313140e5e10e093c",
+      "title": "datasette-llm-accountant 0.1a4",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T20:45:43.000Z",
+      "summary_en": "Simon Willison released version 0.1a4 of the datasette-llm-accountant tool. This update specifically addresses a bug related to tracking response chains.",
+      "summary_zh": "Simon Willison 發布了 datasette-llm-accountant 工具的 0.1a4 版本。此次更新主要修復了一個與追蹤回應鏈相關的錯誤。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "software-release",
+        "bug-fix",
+        "open-source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a brief release note documenting a specific software version update and bug fix.",
+      "pacer_reason_zh": "這是一份簡短的發布說明，記錄了特定的軟體版本更新與錯誤修正。"
+    },
+    {
+      "id": "95a0d7e89bbfd052",
+      "title": "llm-gemini 0.32a0",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T20:36:23.000Z",
+      "summary_en": "Simon Willison has released version 0.32a0 of the llm-gemini plugin. This update introduces support for streaming reasoning tokens, requiring compatibility with the latest llm alpha version.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 外掛程式的 0.32a0 版本。此次更新增加了對串流推理標記（reasoning tokens）的支援，並需與最新的 llm alpha 版本相容。",
+      "keywords": [
+        "llm-gemini",
+        "Simon Willison",
+        "API",
+        "AI",
+        "streaming"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release note announcing a software update and its specifications.",
+      "pacer_reason_zh": "這是一則軟體更新及其規格說明，屬於發布公告性質。"
+    },
+    {
+      "id": "331d3de834946d05",
+      "title": "datasette-llm 0.1a8",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-19T20:28:16.000Z",
+      "summary_en": "Simon Willison has released datasette-llm version 0.1a8. This update specifically resolves a bug affecting the llm_prompt_context() hook, ensuring it correctly collects chains of responses.",
+      "summary_zh": "Simon Willison 發布了 datasette-llm 0.1a8 版本。此更新修復了 llm_prompt_context() 掛鉤的一個錯誤，確保該功能能夠正確收集回應鏈。",
+      "keywords": [
+        "datasette-llm",
+        "software release",
+        "bug fix",
+        "python",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This content serves as a release note and technical update record, functioning as reference material for software status.",
+      "pacer_reason_zh": "此內容作為軟體發布說明與技術更新紀錄，屬於軟體狀態的參考資料。"
+    },
+    {
+      "id": "ed66f94e92495f5d",
+      "title": "Prompts are technical debt too",
+      "url": "https://seangoedecke.com/prompts-are-technical-debt-too/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-05-20T00:00:00.000Z",
+      "summary_en": "This article explores the concept of 'prompt debt,' arguing that hard-coded AI prompts in software systems can become difficult to maintain and evolve. It highlights the hidden long-term costs of treating prompts as static assets rather than evolving technical components.",
+      "summary_zh": "本文探討了「提示詞債務」(prompt debt) 的概念，指出軟體系統中寫死的 AI 提示詞可能難以維護與演進。文章強調將提示詞視為靜態資產而非動態技術組件，會隱藏長期維護成本。",
+      "keywords": [
+        "AI",
+        "Prompt Engineering",
+        "Technical Debt",
+        "Software Maintenance",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical framework for understanding the lifecycle and maintenance challenges of prompts in software development.",
+      "pacer_reason_zh": "本文解釋了軟體開發中關於提示詞生命週期與維護挑戰的理論框架。"
+    },
     {
       "id": "a227a6df4f1be08c",
       "title": "Pythagorean Addition",

@@ -4,8 +4,152 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 19 May 2026 22:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:28:40 GMT</lastBuildDate>
     
+    <item>
+      <title>The Fourth Era of Computing</title>
+      <link>https://danieldelaney.net/fourth-era/</link>
+      <guid>https://danieldelaney.net/fourth-era/</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://danieldelaney.net/">Daniel De Laney</source>
+      <description>The author argues that computing has entered a fourth era where raw, machine-readable interfaces like APIs and terminal commands are becoming easier to use than polished GUIs. As AI agents increasingly handle complex tasks, exposed system wiring is becoming more valuable than human-centered design for software.</description>
+    </item>
+
+    <item>
+      <title>What will better AI mean?</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The article argues that the era of massive AI scaling is reaching diminishing returns, shifting the focus toward efficiency and taste. It suggests that AI development has reached a plateau where human-level evaluation becomes difficult, and the real challenge lies in determining what goals to optimize for.</description>
+    </item>
+
+    <item>
+      <title>Assumptions weaken properties</title>
+      <link>https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</guid>
+      <pubDate>Wed, 20 May 2026 15:13:16 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>This article explores the logical relationship between system specifications and assumptions, demonstrating that adding assumptions inherently weakens a property. Through formal logic, the author explains why fewer assumptions lead to a more robust system that is guaranteed to function in a wider range of cases.</description>
+    </item>
+
+    <item>
+      <title>Square root of x² − 1</title>
+      <link>https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</guid>
+      <pubDate>Wed, 20 May 2026 00:49:50 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the mathematical complexities of defining the square root of a complex variable expression, specifically √(z² − 1). It highlights that while the process seems straightforward for real numbers, it becomes significantly more subtle and nuanced when extended to the complex plane.</description>
+    </item>
+
+    <item>
+      <title>Closer look at an identity</title>
+      <link>https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/</guid>
+      <pubDate>Tue, 19 May 2026 23:37:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article examines the mathematical constraints of a previously derived identity, specifically focusing on why the condition x &gt; 1 and y &gt; 1 is required. The author uses Mathematica to visualize the function, demonstrating that the identity holds only within these specified parameters.</description>
+    </item>
+
+    <item>
+      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains the historical origin of the Windows error code ERROR_ARENA_TRASHED. It clarifies that the code refers to the corruption of storage control blocks within memory management systems.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This blog post offers a satirical commentary on software engineering frustrations by highlighting a programming language where specific, recurring bugs are considered unavoidable. The author uses irony to critique the normalization of poor technical design and the resulting developer burnout.</description>
+    </item>
+
+    <item>
+      <title>[RSS Club] Let's meet up AFK</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
+      <pubDate>Wed, 20 May 2026 11:34:04 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author is inviting RSS subscribers to meet up for drinks or food during his upcoming Interrail trip across Europe. He highlights his positive experience meeting locals on previous journeys and encourages readers to get in touch if they are available to host or guide him.</description>
+    </item>
+
+    <item>
+      <title>How fast is 10 tokens per second really?</title>
+      <link>https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 17:57:45 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights an interactive web tool created by Mike Veerman that visualizes different LLM token generation speeds. It helps users intuitively understand what specific token-per-second rates actually look like in practice.</description>
+    </item>
+
+    <item>
+      <title>Google I/O, Gemini Spark, Antigravity</title>
+      <link>https://simonwillison.net/2026/May/20/google-io/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/20/google-io/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 15:32:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison discusses the recent Google I/O announcements, expressing skepticism toward tools that are not yet generally available. He highlights the new 'Gemini Spark' AI agent and questions the role of 'Antigravity,' a mysterious component integrated into the platform's infrastructure.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.32</title>
+      <link>https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 23:46:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.32 of the llm-gemini plugin, which adds support for the new Gemini 3.5 Flash model. The update includes notes on the model's performance and an example of an image generated using the upgraded plugin.</description>
+    </item>
+
+    <item>
+      <title>Gemini 3.5 Flash: more expensive, but Google plan to use it for everything</title>
+      <link>https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 22:40:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Google has launched Gemini 3.5 Flash, integrating it across its consumer apps, enterprise platforms, and developer tools. The update includes a notable price increase and introduces new features like the Interactions API, though it lacks the 'computer use' capability found in other models.</description>
+    </item>
+
+    <item>
+      <title>datasette-llm-accountant 0.1a4</title>
+      <link>https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 20:45:43 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.1a4 of the datasette-llm-accountant tool. This update specifically addresses a bug related to tracking response chains.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.32a0</title>
+      <link>https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 20:36:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.32a0 of the llm-gemini plugin. This update introduces support for streaming reasoning tokens, requiring compatibility with the latest llm alpha version.</description>
+    </item>
+
+    <item>
+      <title>datasette-llm 0.1a8</title>
+      <link>https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 20:28:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released datasette-llm version 0.1a8. This update specifically resolves a bug affecting the llm_prompt_context() hook, ensuring it correctly collects chains of responses.</description>
+    </item>
+
+    <item>
+      <title>Prompts are technical debt too</title>
+      <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
+      <guid>https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the concept of 'prompt debt,' arguing that hard-coded AI prompts in software systems can become difficult to maintain and evolve. It highlights the hidden long-term costs of treating prompts as static assets rather than evolving technical components.</description>
+    </item>
+
     <item>
       <title>Pythagorean Addition</title>
       <link>https://entropicthoughts.com/pythagorean-addition</link>
@@ -772,150 +916,6 @@ http://antirez.com/news/165
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article explores the technical feasibility and thermodynamics of operating AI datacenters in space. It argues that the vacuum of space presents unique thermal management opportunities rather than the traditional cooling challenges faced on Earth.</description>
-    </item>
-
-    <item>
-      <title>Shame them, shun them, ban them, beat them!</title>
-      <link>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</link>
-      <guid>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</guid>
-      <pubDate>Tue, 12 May 2026 13:23:30 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This article explores the psychological and social dynamics of shame, ostracism, and punishment in modern society. It examines how these mechanisms influence human behavior and group cohesion through a historical and experimental lens.</description>
-    </item>
-
-    <item>
-      <title>Welcoming the Bangladesh Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</link>
-      <guid>https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</guid>
-      <pubDate>Mon, 11 May 2026 22:27:32 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>The Bangladesh government has joined the 'Have I Been Pwned' free government service, becoming the 43rd nation to participate. Their BGD e-GOV CIRT department can now utilize APIs to monitor and query government domains for potential data breaches.</description>
-    </item>
-
-    <item>
-      <title>Building Software Requires Digestion</title>
-      <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
-      <guid>https://blog.jim-nielsen.com/2026/software-requires-digestion/</guid>
-      <pubDate>Tue, 12 May 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author argues that modern chatbot interfaces, which prioritize rapid interaction, discourage the deep reflection necessary for effective software development. By drawing on the Japanese concept of 'Ma,' the post emphasizes that pausing and 'digesting' information are critical, active components of the creative problem-solving process.</description>
-    </item>
-
-    <item>
-      <title>Regatta Starting Stations – Chi-squared Continued</title>
-      <link>https://entropicthoughts.com/regatta-starting-stations</link>
-      <guid>https://entropicthoughts.com/regatta-starting-stations</guid>
-      <pubDate>Mon, 11 May 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article investigates a statistical anomaly in the Henley Royal Regatta, where the Berkshire starting station yields a significantly higher win rate than the Buckinghamshire one. The author uses historical data to challenge the assumption that both stations are identical and fair.</description>
-    </item>
-
-    <item>
-      <title>Not a Security Issue</title>
-      <link>https://nesbitt.io/2026/05/12/not-a-security-issue.html</link>
-      <guid>https://nesbitt.io/2026/05/12/not-a-security-issue.html</guid>
-      <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author demonstrates how providing AI scanners with a project's specific vulnerability disclosure policy allows them to automatically filter out non-security bugs. By context-loading curl's policy, the tools successfully classified issues like minor leaks and crashes as low-priority quality bugs rather than false-positive security alerts.</description>
-    </item>
-
-    <item>
-      <title>Position or Perish: The Narrative Blueprint</title>
-      <link>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</link>
-      <guid>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</guid>
-      <pubDate>Tue, 12 May 2026 10:15:17 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>This article explores how Avis transformed its market position by embracing its status as the number two car rental company. By leveraging a counterintuitive narrative, they turned their competitive disadvantage into a memorable and highly profitable brand identity.</description>
-    </item>
-
-    <item>
-      <title>Learning Software Architecture</title>
-      <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
-      <guid>https://matklad.github.io/2026/05/12/software-architecture.html</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The author argues that software architecture is best learned through practical experience rather than formal theory. He highlights that software design is deeply influenced by organizational social structures, often referred to as Conway's Law, rather than just technical coding skills.</description>
-    </item>
-
-    <item>
-      <title>Initialize and print 128-bit integers in C</title>
-      <link>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</guid>
-      <pubDate>Tue, 12 May 2026 12:20:20 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the nuances of initializing and printing 128-bit integers in the C programming language. It highlights the complexities of handling these non-standard types and provides guidance on the correct implementation techniques.</description>
-    </item>
-
-    <item>
-      <title>Hacking the lehmer64 RNG</title>
-      <link>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</guid>
-      <pubDate>Tue, 12 May 2026 11:07:31 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explains how to recover the internal state of the lehmer64 random number generator using a sequence of its outputs. It explores the vulnerability of this generator, noting that its simple implementation allows for efficient state reversal.</description>
-    </item>
-
-    <item>
-      <title>Euler function</title>
-      <link>https://www.johndcook.com/blog/2026/05/11/euler-function/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/11/euler-function/</guid>
-      <pubDate>Tue, 12 May 2026 00:49:41 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the probability that a random n×n matrix over a finite field with q elements is invertible. It explores how this probability converges as n increases, highlighting the connection to the Euler function.</description>
-    </item>
-
-    <item>
-      <title>I'm really frustrated that GitLab is doing layoffs</title>
-      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
-      <guid>https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The author expresses deep frustration and disappointment regarding the recent layoffs at GitLab. The piece reflects on how the company could have achieved success without resorting to these workforce reductions.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: A fascist paradigm (12 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/12/donella-meadows/</link>
-      <guid>https://pluralistic.net/2026/05/12/donella-meadows/</guid>
-      <pubDate>Tue, 12 May 2026 07:22:17 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article explores the application of systems thinking to political change, drawing on Donella Meadows' canonical work. It distinguishes between complicated mechanical systems and complex adaptive systems, arguing that understanding these interconnected relationships is essential for effective intervention.</description>
-    </item>
-
-    <item>
-      <title>Patch Tuesday, May 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
-      <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Major tech companies including Apple, Google, and Microsoft have released a record number of security patches this month. This surge highlights the increasing role of AI in both uncovering vulnerabilities in human-written code and potential future security risks.</description>
-    </item>
-
-    <item>
-      <title>Thoughts on GitLab's workforce reduction&quot; and &quot;structural and strategic decisions&quot;</title>
-      <link>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 23:58:55 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison analyzes GitLab's recent announcement regarding workforce reductions and organizational restructuring as they pivot toward an 'agentic' product strategy. The post highlights GitLab's shift to reduce its global country footprint, flatten management layers, and reorganize R&amp;D into smaller, autonomous units.</description>
-    </item>
-
-    <item>
-      <title>Bambu Lab is abusing the open source social contract</title>
-      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling expresses concerns over Bambu Lab's move toward restrictive, cloud-dependent printer management. He details the technical steps he took to regain control of his hardware, including firewall restrictions and switching to open-source software.</description>
-    </item>
-
-    <item>
-      <title>Thinking Machines and interaction models</title>
-      <link>https://seangoedecke.com/interaction-models/</link>
-      <guid>https://seangoedecke.com/interaction-models/</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the evolving landscape of interaction models for AI-driven systems. It examines how human-machine interaction is shifting from traditional command-based inputs to more intuitive, cognitive-aligned frameworks.</description>
     </item>
   </channel>
 </rss>
