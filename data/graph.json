@@ -1,36 +1,340 @@
 {
   "nodes": [
     {
-      "id": "1a725cefd7d55fbd",
-      "title": "How fast is 10 tokens per second really?",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-      "pacer": "P",
+      "id": "9c50addc3207c9b2",
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "pacer": "E",
       "keywords": [
-        "LLM",
-        "token speed",
-        "generative AI",
-        "visualization",
-        "Mike Veerman"
+        "Kimwolf",
+        "botnet",
+        "DDoS",
+        "cybercrime",
+        "KrebsOnSecurity"
       ],
-      "published": "2026-05-20T17:57:45.000Z"
+      "published": "2026-05-21T21:50:25.000Z"
     },
     {
-      "id": "8f4070de49075516",
-      "title": "Google I/O, Gemini Spark, Antigravity",
+      "id": "21dfab60592f4a2c",
+      "title": "Datasette Agent",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Datasette",
+        "LLM",
+        "SQLite",
+        "AI assistant",
+        "data visualization"
+      ],
+      "published": "2026-05-21T19:52:19.000Z"
+    },
+    {
+      "id": "40bf030dfca16e15",
+      "title": "Book Notes: “Poor Charlie’s Almanack”",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/",
       "pacer": "C",
       "keywords": [
-        "Google I/O",
-        "Gemini Spark",
-        "Antigravity",
-        "AI Agents",
-        "Simon Willison"
+        "Charlie Munger",
+        "Poor Charlie's Almanack",
+        "investing",
+        "pragmatism",
+        "problem solving"
       ],
-      "published": "2026-05-20T15:32:17.000Z"
+      "published": "2026-05-21T19:00:00.000Z"
+    },
+    {
+      "id": "7ea449e12be43061",
+      "title": "datasette-agent-sprites 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "plugin",
+        "fly",
+        "sandboxing",
+        "automation"
+      ],
+      "published": "2026-05-21T18:21:07.000Z"
+    },
+    {
+      "id": "f7644b0b55948c2a",
+      "title": "Couth and uncouth function pairs",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "functions",
+        "inversion",
+        "trigonometry",
+        "hyperbolic"
+      ],
+      "published": "2026-05-21T17:31:13.000Z"
+    },
+    {
+      "id": "cd4e21e50b6bc21d",
+      "title": "Circular and hyperbolic functions differ by rotations",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/",
+      "pacer": "C",
+      "keywords": [
+        "circular functions",
+        "hyperbolic functions",
+        "complex analysis",
+        "rotation",
+        "mathematics"
+      ],
+      "published": "2026-05-21T15:53:56.000Z"
+    },
+    {
+      "id": "16158c51b03e5272",
+      "title": "datasette-agent-charts 0.1a2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-agent-charts",
+        "SQL",
+        "data visualization",
+        "software release"
+      ],
+      "published": "2026-05-21T15:15:58.000Z"
+    },
+    {
+      "id": "efb2ba214b08463e",
+      "title": "datasette-agent 0.1a3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-agent",
+        "AI",
+        "SQL",
+        "software update"
+      ],
+      "published": "2026-05-21T15:04:09.000Z"
+    },
+    {
+      "id": "615176612b11d3f2",
+      "title": "The $500 Price Increase",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting",
+      "pacer": "E",
+      "keywords": [
+        "Plex",
+        "Self-hosting",
+        "Subscription",
+        "Pricing",
+        "SaaS"
+      ],
+      "published": "2026-05-21T15:03:44.000Z"
+    },
+    {
+      "id": "007df6d3f5293785",
+      "title": "Pluralistic: Shopping isn't politics (21 May 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/05/21/purity-culture/",
+      "pacer": "C",
+      "keywords": [
+        "voting with your wallet",
+        "market economics",
+        "democracy",
+        "Cory Doctorow",
+        "consumerism"
+      ],
+      "published": "2026-05-21T15:03:37.000Z"
+    },
+    {
+      "id": "268edc45f3f80afe",
+      "title": "The Rise of Build-to-Rent Housing",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing",
+      "pacer": "C",
+      "keywords": [
+        "Build-to-Rent",
+        "Housing Market",
+        "Real Estate",
+        "Single-family homes",
+        "Rental property"
+      ],
+      "published": "2026-05-21T12:03:24.000Z"
+    },
+    {
+      "id": "d51234e911959adf",
+      "title": "Whale Fall",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/05/whale-fall/",
+      "pacer": "C",
+      "keywords": [
+        "Whale Fall",
+        "Oceanography",
+        "Marine Biology",
+        "Nature",
+        "Ecosystem"
+      ],
+      "published": "2026-05-21T11:34:15.000Z"
+    },
+    {
+      "id": "700b2bdb87dc14a8",
+      "title": "Digitale autonomie: wat kunnen organisaties NU doen",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/",
+      "pacer": "C",
+      "keywords": [
+        "digitale autonomie",
+        "technologie",
+        "strategie",
+        "outsourcing",
+        "onafhankelijkheid"
+      ],
+      "published": "2026-05-21T11:30:00.000Z"
+    },
+    {
+      "id": "67edc07567bf0726",
+      "title": "RFC: Artificial Contributors to Open Source",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html",
+      "pacer": "R",
+      "keywords": [
+        "Open Source",
+        "Artificial Intelligence",
+        "RFC",
+        "Governance",
+        "Code Contribution"
+      ],
+      "published": "2026-05-21T10:00:00.000Z"
+    },
+    {
+      "id": "b92efabc3b9d7cb0",
+      "title": "Nobody is destined for greatness.",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/nobody-is-destined-for-greatness/",
+      "pacer": "A",
+      "keywords": [
+        "Demosthenes",
+        "greatness",
+        "persistency",
+        "self-improvement",
+        "failure"
+      ],
+      "published": "2026-05-21T01:31:20.000Z"
+    },
+    {
+      "id": "19ce13cb5f092f79",
+      "title": "\"No way to prevent this\" say users of only package manager where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/",
+      "pacer": "C",
+      "keywords": [
+        "package manager",
+        "satire",
+        "software engineering",
+        "tech frustration",
+        "Xe Iaso"
+      ],
+      "published": "2026-05-21T00:00:00.000Z"
+    },
+    {
+      "id": "713e7fe3da35d2ec",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/",
+      "pacer": "C",
+      "keywords": [
+        "programming languages",
+        "software engineering",
+        "language design",
+        "debugging",
+        "developer experience"
+      ],
+      "published": "2026-05-21T00:00:00.000Z"
+    },
+    {
+      "id": "8408a6633637f560",
+      "title": "The famous o3 \"GeoGuessr\" prompt did not work",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "GeoGuessr",
+        "Prompt Engineering",
+        "Large Language Models",
+        "Prompting"
+      ],
+      "published": "2026-05-21T00:00:00.000Z"
+    },
+    {
+      "id": "b301f5477712d130",
+      "title": "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "url": "https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/",
+      "pacer": "R",
+      "keywords": [
+        "Privacy",
+        "Cindy Cohn",
+        "EFF",
+        "Digital Surveillance",
+        "Book Review"
+      ],
+      "published": "2026-05-20T22:36:13.000Z"
+    },
+    {
+      "id": "bedb4be20cc8667c",
+      "title": "Quoting SpaceX S-1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "SpaceX",
+        "Anthropic",
+        "Grok",
+        "COLOSSUS",
+        "AI Infrastructure"
+      ],
+      "published": "2026-05-20T22:26:36.000Z"
+    },
+    {
+      "id": "c349bb2e0f49d580",
+      "title": "The stock market returns 4 %",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/stock-market-returns-4-percent",
+      "pacer": "C",
+      "keywords": [
+        "stock market",
+        "returns",
+        "CAGR",
+        "inflation",
+        "financial planning"
+      ],
+      "published": "2026-05-20T22:00:00.000Z"
     },
     {
       "id": "afdc8571b630a033",
@@ -47,6 +351,22 @@
         "properties"
       ],
       "published": "2026-05-20T15:13:16.000Z"
+    },
+    {
+      "id": "ce6343dad370b69d",
+      "title": "The classic TreeView control lets me sort by name or by lParam, but why not both?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343",
+      "pacer": "P",
+      "keywords": [
+        "TreeView",
+        "Windows API",
+        "Sorting",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "published": "2026-05-20T14:00:00.000Z"
     },
     {
       "id": "ef593f9034247d4f",
@@ -97,6 +417,22 @@
       "published": "2026-05-20T00:49:50.000Z"
     },
     {
+      "id": "adcaf690fdc36dbb",
+      "title": "Magic the Gathering format: Fun 40",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/mtg/fun//index.html",
+      "pacer": "P",
+      "keywords": [
+        "Magic the Gathering",
+        "Fun 40",
+        "Card games",
+        "TCG",
+        "Game design"
+      ],
+      "published": "2026-05-20T00:00:00.000Z"
+    },
+    {
       "id": "0b95ba818f281583",
       "title": "\"No way to prevent this\" say users of only language where this regularly happens",
       "source": "Xe Iaso's blog",
@@ -129,22 +465,6 @@
       "published": "2026-05-20T00:00:00.000Z"
     },
     {
-      "id": "710bfc310b2d02b1",
-      "title": "llm-gemini 0.32",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm-gemini",
-        "Gemini 3.5 Flash",
-        "Simon Willison",
-        "plugin",
-        "AI model"
-      ],
-      "published": "2026-05-19T23:46:27.000Z"
-    },
-    {
       "id": "e669fb0212d47dd2",
       "title": "Closer look at an identity",
       "source": "John D. Cook",
@@ -159,38 +479,6 @@
         "analysis"
       ],
       "published": "2026-05-19T23:37:31.000Z"
-    },
-    {
-      "id": "7bc402896a2afa7e",
-      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Gemini 3.5 Flash",
-        "Google",
-        "AI model",
-        "API",
-        "LLM"
-      ],
-      "published": "2026-05-19T22:40:25.000Z"
-    },
-    {
-      "id": "313140e5e10e093c",
-      "title": "datasette-llm-accountant 0.1a4",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "llm",
-        "software-release",
-        "bug-fix",
-        "open-source"
-      ],
-      "published": "2026-05-19T20:45:43.000Z"
     },
     {
       "id": "4e52d5cd53592d65",
@@ -800,22 +1088,6 @@
       "published": "2026-05-15T12:38:04.000Z"
     },
     {
-      "id": "7bde0d116a80857b",
-      "title": "Recovering the state of xorshift128",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/15/xorshift128-state/",
-      "pacer": "P",
-      "keywords": [
-        "xorshift128",
-        "reverse engineering",
-        "random number generator",
-        "cryptography",
-        "programming"
-      ],
-      "published": "2026-05-15T12:34:29.000Z"
-    },
-    {
       "id": "654f12fd17ed6192",
       "title": "Language Registries Are Unstable by Default",
       "source": "Andrew Nesbitt",
@@ -1103,54 +1375,6 @@
       "published": "2026-05-13T15:56:37.000Z"
     },
     {
-      "id": "3ec8ce334bc58f5a",
-      "title": "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/13/vibe-governance/",
-      "pacer": "C",
-      "keywords": [
-        "solipsism",
-        "technology",
-        "social media",
-        "power dynamics",
-        "humanity"
-      ],
-      "published": "2026-05-13T15:47:35.000Z"
-    },
-    {
-      "id": "cc595ed8dc73b3d8",
-      "title": "The case of the hang when the user changed keyboard layouts",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318",
-      "pacer": "E",
-      "keywords": [
-        "Windows",
-        "debugging",
-        "keyboard layout",
-        "input method",
-        "The Old New Thing"
-      ],
-      "published": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "id": "cfb50abcac629207",
-      "title": "Stupidly Simple SVG Sparklines",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/",
-      "pacer": "P",
-      "keywords": [
-        "SVG",
-        "sparklines",
-        "data visualization",
-        "polyline",
-        "web development"
-      ],
-      "published": "2026-05-13T11:34:01.000Z"
-    },
-    {
       "id": "b8fcb02881fcfe08",
       "title": "Showing Our Work",
       "source": "Andrew Nesbitt",
@@ -1211,22 +1435,6 @@
         "literacy",
         "reading habits",
         "corporate culture"
-      ],
-      "published": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "id": "69039d56fc162bf4",
-      "title": "AI datacenters in space do not have a cooling problem",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Datacenters",
-        "Space Technology",
-        "Thermal Management",
-        "Infrastructure"
       ],
       "published": "2026-05-13T00:00:00.000Z"
     },
@@ -1295,22 +1503,6 @@
       "published": "2026-05-12T13:23:30.000Z"
     },
     {
-      "id": "5280a1231d22a263",
-      "title": "Initialize and print 128-bit integers in C",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/",
-      "pacer": "P",
-      "keywords": [
-        "C programming",
-        "128-bit integer",
-        "data types",
-        "initialization",
-        "coding"
-      ],
-      "published": "2026-05-12T12:20:20.000Z"
-    },
-    {
       "id": "91e6d188a8e84b94",
       "title": "Position or Perish: The Narrative Blueprint",
       "source": "Westenberg.",
@@ -1325,22 +1517,6 @@
         "positioning"
       ],
       "published": "2026-05-12T10:15:17.000Z"
-    },
-    {
-      "id": "d3cced5f56daa883",
-      "title": "Not a Security Issue",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/12/not-a-security-issue.html",
-      "pacer": "E",
-      "keywords": [
-        "curl",
-        "AI security",
-        "vulnerability disclosure",
-        "triage",
-        "agentic scanners"
-      ],
-      "published": "2026-05-12T10:00:00.000Z"
     },
     {
       "id": "5680b313e57d86b8",
@@ -1807,22 +1983,6 @@
       "published": "2026-05-07T01:18:04.000Z"
     },
     {
-      "id": "5290c504d1f50709",
-      "title": "Maybe you shouldn't install new software for a bit",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "pacer": "C",
-      "keywords": [
-        "Linux",
-        "security",
-        "vulnerability",
-        "kernel",
-        "software updates"
-      ],
-      "published": "2026-05-07T00:00:00.000Z"
-    },
-    {
       "id": "ff3991334b393933",
       "title": "Article previews in RSS",
       "source": "Entropic Thoughts",
@@ -1869,22 +2029,6 @@
         "developer education"
       ],
       "published": "2026-05-06T17:03:46.000Z"
-    },
-    {
-      "id": "932be102436e00a0",
-      "title": "Emotional regulation is a dying art.",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/",
-      "pacer": "C",
-      "keywords": [
-        "emotional regulation",
-        "social behavior",
-        "mental health",
-        "communication",
-        "psychology"
-      ],
-      "published": "2026-05-06T00:21:50.000Z"
     },
     {
       "id": "cafc54395b674132",
@@ -2206,22 +2350,6 @@
       "published": "2026-04-30T14:04:26.000Z"
     },
     {
-      "id": "13e2babbaa2b2473",
-      "title": "How an Oil Refinery Works",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "pacer": "C",
-      "keywords": [
-        "oil refinery",
-        "petroleum",
-        "energy",
-        "industrial processes",
-        "global infrastructure"
-      ],
-      "published": "2026-04-30T12:03:35.000Z"
-    },
-    {
       "id": "16a055c63c1c722b",
       "title": "Thoughts on WebAssembly as a stack machine",
       "source": "Eli Bendersky's website",
@@ -2430,38 +2558,6 @@
       "published": "2026-04-28T00:00:00.000Z"
     },
     {
-      "id": "153815117020d326",
-      "title": "Understanding systems",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/understanding-systems",
-      "pacer": "C",
-      "keywords": [
-        "systems thinking",
-        "complexity",
-        "systems theory",
-        "problem solving",
-        "organizational structure"
-      ],
-      "published": "2026-04-27T22:00:00.000Z"
-    },
-    {
-      "id": "2e7f0c888d6d8f53",
-      "title": "Collective Speed Is Not the Summation of Individual Speed",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/",
-      "pacer": "A",
-      "keywords": [
-        "teamwork",
-        "productivity",
-        "software engineering",
-        "analogy",
-        "collaboration"
-      ],
-      "published": "2026-04-26T19:00:00.000Z"
-    },
-    {
       "id": "83a6d480d9071e85",
       "title": "How Bitwarden Encrypts and Decrypts Secrets",
       "source": "Miguel Grinberg's Blog",
@@ -2508,22 +2604,6 @@
         "Malware"
       ],
       "published": "2026-04-24T16:00:00.000Z"
-    },
-    {
-      "id": "d9b26639942b8116",
-      "title": "A Plethora of Tweezers",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history",
-      "pacer": "C",
-      "keywords": [
-        "tweezers",
-        "history",
-        "tools",
-        "Tedium",
-        "artifacts"
-      ],
-      "published": "2026-04-24T03:00:00.000Z"
     },
     {
       "id": "deaa867f105533d4",
@@ -2620,22 +2700,6 @@
         "Programming Semantics"
       ],
       "published": "2026-04-21T17:40:17.000Z"
-    },
-    {
-      "id": "ed95ee9218f7391a",
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "pacer": "E",
-      "keywords": [
-        "Scattered Spider",
-        "cybercrime",
-        "phishing",
-        "cryptocurrency",
-        "Tyler Buchanan"
-      ],
-      "published": "2026-04-21T14:53:59.000Z"
     },
     {
       "id": "97c21652488d35cb",
@@ -2941,22 +3005,6 @@
       "published": "2026-04-09T13:00:25.000Z"
     },
     {
-      "id": "2a3e2f8ebcf8ed37",
-      "title": "Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation NL",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/",
-      "pacer": "E",
-      "keywords": [
-        "Digital autonomy",
-        "Energy-intensive industry",
-        "Energy Innovation NL",
-        "Industrial technology",
-        "Bert Hubert"
-      ],
-      "published": "2026-04-09T04:30:00.000Z"
-    },
-    {
       "id": "f3a5ee319b6619ce",
       "title": "I quit drinking for a year",
       "source": "DYNOMIGHT",
@@ -3099,22 +3147,6 @@
         "non-fiction"
       ],
       "published": "2026-04-01T00:34:00.000Z"
-    },
-    {
-      "id": "d9689a894465346e",
-      "title": "Claude Code won April Fools Day this year",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/notes/2026/claude-code-wins-april-fools/",
-      "pacer": "C",
-      "keywords": [
-        "Claude Code",
-        "April Fools",
-        "Tamagotchi",
-        "Xe Iaso",
-        "prank"
-      ],
-      "published": "2026-04-01T00:00:00.000Z"
     },
     {
       "id": "2e7204b82561ff55",
