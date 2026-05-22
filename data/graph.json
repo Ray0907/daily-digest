@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "f53fc44ccc6c36f4",
+      "title": "StubZero: $148,337 RCE in Google Cloud Production",
+      "source": "Brutecat · Research",
+      "source_url": "https://brutecat.com",
+      "url": "https://brutecat.com/articles/google-cloud-rce",
+      "pacer": "E",
+      "keywords": [
+        "Google Cloud",
+        "RCE",
+        "Security Research",
+        "Bug Bounty",
+        "Vulnerability"
+      ],
+      "published": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "cc0169e12c236bc5",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "memory",
+        "ai",
+        "hbm",
+        "semiconductors",
+        "consumer electronics"
+      ],
+      "published": "2026-05-22T22:01:31.000Z"
+    },
+    {
+      "id": "fa225062bd316aa7",
+      "title": "How to Talk to Your Coworkers ",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed",
+      "pacer": "A",
+      "keywords": [
+        "communication",
+        "developers",
+        "collaboration",
+        "workplace",
+        "interpersonal"
+      ],
+      "published": "2026-05-22T19:00:00.000Z"
+    },
+    {
+      "id": "bcbce45b9a9590be",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "pacer": "C",
+      "keywords": [
+        "CISA",
+        "data breach",
+        "cybersecurity",
+        "Krebs on Security",
+        "congressional inquiry"
+      ],
+      "published": "2026-05-22T16:34:24.000Z"
+    },
+    {
+      "id": "a276e31fcf089704",
+      "title": "Planescape: Torment, Part 1: From the Tabletop…",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/",
+      "pacer": "C",
+      "keywords": [
+        "Planescape: Torment",
+        "Dungeons & Dragons",
+        "Infinity Engine",
+        "RPG",
+        "Gaming History"
+      ],
+      "published": "2026-05-22T16:27:41.000Z"
+    },
+    {
+      "id": "2dde774f5f41c4e2",
+      "title": "Reiner Pope – Chip design from the bottom up",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/reiner-pope-2",
+      "pacer": "C",
+      "keywords": [
+        "chip design",
+        "logic gates",
+        "GPUs",
+        "computer architecture",
+        "hardware"
+      ],
+      "published": "2026-05-22T15:38:34.000Z"
+    },
+    {
+      "id": "8c9c8572ff66e39e",
+      "title": "Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348",
+      "pacer": "C",
+      "keywords": [
+        "COM",
+        "STA",
+        "Thread",
+        "Message Pump",
+        "Windows Programming"
+      ],
+      "published": "2026-05-22T14:00:00.000Z"
+    },
+    {
+      "id": "523b24bba6442cb0",
+      "title": "Dependency Pruning",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/05/22/dependency-pruning.html",
+      "pacer": "C",
+      "keywords": [
+        "dependency",
+        "security",
+        "supply-chain",
+        "refactoring",
+        "maintenance"
+      ],
+      "published": "2026-05-22T10:00:00.000Z"
+    },
+    {
+      "id": "e3deeb668db40492",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "FTC",
+        "Cox Media Group",
+        "Active Listening",
+        "AI marketing",
+        "consumer privacy"
+      ],
+      "published": "2026-05-22T04:48:32.000Z"
+    },
+    {
       "id": "9c50addc3207c9b2",
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
       "source": "Krebs on Security",
@@ -113,22 +257,6 @@
       "published": "2026-05-21T15:15:58.000Z"
     },
     {
-      "id": "efb2ba214b08463e",
-      "title": "datasette-agent 0.1a3",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "datasette-agent",
-        "AI",
-        "SQL",
-        "software update"
-      ],
-      "published": "2026-05-21T15:04:09.000Z"
-    },
-    {
       "id": "615176612b11d3f2",
       "title": "The $500 Price Increase",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -159,6 +287,22 @@
         "consumerism"
       ],
       "published": "2026-05-21T15:03:37.000Z"
+    },
+    {
+      "id": "ab6c4f238711ce78",
+      "title": "How do I use Win32 structures from the Windows Runtime?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345",
+      "pacer": "C",
+      "keywords": [
+        "Win32",
+        "Windows Runtime",
+        "WinRT",
+        "programming",
+        "API"
+      ],
+      "published": "2026-05-21T14:00:00.000Z"
     },
     {
       "id": "268edc45f3f80afe",
@@ -241,6 +385,22 @@
       "published": "2026-05-21T01:31:20.000Z"
     },
     {
+      "id": "9330e690b35abdf8",
+      "title": "TIL: Symlinking NixOS Dotfiles",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html",
+      "pacer": "P",
+      "keywords": [
+        "NixOS",
+        "dotfiles",
+        "symlink",
+        "systemd-tmpfiles",
+        "configuration"
+      ],
+      "published": "2026-05-21T00:00:00.000Z"
+    },
+    {
       "id": "19ce13cb5f092f79",
       "title": "\"No way to prevent this\" say users of only package manager where this regularly happens",
       "source": "Xe Iaso's blog",
@@ -303,22 +463,6 @@
         "Book Review"
       ],
       "published": "2026-05-20T22:36:13.000Z"
-    },
-    {
-      "id": "bedb4be20cc8667c",
-      "title": "Quoting SpaceX S-1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "SpaceX",
-        "Anthropic",
-        "Grok",
-        "COLOSSUS",
-        "AI Infrastructure"
-      ],
-      "published": "2026-05-20T22:26:36.000Z"
     },
     {
       "id": "c349bb2e0f49d580",
@@ -1056,22 +1200,6 @@
       "published": "2026-05-15T16:04:58.000Z"
     },
     {
-      "id": "2ad2f76ae39b9900",
-      "title": "The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327",
-      "pacer": "P",
-      "keywords": [
-        "Windows API",
-        "CreateFileMapping",
-        "ERROR_ALREADY_EXISTS",
-        "debugging",
-        "programming"
-      ],
-      "published": "2026-05-15T14:00:00.000Z"
-    },
-    {
       "id": "28bcd02264f3196b",
       "title": "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -1165,22 +1293,6 @@
         "Bert Hubert"
       ],
       "published": "2026-05-14T14:17:12.000Z"
-    },
-    {
-      "id": "44c032526ff35d34",
-      "title": "A constant-space linear-time algorithm for deleting all but the 10 most recent files in a directory",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322",
-      "pacer": "P",
-      "keywords": [
-        "algorithm",
-        "file system",
-        "data structures",
-        "optimization",
-        "programming"
-      ],
-      "published": "2026-05-14T14:00:00.000Z"
     },
     {
       "id": "19438c3c29e66316",
@@ -1375,22 +1487,6 @@
       "published": "2026-05-13T15:56:37.000Z"
     },
     {
-      "id": "b8fcb02881fcfe08",
-      "title": "Showing Our Work",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/13/showing-our-work.html",
-      "pacer": "E",
-      "keywords": [
-        "open source",
-        "dependency graph",
-        "PyPI",
-        "software maintenance",
-        "funding models"
-      ],
-      "published": "2026-05-13T10:00:00.000Z"
-    },
-    {
       "id": "8d4bd872c2aee8ba",
       "title": "Ideal failures",
       "source": "Daniel De Laney",
@@ -1583,22 +1679,6 @@
       "published": "2026-05-11T22:00:00.000Z"
     },
     {
-      "id": "c1849797b6c82dd5",
-      "title": "We Are Not Going to Agree on AI ",
-      "source": "iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "technology",
-        "productivity",
-        "software development",
-        "innovation"
-      ],
-      "published": "2026-05-11T12:00:00.000Z"
-    },
-    {
       "id": "52fe36e3b529b195",
       "title": "Fear is information.",
       "source": "Westenberg.",
@@ -1773,22 +1853,6 @@
         "Book Review"
       ],
       "published": "2026-05-08T20:35:10.000Z"
-    },
-    {
-      "id": "3221a8a238ec6443",
-      "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/david-reich-2",
-      "pacer": "C",
-      "keywords": [
-        "David Reich",
-        "Human Evolution",
-        "Natural Selection",
-        "Bronze Age",
-        "Genetics"
-      ],
-      "published": "2026-05-08T16:38:22.000Z"
     },
     {
       "id": "2dfe08d135725745",
@@ -2222,22 +2286,6 @@
       "published": "2026-05-03T00:00:00.000Z"
     },
     {
-      "id": "a5d70471be5e3860",
-      "title": "Minimal Viable Zig Error Contexts",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/05/03/zig-error-context.html",
-      "pacer": "P",
-      "keywords": [
-        "Zig",
-        "Error Handling",
-        "errdefer",
-        "Programming",
-        "Code Quality"
-      ],
-      "published": "2026-05-03T00:00:00.000Z"
-    },
-    {
       "id": "8b083fd5283b6063",
       "title": "Scaling, stretching and shifting sinusoids",
       "source": "Eli Bendersky's website",
@@ -2332,22 +2380,6 @@
         "Offline Translation"
       ],
       "published": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "id": "c521ba313d3fccf1",
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "pacer": "E",
-      "keywords": [
-        "DDoS",
-        "botnet",
-        "cybersecurity",
-        "Krebs on Security",
-        "ISP"
-      ],
-      "published": "2026-04-30T14:04:26.000Z"
     },
     {
       "id": "16a055c63c1c722b",
@@ -3099,22 +3131,6 @@
         "assertiveness"
       ],
       "published": "2026-04-01T15:59:04.000Z"
-    },
-    {
-      "id": "cd42cca67929c8e4",
-      "title": "The Mystery of Rennes-le-Château, Part 3: A Secret History",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/",
-      "pacer": "C",
-      "keywords": [
-        "Rennes-le-Château",
-        "Gabriel Knight 3",
-        "Henry Lincoln",
-        "François-Bérenger Saunière",
-        "History"
-      ],
-      "published": "2026-04-01T07:05:28.000Z"
     },
     {
       "id": "93a2f2f8cb4579ee",

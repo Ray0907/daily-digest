@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-05-21T22:27:29.913Z",
+  "last_updated": "2026-05-22T22:19:08.485Z",
   "articles": [
+    {
+      "id": "f53fc44ccc6c36f4",
+      "title": "StubZero: $148,337 RCE in Google Cloud Production",
+      "url": "https://brutecat.com/articles/google-cloud-rce",
+      "source": "Brutecat · Research",
+      "source_url": "https://brutecat.com",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary_en": "This article details a security research journey that led to discovering a $148,337 Remote Code Execution (RCE) vulnerability in Google Cloud. It highlights how fragmented information and quick action during a submission window can uncover critical production flaws.",
+      "summary_zh": "本文介紹了一項安全研究發現，揭露了 Google Cloud 生產環境中價值 148,337 美元的遠端代碼執行（RCE）漏洞。內容強調了碎片化資訊與在時限內採取行動，對於發現關鍵系統漏洞的重要性。",
+      "keywords": [
+        "Google Cloud",
+        "RCE",
+        "Security Research",
+        "Bug Bounty",
+        "Vulnerability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as a real-world case study and empirical evidence of a critical vulnerability discovery process.",
+      "pacer_reason_zh": "本文作為一個真實世界的案例研究，提供了關於關鍵漏洞挖掘過程的實證紀錄。"
+    },
+    {
+      "id": "a276e31fcf089704",
+      "title": "Planescape: Torment, Part 1: From the Tabletop…",
+      "url": "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-05-22T16:27:41.000Z",
+      "summary_en": "This article explores the historical transition of Dungeons & Dragons from tabletop gaming to computer adaptations. It specifically sets the stage for the development of the iconic Infinity Engine games.",
+      "summary_zh": "本文探討了《龍與地下城》從桌上角色扮演遊戲過渡到電腦遊戲的歷史。同時也為開發經典的 Infinity Engine 遊戲系列奠定了背景敘述。",
+      "keywords": [
+        "Planescape: Torment",
+        "Dungeons & Dragons",
+        "Infinity Engine",
+        "RPG",
+        "Gaming History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides historical context and explains the conceptual background behind the evolution of classic RPG titles.",
+      "pacer_reason_zh": "本文提供了歷史背景，解釋了經典角色扮演遊戲演變背後的概念性緣由。"
+    },
+    {
+      "id": "2dde774f5f41c4e2",
+      "title": "Reiner Pope – Chip design from the bottom up",
+      "url": "https://www.dwarkesh.com/p/reiner-pope-2",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-05-22T15:38:34.000Z",
+      "summary_en": "Reiner Pope explains the fundamentals of chip design, tracing the evolution from basic logic gates to complex processing architectures. The discussion explores the structural design choices behind GPUs, TPUs, FPGAs, and the human brain.",
+      "summary_zh": "Reiner Pope 解釋了晶片設計的基本原理，追溯了從基礎邏輯閘到複雜處理器架構的演進過程。對談探討了 GPU、TPU、FPGA 以及人類大腦在架構設計上的選擇差異。",
+      "keywords": [
+        "chip design",
+        "logic gates",
+        "GPUs",
+        "computer architecture",
+        "hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the underlying theoretical frameworks and architectural reasoning behind different types of processors.",
+      "pacer_reason_zh": "內容重點在於解釋不同類型處理器背後的理論框架與架構邏輯。"
+    },
+    {
+      "id": "523b24bba6442cb0",
+      "title": "Dependency Pruning",
+      "url": "https://nesbitt.io/2026/05/22/dependency-pruning.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-22T10:00:00.000Z",
+      "summary_en": "The article advocates for regular dependency pruning as a crucial strategy for supply-chain security, arguing that unused dependencies represent unnecessary attack vectors. Instead of merely patching vulnerabilities, developers should prioritize removing unused packages to reduce risk and maintenance overhead.",
+      "summary_zh": "本文主張定期清理依賴項是強化軟體供應鏈安全的重要策略，並指出未使用的套件會帶來不必要的安全隱患。作者建議開發者在面對漏洞報告時，應優先考慮直接移除無用套件，而非僅僅進行修補，以降低風險與維護成本。",
+      "keywords": [
+        "dependency",
+        "security",
+        "supply-chain",
+        "refactoring",
+        "maintenance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual necessity of pruning dependencies for security rather than performance, focusing on the 'why' and strategic approach.",
+      "pacer_reason_zh": "本文闡述了基於安全而非效能考量進行依賴項清理的觀念，重點在於說明其必要性及策略思維。"
+    },
+    {
+      "id": "9330e690b35abdf8",
+      "title": "TIL: Symlinking NixOS Dotfiles",
+      "url": "https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-05-21T00:00:00.000Z",
+      "summary_en": "The author explores a method for declaratively managing symlinks on NixOS by leveraging systemd-tmpfiles. This approach allows users to manage dotfiles without relying on complex external tools like home-manager or manual scripting.",
+      "summary_zh": "作者探討了一種透過 systemd-tmpfiles 在 NixOS 上以宣告式方式管理符號連結的方法。這種方式讓使用者無需依賴 home-manager 或手動腳本，即可簡便地管理設定檔。",
+      "keywords": [
+        "NixOS",
+        "dotfiles",
+        "symlink",
+        "systemd-tmpfiles",
+        "configuration"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable solution and configuration example for a common technical task.",
+      "pacer_reason_zh": "文章針對常見技術問題提供了具體的解決方案與配置範例，屬於教學類內容。"
+    },
+    {
+      "id": "8c9c8572ff66e39e",
+      "title": "Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-22T14:00:00.000Z",
+      "summary_en": "This article clarifies the necessity of message pumping in COM STA threads. It explains that while message pumping is generally required when idle, threads may appear to function without it if they are constantly occupied.",
+      "summary_zh": "本文釐清了 COM STA 執行緒為何需要處理訊息迴圈的疑問。作者指出，雖然 STA 執行緒通常需要處理閒置訊息，但若執行緒始終處於忙碌狀態，則可能觀察不到顯式的訊息處理行為。",
+      "keywords": [
+        "COM",
+        "STA",
+        "Thread",
+        "Message Pump",
+        "Windows Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying theoretical requirement for message pumping in the COM STA model.",
+      "pacer_reason_zh": "本文解釋了 COM STA 模型中關於訊息處理的底層理論需求。"
+    },
+    {
+      "id": "ab6c4f238711ce78",
+      "title": "How do I use Win32 structures from the Windows Runtime?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-21T14:00:00.000Z",
+      "summary_en": "This post addresses the technical impossibility of directly using Win32 structures within the Windows Runtime. It suggests that while direct integration is unsupported, developers may be able to simulate or 'fake' the desired behavior.",
+      "summary_zh": "這篇文章探討了在 Windows Runtime 中直接使用 Win32 結構的技術限制。文中指出雖然無法直接整合，但開發者或許可以透過模擬的方式達到類似的效果。",
+      "keywords": [
+        "Win32",
+        "Windows Runtime",
+        "WinRT",
+        "programming",
+        "API"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation regarding the compatibility constraints between two Windows programming environments.",
+      "pacer_reason_zh": "該文章針對兩種 Windows 程式開發環境之間的相容性限制，提供了概念性的解釋。"
+    },
+    {
+      "id": "fa225062bd316aa7",
+      "title": "How to Talk to Your Coworkers ",
+      "url": "https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-22T19:00:00.000Z",
+      "summary_en": "This article explores the communication gap between technical developers, who rely on structured instructions, and non-technical colleagues, who prefer conversational context. It suggests that developers should embrace repetition as a tool rather than frustration, recognizing that different roles process information through different frameworks.",
+      "summary_zh": "本文探討了依賴結構化指令的開發人員與習慣口頭對話的非技術同事之間的溝通鴻溝。作者建議開發人員應將重複溝通視為一種工具，而非感到挫折，並理解不同職位處理資訊的方式存在差異。",
+      "keywords": [
+        "communication",
+        "developers",
+        "collaboration",
+        "workplace",
+        "interpersonal"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of 'two different languages' to explain the structural disconnect between technical and non-technical communication styles.",
+      "pacer_reason_zh": "文章運用「兩種不同語言」的類比，解釋了技術與非技術溝通風格之間的結構性隔閡。"
+    },
+    {
+      "id": "bcbce45b9a9590be",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-05-22T16:34:24.000Z",
+      "summary_en": "Congress is demanding accountability from CISA following a significant data breach where a contractor exposed sensitive AWS GovCloud keys and agency secrets on GitHub. The agency is currently working to mitigate the security risks and invalidate the compromised credentials.",
+      "summary_zh": "在 KrebsOnSecurity 報導 CISA 承包商將 AWS GovCloud 金鑰與機密資料公開於 GitHub 後，美國國會議員要求該機構給予交代。目前 CISA 仍在努力控制此次資料外洩事件，並嘗試註銷已遭洩露的憑證。",
+      "keywords": [
+        "CISA",
+        "data breach",
+        "cybersecurity",
+        "Krebs on Security",
+        "congressional inquiry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a current event and the conceptual implications of a security failure within a government agency.",
+      "pacer_reason_zh": "本文旨在說明當前發生的事件，並解釋政府機構資安缺失所帶來的概念性影響。"
+    },
+    {
+      "id": "cc0169e12c236bc5",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-22T22:01:31.000Z",
+      "summary_en": "The article explains how the surging demand for HBM memory in AI data centers is cannibalizing wafer capacity from consumer-grade RAM. This supply shift is forcing manufacturers to prioritize high-margin AI chips, leading to higher costs and the potential disappearance of budget-friendly consumer electronics.",
+      "summary_zh": "本文解釋了人工智慧資料中心對高頻寬記憶體（HBM）的巨大需求，正排擠消費級記憶體（RAM）的晶圓產能。由於製造商優先考量高利潤的 AI 晶片，這將導致消費性電子產品成本上升，平價手機市場恐將面臨萎縮。",
+      "keywords": [
+        "memory",
+        "ai",
+        "hbm",
+        "semiconductors",
+        "consumer electronics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of market dynamics and the economic causal relationship between AI growth and hardware pricing.",
+      "pacer_reason_zh": "本文提供了市場動態的概念性解釋，說明人工智慧發展與硬體定價之間的經濟因果關係。"
+    },
+    {
+      "id": "e3deeb668db40492",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-22T04:48:32.000Z",
+      "summary_en": "The FTC has settled charges against Cox Media Group and other firms for deceiving customers about an 'active listening' marketing service that claimed to use AI to target ads based on real-time voice data. The investigation confirmed that the companies were misleadingly marketing standard ad-targeting practices as voice-activated technology.",
+      "summary_zh": "美國聯邦貿易委員會（FTC）與 Cox Media Group 等公司達成和解，這些公司曾謊稱利用人工智慧進行「主動聆聽」來獲取語音數據並投放廣告。調查證實，這些行銷服務並未使用語音數據，僅是誇大其詞地包裝了現有的廣告投放技術。",
+      "keywords": [
+        "FTC",
+        "Cox Media Group",
+        "Active Listening",
+        "AI marketing",
+        "consumer privacy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides evidence from an official FTC investigation to debunk specific marketing claims about AI technology.",
+      "pacer_reason_zh": "文章引用美國聯邦貿易委員會的官方調查報告作為證據，藉此駁斥關於人工智慧技術的虛假行銷說法。"
+    },
     {
       "id": "700b2bdb87dc14a8",
       "title": "Digitale autonomie: wat kunnen organisaties NU doen",
