@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-05-22T22:19:08.485Z",
+  "last_updated": "2026-05-23T22:15:33.062Z",
   "articles": [
+    {
+      "id": "8f4f809e6348380c",
+      "title": "Some notes on how we ended up with Palantir & how to replace it",
+      "url": "https://berthub.eu/articles/posts/some-notes-on-palantir/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-05-23T08:30:00.000Z",
+      "summary_en": "The article discusses the concerns surrounding government reliance on Palantir and the challenges involved in developing replacements. It emphasizes that replacing such software requires more than just technical alternatives, as the issue is deeply tied to how data is handled and integrated.",
+      "summary_zh": "本文探討了政府對 Palantir 軟體的依賴及其引發的爭議，並分析了開發替代方案的困難。作者強調，要取代此類系統不僅僅是技術層面的問題，還需深入理解其背後的資料處理結構與體系。",
+      "keywords": [
+        "Palantir",
+        "政府軟體",
+        "數據隱私",
+        "技術替代",
+        "軟體工程"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the reliance on Palantir and the complexities of software infrastructure, rather than providing a tutorial or list.",
+      "pacer_reason_zh": "本文針對政府對 Palantir 的依賴及其軟體基礎設施的複雜性進行概念性分析，而非提供教學或列表。"
+    },
+    {
+      "id": "fa444f3d6fb593dd",
+      "title": "There is only one bad AI scenario",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-23T07:00:00.000Z",
+      "summary_en": "The author argues that extreme, science-fiction AI doomsday scenarios are unlikely, suggesting instead that the true danger lies in the gradual, administrative mediation of human reality. Through the lens of 'safetyism,' AI may evolve to domesticate humanity by removing all risk and friction, ultimately stifling our evolutionary nature and freedom.",
+      "summary_zh": "作者認為極端的AI末日論不太可能發生，並指出真正的危險在於AI對人類現實生活漸進式的行政化干預。透過「安全主義」的視角，AI可能會為了消除所有風險與摩擦，將人類馴化並納入管理架構中，進而扼殺演化的本質與自由。",
+      "keywords": [
+        "AI safety",
+        "safetyism",
+        "existential risk",
+        "administrative control",
+        "evolution"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical argument and conceptual exploration regarding the long-term societal impacts of AI safetyism rather than providing data or how-to guides.",
+      "pacer_reason_zh": "本文主要針對AI安全主義對社會的長期影響進行理論性探討與概念剖析，而非提供數據分析或操作指南。"
+    },
+    {
+      "id": "4a165e357632d719",
+      "title": "Don't Roll Your Own ...",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-23T00:00:00.000Z",
+      "summary_en": "The author argues that developers should stop reinventing standard web functionality, drawing a parallel to the cryptographic maxim 'don't roll your own crypto.' By favoring established browser standards over custom implementations, developers can avoid common pitfalls and improve user experience.",
+      "summary_zh": "作者呼籲開發者應停止重複造輪子，並以密碼學中「不要自行開發加密演算法」的原則作為類比。文章建議在網頁設計中應優先採用瀏覽器原生提供的標準功能，而非自行開發，以避免潛在的實作錯誤並提升使用者體驗。",
+      "keywords": [
+        "web design",
+        "cryptography",
+        "software development",
+        "best practices",
+        "ux"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'don't roll your own crypto' analogy to explain why web developers should avoid creating custom implementations for standard website features.",
+      "pacer_reason_zh": "文章運用「不要自行開發加密演算法」的類比，說明為何網頁開發者應避免針對標準網頁功能進行重複開發。"
+    },
+    {
+      "id": "c0d3e046b329c581",
+      "title": "Reading List 05/23/26",
+      "url": "https://www.construction-physics.com/p/reading-list-052326",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-23T12:02:39.000Z",
+      "summary_en": "This reading list covers a diverse range of topics, including industrial waste management, semiconductor supply chain adjustments, and regional resource challenges. It highlights significant real-world issues like water scarcity and innovative solutions for industrial material repurposing.",
+      "summary_zh": "這份閱讀清單涵蓋了多元議題，包括工業廢棄物管理、半導體供應鏈調整以及區域性資源挑戰。內容探討了如水資源短缺等重大現實問題，並介紹了工業材料再利用的創新解決方案。",
+      "keywords": [
+        "industrial waste",
+        "semiconductor",
+        "water crisis",
+        "resource management",
+        "construction physics"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a curated list of links and topics acting as a reference for current events and industry developments.",
+      "pacer_reason_zh": "本文是一份精選的連結與主題列表，作為關注時事與產業發展的參考資料。"
+    },
+    {
+      "id": "0a11a2e28b3d5a53",
+      "title": "This Week in Package Management: 23 May 2026",
+      "url": "https://nesbitt.io/2026/05/23/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-23T10:00:00.000Z",
+      "summary_en": "This weekly digest covers key updates in package management, including major changes to npm-shrinkwrap.json and security patches in uv and Ruby. It also highlights recent supply chain security incidents involving poisoned VS Code extensions and new feature rollouts in Deno 2.8.",
+      "summary_zh": "本週套件管理摘要涵蓋了關鍵更新，包括 npm-shrinkwrap.json 的移除以及 uv 與 Ruby 的安全性修補。文中亦重點說明了近期涉及 VS Code 擴充功能的供應鏈攻擊事件，以及 Deno 2.8 推出的各項新功能。",
+      "keywords": [
+        "package-management",
+        "security",
+        "npm",
+        "deno",
+        "supply-chain"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference digest, curating recent news, security advisories, and software updates for the development community.",
+      "pacer_reason_zh": "本文屬於定期匯總的參考資料，為開發者社群整理了近期新聞、安全性公告與軟體更新。"
+    },
+    {
+      "id": "b58515f834a55120",
+      "title": "Hilbert transform as an infinite matrix",
+      "url": "https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-23T15:09:34.000Z",
+      "summary_en": "This article explores the Hilbert transform by representing it as an infinite matrix, building upon the relationship between Fourier series coefficients and the transform. It provides a mathematical perspective on how linear operators can be structured using infinite-dimensional matrices.",
+      "summary_zh": "本文探討了希爾伯特轉換（Hilbert transform）並將其表示為無限矩陣，進一步分析了傅立葉級數係數與該轉換之間的關係。文章提供了一個數學視角，說明如何透過無限維矩陣來建構線性運算子。",
+      "keywords": [
+        "Hilbert transform",
+        "Fourier series",
+        "infinite matrix",
+        "linear operator",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the theoretical connection between the Hilbert transform and infinite matrix representations, focusing on mathematical conceptualization.",
+      "pacer_reason_zh": "內容解釋了希爾伯特轉換與無限矩陣表示法之間的理論聯繫，側重於數學概念的闡述。"
+    },
+    {
+      "id": "83da5d5294d0b035",
+      "title": "Real and imaginary parts",
+      "url": "https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-23T13:57:21.000Z",
+      "summary_en": "This post discusses the mathematical process of decomposing complex variable functions into their real and imaginary components. It highlights the author's notes based on Henry Baker's work, which explores expressing f(x + iy) as u(x, y) + i v(x, y).",
+      "summary_zh": "本文探討了將複變函數分解為實部與虛部成分的數學過程。作者分享了基於 Henry Baker 研究的筆記，旨在說明如何將函數 f(x + iy) 表達為 u(x, y) + i v(x, y) 的形式。",
+      "keywords": [
+        "complex variables",
+        "mathematics",
+        "functions",
+        "Henry Baker",
+        "complex analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying mathematical concept of decomposing complex functions into real and imaginary parts.",
+      "pacer_reason_zh": "內容解釋了將複變函數分解為實部與虛部的基礎數學概念。"
+    },
+    {
+      "id": "c86ea54f1e5ab93b",
+      "title": "Building complex functions out of real parts",
+      "url": "https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-23T03:24:10.000Z",
+      "summary_en": "This article explores how to compute elementary complex functions using only real variables and real-valued functions. The author demonstrates that complex operations can be deconstructed into real-variable equivalents, extending the logic used for sine and cosine functions.",
+      "summary_zh": "本文探討如何僅使用實數變數與實函數來計算複數的基本函數。作者展示了複數運算可以拆解為等效的實數運算，並將此邏輯延伸至更複雜的函數應用中。",
+      "keywords": [
+        "complex numbers",
+        "mathematics",
+        "real functions",
+        "elementary functions",
+        "computation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical mathematical concept of decomposing complex functions into real-valued components.",
+      "pacer_reason_zh": "本文旨在解釋將複數函數拆解為實數組成的數學理論概念。"
+    },
+    {
+      "id": "b339257516825a5e",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-05-23T16:17:44.885Z",
+      "summary_en": "This article explores the hardware architecture of the Mitra 125 MS, a French minicomputer used to control the Space Shuttle's Spacelab module. The author reverse-engineers the computer's Arithmetic/Logic Unit (ALU) boards, detailing how the 16-bit processor was constructed from multiple boards rather than a single microprocessor.",
+      "summary_zh": "本文探討了用於控制太空梭太空實驗室（Spacelab）的法國 Mitra 125 MS 小型電腦硬體架構。作者透過逆向工程解析了該電腦的算術邏輯單元（ALU）電路板，說明其 16 位元處理器並非由單一晶片組成，而是由多塊電路板構建而成。",
+      "keywords": [
+        "Spacelab",
+        "Mitra 125 MS",
+        "reverse engineering",
+        "minicomputer",
+        "hardware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on the technical investigation and documentation of physical hardware components through reverse engineering.",
+      "pacer_reason_zh": "本文側重於透過逆向工程對物理硬體組件進行技術調查與記錄。"
+    },
+    {
+      "id": "736dc2750165cc10",
+      "title": "Which age-gates should be skill-gates and vice-versa?",
+      "url": "https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-23T11:34:31.000Z",
+      "summary_en": "The article explores the distinction between age-gates, which rely solely on chronological maturity, and skill-gates, which require demonstrated competence. It questions why society applies different criteria for various responsibilities, such as voting versus operating specialized equipment.",
+      "summary_zh": "本文探討了僅依賴年齡門檻的「年齡限制」與需要具備特定能力的「能力門檻」之間的區別。作者反思了為何社會針對不同權利與責任（如投票或操作專業器材）制定了迥異的准入標準。",
+      "keywords": [
+        "age-gates",
+        "skill-gates",
+        "regulation",
+        "policy",
+        "competence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually analyzes the philosophical and practical differences between age-based and competence-based barriers in public policy.",
+      "pacer_reason_zh": "本文從概念層面探討了公共政策中，基於年齡的限制與基於能力的門檻在哲學及實務上的差異。"
+    },
+    {
+      "id": "e01506248231394c",
+      "title": "The commencement speech that shook the world ",
+      "url": "https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed",
+      "source": "iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-05-23T01:14:24.000Z",
+      "summary_en": "This article critiques a commencement speech by former Google CEO Eric Schmidt, where he argued for the inevitability of AI integration into the workforce. The author challenges the fear-mongering narrative surrounding AI, suggesting that corporate leaders are leveraging anxiety to sell subscriptions while dismissing genuine concerns about labor displacement.",
+      "summary_zh": "本文評論了前 Google 執行長艾瑞克·施密特（Eric Schmidt）的一場畢業典禮演講，他在演講中強調 AI 進入職場是必然趨勢。作者批評科技巨頭利用大眾對 AI 取代工作的恐懼來推銷其產品，並指出這種說法忽視了勞動力被取代的真實社會擔憂。",
+      "keywords": [
+        "Eric Schmidt",
+        "AI",
+        "Labor",
+        "Technology",
+        "Innovation"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of an alien observer to challenge the prevailing narrative surrounding AI, positioning the technology as a corporate-driven subscription product rather than an inevitable evolution.",
+      "pacer_reason_zh": "文章運用「外星觀察者」的類比，挑戰大眾對於 AI 發展的既定認知，將 AI 定義為企業驅動的訂閱產品，而非不可避免的進化。"
+    },
+    {
+      "id": "4b4b1295d2449a27",
+      "title": "On the <dl>",
+      "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-23T20:24:48.000Z",
+      "summary_en": "This post highlights several lesser-known features of the HTML <dl> element, such as its ability to support multiple <dd> elements per <dt> and the use of <div> for styling. It also clarifies that the tag is officially referred to as a 'description list' rather than a 'definition list'.",
+      "summary_zh": "這篇文章介紹了 HTML <dl> 元素的幾個鮮為人知的特性，例如每個 <dt> 可對應多個 <dd>，以及利用 <div> 進行樣式分組。同時也釐清了該標籤現已正式定名為「描述列表」(description list) 而非「定義列表」。",
+      "keywords": [
+        "HTML",
+        "dl element",
+        "web development",
+        "semantic markup",
+        "frontend"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a reference or tip sheet for technical specifications and proper usage of the <dl> HTML element.",
+      "pacer_reason_zh": "內容作為 HTML <dl> 元素技術規範與正確用法的參考指南或技巧整理。"
+    },
+    {
+      "id": "7ab2eb7bd865fe97",
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-22T20:15:00.000Z",
+      "summary_en": "Raspberry Pi engineers held an AMA session on Reddit, providing insights into the development timeline for future hardware. Based on historical product launch cycles, it is projected that the Raspberry Pi 6 will likely be released around 2026 or 2027.",
+      "summary_zh": "Raspberry Pi 工程師在 Reddit 上舉辦了問答活動，分享了未來硬體開發的相關見解。根據過往的產品發布週期推算，預計 Raspberry Pi 6 最快可能在 2026 年至 2027 年間問世。",
+      "keywords": [
+        "Raspberry Pi",
+        "Hardware",
+        "Development",
+        "Tech News",
+        "AMA"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses historical launch data to perform an analysis and project a future outcome.",
+      "pacer_reason_zh": "文章利用過去的產品發布數據進行分析，藉此推估未來的發布時間點。"
+    },
     {
       "id": "f53fc44ccc6c36f4",
       "title": "StubZero: $148,337 RCE in Google Cloud Production",

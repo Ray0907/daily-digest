@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 22 May 2026 22:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:15:33 GMT</lastBuildDate>
     
+    <item>
+      <title>Some notes on how we ended up with Palantir &amp; how to replace it</title>
+      <link>https://berthub.eu/articles/posts/some-notes-on-palantir/</link>
+      <guid>https://berthub.eu/articles/posts/some-notes-on-palantir/</guid>
+      <pubDate>Sat, 23 May 2026 08:30:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The article discusses the concerns surrounding government reliance on Palantir and the challenges involved in developing replacements. It emphasizes that replacing such software requires more than just technical alternatives, as the issue is deeply tied to how data is handled and integrated.</description>
+    </item>
+
+    <item>
+      <title>There is only one bad AI scenario</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</guid>
+      <pubDate>Sat, 23 May 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author argues that extreme, science-fiction AI doomsday scenarios are unlikely, suggesting instead that the true danger lies in the gradual, administrative mediation of human reality. Through the lens of 'safetyism,' AI may evolve to domesticate humanity by removing all risk and friction, ultimately stifling our evolutionary nature and freedom.</description>
+    </item>
+
+    <item>
+      <title>Don't Roll Your Own ...</title>
+      <link>https://susam.net/do-not-roll-your-own.html</link>
+      <guid>https://susam.net/do-not-roll-your-own.html</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://susam.net/">Susam Pal</source>
+      <description>The author argues that developers should stop reinventing standard web functionality, drawing a parallel to the cryptographic maxim 'don't roll your own crypto.' By favoring established browser standards over custom implementations, developers can avoid common pitfalls and improve user experience.</description>
+    </item>
+
+    <item>
+      <title>Reading List 05/23/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-052326</link>
+      <guid>https://www.construction-physics.com/p/reading-list-052326</guid>
+      <pubDate>Sat, 23 May 2026 12:02:39 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This reading list covers a diverse range of topics, including industrial waste management, semiconductor supply chain adjustments, and regional resource challenges. It highlights significant real-world issues like water scarcity and innovative solutions for industrial material repurposing.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 23 May 2026</title>
+      <link>https://nesbitt.io/2026/05/23/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/05/23/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 23 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This weekly digest covers key updates in package management, including major changes to npm-shrinkwrap.json and security patches in uv and Ruby. It also highlights recent supply chain security incidents involving poisoned VS Code extensions and new feature rollouts in Deno 2.8.</description>
+    </item>
+
+    <item>
+      <title>Hilbert transform as an infinite matrix</title>
+      <link>https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</guid>
+      <pubDate>Sat, 23 May 2026 15:09:34 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the Hilbert transform by representing it as an infinite matrix, building upon the relationship between Fourier series coefficients and the transform. It provides a mathematical perspective on how linear operators can be structured using infinite-dimensional matrices.</description>
+    </item>
+
+    <item>
+      <title>Real and imaginary parts</title>
+      <link>https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</guid>
+      <pubDate>Sat, 23 May 2026 13:57:21 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the mathematical process of decomposing complex variable functions into their real and imaginary components. It highlights the author's notes based on Henry Baker's work, which explores expressing f(x + iy) as u(x, y) + i v(x, y).</description>
+    </item>
+
+    <item>
+      <title>Building complex functions out of real parts</title>
+      <link>https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</guid>
+      <pubDate>Sat, 23 May 2026 03:24:10 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores how to compute elementary complex functions using only real variables and real-valued functions. The author demonstrates that complex operations can be deconstructed into real-variable equivalents, extending the logic used for sine and cosine functions.</description>
+    </item>
+
+    <item>
+      <title>Reverse engineering circuitry in a Spacelab computer from 1980</title>
+      <link>http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</link>
+      <guid>http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</guid>
+      <pubDate>Sat, 23 May 2026 16:17:44 GMT</pubDate>
+      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
+      <description>This article explores the hardware architecture of the Mitra 125 MS, a French minicomputer used to control the Space Shuttle's Spacelab module. The author reverse-engineers the computer's Arithmetic/Logic Unit (ALU) boards, detailing how the 16-bit processor was constructed from multiple boards rather than a single microprocessor.</description>
+    </item>
+
+    <item>
+      <title>Which age-gates should be skill-gates and vice-versa?</title>
+      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
+      <pubDate>Sat, 23 May 2026 11:34:31 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The article explores the distinction between age-gates, which rely solely on chronological maturity, and skill-gates, which require demonstrated competence. It questions why society applies different criteria for various responsibilities, such as voting versus operating specialized equipment.</description>
+    </item>
+
+    <item>
+      <title>The commencement speech that shook the world </title>
+      <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
+      <guid>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</guid>
+      <pubDate>Sat, 23 May 2026 01:14:24 GMT</pubDate>
+      <source url="https://idiallo.com/">iDiallo.com</source>
+      <description>This article critiques a commencement speech by former Google CEO Eric Schmidt, where he argued for the inevitability of AI integration into the workforce. The author challenges the fear-mongering narrative surrounding AI, suggesting that corporate leaders are leveraging anxiety to sell subscriptions while dismissing genuine concerns about labor displacement.</description>
+    </item>
+
+    <item>
+      <title>On the &lt;dl&gt;</title>
+      <link>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</guid>
+      <pubDate>Sat, 23 May 2026 20:24:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights several lesser-known features of the HTML &lt;dl&gt; element, such as its ability to support multiple &lt;dd&gt; elements per &lt;dt&gt; and the use of &lt;div&gt; for styling. It also clarifies that the tag is officially referred to as a 'description list' rather than a 'definition list'.</description>
+    </item>
+
+    <item>
+      <title>News about Raspberry Pi 6 and Microcontroller Development</title>
+      <link>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</guid>
+      <pubDate>Fri, 22 May 2026 20:15:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Raspberry Pi engineers held an AMA session on Reddit, providing insights into the development timeline for future hardware. Based on historical product launch cycles, it is projected that the Raspberry Pi 6 will likely be released around 2026 or 2027.</description>
+    </item>
+
     <item>
       <title>StubZero: $148,337 RCE in Google Cloud Production</title>
       <link>https://brutecat.com/articles/google-cloud-rce</link>
@@ -793,123 +910,6 @@ http://antirez.com/news/166
       <pubDate>Sat, 16 May 2026 16:45:37 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Julia Evans shares her journey of shifting from viewing CSS as a source of frustration to embracing it as a sophisticated technology. By taking CSS seriously and deepening her understanding, she discovered that many perceived difficulties were actually solutions to complex layout challenges.</description>
-    </item>
-
-    <item>
-      <title>inaturalist-clumper 0.1</title>
-      <link>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 23:53:11 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1 of inaturalist-clumper, a tool used to manage and publish iNaturalist sightings on his personal blog. The release follows several weeks of production testing and is designed to process and output observational data.</description>
-    </item>
-
-    <item>
-      <title>Western Gull, Rock Pigeon</title>
-      <link>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 14:42:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares photos of a Western Gull and a Rock Pigeon spotted during a morning bird walk in Los Angeles. The post offers a brief, personal look at local wildlife encounters near a conference event.</description>
-    </item>
-
-    <item>
-      <title>datasette-llm-limits 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 00:42:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released datasette-llm-limits 0.1a0, a new plugin for Datasette that enables spending limits for LLM usage. It integrates with existing tools to provide per-user or global cost control based on configurable time windows and amounts.</description>
-    </item>
-
-    <item>
-      <title>How I use LLMs as a staff engineer in 2026</title>
-      <link>https://seangoedecke.com/how-i-use-llms-in-2026/</link>
-      <guid>https://seangoedecke.com/how-i-use-llms-in-2026/</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the practical workflows and strategies a staff-level engineer employs when integrating Large Language Models into their daily technical tasks. It highlights the evolving role of AI tools in high-level software architecture, decision-making, and productivity.</description>
-    </item>
-
-    <item>
-      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
-      <link>https://seangoedecke.com/steering-vectors/</link>
-      <guid>https://seangoedecke.com/steering-vectors/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This post explores the implications of DeepSeek-V4-Flash, focusing on how its architecture revitalizes techniques for LLM steering. It discusses the shifting landscape of model control and output optimization in the current AI ecosystem.</description>
-    </item>
-
-    <item>
-      <title>Eric Jang – Building AlphaGo from scratch</title>
-      <link>https://www.dwarkesh.com/p/eric-jang</link>
-      <guid>https://www.dwarkesh.com/p/eric-jang</guid>
-      <pubDate>Fri, 15 May 2026 16:04:58 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>This article explores AlphaGo as a foundational model for understanding artificial intelligence. It highlights how the system effectively integrates search algorithms, experiential learning, and self-play mechanisms.</description>
-    </item>
-
-    <item>
-      <title>Language Registries Are Unstable by Default</title>
-      <link>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</link>
-      <guid>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</guid>
-      <pubDate>Fri, 15 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article highlights the inherent instability of language package registries like npm and pip, comparing them to Debian's 'unstable' branch. It argues that unlike traditional operating system package managers which offer stable release lanes, language ecosystems lack safety gates, exposing enterprise pipelines to unverified code updates.</description>
-    </item>
-
-    <item>
-      <title>Recovering the state of xorshift128</title>
-      <link>https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</guid>
-      <pubDate>Fri, 15 May 2026 12:34:29 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the technical process of reverse engineering the internal state of the xorshift128 random number generator. It follows the author's previous work on Mersenne Twister and lehmer64, providing a practical implementation and explanation of the recovery method.</description>
-    </item>
-
-    <item>
-      <title>The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327</guid>
-      <pubDate>Fri, 15 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a technical troubleshooting scenario where a CreateFileMapping call repeatedly returns an ERROR_ALREADY_EXISTS error. The author humorously points out that the error occurs simply because the resource already exists, highlighting the importance of verifying existing object handles.</description>
-    </item>
-
-    <item>
-      <title>UK Government Kicks Out Palantir</title>
-      <link>https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</guid>
-      <pubDate>Fri, 15 May 2026 05:34:03 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The article explains that the UK government provides transparent access to public contract awards through their official portal. It encourages readers to verify sensationalist claims about government deals by checking the actual documentation rather than relying on misinformation.</description>
-    </item>
-
-    <item>
-      <title>Search engine results are truly terrible</title>
-      <link>https://maurycyz.com/misc/search/</link>
-      <guid>https://maurycyz.com/misc/search/</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>The author evaluates the quality of modern search engines and AI tools by testing their performance against specific search queries. The results demonstrate that none of the tested platforms consistently provide high-quality information, often being misled by online spam and advertisements.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: No one wants a permanent gerontocracy (15 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/15/not-ok-boomer/</link>
-      <guid>https://pluralistic.net/2026/05/15/not-ok-boomer/</guid>
-      <pubDate>Fri, 15 May 2026 12:38:04 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow discusses widespread bipartisan support for implementing age and term limits across all branches of the US government. Citing polling data from G. Elliot Morris, the post highlights that a significant majority of Americans favor these structural changes regardless of their political affiliation.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Kickstarting &quot;The Reverse Centaur's Guide to Life After AI&quot; (14 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/14/who-it-does-it-for/</link>
-      <guid>https://pluralistic.net/2026/05/14/who-it-does-it-for/</guid>
-      <pubDate>Thu, 14 May 2026 11:04:43 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow announces a Kickstarter campaign for his new book, 'The Reverse Centaur's Guide to Life After AI,' which critically examines the political economy of the current AI bubble. The author argues that the AI boom is a product of market saturation and investor-driven 'pump-and-dump' schemes rather than genuine technological necessity.</description>
     </item>
   </channel>
 </rss>
