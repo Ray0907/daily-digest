@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-05-23T22:15:33.062Z",
+  "last_updated": "2026-05-24T22:17:02.918Z",
   "articles": [
+    {
+      "id": "d0613a10f4ebd11b",
+      "title": "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
+      "url": "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "published": "2026-05-24T14:20:22.000Z",
+      "summary_en": "This article examines whether implementing a minimal rsync version in the memory-safe Go language effectively prevents common security vulnerabilities. The author analyzes 12 rsync vulnerabilities from 2025 and 2026 to evaluate the security advantages of using Go and a reduced codebase compared to traditional C implementations.",
+      "summary_zh": "本文探討使用記憶體安全的 Go 語言重新實作精簡版 rsync，是否能有效預防常見的安全漏洞。作者透過分析 2025 年至 2026 年間的 12 個 rsync 漏洞，評估使用 Go 語言及精簡程式碼架構相較於傳統 C 語言實作所具備的安全優勢。",
+      "keywords": [
+        "rsync",
+        "Go",
+        "memory-safety",
+        "security",
+        "vulnerability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is an evidence-based investigation comparing the security performance of different rsync implementations against specific vulnerability datasets.",
+      "pacer_reason_zh": "本文是一項基於實證的調查，旨在比較不同 rsync 實作方式針對特定漏洞數據集的安全性表現。"
+    },
+    {
+      "id": "f05ecf0c27787cde",
+      "title": "Weekly Update 505",
+      "url": "https://www.troyhunt.com/weekly-update-505/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-05-24T01:34:54.000Z",
+      "summary_en": "Troy Hunt reports on the recent cybercriminal activities of ShinyHunters, specifically regarding their silence following a large ransom payment. The post provides an update on the timeframe and developments surrounding the Instructure data breach incident.",
+      "summary_zh": "Troy Hunt 報告了網路犯罪組織 ShinyHunters 在獲得巨額贖金後的近期動態，並觀察到該組織在 Instructure 資料外洩事件後的行動轉趨沈寂。本文提供了該事件的時間軸更新與最新發展觀察。",
+      "keywords": [
+        "ShinyHunters",
+        "Instructure",
+        "Cybersecurity",
+        "Data Breach",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual update and status report on a specific cybersecurity event and threat actor behavior.",
+      "pacer_reason_zh": "該內容針對特定的網路安全事件與威脅行為者提供了概念性的狀態更新與報告。"
+    },
+    {
+      "id": "e0aa44a9d7cc3e30",
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-05-24T07:00:00.000Z",
+      "summary_en": "The author argues that AI agents are fundamentally incapable of replacing human software engineers, describing them as sophisticated statistical models that mimic code rather than understanding it. Despite their usefulness for prototyping and information retrieval, the author contends that their output lacks the necessary polish and reliability for real-world production environments.",
+      "summary_zh": "作者認為 AI 代理無法取代軟體工程師，指出它們僅是模擬程式碼分配的統計模型，而非真正理解程式設計。儘管這些工具在原型製作和搜尋上表現出色，但其產出缺乏足夠的品質與穩定性，難以達到實際工程開發的標準。",
+      "keywords": [
+        "AI agents",
+        "software engineering",
+        "programming",
+        "statistical models",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the limitations of AI agents in software development and challenges the prevailing industry narrative.",
+      "pacer_reason_zh": "本文針對 AI 代理在軟體開發中的侷限性提出了概念性的觀點，並反思了當前業界的主流認知。"
+    },
+    {
+      "id": "7093553a66f364da",
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "published": "2026-05-24T00:00:00.000Z",
+      "summary_en": "The author reflects on their childhood introduction to computing in a 1992 school computer lab. By sharing personal anecdotes about using limited, disk-based IBM PCs and learning the Logo programming language, the piece highlights how resource constraints fostered deep engagement with technology.",
+      "summary_zh": "作者回顧了 1992 年在學校電腦教室初次接觸電腦的童年經歷。透過分享使用早期 IBM PC 與學習 Logo 程式語言的往事，文章呈現了在資源極度受限的環境下，如何培養出對技術的熱忱與深刻理解。",
+      "keywords": [
+        "Childhood",
+        "Computing",
+        "Logo",
+        "Education",
+        "Nostalgia"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a personal reflection and narrative-based exploration of early computing experiences rather than a tutorial or technical analysis.",
+      "pacer_reason_zh": "本文屬於個人回憶錄與敘事性文章，探討早期電腦體驗，而非教學指南或技術分析。"
+    },
+    {
+      "id": "400bf575c057f147",
+      "title": "Signing is for the bad days",
+      "url": "https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-24T10:00:00.000Z",
+      "summary_en": "The article explains why digital signatures and supply chain security tools like Sigstore and in-toto are essential, even when they provide no visible benefit during normal operations. It highlights how these tools protect against build server compromises and malicious software substitution, while profiling the contributions of Santiago Torres-Arias to these security frameworks.",
+      "summary_zh": "本文解釋了為何即使在日常運作中看不出明顯效益，數位簽章與如 Sigstore 和 in-toto 等供應鏈安全工具仍至關重要。文章強調了這些工具在建置伺服器遭駭或軟體遭惡意替換時的防禦作用，並介紹了 Santiago Torres-Arias 對這些安全框架的貢獻。",
+      "keywords": [
+        "supply chain security",
+        "Sigstore",
+        "in-toto",
+        "software integrity",
+        "cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why supply chain security tooling is necessary for edge-case incident prevention rather than daily utility.",
+      "pacer_reason_zh": "本文對供應鏈安全工具的必要性進行了概念性解釋，說明其價值在於預防極端案例的安全事件，而非僅止於日常用途。"
+    },
+    {
+      "id": "03c8c8565e858837",
+      "title": "Walking the dog with Claude",
+      "url": "http://xania.org/202605/walking-the-dog?utm_source=feed&utm_medium=rss",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "published": "2026-05-24T16:55:00.000Z",
+      "summary_en": "Matt Godbolt discusses the challenge of balancing technical accuracy with engaging presentation in content creation. By using an LLM to interview him, he explores the gap between subject matter experts and effective communicators, citing examples of creators who successfully bridge this divide.",
+      "summary_zh": "Matt Godbolt 探討了技術內容創作中，如何在準確性與吸引力之間取得平衡的挑戰。透過與 AI 進行訪談，他深入剖析了領域專家與優秀溝通者之間的落差，並分享了成功跨越此鴻溝的創作者案例。",
+      "keywords": [
+        "Technical Communication",
+        "Content Creation",
+        "LLM",
+        "Expertise",
+        "Matt Godbolt"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an interview format and reflective conversation to draw parallels between different styles of technical storytelling and communication.",
+      "pacer_reason_zh": "本文透過訪談形式與反思性對話，探討了不同技術敘事與溝通風格之間的異同與關聯。"
+    },
+    {
+      "id": "b88b0610b56ab9fb",
+      "title": "Building Pi With Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-05-24T00:00:00.000Z",
+      "summary_en": "The author reflects on using the AI tool 'Pi' to develop Pi itself, noting how it has shifted the nature of issue tracking. He warns that AI-generated issues often contain confident but inaccurate diagnostic information, creating extra work for maintainers when users submit content not written in their own voice.",
+      "summary_zh": "作者分享了使用 AI 工具「Pi」來開發 Pi 專案的經驗，並探討這對問題追蹤機制帶來的改變。他指出，AI 生成的問題報告往往充滿自信卻內容錯誤，當使用者提交非原創的 AI 生成報告時，反而會增加開發者的維護負擔。",
+      "keywords": [
+        "AI",
+        "Open Source",
+        "Issue Tracker",
+        "Software Development",
+        "Dogfooding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual reflection on how AI integration changes development workflows and the quality of contributor communication.",
+      "pacer_reason_zh": "本文屬於概念性反思，探討人工智慧整合如何改變軟體開發流程以及貢獻者溝通的品質。"
+    },
+    {
+      "id": "bab7b4bab5ccc8e9",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-24T18:46:53.000Z",
+      "summary_en": "Armin Ronacher criticizes the influx of low-quality GitHub issues generated by LLMs, which often contain inaccurate conclusions and unnecessary fluff. He advocates for a return to concise, human-centric reporting that focuses strictly on observed commands, expectations, actual results, and raw logs.",
+      "summary_zh": "Armin Ronacher 批評了現今 GitHub 上大量由 AI 生成的低品質問題回報，這些回報往往包含不準確的推論與過多冗餘資訊。他主張回歸簡潔、以人為本的回報方式，應專注於呈現實際操作指令、預期結果、實際錯誤以及原始日誌。",
+      "keywords": [
+        "LLM",
+        "GitHub Issues",
+        "Open Source",
+        "Software Maintenance",
+        "Prompting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, recommended workflow for developers to follow when submitting issue reports to improve quality.",
+      "pacer_reason_zh": "文章提供了一套具體的建議流程，供開發者在提交問題回報時遵循，以提升溝通品質。"
+    },
+    {
+      "id": "c7f9d6517ccf91d2",
+      "title": "Mad House — Usborne Creepy Computer Games",
+      "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-24T17:14:11.000Z",
+      "summary_en": "Simon Willison shares a retro project where he used AI to recreate 'Mad House,' a 1983 game from Usborne's classic computer books. By feeding the original book's PDF into Claude, he generated a playable, mobile-friendly JavaScript version of the text-based game.",
+      "summary_zh": "Simon Willison 分享了一個懷舊項目，利用 AI 重現了 1983 年 Usborne 電腦書籍中的經典遊戲《Mad House》。透過將書籍 PDF 輸入 Claude，他成功製作出一個可在現代網頁上執行的 JavaScript 版本。",
+      "keywords": [
+        "Usborne",
+        "retro gaming",
+        "coding",
+        "Claude",
+        "computer history"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates a practical workflow for using AI tools to recreate and modernize legacy software code.",
+      "pacer_reason_zh": "文章展示了利用 AI 工具重現與現代化舊軟體代碼的實作流程。"
+    },
     {
       "id": "8f4f809e6348380c",
       "title": "Some notes on how we ended up with Palantir & how to replace it",
