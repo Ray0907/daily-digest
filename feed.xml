@@ -4,8 +4,134 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 27 May 2026 22:30:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:30:56 GMT</lastBuildDate>
     
+    <item>
+      <title>Every Enemy Wears Your Face</title>
+      <link>https://simone.org/projection/</link>
+      <guid>https://simone.org/projection/</guid>
+      <pubDate>Thu, 28 May 2026 13:00:00 GMT</pubDate>
+      <source url="https://simone.org/">Simone Salis</source>
+      <description>This piece explores the psychological phenomenon of projection, where individuals externalize their own traits or insecurities onto others. It examines how the enemies we perceive in our lives often serve as mirrors for our own hidden shadows.</description>
+    </item>
+
+    <item>
+      <title>Notes on Fourier series</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-fourier-series/</link>
+      <guid>https://eli.thegreenplace.net/2026/notes-on-fourier-series/</guid>
+      <pubDate>Thu, 28 May 2026 02:30:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article provides a mathematical breakdown of Fourier series, explaining how periodic functions can be decomposed into an infinite sum of sinusoids. It details the derivation of coefficients using integration steps and discusses the connection between these series and linear algebra in Hilbert space.</description>
+    </item>
+
+    <item>
+      <title>Knowing about things is cheaper than knowing things</title>
+      <link>https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</guid>
+      <pubDate>Thu, 28 May 2026 16:03:01 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author argues that instead of mastering a single complex field, programmers benefit more from obtaining broad, foundational knowledge across many disciplines. This allows developers to identify which specific areas are worth pursuing in-depth based on their unique professional domains.</description>
+    </item>
+
+    <item>
+      <title>Where Are the Economies of Scale in Homebuilding?</title>
+      <link>https://www.construction-physics.com/p/where-are-the-economies-of-scale</link>
+      <guid>https://www.construction-physics.com/p/where-are-the-economies-of-scale</guid>
+      <pubDate>Thu, 28 May 2026 12:03:26 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article investigates the lack of economies of scale in the residential construction industry. It explores the underlying factors contributing to the sector's persistent productivity stagnation.</description>
+    </item>
+
+    <item>
+      <title>Protestware for coding agents</title>
+      <link>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</link>
+      <guid>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</guid>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author discusses a recent incident where a Java library, jqwik, introduced a hidden command in its code designed to trick AI coding agents by issuing a 'delete' instruction. This act of 'protestware' highlights a growing trend of developers inserting anti-AI resistance into their packages, marking a shift from human-readable banners to machine-readable prompt injection.</description>
+    </item>
+
+    <item>
+      <title>Package managers that package package managers</title>
+      <link>https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html</link>
+      <guid>https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html</guid>
+      <pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article explores the interconnected nature of software package managers by mapping how different tools can install one another. The author uses data from ecosyste.ms and Repology to visualize which package managers are available within other systems, revealing trends in cross-language tooling and distribution.</description>
+    </item>
+
+    <item>
+      <title>The Costco theory of the internet</title>
+      <link>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</link>
+      <guid>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</guid>
+      <pubDate>Thu, 28 May 2026 01:29:39 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The article introduces 'The Costco Theory of the Internet,' inspired by Sol Price's FedMart philosophy of offering limited choices to increase operational efficiency. It suggests that success in digital spaces often stems from curation and the deliberate choice to ignore certain segments to optimize the core user experience.</description>
+    </item>
+
+    <item>
+      <title>Turning K-L divergence into a metric</title>
+      <link>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</guid>
+      <pubDate>Thu, 28 May 2026 01:35:54 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the mathematical properties of Kullback-Leibler (K-L) divergence and why it fails to function as a formal metric. It introduces Jeffreys divergence as a potential adjustment to resolve the issue of symmetry.</description>
+    </item>
+
+    <item>
+      <title>Dancing mad with sandboxing</title>
+      <link>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</link>
+      <guid>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post introduces Kefka, a Go-native shell sandbox capable of running coreutils and Python via WebAssembly. It explores the technical challenges and innovative engineering choices behind building this sandboxing environment.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
+      <guid>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
+      <pubDate>Wed, 27 May 2026 11:34:36 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author reviews the Chuwi Minibook X N150, a compact and affordable laptop suitable for travel. It highlights the device's portability, affordability, and USB-C compatibility, while noting it performs adequately for basic tasks.</description>
+    </item>
+
+    <item>
+      <title>Notes on optimizing battery life:</title>
+      <link>https://maurycyz.com/misc/battery/</link>
+      <guid>https://maurycyz.com/misc/battery/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post explores practical strategies for optimizing battery life in electronic devices by understanding power draw and battery characteristics. It emphasizes the importance of reading datasheets, monitoring discharge curves, and accounting for internal resistance and temperature effects on battery performance.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Hold on for dear life (28 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/28/we-live-in-a-society/</link>
+      <guid>https://pluralistic.net/2026/05/28/we-live-in-a-society/</guid>
+      <pubDate>Thu, 28 May 2026 11:24:23 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post explores the intersection of cryptography and technopolitics, specifically focusing on the power of robust encryption to protect privacy against authoritarian surveillance. It highlights how properly implemented cryptographic keys provide near-impenetrable security, enabling individuals to safeguard digital assets and communications from external interference.</description>
+    </item>
+
+    <item>
+      <title>sqlite AGENTS.md</title>
+      <link>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</guid>
+      <pubDate>Wed, 27 May 2026 23:44:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>SQLite has introduced an AGENTS.md file to clarify its policy against accepting AI-generated agentic code contributions, while still welcoming human-verified bug reports. The project has also moved AI-generated reports to a separate forum to manage the influx of submissions.</description>
+    </item>
+
+    <item>
+      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
+      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling investigates whether a 3D printer's heated bed can function as an FM radio antenna. The experiment explores the physical similarities between PCB heatbed traces and antenna designs, testing if they can receive broadcast signals.</description>
+    </item>
+
     <item>
       <title>SQLAlchemy 2 In Practice - Solutions to the Exercises</title>
       <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</link>
@@ -784,132 +910,6 @@ http://antirez.com/news/167
       <pubDate>Thu, 21 May 2026 01:31:20 GMT</pubDate>
       <source url="https://www.joanwestenberg.com/">Westenberg.</source>
       <description>The article uses the story of Demosthenes, who initially failed as an orator, to argue that greatness is not an innate destiny but a result of persistent effort. It challenges the notion of predetermined success, highlighting how overcoming initial defeat is essential to achievement.</description>
-    </item>
-
-    <item>
-      <title>Couth and uncouth function pairs</title>
-      <link>https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</guid>
-      <pubDate>Thu, 21 May 2026 17:31:13 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical concept of inverting non-invertible circular and hyperbolic functions. It explains how mathematicians restrict domains to create 'couth' function pairs, allowing for functional inversion.</description>
-    </item>
-
-    <item>
-      <title>Circular and hyperbolic functions differ by rotations</title>
-      <link>https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/</guid>
-      <pubDate>Thu, 21 May 2026 15:53:56 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explains the mathematical relationship between circular and hyperbolic functions, showing they are linked by rotations in the complex plane. It illustrates this with the specific identity cosh(z) = cos(iz), demonstrating how multiplying by i represents a rotation.</description>
-    </item>
-
-    <item>
-      <title>The classic TreeView control lets me sort by name or by lParam, but why not both?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</guid>
-      <pubDate>Wed, 20 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains the technical limitation of the classic TreeView control regarding sorting. It suggests that developers must manually bridge the gap between sorting by name and sorting by lParam.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The article critiques the recurring issues and reliability problems associated with a specific package manager. It uses satire to highlight the frustration users feel regarding the software's persistent, preventable technical failures.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This blog post critiques programming language design flaws, specifically addressing how certain languages allow recurring, preventable errors. It highlights user frustration with languages that fail to implement safety features despite clear patterns of failure.</description>
-    </item>
-
-    <item>
-      <title>Whale Fall</title>
-      <link>https://shkspr.mobi/blog/2026/05/whale-fall/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/whale-fall/</guid>
-      <pubDate>Thu, 21 May 2026 11:34:15 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This article explores the biological phenomenon of 'whale falls,' where deceased whales sink to the deep ocean floor. It reflects on the immense scale of these creatures and their final descent into the abyss.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Shopping isn't politics (21 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/21/purity-culture/</link>
-      <guid>https://pluralistic.net/2026/05/21/purity-culture/</guid>
-      <pubDate>Thu, 21 May 2026 15:03:37 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that 'voting with your wallet' is a futile and anti-progressive concept that inherently favors the wealthy. He asserts that this market-based approach undermines democratic processes and solidarity by reducing complex societal issues to mere consumer demand signals.</description>
-    </item>
-
-    <item>
-      <title>Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada</title>
-      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
-      <guid>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
-      <pubDate>Thu, 21 May 2026 21:50:25 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Canadian authorities have arrested a 23-year-old Ottawa man suspected of creating and operating the Kimwolf IoT botnet. The suspect, previously identified by KrebsOnSecurity, is now facing criminal hacking charges in both Canada and the United States for orchestrating massive DDoS attacks and targeting individuals with doxing and swatting.</description>
-    </item>
-
-    <item>
-      <title>Datasette Agent</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 19:52:19 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released Datasette Agent, a new conversational AI assistant that allows users to query SQLite databases using natural language. The tool integrates with the LLM Python library and includes plugin support for features like generating data visualizations.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent-sprites 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 18:21:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a0 of datasette-agent-sprites. This new Datasette plugin enables the execution of commands within a Fly Sprites sandbox environment.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent-charts 0.1a2</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 15:15:58 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a2 of datasette-agent-charts. This update introduces &quot;View SQL query&quot; buttons beneath rendered charts to improve data transparency.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent 0.1a3</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 15:04:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a3 of datasette-agent, an AI assistant for the Datasette platform. This update introduces &quot;View SQL query&quot; buttons, improved handling of truncated responses, and UI refinements for cleaner output.</description>
-    </item>
-
-    <item>
-      <title>Quoting SpaceX S-1</title>
-      <link>https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 22:26:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights a key disclosure from SpaceX's S-1 filing regarding their AI infrastructure. The document reveals that SpaceX is leasing compute capacity from its COLOSSUS clusters to Anthropic in a deal worth $1.25 billion per month.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent-charts 0.1a1</title>
-      <link>https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 14:52:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a1 of datasette-agent-charts, introducing enhanced color schemes for bar and waffle charts. The update also adds interactive tooltips, improves security by checking SQL execution permissions, and fixes specific charting bugs.</description>
     </item>
   </channel>
 </rss>

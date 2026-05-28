@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-05-27T22:30:29.231Z",
+  "last_updated": "2026-05-28T22:30:56.457Z",
   "articles": [
+    {
+      "id": "e7a5c4c4ba8276f8",
+      "title": "Every Enemy Wears Your Face",
+      "url": "https://simone.org/projection/",
+      "source": "Simone Salis",
+      "source_url": "https://simone.org/",
+      "published": "2026-05-28T13:00:00.000Z",
+      "summary_en": "This piece explores the psychological phenomenon of projection, where individuals externalize their own traits or insecurities onto others. It examines how the enemies we perceive in our lives often serve as mirrors for our own hidden shadows.",
+      "summary_zh": "本文探討了心理投射現象，即個人將自己的特質或不安外化到他人身上。文章分析了我們生命中感知到的敵對者，往往是如何成為反映我們隱藏陰暗面的鏡子。",
+      "keywords": [
+        "心理學",
+        "投影",
+        "自我認知",
+        "心理投射",
+        "人格陰影"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a psychological concept, focusing on the nature of projection and self-perception.",
+      "pacer_reason_zh": "內容解釋了心理學概念，重點在於探討投射與自我認知的本質。"
+    },
+    {
+      "id": "c3ec5121c787e6e1",
+      "title": "Notes on Fourier series",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-fourier-series/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-05-28T02:30:00.000Z",
+      "summary_en": "This article provides a mathematical breakdown of Fourier series, explaining how periodic functions can be decomposed into an infinite sum of sinusoids. It details the derivation of coefficients using integration steps and discusses the connection between these series and linear algebra in Hilbert space.",
+      "summary_zh": "本文詳細解析了傅立葉級數的數學原理，說明如何將週期函數分解為無限多的正弦波總和。文中透過積分步驟推導出級數係數的計算方式，並探討了傅立葉級數與希爾伯特空間中線性代數的關聯。",
+      "keywords": [
+        "Fourier series",
+        "mathematics",
+        "trigonometric series",
+        "linear algebra",
+        "Hilbert space"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step mathematical derivation for calculating the coefficients of a Fourier series.",
+      "pacer_reason_zh": "本文透過步驟教學方式，推導計算傅立葉級數係數的數學過程。"
+    },
+    {
+      "id": "d1ec34024eaca204",
+      "title": "Knowing about things is cheaper than knowing things",
+      "url": "https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-05-28T16:03:01.000Z",
+      "summary_en": "The author argues that instead of mastering a single complex field, programmers benefit more from obtaining broad, foundational knowledge across many disciplines. This allows developers to identify which specific areas are worth pursuing in-depth based on their unique professional domains.",
+      "summary_zh": "作者認為，與其深入鑽研單一複雜領域，程式設計師從廣泛的基礎知識中受益更多。這種廣度讓開發者能夠在各自的工作領域中，識別出哪些特定的知識領域值得深入研究。",
+      "keywords": [
+        "programming",
+        "learning",
+        "math",
+        "professional development",
+        "knowledge management"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual framework for learning strategy, focusing on the utility of breadth over depth.",
+      "pacer_reason_zh": "本文探討了一種關於學習策略的概念性架構，重點在於說明「廣度」相較於「深度」的實用性。"
+    },
+    {
+      "id": "827d8b84e423c888",
+      "title": "Where Are the Economies of Scale in Homebuilding?",
+      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-28T12:03:26.000Z",
+      "summary_en": "This article investigates the lack of economies of scale in the residential construction industry. It explores the underlying factors contributing to the sector's persistent productivity stagnation.",
+      "summary_zh": "本文探討了住宅建築產業缺乏規模經濟的原因。文中分析了導致該產業生產力持續停滯的潛在因素。",
+      "keywords": [
+        "construction",
+        "productivity",
+        "economies of scale",
+        "homebuilding",
+        "industry analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual underpinnings and theoretical reasons for the industry's productivity issues.",
+      "pacer_reason_zh": "本文旨在解釋該產業生產力問題背後的概念基礎與理論成因。"
+    },
+    {
+      "id": "cc4711a94713bfaa",
+      "title": "Protestware for coding agents",
+      "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-28T15:00:00.000Z",
+      "summary_en": "The author discusses a recent incident where a Java library, jqwik, introduced a hidden command in its code designed to trick AI coding agents by issuing a 'delete' instruction. This act of 'protestware' highlights a growing trend of developers inserting anti-AI resistance into their packages, marking a shift from human-readable banners to machine-readable prompt injection.",
+      "summary_zh": "作者探討了 Java 函式庫 jqwik 最近在其程式碼中植入隱藏指令，旨在透過誘騙 AI 程式碼代理來執行「刪除」操作的事件。這種「抗議軟體」（protestware）顯示開發者正將反 AI 的立場從人類可讀的橫幅訊息，轉變為針對機器的提示注入攻擊。",
+      "keywords": [
+        "protestware",
+        "jqwik",
+        "AI coding agents",
+        "prompt injection",
+        "open source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually analyzes the evolution of protestware and the theoretical implications of targeting AI agents with malicious instructions.",
+      "pacer_reason_zh": "本文從概念層面分析了「抗議軟體」的演變，以及針對 AI 代理進行惡意指令植入的理論影響。"
+    },
+    {
+      "id": "92c586e7782174a0",
+      "title": "Package managers that package package managers",
+      "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-28T10:00:00.000Z",
+      "summary_en": "This article explores the interconnected nature of software package managers by mapping how different tools can install one another. The author uses data from ecosyste.ms and Repology to visualize which package managers are available within other systems, revealing trends in cross-language tooling and distribution.",
+      "summary_zh": "本文探討了軟體套件管理器之間的互聯性，並繪製出不同工具如何相互安裝的關聯圖。作者利用 ecosyste.ms 與 Repology 的數據，分析了各套件管理器在不同系統中的可用性，揭示了跨語言工具開發與分發的趨勢。",
+      "keywords": [
+        "package managers",
+        "software engineering",
+        "ecosystems",
+        "dependency",
+        "infrastructure"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is primarily based on gathered data and an analysis of a 42-client matrix to demonstrate relationships between package managers.",
+      "pacer_reason_zh": "本文主要基於收集的數據與 42 個客戶端的矩陣分析，以展示套件管理器之間的關係。"
+    },
+    {
+      "id": "3acfea99042762dc",
+      "title": "The Costco theory of the internet",
+      "url": "https://www.joanwestenberg.com/the-costco-theory-of-the-internet/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-28T01:29:39.000Z",
+      "summary_en": "The article introduces 'The Costco Theory of the Internet,' inspired by Sol Price's FedMart philosophy of offering limited choices to increase operational efficiency. It suggests that success in digital spaces often stems from curation and the deliberate choice to ignore certain segments to optimize the core user experience.",
+      "summary_zh": "本文介紹了「網際網路的 Costco 理論」，其靈感源自 Sol Price 在 FedMart 實行的經營哲學：透過限制選擇來提升營運效率。文章指出，數位領域的成功往往源於精心策劃，以及為了優化核心體驗而有意識地放棄部分市場區隔。",
+      "keywords": [
+        "Costco",
+        "FedMart",
+        "curation",
+        "business strategy",
+        "optimization"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the business model of an offline retail chain (FedMart/Costco) as an analogy to explain strategy in the digital/internet domain.",
+      "pacer_reason_zh": "本文引用線下零售連鎖店（FedMart/Costco）的商業模式作為類比，用以闡釋網際網路領域的策略思維。"
+    },
+    {
+      "id": "252fcfbc3d9fdc6a",
+      "title": "Turning K-L divergence into a metric",
+      "url": "https://www.johndcook.com/blog/2026/05/27/jensen-shannon/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-28T01:35:54.000Z",
+      "summary_en": "This article discusses the mathematical properties of Kullback-Leibler (K-L) divergence and why it fails to function as a formal metric. It introduces Jeffreys divergence as a potential adjustment to resolve the issue of symmetry.",
+      "summary_zh": "本文探討了 Kullback-Leibler (K-L) 散度的數學特性，並解釋了為何它無法作為正式度量指標的原因。文中進一步介紹了 Jeffreys 散度，作為解決對稱性問題的修正方案。",
+      "keywords": [
+        "K-L divergence",
+        "mathematics",
+        "Jeffreys divergence",
+        "statistics",
+        "metric"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of K-L divergence and explores the mathematical conditions required to define a metric.",
+      "pacer_reason_zh": "本文解釋了 K-L 散度的理論概念，並探討了定義度量指標所需的數學條件。"
+    },
+    {
+      "id": "c608aa851628fc8d",
+      "title": "Dancing mad with sandboxing",
+      "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-05-28T00:00:00.000Z",
+      "summary_en": "This post introduces Kefka, a Go-native shell sandbox capable of running coreutils and Python via WebAssembly. It explores the technical challenges and innovative engineering choices behind building this sandboxing environment.",
+      "summary_zh": "本文介紹了 Kefka，一個基於 Go 語言開發並透過 WebAssembly 執行 coreutils 和 Python 的 shell 沙盒環境。文中探討了實現此沙盒過程中遭遇的技術挑戰與創新工程思維。",
+      "keywords": [
+        "Kefka",
+        "Go",
+        "WebAssembly",
+        "Sandbox",
+        "Shell"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the implementation and creation process of a specific tool, functioning as a technical deep-dive into its development.",
+      "pacer_reason_zh": "本文側重於介紹特定工具的實作與開發過程，屬於技術導向的開發深度解析。"
+    },
+    {
+      "id": "4ad103b0be7be27d",
+      "title": "Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-27T11:34:36.000Z",
+      "summary_en": "The author reviews the Chuwi Minibook X N150, a compact and affordable laptop suitable for travel. It highlights the device's portability, affordability, and USB-C compatibility, while noting it performs adequately for basic tasks.",
+      "summary_zh": "作者評測了 Chuwi Minibook X N150 這款輕便且平價的筆記型電腦，適合作為旅行使用。文章重點在於該裝置的便攜性、性價比以及對 USB-C 充電的支援，並指出其效能足以應付基本需求。",
+      "keywords": [
+        "Chuwi Minibook X",
+        "laptop review",
+        "travel tech",
+        "Linux",
+        "budget hardware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "This is a product review based on personal user experience and real-world testing.",
+      "pacer_reason_zh": "這是一篇基於個人使用經驗與實際測試的產品評測。"
+    },
+    {
+      "id": "cdfcb5e669c627ec",
+      "title": "Notes on optimizing battery life:",
+      "url": "https://maurycyz.com/misc/battery/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-05-27T00:00:00.000Z",
+      "summary_en": "This post explores practical strategies for optimizing battery life in electronic devices by understanding power draw and battery characteristics. It emphasizes the importance of reading datasheets, monitoring discharge curves, and accounting for internal resistance and temperature effects on battery performance.",
+      "summary_zh": "這篇文章探討了優化電子設備電池壽命的實用策略，重點在於理解功耗與電池特性。作者強調了查閱數據手冊、監控放電曲線，以及考量內阻與溫度對電池性能影響的重要性。",
+      "keywords": [
+        "battery optimization",
+        "power consumption",
+        "electronics design",
+        "datasheets",
+        "discharge curves"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical, actionable advice and methodology for optimizing battery performance in electronic projects.",
+      "pacer_reason_zh": "本文提供了在電子專案中優化電池性能的實用建議與操作方法。"
+    },
+    {
+      "id": "a6d604b80c1373a7",
+      "title": "Pluralistic: Hold on for dear life (28 May 2026)",
+      "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-28T11:24:23.000Z",
+      "summary_en": "This post explores the intersection of cryptography and technopolitics, specifically focusing on the power of robust encryption to protect privacy against authoritarian surveillance. It highlights how properly implemented cryptographic keys provide near-impenetrable security, enabling individuals to safeguard digital assets and communications from external interference.",
+      "summary_zh": "本文探討了加密技術與科技政治之間的關係，重點在於強大的加密手段如何賦予個人對抗威權監控的隱私權。文章強調，正確實施的密碼學技術能提供極高程度的安全性，確保個人數位資產與通訊內容免受外部干擾。",
+      "keywords": [
+        "cryptography",
+        "privacy",
+        "technopolitics",
+        "encryption",
+        "authoritarianism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, explaining the theoretical power and security implications of modern cryptography in political contexts.",
+      "pacer_reason_zh": "本文主要屬於概念性內容，旨在解釋現代密碼學在政治背景下的理論效力及其對安全性的影響。"
+    },
+    {
+      "id": "79b4bf4594434f95",
+      "title": "sqlite AGENTS.md",
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-27T23:44:37.000Z",
+      "summary_en": "SQLite has introduced an AGENTS.md file to clarify its policy against accepting AI-generated agentic code contributions, while still welcoming human-verified bug reports. The project has also moved AI-generated reports to a separate forum to manage the influx of submissions.",
+      "summary_zh": "SQLite 新增了 AGENTS.md 文件，明確規範不接受 AI 生成的代理代碼貢獻，僅接受人類驗證過的錯誤報告。此外，為應對 AI 生成內容的激增，該項目已將此類回報移至獨立論壇進行處理。",
+      "keywords": [
+        "sqlite",
+        "ai",
+        "agents",
+        "open-source",
+        "governance"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference regarding the new policy and documentation changes implemented by the SQLite project.",
+      "pacer_reason_zh": "本文作為關於 SQLite 項目實施的新政策與文件變更的參考資訊。"
+    },
+    {
+      "id": "cdf4de0694d2cb46",
+      "title": "Tuning in FM Radio on a 3D Printer Heatbed",
+      "url": "https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-28T14:00:00.000Z",
+      "summary_en": "Jeff Geerling investigates whether a 3D printer's heated bed can function as an FM radio antenna. The experiment explores the physical similarities between PCB heatbed traces and antenna designs, testing if they can receive broadcast signals.",
+      "summary_zh": "Jeff Geerling 探討 3D 列印機的加熱床是否能作為調頻廣播（FM）天線使用。該實驗檢視了 PCB 加熱床走線與天線設計之間的物理相似性，並測試其接收廣播訊號的可行性。",
+      "keywords": [
+        "3D printing",
+        "FM radio",
+        "antenna",
+        "PCB",
+        "Jeff Geerling"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a practical experiment testing a specific hypothesis using hardware components.",
+      "pacer_reason_zh": "內容側重於使用硬體元件進行實作測試，以驗證特定假設的實驗性質。"
+    },
     {
       "id": "450ed0008edca5a8",
       "title": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
