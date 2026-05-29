@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-05-28T22:30:56.457Z",
+  "last_updated": "2026-05-29T22:29:51.016Z",
   "articles": [
+    {
+      "id": "c0c5aaabf394b3e5",
+      "title": "Nitpicking the shell history scene in ‘Tron: Legacy’",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "source": "Simon Tatham's quasi-blog",
+      "source_url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/",
+      "published": "2026-05-28T00:00:00.000Z",
+      "summary_en": "The author provides a meticulous analysis of a computer shell history scene from the movie 'Tron: Legacy'. This exploration serves as both a fun retrospective and an educational exercise in evaluating technical accuracy in film.",
+      "summary_zh": "作者針對電影《創：光速戰記》中的電腦指令歷史畫面進行了細緻的剖析。這項分析不僅是一次有趣的懷舊，同時也作為檢視影視作品中技術準確性的教育練習。",
+      "keywords": [
+        "Tron: Legacy",
+        "shell history",
+        "technical analysis",
+        "Simon Tatham",
+        "film accuracy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining and deconstructing a specific technical concept as depicted in media, serving as an educational conceptual exercise.",
+      "pacer_reason_zh": "內容側重於解釋與拆解影視作品中呈現的特定技術概念，屬於一種教育性的觀念分析練習。"
+    },
+    {
+      "id": "c1ac4d327109cf09",
+      "title": "What's going on with Gemini?",
+      "url": "https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-05-29T00:00:00.000Z",
+      "summary_en": "This article evaluates Google's Gemini 3.5 Flash, highlighting the performance gap in coding tasks despite its speed and cost. It explores how the model serves Google's internal infrastructure and the strategic challenges the company faces in developing competitive coding agents.",
+      "summary_zh": "本文評估了 Google 的 Gemini 3.5 Flash，指出儘管其速度快且成本較高，但在程式編碼任務上的表現仍有落差。文章探討了該模型如何服務於 Google 的內部基礎設施，以及該公司在開發具競爭力的編碼代理時所面臨的策略挑戰。",
+      "keywords": [
+        "Gemini 3.5 Flash",
+        "Google",
+        "AI agents",
+        "Coding",
+        "TPU"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of Google's AI strategy and the current capabilities of its model architecture.",
+      "pacer_reason_zh": "本文對 Google 的 AI 策略及其模型架構的當前能力進行了概念性的分析。"
+    },
+    {
+      "id": "3448f1b54bbaa2c3",
+      "title": "Composer’s dependency policies",
+      "url": "https://nesbitt.io/2026/05/29/composer-dependency-policies.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-29T10:00:00.000Z",
+      "summary_en": "Composer 2.10 introduces a new configuration policy block that centralizes security advisories, malware reports, and package blocklists. This feature allows developers to subscribe to filter lists, similar to ad blockers, providing proactive protection by blocking flagged packages during both installation and auditing.",
+      "summary_zh": "Composer 2.10 引入了全新的配置策略模組，將安全性建議、惡意軟體報告及套件封鎖清單整合至統一的配置中。開發者可以訂閱各類篩選清單，如同廣告攔截器一樣，在安裝與稽核過程中主動封鎖受威脅的套件。",
+      "keywords": [
+        "Composer",
+        "PHP",
+        "Security",
+        "Package Management",
+        "Software Supply Chain"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains how to implement and utilize the new Composer dependency policy configuration features.",
+      "pacer_reason_zh": "本文介紹如何實作並運用 Composer 全新的依賴策略配置功能。"
+    },
+    {
+      "id": "56542eeb33095113",
+      "title": "Online (one-pass) algorithms",
+      "url": "https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-29T12:24:30.000Z",
+      "summary_en": "This article discusses online (one-pass) algorithms, which allow for the calculation of statistics like sample variance without needing to store the entire dataset. It highlights how these methods process data sequentially, avoiding the multi-pass requirement traditionally associated with such computations.",
+      "summary_zh": "這篇文章探討了線上（單次遍歷）演算法，該演算法無需儲存整個資料集即可計算樣本變異數等統計量。它強調了這些方法如何透過序列化處理資料，從而避免了傳統計算中所需的多次遍歷。",
+      "keywords": [
+        "algorithms",
+        "online-algorithms",
+        "statistics",
+        "sample-variance",
+        "data-processing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of online algorithms and how they function as an alternative to multi-pass computational methods.",
+      "pacer_reason_zh": "本文解釋了線上演算法的概念，以及它們如何作為多次遍歷計算方法的替代方案。"
+    },
+    {
+      "id": "da6fdceb7d79bf56",
+      "title": "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-28T14:00:00.000Z",
+      "summary_en": "This post discusses methods for sharing the result of a single Windows Runtime IAsyncOperation across multiple coroutines. It suggests a turn-based approach to handling asynchronous operations in a concurrent environment.",
+      "summary_zh": "本文探討如何在多個協同程式（coroutines）之間共享單一 Windows Runtime IAsyncOperation 的結果。文中建議採用輪流執行的方式來處理並發環境下的非同步作業。",
+      "keywords": [
+        "Windows Runtime",
+        "IAsyncOperation",
+        "coroutines",
+        "concurrency",
+        "asynchronous"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific programmatic approach and technical guidance for handling asynchronous operations.",
+      "pacer_reason_zh": "本文提供了處理非同步作業的具體程式設計方法與技術指導。"
+    },
+    {
+      "id": "787749f9741ffcb2",
+      "title": "The UK Government's Low Value Purchase System is a Waste of Time",
+      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-05-29T11:34:54.000Z",
+      "summary_en": "The article critiques the UK Government's RM6237 Low Value Purchase System, arguing that it fails to simplify procurement for small businesses. It highlights the bureaucratic hurdles and inefficiencies inherent in the current government contracting process.",
+      "summary_zh": "本文批評英國政府的「低價值採購系統」（RM6237），認為該系統並未如預期般簡化小型企業的採購流程。作者指出，現行的政府合約程序仍充滿繁瑣的行政程序與官僚障礙。",
+      "keywords": [
+        "UK Government",
+        "procurement",
+        "small business",
+        "bureaucracy",
+        "RM6237"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a critical review and case study of a specific government procurement process based on the author's experience.",
+      "pacer_reason_zh": "本文基於作者的實際經驗，針對特定政府採購流程進行了批判性審查與個案分析。"
+    },
+    {
+      "id": "9602d7eff45f67f9",
+      "title": "datasette 1.0a31",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-29T03:32:02.000Z",
+      "summary_en": "Datasette 1.0a31 introduces new write query execution and saved query capabilities, allowing authorized users to modify database content. The release includes an interactive interface for managing SQL updates and inserts with specific permission controls.",
+      "summary_zh": "Datasette 1.0a31 版本發布，新增了執行寫入查詢與儲存查詢的功能，讓具備權限的使用者能直接對資料庫進行修改。此外，新版本亦提供了直觀的操作介面，透過權限控管來執行插入、更新與刪除操作。",
+      "keywords": [
+        "datasette",
+        "sqlite",
+        "sql",
+        "software release",
+        "database"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is an announcement post detailing new features and release notes for a software project.",
+      "pacer_reason_zh": "這是一篇關於軟體專案新功能與版本發布說明的公告文章。"
+    },
+    {
+      "id": "bc61ba7697f86dd8",
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-29T01:23:08.000Z",
+      "summary_en": "Anthropic has announced that its annualized run-rate revenue reached $47 billion, continuing a period of explosive growth throughout 2026. This post tracks the company's rapid financial trajectory from $9 billion at the end of 2025 to its current record high.",
+      "summary_zh": "Anthropic 宣布其年度經常性營收已達到 470 億美元，展現了 2026 年極其迅速的增長趨勢。本文整理並追蹤了該公司從 2025 年底的 90 億美元，一路躍升至近期新高的財務成長歷程。",
+      "keywords": [
+        "Anthropic",
+        "Revenue",
+        "AI",
+        "FinancialGrowth",
+        "Business"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses historical data points and a chart to document and benchmark the company's rapid revenue growth.",
+      "pacer_reason_zh": "文章使用了歷史數據點與圖表，紀錄並基準化了該公司營收的快速增長情況。"
+    },
+    {
+      "id": "99ce3b2883d241e5",
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-28T23:59:50.000Z",
+      "summary_en": "Anthropic has released Claude Opus 4.8, which the company describes as a modest but tangible improvement over previous versions. The update focuses on increased honesty and reducing hallucinations by having the model more frequently acknowledge uncertainty rather than providing unsupported answers.",
+      "summary_zh": "Anthropic 發布了 Claude Opus 4.8，該公司將其描述為對先前版本適度且具體的改進。此版本重點在於提高誠實度並減少幻覺，讓模型在不確定時更傾向於承認限制，而非給出未經證實的回答。",
+      "keywords": [
+        "Claude Opus 4.8",
+        "Anthropic",
+        "AI model",
+        "hallucination",
+        "model evaluation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article discusses evaluation benchmarks and empirical data regarding the model's error rates and honesty improvements.",
+      "pacer_reason_zh": "文章討論了評估基準與關於模型錯誤率和誠實度改進的實證數據。"
+    },
+    {
+      "id": "93da7554933827fb",
+      "title": "llm-anthropic 0.25.1",
+      "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-28T23:54:56.000Z",
+      "summary_en": "The llm-anthropic 0.25.1 release introduces support for the new Claude Opus 4.8 model and adds a fast mode option for eligible accounts. Additionally, it updates the default max_tokens settings for all models to align with their actual maximum output limits.",
+      "summary_zh": "llm-anthropic 0.25.1 版本發布，新增支援 Claude Opus 4.8 模型與適用於特定帳戶的「快速模式」(fast mode) 選項。此外，各模型的預設 max_tokens 現在會自動對齊其最高輸出限制，而非固定為 8,192。",
+      "keywords": [
+        "llm-anthropic",
+        "Claude Opus",
+        "CLI",
+        "LLM",
+        "software release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release note detailing updates, new features, and technical specifications for a software library.",
+      "pacer_reason_zh": "本文屬於軟體發布說明，詳細列出工具庫的更新內容、新功能與技術規格。"
+    },
+    {
+      "id": "f435cb2e14a6f6fc",
+      "title": "markdown-svg-renderer",
+      "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-28T19:45:14.000Z",
+      "summary_en": "Simon Willison introduces a web-based Markdown renderer that specifically handles fenced SVG code blocks. The tool allows users to toggle between rendered SVG images and their source code, supporting direct text input or remote Markdown files.",
+      "summary_zh": "Simon Willison 介紹了一款網路 Markdown 渲染工具，特別針對 SVG 程式碼區塊進行了優化。使用者可以輕鬆切換查看渲染後的 SVG 圖像與原始程式碼，並支援直接貼上文字或匯入外部 Markdown 檔案。",
+      "keywords": [
+        "markdown",
+        "svg",
+        "tools",
+        "web-development",
+        "rendering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific utility tool and explains how to use it for rendering and toggling SVG code blocks.",
+      "pacer_reason_zh": "本文介紹了一項具體的實用工具，並說明如何使用該工具來渲染及切換 SVG 程式碼區塊。"
+    },
+    {
+      "id": "2cd3051d8a5aaded",
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-05-29T14:00:00.000Z",
+      "summary_en": "The author evaluates the value proposition of the Framework 12 laptop by comparing it against Apple's MacBook Neo. Through the lens of purchasing a machine for a high school graduate, the piece highlights how Apple's current offerings have shifted the market standard for price-to-performance.",
+      "summary_zh": "作者透過為剛畢業的姪子挑選筆電的視角，評估了 Framework 12 的性價比。文章探討了蘋果 MacBook Neo 如何重新定義「平價筆電」的市場標準，使其在價格與性能上皆具備強大的競爭力。",
+      "keywords": [
+        "Framework 12",
+        "MacBook Neo",
+        "筆電採購",
+        "性價比",
+        "硬體評測"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content uses a comparative anecdotal case study to benchmark the value of two specific laptop models.",
+      "pacer_reason_zh": "本文透過實際的比較案例與使用體驗，對兩款筆電的價值進行了基準分析。"
+    },
     {
       "id": "e7a5c4c4ba8276f8",
       "title": "Every Enemy Wears Your Face",
