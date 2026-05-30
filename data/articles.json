@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-05-29T22:29:51.016Z",
+  "last_updated": "2026-05-30T22:18:25.433Z",
   "articles": [
+    {
+      "id": "7811ce556f8307a2",
+      "title": "Reading List 05/30/26",
+      "url": "https://www.construction-physics.com/p/reading-list-053026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-05-30T12:02:52.000Z",
+      "summary_en": "This digest highlights a diverse range of current events including industrial accidents, innovations in nuclear energy, and creative data collection strategies for robotics. It provides a curated overview of significant developments across the construction and technology sectors.",
+      "summary_zh": "本篇摘要涵蓋了多項當前重大事件，包括工業化學洩漏、核能反應爐啟動技術，以及為機器人訓練數據而設立的居家清潔新創公司。內容提供建築與科技領域的重要發展概覽。",
+      "keywords": [
+        "Construction Physics",
+        "Nuclear Energy",
+        "Robotics",
+        "Blue Origin",
+        "Technology News"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list of links and news updates, serving as reference material for the reader.",
+      "pacer_reason_zh": "內容為一系列連結與新聞更新的精選清單，適合作為讀者的參考資料。"
+    },
+    {
+      "id": "9358d73cf0bdbcd9",
+      "title": "This Week in Package Management: 30 May 2026",
+      "url": "https://nesbitt.io/2026/05/30/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-05-30T10:00:00.000Z",
+      "summary_en": "This post provides a weekly digest of significant security updates and feature releases across major package managers including npm, pnpm, NuGet, Cargo, and Composer. Key highlights include critical security patches for vulnerability exploits and the introduction of new script execution policies to enhance supply chain integrity.",
+      "summary_zh": "這篇文章整理了本週各大套件管理工具（如 npm、pnpm、NuGet、Cargo 與 Composer）的重要安全性更新與功能發布。重點包含針對惡意攻擊的關鍵修復，以及引入新的指令執行政策以強化軟體供應鏈安全。",
+      "keywords": [
+        "package-management",
+        "security",
+        "npm",
+        "pnpm",
+        "software-supply-chain"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a curated list and reference for recent software updates and vulnerability disclosures in package management.",
+      "pacer_reason_zh": "本文作為近期套件管理工具更新與漏洞揭露的整理列表與參考資料。"
+    },
+    {
+      "id": "03f02bae4ff49e30",
+      "title": "Notes from May 2026",
+      "url": "https://evanhahn.com/notes-from-may-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-05-30T00:00:00.000Z",
+      "summary_en": "This blog post provides a monthly update on the author's personal projects, including new web tools, command-line utilities, and progress on the Helmet open-source project. It also features a curated selection of external readings covering topics such as tech ethics, labor unions in the tech industry, and the socio-technical implications of AI.",
+      "summary_zh": "這篇部落格文章回顧了作者的每月動態，包括開發的新網頁工具、指令列工具以及 Helmet 開源專案的更新進度。此外，文章還分享了一系列關於科技倫理、科技業工會以及人工智慧社會影響的精選閱讀連結。",
+      "keywords": [
+        "web development",
+        "open source",
+        "tech ethics",
+        "software tools",
+        "blogging"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a digest or a reference list of the author's work and links to external readings.",
+      "pacer_reason_zh": "本文主要作為作者的工作彙整與外部連結參考清單，屬於資訊摘要性質。"
+    },
+    {
+      "id": "8b55b400e618e334",
+      "title": "Spot checking polynomial identities",
+      "url": "https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-05-30T21:06:49.000Z",
+      "summary_en": "The article explains the Schwartz-Zippel lemma, demonstrating that checking polynomial identities at a few random points provides high confidence in their validity. It explores how this probabilistic approach serves as an efficient alternative to symbolic verification.",
+      "summary_zh": "本文介紹了多項式恆等式的檢驗方法，說明若多項式在少數隨機點上相等，則該恆等式極有可能成立。這種機率性驗證方式為符號驗證提供了一種高效的替代方案。",
+      "keywords": [
+        "polynomials",
+        "Schwartz-Zippel",
+        "mathematics",
+        "probability",
+        "algorithms"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains a mathematical concept and its underlying theoretical framework for testing identities.",
+      "pacer_reason_zh": "本文解釋了多項式恆等式的數學概念及其背後的理論驗證框架。"
+    },
+    {
+      "id": "e2e54abbb049f840",
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-05-30T17:09:35.056Z",
+      "summary_en": "This article explores the internal microcode of the 1980 Intel 8087 floating-point co-processor. The author reverse-engineers the FXCH instruction to demonstrate how low-level microcode manages register exchanges within the chip's complex architecture.",
+      "summary_zh": "本文探討了 1980 年 Intel 8087 浮點運算協處理器的內部微碼。作者透過逆向工程分析了 FXCH 指令，展示了底層微碼如何管理晶片架構內的暫存器交換。",
+      "keywords": [
+        "Intel 8087",
+        "microcode",
+        "reverse engineering",
+        "floating-point",
+        "CPU architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what is' and 'how it works' aspects of the 8087 chip's microcode implementation, focusing on conceptual understanding.",
+      "pacer_reason_zh": "本文解釋了 8087 晶片微碼實作的運作原理與概念，屬於技術解釋性質的內容。"
+    },
+    {
+      "id": "d61e890e7674f9a0",
+      "title": "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-05-29T14:00:00.000Z",
+      "summary_en": "This article explores technical strategies for managing Windows Runtime IAsyncOperation results across multiple concurrent tasks. It specifically focuses on an implementation pattern that ensures an asynchronous operation is only executed once.",
+      "summary_zh": "本文探討了如何在多個並行任務之間管理 Windows Runtime IAsyncOperation 結果的技術策略。文中特別聚焦於一種確保非同步操作僅執行一次的實作模式。",
+      "keywords": [
+        "Windows Runtime",
+        "IAsyncOperation",
+        "C++",
+        "Asynchronous",
+        "Concurrency"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a specific technical implementation approach for handling asynchronous operations.",
+      "pacer_reason_zh": "本文提供了處理非同步操作的具體技術實作方法。"
+    },
+    {
+      "id": "36e487de9b67a7a5",
+      "title": "Arp 114:",
+      "url": "https://maurycyz.com/astro/arp114/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-05-30T00:00:00.000Z",
+      "summary_en": "This post features an astrophotography capture of the interacting galaxy pair Arp 114 (NGC 2276 and NGC 2300). It details the technical equipment and processing workflow used to image these galaxies while discussing their unique structural characteristics and tidal interactions.",
+      "summary_zh": "本篇部落格分享了互動星系 Arp 114（NGC 2276 與 NGC 2300）的深空攝影作品。文中詳細介紹了拍攝該星系對所使用的天文設備與影像處理流程，並探討了其獨特的結構特徵與引力交互作用。",
+      "keywords": [
+        "Arp 114",
+        "astrophotography",
+        "NGC 2276",
+        "NGC 2300",
+        "astronomy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents an original astrophotography observation, including specific technical parameters, data acquisition stats, and image processing methodology.",
+      "pacer_reason_zh": "文章展示了原創的天文攝影成果，並包含了具體的技術參數、數據獲取統計以及影像處理方法。"
+    },
+    {
+      "id": "acf1237306ba5eab",
+      "title": "Pluralistic: Carneyism without Carney (30 May 2026)",
+      "url": "https://pluralistic.net/2026/05/30/rupture/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-05-30T09:31:41.000Z",
+      "summary_en": "Cory Doctorow critiques the 'Third Way' political strategy, arguing that politicians who campaign on populist values but govern for elites inevitably breed cynicism and fuel authoritarianism. Using Canada's Liberal Party as a case study, he illustrates how this dissonance facilitates the rise of far-right movements.",
+      "summary_zh": "Cory Doctorow 批評了「第三條路」的政治策略，認為那些競選時迎合民意卻在執政時向菁英傾斜的政治人物，最終只會引發大眾憤怒並助長極權主義。他以加拿大自由黨為例，說明這種政策上的言行不一如何為極右翼勢力的崛起鋪路。",
+      "keywords": [
+        "politics",
+        "Third Way",
+        "populism",
+        "Canada",
+        "authoritarianism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of a specific political strategy and its long-term social consequences.",
+      "pacer_reason_zh": "這篇文章對特定的政治策略及其長期社會後果提供了概念性的批判分析。"
+    },
+    {
+      "id": "2c1945d7d6694c7b",
+      "title": "How we contain Claude across products",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-30T21:36:24.000Z",
+      "summary_en": "This post reviews Anthropic's technical documentation on how they implement sandboxing to secure AI agents like Claude across different environments. It highlights specific isolation technologies used, such as gVisor, Seatbelt, and full VM virtualization to prevent unauthorized data exfiltration.",
+      "summary_zh": "本文介紹了 Anthropic 如何透過技術文件說明其沙盒架構，以確保 Claude 等 AI 代理在不同產品中的安全性。文章重點分析了 gVisor、Seatbelt 和虛擬機等隔離技術，旨在防止數據未經授權的洩漏。",
+      "keywords": [
+        "sandboxing",
+        "security",
+        "Claude",
+        "Anthropic",
+        "AI agents"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'how' behind Anthropic's security architecture and sandboxing implementation.",
+      "pacer_reason_zh": "本文主要解釋了 Anthropic 安全架構與沙盒技術實作背後的原理與運作方式。"
+    },
+    {
+      "id": "f683add49e6ab9c4",
+      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-30T21:02:16.000Z",
+      "summary_en": "Simon Willison shares a new research experiment on running Python ASGI applications directly in the browser using Pyodide and Service Workers. This approach improves upon previous Web Worker methods by properly supporting JavaScript execution within the app, enhancing compatibility for complex tools like Datasette.",
+      "summary_zh": "Simon Willison 分享了一項新研究，探討如何利用 Pyodide 和 Service Workers 在瀏覽器中執行 Python ASGI 應用程式。這種方法改進了先前使用 Web Workers 的限制，能正確執行 JavaScript，提升了像 Datasette 這類複雜工具的相容性。",
+      "keywords": [
+        "Pyodide",
+        "ASGI",
+        "Service Workers",
+        "Datasette",
+        "WebAssembly"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific research experiment, demonstrating a functional proof-of-concept for running ASGI apps in the browser.",
+      "pacer_reason_zh": "本文介紹了一項具體的研究實驗，並展示了在瀏覽器中執行 ASGI 應用程式的可行性驗證。"
+    },
+    {
+      "id": "3ce6dcefb71acb2c",
+      "title": "I Am Retiring from Tech to Live Offline",
+      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-30T19:39:08.000Z",
+      "summary_en": "Chad Whitacre has announced his retirement from the tech industry and open-source development due to the increasing influence of AI. He describes his transition as becoming 'Neo-Amish,' aiming to return to a 1980s-era lifestyle to avoid the psychological impact of modern digital environments.",
+      "summary_zh": "Chad Whitacre 宣布因人工智慧技術的普及，決定退出科技業及開源領域。他將這種生活轉變稱為「新阿米什人」（Neo-Amish），旨在回歸 1980 年代的生活模式，以避開當代數位環境對心理的負面影響。",
+      "keywords": [
+        "AI",
+        "Tech Industry",
+        "Digital Minimalism",
+        "Neo-Amish",
+        "Career Change"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, exploring the philosophical and personal motivations behind a lifestyle shift away from modern technology.",
+      "pacer_reason_zh": "這篇文章主要屬於概念性內容，探討了個人脫離現代科技生活轉變背後的哲學與個人動機。"
+    },
+    {
+      "id": "318ed2bf924a37f6",
+      "title": "Quoting Daniel Jalkut",
+      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-30T17:29:55.000Z",
+      "summary_en": "This post highlights a perspective from Daniel Jalkut regarding the polarized debate surrounding artificial intelligence. He argues that both extreme opposition and extreme advocacy for AI are misguided.",
+      "summary_zh": "這篇文章引用了 Daniel Jalkut 對於人工智慧爭議的看法。他認為，無論是強烈反對還是盲目支持 AI 的極端立場，都顯得過於偏激。",
+      "keywords": [
+        "AI",
+        "Daniel Jalkut",
+        "opinion",
+        "technology debate",
+        "perspective"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a high-level conceptual viewpoint on the ongoing debate surrounding artificial intelligence.",
+      "pacer_reason_zh": "內容呈現了關於人工智慧爭議的高層次概念性觀點。"
+    },
     {
       "id": "c0c5aaabf394b3e5",
       "title": "Nitpicking the shell history scene in ‘Tron: Legacy’",

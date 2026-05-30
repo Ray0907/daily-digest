@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 29 May 2026 22:29:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:18:25 GMT</lastBuildDate>
     
+    <item>
+      <title>Reading List 05/30/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-053026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-053026</guid>
+      <pubDate>Sat, 30 May 2026 12:02:52 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This digest highlights a diverse range of current events including industrial accidents, innovations in nuclear energy, and creative data collection strategies for robotics. It provides a curated overview of significant developments across the construction and technology sectors.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 30 May 2026</title>
+      <link>https://nesbitt.io/2026/05/30/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/05/30/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 30 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This post provides a weekly digest of significant security updates and feature releases across major package managers including npm, pnpm, NuGet, Cargo, and Composer. Key highlights include critical security patches for vulnerability exploits and the introduction of new script execution policies to enhance supply chain integrity.</description>
+    </item>
+
+    <item>
+      <title>Notes from May 2026</title>
+      <link>https://evanhahn.com/notes-from-may-2026/</link>
+      <guid>https://evanhahn.com/notes-from-may-2026/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This blog post provides a monthly update on the author's personal projects, including new web tools, command-line utilities, and progress on the Helmet open-source project. It also features a curated selection of external readings covering topics such as tech ethics, labor unions in the tech industry, and the socio-technical implications of AI.</description>
+    </item>
+
+    <item>
+      <title>Spot checking polynomial identities</title>
+      <link>https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</link>
+      <guid>https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</guid>
+      <pubDate>Sat, 30 May 2026 21:06:49 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article explains the Schwartz-Zippel lemma, demonstrating that checking polynomial identities at a few random points provides high confidence in their validity. It explores how this probabilistic approach serves as an efficient alternative to symbolic verification.</description>
+    </item>
+
+    <item>
+      <title>Microcode inside the Intel 8087 floating-point chip: register exchange</title>
+      <link>http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</link>
+      <guid>http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</guid>
+      <pubDate>Sat, 30 May 2026 17:09:35 GMT</pubDate>
+      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
+      <description>This article explores the internal microcode of the 1980 Intel 8087 floating-point co-processor. The author reverse-engineers the FXCH instruction to demonstrate how low-level microcode manages register exchanges within the chip's complex architecture.</description>
+    </item>
+
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores technical strategies for managing Windows Runtime IAsyncOperation results across multiple concurrent tasks. It specifically focuses on an implementation pattern that ensures an asynchronous operation is only executed once.</description>
+    </item>
+
+    <item>
+      <title>Arp 114:</title>
+      <link>https://maurycyz.com/astro/arp114/</link>
+      <guid>https://maurycyz.com/astro/arp114/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post features an astrophotography capture of the interacting galaxy pair Arp 114 (NGC 2276 and NGC 2300). It details the technical equipment and processing workflow used to image these galaxies while discussing their unique structural characteristics and tidal interactions.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Carneyism without Carney (30 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/30/rupture/</link>
+      <guid>https://pluralistic.net/2026/05/30/rupture/</guid>
+      <pubDate>Sat, 30 May 2026 09:31:41 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow critiques the 'Third Way' political strategy, arguing that politicians who campaign on populist values but govern for elites inevitably breed cynicism and fuel authoritarianism. Using Canada's Liberal Party as a case study, he illustrates how this dissonance facilitates the rise of far-right movements.</description>
+    </item>
+
+    <item>
+      <title>How we contain Claude across products</title>
+      <link>https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 21:36:24 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post reviews Anthropic's technical documentation on how they implement sandboxing to secure AI agents like Claude across different environments. It highlights specific isolation technologies used, such as gVisor, Seatbelt, and full VM virtualization to prevent unauthorized data exfiltration.</description>
+    </item>
+
+    <item>
+      <title>Running Python ASGI apps in the browser via Pyodide + a service worker</title>
+      <link>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 21:02:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a new research experiment on running Python ASGI applications directly in the browser using Pyodide and Service Workers. This approach improves upon previous Web Worker methods by properly supporting JavaScript execution within the app, enhancing compatibility for complex tools like Datasette.</description>
+    </item>
+
+    <item>
+      <title>I Am Retiring from Tech to Live Offline</title>
+      <link>https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 19:39:08 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Chad Whitacre has announced his retirement from the tech industry and open-source development due to the increasing influence of AI. He describes his transition as becoming 'Neo-Amish,' aiming to return to a 1980s-era lifestyle to avoid the psychological impact of modern digital environments.</description>
+    </item>
+
+    <item>
+      <title>Quoting Daniel Jalkut</title>
+      <link>https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 17:29:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a perspective from Daniel Jalkut regarding the polarized debate surrounding artificial intelligence. He argues that both extreme opposition and extreme advocacy for AI are misguided.</description>
+    </item>
+
     <item>
       <title>Nitpicking the shell history scene in ‘Tron: Legacy’</title>
       <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</link>
@@ -802,114 +910,6 @@ http://antirez.com/news/167
       <pubDate>Sat, 23 May 2026 16:17:44 GMT</pubDate>
       <source url="http://www.righto.com/">Ken Shirriff's blog</source>
       <description>This article explores the hardware architecture of the Mitra 125 MS, a French minicomputer used to control the Space Shuttle's Spacelab module. The author reverse-engineers the computer's Arithmetic/Logic Unit (ALU) boards, detailing how the 16-bit processor was constructed from multiple boards rather than a single microprocessor.</description>
-    </item>
-
-    <item>
-      <title>Which age-gates should be skill-gates and vice-versa?</title>
-      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
-      <pubDate>Sat, 23 May 2026 11:34:31 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The article explores the distinction between age-gates, which rely solely on chronological maturity, and skill-gates, which require demonstrated competence. It questions why society applies different criteria for various responsibilities, such as voting versus operating specialized equipment.</description>
-    </item>
-
-    <item>
-      <title>The commencement speech that shook the world </title>
-      <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
-      <guid>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</guid>
-      <pubDate>Sat, 23 May 2026 01:14:24 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>This article critiques a commencement speech by former Google CEO Eric Schmidt, where he argued for the inevitability of AI integration into the workforce. The author challenges the fear-mongering narrative surrounding AI, suggesting that corporate leaders are leveraging anxiety to sell subscriptions while dismissing genuine concerns about labor displacement.</description>
-    </item>
-
-    <item>
-      <title>On the &lt;dl&gt;</title>
-      <link>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</guid>
-      <pubDate>Sat, 23 May 2026 20:24:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights several lesser-known features of the HTML &lt;dl&gt; element, such as its ability to support multiple &lt;dd&gt; elements per &lt;dt&gt; and the use of &lt;div&gt; for styling. It also clarifies that the tag is officially referred to as a 'description list' rather than a 'definition list'.</description>
-    </item>
-
-    <item>
-      <title>News about Raspberry Pi 6 and Microcontroller Development</title>
-      <link>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</guid>
-      <pubDate>Fri, 22 May 2026 20:15:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Raspberry Pi engineers held an AMA session on Reddit, providing insights into the development timeline for future hardware. Based on historical product launch cycles, it is projected that the Raspberry Pi 6 will likely be released around 2026 or 2027.</description>
-    </item>
-
-    <item>
-      <title>StubZero: $148,337 RCE in Google Cloud Production</title>
-      <link>https://brutecat.com/articles/google-cloud-rce</link>
-      <guid>https://brutecat.com/articles/google-cloud-rce</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://brutecat.com">Brutecat · Research</source>
-      <description>This article details a security research journey that led to discovering a $148,337 Remote Code Execution (RCE) vulnerability in Google Cloud. It highlights how fragmented information and quick action during a submission window can uncover critical production flaws.</description>
-    </item>
-
-    <item>
-      <title>Planescape: Torment, Part 1: From the Tabletop…</title>
-      <link>https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</link>
-      <guid>https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</guid>
-      <pubDate>Fri, 22 May 2026 16:27:41 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>This article explores the historical transition of Dungeons &amp; Dragons from tabletop gaming to computer adaptations. It specifically sets the stage for the development of the iconic Infinity Engine games.</description>
-    </item>
-
-    <item>
-      <title>Reiner Pope – Chip design from the bottom up</title>
-      <link>https://www.dwarkesh.com/p/reiner-pope-2</link>
-      <guid>https://www.dwarkesh.com/p/reiner-pope-2</guid>
-      <pubDate>Fri, 22 May 2026 15:38:34 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>Reiner Pope explains the fundamentals of chip design, tracing the evolution from basic logic gates to complex processing architectures. The discussion explores the structural design choices behind GPUs, TPUs, FPGAs, and the human brain.</description>
-    </item>
-
-    <item>
-      <title>Dependency Pruning</title>
-      <link>https://nesbitt.io/2026/05/22/dependency-pruning.html</link>
-      <guid>https://nesbitt.io/2026/05/22/dependency-pruning.html</guid>
-      <pubDate>Fri, 22 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article advocates for regular dependency pruning as a crucial strategy for supply-chain security, arguing that unused dependencies represent unnecessary attack vectors. Instead of merely patching vulnerabilities, developers should prioritize removing unused packages to reduce risk and maintenance overhead.</description>
-    </item>
-
-    <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The author explores a method for declaratively managing symlinks on NixOS by leveraging systemd-tmpfiles. This approach allows users to manage dotfiles without relying on complex external tools like home-manager or manual scripting.</description>
-    </item>
-
-    <item>
-      <title>Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</guid>
-      <pubDate>Fri, 22 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article clarifies the necessity of message pumping in COM STA threads. It explains that while message pumping is generally required when idle, threads may appear to function without it if they are constantly occupied.</description>
-    </item>
-
-    <item>
-      <title>How do I use Win32 structures from the Windows Runtime?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345</guid>
-      <pubDate>Thu, 21 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post addresses the technical impossibility of directly using Win32 structures within the Windows Runtime. It suggests that while direct integration is unsupported, developers may be able to simulate or 'fake' the desired behavior.</description>
-    </item>
-
-    <item>
-      <title>How to Talk to Your Coworkers </title>
-      <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</link>
-      <guid>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
-      <pubDate>Fri, 22 May 2026 19:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">iDiallo.com</source>
-      <description>This article explores the communication gap between technical developers, who rely on structured instructions, and non-technical colleagues, who prefer conversational context. It suggests that developers should embrace repetition as a tool rather than frustration, recognizing that different roles process information through different frameworks.</description>
     </item>
   </channel>
 </rss>
