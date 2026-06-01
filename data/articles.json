@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-05-31T22:18:38.460Z",
+  "last_updated": "2026-06-01T22:43:09.590Z",
   "articles": [
+    {
+      "id": "d49605652b0bbf71",
+      "title": "1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-01T08:22:52.000Z",
+      "summary_en": "Reflecting on the 1,000th data breach added to Have I Been Pwned, Troy Hunt explores why data exposure remains a pervasive issue despite modern privacy regulations. The analysis highlights a growing concern regarding the persistent and worsening delay in breach disclosures.",
+      "summary_zh": "在將第 1,000 起數據洩露事件加入 Have I Been Pwned 後，Troy Hunt 反思了為何儘管已有隱私法規，數據外洩問題依然猖獗。文章重點探討了數據洩露通報時間滯後日益嚴重的情況。",
+      "keywords": [
+        "data breach",
+        "Have I Been Pwned",
+        "privacy regulations",
+        "cybersecurity",
+        "data disclosure"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article utilizes a specific milestone (1,000 breaches) as a case study to provide evidence and insights into industry-wide trends regarding breach disclosures.",
+      "pacer_reason_zh": "文章以 1,000 起數據洩露這一里程碑作為案例，分析並證明了業界在洩露通報趨勢上的現況與問題。"
+    },
+    {
+      "id": "c876821ed607a486",
+      "title": "Weekly Update 506",
+      "url": "https://www.troyhunt.com/weekly-update-506/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-01T03:32:33.000Z",
+      "summary_en": "Troy Hunt discusses the recent wave of ShinyHunters data breaches, focusing on the criminal nature of the attacks and the inadequate response from affected organizations. He highlights the concerning lack of transparent disclosure to victims and the shifting landscape of these data dumps.",
+      "summary_zh": "Troy Hunt 探討了近期由 ShinyHunters 引發的一系列資料外洩事件，重點分析了攻擊的犯罪本質以及受影響組織應對措施的不足。他特別指出，企業在向受害者揭露資訊時缺乏透明度，以及這類資料外洩事件不斷變化的趨勢。",
+      "keywords": [
+        "ShinyHunters",
+        "Data Breach",
+        "Cybersecurity",
+        "Incident Response",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and critical analysis of current cybersecurity trends and organizational behavior regarding data breaches.",
+      "pacer_reason_zh": "內容提供了關於當前網路安全趨勢以及組織在處理資料外洩時的行為之概念性概述與批判性分析。"
+    },
+    {
+      "id": "60cd776e7f6c17df",
+      "title": "Checking assembly with Z3",
+      "url": "https://bernsteinbear.com/blog/asm-z3/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary_en": "This post explains a bug fix for ZJIT regarding integer overflow during fixnum division. The author details how a branchless test was implemented in the low-level IR to detect the edge case where dividing FIXNUM_MIN by -1 results in a bignum.",
+      "summary_zh": "本文探討了 ZJIT 中關於修復整數除法溢出的錯誤，特別是針對 FIXNUM_MIN 除以 -1 時會產生 Bignum 的邊緣案例。作者說明了如何透過底層 IR 中的無分支測試來處理此類溢出狀況。",
+      "keywords": [
+        "ZJIT",
+        "Ruby",
+        "integer overflow",
+        "fixnum",
+        "assembly"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on a specific bug fix and provides technical evidence through code snippets and performance testing logic.",
+      "pacer_reason_zh": "該文章側重於特定的臭蟲修復，並透過程式碼片段與效能測試邏輯提供了技術性證據。"
+    },
+    {
+      "id": "87c70b7b3cc1dd7a",
+      "title": "The art and engineering of Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary_en": "This article explores the technical and artistic development behind the classic video game Silpheed. It examines the engineering challenges involved in creating the game's unique visual style and gameplay mechanics.",
+      "summary_zh": "本文探討了經典遊戲《Silpheed》背後的技術開發與藝術設計。文章深入分析了在實現該遊戲獨特視覺風格與機制時所面臨的工程挑戰。",
+      "keywords": [
+        "Silpheed",
+        "Game Engineering",
+        "Retro Gaming",
+        "Software Development",
+        "Fabien Sanglard"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an in-depth conceptual explanation of the game's architecture and development history.",
+      "pacer_reason_zh": "本文針對該遊戲的架構與開發歷史提供了深入的概念性說明。"
+    },
+    {
+      "id": "6aa94bf167442b3d",
+      "title": "Micro Instrumentation and Telemetry Systems",
+      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
+      "source": "Abort Retry Fail",
+      "source_url": "https://www.abortretry.fail/",
+      "published": "2026-06-01T01:28:37.000Z",
+      "summary_en": "This article explores the historical significance of Micro Instrumentation and Telemetry Systems (MITS). It highlights the company's diverse evolution from creating rocket components and electronic calculators to pioneering the personal computer industry.",
+      "summary_zh": "本文探討了 Micro Instrumentation and Telemetry Systems (MITS) 的歷史重要性。重點介紹了該公司從製造火箭零件和電子計算器，到開創個人電腦產業的多樣化發展歷程。",
+      "keywords": [
+        "MITS",
+        "Personal Computing",
+        "Technology History",
+        "Calculators",
+        "Rockets"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and historical background of the MITS company.",
+      "pacer_reason_zh": "本文提供了 MITS 公司的概念性概述與歷史背景。"
+    },
+    {
+      "id": "6ebedb0eca1d8b8a",
+      "title": "The Infosec Phrasebook",
+      "url": "https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-01T10:00:00.000Z",
+      "summary_en": "This piece provides a cynical, tongue-in-cheek dictionary of common cybersecurity terminology. It satirizes industry jargon by reinterpreting standard security concepts through the lens of real-world operational reality.",
+      "summary_zh": "本文以諷刺幽默的角度重新定義了常見的資安術語。作者透過揭露業界行話背後的真實意涵，對安全領域的專業術語進行了充滿諷刺意味的詮釋。",
+      "keywords": [
+        "Infosec",
+        "Cybersecurity",
+        "Jargon",
+        "Satire",
+        "Glossary"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a satirical reference list or glossary of cybersecurity terms.",
+      "pacer_reason_zh": "本文是一份以諷刺風格呈現的資安術語對照表或詞彙參考指南。"
+    },
+    {
+      "id": "727c78174a033645",
+      "title": "Be thou not pilled",
+      "url": "https://www.joanwestenberg.com/be-thou-not-pilled/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-05-31T23:21:45.000Z",
+      "summary_en": "The article references Charles MacKay's 1841 classic, 'Extraordinary Popular Delusions and the Madness of Crowds,' to explore historical instances of collective irrationality. It examines how mass hysteria and speculative bubbles have consistently influenced human behavior throughout history.",
+      "summary_zh": "本文引用查爾斯·麥凱於 1841 年出版的《異常流行幻覺與群眾瘋狂》，探討人類歷史上集體非理性的現象。文章回顧了諸如鬱金香狂熱與南海泡沫等歷史事件，分析大眾心理如何導致集體瘋狂。",
+      "keywords": [
+        "Charles MacKay",
+        "mass psychology",
+        "speculative bubbles",
+        "history",
+        "crowd behavior"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview of historical mass delusions and crowd behavior, exploring the theory behind collective irrationality.",
+      "pacer_reason_zh": "文章針對歷史上的集體幻覺與群眾行為提供了概念性概述，探討了集體非理性背後的理論。"
+    },
+    {
+      "id": "dac635ead30446bf",
+      "title": "It’s not just Taylor series",
+      "url": "https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-01T12:42:12.000Z",
+      "summary_en": "The article critiques the over-reliance on Taylor series to explain mathematical approximations. It argues that while Taylor series can explain local behavior, they often fail to capture the broader structural reasons why certain functions approximate each other well.",
+      "summary_zh": "本文探討了過度依賴泰勒級數來解釋數學近似值的現象。作者認為，雖然泰勒級數能解釋局部的函數行為，但往往無法完整揭示某些函數之間具有良好近似效果的深層結構原因。",
+      "keywords": [
+        "mathematics",
+        "Taylor series",
+        "approximation",
+        "functions",
+        "analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses and evaluates the conceptual utility of mathematical theories and explanations.",
+      "pacer_reason_zh": "本文主要在探討與評估數學理論與解釋的概念性用途。"
+    },
+    {
+      "id": "48ec56d84572b440",
+      "title": "Subscribe by email",
+      "url": "https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-01T11:01:26.000Z",
+      "summary_en": "The author discusses the evolution of his blog's email subscription services since 2008. He highlights his transition through various platforms, currently utilizing Substack to deliver post notifications to his readers.",
+      "summary_zh": "作者回顧了自 2008 年以來其部落格電子郵件訂閱服務的演變歷程。他分享了多年來更換多種訂閱服務的經驗，並提到目前正使用 Substack 來發送新文章通知。",
+      "keywords": [
+        "email subscription",
+        "blogging",
+        "Substack",
+        "John D. Cook",
+        "content distribution"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides an explanation of the history and current state of the author's subscription methods.",
+      "pacer_reason_zh": "這篇文章解釋了作者部落格訂閱方法的歷史發展與現狀。"
+    },
+    {
+      "id": "170a8b8794780a42",
+      "title": "\"No way to prevent this\" say users of only package manager where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary_en": "This blog post offers a satirical take on the recurring stability and dependency issues inherent in a specific, popular software package manager. It highlights the frustration of developers who consistently encounter avoidable technical failures within their tooling ecosystem.",
+      "summary_zh": "這篇文章以諷刺的手法探討了某個熱門軟體套件管理器中，因技術缺陷而導致問題頻繁發生的現象。內容點出了開發者對於這類工具生態系中不斷重複出現、本可避免的技術故障所感到的無奈。",
+      "keywords": [
+        "software development",
+        "package manager",
+        "satire",
+        "tech culture",
+        "debugging"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article uses satire as a conceptual lens to explain and critique the cultural and technical nature of common software ecosystem problems.",
+      "pacer_reason_zh": "本文透過諷刺手法作為概念框架，旨在解釋並批判軟體生態系統中常見的文化與技術問題。"
+    },
+    {
+      "id": "798bece938f63db0",
+      "title": "Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/01/doikayt/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-01T09:25:48.000Z",
+      "summary_en": "Cory Doctorow reviews Molly Crabapple's book 'Here Where We Live Is Our Country,' which explores the history of the Jewish Labor Bund. The article highlights the organization's significant role in socialist movements and antifascist resistance, arguing that its historical importance remains largely overlooked today.",
+      "summary_zh": "柯利·多克托羅（Cory Doctorow）介紹了莫莉·克拉巴普（Molly Crabapple）的新書《我們居住的地方就是我們的國家》，該書探討了猶太勞工聯盟（Jewish Labor Bund）的歷史。文章強調了該組織在社會主義運動和反法西斯抵抗中的重要作用，並指出其歷史影響力在當代已被嚴重遺忘。",
+      "keywords": [
+        "Jewish Labor Bund",
+        "Molly Crabapple",
+        "history",
+        "socialism",
+        "antifascism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a conceptual overview and historical explanation of a specific political organization.",
+      "pacer_reason_zh": "本文旨在對特定政治組織進行概念性概述與歷史背景說明。"
+    },
+    {
+      "id": "471c33bc90896441",
+      "title": "The web is changing, and we are not going back ",
+      "url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-01T19:34:37.000Z",
+      "summary_en": "The article discusses the shift in search engine behavior, noting that Google has moved from a keyword-matching tool to an AI-driven conversational agent. The author critiques this evolution, arguing that the push for unsolicited information and AI-generated answers creates noise and obscures the direct access to reliable sources that characterized the web of the past.",
+      "summary_zh": "本文探討了搜尋引擎行為的轉變，指出 Google 已從關鍵字匹配工具轉變為由 AI 驅動的對話代理。作者批評了這種演變，認為強制推送未經請求的資訊以及 AI 生成的答案，反而製造了雜訊，掩蓋了過去那種能直接獲取可靠資訊的網路模式。",
+      "keywords": [
+        "Google",
+        "AI search",
+        "natural language processing",
+        "information retrieval",
+        "web search evolution"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how the philosophy and utility of search engines have evolved over time.",
+      "pacer_reason_zh": "本文對搜尋引擎的理念及其效用如何隨時間演變進行了概念性分析。"
+    },
+    {
+      "id": "4f9660b7e3af6f55",
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-06-01T17:32:50.000Z",
+      "summary_en": "Hackers compromised high-profile Instagram accounts by exploiting Meta's AI support bot. The attackers followed circulated instructions to manipulate the bot into resetting passwords for targeted profiles.",
+      "summary_zh": "駭客透過惡意利用 Meta 的 AI 支援機器人，成功重置密碼並入侵了包括歐巴馬白宮在內的多個高知名度 Instagram 帳號。這些攻擊行動源於網路上流傳的一套欺騙 AI 機器人的指令操作。",
+      "keywords": [
+        "Instagram",
+        "Meta",
+        "AI",
+        "Cybersecurity",
+        "Hacking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific security breach and real-world incident involving the exploitation of an AI system.",
+      "pacer_reason_zh": "本文報導了一起特定的安全漏洞事件，並記錄了該 AI 系統遭實際惡意利用的案例。"
+    },
+    {
+      "id": "4c852dd905f0b551",
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-01T21:14:47.000Z",
+      "summary_en": "Hackers discovered a critical security flaw in Meta's support system, where an AI chatbot could be manipulated to grant unauthorized access to high-profile Instagram accounts. This incident highlights the dangers of connecting LLM-based agents to sensitive account recovery processes without sufficient safeguards.",
+      "summary_zh": "駭客發現 Meta 的支援系統存在嚴重的安全漏洞，利用 AI 聊天機器人即可取得高權限 Instagram 帳號的控制權。此事件凸顯了在缺乏足夠安全防護的情況下，將大型語言模型整合至敏感帳戶恢復流程中所帶來的巨大風險。",
+      "keywords": [
+        "Meta",
+        "AI security",
+        "account takeover",
+        "vulnerability",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a verified report of a real-world security exploit and highlights a failure in AI-integrated infrastructure.",
+      "pacer_reason_zh": "本文提供了一項真實世界安全漏洞的驗證報告，並點出了 AI 整合基礎架構中的失誤。"
+    },
+    {
+      "id": "78127eabced19cee",
+      "title": "May 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-01T04:45:00.000Z",
+      "summary_en": "Simon Willison announces the release of his May 2026 sponsors-only newsletter, covering topics like AI model trends, conference updates, and the launch of Datasette Agent. He invites readers to become sponsors to access current editions while offering previous issues as a preview.",
+      "summary_zh": "Simon Willison 發布了 2026 年 5 月的贊助者專屬電子報，內容涵蓋 AI 模型趨勢、會議更新以及 Datasette Agent 的發布。他邀請讀者透過贊助來獲取最新內容，並提供往期電子報作為預覽。",
+      "keywords": [
+        "Simon Willison",
+        "newsletter",
+        "Datasette",
+        "AI trends",
+        "sponsorship"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a reference/announcement for a newsletter archive and subscription access.",
+      "pacer_reason_zh": "此貼文作為電子報存檔與訂閱權限的參考與公告。"
+    },
+    {
+      "id": "8de886409e6d31bf",
+      "title": "datasette 1.0a32",
+      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-05-31T23:23:38.000Z",
+      "summary_en": "Datasette 1.0a32 has been released as a minor bugfix update. This version addresses issues with INSERT RETURNING queries and improves base_url handling for better integration with service workers.",
+      "summary_zh": "Datasette 1.0a32 發布了小型錯誤修復更新。此版本解決了 INSERT RETURNING 查詢的問題，並改善了 base_url 的處理方式，以提升與 Service Workers 的整合表現。",
+      "keywords": [
+        "datasette",
+        "release notes",
+        "bugfix",
+        "python",
+        "database"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is an announcement of a software release and its specific bug fixes, serving as reference material for users.",
+      "pacer_reason_zh": "這是關於軟體發布及其錯誤修復的公告，作為使用者的參考資料。"
+    },
+    {
+      "id": "08ce59bbf26632a0",
+      "title": "Weird projects I shipped with AI",
+      "url": "https://seangoedecke.com/weird-projects-i-shipped-with-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-06-01T00:00:00.000Z",
+      "summary_en": "This article explores a collection of unconventional and experimental projects developed using AI technologies. It highlights the author's creative process and the practical outcomes of shipping AI-powered tools.",
+      "summary_zh": "本文介紹了一系列運用人工智慧技術開發的創新與實驗性專案。作者分享了其創意發想過程，以及成功推出這些 AI 應用工具的實際經驗。",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Projects",
+        "Software Development",
+        "Experimentation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study or personal account of real-world AI implementation and project outcomes.",
+      "pacer_reason_zh": "本文屬於個人專案的案例研究，分享了實際開發 AI 應用後的成果與經驗。"
+    },
     {
       "id": "b3546c57608ea650",
       "title": "A day in the threatened forests of the Central Highlands",
