@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-06-01T22:43:09.590Z",
+  "last_updated": "2026-06-02T22:39:28.686Z",
   "articles": [
+    {
+      "id": "4e3a670aeb2cce6b",
+      "title": "I went on the Built for Turbulence podcast",
+      "url": "https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-06-02T00:00:00.000Z",
+      "summary_en": "Martin Alderson discusses the shifting economics of software in the age of AI agents. He highlights the risks of executing human-written code without AI audits and explores the implications of the 'Figma Trap' on software development.",
+      "summary_zh": "Martin Alderson 在節目中探討了 AI 代理如何改變軟體經濟學。他強調了在沒有 AI 審核的情況下執行人工編寫代碼的風險，並分析了「Figma 陷阱」對軟體開發的影響。",
+      "keywords": [
+        "AI agents",
+        "software economics",
+        "Figma Trap",
+        "code audit",
+        "podcast"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining concepts and theories regarding the future of software development and AI economics.",
+      "pacer_reason_zh": "該內容側重於解釋關於軟體開發未來與 AI 經濟學的概念與理論。"
+    },
+    {
+      "id": "e08109140dad44d3",
+      "title": "An Ode to the Exacting Pedantry of Computers",
+      "url": "https://blog.jim-nielsen.com/2026/pedantry-of-computing/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-02T19:00:00.000Z",
+      "summary_en": "The author reflects on how computers traditionally demanded extreme precision and pedantic logic, which forced developers to think critically about their designs. However, the rise of LLMs removes this friction by filling in the details, potentially leading to a loss of the rigorous design process that previously improved software quality.",
+      "summary_zh": "作者回顧了傳統電腦對精確度與邏輯的嚴格要求，認為這種「吹毛求疵」的過程迫使開發者深入思考設計細節。然而，隨著大型語言模型（LLMs）的出現，這種摩擦力逐漸消失，作者擔心這會導致軟體開發中那種促進思考與優化的嚴謹設計過程隨之喪失。",
+      "keywords": [
+        "programming",
+        "pedantry",
+        "LLM",
+        "software design",
+        "logic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in programming methodology and the philosophical impact of LLMs on how developers think about precision and design.",
+      "pacer_reason_zh": "本文探討了程式設計方法的概念性轉變，以及大型語言模型對開發者在精確度與設計思維上的哲學影響。"
+    },
+    {
+      "id": "444b22a0db0c584a",
+      "title": "Logic for Programmers extra credits",
+      "url": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-06-02T14:48:48.000Z",
+      "summary_en": "The author has released a collection of supplemental materials for the book 'Logic for Programmers' to cover technical topics that didn't fit into the main publication. These additions include concepts like concurrent process orderings, first-order logic, the Liskov substitution principle, and set orders.",
+      "summary_zh": "作者為《Logic for Programmers》一書發布了一系列補充教材，涵蓋了書中因篇幅或深度問題而未收錄的技術主題。這些內容探討了並行處理排序、一階邏輯、Liskov 替換原則以及集合排序等概念。",
+      "keywords": [
+        "Logic for Programmers",
+        "Computer Science",
+        "Mathematics",
+        "Formal Logic",
+        "Programming Theory"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a reference list and repository of supplementary educational materials.",
+      "pacer_reason_zh": "這篇文章主要作為參考資料清單與補充教學內容的索引。"
+    },
+    {
+      "id": "5a577b78ae731dc0",
+      "title": "Is the Monaco Grand Prix decided at qualifying?",
+      "url": "https://entropicthoughts.com/is-monaco-decided-at-qualifying",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-06-01T22:00:00.000Z",
+      "summary_en": "This article investigates the common belief that the Monaco Grand Prix is primarily won during qualifying due to the track's narrow layout. The author seeks to fact-check whether starting position is statistically predictive of race outcomes in Monte Carlo.",
+      "summary_zh": "本文探討了摩納哥大獎賽的勝負是否主要取決於排位賽表現的普遍觀點。作者透過數據查核，檢視摩納哥賽道的狹窄設計是否真的讓起跑位置成為預測比賽結果的關鍵。",
+      "keywords": [
+        "Formula One",
+        "Monaco Grand Prix",
+        "Qualifying",
+        "Motorsport Statistics",
+        "Fact-check"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on verifying a claim through statistical evidence and data analysis of race outcomes.",
+      "pacer_reason_zh": "本文重點在於透過統計證據與賽事結果數據，來驗證關於起跑順位對比賽影響的說法。"
+    },
+    {
+      "id": "94d6411aa1ca41bd",
+      "title": "The placeholder name for the Windows 8 experience was “modern”",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-01T14:00:00.000Z",
+      "summary_en": "This post highlights that the term 'modern' was originally intended as a temporary placeholder name for the Windows 8 user experience. It reflects on the terminology evolution within Microsoft development history.",
+      "summary_zh": "這篇文章指出「Modern」一詞最初僅是 Windows 8 使用者體驗的暫時性代稱。內容回顧了微軟開發歷史中關於術語命名的演變過程。",
+      "keywords": [
+        "Windows 8",
+        "Microsoft",
+        "Modern UI",
+        "tech history",
+        "naming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the origin and conceptual background of a specific terminology used in software development.",
+      "pacer_reason_zh": "該內容解釋了軟體開發中特定術語的起源與概念背景。"
+    },
+    {
+      "id": "f13f16cdf00324da",
+      "title": "Using FourSquare's API to post location checkins to social media",
+      "url": "https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-02T11:34:51.000Z",
+      "summary_en": "This post discusses the author's desire to automatically share location check-ins from Foursquare's Swarm app to other social media platforms. It addresses the lack of native cross-posting features in walled-garden apps and explores using the Foursquare API to bridge this gap.",
+      "summary_zh": "本文探討了作者希望將 Foursquare Swarm 應用程式的地點打卡記錄自動分享至其他社交媒體的需求。文章指出由於封閉式應用程式缺乏原生跨平台分享功能，作者嘗試透過 Foursquare API 來實現此自動化流程。",
+      "keywords": [
+        "Foursquare",
+        "Swarm",
+        "API",
+        "Social Media",
+        "Automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the practical process of utilizing an API to achieve a specific functional goal, fitting the procedural how-to category.",
+      "pacer_reason_zh": "本文介紹了利用 API 達成特定功能目標的實作過程，屬於程序導向的操作指南。"
+    },
+    {
+      "id": "e9456ad29e8f2a1f",
+      "title": "Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend",
+      "url": "https://pluralistic.net/2026/06/02/must-we-pretend/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-02T09:18:16.000Z",
+      "summary_en": "Cory Doctorow reflects on a talk by Brian Eno regarding the nature and purpose of art. The discussion explores the distinction between utility and art, positing that art is defined as intentional actions beyond survival that aim to evoke emotions in others.",
+      "summary_zh": "Cory Doctorow 分享了對 Brian Eno 關於藝術本質與目的演講的見解。文章探討了實用性與藝術之間的區別，認為藝術是指超越生存需求、旨在引發他人情感的刻意創作行為。",
+      "keywords": [
+        "Brian Eno",
+        "art",
+        "storytelling",
+        "creativity",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual definition and theory of what constitutes art.",
+      "pacer_reason_zh": "文章探討了關於藝術構成的概念性定義與理論。"
+    },
+    {
+      "id": "b276fa3c05b63c04",
+      "title": "Microsoft's new MAI models",
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T22:21:52.000Z",
+      "summary_en": "Microsoft has announced two new specialized LLMs, MAI-Thinking-1 and MAI-Code-1-Flash, which focus on reasoning and coding tasks respectively. The author highlights the models' smaller parameter sizes and Microsoft's claim that they were trained exclusively on clean, commercially licensed data.",
+      "summary_zh": "微軟發布了兩款全新的專業大語言模型 MAI-Thinking-1 與 MAI-Code-1-Flash，分別針對推理與程式編寫任務進行優化。作者特別指出這些模型參數較小，且微軟宣稱其訓練數據完全來自合規的商業授權資源。",
+      "keywords": [
+        "Microsoft",
+        "LLM",
+        "MAI-Thinking-1",
+        "MAI-Code-1-Flash",
+        "AI Data"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the introduction of new models and discusses the conceptual implications of their training data sources.",
+      "pacer_reason_zh": "本文介紹了新推出的模型，並探討了其訓練數據來源所帶來的概念性影響。"
+    },
+    {
+      "id": "89f1c038daf84e84",
+      "title": "California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T18:17:03.000Z",
+      "summary_en": "Simon Willison shares a brief observation of California Brown Pelicans at the Fort Mason venue during the Microsoft Build conference. This post serves as a personal update amidst professional tech industry events.",
+      "summary_zh": "Simon Willison 分享了他在微軟 Build 大會期間，於舊金山 Fort Mason 目睹加州褐鵜鶘的短暫觀察。這是一篇記錄專業科技活動期間個人生活的隨筆。",
+      "keywords": [
+        "Microsoft Build",
+        "California Brown Pelican",
+        "Fort Mason",
+        "Simon Willison",
+        "Personal Update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a brief, observational reference or status update regarding the author's location and current surroundings.",
+      "pacer_reason_zh": "該文章作為作者所在地點與當前環境的簡短觀察紀錄或狀態更新。"
+    },
+    {
+      "id": "45855882c4c28111",
+      "title": "Pasted File Editor",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T04:13:36.000Z",
+      "summary_en": "Simon Willison introduces the 'Pasted File Editor,' a prototype tool inspired by Claude's ability to convert large text pastes into file attachments. The tool allows users to drag-and-drop files or paste content directly for easier management, developed with the assistance of AI.",
+      "summary_zh": "Simon Willison 介紹了「貼上檔案編輯器」(Pasted File Editor)，這是一款受 Claude 將大量文字貼上轉為檔案附件功能所啟發的工具。使用者可以直接拖曳檔案或貼上內容，以便更輕鬆地進行管理，該工具是透過 AI 輔助開發而成。",
+      "keywords": [
+        "Pasted File Editor",
+        "AI-assisted programming",
+        "Claude",
+        "web tools",
+        "JavaScript"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a functional utility tool and describes how it works as a practical solution for file manipulation.",
+      "pacer_reason_zh": "本文介紹了一個實用的工具軟體，並說明其作為檔案處理解決方案的功能與運作方式。"
+    },
     {
       "id": "d49605652b0bbf71",
       "title": "1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever",

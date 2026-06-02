@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "b276fa3c05b63c04",
+      "title": "Microsoft's new MAI models",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Microsoft",
+        "LLM",
+        "MAI-Thinking-1",
+        "MAI-Code-1-Flash",
+        "AI Data"
+      ],
+      "published": "2026-06-02T22:21:52.000Z"
+    },
+    {
+      "id": "e08109140dad44d3",
+      "title": "An Ode to the Exacting Pedantry of Computers",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/pedantry-of-computing/",
+      "pacer": "C",
+      "keywords": [
+        "programming",
+        "pedantry",
+        "LLM",
+        "software design",
+        "logic"
+      ],
+      "published": "2026-06-02T19:00:00.000Z"
+    },
+    {
+      "id": "89f1c038daf84e84",
+      "title": "California Brown Pelican",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "Microsoft Build",
+        "California Brown Pelican",
+        "Fort Mason",
+        "Simon Willison",
+        "Personal Update"
+      ],
+      "published": "2026-06-02T18:17:03.000Z"
+    },
+    {
+      "id": "444b22a0db0c584a",
+      "title": "Logic for Programmers extra credits",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "url": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/",
+      "pacer": "R",
+      "keywords": [
+        "Logic for Programmers",
+        "Computer Science",
+        "Mathematics",
+        "Formal Logic",
+        "Programming Theory"
+      ],
+      "published": "2026-06-02T14:48:48.000Z"
+    },
+    {
+      "id": "f13f16cdf00324da",
+      "title": "Using FourSquare's API to post location checkins to social media",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/",
+      "pacer": "P",
+      "keywords": [
+        "Foursquare",
+        "Swarm",
+        "API",
+        "Social Media",
+        "Automation"
+      ],
+      "published": "2026-06-02T11:34:51.000Z"
+    },
+    {
+      "id": "e9456ad29e8f2a1f",
+      "title": "Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/02/must-we-pretend/",
+      "pacer": "C",
+      "keywords": [
+        "Brian Eno",
+        "art",
+        "storytelling",
+        "creativity",
+        "philosophy"
+      ],
+      "published": "2026-06-02T09:18:16.000Z"
+    },
+    {
+      "id": "45855882c4c28111",
+      "title": "Pasted File Editor",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Pasted File Editor",
+        "AI-assisted programming",
+        "Claude",
+        "web tools",
+        "JavaScript"
+      ],
+      "published": "2026-06-02T04:13:36.000Z"
+    },
+    {
+      "id": "4e3a670aeb2cce6b",
+      "title": "I went on the Built for Turbulence podcast",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI agents",
+        "software economics",
+        "Figma Trap",
+        "code audit",
+        "podcast"
+      ],
+      "published": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "id": "5a577b78ae731dc0",
+      "title": "Is the Monaco Grand Prix decided at qualifying?",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/is-monaco-decided-at-qualifying",
+      "pacer": "E",
+      "keywords": [
+        "Formula One",
+        "Monaco Grand Prix",
+        "Qualifying",
+        "Motorsport Statistics",
+        "Fact-check"
+      ],
+      "published": "2026-06-01T22:00:00.000Z"
+    },
+    {
       "id": "4c852dd905f0b551",
       "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
       "source": "Simon Willison's Weblog",
@@ -47,6 +191,22 @@
         "Hacking"
       ],
       "published": "2026-06-01T17:32:50.000Z"
+    },
+    {
+      "id": "94d6411aa1ca41bd",
+      "title": "The placeholder name for the Windows 8 experience was “modern”",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373",
+      "pacer": "C",
+      "keywords": [
+        "Windows 8",
+        "Microsoft",
+        "Modern UI",
+        "tech history",
+        "naming"
+      ],
+      "published": "2026-06-01T14:00:00.000Z"
     },
     {
       "id": "dac635ead30446bf",
@@ -257,22 +417,6 @@
       "published": "2026-06-01T00:00:00.000Z"
     },
     {
-      "id": "8de886409e6d31bf",
-      "title": "datasette 1.0a32",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "release notes",
-        "bugfix",
-        "python",
-        "database"
-      ],
-      "published": "2026-05-31T23:23:38.000Z"
-    },
-    {
       "id": "727c78174a033645",
       "title": "Be thou not pilled",
       "source": "Westenberg.",
@@ -287,22 +431,6 @@
         "crowd behavior"
       ],
       "published": "2026-05-31T23:21:45.000Z"
-    },
-    {
-      "id": "60b11007e147b840",
-      "title": "The solution might be cancelling my AI subscription",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "productivity",
-        "software development",
-        "digital discipline",
-        "attention span"
-      ],
-      "published": "2026-05-31T16:31:32.000Z"
     },
     {
       "id": "4c3e8b3273ae4dcb",
@@ -351,22 +479,6 @@
         "Hardware History"
       ],
       "published": "2026-05-31T02:19:49.552Z"
-    },
-    {
-      "id": "4c20c318297975db",
-      "title": "Quoting Karen Kwok for Reuters Breakingviews",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Anthropic",
-        "run-rate revenue",
-        "AI business",
-        "financial reporting",
-        "revenue calculation"
-      ],
-      "published": "2026-05-31T01:48:12.000Z"
     },
     {
       "id": "5267a20b41c6cf49",
@@ -985,16 +1097,6 @@
       "published": "2026-05-26T11:00:00.000Z"
     },
     {
-      "id": "1e31d719603349b2",
-      "title": "Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-26T09:45:37.000Z"
-    },
-    {
       "id": "e954aca732ba9434",
       "title": "Copying Remote Command Output to Your macOS Clipboard",
       "source": "IT Notes",
@@ -1072,16 +1174,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-05-25T14:54:59.000Z"
-    },
-    {
-      "id": "868eb4935ba629c7",
-      "title": "A hypothetical redesign of System.Diagnostics.Process to avoid confusion over properties that are valid only when you are the one who called Start",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-25T14:00:00.000Z"
     },
     {
       "id": "138181572c8b801a",
@@ -1260,22 +1352,6 @@
         "construction physics"
       ],
       "published": "2026-05-23T12:02:39.000Z"
-    },
-    {
-      "id": "736dc2750165cc10",
-      "title": "Which age-gates should be skill-gates and vice-versa?",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/",
-      "pacer": "C",
-      "keywords": [
-        "age-gates",
-        "skill-gates",
-        "regulation",
-        "policy",
-        "competence"
-      ],
-      "published": "2026-05-23T11:34:31.000Z"
     },
     {
       "id": "8f4f809e6348380c",
@@ -2556,22 +2632,6 @@
       "published": "2026-05-07T10:45:00.000Z"
     },
     {
-      "id": "ff3991334b393933",
-      "title": "Article previews in RSS",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/article-previews-in-rss",
-      "pacer": "P",
-      "keywords": [
-        "RSS",
-        "Emacs",
-        "Org-mode",
-        "Blog",
-        "Automation"
-      ],
-      "published": "2026-05-06T22:00:00.000Z"
-    },
-    {
       "id": "6b5da7a47758bb5e",
       "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
       "source": "Miguel Grinberg's Blog",
@@ -2665,22 +2725,6 @@
         "word frequency"
       ],
       "published": "2026-05-04T00:00:00.000Z"
-    },
-    {
-      "id": "1d1a1cb59c729269",
-      "title": "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
-      "pacer": "P",
-      "keywords": [
-        "HTML",
-        "Web Development",
-        "CSS View Transitions",
-        "Progressive Enhancement",
-        "JavaScript"
-      ],
-      "published": "2026-05-03T19:00:00.000Z"
     },
     {
       "id": "41ec5c30a3a98ddb",
@@ -2873,22 +2917,6 @@
         "community"
       ],
       "published": "2026-04-28T17:48:50.000Z"
-    },
-    {
-      "id": "067a78a56cfb3074",
-      "title": "Illegal vs Unwanted States",
-      "source": "Computer Things",
-      "source_url": "https://buttondown.com/hillelwayne",
-      "url": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/",
-      "pacer": "C",
-      "keywords": [
-        "system design",
-        "software architecture",
-        "state management",
-        "error handling",
-        "data consistency"
-      ],
-      "published": "2026-04-28T15:14:09.000Z"
     },
     {
       "id": "a1db390df188cc3d",
@@ -3097,22 +3125,6 @@
         "Semiconductors"
       ],
       "published": "2026-04-19T20:36:46.000Z"
-    },
-    {
-      "id": "1fd2e40f35d85818",
-      "title": "Figma's woes compound with Claude Design",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "Figma",
-        "Claude Design",
-        "AI",
-        "UI/UX",
-        "Product Strategy"
-      ],
-      "published": "2026-04-19T00:00:00.000Z"
     },
     {
       "id": "311738bd63cab723",
