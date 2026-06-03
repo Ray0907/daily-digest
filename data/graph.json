@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "45d32ac537f650f6",
+      "title": "Is datacentre sovereignty really that important?",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "datacentres",
+        "sovereignty",
+        "UK",
+        "infrastructure"
+      ],
+      "published": "2026-06-04T00:00:00.000Z"
+    },
+    {
+      "id": "60404dd229b76ddc",
+      "title": "Now that your newsletter is AI-generated, I've Unsubscribed ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed",
+      "pacer": "C",
+      "keywords": [
+        "newsletter",
+        "AI",
+        "authenticity",
+        "content marketing",
+        "human voice"
+      ],
+      "published": "2026-06-03T21:10:00.000Z"
+    },
+    {
+      "id": "b42f5428027ce4b2",
+      "title": "Naively summing an alternating series",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/03/naive-sum/",
+      "pacer": "E",
+      "keywords": [
+        "numerical analysis",
+        "floating point",
+        "power series",
+        "alternating series",
+        "computational error"
+      ],
+      "published": "2026-06-03T15:13:24.000Z"
+    },
+    {
+      "id": "87024484647f1533",
+      "title": "Skills Registry Threat Models",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html",
+      "pacer": "C",
+      "keywords": [
+        "AI Agents",
+        "Threat Modeling",
+        "Cybersecurity",
+        "Package Managers",
+        "Prompt Injection"
+      ],
+      "published": "2026-06-03T15:00:00.000Z"
+    },
+    {
+      "id": "2d52428acfe96e9a",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Uber",
+        "AI agents",
+        "Claude Code",
+        "cost management",
+        "token spending"
+      ],
+      "published": "2026-06-03T12:01:27.000Z"
+    },
+    {
+      "id": "de439b63f40d658d",
+      "title": "London Data Store Relaunch",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/",
+      "pacer": "C",
+      "keywords": [
+        "London Data Store",
+        "Open Data",
+        "Government Tech",
+        "Infrastructure",
+        "Public Sector"
+      ],
+      "published": "2026-06-03T11:34:49.000Z"
+    },
+    {
+      "id": "1e7def351b2eb5f3",
+      "title": "Welcoming the Philippine Government to Have I Been Pwned",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/",
+      "pacer": "E",
+      "keywords": [
+        "HIBP",
+        "Cybersecurity",
+        "Philippines",
+        "Data Breach",
+        "Government"
+      ],
+      "published": "2026-06-03T03:40:17.000Z"
+    },
+    {
+      "id": "999a351dc31c08b4",
+      "title": "A survey of inlining heuristics",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "url": "https://bernsteinbear.com/blog/inlining-heuristics/?utm_source=rss",
+      "pacer": "C",
+      "keywords": [
+        "compilers",
+        "inlining",
+        "JIT",
+        "optimization",
+        "ruby"
+      ],
+      "published": "2026-06-03T00:00:00.000Z"
+    },
+    {
       "id": "b276fa3c05b63c04",
       "title": "Microsoft's new MAI models",
       "source": "Simon Willison's Weblog",
@@ -15,6 +143,38 @@
         "AI Data"
       ],
       "published": "2026-06-02T22:21:52.000Z"
+    },
+    {
+      "id": "1b60ad396cb5e531",
+      "title": "datasette-agent-micropython 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "datasette",
+        "python",
+        "micropython",
+        "sandboxing",
+        "webassembly"
+      ],
+      "published": "2026-06-02T19:28:36.000Z"
+    },
+    {
+      "id": "6fd60973a1413c1b",
+      "title": "micropython-wasm 0.1a1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "micropython",
+        "webassembly",
+        "python",
+        "sandboxing",
+        "software-release"
+      ],
+      "published": "2026-06-02T19:20:47.000Z"
     },
     {
       "id": "e08109140dad44d3",
@@ -65,6 +225,22 @@
       "published": "2026-06-02T14:48:48.000Z"
     },
     {
+      "id": "d7423baa3c39deb3",
+      "title": "Rotation revisited: Another unidirectional algorithm",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376",
+      "pacer": "P",
+      "keywords": [
+        "Rotation",
+        "Algorithm",
+        "Programming",
+        "The Old New Thing",
+        "Unidirectional"
+      ],
+      "published": "2026-06-02T14:00:00.000Z"
+    },
+    {
       "id": "f13f16cdf00324da",
       "title": "Using FourSquare's API to post location checkins to social media",
       "source": "Terence Eden’s Blog",
@@ -97,22 +273,6 @@
       "published": "2026-06-02T09:18:16.000Z"
     },
     {
-      "id": "45855882c4c28111",
-      "title": "Pasted File Editor",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Pasted File Editor",
-        "AI-assisted programming",
-        "Claude",
-        "web tools",
-        "JavaScript"
-      ],
-      "published": "2026-06-02T04:13:36.000Z"
-    },
-    {
       "id": "4e3a670aeb2cce6b",
       "title": "I went on the Built for Turbulence podcast",
       "source": "Martin Alderson",
@@ -143,22 +303,6 @@
         "Fact-check"
       ],
       "published": "2026-06-01T22:00:00.000Z"
-    },
-    {
-      "id": "4c852dd905f0b551",
-      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Meta",
-        "AI security",
-        "account takeover",
-        "vulnerability",
-        "LLM"
-      ],
-      "published": "2026-06-01T21:14:47.000Z"
     },
     {
       "id": "471c33bc90896441",
@@ -287,22 +431,6 @@
         "data disclosure"
       ],
       "published": "2026-06-01T08:22:52.000Z"
-    },
-    {
-      "id": "78127eabced19cee",
-      "title": "May 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Simon Willison",
-        "newsletter",
-        "Datasette",
-        "AI trends",
-        "sponsorship"
-      ],
-      "published": "2026-06-01T04:45:00.000Z"
     },
     {
       "id": "c876821ed607a486",
@@ -689,22 +817,6 @@
       "published": "2026-05-29T14:00:00.000Z"
     },
     {
-      "id": "56542eeb33095113",
-      "title": "Online (one-pass) algorithms",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/",
-      "pacer": "C",
-      "keywords": [
-        "algorithms",
-        "online-algorithms",
-        "statistics",
-        "sample-variance",
-        "data-processing"
-      ],
-      "published": "2026-05-29T12:24:30.000Z"
-    },
-    {
       "id": "787749f9741ffcb2",
       "title": "The UK Government's Low Value Purchase System is a Waste of Time",
       "source": "Terence Eden’s Blog",
@@ -863,22 +975,6 @@
         "authoritarianism"
       ],
       "published": "2026-05-28T11:24:23.000Z"
-    },
-    {
-      "id": "92c586e7782174a0",
-      "title": "Package managers that package package managers",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
-      "pacer": "E",
-      "keywords": [
-        "package managers",
-        "software engineering",
-        "ecosystems",
-        "dependency",
-        "infrastructure"
-      ],
-      "published": "2026-05-28T10:00:00.000Z"
     },
     {
       "id": "c3ec5121c787e6e1",
@@ -1077,16 +1173,6 @@
       "published": "2026-05-26T15:30:00.000Z"
     },
     {
-      "id": "e59319f1cf524512",
-      "title": "If C# and JavaScript lets me await a Windows Runtime asynchronous operation more than once, why not C++/WinRT?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260526-00/?p=112354",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-26T14:00:00.000Z"
-    },
-    {
       "id": "2c9a773cdce48ab1",
       "title": "The Great Depopulation",
       "source": "Derek Thompson | The Atlantic",
@@ -1184,16 +1270,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-05-25T13:21:49.000Z"
-    },
-    {
-      "id": "87f9c7aa351a606d",
-      "title": "PHP - simple way to send HTTP headers before a script ends",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-25T11:34:38.000Z"
     },
     {
       "id": "fe55fedd440ff5e3",
@@ -1895,22 +1971,6 @@
         "Scalability"
       ],
       "published": "2026-05-18T09:44:00.000Z"
-    },
-    {
-      "id": "773fb46b066eb8a9",
-      "title": "Weekly Update 504",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-504/",
-      "pacer": "C",
-      "keywords": [
-        "cybersecurity",
-        "ransomware",
-        "data breach",
-        "information security",
-        "Troy Hunt"
-      ],
-      "published": "2026-05-18T03:46:55.000Z"
     },
     {
       "id": "a5381fa418385c56",
@@ -2695,22 +2755,6 @@
       "published": "2026-05-04T14:21:45.000Z"
     },
     {
-      "id": "779e8c793e4c6f70",
-      "title": "29th August 2026: a scenario",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "cloud security",
-        "scenario",
-        "narrative",
-        "cybersecurity"
-      ],
-      "published": "2026-05-04T00:00:00.000Z"
-    },
-    {
       "id": "baf0560bfe83e07a",
       "title": "Content for Content’s Sake",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -3488,16 +3532,6 @@
       "published": "2026-03-27T15:02:13.000Z"
     },
     {
-      "id": "c2189c3fcde37dcf",
-      "title": "Using Perfetto in ZJIT",
-      "source": "Max Bernstein's Blog",
-      "source_url": "https://bernsteinbear.com/",
-      "url": "https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-27T00:00:00.000Z"
-    },
-    {
       "id": "71b84c588ff701f2",
       "title": "Which Design Doc Did a Human Write?",
       "source": "Refactoring English",
@@ -3858,14 +3892,15 @@
   ],
   "links": [
     {
-      "source": "4c852dd905f0b551",
-      "target": "a73a4e39e54e635b",
+      "source": "1b60ad396cb5e531",
+      "target": "6fd60973a1413c1b",
       "shared_keywords": [
-        "AI security",
-        "LLM",
-        "vulnerability"
+        "micropython",
+        "webassembly",
+        "python",
+        "sandboxing"
       ],
-      "strength": 0.6
+      "strength": 0.8
     },
     {
       "source": "c876821ed607a486",

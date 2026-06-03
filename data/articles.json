@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-02T22:39:28.686Z",
+  "last_updated": "2026-06-03T22:41:18.890Z",
   "articles": [
+    {
+      "id": "45d32ac537f650f6",
+      "title": "Is datacentre sovereignty really that important?",
+      "url": "https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-06-04T00:00:00.000Z",
+      "summary_en": "The article critically evaluates the UK's push for domestic AI datacentres. It argues that common justifications like latency, taxation, and sovereignty are largely unsupported by technical and economic realities.",
+      "summary_zh": "本文批判性地評估了英國推動建設本土AI數據中心的趨勢。作者認為，關於數據主權的常見論點，如延遲、稅收與控制權，在現實層面大多缺乏足夠的說服力。",
+      "keywords": [
+        "AI",
+        "datacentres",
+        "sovereignty",
+        "UK",
+        "infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument challenging the prevailing political and economic theories surrounding data sovereignty.",
+      "pacer_reason_zh": "本文提出了一項概念性論點，挑戰了圍繞數據主權的現行政治與經濟理論。"
+    },
+    {
+      "id": "1e7def351b2eb5f3",
+      "title": "Welcoming the Philippine Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-03T03:40:17.000Z",
+      "summary_en": "The Philippine government has joined the Have I Been Pwned (HIBP) free government service. The National CERT and the Department of Information and Communications Technology will now use the platform to monitor official domains for data breaches.",
+      "summary_zh": "菲律賓政府正式加入「Have I Been Pwned」的免費政府服務計畫。菲律賓國家電腦緊急應變小組（CERT）與資通訊科技部將利用該平台監控官方網域，以即時掌握資安外洩風險。",
+      "keywords": [
+        "HIBP",
+        "Cybersecurity",
+        "Philippines",
+        "Data Breach",
+        "Government"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific event and the implementation of a security service as a case of adoption.",
+      "pacer_reason_zh": "本文報導了具體的合作事件，說明政府機關採用該安全服務的實例。"
+    },
+    {
+      "id": "999a351dc31c08b4",
+      "title": "A survey of inlining heuristics",
+      "url": "https://bernsteinbear.com/blog/inlining-heuristics/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-06-03T00:00:00.000Z",
+      "summary_en": "This article explores the fundamental role of inlining in just-in-time compilers for dynamic languages like Ruby. It explains how inlining serves as a critical optimization lever to reduce method call overhead and memory traffic, enabling further compiler optimizations.",
+      "summary_zh": "本文探討了動態語言（如 Ruby）的即時編譯器中，「內聯（inlining）」技術的核心作用。文章解釋了內聯如何作為關鍵的優化手段，以減少方法呼叫開銷與記憶體存取，從而為編譯器進行後續優化鋪路。",
+      "keywords": [
+        "compilers",
+        "inlining",
+        "JIT",
+        "optimization",
+        "ruby"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why inlining is necessary for compiler optimization in dynamic languages.",
+      "pacer_reason_zh": "文章針對動態語言編譯器中為何需要「內聯」技術提供了概念性的解釋與說明。"
+    },
+    {
+      "id": "87024484647f1533",
+      "title": "Skills Registry Threat Models",
+      "url": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-03T15:00:00.000Z",
+      "summary_en": "This article explores the security threat models associated with AI agent skills registries, which distribute prompts, scripts, and dependencies. It highlights how these registries inherit risks from traditional package managers while introducing new vulnerabilities like prompt injection and uncontrolled code execution.",
+      "summary_zh": "本文探討了人工智慧代理技能註冊表的安全威脅模型，這些註冊表負責分發提示詞、腳本和依賴項。文章強調這些註冊表不僅繼承了傳統軟體套件管理器的風險，還引入了提示詞注入和不受控代碼執行等新漏洞。",
+      "keywords": [
+        "AI Agents",
+        "Threat Modeling",
+        "Cybersecurity",
+        "Package Managers",
+        "Prompt Injection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical analysis and conceptual breakdown of the security landscape and threat models for AI agent registries.",
+      "pacer_reason_zh": "本文針對 AI 代理註冊表的安全態勢與威脅模型提供了理論分析與概念性的剖析。"
+    },
+    {
+      "id": "b42f5428027ce4b2",
+      "title": "Naively summing an alternating series",
+      "url": "https://www.johndcook.com/blog/2026/06/03/naive-sum/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-03T15:13:24.000Z",
+      "summary_en": "This article explores the pitfalls of naively summing alternating power series, such as the exponential function, using standard floating-point arithmetic. It highlights how stop conditions based on term tolerance can lead to significant precision errors due to catastrophic cancellation and inherent numerical instability.",
+      "summary_zh": "這篇文章探討了使用標準浮點運算來計算交錯級數（如指數函數）時，常見的誤差問題。作者指出，僅以項的數值大小作為停止條件，會因災難性抵銷與數值不穩定性而導致顯著的計算錯誤。",
+      "keywords": [
+        "numerical analysis",
+        "floating point",
+        "power series",
+        "alternating series",
+        "computational error"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a technical case study demonstrating the failures of specific computational methods through numerical examples.",
+      "pacer_reason_zh": "該文章作為技術案例研究，透過數值範例具體展示了特定計算方法可能產生的失敗結果。"
+    },
+    {
+      "id": "d7423baa3c39deb3",
+      "title": "Rotation revisited: Another unidirectional algorithm",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-02T14:00:00.000Z",
+      "summary_en": "This post revisits the topic of rotation algorithms by introducing an alternative unidirectional method for moving in a straight line. It continues the ongoing technical series on programming patterns found in 'The Old New Thing'.",
+      "summary_zh": "本文重新探討了旋轉演算法，並介紹了一種用於直線移動的替代性單向方法。這是《The Old New Thing》部落格中關於程式設計模式系列文章的延續。",
+      "keywords": [
+        "Rotation",
+        "Algorithm",
+        "Programming",
+        "The Old New Thing",
+        "Unidirectional"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on a specific programming algorithm and its implementation method.",
+      "pacer_reason_zh": "這篇文章專注於特定的程式設計演算法及其實現方法。"
+    },
+    {
+      "id": "de439b63f40d658d",
+      "title": "London Data Store Relaunch",
+      "url": "https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-03T11:34:49.000Z",
+      "summary_en": "The London Data Store has undergone a significant modernization sixteen years after its initial launch. This update includes both back-end infrastructure improvements and a front-end refresh to better serve the city's open data mission.",
+      "summary_zh": "倫敦數據儲存庫（London Data Store）在成立十六年後進行了重大更新。此次改版涵蓋了後端架構升級與前端介面優化，旨在持續推動開放數據的應用並改善市民生活。",
+      "keywords": [
+        "London Data Store",
+        "Open Data",
+        "Government Tech",
+        "Infrastructure",
+        "Public Sector"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview and background information regarding the platform's update and evolution.",
+      "pacer_reason_zh": "文章提供了關於平台更新與演變的概念性概述與背景資訊。"
+    },
+    {
+      "id": "60404dd229b76ddc",
+      "title": "Now that your newsletter is AI-generated, I've Unsubscribed ",
+      "url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-03T21:10:00.000Z",
+      "summary_en": "The author argues that readers subscribe to newsletters for the authentic human voice and personal experience, not just information. They explain why AI-generated content often erodes trust and fails to provide the genuine connection that human-written stories offer.",
+      "summary_zh": "作者認為讀者訂閱電子報是為了追求真實的人性觀點與個人經驗，而不僅僅是獲取資訊。文章指出 AI 生成的內容往往會破壞讀者信任，無法提供與人類作者之間那種真誠的連結。",
+      "keywords": [
+        "newsletter",
+        "AI",
+        "authenticity",
+        "content marketing",
+        "human voice"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique exploring the value of human authorship versus AI-generated content.",
+      "pacer_reason_zh": "這是一篇概念性評論，探討了人類作者身份相對於 AI 生成內容的價值。"
+    },
+    {
+      "id": "2d52428acfe96e9a",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-03T12:01:27.000Z",
+      "summary_en": "Uber has implemented a $1,500 monthly spending cap per AI coding tool for its engineers to control skyrocketing costs. The author analyzes this policy, noting that it represents a significant investment of roughly 11% of an engineer's median total compensation.",
+      "summary_zh": "Uber 為控制急劇上升的 AI 使用成本，已對員工使用 Claude Code 等 AI 編碼工具設下每月 1,500 美元的預算上限。作者分析認為這是一項合理的政策，並指出這筆開支約佔工程師平均總薪資的 11%。",
+      "keywords": [
+        "Uber",
+        "AI agents",
+        "Claude Code",
+        "cost management",
+        "token spending"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses current company data and budget figures to provide evidence of how enterprises are adjusting to the high costs of AI agents.",
+      "pacer_reason_zh": "本文引用了具體的企業數據與預算金額，展示了企業如何應對 AI 代理高昂的使用成本，具有實證分析性質。"
+    },
+    {
+      "id": "1b60ad396cb5e531",
+      "title": "datasette-agent-micropython 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T19:28:36.000Z",
+      "summary_en": "Simon Willison has released an alpha version of datasette-agent-micropython, a tool designed to allow Datasette Agent to execute Python code safely within a sandbox. The project utilizes WebAssembly to ensure security, with initial testing indicating that the sandbox effectively prevents unauthorized code breakout.",
+      "summary_zh": "Simon Willison 發布了 datasette-agent-micropython 的 alpha 版本，旨在讓 Datasette Agent 能夠在安全沙盒中執行 Python 程式碼。該專案利用 WebAssembly 確保安全性，初步測試顯示沙盒能有效防止程式碼越權執行。",
+      "keywords": [
+        "datasette",
+        "python",
+        "micropython",
+        "sandboxing",
+        "webassembly"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a release announcement for a software project and reports on the initial testing/performance of its sandboxing capabilities.",
+      "pacer_reason_zh": "這篇文章作為軟體專案的發布公告，並報告了其沙盒功能的初步測試與執行效能。"
+    },
+    {
+      "id": "6fd60973a1413c1b",
+      "title": "micropython-wasm 0.1a1",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T19:20:47.000Z",
+      "summary_en": "Simon Willison has released micropython-wasm version 0.1a1. This update includes fixes for limitations encountered during the development of datasette-agent-micropython.",
+      "summary_zh": "Simon Willison 發布了 micropython-wasm 0.1a1 版本。此更新修復了在開發 datasette-agent-micropython 過程中發現的限制問題。",
+      "keywords": [
+        "micropython",
+        "webassembly",
+        "python",
+        "sandboxing",
+        "software-release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a release announcement and reference for a specific software version update.",
+      "pacer_reason_zh": "該文章作為軟體版本更新的發布公告與參考資訊。"
+    },
+    {
+      "id": "668142b9072e92db",
+      "title": "micropython-wasm 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-02T03:43:45.000Z",
+      "summary_en": "Simon Willison has released an alpha version of micropython-wasm, which bundles a customized MicroPython build for WebAssembly. This tool allows users to execute Python code within a sandboxed environment using the wasmtime runtime.",
+      "summary_zh": "Simon Willison 發布了 micropython-wasm 的 alpha 版本，該工具將自定義的 MicroPython 構建封裝為 WebAssembly。它允許開發者透過 wasmtime 運行時在沙盒環境中執行 Python 程式碼。",
+      "keywords": [
+        "MicroPython",
+        "WebAssembly",
+        "Wasmtime",
+        "sandboxing",
+        "Python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as an announcement and release of a software tool, acting as a technical guide/resource for developers looking to use MicroPython in a sandbox.",
+      "pacer_reason_zh": "本文屬於軟體工具的發布公告，為尋求在沙盒環境中使用 MicroPython 的開發者提供了技術指南與資源。"
+    },
     {
       "id": "4e3a670aeb2cce6b",
       "title": "I went on the Built for Turbulence podcast",
