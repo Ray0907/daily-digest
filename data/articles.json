@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-06-03T22:41:18.890Z",
+  "last_updated": "2026-06-04T22:28:07.027Z",
   "articles": [
+    {
+      "id": "6b795e6d8d608d53",
+      "title": "How To Read More",
+      "url": "https://borretti.me/article/how-to-read-more",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-06-04T00:00:00.000Z",
+      "summary_en": "This article explores strategies for increasing reading volume by prioritizing long-form text over digital screen consumption. It emphasizes how deep reading can effectively outcompete the fragmented nature of modern screen habits.",
+      "summary_zh": "這篇文章探討了如何透過優先閱讀長篇文章而非依賴數位螢幕來增加閱讀量。內容強調深度閱讀如何能有效地超越現代螢幕習慣帶來的破碎化資訊。",
+      "keywords": [
+        "reading",
+        "literacy",
+        "focus",
+        "deep work",
+        "books"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide providing actionable advice on how to improve reading habits.",
+      "pacer_reason_zh": "本文作為指南，針對如何改善閱讀習慣提供了具體的實作建議。"
+    },
+    {
+      "id": "e6a7561d16342b7c",
+      "title": "Alex Imas and Phil Trammell – What remains scarce after AGI?",
+      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-06-04T16:14:49.000Z",
+      "summary_en": "This discussion explores the long-term economic implications of AGI, specifically identifying human-centric services and physical constraints as the primary sources of lingering scarcity. By contrasting scalable robotic production with non-scalable human roles, the authors analyze which sectors will remain premium in an automated future.",
+      "summary_zh": "這場對談探討了通用人工智慧 (AGI) 對長期經濟的影響，指出以人為本的服務與物理限制將成為未來稀缺資源的主要來源。透過對比可規模化的機器人製造與難以複製的人類角色，作者分析了在自動化未來中哪些領域仍具備核心價值。",
+      "keywords": [
+        "AGI",
+        "scarcity",
+        "economics",
+        "automation",
+        "human capital"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on theoretical economic concepts and the conceptual nature of post-AGI resource scarcity.",
+      "pacer_reason_zh": "該內容側重於探討經濟學理論概念，以及通用人工智慧時代資源稀缺性的觀念分析。"
+    },
+    {
+      "id": "d717ee061729ab87",
+      "title": "How Long Does It Take to Plan a Bridge?",
+      "url": "https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-04T15:24:24.000Z",
+      "summary_en": "This article explores the growing perception that infrastructure projects in the United States are taking significantly longer to complete than in the past. It initiates a deeper investigation into the factors contributing to these extended timelines in modern construction.",
+      "summary_zh": "本文探討了美國基礎建設項目耗時日益增長的普遍現象。作者旨在深入分析導致現代工程建設週期延長背後的各項因素。",
+      "keywords": [
+        "infrastructure",
+        "construction",
+        "US",
+        "project management",
+        "efficiency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the phenomenon of delayed infrastructure projects and setting the stage for a conceptual investigation.",
+      "pacer_reason_zh": "本文旨在探討基礎建設項目延遲這一現象，並為後續的概念性分析奠定基礎。"
+    },
+    {
+      "id": "4f05851d50d71ddc",
+      "title": "gittuf - a signed log for git refs",
+      "url": "https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-04T10:00:00.000Z",
+      "summary_en": "The article discusses the vulnerabilities of current git hosting platforms, where branch protection and security policies reside on the forge rather than within the git repository itself. It highlights historical security incidents, such as the PHP and Gentoo compromises, to demonstrate why forge-managed security can be easily bypassed or exploited.",
+      "summary_zh": "本文探討了現有 Git 代管平台的脆弱性，指出分支保護與安全策略依賴於代管平台而非 Git 儲存庫本身。透過分析 PHP 和 Gentoo 等歷史安全事件，作者說明了這種將安全管控託付給代管平台的模式容易被繞過或惡意利用。",
+      "keywords": [
+        "git",
+        "gittuf",
+        "security",
+        "supply chain",
+        "forge"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the security architecture of git hosting platforms and the inherent risks of relying on forge-level enforcement.",
+      "pacer_reason_zh": "本文對 Git 代管平台的安全架構進行了概念性分析，並探討了依賴平台層級強制執行的潛在風險。"
+    },
+    {
+      "id": "fcdf880821825495",
+      "title": "\"Sixteenth of a year\", a 1.8 KiB art piece",
+      "url": "https://evanhahn.com/sixteenth-of-a-year/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-06-03T00:00:00.000Z",
+      "summary_en": "The author shares a 1.8 KiB digital art piece created for Taper magazine that divides time into sixteenths. The project uses simple date math and custom minification to explore the passage of time through code.",
+      "summary_zh": "作者分享了一件為 Taper 雜誌創作的 1.8 KiB 數位藝術作品，透過將時間劃分為十六分之一來呈現。該作品利用基礎的日期運算與自訂代碼壓縮技術，探索了時間流逝的不同視角。",
+      "keywords": [
+        "generative art",
+        "Taper",
+        "programming",
+        "time",
+        "web art"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach behind a creative coding project rather than providing a tutorial or raw data.",
+      "pacer_reason_zh": "本文主要闡述創意程式設計專案背後的概念發想，而非教學指南或數據分析。"
+    },
+    {
+      "id": "5739cce0c19084cc",
+      "title": "The Latin of Linux",
+      "url": "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-04T20:12:11.000Z",
+      "summary_en": "This article draws a parallel between learning Latin and understanding Linux, noting that both act as foundational languages for modern systems. By studying the roots of these systems, users can better comprehend the vocabulary and structures that permeate their respective fields.",
+      "summary_zh": "本文將學習拉丁語與理解 Linux 進行了類比，指出兩者都是現代系統的基礎語言。通過研究這些系統的根源，使用者可以更深入地理解各自領域中常見的術語與結構。",
+      "keywords": [
+        "Linux",
+        "Latin",
+        "Language",
+        "Foundations",
+        "Analogy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of Latin as an ancestral language to explain the foundational importance of understanding Linux architecture.",
+      "pacer_reason_zh": "本文使用拉丁語作為祖語的類比，來解釋理解 Linux 架構的基礎重要性。"
+    },
+    {
+      "id": "3c10b7413c345727",
+      "title": "Integrating smooth periodic functions",
+      "url": "https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-04T17:18:40.000Z",
+      "summary_en": "This post examines the properties of the smooth, periodic function f(x) = cos(sin(x) + x). It highlights the function's unique behavior, specifically its flatness at odd multiples of π where the first five derivatives vanish.",
+      "summary_zh": "這篇文章探討了週期性平滑函數 f(x) = cos(sin(x) + x) 的特性。文中重點介紹了該函數在 π 的奇數倍處呈現極度平坦的現象，即其前五階導數皆為零。",
+      "keywords": [
+        "mathematics",
+        "calculus",
+        "periodic functions",
+        "derivatives",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical properties and behavior of a specific function, focusing on conceptual analysis.",
+      "pacer_reason_zh": "本文解釋了特定函數的數學性質與行為，側重於概念性的分析。"
+    },
+    {
+      "id": "6d6e7fd767a9bfab",
+      "title": "Partitions over permutations",
+      "url": "https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-04T13:48:56.000Z",
+      "summary_en": "The author examines the behavior of a cosine-based Gaussian approximation, noting that while it works well along the real axis, it diverges significantly along the imaginary axis. The discussion explores mathematical properties and the limitations of such approximations.",
+      "summary_zh": "作者探討了一個基於餘弦函數的高斯近似式，指出該式在實數軸上表現良好，但在虛數軸上卻會產生顯著的誤差。文章進一步分析了這類數學近似的特性與其局限性。",
+      "keywords": [
+        "mathematics",
+        "Gaussian approximation",
+        "cosine function",
+        "complex analysis",
+        "functions"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the behavior and theoretical limitations of a specific mathematical approximation.",
+      "pacer_reason_zh": "本文重點在於解釋特定數學近似式的運作行為及其理論上的侷限性。"
+    },
+    {
+      "id": "1ffc6f1a07e3a2ba",
+      "title": "Rotation revisited: A shocking discovery about gcc’s unidirectional rotation algorithm",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-03T14:00:00.000Z",
+      "summary_en": "This post revisits a technical analysis of the GCC compiler's bitwise rotation implementation. It explores how the compiler optimizes unidirectional rotation operations and addresses unexpected behaviors found in the generated machine code.",
+      "summary_zh": "本文重新檢視了 GCC 編譯器在處理位元旋轉（bitwise rotation）運算時的實作機制。作者探討了編譯器如何優化單向旋轉指令，並分析了在生成的機器碼中發現的技術細節與潛在問題。",
+      "keywords": [
+        "GCC",
+        "Compiler Optimization",
+        "Bitwise Rotation",
+        "Software Engineering",
+        "Programming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a technical analysis and specific investigation into compiler behavior, functioning as evidence-based discovery.",
+      "pacer_reason_zh": "本文提供了針對編譯器行為的技術分析與深入調查，屬於基於實證發現的內容。"
+    },
+    {
+      "id": "5d9d5f42c806c953",
+      "title": "Giving your Go apps Tigris superpowers",
+      "url": "https://www.tigrisdata.com/blog/storage-sdk-go/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-09T00:00:00.000Z",
+      "summary_en": "This article explores how to integrate Tigris into Go applications to enhance their functionality. It provides a guide on leveraging Tigris features within the Go ecosystem to improve database operations.",
+      "summary_zh": "本文探討如何將 Tigris 整合至 Go 應用程式中以增強其功能。文中提供了如何在 Go 生態系統中使用 Tigris 特性來改善資料庫操作的指引。",
+      "keywords": [
+        "Go",
+        "Tigris",
+        "Database",
+        "Backend",
+        "Integration"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the practical implementation and integration of Tigris within Go applications, acting as a technical guide.",
+      "pacer_reason_zh": "本文側重於 Tigris 在 Go 應用程式中的實際實作與整合，屬於技術指南性質。"
+    },
+    {
+      "id": "ec871a0ca2194af4",
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-05T00:00:00.000Z",
+      "summary_en": "The article critiques the design of IPv6 address representation in URLs, specifically the inclusion of zone identifiers. It warns developers to avoid dealing with these identifiers due to their inherent complexity and potential for implementation errors.",
+      "summary_zh": "本文批判了 IPv6 位址在網址（URL）中加入區域識別碼（zone identifiers）的設計方式。作者建議開發人員盡量避免處理這些識別碼，以免陷入技術陷阱與實作困難。",
+      "keywords": [
+        "IPv6",
+        "URL",
+        "networking",
+        "technical debt",
+        "standards"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a critical conceptual argument regarding the architectural flaws of network addressing standards.",
+      "pacer_reason_zh": "本文針對網路定址標準的架構缺陷，提出了一種概念性的批判與論述。"
+    },
+    {
+      "id": "33ad0988930cb2c6",
+      "title": "Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-04T11:34:53.000Z",
+      "summary_en": "This book review highlights a practical guide to creating accessible communications written by Lisa Riemers and Matisse Hamel-Nelis. The book balances theoretical frameworks and legal requirements with actionable advice for making information accessible to everyone.",
+      "summary_zh": "這篇書評介紹了由 Lisa Riemers 與 Matisse Hamel-Nelis 合著的無障礙傳播指南。該書不僅涵蓋了理論基礎、法律規範與商業案例，更提供了實用的操作建議，協助讀者製作人人可用的資訊內容。",
+      "keywords": [
+        "Accessibility",
+        "Inclusive Design",
+        "Book Review",
+        "Communication",
+        "Best Practices"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a review of a conceptual work that explains the 'what' and 'why' behind accessible communications.",
+      "pacer_reason_zh": "本文是對一本概念性著作的書評，旨在解釋無障礙傳播的內涵與重要性。"
+    },
+    {
+      "id": "e6bdaa0bc76f3b1a",
+      "title": "Pluralistic: Delusion as a service (04 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/03/mission-space/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-04T06:42:39.000Z",
+      "summary_en": "Cory Doctorow uses the example of Disney's 'Mission: Space' ride to illustrate how extreme systems can reveal latent vulnerabilities in individuals who would otherwise remain healthy. The post reflects on systemic risk, arguing that mass-scale infrastructure acts as a diagnostic tool that exposes hidden, potentially dangerous flaws.",
+      "summary_zh": "Cory Doctorow 以迪士尼的「太空任務」遊樂設施為例，探討極端系統如何揭露個體隱而未顯的潛在脆弱性。文中透過此案例反思系統性風險，指出大規模基礎設施往往成為一種診斷工具，進而觸發原本隱藏且危險的隱患。",
+      "keywords": [
+        "Cory Doctorow",
+        "Systemic Risk",
+        "Disney",
+        "Mission Space",
+        "Vulnerability"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of a high-intensity centrifuge ride to explain broader concepts of systemic vulnerability and catastrophic failure.",
+      "pacer_reason_zh": "文章透過高強度離心力遊樂設施的比喻，來闡釋更廣泛的系統性脆弱與災難性失效等概念。"
+    },
+    {
+      "id": "a9f9b4eaa547ba21",
+      "title": "Quoting Emanuel Maiberg, 404 Media",
+      "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-04T16:38:29.000Z",
+      "summary_en": "This post highlights a change in Google's internal messaging regarding AI, specifically the removal of a commitment to keeping humans in the loop. It draws attention to a 404 Media report about internal employee dissatisfaction with Google's current AI performance.",
+      "summary_zh": "這篇文章指出了 Google 在人工智慧政策敘述上的調整，特別是刪除了有關「保持人為介入」的承諾。文中並引用了 404 Media 的報導，揭示了 Google 內部員工對現有 AI 效能的不滿。",
+      "keywords": [
+        "Google",
+        "AI",
+        "AI ethics",
+        "journalism",
+        "human-in-the-loop"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as evidence or reporting on corporate behavior and internal AI development culture.",
+      "pacer_reason_zh": "該內容作為企業行為與內部人工智慧開發文化的報導證據。"
+    },
+    {
+      "id": "720dc03313a5c9f0",
+      "title": "Anti-AI nostalgia and the cult of the past",
+      "url": "https://seangoedecke.com/anti-ai-nostalgia/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-06-04T00:00:00.000Z",
+      "summary_en": "This article examines the growing cultural trend of anti-AI nostalgia, exploring why society often romanticizes the past in the face of rapid technological change. It critiques the ideological reliance on human tradition as a benchmark for authenticity in creative and intellectual pursuits.",
+      "summary_zh": "本文探討了日益興起的反人工智慧懷舊情緒，分析了社會為何在面對技術快速變革時傾向於美化過去。文章批判了在追求創意與智力活動時，過度將人類傳統視為評判真實性之唯一標準的意識形態。",
+      "keywords": [
+        "AI",
+        "nostalgia",
+        "technology",
+        "culture",
+        "humanism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique that explores themes of cultural philosophy and technological evolution.",
+      "pacer_reason_zh": "本文屬於概念性評論，探討了文化哲學與技術演變的相關議題。"
+    },
     {
       "id": "45d32ac537f650f6",
       "title": "Is datacentre sovereignty really that important?",

@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 03 Jun 2026 22:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 22:28:07 GMT</lastBuildDate>
     
+    <item>
+      <title>How To Read More</title>
+      <link>https://borretti.me/article/how-to-read-more</link>
+      <guid>https://borretti.me/article/how-to-read-more</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This article explores strategies for increasing reading volume by prioritizing long-form text over digital screen consumption. It emphasizes how deep reading can effectively outcompete the fragmented nature of modern screen habits.</description>
+    </item>
+
+    <item>
+      <title>Alex Imas and Phil Trammell – What remains scarce after AGI?</title>
+      <link>https://www.dwarkesh.com/p/alex-imas-phil-trammell</link>
+      <guid>https://www.dwarkesh.com/p/alex-imas-phil-trammell</guid>
+      <pubDate>Thu, 04 Jun 2026 16:14:49 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion explores the long-term economic implications of AGI, specifically identifying human-centric services and physical constraints as the primary sources of lingering scarcity. By contrasting scalable robotic production with non-scalable human roles, the authors analyze which sectors will remain premium in an automated future.</description>
+    </item>
+
+    <item>
+      <title>How Long Does It Take to Plan a Bridge?</title>
+      <link>https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</link>
+      <guid>https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</guid>
+      <pubDate>Thu, 04 Jun 2026 15:24:24 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores the growing perception that infrastructure projects in the United States are taking significantly longer to complete than in the past. It initiates a deeper investigation into the factors contributing to these extended timelines in modern construction.</description>
+    </item>
+
+    <item>
+      <title>gittuf - a signed log for git refs</title>
+      <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
+      <guid>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article discusses the vulnerabilities of current git hosting platforms, where branch protection and security policies reside on the forge rather than within the git repository itself. It highlights historical security incidents, such as the PHP and Gentoo compromises, to demonstrate why forge-managed security can be easily bypassed or exploited.</description>
+    </item>
+
+    <item>
+      <title>&quot;Sixteenth of a year&quot;, a 1.8 KiB art piece</title>
+      <link>https://evanhahn.com/sixteenth-of-a-year/</link>
+      <guid>https://evanhahn.com/sixteenth-of-a-year/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>The author shares a 1.8 KiB digital art piece created for Taper magazine that divides time into sixteenths. The project uses simple date math and custom minification to explore the passage of time through code.</description>
+    </item>
+
+    <item>
+      <title>The Latin of Linux</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</guid>
+      <pubDate>Thu, 04 Jun 2026 20:12:11 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article draws a parallel between learning Latin and understanding Linux, noting that both act as foundational languages for modern systems. By studying the roots of these systems, users can better comprehend the vocabulary and structures that permeate their respective fields.</description>
+    </item>
+
+    <item>
+      <title>Integrating smooth periodic functions</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</guid>
+      <pubDate>Thu, 04 Jun 2026 17:18:40 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post examines the properties of the smooth, periodic function f(x) = cos(sin(x) + x). It highlights the function's unique behavior, specifically its flatness at odd multiples of π where the first five derivatives vanish.</description>
+    </item>
+
+    <item>
+      <title>Partitions over permutations</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/</guid>
+      <pubDate>Thu, 04 Jun 2026 13:48:56 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author examines the behavior of a cosine-based Gaussian approximation, noting that while it works well along the real axis, it diverges significantly along the imaginary axis. The discussion explores mathematical properties and the limitations of such approximations.</description>
+    </item>
+
+    <item>
+      <title>Rotation revisited: A shocking discovery about gcc’s unidirectional rotation algorithm</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</guid>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post revisits a technical analysis of the GCC compiler's bitwise rotation implementation. It explores how the compiler optimizes unidirectional rotation operations and addresses unexpected behaviors found in the generated machine code.</description>
+    </item>
+
+    <item>
+      <title>Giving your Go apps Tigris superpowers</title>
+      <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
+      <guid>https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This article explores how to integrate Tigris into Go applications to enhance their functionality. It provides a guide on leveraging Tigris features within the Go ecosystem to improve database operations.</description>
+    </item>
+
+    <item>
+      <title>IPv6 zones in URLs are a mistake</title>
+      <link>https://xeiaso.net/notes/2026/ipv6-zones-go-url/</link>
+      <guid>https://xeiaso.net/notes/2026/ipv6-zones-go-url/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The article critiques the design of IPv6 address representation in URLs, specifically the inclusion of zone identifiers. It warns developers to avoid dealing with these identifiers due to their inherent complexity and potential for implementation errors.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
+      <guid>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
+      <pubDate>Thu, 04 Jun 2026 11:34:53 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This book review highlights a practical guide to creating accessible communications written by Lisa Riemers and Matisse Hamel-Nelis. The book balances theoretical frameworks and legal requirements with actionable advice for making information accessible to everyone.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Delusion as a service (04 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/03/mission-space/</link>
+      <guid>https://pluralistic.net/2026/06/03/mission-space/</guid>
+      <pubDate>Thu, 04 Jun 2026 06:42:39 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow uses the example of Disney's 'Mission: Space' ride to illustrate how extreme systems can reveal latent vulnerabilities in individuals who would otherwise remain healthy. The post reflects on systemic risk, arguing that mass-scale infrastructure acts as a diagnostic tool that exposes hidden, potentially dangerous flaws.</description>
+    </item>
+
+    <item>
+      <title>Quoting Emanuel Maiberg, 404 Media</title>
+      <link>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</guid>
+      <pubDate>Thu, 04 Jun 2026 16:38:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a change in Google's internal messaging regarding AI, specifically the removal of a commitment to keeping humans in the loop. It draws attention to a 404 Media report about internal employee dissatisfaction with Google's current AI performance.</description>
+    </item>
+
+    <item>
+      <title>Anti-AI nostalgia and the cult of the past</title>
+      <link>https://seangoedecke.com/anti-ai-nostalgia/</link>
+      <guid>https://seangoedecke.com/anti-ai-nostalgia/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article examines the growing cultural trend of anti-AI nostalgia, exploring why society often romanticizes the past in the face of rapid technological change. It critiques the ideological reliance on human tradition as a benchmark for authenticity in creative and intellectual pursuits.</description>
+    </item>
+
     <item>
       <title>Is datacentre sovereignty really that important?</title>
       <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -769,141 +904,6 @@
       <pubDate>Wed, 27 May 2026 23:44:37 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>SQLite has introduced an AGENTS.md file to clarify its policy against accepting AI-generated agentic code contributions, while still welcoming human-verified bug reports. The project has also moved AI-generated reports to a separate forum to manage the influx of submissions.</description>
-    </item>
-
-    <item>
-      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
-      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling investigates whether a 3D printer's heated bed can function as an FM radio antenna. The experiment explores the physical similarities between PCB heatbed traces and antenna designs, testing if they can receive broadcast signals.</description>
-    </item>
-
-    <item>
-      <title>SQLAlchemy 2 In Practice - Solutions to the Exercises</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</link>
-      <guid>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</guid>
-      <pubDate>Wed, 27 May 2026 19:22:35 GMT</pubDate>
-      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Resurfacing posts</title>
-      <link>https://herman.bearblog.dev/resurfacing-posts/</link>
-      <guid>https://herman.bearblog.dev/resurfacing-posts/</guid>
-      <pubDate>Wed, 27 May 2026 06:45:00 GMT</pubDate>
-      <source url="https://herman.bearblog.dev/">Herman's blog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Het Solvinity besluit in detail, en de mogelijke gevolgen</title>
-      <link>https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/</link>
-      <guid>https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/</guid>
-      <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>CHAOSS Metrics in 2026</title>
-      <link>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</link>
-      <guid>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</guid>
-      <pubDate>Wed, 27 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Using My Fucking Brain</title>
-      <link>https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/</link>
-      <guid>https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/</guid>
-      <pubDate>Wed, 27 May 2026 12:38:57 GMT</pubDate>
-      <source url="https://terriblesoftware.org/">Terrible Software</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>The Meta logo and fitting Besace curves</title>
-      <link>https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</guid>
-      <pubDate>Wed, 27 May 2026 15:15:51 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</guid>
-      <pubDate>Wed, 27 May 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Pluralistic: AI and a world without migrants (27 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/27/unnecessariat/</link>
-      <guid>https://pluralistic.net/2026/05/27/unnecessariat/</guid>
-      <pubDate>Wed, 27 May 2026 07:57:41 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>How Many Tokens Did You Burn Today </title>
-      <link>https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</link>
-      <guid>https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</guid>
-      <pubDate>Wed, 27 May 2026 00:31:22 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>I think Anthropic and OpenAI have found product-market fit</title>
-      <link>https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 16:38:35 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Quoting Kyle Ferrana</title>
-      <link>https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 06:41:43 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>The pressure</title>
-      <link>https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</guid>
-      <pubDate>Tue, 26 May 2026 23:48:45 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>I patched iozone for better disk benchmarks on modern macOS</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</guid>
-      <pubDate>Wed, 27 May 2026 01:32:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Only insane people use the internet</title>
-      <link>https://www.experimental-history.com/p/only-insane-people-use-the-internet</link>
-      <guid>https://www.experimental-history.com/p/only-insane-people-use-the-internet</guid>
-      <pubDate>Tue, 26 May 2026 16:02:14 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description></description>
     </item>
   </channel>
 </rss>
