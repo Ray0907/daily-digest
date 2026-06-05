@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-06-04T22:28:07.027Z",
+  "last_updated": "2026-06-05T22:23:40.485Z",
   "articles": [
+    {
+      "id": "82ff6f0d26719a9b",
+      "title": "The Giant's Cup",
+      "url": "https://herman.bearblog.dev/the-giants-cup/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-06-05T08:23:00.000Z",
+      "summary_en": "The author recounts their journey of completing a long-distance trail race by following a structured, incremental training plan. By focusing on steady, manageable progress rather than overexertion, they successfully built running fitness for the first time without injury.",
+      "summary_zh": "作者分享了透過循序漸進的訓練計畫，成功完成越野長跑的經驗。他強調透過設定可持續的目標來提升體能，並避免了過去因過度訓練而放棄跑步的情況。",
+      "keywords": [
+        "trail running",
+        "training plan",
+        "fitness",
+        "Drakensberg",
+        "running"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article outlines a practical, step-by-step training methodology for beginner runners to prepare for a race.",
+      "pacer_reason_zh": "本文概述了初學者為賽事準備的實用分步訓練方法。"
+    },
+    {
+      "id": "1841ef51eb149377",
+      "title": "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+      "url": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-06-05T08:44:00.000Z",
+      "summary_en": "This article discusses the challenges and implementation of aggressive caching for a Mastodon instance using an Nginx reverse proxy. It highlights how Mastodon's reliance on content negotiation creates potential conflicts where the same URL serves different formats like HTML and ActivityPub JSON, necessitating careful configuration to avoid errors.",
+      "summary_zh": "本文探討了針對 Mastodon 實例實施積極快取（Caching）的挑戰與實作，並使用 Nginx 作為反向代理。作者強調 Mastodon 依賴內容協商（Content Negotiation）的特性，導致同一網址會提供 HTML 或 ActivityPub JSON 等不同格式，因此必須謹慎設定快取策略以避免錯誤。",
+      "keywords": [
+        "Mastodon",
+        "Nginx",
+        "Reverse Proxy",
+        "Caching",
+        "ActivityPub"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, configuration-based guide on how to implement specific Nginx caching directives for a Mastodon server.",
+      "pacer_reason_zh": "本文提供了實用的設定教學，指導如何為 Mastodon 伺服器配置特定的 Nginx 快取指令。"
+    },
+    {
+      "id": "5dcc40c7eb6e5a7f",
+      "title": "Install-script allowlists",
+      "url": "https://nesbitt.io/2026/06/05/install-script-allowlists.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-05T12:00:00.000Z",
+      "summary_en": "This article examines how various package managers handle the security risks associated with executing install-time code. It compares different approaches, such as per-package allowlists, global sandboxing, and signature verification, while specifically detailing recent updates in tools like npm and pnpm.",
+      "summary_zh": "本文探討了各種套件管理工具如何處理安裝階段代碼執行帶來的安全性風險。文章比較了諸如套件白名單、全域沙盒化及簽章驗證等不同機制，並詳細介紹了 npm 與 pnpm 等工具在近期版本中的安全策略更新。",
+      "keywords": [
+        "package-managers",
+        "security",
+        "npm",
+        "allowlists",
+        "software-supply-chain"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what is' and 'how it works' nature of different package management security models and install-time script execution.",
+      "pacer_reason_zh": "本文主要解釋了不同套件管理工具在安全模型與安裝腳本執行上的運作原理與機制。"
+    },
+    {
+      "id": "779af55bbe1d3e99",
+      "title": "AI-indecision is a recursive trap. Don't get stuck.",
+      "url": "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "published": "2026-06-05T04:06:59.000Z",
+      "summary_en": "The article explores the philosophical concept of Buridan's Ass to illustrate how AI-induced indecision functions as a recursive trap. It argues that modern cognitive paralysis stems from an over-reliance on rational intellect, which can impede decision-making when choices appear equally optimal.",
+      "summary_zh": "本文探討布里丹之驢（Buridan's Ass）的哲學概念，以此說明由人工智慧引發的決策猶豫如何成為一種遞迴陷阱。文章指出，現代人的認知癱瘓源於過度依賴理性判斷，當選項看起來同樣理想時，這種依賴反而會阻礙決策執行。",
+      "keywords": [
+        "AI",
+        "decision-making",
+        "Buridan's Ass",
+        "philosophy",
+        "cognitive paralysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining a philosophical concept and its application to modern cognitive patterns.",
+      "pacer_reason_zh": "內容主要在解釋一個哲學概念，並探討其在現代認知模式中的應用。"
+    },
+    {
+      "id": "689b8e9040281abc",
+      "title": "Mr. Bessel’s eponymous functions",
+      "url": "https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-05T12:04:28.000Z",
+      "summary_en": "The article explores the role of Bessel functions in evaluating complex mathematical integrals, specifically in the context of validating numerical methods like the trapezoid rule. It highlights how these specialized functions provide exact solutions where standard methods might otherwise be difficult to verify.",
+      "summary_zh": "本文探討了貝索函數（Bessel functions）在評估複雜數學積分中的作用，特別是在驗證梯形法則等數值方法時的應用。文章強調了這些特殊函數如何在標準方法難以驗證的情況下提供精確的數學解。",
+      "keywords": [
+        "Bessel functions",
+        "mathematics",
+        "numerical integration",
+        "trapezoid rule",
+        "calculus"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the conceptual role and mathematical nature of Bessel functions in integral calculus.",
+      "pacer_reason_zh": "內容側重於解釋貝索函數在微積分中的概念性作用及其數學本質。"
+    },
+    {
+      "id": "37d2415696248295",
+      "title": "Rotation revisited: Cycle decomposition in clang’s libcxx",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-04T14:00:00.000Z",
+      "summary_en": "This article explores the technical implementation of rotating elements within a collection using cycle decomposition. It highlights how the C++ standard library, specifically clang's libcxx, optimizes the rotation process by minimizing the number of steps required.",
+      "summary_zh": "本文探討了如何利用循環分解（cycle decomposition）技術來執行集合元素的旋轉操作。文章重點介紹了 C++ 標準庫（特別是 clang 的 libcxx）如何透過此方法以最少步驟完成旋轉，達到最佳化效果。",
+      "keywords": [
+        "C++",
+        "libcxx",
+        "cycle decomposition",
+        "algorithm",
+        "rotation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the algorithmic process and implementation logic of a specific programming task.",
+      "pacer_reason_zh": "本文重點在於特定程式設計任務的演算法過程與實作邏輯。"
+    },
+    {
+      "id": "515d3f71f7d369f5",
+      "title": "Pluralistic: Refining humanity (05 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/05/defining-humanity/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-05T20:49:39.000Z",
+      "summary_en": "Cory Doctorow reflects on the inherent difficulty of explaining complex concepts, using a humorous scene from Blackadder to highlight the limitations of language. He suggests that attempting to teach or define ideas reveals the deep ambiguity and nuance hidden within what we assume is 'obvious'.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）探討了向他人解釋複雜概念時的困難，並引用《黑爵士》中的片段來說明語言與認知的局限性。他認為，嘗試定義或教授知識的過程，能幫助我們發現那些看似理所當然的事物背後，其實隱藏著深層的模糊與矛盾。",
+      "keywords": [
+        "communication",
+        "language",
+        "critical thinking",
+        "ambiguity",
+        "education"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual nature of defining terms and the cognitive process of explaining ideas to others.",
+      "pacer_reason_zh": "本文探討了定義詞彙的概念本質，以及向他人解釋想法時的認知過程。"
+    },
+    {
+      "id": "d1d6715e5232e3dc",
+      "title": "Quoting Andreas Kling",
+      "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-05T11:10:05.000Z",
+      "summary_en": "The Ladybird browser project is closing its public pull request process due to the influx of AI-generated code. Andreas Kling argues that project maintainers must take full responsibility for all committed code, rendering automated or external contributions incompatible with their standards for long-term accountability.",
+      "summary_zh": "Ladybird 瀏覽器專案宣布將停止接受公開的 Pull Request，以應對 AI 生成程式碼帶來的影響。創辦人 Andreas Kling 強調，專案維護者必須對所有併入的程式碼負起完全責任，因此不再接受無法承擔後果的外部貢獻。",
+      "keywords": [
+        "Ladybird",
+        "Open Source",
+        "AI Ethics",
+        "Software Development",
+        "Pull Requests"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual shift in open-source governance and the reasoning behind restricting external contributions in the AI era.",
+      "pacer_reason_zh": "內容解釋了開源治理觀念的轉變，以及在 AI 時代限制外部貢獻背後的邏輯與理論基礎。"
+    },
+    {
+      "id": "cb24507f42289185",
+      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+      "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-04T23:55:27.000Z",
+      "summary_en": "This post explores the tension between AI enthusiasts, who fear being left behind by rapid technological shifts, and skeptics, who worry about the long-term degradation of system reliability and institutional knowledge. It suggests that leadership must actively design feedback loops to bridge the gap in shared reality between these two perspectives.",
+      "summary_zh": "本文探討了 AI 狂熱者與懷疑論者之間的拉鋸戰，前者擔心因科技變革過快而遭淘汰，後者則擔憂系統可靠性與技術積累的流失。文章指出，領導者應主動設計反饋機制，以彌合雙方在現實認知上的鴻溝。",
+      "keywords": [
+        "AI",
+        "organizational design",
+        "software engineering",
+        "tech culture",
+        "feedback loops"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual conflict between two organizational viewpoints on AI adoption, rather than providing a guide, data, or lookup list.",
+      "pacer_reason_zh": "本文主要在解釋組織內部對於 AI 應用的兩種觀點及其概念上的衝突，而非提供教學、數據或列表。"
+    },
+    {
+      "id": "0b8c1a56eb4af95e",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-06-05T14:00:00.000Z",
+      "summary_en": "Jeff Geerling reviews various IP KVM solutions for homelab management, comparing them against software-based alternatives like VNC and SSH. The post evaluates the practical utility of hardware KVMs versus remote desktop software for remote machine control.",
+      "summary_zh": "Jeff Geerling 評測了各類用於家庭實驗室管理的 IP KVM 解決方案，並將其與 VNC 或 SSH 等軟體替代方案進行了對比。文章探討了硬體 KVM 與遠端桌面軟體在遠端控制電腦時的實際應用價值。",
+      "keywords": [
+        "IP KVM",
+        "Homelab",
+        "PiKVM",
+        "Remote Desktop",
+        "SSH"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on the author's hands-on testing and evaluation of hardware, serving as a comparative review.",
+      "pacer_reason_zh": "文章基於作者對硬體的實際測試與評估，屬於實測對比分析。"
+    },
     {
       "id": "6b795e6d8d608d53",
       "title": "How To Read More",

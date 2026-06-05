@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 04 Jun 2026 22:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:23:40 GMT</lastBuildDate>
     
+    <item>
+      <title>The Giant's Cup</title>
+      <link>https://herman.bearblog.dev/the-giants-cup/</link>
+      <guid>https://herman.bearblog.dev/the-giants-cup/</guid>
+      <pubDate>Fri, 05 Jun 2026 08:23:00 GMT</pubDate>
+      <source url="https://herman.bearblog.dev/">Herman's blog</source>
+      <description>The author recounts their journey of completing a long-distance trail race by following a structured, incremental training plan. By focusing on steady, manageable progress rather than overexertion, they successfully built running fitness for the first time without injury.</description>
+    </item>
+
+    <item>
+      <title>Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you</title>
+      <link>https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</link>
+      <guid>https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</guid>
+      <pubDate>Fri, 05 Jun 2026 08:44:00 GMT</pubDate>
+      <source url="https://it-notes.dragas.net/">IT Notes</source>
+      <description>This article discusses the challenges and implementation of aggressive caching for a Mastodon instance using an Nginx reverse proxy. It highlights how Mastodon's reliance on content negotiation creates potential conflicts where the same URL serves different formats like HTML and ActivityPub JSON, necessitating careful configuration to avoid errors.</description>
+    </item>
+
+    <item>
+      <title>Install-script allowlists</title>
+      <link>https://nesbitt.io/2026/06/05/install-script-allowlists.html</link>
+      <guid>https://nesbitt.io/2026/06/05/install-script-allowlists.html</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article examines how various package managers handle the security risks associated with executing install-time code. It compares different approaches, such as per-package allowlists, global sandboxing, and signature verification, while specifically detailing recent updates in tools like npm and pnpm.</description>
+    </item>
+
+    <item>
+      <title>AI-indecision is a recursive trap. Don't get stuck.</title>
+      <link>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</link>
+      <guid>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</guid>
+      <pubDate>Fri, 05 Jun 2026 04:06:59 GMT</pubDate>
+      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
+      <description>The article explores the philosophical concept of Buridan's Ass to illustrate how AI-induced indecision functions as a recursive trap. It argues that modern cognitive paralysis stems from an over-reliance on rational intellect, which can impede decision-making when choices appear equally optimal.</description>
+    </item>
+
+    <item>
+      <title>Mr. Bessel’s eponymous functions</title>
+      <link>https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</guid>
+      <pubDate>Fri, 05 Jun 2026 12:04:28 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article explores the role of Bessel functions in evaluating complex mathematical integrals, specifically in the context of validating numerical methods like the trapezoid rule. It highlights how these specialized functions provide exact solutions where standard methods might otherwise be difficult to verify.</description>
+    </item>
+
+    <item>
+      <title>Rotation revisited: Cycle decomposition in clang’s libcxx</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384</guid>
+      <pubDate>Thu, 04 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article explores the technical implementation of rotating elements within a collection using cycle decomposition. It highlights how the C++ standard library, specifically clang's libcxx, optimizes the rotation process by minimizing the number of steps required.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Refining humanity (05 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/05/defining-humanity/</link>
+      <guid>https://pluralistic.net/2026/06/05/defining-humanity/</guid>
+      <pubDate>Fri, 05 Jun 2026 20:49:39 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow reflects on the inherent difficulty of explaining complex concepts, using a humorous scene from Blackadder to highlight the limitations of language. He suggests that attempting to teach or define ideas reveals the deep ambiguity and nuance hidden within what we assume is 'obvious'.</description>
+    </item>
+
+    <item>
+      <title>Quoting Andreas Kling</title>
+      <link>https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</guid>
+      <pubDate>Fri, 05 Jun 2026 11:10:05 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The Ladybird browser project is closing its public pull request process due to the influx of AI-generated code. Andreas Kling argues that project maintainers must take full responsibility for all committed code, rendering automated or external contributions incompatible with their standards for long-term accountability.</description>
+    </item>
+
+    <item>
+      <title>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</title>
+      <link>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</guid>
+      <pubDate>Thu, 04 Jun 2026 23:55:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post explores the tension between AI enthusiasts, who fear being left behind by rapid technological shifts, and skeptics, who worry about the long-term degradation of system reliability and institutional knowledge. It suggests that leadership must actively design feedback loops to bridge the gap in shared reality between these two perspectives.</description>
+    </item>
+
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling reviews various IP KVM solutions for homelab management, comparing them against software-based alternatives like VNC and SSH. The post evaluates the practical utility of hardware KVMs versus remote desktop software for remote machine control.</description>
+    </item>
+
     <item>
       <title>How To Read More</title>
       <link>https://borretti.me/article/how-to-read-more</link>
@@ -814,96 +904,6 @@
       <pubDate>Thu, 28 May 2026 16:03:01 GMT</pubDate>
       <source url="https://buttondown.com/hillelwayne">Computer Things</source>
       <description>The author argues that instead of mastering a single complex field, programmers benefit more from obtaining broad, foundational knowledge across many disciplines. This allows developers to identify which specific areas are worth pursuing in-depth based on their unique professional domains.</description>
-    </item>
-
-    <item>
-      <title>Where Are the Economies of Scale in Homebuilding?</title>
-      <link>https://www.construction-physics.com/p/where-are-the-economies-of-scale</link>
-      <guid>https://www.construction-physics.com/p/where-are-the-economies-of-scale</guid>
-      <pubDate>Thu, 28 May 2026 12:03:26 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article investigates the lack of economies of scale in the residential construction industry. It explores the underlying factors contributing to the sector's persistent productivity stagnation.</description>
-    </item>
-
-    <item>
-      <title>Protestware for coding agents</title>
-      <link>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</link>
-      <guid>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</guid>
-      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The author discusses a recent incident where a Java library, jqwik, introduced a hidden command in its code designed to trick AI coding agents by issuing a 'delete' instruction. This act of 'protestware' highlights a growing trend of developers inserting anti-AI resistance into their packages, marking a shift from human-readable banners to machine-readable prompt injection.</description>
-    </item>
-
-    <item>
-      <title>Package managers that package package managers</title>
-      <link>https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html</link>
-      <guid>https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html</guid>
-      <pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article explores the interconnected nature of software package managers by mapping how different tools can install one another. The author uses data from ecosyste.ms and Repology to visualize which package managers are available within other systems, revealing trends in cross-language tooling and distribution.</description>
-    </item>
-
-    <item>
-      <title>The Costco theory of the internet</title>
-      <link>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</link>
-      <guid>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</guid>
-      <pubDate>Thu, 28 May 2026 01:29:39 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The article introduces 'The Costco Theory of the Internet,' inspired by Sol Price's FedMart philosophy of offering limited choices to increase operational efficiency. It suggests that success in digital spaces often stems from curation and the deliberate choice to ignore certain segments to optimize the core user experience.</description>
-    </item>
-
-    <item>
-      <title>Turning K-L divergence into a metric</title>
-      <link>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</link>
-      <guid>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</guid>
-      <pubDate>Thu, 28 May 2026 01:35:54 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical properties of Kullback-Leibler (K-L) divergence and why it fails to function as a formal metric. It introduces Jeffreys divergence as a potential adjustment to resolve the issue of symmetry.</description>
-    </item>
-
-    <item>
-      <title>Dancing mad with sandboxing</title>
-      <link>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</link>
-      <guid>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This post introduces Kefka, a Go-native shell sandbox capable of running coreutils and Python via WebAssembly. It explores the technical challenges and innovative engineering choices behind building this sandboxing environment.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
-      <guid>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
-      <pubDate>Wed, 27 May 2026 11:34:36 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reviews the Chuwi Minibook X N150, a compact and affordable laptop suitable for travel. It highlights the device's portability, affordability, and USB-C compatibility, while noting it performs adequately for basic tasks.</description>
-    </item>
-
-    <item>
-      <title>Notes on optimizing battery life:</title>
-      <link>https://maurycyz.com/misc/battery/</link>
-      <guid>https://maurycyz.com/misc/battery/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post explores practical strategies for optimizing battery life in electronic devices by understanding power draw and battery characteristics. It emphasizes the importance of reading datasheets, monitoring discharge curves, and accounting for internal resistance and temperature effects on battery performance.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Hold on for dear life (28 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/28/we-live-in-a-society/</link>
-      <guid>https://pluralistic.net/2026/05/28/we-live-in-a-society/</guid>
-      <pubDate>Thu, 28 May 2026 11:24:23 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post explores the intersection of cryptography and technopolitics, specifically focusing on the power of robust encryption to protect privacy against authoritarian surveillance. It highlights how properly implemented cryptographic keys provide near-impenetrable security, enabling individuals to safeguard digital assets and communications from external interference.</description>
-    </item>
-
-    <item>
-      <title>sqlite AGENTS.md</title>
-      <link>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 23:44:37 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>SQLite has introduced an AGENTS.md file to clarify its policy against accepting AI-generated agentic code contributions, while still welcoming human-verified bug reports. The project has also moved AI-generated reports to a separate forum to manage the influx of submissions.</description>
     </item>
   </channel>
 </rss>

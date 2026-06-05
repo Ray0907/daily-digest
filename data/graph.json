@@ -17,6 +17,134 @@
       "published": "2026-06-09T00:00:00.000Z"
     },
     {
+      "id": "515d3f71f7d369f5",
+      "title": "Pluralistic: Refining humanity (05 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/05/defining-humanity/",
+      "pacer": "C",
+      "keywords": [
+        "communication",
+        "language",
+        "critical thinking",
+        "ambiguity",
+        "education"
+      ],
+      "published": "2026-06-05T20:49:39.000Z"
+    },
+    {
+      "id": "0b8c1a56eb4af95e",
+      "title": "I tested every IP KVM in my Homelab",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "pacer": "E",
+      "keywords": [
+        "IP KVM",
+        "Homelab",
+        "PiKVM",
+        "Remote Desktop",
+        "SSH"
+      ],
+      "published": "2026-06-05T14:00:00.000Z"
+    },
+    {
+      "id": "689b8e9040281abc",
+      "title": "Mr. Bessel’s eponymous functions",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/",
+      "pacer": "C",
+      "keywords": [
+        "Bessel functions",
+        "mathematics",
+        "numerical integration",
+        "trapezoid rule",
+        "calculus"
+      ],
+      "published": "2026-06-05T12:04:28.000Z"
+    },
+    {
+      "id": "5dcc40c7eb6e5a7f",
+      "title": "Install-script allowlists",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/05/install-script-allowlists.html",
+      "pacer": "C",
+      "keywords": [
+        "package-managers",
+        "security",
+        "npm",
+        "allowlists",
+        "software-supply-chain"
+      ],
+      "published": "2026-06-05T12:00:00.000Z"
+    },
+    {
+      "id": "d1d6715e5232e3dc",
+      "title": "Quoting Andreas Kling",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Ladybird",
+        "Open Source",
+        "AI Ethics",
+        "Software Development",
+        "Pull Requests"
+      ],
+      "published": "2026-06-05T11:10:05.000Z"
+    },
+    {
+      "id": "1841ef51eb149377",
+      "title": "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "url": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/",
+      "pacer": "P",
+      "keywords": [
+        "Mastodon",
+        "Nginx",
+        "Reverse Proxy",
+        "Caching",
+        "ActivityPub"
+      ],
+      "published": "2026-06-05T08:44:00.000Z"
+    },
+    {
+      "id": "82ff6f0d26719a9b",
+      "title": "The Giant's Cup",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "url": "https://herman.bearblog.dev/the-giants-cup/",
+      "pacer": "P",
+      "keywords": [
+        "trail running",
+        "training plan",
+        "fitness",
+        "Drakensberg",
+        "running"
+      ],
+      "published": "2026-06-05T08:23:00.000Z"
+    },
+    {
+      "id": "779af55bbe1d3e99",
+      "title": "AI-indecision is a recursive trap. Don't get stuck.",
+      "source": "Westenberg.",
+      "source_url": "https://www.joanwestenberg.com/",
+      "url": "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "decision-making",
+        "Buridan's Ass",
+        "philosophy",
+        "cognitive paralysis"
+      ],
+      "published": "2026-06-05T04:06:59.000Z"
+    },
+    {
       "id": "ec871a0ca2194af4",
       "title": "IPv6 zones in URLs are a mistake",
       "source": "Xe Iaso's blog",
@@ -31,6 +159,22 @@
         "standards"
       ],
       "published": "2026-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "cb24507f42289185",
+      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "organizational design",
+        "software engineering",
+        "tech culture",
+        "feedback loops"
+      ],
+      "published": "2026-06-04T23:55:27.000Z"
     },
     {
       "id": "5739cce0c19084cc",
@@ -111,6 +255,22 @@
         "efficiency"
       ],
       "published": "2026-06-04T15:24:24.000Z"
+    },
+    {
+      "id": "37d2415696248295",
+      "title": "Rotation revisited: Cycle decomposition in clang’s libcxx",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "libcxx",
+        "cycle decomposition",
+        "algorithm",
+        "rotation"
+      ],
+      "published": "2026-06-04T14:00:00.000Z"
     },
     {
       "id": "6d6e7fd767a9bfab",
@@ -385,38 +545,6 @@
       "published": "2026-06-02T22:21:52.000Z"
     },
     {
-      "id": "1b60ad396cb5e531",
-      "title": "datasette-agent-micropython 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "datasette",
-        "python",
-        "micropython",
-        "sandboxing",
-        "webassembly"
-      ],
-      "published": "2026-06-02T19:28:36.000Z"
-    },
-    {
-      "id": "6fd60973a1413c1b",
-      "title": "micropython-wasm 0.1a1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "micropython",
-        "webassembly",
-        "python",
-        "sandboxing",
-        "software-release"
-      ],
-      "published": "2026-06-02T19:20:47.000Z"
-    },
-    {
       "id": "e08109140dad44d3",
       "title": "An Ode to the Exacting Pedantry of Computers",
       "source": "Jim Nielsen’s Blog",
@@ -575,22 +703,6 @@
         "naming"
       ],
       "published": "2026-06-01T14:00:00.000Z"
-    },
-    {
-      "id": "dac635ead30446bf",
-      "title": "It’s not just Taylor series",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/",
-      "pacer": "C",
-      "keywords": [
-        "mathematics",
-        "Taylor series",
-        "approximation",
-        "functions",
-        "analysis"
-      ],
-      "published": "2026-06-01T12:42:12.000Z"
     },
     {
       "id": "6ebedb0eca1d8b8a",
@@ -1009,22 +1121,6 @@
       "published": "2026-05-29T11:34:54.000Z"
     },
     {
-      "id": "3448f1b54bbaa2c3",
-      "title": "Composer’s dependency policies",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/05/29/composer-dependency-policies.html",
-      "pacer": "P",
-      "keywords": [
-        "Composer",
-        "PHP",
-        "Security",
-        "Package Management",
-        "Software Supply Chain"
-      ],
-      "published": "2026-05-29T10:00:00.000Z"
-    },
-    {
       "id": "c1ac4d327109cf09",
       "title": "What's going on with Gemini?",
       "source": "Martin Alderson",
@@ -1055,22 +1151,6 @@
         "knowledge management"
       ],
       "published": "2026-05-28T16:03:01.000Z"
-    },
-    {
-      "id": "da6fdceb7d79bf56",
-      "title": "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365",
-      "pacer": "P",
-      "keywords": [
-        "Windows Runtime",
-        "IAsyncOperation",
-        "coroutines",
-        "concurrency",
-        "asynchronous"
-      ],
-      "published": "2026-05-28T14:00:00.000Z"
     },
     {
       "id": "cdf4de0694d2cb46",
@@ -1119,22 +1199,6 @@
         "industry analysis"
       ],
       "published": "2026-05-28T12:03:26.000Z"
-    },
-    {
-      "id": "a6d604b80c1373a7",
-      "title": "Pluralistic: Hold on for dear life (28 May 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
-      "pacer": "C",
-      "keywords": [
-        "cryptography",
-        "privacy",
-        "technopolitics",
-        "encryption",
-        "authoritarianism"
-      ],
-      "published": "2026-05-28T11:24:23.000Z"
     },
     {
       "id": "c3ec5121c787e6e1",
@@ -1938,22 +2002,6 @@
       "published": "2026-05-20T00:00:00.000Z"
     },
     {
-      "id": "3c03a5c1d5148ebc",
-      "title": "Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-      "pacer": "C",
-      "keywords": [
-        "Wi-Wi",
-        "NICT",
-        "time synchronization",
-        "wireless protocol",
-        "STAMP"
-      ],
-      "published": "2026-05-19T14:00:00.000Z"
-    },
-    {
       "id": "2d355a1227b7c9a0",
       "title": "\nAlternatives for the EDIT tool of LLM agents\n",
       "source_url": "http://antirez.com/",
@@ -2127,22 +2175,6 @@
         "hardware"
       ],
       "published": "2026-05-18T00:00:00.000Z"
-    },
-    {
-      "id": "edf3c92180b89d1b",
-      "title": "How to be inspired without copying",
-      "source": "Westenberg.",
-      "source_url": "https://www.joanwestenberg.com/",
-      "url": "https://www.joanwestenberg.com/how-to-be-inspired-without-copying/",
-      "pacer": "P",
-      "keywords": [
-        "creativity",
-        "learning",
-        "J.S. Bach",
-        "inspiration",
-        "artistic growth"
-      ],
-      "published": "2026-05-17T22:33:32.000Z"
     },
     {
       "id": "147dddb234d2feac",
@@ -3590,16 +3622,6 @@
       "published": "2026-03-23T00:14:27.000Z"
     },
     {
-      "id": "24396c2491a6d525",
-      "title": "EnshittifAIcation",
-      "source": "IT Notes",
-      "source_url": "https://it-notes.dragas.net/",
-      "url": "https://it-notes.dragas.net/2026/03/20/enshittifaication/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-20T11:00:00.000Z"
-    },
-    {
       "id": "0fe1832d16446e7a",
       "title": "On becoming a day person",
       "source": "Herman's blog",
@@ -3920,15 +3942,14 @@
   ],
   "links": [
     {
-      "source": "1b60ad396cb5e531",
-      "target": "6fd60973a1413c1b",
+      "source": "5dcc40c7eb6e5a7f",
+      "target": "9358d73cf0bdbcd9",
       "shared_keywords": [
-        "micropython",
-        "webassembly",
-        "python",
-        "sandboxing"
+        "security",
+        "npm",
+        "software-supply-chain"
       ],
-      "strength": 0.8
+      "strength": 0.6
     },
     {
       "source": "c876821ed607a486",
