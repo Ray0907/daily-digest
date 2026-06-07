@@ -1,6 +1,205 @@
 {
-  "last_updated": "2026-06-06T22:20:28.112Z",
+  "last_updated": "2026-06-07T22:20:29.669Z",
   "articles": [
+    {
+      "id": "04e4b93b7f3b4c8e",
+      "title": "KPN Interactieve TV zonder Experia Box",
+      "url": "https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-06-07T10:36:42.000Z",
+      "summary_en": "This article provides a technical guide on how to use KPN Interactive TV with a third-party router, bypassing the ISP-provided Experia Box. It includes updated configuration settings for igmpproxy and troubleshooting tips for resetting the TV set-top box.",
+      "summary_zh": "本文介紹如何在不使用 KPN 原廠 Experia Box 的情況下，透過自備路由器使用 KPN 互動電視服務。作者提供了更新後的 igmpproxy 配置指南以及電視機上盒恢復原廠設定的故障排除建議。",
+      "keywords": [
+        "KPN",
+        "IPTV",
+        "igmpproxy",
+        "router",
+        "networking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical how-to guide, offering specific configuration steps to achieve a desired setup.",
+      "pacer_reason_zh": "本文屬於技術操作指南，提供具體的配置步驟以達成特定的設定目標。"
+    },
+    {
+      "id": "8a836974b2f14044",
+      "title": "Thoughts on starting new projects with LLM agents",
+      "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-06-07T00:38:00.000Z",
+      "summary_en": "The author shares his experience using LLM agents to build a project from scratch in Go, emphasizing the need for iterative design and human oversight. He notes that while agents significantly boost productivity, they still require substantial human intervention for refactoring and code review.",
+      "summary_zh": "作者分享了利用 LLM 代理從零開發 Go 專案的經驗，強調迭代設計與人機協作的重要性。他指出，雖然代理能大幅提升開發效率，但仍需開發者投入大量心力進行程式碼重構與審查。",
+      "keywords": [
+        "LLM agents",
+        "software development",
+        "Go language",
+        "productivity",
+        "AI coding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a process-oriented reflection, sharing the author's workflow and practical steps for integrating LLM agents into a software project.",
+      "pacer_reason_zh": "本文屬於流程導向的實務經驗分享，介紹了作者將 LLM 代理整合進軟體開發工作流程的具體步驟與操作方式。"
+    },
+    {
+      "id": "f49cf14fec0f2aaa",
+      "title": "Copping My Style",
+      "url": "https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-06-07T02:54:43.000Z",
+      "summary_en": "This article explores the legal and creative tensions surrounding the ownership of artistic 'vibes' and industrial designs, specifically focusing on guitar manufacturing. It examines how iconic designs, like the Fender Stratocaster, face challenges from modern iterations like the PRS Silver Sky and potential future legislation regarding AI and style protection.",
+      "summary_zh": "這篇文章探討了圍繞藝術風格和工業設計所有權的法律與創意緊張關係，並特別聚焦於吉他製造業。文中討論了像 Fender Stratocaster 這樣的經典設計如何面對 PRS Silver Sky 等現代版本帶來的挑戰，以及關於 AI 與風格保護的未來立法議題。",
+      "keywords": [
+        "intellectual property",
+        "Fender Stratocaster",
+        "PRS Silver Sky",
+        "artistic style",
+        "legal design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual and legal challenges of defining ownership of artistic styles and industrial designs.",
+      "pacer_reason_zh": "本文探討了關於定義藝術風格與工業設計所有權的概念性與法律挑戰。"
+    },
+    {
+      "id": "3c0e8508e35cff4c",
+      "title": "Aitken acceleration before Aitken",
+      "url": "https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-07T20:14:45.000Z",
+      "summary_en": "This post discusses how Johannes Kepler used fixed-point iteration to solve his namesake equation centuries before Alexander Aitken formally defined the acceleration method. It highlights the historical roots of iterative numerical techniques in solving transcendental equations.",
+      "summary_zh": "這篇文章探討了約翰尼斯·克卜勒如何在亞歷山大·艾特肯正式定義加速法之前的幾個世紀，就運用不動點迭代法來求解其同名方程式。內容強調了迭代數值技術在求解超越方程式方面的歷史淵源。",
+      "keywords": [
+        "Kepler",
+        "Aitken acceleration",
+        "numerical analysis",
+        "fixed-point iteration",
+        "history of math"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of historical mathematical methods and their relation to modern numerical techniques.",
+      "pacer_reason_zh": "該文章提供了對歷史數學方法及其與現代數值技術之間關係的概念性解釋。"
+    },
+    {
+      "id": "a33a6d7124f2debc",
+      "title": "The Laplace limit",
+      "url": "https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-07T19:06:36.000Z",
+      "summary_en": "This article explores the historical mathematical techniques used to solve Kepler’s equation, specifically comparing sine series and power series methods. It touches on the contributions of Lagrange and Bessel in expressing the eccentric anomaly through different analytical perspectives.",
+      "summary_zh": "本文探討了解決克卜勒方程式的歷史數學技術，特別是比較了正弦級數與冪級數方法。文中回顧了拉格朗日與貝索在表達離心近點角方面的不同解析觀點。",
+      "keywords": [
+        "Kepler equation",
+        "Lagrange",
+        "Bessel",
+        "mathematics",
+        "Laplace limit"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the mathematical concepts and theoretical history behind solving a specific equation.",
+      "pacer_reason_zh": "內容解釋了解決特定方程式背後的數學概念與理論歷史。"
+    },
+    {
+      "id": "0a0e33a507a637e4",
+      "title": "A crank formula for π",
+      "url": "https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-07T16:34:26.000Z",
+      "summary_en": "The author investigates a mathematical formula relating physical constants to the value of π. By analyzing the variables involved, they demonstrate how such 'crank' formulas often rely on arbitrary parameter selection rather than genuine mathematical proofs.",
+      "summary_zh": "作者探討了一個將物理常數與圓周率 π 聯繫起來的「瘋狂」公式。透過分析公式中的變數，作者指出這類公式通常依賴於任意選取的參數，而非嚴謹的數學證明。",
+      "keywords": [
+        "mathematics",
+        "pi",
+        "physical constants",
+        "crank science",
+        "formula"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post examines a specific formula and uses logical reasoning to test its validity against mathematical reality.",
+      "pacer_reason_zh": "文章針對特定公式進行檢驗，並運用邏輯推論來驗證其在數學上的有效性。"
+    },
+    {
+      "id": "ed76e27a4dd2aa87",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "url": "http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-06-07T16:57:09.956Z",
+      "summary_en": "This article explores the historical significance of the 1948 IBM 604 Electronic Calculating Punch, a bridge between electromechanical punch card machines and early vacuum-tube computers. It details how the 604's speed, affordability, and innovative pluggable module design paved the way for IBM's future computing success.",
+      "summary_zh": "本文探討了 1948 年 IBM 604 電子計算穿孔機的歷史意義，它是機電式穿孔機與早期真空管電腦之間的橋樑。文中詳細介紹了 604 如何憑藉其速度、經濟性和創新的可插拔模組設計，為 IBM 日後的電腦發展奠定了基礎。",
+      "keywords": [
+        "IBM 604",
+        "Computing History",
+        "Vacuum Tubes",
+        "Electronic Calculating Punch",
+        "Hardware Engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the historical context, technological shift, and architectural significance of the IBM 604 in early computing history.",
+      "pacer_reason_zh": "文章解釋了 IBM 604 在早期計算機歷史中的時代背景、技術轉型及其架構意義。"
+    },
+    {
+      "id": "d944e720bfffc86a",
+      "title": "Arp 297:",
+      "url": "https://maurycyz.com/astro/arp297/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-07T00:00:00.000Z",
+      "summary_en": "This post provides a technical breakdown of an astrophotography capture of the Arp 297 galaxy group. It details the imaging equipment, exposure settings, processing workflow, and identification of the specific galaxies present in the field of view.",
+      "summary_zh": "這篇文章詳細記錄了 Arp 297 星系群的天文攝影過程。內容涵蓋了設備規格、曝光參數、後製處理流程，並標記了影像中包含的各個星系及其特徵。",
+      "keywords": [
+        "astrophotography",
+        "Arp 297",
+        "galaxies",
+        "imaging",
+        "C9.25"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content presents a practical case study of a specific astronomical observation, including equipment data and processing results.",
+      "pacer_reason_zh": "內容展示了特定天文觀測的實務案例研究，包含了設備數據與處理結果。"
+    },
+    {
+      "id": "8c57b8a3f8723eca",
+      "title": "\nA new era for software testing\n",
+      "url": "\nhttp://antirez.com/news/168\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-06-07T09:46:06.000Z",
+      "summary_en": "The article explores how AI-driven automatic programming is transforming software quality assurance and testing. It argues that while LLMs may struggle with complex architectural tasks, they are highly effective in augmenting QA by automating manual testing processes that were previously limited by logistics.",
+      "summary_zh": "本文探討了 AI 自動化編程如何改變軟體品質保證（QA）與測試流程。作者指出，儘管大型語言模型在處理複雜架構時仍有局限，但透過 AI 代理執行手動測試任務，能有效突破傳統測試在時效與邏輯上的限制。",
+      "keywords": [
+        "AI testing",
+        "software QA",
+        "LLMs",
+        "automation",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual shift in software testing methodology by integrating LLMs into existing QA workflows.",
+      "pacer_reason_zh": "本文旨在闡述將大型語言模型整合至現有 QA 工作流程中，屬於對軟體測試方法論轉變的概念性說明。"
+    },
+    {
+      "id": "266b50b3c568ead7",
+      "title": "Doing nothing at work",
+      "url": "https://seangoedecke.com/doing-nothing-at-work/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-06-06T00:00:00.000Z",
+      "summary_en": "This article discusses the nuances of intentional inactivity and rest in a professional environment. It explores how stepping back from constant productivity can be a strategic choice for long-term focus and clarity.",
+      "summary_zh": "本文探討了在工作環境中有意為之的「無所事事」與休息的微妙之處。文章分析了如何將暫時脫離持續生產力狀態作為一種策略性選擇，以提升長期的專注力與思考清晰度。",
+      "keywords": [
+        "productivity",
+        "work culture",
+        "rest",
+        "professional development",
+        "mindfulness"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual framework of inactivity as a strategic professional practice.",
+      "pacer_reason_zh": "本文探討了將「無所事事」作為一種策略性職場實踐的概念架構。"
+    },
     {
       "id": "810e215252b509a5",
       "title": "Our Great War is a Spiritual War",
