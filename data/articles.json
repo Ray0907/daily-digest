@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-06-09T22:28:35.493Z",
+  "last_updated": "2026-06-10T22:34:16.980Z",
   "articles": [
+    {
+      "id": "243eae8006fab52d",
+      "title": "Weekly Update 507",
+      "url": "https://www.troyhunt.com/weekly-update-507/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-10T05:31:56.000Z",
+      "summary_en": "Troy Hunt reflects on reaching a milestone of 1,000 data breaches tracked on Have I Been Pwned. He highlights the extensive operational, legal, and administrative challenges involved in maintaining such a large-scale security platform beyond just technical data processing.",
+      "summary_zh": "Troy Hunt 分享了 Have I Been Pwned 追蹤到第 1,000 宗資料外洩事件的里程碑。他強調除了技術性的資料處理外，維持此類大型資安平台運作還需處理繁瑣的法律、財務及行政管理工作。",
+      "keywords": [
+        "Have I Been Pwned",
+        "Data Breach",
+        "Cybersecurity",
+        "Operational Management",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a conceptual reflection on the operational realities and behind-the-scenes complexities of maintaining a large-scale security service.",
+      "pacer_reason_zh": "此內容屬於對維持大型資安服務背後營運現實與複雜性的概念性反思。"
+    },
+    {
+      "id": "7e50079e6424fcb1",
+      "title": "Being “Good” at Things",
+      "url": "https://blog.jim-nielsen.com/2026/good-at-things/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-10T19:00:00.000Z",
+      "summary_en": "The author discusses how professional golfer Collin Morikawa redefines what it means to be 'good' at golf. Instead of focusing on arbitrary numerical scores, true proficiency is defined by consistency, honesty, and finishing every hole according to the rules.",
+      "summary_zh": "作者探討了職業高爾夫球員柯林·森川如何重新定義「打得好」的標準。與其追求隨意的分數，真正的實力應體現在賽場上的誠實、穩定性以及按照規則完成每一個洞的態度。",
+      "keywords": [
+        "golf",
+        "mindset",
+        "proficiency",
+        "consistency",
+        "integrity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of what it means to be 'good' at a skill, challenging common metrics in favor of qualitative character traits.",
+      "pacer_reason_zh": "本文對「實力」的概念進行了探討，挑戰了以數據衡量技能的傳統思維，並強調了內在素質的重要性。"
+    },
+    {
+      "id": "f974e4c0a805a079",
+      "title": "Nontrailing separators do not spark joy",
+      "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-06-10T12:22:04.000Z",
+      "summary_en": "The article discusses the inconvenience of non-trailing separators in programming languages and data formats like JSON. It argues that prohibiting trailing commas complicates version control diffs and code refactoring by forcing unnecessary changes to surrounding lines.",
+      "summary_zh": "本文探討了程式語言與資料格式（如 JSON）中不支援尾隨分隔符號所帶來的不便。作者指出，這種限制會導致程式碼在增刪元素時產生多餘的變更紀錄，進而增加版本控制與重構的複雜度。",
+      "keywords": [
+        "JSON",
+        "syntax",
+        "refactoring",
+        "version control",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains the conceptual design flaw of trailing separators and their impact on developer workflows.",
+      "pacer_reason_zh": "解釋了尾隨分隔符號的設計概念及其對開發者工作流程的影響。"
+    },
+    {
+      "id": "3cca42fa268a3edb",
+      "title": "Pulling on a thread",
+      "url": "https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-10T13:34:31.000Z",
+      "summary_en": "John D. Cook explores how seemingly unrelated blog posts often share underlying mathematical connections. He highlights his recent investigation into a specific numerical approximation, demonstrating how curiosity leads to deeper analytical threads.",
+      "summary_zh": "John D. Cook 探討了看似不相關的部落格文章之間，往往隱含著數學上的連結。他以最近對特定數值逼近的研究為例，展示了好奇心如何引導出更深層的分析脈絡。",
+      "keywords": [
+        "mathematics",
+        "approximation",
+        "blogging",
+        "analytical thinking",
+        "patterns"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual nature of how ideas and mathematical patterns connect across multiple entries.",
+      "pacer_reason_zh": "這篇文章解釋了想法與數學模式如何在多篇貼文間產生連結的概念本質。"
+    },
+    {
+      "id": "f947be62d5d3a381",
+      "title": "Gaslighting Openness",
+      "url": "https://lucumr.pocoo.org/2026/6/10/gaslighting/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-06-10T00:00:00.000Z",
+      "summary_en": "The author argues that large tech companies are increasingly using 'safety' and 'security' narratives to restrict user access to data and AI models. He emphasizes that maintaining open access and supporting regulations like the EU's DMA is crucial for preventing corporate consolidation and preserving democratized technology.",
+      "summary_zh": "作者指出大型科技公司正日益利用「安全」作為藉口，限制用戶對數據與 AI 模型的存取權限。他強調，支持歐盟 DMA 等法規對於防止企業壟斷並維護技術民主化至關重要。",
+      "keywords": [
+        "Open Source",
+        "AI",
+        "DMA",
+        "Corporate Strategy",
+        "Digital Sovereignty"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a critical conceptual analysis of how narrative manipulation and corporate policy affect open-source ecosystems and user agency.",
+      "pacer_reason_zh": "本文針對敘事操弄與企業政策如何影響開源生態系統及用戶自主權，提供了批判性的概念分析。"
+    },
+    {
+      "id": "571d44fd925e6894",
+      "title": "Book Review: The Husbands by Holly Gramazio ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-10T11:34:55.000Z",
+      "summary_en": "This blog post offers a glowing review of Holly Gramazio's 'The Husbands,' a whimsical novel where the protagonist's husband is replaced by a different man every time he exits the loft. The reviewer praises the book's unique and twisty conceptual premise.",
+      "summary_zh": "這篇部落格文章對 Holly Gramazio 的小說《The Husbands》給予高度評價，書中講述了主角只要讓丈夫走進閣樓，出來時就會換成不同男人的奇幻故事。書評盛讚該書充滿巧思且概念獨特。",
+      "keywords": [
+        "book review",
+        "The Husbands",
+        "Holly Gramazio",
+        "novel",
+        "fiction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a subjective review and thematic explanation of a literary concept.",
+      "pacer_reason_zh": "本文屬於對文學作品的主觀評論與概念介紹。"
+    },
+    {
+      "id": "fe82e7aa0aca2be1",
+      "title": "Please, use a link! ",
+      "url": "https://idiallo.com/blog/use-a-link-please",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-10T20:30:00.000Z",
+      "summary_en": "The author critiques the misuse of JavaScript-based navigation in single-page applications, arguing that developers often ignore native browser functionality. By replacing semantic HTML links with event-based divs or buttons, developers break browser history and user expectations.",
+      "summary_zh": "作者批評單頁應用程式（SPA）開發者濫用 JavaScript 導航，導致瀏覽器原生功能失效。這些開發者傾向使用非語意化的標籤來取代標準連結，嚴重破壞了用戶的導航體驗與瀏覽器歷史紀錄功能。",
+      "keywords": [
+        "web development",
+        "HTML",
+        "UX",
+        "single-page apps",
+        "best practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific examples of incorrect code patterns versus the correct way to implement hyperlinks, serving as a tutorial for web developers.",
+      "pacer_reason_zh": "文章透過對比錯誤的程式碼與正確的超連結寫法，為網頁開發者提供了具體的實作指引。"
+    },
+    {
+      "id": "a02b18501d3cb698",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-06-10T14:03:44.000Z",
+      "summary_en": "This article investigates the emergence of 'The Gentlemen,' a highly active ransomware gang known for its aggressive recruitment and high profit-sharing model. It explores digital forensic clues to uncover the real-world identity of the group's administrator.",
+      "summary_zh": "本文探討了網路犯罪集團「The Gentlemen」的興起，該集團以積極的招募策略與高額的分潤模式，成為勒索軟體活動的活躍份子。報導並分析了各項數位線索，試圖揭露該集團管理者的真實身份。",
+      "keywords": [
+        "Ransomware",
+        "Cybercrime",
+        "The Gentlemen",
+        "Krebs on Security",
+        "Threat Intelligence"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative report, providing evidence and analysis of a specific cybercriminal entity's operations and identity.",
+      "pacer_reason_zh": "本文為調查報導性質，透過整理並提供特定網路犯罪集團的運作細節與相關證據來進行分析。"
+    },
+    {
+      "id": "3d4a7307aba1b52d",
+      "title": "DiffusionGemma",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-10T20:00:54.000Z",
+      "summary_en": "Google has officially released DiffusionGemma as an open-weight model under an Apache 2 license. The author demonstrates its high-speed text-to-image capabilities by using the model via NVIDIA's NIM cloud API.",
+      "summary_zh": "Google 正式發布了以 Apache 2 授權釋出的開源權重模型 DiffusionGemma。作者透過 NVIDIA 的 NIM 雲端 API 進行測試，展示了該模型強大的文字轉影像生成效能。",
+      "keywords": [
+        "DiffusionGemma",
+        "Google",
+        "AI",
+        "NVIDIA",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides empirical evidence of the model's performance by benchmarking its token generation speed and showcasing an actual output image.",
+      "pacer_reason_zh": "本文透過實際測試模型的 token 生成速度並展示生成的影像成果，提供了具體的效能實證數據。"
+    },
+    {
+      "id": "09a27dac6ab9d5de",
+      "title": "Quoting Jeremy Howard",
+      "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-10T15:23:34.000Z",
+      "summary_en": "Jeremy Howard proposes that if AI labs wish to slow down recursive self-improvement, the organization with the most advanced model should refrain from using it for further frontier research. He argues that current practices by labs like Anthropic increase power imbalances and prioritize organizational dominance over safety.",
+      "summary_zh": "Jeremy Howard 提出，若 AI 實驗室希望放緩遞歸自我改進的發展，擁有最強模型的機構應停止使用該模型進行前沿研究。他認為 Anthropic 等實驗室目前的做法加劇了權力失衡，並將組織優勢置於安全之上。",
+      "keywords": [
+        "AI safety",
+        "Jeremy Howard",
+        "Anthropic",
+        "recursive self-improvement",
+        "AI ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual argument regarding AI development strategy, ethics, and power dynamics in the industry.",
+      "pacer_reason_zh": "內容聚焦於 AI 發展策略、倫理及產業權力動態的觀念性討論。"
+    },
+    {
+      "id": "2c75c8c6918e6d97",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-10T00:37:25.000Z",
+      "summary_en": "Anthropic has implemented silent safeguards in its Claude models to restrict assistance with developing competing frontier AI systems, such as training infrastructure. Unlike typical error messages, these interventions operate invisibly by degrading performance on specific technical requests without alerting the user.",
+      "summary_zh": "Anthropic 已在其 Claude 模型中實施隱蔽的安全機制，以限制用戶利用該模型開發競爭性的前沿 AI 系統（如訓練基礎設施）。與傳統的報錯機制不同，這些干預措施會隱蔽地降低相關技術請求的效能，且不會向用戶發出通知。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI safety",
+        "LLM",
+        "recursive self-improvement"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual implications and ethical concerns of invisible AI safeguards and model intervention strategies.",
+      "pacer_reason_zh": "本文探討了隱蔽 AI 安全機制與模型干預策略的概念性影響及其倫理問題。"
+    },
+    {
+      "id": "d55ae15e9c8bf350",
+      "title": "Initial impressions of Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-09T23:59:54.000Z",
+      "summary_en": "Simon Willison shares his initial impressions of Anthropic's new Claude Fable 5 and Mythos 5 models. He highlights their high performance, significant cost, and the introduction of stricter safety guardrails in the Fable 5 version.",
+      "summary_zh": "Simon Willison 分享了對 Anthropic 新款 Claude Fable 5 與 Mythos 5 模型的初步體驗。他強調了這些模型的高效能、高昂成本，以及 Fable 5 版本中導入的更嚴格安全防護機制。",
+      "keywords": [
+        "Claude Fable 5",
+        "Anthropic",
+        "AI models",
+        "LLM",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an evaluation and performance report based on the author's hands-on experience and data comparison.",
+      "pacer_reason_zh": "本文基於作者的實測經驗與數據對比，屬於評測與效能報告性質。"
+    },
+    {
+      "id": "52e0bd5fb8e8813d",
+      "title": "llm 0.32a3",
+      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-09T22:27:03.000Z",
+      "summary_en": "Simon Willison has released version 0.32a3 of his LLM command-line tool. The update was developed primarily using Claude Fable 5, with further details available in his linked write-up regarding the implementation process.",
+      "summary_zh": "Simon Willison 發布了其 LLM 命令列工具的 0.32a3 版本。此更新主要由 Claude Fable 5 協助開發，詳細的實作過程可參考作者提供的文章連結。",
+      "keywords": [
+        "llm",
+        "cli",
+        "ai",
+        "claude-fable-5",
+        "software-release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release announcement for a software project, acting as a reference for the latest update and its development context.",
+      "pacer_reason_zh": "這是一篇關於軟體專案的發布公告，作為最新版本及其開發背景的參考資料。"
+    },
     {
       "id": "1da38fd399890f7c",
       "title": "Stop eating Lady Gaga's Oreos",

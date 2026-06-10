@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 09 Jun 2026 22:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:34:17 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 507</title>
+      <link>https://www.troyhunt.com/weekly-update-507/</link>
+      <guid>https://www.troyhunt.com/weekly-update-507/</guid>
+      <pubDate>Wed, 10 Jun 2026 05:31:56 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt reflects on reaching a milestone of 1,000 data breaches tracked on Have I Been Pwned. He highlights the extensive operational, legal, and administrative challenges involved in maintaining such a large-scale security platform beyond just technical data processing.</description>
+    </item>
+
+    <item>
+      <title>Being “Good” at Things</title>
+      <link>https://blog.jim-nielsen.com/2026/good-at-things/</link>
+      <guid>https://blog.jim-nielsen.com/2026/good-at-things/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author discusses how professional golfer Collin Morikawa redefines what it means to be 'good' at golf. Instead of focusing on arbitrary numerical scores, true proficiency is defined by consistency, honesty, and finishing every hole according to the rules.</description>
+    </item>
+
+    <item>
+      <title>Nontrailing separators do not spark joy</title>
+      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
+      <pubDate>Wed, 10 Jun 2026 12:22:04 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The article discusses the inconvenience of non-trailing separators in programming languages and data formats like JSON. It argues that prohibiting trailing commas complicates version control diffs and code refactoring by forcing unnecessary changes to surrounding lines.</description>
+    </item>
+
+    <item>
+      <title>Pulling on a thread</title>
+      <link>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
+      <pubDate>Wed, 10 Jun 2026 13:34:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>John D. Cook explores how seemingly unrelated blog posts often share underlying mathematical connections. He highlights his recent investigation into a specific numerical approximation, demonstrating how curiosity leads to deeper analytical threads.</description>
+    </item>
+
+    <item>
+      <title>Gaslighting Openness</title>
+      <link>https://lucumr.pocoo.org/2026/6/10/gaslighting/</link>
+      <guid>https://lucumr.pocoo.org/2026/6/10/gaslighting/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author argues that large tech companies are increasingly using 'safety' and 'security' narratives to restrict user access to data and AI models. He emphasizes that maintaining open access and supporting regulations like the EU's DMA is crucial for preventing corporate consolidation and preserving democratized technology.</description>
+    </item>
+
+    <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post offers a glowing review of Holly Gramazio's 'The Husbands,' a whimsical novel where the protagonist's husband is replaced by a different man every time he exits the loft. The reviewer praises the book's unique and twisty conceptual premise.</description>
+    </item>
+
+    <item>
+      <title>Please, use a link! </title>
+      <link>https://idiallo.com/blog/use-a-link-please</link>
+      <guid>https://idiallo.com/blog/use-a-link-please</guid>
+      <pubDate>Wed, 10 Jun 2026 20:30:00 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The author critiques the misuse of JavaScript-based navigation in single-page applications, arguing that developers often ignore native browser functionality. By replacing semantic HTML links with event-based divs or buttons, developers break browser history and user expectations.</description>
+    </item>
+
+    <item>
+      <title>Who Runs the Ransomware Group ‘The Gentlemen?’</title>
+      <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
+      <guid>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</guid>
+      <pubDate>Wed, 10 Jun 2026 14:03:44 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>This article investigates the emergence of 'The Gentlemen,' a highly active ransomware gang known for its aggressive recruitment and high profit-sharing model. It explores digital forensic clues to uncover the real-world identity of the group's administrator.</description>
+    </item>
+
+    <item>
+      <title>DiffusionGemma</title>
+      <link>https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 20:00:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Google has officially released DiffusionGemma as an open-weight model under an Apache 2 license. The author demonstrates its high-speed text-to-image capabilities by using the model via NVIDIA's NIM cloud API.</description>
+    </item>
+
+    <item>
+      <title>Quoting Jeremy Howard</title>
+      <link>https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 15:23:34 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Jeremy Howard proposes that if AI labs wish to slow down recursive self-improvement, the organization with the most advanced model should refrain from using it for further frontier research. He argues that current practices by labs like Anthropic increase power imbalances and prioritize organizational dominance over safety.</description>
+    </item>
+
+    <item>
+      <title>If Claude Fable stops helping you, you'll never know</title>
+      <link>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 00:37:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has implemented silent safeguards in its Claude models to restrict assistance with developing competing frontier AI systems, such as training infrastructure. Unlike typical error messages, these interventions operate invisibly by degrading performance on specific technical requests without alerting the user.</description>
+    </item>
+
+    <item>
+      <title>Initial impressions of Claude Fable 5</title>
+      <link>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</guid>
+      <pubDate>Tue, 09 Jun 2026 23:59:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares his initial impressions of Anthropic's new Claude Fable 5 and Mythos 5 models. He highlights their high performance, significant cost, and the introduction of stricter safety guardrails in the Fable 5 version.</description>
+    </item>
+
+    <item>
+      <title>llm 0.32a3</title>
+      <link>https://simonwillison.net/2026/Jun/9/llm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/9/llm/#atom-everything</guid>
+      <pubDate>Tue, 09 Jun 2026 22:27:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.32a3 of his LLM command-line tool. The update was developed primarily using Claude Fable 5, with further details available in his linked write-up regarding the implementation process.</description>
+    </item>
+
     <item>
       <title>Stop eating Lady Gaga's Oreos</title>
       <link>https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</link>
@@ -793,123 +910,6 @@ http://antirez.com/news/168
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <source url="https://martinalderson.com/">Martin Alderson</source>
       <description>Martin Alderson discusses the shifting economics of software in the age of AI agents. He highlights the risks of executing human-written code without AI audits and explores the implications of the 'Figma Trap' on software development.</description>
-    </item>
-
-    <item>
-      <title>An Ode to the Exacting Pedantry of Computers</title>
-      <link>https://blog.jim-nielsen.com/2026/pedantry-of-computing/</link>
-      <guid>https://blog.jim-nielsen.com/2026/pedantry-of-computing/</guid>
-      <pubDate>Tue, 02 Jun 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on how computers traditionally demanded extreme precision and pedantic logic, which forced developers to think critically about their designs. However, the rise of LLMs removes this friction by filling in the details, potentially leading to a loss of the rigorous design process that previously improved software quality.</description>
-    </item>
-
-    <item>
-      <title>Logic for Programmers extra credits</title>
-      <link>https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:48:48 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The author has released a collection of supplemental materials for the book 'Logic for Programmers' to cover technical topics that didn't fit into the main publication. These additions include concepts like concurrent process orderings, first-order logic, the Liskov substitution principle, and set orders.</description>
-    </item>
-
-    <item>
-      <title>Is the Monaco Grand Prix decided at qualifying?</title>
-      <link>https://entropicthoughts.com/is-monaco-decided-at-qualifying</link>
-      <guid>https://entropicthoughts.com/is-monaco-decided-at-qualifying</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article investigates the common belief that the Monaco Grand Prix is primarily won during qualifying due to the track's narrow layout. The author seeks to fact-check whether starting position is statistically predictive of race outcomes in Monte Carlo.</description>
-    </item>
-
-    <item>
-      <title>The placeholder name for the Windows 8 experience was “modern”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</guid>
-      <pubDate>Mon, 01 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post highlights that the term 'modern' was originally intended as a temporary placeholder name for the Windows 8 user experience. It reflects on the terminology evolution within Microsoft development history.</description>
-    </item>
-
-    <item>
-      <title>Using FourSquare's API to post location checkins to social media</title>
-      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
-      <guid>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:34:51 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post discusses the author's desire to automatically share location check-ins from Foursquare's Swarm app to other social media platforms. It addresses the lack of native cross-posting features in walled-garden apps and explores using the Foursquare API to bridge this gap.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
-      <link>https://pluralistic.net/2026/06/02/must-we-pretend/</link>
-      <guid>https://pluralistic.net/2026/06/02/must-we-pretend/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:18:16 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow reflects on a talk by Brian Eno regarding the nature and purpose of art. The discussion explores the distinction between utility and art, positing that art is defined as intentional actions beyond survival that aim to evoke emotions in others.</description>
-    </item>
-
-    <item>
-      <title>Microsoft's new MAI models</title>
-      <link>https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything</guid>
-      <pubDate>Tue, 02 Jun 2026 22:21:52 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Microsoft has announced two new specialized LLMs, MAI-Thinking-1 and MAI-Code-1-Flash, which focus on reasoning and coding tasks respectively. The author highlights the models' smaller parameter sizes and Microsoft's claim that they were trained exclusively on clean, commercially licensed data.</description>
-    </item>
-
-    <item>
-      <title>California Brown Pelican</title>
-      <link>https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything</guid>
-      <pubDate>Tue, 02 Jun 2026 18:17:03 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a brief observation of California Brown Pelicans at the Fort Mason venue during the Microsoft Build conference. This post serves as a personal update amidst professional tech industry events.</description>
-    </item>
-
-    <item>
-      <title>Pasted File Editor</title>
-      <link>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</guid>
-      <pubDate>Tue, 02 Jun 2026 04:13:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces the 'Pasted File Editor,' a prototype tool inspired by Claude's ability to convert large text pastes into file attachments. The tool allows users to drag-and-drop files or paste content directly for easier management, developed with the assistance of AI.</description>
-    </item>
-
-    <item>
-      <title>1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever</title>
-      <link>https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/</link>
-      <guid>https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/</guid>
-      <pubDate>Mon, 01 Jun 2026 08:22:52 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Reflecting on the 1,000th data breach added to Have I Been Pwned, Troy Hunt explores why data exposure remains a pervasive issue despite modern privacy regulations. The analysis highlights a growing concern regarding the persistent and worsening delay in breach disclosures.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 506</title>
-      <link>https://www.troyhunt.com/weekly-update-506/</link>
-      <guid>https://www.troyhunt.com/weekly-update-506/</guid>
-      <pubDate>Mon, 01 Jun 2026 03:32:33 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt discusses the recent wave of ShinyHunters data breaches, focusing on the criminal nature of the attacks and the inadequate response from affected organizations. He highlights the concerning lack of transparent disclosure to victims and the shifting landscape of these data dumps.</description>
-    </item>
-
-    <item>
-      <title>Checking assembly with Z3</title>
-      <link>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</link>
-      <guid>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
-      <description>This post explains a bug fix for ZJIT regarding integer overflow during fixnum division. The author details how a branchless test was implemented in the low-level IR to detect the edge case where dividing FIXNUM_MIN by -1 results in a bignum.</description>
-    </item>
-
-    <item>
-      <title>The art and engineering of Silpheed</title>
-      <link>https://fabiensanglard.net/silpheed/index.html</link>
-      <guid>https://fabiensanglard.net/silpheed/index.html</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
-      <description>This article explores the technical and artistic development behind the classic video game Silpheed. It examines the engineering challenges involved in creating the game's unique visual style and gameplay mechanics.</description>
     </item>
   </channel>
 </rss>
