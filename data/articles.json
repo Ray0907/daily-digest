@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-10T22:34:16.980Z",
+  "last_updated": "2026-06-11T22:32:38.195Z",
   "articles": [
+    {
+      "id": "f250207268e52efb",
+      "title": "Hacking Google with A.I. for $500,000",
+      "url": "https://brutecat.com/articles/hacking-google-with-ai",
+      "source": "Brutecat · Research",
+      "source_url": "https://brutecat.com",
+      "published": "2026-06-11T00:00:00.000Z",
+      "summary_en": "The author shares the findings of an extensive security audit conducted by deploying AI to analyze Google's vast infrastructure. The project resulted in identifying numerous vulnerabilities across 1,500 APIs and 3,600 keys, earning the researcher $500,000 in bug bounties.",
+      "summary_zh": "作者分享了透過部署 AI 分析 Google 龐大基礎設施的深入安全審計結果。該計畫在掃描 1,500 個 API 與 3,600 把金鑰後發現了多項漏洞，並為研究人員贏得了 50 萬美元的漏洞賞金。",
+      "keywords": [
+        "Google",
+        "AI",
+        "Cybersecurity",
+        "Bug Bounty",
+        "Vulnerability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content reports on the empirical results of a large-scale security experiment and bug bounty case study.",
+      "pacer_reason_zh": "本文報導了一項大規模安全實驗與漏洞賞金案例研究的實證結果。"
+    },
+    {
+      "id": "3d95cabb93444856",
+      "title": "My Portable Heater",
+      "url": "https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-06-11T03:52:47.000Z",
+      "summary_en": "The author explores the Gigabyte Aorus RTX 5060 Ti AI Box, an external GPU that bridges the gap between portability and performance. While initially dismissed by gamers for desktop use, its compact design and increased RAM make it a compelling tool for laptop users and AI enthusiasts.",
+      "summary_zh": "作者評測了技嘉 Aorus RTX 5060 Ti AI Box 這款外接顯示卡，探討其在便攜性與效能之間的平衡。儘管該顯示卡在桌機市場評價平平，但其小巧的設計與升級後的記憶體，使其成為筆電使用者與 AI 愛好者的實用選擇。",
+      "keywords": [
+        "eGPU",
+        "Gigabyte",
+        "RTX 5060 Ti",
+        "Hardware",
+        "Portable Computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual shift in how a 'weak' desktop component can become a valuable tool when repurposed for a different context like laptop computing.",
+      "pacer_reason_zh": "文章闡述了一個概念性的轉變，說明為何原本被視為效能不足的硬體，在筆電運算的情境下反而能成為有價值的工具。"
+    },
+    {
+      "id": "2dd2a304c7299277",
+      "title": "Biological Evolution and Information Acquisition",
+      "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-11T12:01:31.000Z",
+      "summary_en": "This post discusses a simulation by economist Brian Arthur that models technological evolution. It demonstrates how complex systems can emerge from simple building blocks through the iterative combination of functional components.",
+      "summary_zh": "這篇文章討論了經濟學家布萊恩·亞瑟（Brian Arthur）關於技術演化的模擬。研究展示了透過迭代組合功能性組件，複雜的系統如何從簡單的基礎模組中演化出來。",
+      "keywords": [
+        "Evolution",
+        "Simulation",
+        "Brian Arthur",
+        "Technological Innovation",
+        "Complex Systems"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on a specific simulation and empirical evidence provided by an economist to illustrate evolutionary processes.",
+      "pacer_reason_zh": "本文以經濟學家提供的特定模擬實驗與實證作為核心，用以闡述演化過程。"
+    },
+    {
+      "id": "758e28a08d935df5",
+      "title": "What Happened to tea.xyz",
+      "url": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-11T10:00:00.000Z",
+      "summary_en": "The article analyzes the decline of tea.xyz, a cryptocurrency project aimed at rewarding open-source maintainers that lost 90% of its value shortly after launch. It examines the project's background, its split into the pkgx package manager and the tea crypto protocol, and the flaws in its Proof of Contribution incentive model.",
+      "summary_zh": "本文分析了 tea.xyz 的衰落，該加密貨幣項目旨在獎勵開源維護者，但其代幣在推出後不久便跌去了 90% 的價值。文章回顧了該項目的發展背景、將 pkgx 套件管理器與 tea 加密協議分離的過程，以及其「貢獻證明」激勵機制的缺陷。",
+      "keywords": [
+        "tea.xyz",
+        "open source",
+        "cryptocurrency",
+        "pkgx",
+        "incentive design"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative analysis supported by evidence from on-chain data, GitHub commit histories, and the company's financial trail.",
+      "pacer_reason_zh": "該文章作為調查性分析，提供了鏈上數據、GitHub 提交歷史和公司財務軌跡等證據支持。"
+    },
+    {
+      "id": "3633f6c48b28f5b2",
+      "title": "Solving a chess puzzle with Claude and Prolog",
+      "url": "https://www.johndcook.com/blog/2026/06/11/prolog-claude/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-11T13:14:26.000Z",
+      "summary_en": "This article explores the use of Prolog, a logic programming language, for solving chess puzzles. It discusses the linguistic origins of Prolog and highlights its unique ability to represent logical problems directly while weighing its pros and cons.",
+      "summary_zh": "本文探討了如何利用邏輯程式語言 Prolog 來解決西洋棋謎題。內容介紹了 Prolog 的語言起源，並分析了它在直接描述邏輯問題方面的優勢與局限性。",
+      "keywords": [
+        "Prolog",
+        "Logic programming",
+        "Chess",
+        "Claude",
+        "Philippe Roussel"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial and demonstration of solving a specific type of logic puzzle using a programming language.",
+      "pacer_reason_zh": "本文示範並教學如何使用程式語言來解決特定邏輯謎題，屬於教學指南性質。"
+    },
+    {
+      "id": "d55344373a188304",
+      "title": "Formally proving a calculation with Claude and Lean",
+      "url": "https://www.johndcook.com/blog/2026/06/10/claude-and-lean/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-10T23:11:01.000Z",
+      "summary_en": "This post details an experiment using the AI model Claude to generate Lean code for verifying a specific mathematical proof involving Fourier coefficients and Bessel functions. The author explores the potential for large language models to assist in formal mathematical verification.",
+      "summary_zh": "本文介紹了一項實驗，探討如何利用 AI 模型 Claude 生成 Lean 程式碼，以驗證涉及傅立葉係數與貝索函數的數學證明。作者展示了大型語言模型在協助形式化數學驗證方面的潛力。",
+      "keywords": [
+        "Lean",
+        "Claude",
+        "AI",
+        "mathematical proof",
+        "formal verification"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is structured as an experimental report, documenting a specific test case where an AI is used to perform a calculation and verifying the results.",
+      "pacer_reason_zh": "本文為一篇實驗報告，紀錄了利用 AI 進行計算並驗證結果的具體案例。"
+    },
+    {
+      "id": "c38ed7efa7793765",
+      "title": "What’s the opposite of Clip­Cursor that lets me exclude the cursor from a region?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260610-00/?p=112412",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-10T14:00:00.000Z",
+      "summary_en": "The article addresses whether Windows offers a built-in feature to exclude the cursor from a specific region, similar to how ClipCursor restricts it. It clarifies that such a feature does not exist, but suggests that developers can achieve this effect through virtual exclusion.",
+      "summary_zh": "本文探討 Windows 是否提供類似於 ClipCursor 的功能，用來將游標排除在特定區域之外。文章澄清目前並無此內建功能，但建議開發者可以透過虛擬排出的方式來達成相同的效果。",
+      "keywords": [
+        "Windows",
+        "ClipCursor",
+        "Cursor",
+        "UI",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation regarding the existence of a specific API feature.",
+      "pacer_reason_zh": "本文針對特定 API 功能是否存在提供了概念性的解釋。"
+    },
+    {
+      "id": "ba5afa637e51c08d",
+      "title": "Pluralistic: The world has moved on (11 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/11/lapsarianism/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-11T14:43:06.000Z",
+      "summary_en": "Cory Doctorow reflects on the generational perspective of technological change and societal complexity, referencing Douglas Adams' famous quote on human attitudes toward innovation. He uses the 'National Customer Rage Survey' to illustrate increasing consumer dissatisfaction, questioning whether current technological frustration is a legitimate critique or merely nostalgic bias.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）反思了技術變革對不同世代的影響，並引用道格拉斯·亞當斯的觀點來探討人類對創新態度的轉變。他透過「全國消費者憤怒調查」的數據說明消費者不滿情緒的上升，並反思當前對技術的不滿究竟是基於現實的批判，還是單純的懷舊心態。",
+      "keywords": [
+        "Enshittocene",
+        "technological change",
+        "consumer rage",
+        "Cory Doctorow",
+        "nostalgia"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article utilizes specific data from the National Customer Rage Survey as evidence to support a broader commentary on modern consumer dissatisfaction.",
+      "pacer_reason_zh": "本文引用了「全國消費者憤怒調查」的特定數據，以此作為支持其對當代消費者不滿情緒論述的實證證據。"
+    },
+    {
+      "id": "7a881d742ed801ae",
+      "title": "datasette 1.0a33",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-11T15:26:49.000Z",
+      "summary_en": "Datasette 1.0a33 has been released, introducing expanded support for the _extra= pattern to include queries and rows. This update simplifies JSON API interactions and is accompanied by a new, AI-assisted tool for exploring these API features.",
+      "summary_zh": "Datasette 1.0a33 版本正式發佈，將 _extra= 模式擴展至查詢與資料列，進一步強化 API 功能。此更新並附帶了一個由 AI 協助開發的全新 API 探索工具，協助使用者更直觀地操作與測試 API。",
+      "keywords": [
+        "Datasette",
+        "API",
+        "JSON",
+        "Software Release",
+        "Web Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This post announces a software release and highlights a new feature/tool for users to implement, serving as an update on how to utilize the latest API capabilities.",
+      "pacer_reason_zh": "此文章發佈軟體更新並介紹了一項新功能與工具，主要協助使用者了解如何應用最新的 API 擴充功能。"
+    },
+    {
+      "id": "536f0422115f00f4",
+      "title": "asyncinject 0.7",
+      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-11T06:28:09.000Z",
+      "summary_en": "Simon Willison released version 0.7 of asyncinject, a utility library designed for asyncio dependency injection. The update includes bug fixes identified and implemented with the help of Claude AI.",
+      "summary_zh": "Simon Willison 發布了 asyncinject 0.7 版本，這是一個專為 asyncio 依賴注入設計的實用函式庫。此版本中的錯誤修復是在 Claude AI 的協助下發現並完成的。",
+      "keywords": [
+        "asyncinject",
+        "python",
+        "asyncio",
+        "dependency injection",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a release note and reference for a software utility update.",
+      "pacer_reason_zh": "這篇文章主要作為軟體工具更新的發布說明與參考資料。"
+    },
+    {
+      "id": "2c271f0703109132",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-11T03:45:49.000Z",
+      "summary_en": "Anthropic has reversed its controversial policy of using invisible safeguards to limit AI research requests within its Claude models. The company apologized for the lack of transparency and committed to making refusal triggers visible to users in future updates.",
+      "summary_zh": "Anthropic 已撤銷其具爭議性的政策，該政策曾透過隱形的安全防護機制限制 Claude 模型內的 AI 研究請求。Anthropic 對缺乏透明度表示歉意，並承諾在未來的更新中，讓使用者能明確看見觸發拒絕回應的原因。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AI Safety",
+        "Transparency",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "This post analyzes a specific corporate policy change and provides evidence through quotes and reactions regarding AI model behavior.",
+      "pacer_reason_zh": "本文分析了特定的企業政策變更，並透過引述與反應提供了關於 AI 模型行為的證據。"
+    },
+    {
+      "id": "1897011829237f97",
+      "title": "datasette-agent 0.2a0",
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-10T23:57:27.000Z",
+      "summary_en": "Datasette-agent 0.2a0 introduces an interactive 'ask_user' feature allowing agents to prompt users for input mid-execution, with conversation state persisted across server restarts. It also adds a 'save_query' tool that enables agents to save SQL queries to Datasette, requiring human approval for security.",
+      "summary_zh": "Datasette-agent 0.2a0 推出了互動式的「ask_user」功能，允許代理在執行過程中詢問使用者，並將對話狀態保存於資料庫中，即使伺服器重啟也不會遺失。此外，新增了「save_query」工具，讓代理能將生成的 SQL 儲存為 Datasette 查詢，並強制要求人工確認以確保安全。",
+      "keywords": [
+        "datasette-agent",
+        "LLM",
+        "SQL",
+        "AI agent",
+        "software release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement listing specific new features and capabilities of the tool.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，列出了該工具的具體新功能與特性。"
+    },
     {
       "id": "243eae8006fab52d",
       "title": "Weekly Update 507",
