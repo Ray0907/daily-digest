@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "5478fe09b26c7818",
+      "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/12/compelled-speech/",
+      "pacer": "C",
+      "keywords": [
+        "Google",
+        "remote attestation",
+        "user agent",
+        "interoperability",
+        "privacy"
+      ],
+      "published": "2026-06-12T20:45:52.000Z"
+    },
+    {
+      "id": "9fe430793b389545",
+      "title": "Quoting Andrew Singleton",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "economics",
+        "satire",
+        "investment",
+        "technology"
+      ],
+      "published": "2026-06-12T18:09:21.000Z"
+    },
+    {
+      "id": "c0dd6b90439c8ef0",
+      "title": "This Week on The Analog Antiquarian",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/",
+      "pacer": "C",
+      "keywords": [
+        "The Digital Antiquarian",
+        "Henry VI",
+        "gaming history",
+        "retrogaming",
+        "software development"
+      ],
+      "published": "2026-06-12T16:31:11.000Z"
+    },
+    {
+      "id": "7f6a2b77e0e2d6e2",
+      "title": "You can finally power on a Mac remotely",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/",
+      "pacer": "C",
+      "keywords": [
+        "Apple",
+        "Mac",
+        "Remote Power",
+        "M4 Mac mini",
+        "Hardware"
+      ],
+      "published": "2026-06-12T14:00:00.000Z"
+    },
+    {
+      "id": "9306ade0bb125842",
+      "title": "I can never fully embrace LLMs for code ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code",
+      "pacer": "A",
+      "keywords": [
+        "LLM",
+        "coding",
+        "productivity",
+        "AI tools",
+        "software engineering"
+      ],
+      "published": "2026-06-12T12:00:00.000Z"
+    },
+    {
+      "id": "33633c3e74952ba4",
+      "title": "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/",
+      "pacer": "E",
+      "keywords": [
+        "TP Link",
+        "Ethernet",
+        "Networking",
+        "USB-C",
+        "Gadget Review"
+      ],
+      "published": "2026-06-12T11:34:18.000Z"
+    },
+    {
+      "id": "34e6e735a3560d1f",
+      "title": "Joint Guidance on Vulnerability Naming and Disclosure",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html",
+      "pacer": "P",
+      "keywords": [
+        "Vulnerability Naming Authority",
+        "CVE",
+        "Cybersecurity",
+        "Disclosure Process",
+        "Vulnerability Management"
+      ],
+      "published": "2026-06-12T10:00:00.000Z"
+    },
+    {
+      "id": "15dcc655b1cc00fc",
+      "title": "I Am Not a Reverse Centaur",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "pacer": "C",
+      "keywords": [
+        "LLM",
+        "Open Source",
+        "Software Engineering",
+        "AI",
+        "Reverse Centaur"
+      ],
+      "published": "2026-06-12T09:20:39.000Z"
+    },
+    {
+      "id": "2c71ad3dea8f02d8",
+      "title": "Why are cached input tokens cheaper with AI services?",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "caching",
+        "GPU",
+        "tokens",
+        "cost optimization"
+      ],
+      "published": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "c9ab8f8aa14fe295",
+      "title": "Claude Fable is relentlessly proactive",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Claude Fable",
+        "AI debugging",
+        "Datasette Agent",
+        "proactive AI",
+        "software development"
+      ],
+      "published": "2026-06-11T23:35:17.000Z"
+    },
+    {
       "id": "7a881d742ed801ae",
       "title": "datasette 1.0a33",
       "source": "Simon Willison's Weblog",
@@ -31,6 +191,22 @@
         "nostalgia"
       ],
       "published": "2026-06-11T14:43:06.000Z"
+    },
+    {
+      "id": "55e3f370e6585af8",
+      "title": "Understanding the rationale behind a rule when trying to circumvent it",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+      "pacer": "C",
+      "keywords": [
+        "rules",
+        "logic",
+        "circumvention",
+        "philosophy",
+        "The Old New Thing"
+      ],
+      "published": "2026-06-11T14:00:00.000Z"
     },
     {
       "id": "3633f6c48b28f5b2",
@@ -79,6 +255,22 @@
         "incentive design"
       ],
       "published": "2026-06-11T10:00:00.000Z"
+    },
+    {
+      "id": "d3e2929059b32ed8",
+      "title": "AI will be massively deflationary",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "commoditization",
+        "deflation",
+        "tech industry"
+      ],
+      "published": "2026-06-11T07:00:00.000Z"
     },
     {
       "id": "536f0422115f00f4",
@@ -145,22 +337,6 @@
       "published": "2026-06-11T00:00:00.000Z"
     },
     {
-      "id": "1897011829237f97",
-      "title": "datasette-agent 0.2a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette-agent",
-        "LLM",
-        "SQL",
-        "AI agent",
-        "software release"
-      ],
-      "published": "2026-06-10T23:57:27.000Z"
-    },
-    {
       "id": "d55344373a188304",
       "title": "Formally proving a calculation with Claude and Lean",
       "source": "John D. Cook",
@@ -191,22 +367,6 @@
         "best practices"
       ],
       "published": "2026-06-10T20:30:00.000Z"
-    },
-    {
-      "id": "3d4a7307aba1b52d",
-      "title": "DiffusionGemma",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "DiffusionGemma",
-        "Google",
-        "AI",
-        "NVIDIA",
-        "Generative AI"
-      ],
-      "published": "2026-06-10T20:00:54.000Z"
     },
     {
       "id": "7e50079e6424fcb1",
@@ -992,22 +1152,6 @@
       "published": "2026-06-05T14:00:01.000Z"
     },
     {
-      "id": "6257ef28ebd2b187",
-      "title": "Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389",
-      "pacer": "P",
-      "keywords": [
-        "algorithm",
-        "cycle decomposition",
-        "rotation",
-        "optimization",
-        "math"
-      ],
-      "published": "2026-06-05T14:00:00.000Z"
-    },
-    {
       "id": "0b8c1a56eb4af95e",
       "title": "I tested every IP KVM in my Homelab",
       "source": "Jeff Geerling",
@@ -1022,22 +1166,6 @@
         "SSH"
       ],
       "published": "2026-06-05T14:00:00.000Z"
-    },
-    {
-      "id": "5dcc40c7eb6e5a7f",
-      "title": "Install-script allowlists",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/05/install-script-allowlists.html",
-      "pacer": "C",
-      "keywords": [
-        "package-managers",
-        "security",
-        "npm",
-        "allowlists",
-        "software-supply-chain"
-      ],
-      "published": "2026-06-05T12:00:00.000Z"
     },
     {
       "id": "1841ef51eb149377",
@@ -1152,22 +1280,6 @@
       "published": "2026-06-04T11:34:53.000Z"
     },
     {
-      "id": "e6bdaa0bc76f3b1a",
-      "title": "Pluralistic: Delusion as a service (04 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/03/mission-space/",
-      "pacer": "A",
-      "keywords": [
-        "Cory Doctorow",
-        "Systemic Risk",
-        "Disney",
-        "Mission Space",
-        "Vulnerability"
-      ],
-      "published": "2026-06-04T06:42:39.000Z"
-    },
-    {
       "id": "6b795e6d8d608d53",
       "title": "How To Read More",
       "source": "Fernando Borretti",
@@ -1230,22 +1342,6 @@
         "human voice"
       ],
       "published": "2026-06-03T21:10:00.000Z"
-    },
-    {
-      "id": "de439b63f40d658d",
-      "title": "London Data Store Relaunch",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/",
-      "pacer": "C",
-      "keywords": [
-        "London Data Store",
-        "Open Data",
-        "Government Tech",
-        "Infrastructure",
-        "Public Sector"
-      ],
-      "published": "2026-06-03T11:34:49.000Z"
     },
     {
       "id": "1e7def351b2eb5f3",
@@ -1358,22 +1454,6 @@
         "Fact-check"
       ],
       "published": "2026-06-01T22:00:00.000Z"
-    },
-    {
-      "id": "471c33bc90896441",
-      "title": "The web is changing, and we are not going back ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed",
-      "pacer": "C",
-      "keywords": [
-        "Google",
-        "AI search",
-        "natural language processing",
-        "information retrieval",
-        "web search evolution"
-      ],
-      "published": "2026-06-01T19:34:37.000Z"
     },
     {
       "id": "4f9660b7e3af6f55",
@@ -1824,22 +1904,6 @@
       "published": "2026-05-28T00:00:00.000Z"
     },
     {
-      "id": "c608aa851628fc8d",
-      "title": "Dancing mad with sandboxing",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-      "pacer": "P",
-      "keywords": [
-        "Kefka",
-        "Go",
-        "WebAssembly",
-        "Sandbox",
-        "Shell"
-      ],
-      "published": "2026-05-28T00:00:00.000Z"
-    },
-    {
       "id": "450ed0008edca5a8",
       "title": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
       "source": "Miguel Grinberg's Blog",
@@ -2215,22 +2279,6 @@
       "published": "2026-05-23T00:00:00.000Z"
     },
     {
-      "id": "7ab2eb7bd865fe97",
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "pacer": "E",
-      "keywords": [
-        "Raspberry Pi",
-        "Hardware",
-        "Development",
-        "Tech News",
-        "AMA"
-      ],
-      "published": "2026-05-22T20:15:00.000Z"
-    },
-    {
       "id": "fa225062bd316aa7",
       "title": "How to Talk to Your Coworkers ",
       "source": "iDiallo.com",
@@ -2405,22 +2453,6 @@
         "properties"
       ],
       "published": "2026-05-20T15:13:16.000Z"
-    },
-    {
-      "id": "8e521dbb1fa31b56",
-      "title": "What will better AI mean?",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html",
-      "pacer": "C",
-      "keywords": [
-        "AI scaling",
-        "diminishing returns",
-        "artificial intelligence",
-        "S-curve",
-        "innovation"
-      ],
-      "published": "2026-05-20T07:00:00.000Z"
     },
     {
       "id": "adcaf690fdc36dbb",
@@ -3298,38 +3330,6 @@
         "Self-hosting"
       ],
       "published": "2026-04-26T14:05:41.000Z"
-    },
-    {
-      "id": "a73e6b8e9310daeb",
-      "title": "This Week on The Analog Antiquarian",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/",
-      "pacer": "C",
-      "keywords": [
-        "The Bard",
-        "gaming history",
-        "retrogaming",
-        "RPG",
-        "The Digital Antiquarian"
-      ],
-      "published": "2026-04-24T16:09:50.000Z"
-    },
-    {
-      "id": "deaa867f105533d4",
-      "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution",
-      "pacer": "P",
-      "keywords": [
-        "SQLAlchemy",
-        "Python",
-        "Database Design",
-        "Web Analytics",
-        "Programming"
-      ],
-      "published": "2026-04-23T13:10:55.000Z"
     },
     {
       "id": "905c76f537db5730",

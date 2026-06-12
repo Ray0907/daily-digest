@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-11T22:32:38.195Z",
+  "last_updated": "2026-06-12T22:28:50.286Z",
   "articles": [
+    {
+      "id": "15dcc655b1cc00fc",
+      "title": "I Am Not a Reverse Centaur",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-06-12T09:20:39.000Z",
+      "summary_en": "The author discusses the increasing influx of LLM-generated pull requests in open-source projects, which threatens to turn experienced maintainers into 'reverse centaurs'—humans who spend their time reviewing machine-made code. He reaffirms his refusal to rely on LLMs and outlines his approach to maintaining personal agency while managing these contributions.",
+      "summary_zh": "作者探討了開源專案中日益增多的 AI 生成程式碼貢獻，這種現象迫使開發者面臨成為「反向半人馬」的風險，即淪為審查機器產出內容的工具。作者重申他拒絕依賴大型語言模型，並分享了如何在維護專案的同時保持個人開發自主性的觀點。",
+      "keywords": [
+        "LLM",
+        "Open Source",
+        "Software Engineering",
+        "AI",
+        "Reverse Centaur"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual challenges and philosophical implications of integrating AI-generated code into human-led open source maintenance.",
+      "pacer_reason_zh": "本文探討將人工智慧生成的程式碼融入人類維護的開源專案時，所面臨的概念性挑戰與哲學意涵。"
+    },
+    {
+      "id": "c0dd6b90439c8ef0",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-06-12T16:31:11.000Z",
+      "summary_en": "This entry from The Digital Antiquarian explores the early game development history surrounding the title Henry VI, Part 1. It examines the technical and creative context of this specific software release within the broader timeline of early computing history.",
+      "summary_zh": "這篇來自「數位古物學家」（The Digital Antiquarian）的文章，探討了早期遊戲《亨利六世：第一部》的開發歷史。文中分析了該作品在早期電腦遊戲發展時間軸中的技術背景與創作脈絡。",
+      "keywords": [
+        "The Digital Antiquarian",
+        "Henry VI",
+        "gaming history",
+        "retrogaming",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a historical and conceptual analysis of a specific software title and its context in development history.",
+      "pacer_reason_zh": "內容針對特定軟體標題及其在開發歷史中的背景，提供了歷史性與概念性的分析。"
+    },
+    {
+      "id": "d3e2929059b32ed8",
+      "title": "AI will be massively deflationary",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-06-11T07:00:00.000Z",
+      "summary_en": "The article argues that anxieties surrounding AI companies like Anthropic are overstated, suggesting that the underlying technology is becoming a commodity. It posits that while these firms may hold grand ideologies, the competitive nature of the industry and economic realities will lead to deflationary effects rather than total control.",
+      "summary_zh": "本文主張對 Anthropic 等 AI 公司的過度擔憂被誇大了，並認為 AI 技術正逐漸趨向商品化。作者指出，儘管這些公司懷抱宏大的意識形態，但產業競爭與經濟規律將會導致通縮效應，而非實現其對未來的全面掌控。",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "commoditization",
+        "deflation",
+        "tech industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on theoretical arguments and conceptual analysis regarding the future of the AI industry and market dynamics.",
+      "pacer_reason_zh": "本文側重於針對 AI 產業未來發展與市場動態的理論推論與概念分析。"
+    },
+    {
+      "id": "34e6e735a3560d1f",
+      "title": "Joint Guidance on Vulnerability Naming and Disclosure",
+      "url": "https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-12T10:00:00.000Z",
+      "summary_en": "The Vulnerability Naming Authority has established a standardized, unified process for naming and disclosing vulnerabilities in the United States. This framework introduces centralized registry requirements, including specific branding elements like logos and color palettes, alongside a deconfliction database to ensure unique naming.",
+      "summary_zh": "漏洞命名管理局（VNA）針對美國境內發布的漏洞，建立了一套標準化且統一的命名與披露流程。該框架要求使用受控詞彙與中央註冊系統，並規範了包含圖標、配色與命名查核在內的具體執行標準。",
+      "keywords": [
+        "Vulnerability Naming Authority",
+        "CVE",
+        "Cybersecurity",
+        "Disclosure Process",
+        "Vulnerability Management"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article outlines a set of formal procedures and requirements for naming and registering vulnerabilities.",
+      "pacer_reason_zh": "本文概述了漏洞命名與註冊的一套正式程序及執行要求。"
+    },
+    {
+      "id": "55e3f370e6585af8",
+      "title": "Understanding the rationale behind a rule when trying to circumvent it",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-11T14:00:00.000Z",
+      "summary_en": "This post reflects on the nuances of following rules versus attempting to circumvent them. It highlights the importance of understanding the underlying rationale of a rule rather than just adhering to its literal technicality.",
+      "summary_zh": "這篇文章探討了遵守規則與試圖規避規則之間的細微差別。文章強調，理解規則背後的邏輯原理，遠比單純在技術層面上鑽漏洞來得重要。",
+      "keywords": [
+        "rules",
+        "logic",
+        "circumvention",
+        "philosophy",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual philosophy behind rules and why understanding their purpose matters more than literal interpretation.",
+      "pacer_reason_zh": "本文探討規則背後的概念性哲學，並闡述為何理解規則目的的重要性高於字面解釋。"
+    },
+    {
+      "id": "2c71ad3dea8f02d8",
+      "title": "Why are cached input tokens cheaper with AI services?",
+      "url": "https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-12T00:00:00.000Z",
+      "summary_en": "This article explains why AI services offer lower costs for cached input tokens. It highlights that caching reduces the computational burden on GPUs, as they do not need to perform redundant calculations for previously processed sequences.",
+      "summary_zh": "本文解釋了為何 AI 服務能為快取輸入 Token 提供更優惠的價格。核心原因在於快取機制減少了 GPU 的運算負擔，因為系統無需針對先前處理過的序列重複進行運算。",
+      "keywords": [
+        "AI",
+        "caching",
+        "GPU",
+        "tokens",
+        "cost optimization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the mechanism behind cost reductions in AI token caching.",
+      "pacer_reason_zh": "本文針對 AI Token 快取機制為何能降低成本，提供了觀念上的解釋。"
+    },
+    {
+      "id": "33633c3e74952ba4",
+      "title": "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-12T11:34:18.000Z",
+      "summary_en": "This post reviews the TP Link EH210, a compact USB-C Ethernet splitter designed for rooms with limited device requirements. The author evaluates its practical application for simplifying home networking in spaces that do not necessitate a full-sized Ethernet switch.",
+      "summary_zh": "這篇文章評測了 TP-Link EH210，這是一款專為設備需求較少的房間所設計的 USB-C 乙太網路分配器。作者分享了其在居家網路規劃中的實際應用，解決了不需大型網路交換器的小型空間需求。",
+      "keywords": [
+        "TP Link",
+        "Ethernet",
+        "Networking",
+        "USB-C",
+        "Gadget Review"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a product review based on the author's personal experience and usage case.",
+      "pacer_reason_zh": "本文是基於作者個人使用經驗與應用場景所撰寫的產品評測。"
+    },
+    {
+      "id": "5478fe09b26c7818",
+      "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/12/compelled-speech/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-12T20:45:52.000Z",
+      "summary_en": "Cory Doctorow critiques Google's remote attestation schemes, arguing they undermine the fundamental role of browsers as user agents. He emphasizes that browsers must remain interoperable and obedient to the user rather than enforcing manufacturer-dictated restrictions.",
+      "summary_zh": "Cory Doctorow 批評 Google 的遠端驗證機制，認為這削弱了瀏覽器作為使用者代理的根本作用。他強調瀏覽器必須保持互通性，並優先執行使用者的指令，而非執行製造商強加的限制。",
+      "keywords": [
+        "Google",
+        "remote attestation",
+        "user agent",
+        "interoperability",
+        "privacy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of remote attestation, explaining how it conflicts with the theoretical definition and function of a browser as a user agent.",
+      "pacer_reason_zh": "本文對遠端驗證機制提供了概念性的批判，解釋了它如何與瀏覽器作為使用者代理的定義和功能產生衝突。"
+    },
+    {
+      "id": "9306ade0bb125842",
+      "title": "I can never fully embrace LLMs for code ",
+      "url": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-12T12:00:00.000Z",
+      "summary_en": "The author reflects on the conflict between the convenience of AI-generated code and the necessity of understanding it. Unlike using established libraries, AI outputs lack vetting and consistency, leading the author to prioritize code comprehension over the speed gains offered by LLMs.",
+      "summary_zh": "作者探討了 AI 生成程式碼的便利性與必須理解其運作原理之間的衝突。與使用經過驗證的函式庫不同，AI 產出的程式碼缺乏審核且不穩定，這使得作者傾向於優先確保對程式碼的理解，而非單純追求 AI 帶來的開發速度。",
+      "keywords": [
+        "LLM",
+        "coding",
+        "productivity",
+        "AI tools",
+        "software engineering"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of an internal combustion engine to contrast the trust placed in traditional libraries versus the skepticism toward AI-generated code.",
+      "pacer_reason_zh": "文章使用了內燃機的類比，將對傳統程式庫的信任與對 AI 生成程式碼的懷疑進行了對比。"
+    },
+    {
+      "id": "9fe430793b389545",
+      "title": "Quoting Andrew Singleton",
+      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-12T18:09:21.000Z",
+      "summary_en": "This post features a satirical excerpt from Andrew Singleton's 'AI Economics for Dummies' that critiques the circular and inflated nature of current AI investment models. The piece uses a metaphorical story about a crematorium to highlight the lack of genuine financial substance behind some high-profile AI revenue claims.",
+      "summary_zh": "這篇文章引用了 Andrew Singleton 在《AI 經濟學懶人包》中的諷刺段落，批評了當前 AI 投資模式中存在的循環且虛高的現象。作者透過火葬場的隱喻，揭示了許多備受矚目的 AI 營收數據背後缺乏實質的財務基礎。",
+      "keywords": [
+        "AI",
+        "economics",
+        "satire",
+        "investment",
+        "technology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content relies heavily on a satirical analogy to explain the complex and often nonsensical economics of the AI industry.",
+      "pacer_reason_zh": "內容大量運用諷刺性的類比，以解釋 AI 產業中複雜且常顯得荒謬的經濟邏輯。"
+    },
+    {
+      "id": "c9ab8f8aa14fe295",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-11T23:35:17.000Z",
+      "summary_en": "Simon Willison shares his experience with the proactive capabilities of Claude Fable 5, specifically in debugging software. He illustrates how the AI independently explores local project dependencies and files to troubleshoot UI glitches based on a simple screenshot and prompt.",
+      "summary_zh": "Simon Willison 分享了他對 Claude Fable 5 主動式能力的體驗，特別是在軟體除錯方面的應用。他演示了該 AI 如何僅憑一張截圖和提示詞，就能主動深入探索專案的依賴項與程式碼，進而解決 UI 異常問題。",
+      "keywords": [
+        "Claude Fable",
+        "AI debugging",
+        "Datasette Agent",
+        "proactive AI",
+        "software development"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a real-world case study or anecdotal evidence of an AI model's performance in a coding workflow.",
+      "pacer_reason_zh": "這篇文章提供了 AI 模型在程式開發工作流程中表現的實際案例與經驗證明。"
+    },
+    {
+      "id": "7f6a2b77e0e2d6e2",
+      "title": "You can finally power on a Mac remotely",
+      "url": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-06-12T14:00:00.000Z",
+      "summary_en": "Apple has introduced a new feature allowing users to power on Mac computers remotely, addressing long-standing usability issues. While media reports link this to the controversial M4 Mac mini power button placement, the author highlights its broader utility for server and remote access management.",
+      "summary_zh": "蘋果推出了一項新功能，允許用戶遠端開啟 Mac 電腦，解決了長久以來的操作不便。儘管媒體報導將其與 M4 Mac mini 備受爭議的電源鍵位置連結，但作者更強調該功能在伺服器與遠端管理上的實用價值。",
+      "keywords": [
+        "Apple",
+        "Mac",
+        "Remote Power",
+        "M4 Mac mini",
+        "Hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new conceptual update to Mac hardware functionality and its significance for user workflows.",
+      "pacer_reason_zh": "本文解釋了 Mac 硬體功能的一項新概念更新，並探討其對用戶工作流程的重要性。"
+    },
     {
       "id": "f250207268e52efb",
       "title": "Hacking Google with A.I. for $500,000",
