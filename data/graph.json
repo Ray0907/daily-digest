@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "38de6fd94b25aa2d",
+      "title": "RSA munitions T-shirt",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/",
+      "pacer": "C",
+      "keywords": [
+        "RSA",
+        "cryptography",
+        "Adam Back",
+        "munitions",
+        "encryption history"
+      ],
+      "published": "2026-06-13T20:10:20.000Z"
+    },
+    {
+      "id": "3f805e12863c842b",
+      "title": "Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/13/minority-shareholder-report/",
+      "pacer": "C",
+      "keywords": [
+        "shareholder supremacy",
+        "Milton Friedman",
+        "corporate governance",
+        "fiduciary duty",
+        "Cory Doctorow"
+      ],
+      "published": "2026-06-13T17:49:56.000Z"
+    },
+    {
+      "id": "7ccbbf339dda4c76",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "pacer": "C",
+      "keywords": [
+        "Intel 8087",
+        "floating-point unit",
+        "hardware engineering",
+        "microarchitecture",
+        "circuit design"
+      ],
+      "published": "2026-06-13T15:56:00.314Z"
+    },
+    {
+      "id": "a3a0a58f0dc3265b",
+      "title": "Reading List 06/13/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-06132026",
+      "pacer": "R",
+      "keywords": [
+        "infrastructure",
+        "engineering",
+        "construction",
+        "manufacturing",
+        "logistics"
+      ],
+      "published": "2026-06-13T12:01:19.000Z"
+    },
+    {
+      "id": "729590b7deec1cf4",
+      "title": "This Week in Package Management: 13 June 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/13/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "npm",
+        "uv",
+        "pnpm",
+        "supply-chain security",
+        "package management"
+      ],
+      "published": "2026-06-13T10:00:00.000Z"
+    },
+    {
+      "id": "e464b7a63a6a0397",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "Fable 5",
+        "Mythos 5",
+        "Export Control",
+        "AI Safety"
+      ],
+      "published": "2026-06-13T01:01:50.000Z"
+    },
+    {
+      "id": "0021f221050a70b3",
+      "title": "Human Routers of Machine Words",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/human-routers-of-machine-words",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "cognition",
+        "human-computer interaction",
+        "artificial intelligence",
+        "thinking"
+      ],
+      "published": "2026-06-13T00:00:00.000Z"
+    },
+    {
+      "id": "08d266682df5be9a",
+      "title": "Dangerous Technology For Americans Only",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/6/13/americans-only/",
+      "pacer": "C",
+      "keywords": [
+        "AI safety",
+        "export control",
+        "Anthropic",
+        "nationalism",
+        "geopolitics"
+      ],
+      "published": "2026-06-13T00:00:00.000Z"
+    },
+    {
+      "id": "b761bf6cddfb2c57",
+      "title": "OpenAI WebRTC Audio Session, now with document context",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "OpenAI",
+        "WebRTC",
+        "GPT-Realtime-2",
+        "Voice-AI",
+        "Simon Willison"
+      ],
+      "published": "2026-06-12T23:53:04.000Z"
+    },
+    {
       "id": "5478fe09b26c7818",
       "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -273,22 +417,6 @@
       "published": "2026-06-11T07:00:00.000Z"
     },
     {
-      "id": "536f0422115f00f4",
-      "title": "asyncinject 0.7",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "asyncinject",
-        "python",
-        "asyncio",
-        "dependency injection",
-        "open source"
-      ],
-      "published": "2026-06-11T06:28:09.000Z"
-    },
-    {
       "id": "3d95cabb93444856",
       "title": "My Portable Heater",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -303,22 +431,6 @@
         "Portable Computing"
       ],
       "published": "2026-06-11T03:52:47.000Z"
-    },
-    {
-      "id": "2c271f0703109132",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AI Safety",
-        "Transparency",
-        "LLM"
-      ],
-      "published": "2026-06-11T03:45:49.000Z"
     },
     {
       "id": "f250207268e52efb",
@@ -833,22 +945,6 @@
       "published": "2026-06-07T20:14:45.000Z"
     },
     {
-      "id": "a33a6d7124f2debc",
-      "title": "The Laplace limit",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/",
-      "pacer": "C",
-      "keywords": [
-        "Kepler equation",
-        "Lagrange",
-        "Bessel",
-        "mathematics",
-        "Laplace limit"
-      ],
-      "published": "2026-06-07T19:06:36.000Z"
-    },
-    {
       "id": "22b0b9829913701a",
       "title": "Coding Is Designing",
       "source": "Jim Nielsen’s Blog",
@@ -1024,22 +1120,6 @@
       "published": "2026-06-06T11:34:57.000Z"
     },
     {
-      "id": "84e285f872bbca53",
-      "title": "This Week in Package Management: 6 June 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/06/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "package management",
-        "cybersecurity",
-        "software engineering",
-        "Bundler",
-        "Composer"
-      ],
-      "published": "2026-06-06T10:00:00.000Z"
-    },
-    {
       "id": "810e215252b509a5",
       "title": "Our Great War is a Spiritual War",
       "source": "the singularity is nearer",
@@ -1118,22 +1198,6 @@
         "tech industry"
       ],
       "published": "2026-06-05T23:00:00.000Z"
-    },
-    {
-      "id": "515d3f71f7d369f5",
-      "title": "Pluralistic: Refining humanity (05 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/05/defining-humanity/",
-      "pacer": "C",
-      "keywords": [
-        "communication",
-        "language",
-        "critical thinking",
-        "ambiguity",
-        "education"
-      ],
-      "published": "2026-06-05T20:49:39.000Z"
     },
     {
       "id": "f34bc540275ffe08",
@@ -1838,22 +1902,6 @@
         "人格陰影"
       ],
       "published": "2026-05-28T13:00:00.000Z"
-    },
-    {
-      "id": "827d8b84e423c888",
-      "title": "Where Are the Economies of Scale in Homebuilding?",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "pacer": "C",
-      "keywords": [
-        "construction",
-        "productivity",
-        "economies of scale",
-        "homebuilding",
-        "industry analysis"
-      ],
-      "published": "2026-05-28T12:03:26.000Z"
     },
     {
       "id": "c3ec5121c787e6e1",
@@ -3045,22 +3093,6 @@
       "published": "2026-05-08T00:00:00.000Z"
     },
     {
-      "id": "4d443773127eb5bb",
-      "title": "Pushing Local Models With Focus And Polish",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/5/8/local-models/",
-      "pacer": "C",
-      "keywords": [
-        "Local LLMs",
-        "AI Infrastructure",
-        "Developer Experience",
-        "Inference",
-        "Quantization"
-      ],
-      "published": "2026-05-08T00:00:00.000Z"
-    },
-    {
       "id": "b7832e901b96abd8",
       "title": "Monitor your devices with LibreNMS on FreeBSD",
       "source": "IT Notes",
@@ -3654,16 +3686,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-30T17:18:09.000Z"
-    },
-    {
-      "id": "5a387b90764ee2dc",
-      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-29T16:06:00.000Z"
     },
     {
       "id": "79ce21db4324806c",
