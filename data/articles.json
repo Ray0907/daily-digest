@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-06-13T22:21:06.878Z",
+  "last_updated": "2026-06-14T22:23:09.902Z",
   "articles": [
+    {
+      "id": "b0f80a58ece26ecc",
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-06-14T01:26:37.897Z",
+      "summary_en": "The author outlines their DIY project to build a compact, portable 'everything console' for vintage computing and serial port systems. By repurposing a used laptop and integrating specialized USB-to-serial hardware, they create a versatile terminal solution that avoids the bulk of CRT displays.",
+      "summary_zh": "作者分享了將舊筆記型電腦改造為便攜式「萬能控制台」的 DIY 專案，旨在解決舊式串列埠系統需要拖著笨重 CRT 顯示器的問題。透過整合 USB 轉串列硬體，實現了輕便且靈活的終端機解決方案。",
+      "keywords": [
+        "vintage computing",
+        "DIY",
+        "serial console",
+        "hardware",
+        "terminal"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a hands-on account of building a specific hardware project, focusing on the steps and considerations for creating a portable console.",
+      "pacer_reason_zh": "這是一篇關於動手組裝特定硬體專案的實作紀錄，重點在於打造便攜式控制台的步驟與考量。"
+    },
+    {
+      "id": "c8a0bc58c653672b",
+      "title": "Plugins case study: Pluggy",
+      "url": "https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-06-14T03:21:00.000Z",
+      "summary_en": "This article explores Pluggy, a Python library originally developed for pytest that facilitates building plugin systems. The author explains how to use hooks via decorators to create a modular architecture, demonstrating the concept through a practical implementation of an HTML conversion tool.",
+      "summary_zh": "本文介紹了源自 pytest 的 Python 套件 Pluggy，該工具專門用於建立插件系統。作者透過裝飾器掛鉤（hooks）的概念，示範如何將其應用於實作 HTML 轉換工具，並分享了關於插件架構的核心運作機制。",
+      "keywords": [
+        "Pluggy",
+        "Python",
+        "Plugins",
+        "Hooks",
+        "pytest"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a technical guide and code implementation examples for using the Pluggy library.",
+      "pacer_reason_zh": "本文提供了使用 Pluggy 套件的技術指南與程式碼實作範例。"
+    },
+    {
+      "id": "950f900d07754524",
+      "title": "How can I schedule work on a thread pool with low latency?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-12T14:00:00.000Z",
+      "summary_en": "This article clarifies that the Windows thread pool is fundamentally optimized for maximizing system throughput rather than achieving low-latency task execution. It warns developers that attempting to use the thread pool for latency-sensitive operations may lead to suboptimal performance.",
+      "summary_zh": "本文指出 Windows 執行緒集區的設計目標在於提升系統整體輸送量，而非降低執行延遲。開發者若嘗試將其用於對延遲敏感的工作，可能會導致效能不如預期。",
+      "keywords": [
+        "thread pool",
+        "latency",
+        "throughput",
+        "Windows programming",
+        "multithreading"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the fundamental conceptual design intent and usage limitations of the thread pool.",
+      "pacer_reason_zh": "該文章解釋了執行緒集區的基本設計概念及其使用上的限制。"
+    },
+    {
+      "id": "899196658b622ba4",
+      "title": "Making glass-to-metal seals for home­made vacuum tubes.",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-13T00:00:00.000Z",
+      "summary_en": "This blog post explores the challenges of creating vacuum-tight glass-to-metal seals for homemade vacuum tubes. It explains the importance of matching thermal expansion coefficients between glass and metal, detailing the author's experiments with copper plating to achieve successful seals.",
+      "summary_zh": "本文探討了自製真空管時，製作玻璃與金屬密封件的挑戰。文中解釋了玻璃與金屬熱膨脹係數匹配的重要性，並詳細記錄了作者透過銅鍍層實驗以實現真空密封的過程。",
+      "keywords": [
+        "vacuum tubes",
+        "glass-to-metal seals",
+        "thermal expansion",
+        "electroplating",
+        "material science"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a process-oriented documentation of how to overcome technical challenges in seal making, including specific experimental steps.",
+      "pacer_reason_zh": "該文章以程序導向的方式記錄了克服技術挑戰的過程，並包含了具體的實驗步驟與方法。"
+    },
+    {
+      "id": "cce4f131d23b554b",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-13T23:55:18.000Z",
+      "summary_en": "Pyodide now supports publishing Python packages built for WebAssembly (WASM) directly to PyPI, eliminating the need for manual maintenance by core developers. This update allows package maintainers to distribute WASM-compatible wheels just like native platform wheels, significantly improving the ecosystem's scalability.",
+      "summary_zh": "Pyodide 現在支援將為 WebAssembly (WASM) 建構的 Python 套件直接發布至 PyPI，無需再由核心開發者手動維護。此更新讓套件維護者能像發布原生平台套件一樣分發 WASM 相容的 wheels，大幅提升了生態系統的擴充性。",
+      "keywords": [
+        "Pyodide",
+        "WASM",
+        "PyPI",
+        "WebAssembly",
+        "Python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the new capability to publish WASM wheels, serving as a practical guide/announcement for developers on how to handle their package distribution workflows.",
+      "pacer_reason_zh": "本文重點介紹發布 WASM wheels 的新功能，並為開發者提供關於處理套件分發工作流的實用指南與公告。"
+    },
+    {
+      "id": "eb9346b83df4c440",
+      "title": "luau-wasm 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-13T23:14:30.000Z",
+      "summary_en": "Simon Willison has released luau-wasm 0.1a0, a tool for running the Luau scripting language via WebAssembly. The release is accompanied by documentation on publishing WASM wheels for use with Pyodide.",
+      "summary_zh": "Simon Willison 發布了 luau-wasm 0.1a0，這是一款可透過 WebAssembly 執行 Luau 腳本語言的工具。該版本並附帶了關於發布 WASM wheels 以供 Pyodide 使用的相關說明。",
+      "keywords": [
+        "luau-wasm",
+        "webassembly",
+        "pyodide",
+        "lua",
+        "python"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a release announcement and reference pointer to technical documentation for a software project.",
+      "pacer_reason_zh": "此貼文主要作為軟體專案的發布公告，並提供相關技術文件的參考連結。"
+    },
+    {
+      "id": "5798876d9661da80",
+      "title": "Mapping SQLite result columns back to their source `table.column`",
+      "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-13T23:05:00.000Z",
+      "summary_en": "Simon Willison explores methods for programmatically mapping SQL query result columns back to their original table and column names in SQLite. He leverages AI-assisted research to evaluate various technical approaches, including using the APSW library, Python ctypes to access C-level functions, and analyzing EXPLAIN output.",
+      "summary_zh": "Simon Willison 探討如何以程式方式將 SQLite SQL 查詢的結果欄位映射回原始的表格與欄位名稱。他透過 AI 輔助研究，評估了多種技術途徑，包括使用 APSW 函式庫、利用 Python ctypes 存取 C 語言底層函式，以及解析 EXPLAIN 輸出結果。",
+      "keywords": [
+        "SQLite",
+        "Python",
+        "SQL",
+        "Datasette",
+        "Column Provenance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article documents an investigation into technical feasibility and benchmarks different methods for solving a specific data provenance problem.",
+      "pacer_reason_zh": "本文記錄了一項技術可行性調查，並評估了用於解決特定資料溯源問題的不同方法。"
+    },
     {
       "id": "0021f221050a70b3",
       "title": "Human Routers of Machine Words",

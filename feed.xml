@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 13 Jun 2026 22:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:23:10 GMT</lastBuildDate>
     
+    <item>
+      <title>Building a serial and VGA &quot;everything console&quot;</title>
+      <link>https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</link>
+      <guid>https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</guid>
+      <pubDate>Sun, 14 Jun 2026 01:26:37 GMT</pubDate>
+      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
+      <description>The author outlines their DIY project to build a compact, portable 'everything console' for vintage computing and serial port systems. By repurposing a used laptop and integrating specialized USB-to-serial hardware, they create a versatile terminal solution that avoids the bulk of CRT displays.</description>
+    </item>
+
+    <item>
+      <title>Plugins case study: Pluggy</title>
+      <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
+      <guid>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:21:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article explores Pluggy, a Python library originally developed for pytest that facilitates building plugin systems. The author explains how to use hooks via decorators to create a modular architecture, demonstrating the concept through a practical implementation of an HTML conversion tool.</description>
+    </item>
+
+    <item>
+      <title>How can I schedule work on a thread pool with low latency?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article clarifies that the Windows thread pool is fundamentally optimized for maximizing system throughput rather than achieving low-latency task execution. It warns developers that attempting to use the thread pool for latency-sensitive operations may lead to suboptimal performance.</description>
+    </item>
+
+    <item>
+      <title>Making glass-to-metal seals for home­made vacuum tubes.</title>
+      <link>https://maurycyz.com/projects/glass/1/</link>
+      <guid>https://maurycyz.com/projects/glass/1/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This blog post explores the challenges of creating vacuum-tight glass-to-metal seals for homemade vacuum tubes. It explains the importance of matching thermal expansion coefficients between glass and metal, detailing the author's experiments with copper plating to achieve successful seals.</description>
+    </item>
+
+    <item>
+      <title>Publishing WASM wheels to PyPI for use with Pyodide</title>
+      <link>https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:55:18 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Pyodide now supports publishing Python packages built for WebAssembly (WASM) directly to PyPI, eliminating the need for manual maintenance by core developers. This update allows package maintainers to distribute WASM-compatible wheels just like native platform wheels, significantly improving the ecosystem's scalability.</description>
+    </item>
+
+    <item>
+      <title>luau-wasm 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:14:30 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released luau-wasm 0.1a0, a tool for running the Luau scripting language via WebAssembly. The release is accompanied by documentation on publishing WASM wheels for use with Pyodide.</description>
+    </item>
+
+    <item>
+      <title>Mapping SQLite result columns back to their source `table.column`</title>
+      <link>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:05:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison explores methods for programmatically mapping SQL query result columns back to their original table and column names in SQLite. He leverages AI-assisted research to evaluate various technical approaches, including using the APSW library, Python ctypes to access C-level functions, and analyzing EXPLAIN output.</description>
+    </item>
+
     <item>
       <title>Human Routers of Machine Words</title>
       <link>https://borretti.me/article/human-routers-of-machine-words</link>
@@ -847,69 +910,6 @@ http://antirez.com/news/168
       <pubDate>Sat, 06 Jun 2026 04:26:06 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison has released micropython-wasm 0.1a2, which now features a command-line interface. This update was developed to improve the interactive 'Try it yourself' experience within his sandboxed MicroPython project.</description>
-    </item>
-
-    <item>
-      <title>Running Python code in a sandbox with MicroPython and WASM</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
-      <pubDate>Sat, 06 Jun 2026 03:53:34 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces a new approach to secure code sandboxing by combining MicroPython with WebAssembly (WASM). The post details the motivation behind the project, its implementation in the Datasette ecosystem, and the practical steps to getting it running.</description>
-    </item>
-
-    <item>
-      <title>OpenAI Help: Lockdown Mode</title>
-      <link>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</guid>
-      <pubDate>Fri, 05 Jun 2026 23:56:40 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>OpenAI has introduced a new 'Lockdown Mode' for ChatGPT designed to prevent data exfiltration during prompt injection attacks by restricting outbound network requests. Simon Willison notes that this feature effectively addresses one leg of the 'Lethal Trifecta' in AI security by cutting off data theft channels via deterministic mechanisms.</description>
-    </item>
-
-    <item>
-      <title>The Giant's Cup</title>
-      <link>https://herman.bearblog.dev/the-giants-cup/</link>
-      <guid>https://herman.bearblog.dev/the-giants-cup/</guid>
-      <pubDate>Fri, 05 Jun 2026 08:23:00 GMT</pubDate>
-      <source url="https://herman.bearblog.dev/">Herman's blog</source>
-      <description>The author recounts their journey of completing a long-distance trail race by following a structured, incremental training plan. By focusing on steady, manageable progress rather than overexertion, they successfully built running fitness for the first time without injury.</description>
-    </item>
-
-    <item>
-      <title>Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you</title>
-      <link>https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</link>
-      <guid>https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</guid>
-      <pubDate>Fri, 05 Jun 2026 08:44:00 GMT</pubDate>
-      <source url="https://it-notes.dragas.net/">IT Notes</source>
-      <description>This article discusses the challenges and implementation of aggressive caching for a Mastodon instance using an Nginx reverse proxy. It highlights how Mastodon's reliance on content negotiation creates potential conflicts where the same URL serves different formats like HTML and ActivityPub JSON, necessitating careful configuration to avoid errors.</description>
-    </item>
-
-    <item>
-      <title>Install-script allowlists</title>
-      <link>https://nesbitt.io/2026/06/05/install-script-allowlists.html</link>
-      <guid>https://nesbitt.io/2026/06/05/install-script-allowlists.html</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article examines how various package managers handle the security risks associated with executing install-time code. It compares different approaches, such as per-package allowlists, global sandboxing, and signature verification, while specifically detailing recent updates in tools like npm and pnpm.</description>
-    </item>
-
-    <item>
-      <title>AI-indecision is a recursive trap. Don't get stuck.</title>
-      <link>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</link>
-      <guid>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</guid>
-      <pubDate>Fri, 05 Jun 2026 04:06:59 GMT</pubDate>
-      <source url="https://www.joanwestenberg.com/">Westenberg.</source>
-      <description>The article explores the philosophical concept of Buridan's Ass to illustrate how AI-induced indecision functions as a recursive trap. It argues that modern cognitive paralysis stems from an over-reliance on rational intellect, which can impede decision-making when choices appear equally optimal.</description>
-    </item>
-
-    <item>
-      <title>Mr. Bessel’s eponymous functions</title>
-      <link>https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:04:28 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article explores the role of Bessel functions in evaluating complex mathematical integrals, specifically in the context of validating numerical methods like the trapezoid rule. It highlights how these specialized functions provide exact solutions where standard methods might otherwise be difficult to verify.</description>
     </item>
   </channel>
 </rss>

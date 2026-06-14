@@ -1,6 +1,86 @@
 {
   "nodes": [
     {
+      "id": "c8a0bc58c653672b",
+      "title": "Plugins case study: Pluggy",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/",
+      "pacer": "P",
+      "keywords": [
+        "Pluggy",
+        "Python",
+        "Plugins",
+        "Hooks",
+        "pytest"
+      ],
+      "published": "2026-06-14T03:21:00.000Z"
+    },
+    {
+      "id": "b0f80a58ece26ecc",
+      "title": "Building a serial and VGA \"everything console\"",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "url": "https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "pacer": "P",
+      "keywords": [
+        "vintage computing",
+        "DIY",
+        "serial console",
+        "hardware",
+        "terminal"
+      ],
+      "published": "2026-06-14T01:26:37.897Z"
+    },
+    {
+      "id": "cce4f131d23b554b",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Pyodide",
+        "WASM",
+        "PyPI",
+        "WebAssembly",
+        "Python"
+      ],
+      "published": "2026-06-13T23:55:18.000Z"
+    },
+    {
+      "id": "eb9346b83df4c440",
+      "title": "luau-wasm 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "luau-wasm",
+        "webassembly",
+        "pyodide",
+        "lua",
+        "python"
+      ],
+      "published": "2026-06-13T23:14:30.000Z"
+    },
+    {
+      "id": "5798876d9661da80",
+      "title": "Mapping SQLite result columns back to their source `table.column`",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "SQLite",
+        "Python",
+        "SQL",
+        "Datasette",
+        "Column Provenance"
+      ],
+      "published": "2026-06-13T23:05:00.000Z"
+    },
+    {
       "id": "38de6fd94b25aa2d",
       "title": "RSA munitions T-shirt",
       "source": "John D. Cook",
@@ -97,6 +177,22 @@
       "published": "2026-06-13T01:01:50.000Z"
     },
     {
+      "id": "899196658b622ba4",
+      "title": "Making glass-to-metal seals for home­made vacuum tubes.",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "pacer": "P",
+      "keywords": [
+        "vacuum tubes",
+        "glass-to-metal seals",
+        "thermal expansion",
+        "electroplating",
+        "material science"
+      ],
+      "published": "2026-06-13T00:00:00.000Z"
+    },
+    {
       "id": "0021f221050a70b3",
       "title": "Human Routers of Machine Words",
       "source": "Fernando Borretti",
@@ -161,22 +257,6 @@
       "published": "2026-06-12T20:45:52.000Z"
     },
     {
-      "id": "9fe430793b389545",
-      "title": "Quoting Andrew Singleton",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "economics",
-        "satire",
-        "investment",
-        "technology"
-      ],
-      "published": "2026-06-12T18:09:21.000Z"
-    },
-    {
       "id": "c0dd6b90439c8ef0",
       "title": "This Week on The Analog Antiquarian",
       "source": "The Digital Antiquarian",
@@ -191,6 +271,22 @@
         "software development"
       ],
       "published": "2026-06-12T16:31:11.000Z"
+    },
+    {
+      "id": "950f900d07754524",
+      "title": "How can I schedule work on a thread pool with low latency?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417",
+      "pacer": "C",
+      "keywords": [
+        "thread pool",
+        "latency",
+        "throughput",
+        "Windows programming",
+        "multithreading"
+      ],
+      "published": "2026-06-12T14:00:00.000Z"
     },
     {
       "id": "7f6a2b77e0e2d6e2",
@@ -287,38 +383,6 @@
         "cost optimization"
       ],
       "published": "2026-06-12T00:00:00.000Z"
-    },
-    {
-      "id": "c9ab8f8aa14fe295",
-      "title": "Claude Fable is relentlessly proactive",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Claude Fable",
-        "AI debugging",
-        "Datasette Agent",
-        "proactive AI",
-        "software development"
-      ],
-      "published": "2026-06-11T23:35:17.000Z"
-    },
-    {
-      "id": "7a881d742ed801ae",
-      "title": "datasette 1.0a33",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Datasette",
-        "API",
-        "JSON",
-        "Software Release",
-        "Web Development"
-      ],
-      "published": "2026-06-11T15:26:49.000Z"
     },
     {
       "id": "ba5afa637e51c08d",
@@ -1198,22 +1262,6 @@
         "tech industry"
       ],
       "published": "2026-06-05T23:00:00.000Z"
-    },
-    {
-      "id": "f34bc540275ffe08",
-      "title": "The back cover of C++: The Programming Language also raises questions not answered by the front cover",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "Programming",
-        "Book",
-        "The Old New Thing",
-        "Technology"
-      ],
-      "published": "2026-06-05T14:00:01.000Z"
     },
     {
       "id": "0b8c1a56eb4af95e",
@@ -2806,22 +2854,6 @@
       "published": "2026-05-16T00:00:00.000Z"
     },
     {
-      "id": "18ccca1cf4360652",
-      "title": "Search engine results are truly terrible",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/misc/search/",
-      "pacer": "E",
-      "keywords": [
-        "search engines",
-        "AI",
-        "web search",
-        "spam",
-        "benchmark"
-      ],
-      "published": "2026-05-15T00:00:00.000Z"
-    },
-    {
       "id": "51a1de3cd7cca57d",
       "title": "\nA few words on DS4\n",
       "source_url": "http://antirez.com/",
@@ -3364,22 +3396,6 @@
       "published": "2026-04-26T14:05:41.000Z"
     },
     {
-      "id": "905c76f537db5730",
-      "title": "Debugging WASM in Chrome DevTools",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/",
-      "pacer": "P",
-      "keywords": [
-        "WASM",
-        "WebAssembly",
-        "Chrome DevTools",
-        "Debugging",
-        "WAT"
-      ],
-      "published": "2026-04-23T02:23:00.000Z"
-    },
-    {
       "id": "e4662687979abee1",
       "title": "AI and Teaching – The Brave New World",
       "source": "Steve Blank",
@@ -3686,16 +3702,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-30T17:18:09.000Z"
-    },
-    {
-      "id": "79ce21db4324806c",
-      "title": "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator",
-      "source": "Old Vintage Computing Research",
-      "source_url": "https://oldvcr.blogspot.com/",
-      "url": "https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-29T02:30:00.000Z"
     },
     {
       "id": "d128ede8aaa712ed",
