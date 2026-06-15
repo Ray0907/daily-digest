@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-06-14T22:23:09.902Z",
+  "last_updated": "2026-06-15T22:38:57.732Z",
   "articles": [
+    {
+      "id": "93513cf15a708b77",
+      "title": "A brief history of KV cache compression developments",
+      "url": "https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-06-15T00:00:00.000Z",
+      "summary_en": "This article explores the evolution of KV cache compression techniques, including MQA, GQA, and MLA. It highlights how these architectural innovations have been essential in enabling the long context windows required for modern agentic LLMs.",
+      "summary_zh": "本文探討了 KV 快取壓縮技術的演進，包括 MQA、GQA 與 MLA 等架構。文中強調這些創新如何有效提升運算效率，進而實現現代代理型大型語言模型所需的長上下文視窗。",
+      "keywords": [
+        "KV cache",
+        "LLM",
+        "GQA",
+        "MLA",
+        "context window"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical development and conceptual evolution of KV cache architectures.",
+      "pacer_reason_zh": "本文旨在解釋 KV 快取架構的理論發展與概念演進。"
+    },
+    {
+      "id": "a6d95547cc6b0583",
+      "title": "Things that made me think: Open Source trust relationships, knowledge without provenance, and theory building",
+      "url": "https://tomrenner.com/posts/ttmmt-4/",
+      "source": "Tom Renner on My place to put things",
+      "source_url": "https://tomrenner.com/",
+      "published": "2026-06-15T00:00:00.000Z",
+      "summary_en": "This blog post explores the intersection of technology and human behavior, examining how AI impacts trust in open-source ecosystems and knowledge provenance. The author reflects on the necessity of new systems to verify AI outputs and redefines programming as a continuous process of theory building rather than mere code production.",
+      "summary_zh": "這篇文章探討了技術與人類行為的交集，審視 AI 如何影響開源生態系統中的信任與知識出處。作者反思了驗證 AI 輸出所需的新系統，並將軟體開發重新定義為持續的理論建構過程，而非單純的程式碼產出。",
+      "keywords": [
+        "Open Source",
+        "Trust",
+        "AI",
+        "Provenance",
+        "Theory Building"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptual exploration and reflection regarding the societal and technical implications of AI and software architecture.",
+      "pacer_reason_zh": "內容側重於針對 AI 與軟體架構在社會及技術層面的影響進行概念性的探討與反思。"
+    },
+    {
+      "id": "4d71ab2822f08eac",
+      "title": "Weekly Update 508",
+      "url": "https://www.troyhunt.com/weekly-update-508/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-15T04:55:47.000Z",
+      "summary_en": "The author reflects on the frustration of finding light switches that are both aesthetically pleasing and offer specific functional requirements like push-button operation. This post highlights the difficulties in sourcing simple home hardware that meets modern design and usability standards.",
+      "summary_zh": "作者分享了在尋找既美觀又符合特定功能需求（如按壓式開關）的電燈開關時所遇到的困難。這篇文章突顯了在現代設計與實用標準下，採購簡單居家硬體的挑戰。",
+      "keywords": [
+        "home improvement",
+        "hardware",
+        "design",
+        "user experience",
+        "smart home"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content describes a personal observation and reflection on a conceptual problem regarding design and usability in hardware.",
+      "pacer_reason_zh": "內容描述了作者對硬體設計與易用性等概念性問題的個人觀察與反思。"
+    },
+    {
+      "id": "fc606360b5f051a8",
+      "title": "EU & Civil Society need to progress on Digital Autonomy",
+      "url": "https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-06-15T13:00:00.000Z",
+      "summary_en": "The article argues that current discussions on digital autonomy are stalling and often revolve around rhetoric rather than actionable progress. It calls for civil society and think tanks to broaden their focus beyond legislative frameworks and European values to address the long-term, practical challenges of digital sovereignty.",
+      "summary_zh": "文章指出目前關於數位自主權的討論已陷入停滯，多數焦點僅停留在口號而非實質進展。作者呼籲公民社會與智庫應超越立法與價值觀的層面，採取更長遠的眼光來應對數位主權面臨的深層技術與實務挑戰。",
+      "keywords": [
+        "Digital Autonomy",
+        "Digital Sovereignty",
+        "EU Policy",
+        "Civil Society",
+        "Tech Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that explores the theoretical direction and current limitations of the digital autonomy discourse.",
+      "pacer_reason_zh": "本文屬於概念性文章，探討了數位自主權論述的理論方向及當前面臨的局限性。"
+    },
+    {
+      "id": "3ee9374e9c0505b5",
+      "title": "Quaternion Rotations, Claude, and Lean",
+      "url": "https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-15T19:31:38.000Z",
+      "summary_en": "The author tests Claude's ability to identify a mathematical typo in a previous blog post regarding quaternion and rotation matrix conversions. The post highlights the potential for AI models to assist in proofreading technical content and mathematical derivations.",
+      "summary_zh": "作者測試了 Claude 識別其先前關於四元數與旋轉矩陣轉換文章中數學錯誤的能力。本文探討了 AI 模型在協助校對技術內容與數學推導方面的應用潛力。",
+      "keywords": [
+        "Quaternion",
+        "Claude",
+        "AI",
+        "Mathematics",
+        "Error Detection"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an informal experiment testing the performance of an AI model against a known technical benchmark.",
+      "pacer_reason_zh": "本文透過非正式實驗來測試 AI 模型在特定技術問題上的表現，屬於案例研究性質。"
+    },
+    {
+      "id": "0711a99d1e8d2583",
+      "title": "Writing Prolog with ChatGPT",
+      "url": "https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-15T17:22:43.000Z",
+      "summary_en": "The author explores using ChatGPT to solve a logic puzzle by generating Prolog code. The post evaluates the model's ability to handle constraints on a 4x4 chessboard compared to previous experiments with Claude.",
+      "summary_zh": "作者探討使用 ChatGPT 編寫 Prolog 程式碼來解決西洋棋邏輯難題的過程。本文評估了該模型在處理 4x4 棋盤約束條件時的表現，並與先前使用 Claude 的實驗進行比較。",
+      "keywords": [
+        "ChatGPT",
+        "Prolog",
+        "人工智慧",
+        "邏輯難題",
+        "程式設計"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as an experimental case study comparing AI model performance on specific programming tasks.",
+      "pacer_reason_zh": "本文作為一項實驗性案例研究，比較了人工智慧模型在特定程式設計任務上的表現。"
+    },
+    {
+      "id": "48dc8ed17147a1ef",
+      "title": "[RSS Club] What happens to old posts?",
+      "url": "https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-15T11:34:34.000Z",
+      "summary_en": "The article discusses the nature of 'RSS Club' posts, which are exclusive content accessible only to RSS feed subscribers. It addresses the challenge of permanent access for readers who bookmark these posts but later find them inaccessible or restricted.",
+      "summary_zh": "本文探討了「RSS俱樂部」文章的特性，這類內容僅供 RSS 訂閱者存取。作者討論了讀者在收藏這些連結後，卻因其特殊的隱私或時效限制而面臨無法再次閱讀的問題。",
+      "keywords": [
+        "RSS",
+        "RSS Club",
+        "blogging",
+        "content distribution",
+        "digital archiving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the concept and operational philosophy behind RSS Club-exclusive content.",
+      "pacer_reason_zh": "這篇文章旨在解釋「RSS俱樂部」專屬內容的概念與其運作哲學。"
+    },
+    {
+      "id": "73c955f5279e4da1",
+      "title": "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
+      "url": "https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-14T11:34:16.000Z",
+      "summary_en": "The author investigates the persistent claim that Frank Sinatra famously misattributed The Beatles' song 'Something' to Lennon and McCartney. By analyzing the origins of this anecdote, the post treats it as an apocryphal myth similar to other common music industry misconceptions.",
+      "summary_zh": "作者探討了法蘭克·辛納屈（Frank Sinatra）曾將披頭四樂團的歌曲《Something》錯誤歸功於連儂與麥卡尼的傳聞。文章分析了這則軼事的起源，認為這是一則如同其他樂壇誤解般的虛構傳說。",
+      "keywords": [
+        "Frank Sinatra",
+        "The Beatles",
+        "George Harrison",
+        "Music History",
+        "Fact-checking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The author examines specific evidence and historical anecdotes to verify or debunk a commonly cited claim.",
+      "pacer_reason_zh": "作者檢視了特定的證據與歷史軼事，旨在查證或反駁一則常見的傳言。"
+    },
+    {
+      "id": "5735ef339e7b8c77",
+      "title": "Arp 185:",
+      "url": "https://maurycyz.com/astro/arp185/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-14T00:00:00.000Z",
+      "summary_en": "This post presents an amateur astrophotography capture of the galaxy Arp 185, including technical details of the equipment, exposure settings, and processing steps. The author discusses the galaxy's structural classification and notes the presence of a background galaxy.",
+      "summary_zh": "本文介紹了星系 Arp 185 的天文攝影作品，並提供了器材規格、曝光設定與影像處理流程等技術資訊。作者同時討論了該星系的形態特徵及背景星系的識別。",
+      "keywords": [
+        "astrophotography",
+        "Arp 185",
+        "C9.25",
+        "IMX533",
+        "galaxy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as an empirical log documenting a specific observation session, including data, hardware specifications, and processing results.",
+      "pacer_reason_zh": "內容屬於實證紀錄，詳細列出了特定觀測活動的數據、硬體規格以及影像處理結果。"
+    },
+    {
+      "id": "49494a2bc2080688",
+      "title": "Pluralistic: AI and amateurism (15 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/15/vernacular/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-15T15:40:29.000Z",
+      "summary_en": "Cory Doctorow reflects on his lifelong journey with computing and AI, addressing why his deep technical background hasn't made him an AI booster. He explores the concept of amateurism in the context of generative technology and criticizes current industry trends.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）回顧了他與電腦和人工智慧的深厚淵源，並解釋為何儘管他具備專業背景，卻並未成為一名「人工智慧支持者」。他探討了生成式技術背景下的「業餘愛好者」概念，並對當前的科技產業趨勢提出了批判。",
+      "keywords": [
+        "AI",
+        "technology",
+        "amateurism",
+        "programming",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the author's relationship with technology and his critical perspective on current AI developments.",
+      "pacer_reason_zh": "本文是一篇關於作者與技術關係的概念性反思，以及他對當前人工智慧發展的批判性觀點。"
+    },
+    {
+      "id": "9c479ecb98939c02",
+      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-15T14:57:33.000Z",
+      "summary_en": "This post discusses the internal conflict and diplomatic tensions between Anthropic and the US government regarding the suspension of its AI models, Mythos and Fable. It highlights the difficulty of achieving perfect jailbreak resistance and the ongoing negotiations to restore access to these tools.",
+      "summary_zh": "本文探討了 Anthropic 與美國政府之間關於暫停其 AI 模型 Mythos 和 Fable 的內部衝突與外交緊張局勢。文章指出實現完美的防越獄機制極其困難，並討論了恢復模型訪問權限的持續協商進程。",
+      "keywords": [
+        "Anthropic",
+        "AI Policy",
+        "Export Control",
+        "Jailbreak",
+        "Governance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the context and conceptual implications of a specific corporate-government conflict regarding AI safety and regulation.",
+      "pacer_reason_zh": "內容解釋了企業與政府之間關於 AI 安全與監管衝突的背景及其概念性影響。"
+    },
+    {
+      "id": "1b38ea10674e0953",
+      "title": "Quoting Julia Evans",
+      "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-15T02:05:19.000Z",
+      "summary_en": "Julia Evans suggests that effective writing is best achieved by targeting a single, specific person, such as one's past self or a friend. This approach helps simplify communication and ensures the content resonates more deeply with the intended reader.",
+      "summary_zh": "Julia Evans 建議透過針對特定的對象（例如過去的自己或朋友）來進行寫作，以此達到最有效的溝通。這種方法能幫助作者簡化表達，並確保內容能與讀者產生更深層的共鳴。",
+      "keywords": [
+        "writing",
+        "julia-evans",
+        "communication",
+        "audience",
+        "advice"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "Provides a practical, actionable tip for improving writing quality.",
+      "pacer_reason_zh": "提供了提升寫作品質的實用建議與技巧。"
+    },
+    {
+      "id": "385d55b855aee66e",
+      "title": "Why AI hasn’t replaced software engineers, and won’t",
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-14T23:54:11.000Z",
+      "summary_en": "Arvind Narayanan and Sayash Kapoor argue that AI is unlikely to replace software engineers, citing data that shows no mass AI-related layoffs in the tech industry. They identify that the true bottlenecks in software engineering, such as decision-making, verification, and accountability, remain resistant to automation.",
+      "summary_zh": "Arvind Narayanan 和 Sayash Kapoor 認為 AI 不太可能取代軟體工程師，並引用數據顯示科技業並未出現大規模與 AI 相關的裁員潮。他們指出，軟體工程的核心瓶頸在於決策、驗證與責任承擔，這些任務目前仍難以被自動化取代。",
+      "keywords": [
+        "AI",
+        "Software Engineering",
+        "Automation",
+        "Employment",
+        "Technology Trends"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses employment data and WARN Act filings to provide evidence against the narrative of AI-driven job displacement.",
+      "pacer_reason_zh": "本文引用就業數據與 WARN 法案的申報紀錄，作為反駁 AI 將導致大規模失業論述的證據。"
+    },
+    {
+      "id": "9dd2ac56ff1f486c",
+      "title": "AI GPUs probably live longer than three years",
+      "url": "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-06-15T00:00:00.000Z",
+      "summary_en": "This article challenges the assumption that AI GPUs have a short, three-year lifespan, suggesting they may remain functional and relevant for longer. It examines the factors contributing to hardware longevity in the context of rapidly evolving artificial intelligence demands.",
+      "summary_zh": "這篇文章挑戰了 AI GPU 僅有三年使用壽命的假設，並指出它們在實際應用中可能具備更長的運作與實用週期。文中探討了在人工智慧需求快速變化的背景下，影響硬體耐用度的關鍵因素。",
+      "keywords": [
+        "AI GPUs",
+        "Hardware Longevity",
+        "Data Centers",
+        "Compute Infrastructure",
+        "Tech Lifecycle"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a theoretical perspective on hardware lifecycles and challenges industry assumptions, making it conceptual in nature.",
+      "pacer_reason_zh": "本文探討了關於硬體生命週期的理論觀點並挑戰了產業既定假設，屬於概念性內容。"
+    },
     {
       "id": "b0f80a58ece26ecc",
       "title": "Building a serial and VGA \"everything console\"",
