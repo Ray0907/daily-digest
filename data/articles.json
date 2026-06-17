@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-16T22:37:04.501Z",
+  "last_updated": "2026-06-17T22:32:04.070Z",
   "articles": [
+    {
+      "id": "94fb41860238f3b1",
+      "title": "Maybe it's time for lots of little indie AIs to take over",
+      "url": "https://anildash.com/2026/06/15/indie-AI-takeover/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-06-15T00:00:00.000Z",
+      "summary_en": "Anil Dash advocates for a shift away from massive AI models toward a ecosystem of smaller, independent, and responsible AI players. He critiques the current influence of corrupt corporate and political interests, suggesting that systemic coercion forces widespread adoption despite user skepticism.",
+      "summary_zh": "Anil Dash 主張從大型 AI 模型轉向由眾多小型、獨立且負責任的參與者組成的生態系統。他批評了當前企業與政治利益的腐敗影響，並指出儘管大眾對 AI 抱持懷疑態度，但系統性的強制力仍推動了其廣泛應用。",
+      "keywords": [
+        "AI",
+        "indie AI",
+        "decentralization",
+        "tech policy",
+        "big tech"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the theoretical shift toward decentralized AI ecosystems and provides a conceptual critique of current industry power dynamics.",
+      "pacer_reason_zh": "本文聚焦於去中心化 AI 生態系統的理論轉向，並針對當前產業權力結構提供了觀念性的評論。"
+    },
+    {
+      "id": "03b677b8dd6834c9",
+      "title": "Summoning the Demon",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-06-17T07:00:00.000Z",
+      "summary_en": "The article critiques the development of AI as a reflection of societal flaws rather than a technological inevitability. It argues that the current pursuit of AI optimization is a self-destructive path that will eventually lead to systemic collapse and social transformation.",
+      "summary_zh": "本文批評人工智慧的發展是社會缺陷的反映，而非技術上的必然。作者認為，目前對人工智慧優化的追求是一條自我毀滅的道路，最終將導致體系的崩潰與社會的轉型。",
+      "keywords": [
+        "AI",
+        "technology",
+        "society",
+        "collapse",
+        "capitalism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on philosophical and conceptual analysis of AI's societal impact and the ideological implications of its development.",
+      "pacer_reason_zh": "內容側重於對人工智慧社會影響的哲學與概念分析，以及其發展背後的意識形態意義。"
+    },
+    {
+      "id": "05282d12b195e146",
+      "title": "Logic for Programmers v0.15, Livecoding",
+      "url": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-06-17T16:40:09.000Z",
+      "summary_en": "The author announces that 'Logic for Programmers' version 0.15 is the final release candidate before the 1.0 print edition. Additionally, the post highlights two music livecoding languages, Strudel and CLAVIER-36, discussed at a recent Chicago meetup.",
+      "summary_zh": "作者宣布《Logic for Programmers》v0.15 為 1.0 正式印刷版發布前的最後候選版本。此外，文中分享了近期芝加哥聚會中介紹的兩個音樂即時編碼語言：Strudel 與 CLAVIER-36。",
+      "keywords": [
+        "Logic for Programmers",
+        "Livecoding",
+        "Strudel",
+        "CLAVIER-36",
+        "Software Release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as an update notification and a list of recommendations, functioning primarily as a reference for readers.",
+      "pacer_reason_zh": "本文主要作為更新公告與推薦清單，功能上屬於提供資訊的參考資源。"
+    },
+    {
+      "id": "88e7845df3037df1",
+      "title": "You Got Faster. Your Company Didn’t.",
+      "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
+      "source": "Terrible Software",
+      "source_url": "https://terriblesoftware.org/",
+      "published": "2026-06-17T17:39:03.000Z",
+      "summary_en": "Individual productivity gains from AI often fail to translate into company-wide success. Instead of true value creation, these gains frequently manifest as shifting the burden of slow processes onto other team members.",
+      "summary_zh": "個人使用 AI 帶來的生產力提升，往往無法轉化為公司的整體成功。這種提升通常並非創造了更多價值，而是將繁瑣的步驟轉嫁給團隊中的其他人。",
+      "keywords": [
+        "AI",
+        "productivity",
+        "workplace efficiency",
+        "management",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of how individual AI adoption affects organizational dynamics and productivity.",
+      "pacer_reason_zh": "本文對個人 AI 使用如何影響組織動態與生產力提供了概念性的批判分析。"
+    },
+    {
+      "id": "cc329a59c0b122da",
+      "title": "Formalizing a ring theorem with Lean 4 and Claude",
+      "url": "https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-17T14:23:51.000Z",
+      "summary_en": "John D. Cook explores using Claude to generate Lean 4 code for formalizing mathematical proofs. The article documents the author's efforts to verify specific theorems, highlighting both the potential and the practical challenges of using AI assistants for formal verification.",
+      "summary_zh": "John D. Cook 探討了利用 Claude 生成 Lean 4 程式碼以進行數學定理形式化驗證的過程。文章記錄了作者進行的一系列實驗，並探討了將 AI 助手應用於形式化驗證領域的潛力與實際挑戰。",
+      "keywords": [
+        "Lean 4",
+        "Claude",
+        "Formal Verification",
+        "Mathematics",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is an experimental report documenting the author's testing and results of using an AI tool for a specific task.",
+      "pacer_reason_zh": "本文屬於實驗性報告，記錄了作者使用 AI 工具進行特定任務測試的過程與結果。"
+    },
+    {
+      "id": "ed93ceca5b436ee3",
+      "title": "Retrofitting the WM_COPY­DATA message onto Windows 3.1",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260616-00/?p=112430",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-16T14:00:00.000Z",
+      "summary_en": "This post discusses the historical implementation of the WM_COPYDATA message within the Windows 3.1 operating system. It highlights how the feature was intentionally engineered for simplicity.",
+      "summary_zh": "本文探討了 Windows 3.1 作業系統中 WM_COPYDATA 訊息的歷史實作過程。作者指出該功能的設計初衷是為了保持極簡與易用。",
+      "keywords": [
+        "Windows 3.1",
+        "WM_COPYDATA",
+        "API",
+        "Windows development",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how a specific Windows system message was implemented and its design philosophy.",
+      "pacer_reason_zh": "該文章針對特定 Windows 系統訊息的實作方式與設計理念進行了概念性的解釋。"
+    },
+    {
+      "id": "3c05b529ba4de62f",
+      "title": "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-17T18:27:18.000Z",
+      "summary_en": "This article examines the 'dead economy' theory, arguing that financial markets no longer accurately value assets. It cites Elon Musk's post-2020 commercial failures alongside the mainstream adoption of volatile assets like cryptocurrency as evidence of institutional failure.",
+      "summary_zh": "本文探討了「死寂經濟」理論，認為金融市場已無法準確評估資產價值。作者以伊隆·馬斯克 2020 年後的商業失敗，以及加密貨幣被主流金融機構接納為例，說明現行體制已失去定價功能。",
+      "keywords": [
+        "dead economy",
+        "Elon Musk",
+        "financial markets",
+        "asset valuation",
+        "cryptocurrency"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses the specific case study of Elon Musk's recent ventures and market behavior to provide evidence for a broader economic theory.",
+      "pacer_reason_zh": "本文引用伊隆·馬斯克近期商業行為的案例分析，作為支持其宏觀經濟理論的具體證據。"
+    },
+    {
+      "id": "25776de53c589c57",
+      "title": "Quoting Charity Majors",
+      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-17T17:12:41.000Z",
+      "summary_en": "Charity Majors highlights how generative AI has fundamentally altered software development economics, making code production nearly instantaneous and essentially free. This shift transitions code from a high-value asset to a disposable commodity, necessitating a greater focus on engineering discipline.",
+      "summary_zh": "Charity Majors 指出生成式 AI 徹底改變了軟體開發的經濟結構，使得程式碼生成變得即時且幾乎無成本。這種轉變將程式碼從昂貴的珍貴資產變成了可拋棄的消耗品，因此強調現代工程更需要嚴謹的紀律。",
+      "keywords": [
+        "AI",
+        "generative-ai",
+        "software-engineering",
+        "llms",
+        "code-production"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual analysis of how AI is changing the fundamental principles and economics of software development.",
+      "pacer_reason_zh": "內容重點在於分析 AI 如何改變軟體開發的基本原則與經濟模式，屬於概念性探討。"
+    },
+    {
+      "id": "1b3b1ace6e4f3379",
+      "title": "<click-to-play> — a still that plays",
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-17T03:56:10.000Z",
+      "summary_en": "Simon Willison introduces a web component that converts animated GIFs into still frames, only loading the animation when a user interacts with it. This technique optimizes page performance by preventing large GIF files from loading automatically.",
+      "summary_zh": "Simon Willison 介紹了一個 Web 元件，能將 GIF 動畫轉換為靜態圖片，僅在使用者點擊時才載入動態內容。此技術透過延遲載入大型 GIF 檔案來優化網頁效能。",
+      "keywords": [
+        "web-components",
+        "gif",
+        "javascript",
+        "progressive-enhancement",
+        "performance"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical tool and code snippet for developers to implement a specific feature on their websites.",
+      "pacer_reason_zh": "文章提供了一個實用的工具與程式碼片段，供開發者在網站中實作特定的功能。"
+    },
+    {
+      "id": "42888cf86bd6da2a",
+      "title": "NetNewsWire Status",
+      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-17T03:36:09.000Z",
+      "summary_en": "This post highlights Brent Simmons' work on NetNewsWire, an open-source RSS reader he has been perfecting in his retirement. The author praises the project for its quality and independence from commercial pressure, noting its status as an indispensable tool for reading.",
+      "summary_zh": "這篇文章介紹了 Brent Simmons 在退休後致力於完善開放原始碼 RSS 閱讀器 NetNewsWire 的經歷。作者稱讚該專案擺脫了商業壓力，並強調這款軟體在日常閱讀中的重要性。",
+      "keywords": [
+        "NetNewsWire",
+        "RSS",
+        "open-source",
+        "Brent Simmons",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview and appreciation of a software project's status and development philosophy.",
+      "pacer_reason_zh": "本文旨在分享對軟體專案現況與開發理念的概念性介紹與評價。"
+    },
+    {
+      "id": "c36939a2dda46c13",
+      "title": "datasette 1.0a34",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-16T21:31:24.000Z",
+      "summary_en": "Datasette 1.0a34 introduces long-awaited features that allow users to insert, edit, and delete rows directly through the web interface. Inspired by development work on Datasette Agent, this update bridges the gap between chat-based SQL interaction and the standard UI.",
+      "summary_zh": "Datasette 1.0a34 引入了期待已久的新功能，允許使用者直接透過網頁介面新增、編輯及刪除資料列。此更新受 Datasette Agent 開發經驗的啟發，改善了過去聊天介面與標準介面在 SQL 操作上的不一致性。",
+      "keywords": [
+        "Datasette",
+        "SQL",
+        "Database",
+        "Software Release",
+        "UI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is an announcement post providing release notes and updates for a specific software version.",
+      "pacer_reason_zh": "這是一篇提供特定軟體版本更新說明與發布資訊的公告文章。"
+    },
+    {
+      "id": "7f39b5b357a5e9ef",
+      "title": "datasette-tailscale 0.1a0",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-16T16:18:20.000Z",
+      "summary_en": "Simon Willison has released an experimental alpha plugin, datasette-tailscale, which allows users to host a Datasette server directly on their Tailnet. By utilizing the tailscale-rs library, the plugin provides a simplified way to expose local data via a private Tailscale network.",
+      "summary_zh": "Simon Willison 發布了一個名為 datasette-tailscale 的實驗性 alpha 外掛，讓使用者能將 Datasette 伺服器直接架設在 Tailnet 上。透過利用 tailscale-rs 函式庫，此插件簡化了透過私有 Tailscale 網路發布本地數據的流程。",
+      "keywords": [
+        "datasette",
+        "tailscale",
+        "plugin",
+        "networking",
+        "python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a new technical tool and provides a code example of how to use it in a command-line environment.",
+      "pacer_reason_zh": "文章介紹了一項新的技術工具，並提供了如何在命令列環境中使用該工具的程式碼範例。"
+    },
     {
       "id": "375b18b904952599",
       "title": "Key, in sight",
