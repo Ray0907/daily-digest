@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 17 Jun 2026 22:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:35:44 GMT</lastBuildDate>
     
+    <item>
+      <title>Show your hands honor for the strange power they bring you</title>
+      <link>https://aresluna.org/show-your-hands-honor</link>
+      <guid>https://aresluna.org/show-your-hands-honor</guid>
+      <pubDate>Thu, 18 Jun 2026 14:43:48 GMT</pubDate>
+      <source url="https://www.aresluna.org/">Aresluna</source>
+      <description>This article explores the design of intuitive and ergonomic finger-based interactions for digital interfaces. It offers extensive practical guidance, including 38 interactive playgrounds to help designers create more natural user experiences.</description>
+    </item>
+
+    <item>
+      <title>You don’t understand, prices can’t go down</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The article critiques how modern economic policies prioritize inflating asset prices over genuine productivity, leading to a disconnect between market valuations and reality. It argues that the systemic refusal to allow prices to fall creates dangerous bubbles and transfers wealth from productive activities to speculative endeavors.</description>
+    </item>
+
+    <item>
+      <title>GLM 5.2 playing text adventures</title>
+      <link>https://entropicthoughts.com/glm-5-2-playing-text-adventures</link>
+      <guid>https://entropicthoughts.com/glm-5-2-playing-text-adventures</guid>
+      <pubDate>Wed, 17 Jun 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The author evaluates the performance of the new GLM 5.2 open-weights model by pitting it against Gemini 3 Flash in text-adventure games. The analysis utilizes a consistent benchmarking harness to measure success based on achievement counts within a fixed budget.</description>
+    </item>
+
+    <item>
+      <title>Open Source vs the Invisible Hand</title>
+      <link>https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html</link>
+      <guid>https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html</guid>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article explores the contradiction between traditional economic theory and the reality of open source software production. It argues that open source ignores market axioms like the free rider problem and price-based quality signaling to create a highly functional, massive ecosystem of public goods.</description>
+    </item>
+
+    <item>
+      <title>Why doesn’t Get­Last­Input­Info() return info for the user I’m impersonating?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</guid>
+      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>The GetLastInputInfo() function does not track activity for impersonated users because it is not designed to account for impersonation contexts. The API behavior is tied to the physical input state rather than the specific security token being used.</description>
+    </item>
+
+    <item>
+      <title>Windows stack limit checking retrospective, follow-up</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436</guid>
+      <pubDate>Wed, 17 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post is a follow-up discussion regarding the technical implementation of stack limit checking in Windows. It specifically examines the choices involved in selecting CPU registers to manage stack allocation sizes.</description>
+    </item>
+
+    <item>
+      <title>I hate compilers</title>
+      <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
+      <guid>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The author humorously challenges the expectation that compilers always produce deterministic output from identical source code. The post highlights the complexities and often frustrating nuances that cause non-deterministic behavior in compilation processes.</description>
+    </item>
+
+    <item>
+      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
+      <guid>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
+      <pubDate>Thu, 18 Jun 2026 11:34:19 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review of Alan Moore's 'The Great When' highlights the author's exceptionally ornate and polysyllabic prose style. The reviewer praises the book's descriptive language, noting that while it is heavily overwritten, the stylistic execution creates a delightful reading experience.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/18/their-trillions-our-billions/</link>
+      <guid>https://pluralistic.net/2026/06/18/their-trillions-our-billions/</guid>
+      <pubDate>Thu, 18 Jun 2026 15:22:16 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that the concept of 'AI digital sovereignty' is a logical fallacy, similar to his critique of blockchain-based institutions. He contends that just as DAOs still require human intermediaries to act in the physical world, AI-driven solutions often fail to eliminate the human trust-based dependencies they claim to solve.</description>
+    </item>
+
+    <item>
+      <title>‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</title>
+      <link>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</link>
+      <guid>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</guid>
+      <pubDate>Thu, 18 Jun 2026 17:37:58 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>Security researchers have linked the 'Popa' Android botnet, which has compromised millions of consumer TV boxes for illegal activities, to NetNut, a residential proxy provider owned by the Israeli firm Alarum Technologies. This discovery highlights the abuse of proxy networks for malicious operations like ad fraud and data scraping.</description>
+    </item>
+
+    <item>
+      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
+      <link>https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything</guid>
+      <pubDate>Wed, 17 Jun 2026 23:58:39 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Z.ai has released GLM-5.2, a 753B parameter Mixture of Experts model that currently stands as a leading open-weights LLM. Despite its impressive benchmark performance and 1 million token context window, the model is noted for being significantly more token-hungry than its competitors.</description>
+    </item>
+
     <item>
       <title>Maybe it's time for lots of little indie AIs to take over</title>
       <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
@@ -805,105 +904,6 @@
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
       <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
       <description>The author argues that large tech companies are increasingly using 'safety' and 'security' narratives to restrict user access to data and AI models. He emphasizes that maintaining open access and supporting regulations like the EU's DMA is crucial for preventing corporate consolidation and preserving democratized technology.</description>
-    </item>
-
-    <item>
-      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
-      <guid>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:34:55 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post offers a glowing review of Holly Gramazio's 'The Husbands,' a whimsical novel where the protagonist's husband is replaced by a different man every time he exits the loft. The reviewer praises the book's unique and twisty conceptual premise.</description>
-    </item>
-
-    <item>
-      <title>Please, use a link! </title>
-      <link>https://idiallo.com/blog/use-a-link-please</link>
-      <guid>https://idiallo.com/blog/use-a-link-please</guid>
-      <pubDate>Wed, 10 Jun 2026 20:30:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author critiques the misuse of JavaScript-based navigation in single-page applications, arguing that developers often ignore native browser functionality. By replacing semantic HTML links with event-based divs or buttons, developers break browser history and user expectations.</description>
-    </item>
-
-    <item>
-      <title>Who Runs the Ransomware Group ‘The Gentlemen?’</title>
-      <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
-      <guid>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</guid>
-      <pubDate>Wed, 10 Jun 2026 14:03:44 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>This article investigates the emergence of 'The Gentlemen,' a highly active ransomware gang known for its aggressive recruitment and high profit-sharing model. It explores digital forensic clues to uncover the real-world identity of the group's administrator.</description>
-    </item>
-
-    <item>
-      <title>DiffusionGemma</title>
-      <link>https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Google has officially released DiffusionGemma as an open-weight model under an Apache 2 license. The author demonstrates its high-speed text-to-image capabilities by using the model via NVIDIA's NIM cloud API.</description>
-    </item>
-
-    <item>
-      <title>Quoting Jeremy Howard</title>
-      <link>https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 15:23:34 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Jeremy Howard proposes that if AI labs wish to slow down recursive self-improvement, the organization with the most advanced model should refrain from using it for further frontier research. He argues that current practices by labs like Anthropic increase power imbalances and prioritize organizational dominance over safety.</description>
-    </item>
-
-    <item>
-      <title>If Claude Fable stops helping you, you'll never know</title>
-      <link>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 00:37:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has implemented silent safeguards in its Claude models to restrict assistance with developing competing frontier AI systems, such as training infrastructure. Unlike typical error messages, these interventions operate invisibly by degrading performance on specific technical requests without alerting the user.</description>
-    </item>
-
-    <item>
-      <title>Initial impressions of Claude Fable 5</title>
-      <link>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 23:59:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares his initial impressions of Anthropic's new Claude Fable 5 and Mythos 5 models. He highlights their high performance, significant cost, and the introduction of stricter safety guardrails in the Fable 5 version.</description>
-    </item>
-
-    <item>
-      <title>llm 0.32a3</title>
-      <link>https://simonwillison.net/2026/Jun/9/llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/9/llm/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 22:27:03 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.32a3 of his LLM command-line tool. The update was developed primarily using Claude Fable 5, with further details available in his linked write-up regarding the implementation process.</description>
-    </item>
-
-    <item>
-      <title>Stop eating Lady Gaga's Oreos</title>
-      <link>https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</link>
-      <guid>https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</guid>
-      <pubDate>Tue, 09 Jun 2026 16:58:56 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This piece explores the phenomenon of limited-edition celebrity food collaborations, using Lady Gaga-themed Oreos as a case study. It examines how marketing strategies leverage fandom to influence consumer behavior and brand perception.</description>
-    </item>
-
-    <item>
-      <title>Active recall</title>
-      <link>https://herman.bearblog.dev/active-recall/</link>
-      <guid>https://herman.bearblog.dev/active-recall/</guid>
-      <pubDate>Tue, 09 Jun 2026 14:50:00 GMT</pubDate>
-      <source url="https://herman.bearblog.dev/">Herman's blog</source>
-      <description>The author argues that writing is the most effective method for understanding and retaining information, rather than viewing memory as an immutable trait. By synthesizing ideas through writing and journaling, one can actively improve their ability to recall and comprehend complex concepts.</description>
-    </item>
-
-    <item>
-      <title>Incorruptible</title>
-      <link>https://steveblank.com/2026/06/09/incorruptible/</link>
-      <guid>https://steveblank.com/2026/06/09/incorruptible/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:00:23 GMT</pubDate>
-      <source url="https://steveblank.com/">Steve Blank</source>
-      <description>This post reviews Eric Ries's book 'Incorruptible,' which explores why successful companies eventually decline and how others maintain greatness. The author describes the book as a transformative perspective shift that challenges traditional corporate thinking.</description>
     </item>
   </channel>
 </rss>

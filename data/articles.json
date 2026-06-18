@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-06-17T22:32:04.070Z",
+  "last_updated": "2026-06-18T22:35:44.186Z",
   "articles": [
+    {
+      "id": "df920bd038432968",
+      "title": "Show your hands honor for the strange power they bring you",
+      "url": "https://aresluna.org/show-your-hands-honor",
+      "source": "Aresluna",
+      "source_url": "https://www.aresluna.org/",
+      "published": "2026-06-18T14:43:48.000Z",
+      "summary_en": "This article explores the design of intuitive and ergonomic finger-based interactions for digital interfaces. It offers extensive practical guidance, including 38 interactive playgrounds to help designers create more natural user experiences.",
+      "summary_zh": "本文探討了如何為數位介面設計直觀且符合人體工學的手指互動方式。透過 38 個互動式練習場，為設計師提供豐富的實踐指導，以創造更自然的使用體驗。",
+      "keywords": [
+        "UI design",
+        "interaction design",
+        "ergonomics",
+        "UX",
+        "finger-friendly"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on how-to guidance for designing interactions, supported by practical playgrounds.",
+      "pacer_reason_zh": "文章著重於設計互動方式的操作指南，並輔以實用的練習場作為教學支援。"
+    },
+    {
+      "id": "c218f0a9fdd6ec97",
+      "title": "You don’t understand, prices can’t go down",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-06-18T07:00:00.000Z",
+      "summary_en": "The article critiques how modern economic policies prioritize inflating asset prices over genuine productivity, leading to a disconnect between market valuations and reality. It argues that the systemic refusal to allow prices to fall creates dangerous bubbles and transfers wealth from productive activities to speculative endeavors.",
+      "summary_zh": "本文批評現代經濟政策優先考慮資產價格上漲而非實際生產力，導致市場估值與現實脫節。作者指出，系統性地拒絕讓價格下跌創造了危險的泡沫，並將財富從生產性活動轉移至投機行為中。",
+      "keywords": [
+        "economy",
+        "inflation",
+        "market bubbles",
+        "productivity",
+        "finance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the theoretical concept of 'number go up' economics and critiques the systemic misalignment between financial growth and real-world value.",
+      "pacer_reason_zh": "本文解釋了「價格只漲不跌」的經濟理論概念，並批評了金融成長與現實價值之間的系統性脫節。"
+    },
+    {
+      "id": "b286e468ee33be80",
+      "title": "GLM 5.2 playing text adventures",
+      "url": "https://entropicthoughts.com/glm-5-2-playing-text-adventures",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-06-17T22:00:00.000Z",
+      "summary_en": "The author evaluates the performance of the new GLM 5.2 open-weights model by pitting it against Gemini 3 Flash in text-adventure games. The analysis utilizes a consistent benchmarking harness to measure success based on achievement counts within a fixed budget.",
+      "summary_zh": "作者透過將 GLM 5.2 開放權重模型與 Gemini 3 Flash 進行文字冒險遊戲對決，藉此評估其性能。分析使用了一致的基準測試框架，在固定預算內透過計算遊戲成就數量來衡量模型表現。",
+      "keywords": [
+        "GLM 5.2",
+        "LLM",
+        "benchmarking",
+        "text adventure",
+        "Gemini 3 Flash"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on comparing model performance using empirical data and a structured benchmark experiment.",
+      "pacer_reason_zh": "本文側重於使用實證數據和結構化的基準測試實驗來比較模型效能。"
+    },
+    {
+      "id": "1701a27b22662867",
+      "title": "Open Source vs the Invisible Hand",
+      "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-18T10:00:00.000Z",
+      "summary_en": "The article explores the contradiction between traditional economic theory and the reality of open source software production. It argues that open source ignores market axioms like the free rider problem and price-based quality signaling to create a highly functional, massive ecosystem of public goods.",
+      "summary_zh": "本文探討了傳統經濟學理論與開源軟體生產現實之間的矛盾。作者指出，開源模式打破了諸如「搭便車問題」和「價格作為品質訊號」等市場公理，成功構建了一個功能強大且龐大的公共財生態系統。",
+      "keywords": [
+        "open source",
+        "economics",
+        "market failure",
+        "public goods",
+        "software development"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article draws a direct parallel between open source development and economic theory to explain why the former defies traditional market predictions.",
+      "pacer_reason_zh": "本文透過將開源開發與經濟學理論進行類比，解釋了為何開源模式違背了傳統的市場預測。"
+    },
+    {
+      "id": "3de53d9dc919c67f",
+      "title": "Why doesn’t Get­Last­Input­Info() return info for the user I’m impersonating?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-18T14:00:00.000Z",
+      "summary_en": "The GetLastInputInfo() function does not track activity for impersonated users because it is not designed to account for impersonation contexts. The API behavior is tied to the physical input state rather than the specific security token being used.",
+      "summary_zh": "GetLastInputInfo() 函式無法為模擬的使用者返回活動資訊，因為該 API 設計並未考慮模擬環境。其行為取決於系統的實體輸入狀態，而非當前的安全權杖。",
+      "keywords": [
+        "GetLastInputInfo",
+        "Windows API",
+        "Impersonation",
+        "Programming",
+        "Win32"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post clarifies the conceptual limitations and intended behavior of a specific API function.",
+      "pacer_reason_zh": "這篇文章釐清了特定 API 函式的概念性限制與預期行為。"
+    },
+    {
+      "id": "4391a69ec1e2af6e",
+      "title": "Windows stack limit checking retrospective, follow-up",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-17T14:00:00.000Z",
+      "summary_en": "This post is a follow-up discussion regarding the technical implementation of stack limit checking in Windows. It specifically examines the choices involved in selecting CPU registers to manage stack allocation sizes.",
+      "summary_zh": "本文是關於 Windows 堆疊限制檢查技術實作的後續討論。文中具體探討了在處理堆疊分配大小時，選擇適當 CPU 暫存器的相關考量與細節。",
+      "keywords": [
+        "Windows",
+        "Stack",
+        "Registers",
+        "Memory Management",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying technical design decisions and 'how it works' logic behind Windows stack limit mechanisms.",
+      "pacer_reason_zh": "內容解釋了 Windows 堆疊限制機制背後的底層技術設計決策及其運作邏輯。"
+    },
+    {
+      "id": "0c39113daafb0452",
+      "title": "I hate compilers",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-18T00:00:00.000Z",
+      "summary_en": "The author humorously challenges the expectation that compilers always produce deterministic output from identical source code. The post highlights the complexities and often frustrating nuances that cause non-deterministic behavior in compilation processes.",
+      "summary_zh": "作者幽默地挑戰了編譯器在輸入相同源碼時應產生固定輸出的預期。本文探討了編譯過程中導致非確定性行為的複雜且令人沮喪的細節。",
+      "keywords": [
+        "compilers",
+        "determinism",
+        "software engineering",
+        "programming",
+        "Xe Iaso"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique of the common misconception regarding compiler determinism.",
+      "pacer_reason_zh": "這篇文章針對編譯器確定性的常見誤解進行了概念性的反思與批判。"
+    },
+    {
+      "id": "5399a5fbfb8381a0",
+      "title": "Book Review: The Great When by Alan Moore ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-18T11:34:19.000Z",
+      "summary_en": "This review of Alan Moore's 'The Great When' highlights the author's exceptionally ornate and polysyllabic prose style. The reviewer praises the book's descriptive language, noting that while it is heavily overwritten, the stylistic execution creates a delightful reading experience.",
+      "summary_zh": "這篇針對艾倫·摩爾著作《The Great When》的書評，強調了作者極其華麗且多音節的文風。評論者稱讚該書豐富的描寫手法，認為儘管文字過於繁複，但這種風格反而創造了令人愉悅的閱讀體驗。",
+      "keywords": [
+        "Alan Moore",
+        "The Great When",
+        "Book Review",
+        "Literature",
+        "Prose Style"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an evaluative analysis and description of a book's conceptual style and narrative quality.",
+      "pacer_reason_zh": "本文對書籍的風格概念與敘事品質進行了評估分析與描述。"
+    },
+    {
+      "id": "896226a52fda94b0",
+      "title": "Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/18/their-trillions-our-billions/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-18T15:22:16.000Z",
+      "summary_en": "Cory Doctorow argues that the concept of 'AI digital sovereignty' is a logical fallacy, similar to his critique of blockchain-based institutions. He contends that just as DAOs still require human intermediaries to act in the physical world, AI-driven solutions often fail to eliminate the human trust-based dependencies they claim to solve.",
+      "summary_zh": "Cory Doctorow 認為「AI 數位主權」的概念在邏輯上是不成立的，類似於他過去對區塊鏈組織的批判。他主張，正如去中心化自治組織（DAO）在現實世界中仍需依賴人類中介，AI 解決方案往往也無法消除其聲稱要解決的人類信任問題。",
+      "keywords": [
+        "AI",
+        "digital sovereignty",
+        "blockchain",
+        "DAO",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of technological solutionism, focusing on the logic behind AI and blockchain claims.",
+      "pacer_reason_zh": "本文對科技解決方案主義進行了概念性的批判，重點分析了 AI 與區塊鏈宣稱背後的邏輯謬誤。"
+    },
+    {
+      "id": "7c4f2c9bb4d90cce",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-06-18T17:37:58.000Z",
+      "summary_en": "Security researchers have linked the 'Popa' Android botnet, which has compromised millions of consumer TV boxes for illegal activities, to NetNut, a residential proxy provider owned by the Israeli firm Alarum Technologies. This discovery highlights the abuse of proxy networks for malicious operations like ad fraud and data scraping.",
+      "summary_zh": "資安研究人員將過去四年來控制數百萬台電視盒進行非法活動的「Popa」Android 殭屍網路，追蹤連結至以色列上市公司 Alarum Technologies 旗下的住宅代理服務商 NetNut。此發現揭示了代理網路被濫用於廣告詐欺及資料竊取等惡意行為。",
+      "keywords": [
+        "Popa botnet",
+        "NetNut",
+        "Alarum Technologies",
+        "cybersecurity",
+        "proxy provider"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents investigative findings and evidence linking a specific botnet to a corporate entity.",
+      "pacer_reason_zh": "本文呈現了將特定殭屍網路連結至企業實體的調查結果與證據。"
+    },
+    {
+      "id": "f789678befe69c04",
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-17T23:58:39.000Z",
+      "summary_en": "Z.ai has released GLM-5.2, a 753B parameter Mixture of Experts model that currently stands as a leading open-weights LLM. Despite its impressive benchmark performance and 1 million token context window, the model is noted for being significantly more token-hungry than its competitors.",
+      "summary_zh": "Z.ai 發布了擁有 7530 億參數的 Mixture of Experts 模型 GLM-5.2，目前是市場上領先的開源權重模型。儘管該模型具備優異的基準測試成績與 100 萬 token 的上下文視窗，但其輸出時消耗的 token 數量較競品顯著更多。",
+      "keywords": [
+        "GLM-5.2",
+        "LLM",
+        "Z.ai",
+        "Open Weights",
+        "AI Benchmarks"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on reporting performance benchmarks and comparative data from Artificial Analysis and the Code Arena leaderboard.",
+      "pacer_reason_zh": "文章主要聚焦於報導 Artificial Analysis 與 Code Arena 排行榜的效能基準測試數據與比較分析。"
+    },
     {
       "id": "94fb41860238f3b1",
       "title": "Maybe it's time for lots of little indie AIs to take over",
