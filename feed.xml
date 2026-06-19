@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 18 Jun 2026 22:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:17:40 GMT</lastBuildDate>
     
+    <item>
+      <title>Full Page Paralysis</title>
+      <link>https://blog.jim-nielsen.com/2026/full-page-paralysis/</link>
+      <guid>https://blog.jim-nielsen.com/2026/full-page-paralysis/</guid>
+      <pubDate>Fri, 19 Jun 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author discusses the phenomenon of 'full page paralysis,' contrasting it with the common fear of starting a project. They argue that completing a task is psychologically more difficult because it subjects the work to external judgment and ends the illusion of its potential perfection.</description>
+    </item>
+
+    <item>
+      <title>The Goldilocks Principle in Fantasy Strategy</title>
+      <link>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</link>
+      <guid>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:22 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>The author reflects on their deep personal history with 'Heroes of Might and Magic II,' highlighting the game's unique role in their life. The piece explores the balance of game design through the lens of the Goldilocks principle within the context of fantasy strategy titles.</description>
+    </item>
+
+    <item>
+      <title>The data black hole at the center of AI</title>
+      <link>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2</link>
+      <guid>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2</guid>
+      <pubDate>Fri, 19 Jun 2026 16:45:03 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This piece explores the role of massive data sets as the foundational gravity holding artificial intelligence systems together. It suggests that while AI's capabilities are highly visible, they remain tethered to an invisible, dense core of underlying data.</description>
+    </item>
+
+    <item>
+      <title>Converting Coal Plants to Natural Gas</title>
+      <link>https://www.construction-physics.com/p/converting-coal-plants-to-natural</link>
+      <guid>https://www.construction-physics.com/p/converting-coal-plants-to-natural</guid>
+      <pubDate>Fri, 19 Jun 2026 12:03:02 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article examines the historical dominance of coal in power generation and the technical considerations involved in transitioning these facilities to natural gas. It explores the viability and infrastructure challenges of repurposing existing coal plants for cleaner fuel sources.</description>
+    </item>
+
+    <item>
+      <title>There Are No Instances in atproto</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <guid>https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://overreacted.io/">overreacted — A blog by Dan Abramov</source>
+      <description>The post clarifies a common misconception about the AT Protocol by explaining that it does not rely on 'instances' in the way federated networks like ActivityPub do. It draws a functional parallel to RSS and Google Reader to illustrate how the decentralized architecture actually operates.</description>
+    </item>
+
+    <item>
+      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
+      <link>https://maurycyz.com/projects/glass/2/</link>
+      <guid>https://maurycyz.com/projects/glass/2/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This article documents the process of hand-crafting a vacuum-sealed tungsten filament lamp and testing a diode for thermionic emission. The author details the glass-to-metal sealing techniques used and discusses the experimental outcomes regarding light output and electron flow.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The Big Con (19 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/19/too-big-to-fact-check/</link>
+      <guid>https://pluralistic.net/2026/06/19/too-big-to-fact-check/</guid>
+      <pubDate>Fri, 19 Jun 2026 20:54:32 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article examines the structural deception inherent in multi-level marketing (MLM) schemes, where participants are deceived into believing they are the sole failures in a profitable system. Cory Doctorow highlights how these organizations weaponize social pressure and false data to keep victims trapped in a cycle of purchasing overpriced inventory.</description>
+    </item>
+
+    <item>
+      <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
+      <link>https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything</guid>
+      <pubDate>Thu, 18 Jun 2026 23:58:38 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces 'Datasette Apps,' a new plugin that allows users to host self-contained HTML and JavaScript applications within a sandboxed iframe. These apps can perform read and write SQL queries directly against Datasette data, enabling the creation of custom, interactive data-driven interfaces.</description>
+    </item>
+
+    <item>
+      <title>datasette-acl 0.6a0</title>
+      <link>https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything</guid>
+      <pubDate>Thu, 18 Jun 2026 19:03:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-acl 0.6a0 has been released, marking a shift from table-specific permissions to a more comprehensive resource-sharing framework. This update enables granular access control for multi-user Datasette instances.</description>
+    </item>
+
     <item>
       <title>Show your hands honor for the strange power they bring you</title>
       <link>https://aresluna.org/show-your-hands-honor</link>
@@ -823,87 +904,6 @@
       <pubDate>Thu, 11 Jun 2026 14:43:06 GMT</pubDate>
       <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description>Cory Doctorow reflects on the generational perspective of technological change and societal complexity, referencing Douglas Adams' famous quote on human attitudes toward innovation. He uses the 'National Customer Rage Survey' to illustrate increasing consumer dissatisfaction, questioning whether current technological frustration is a legitimate critique or merely nostalgic bias.</description>
-    </item>
-
-    <item>
-      <title>datasette 1.0a33</title>
-      <link>https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 15:26:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette 1.0a33 has been released, introducing expanded support for the _extra= pattern to include queries and rows. This update simplifies JSON API interactions and is accompanied by a new, AI-assisted tool for exploring these API features.</description>
-    </item>
-
-    <item>
-      <title>asyncinject 0.7</title>
-      <link>https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 06:28:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released version 0.7 of asyncinject, a utility library designed for asyncio dependency injection. The update includes bug fixes identified and implemented with the help of Claude AI.</description>
-    </item>
-
-    <item>
-      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
-      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 03:45:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has reversed its controversial policy of using invisible safeguards to limit AI research requests within its Claude models. The company apologized for the lack of transparency and committed to making refusal triggers visible to users in future updates.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent 0.2a0</title>
-      <link>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 23:57:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette-agent 0.2a0 introduces an interactive 'ask_user' feature allowing agents to prompt users for input mid-execution, with conversation state persisted across server restarts. It also adds a 'save_query' tool that enables agents to save SQL queries to Datasette, requiring human approval for security.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 507</title>
-      <link>https://www.troyhunt.com/weekly-update-507/</link>
-      <guid>https://www.troyhunt.com/weekly-update-507/</guid>
-      <pubDate>Wed, 10 Jun 2026 05:31:56 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt reflects on reaching a milestone of 1,000 data breaches tracked on Have I Been Pwned. He highlights the extensive operational, legal, and administrative challenges involved in maintaining such a large-scale security platform beyond just technical data processing.</description>
-    </item>
-
-    <item>
-      <title>Being “Good” at Things</title>
-      <link>https://blog.jim-nielsen.com/2026/good-at-things/</link>
-      <guid>https://blog.jim-nielsen.com/2026/good-at-things/</guid>
-      <pubDate>Wed, 10 Jun 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author discusses how professional golfer Collin Morikawa redefines what it means to be 'good' at golf. Instead of focusing on arbitrary numerical scores, true proficiency is defined by consistency, honesty, and finishing every hole according to the rules.</description>
-    </item>
-
-    <item>
-      <title>Nontrailing separators do not spark joy</title>
-      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
-      <pubDate>Wed, 10 Jun 2026 12:22:04 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The article discusses the inconvenience of non-trailing separators in programming languages and data formats like JSON. It argues that prohibiting trailing commas complicates version control diffs and code refactoring by forcing unnecessary changes to surrounding lines.</description>
-    </item>
-
-    <item>
-      <title>Pulling on a thread</title>
-      <link>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
-      <pubDate>Wed, 10 Jun 2026 13:34:31 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>John D. Cook explores how seemingly unrelated blog posts often share underlying mathematical connections. He highlights his recent investigation into a specific numerical approximation, demonstrating how curiosity leads to deeper analytical threads.</description>
-    </item>
-
-    <item>
-      <title>Gaslighting Openness</title>
-      <link>https://lucumr.pocoo.org/2026/6/10/gaslighting/</link>
-      <guid>https://lucumr.pocoo.org/2026/6/10/gaslighting/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author argues that large tech companies are increasingly using 'safety' and 'security' narratives to restrict user access to data and AI models. He emphasizes that maintaining open access and supporting regulations like the EU's DMA is crucial for preventing corporate consolidation and preserving democratized technology.</description>
     </item>
   </channel>
 </rss>

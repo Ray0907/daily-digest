@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "7db121f1f593c4bb",
+      "title": "Pluralistic: The Big Con (19 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/19/too-big-to-fact-check/",
+      "pacer": "C",
+      "keywords": [
+        "MLM",
+        "pyramid schemes",
+        "fraud",
+        "consumer protection",
+        "economic deception"
+      ],
+      "published": "2026-06-19T20:54:32.000Z"
+    },
+    {
+      "id": "4558fcad35bbdb6e",
+      "title": "Full Page Paralysis",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/full-page-paralysis/",
+      "pacer": "C",
+      "keywords": [
+        "procrastination",
+        "creativity",
+        "perfectionism",
+        "writing",
+        "psychology"
+      ],
+      "published": "2026-06-19T19:00:00.000Z"
+    },
+    {
+      "id": "5c7875f458c37ecd",
+      "title": "The data black hole at the center of AI",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "data",
+        "artificial intelligence",
+        "infrastructure",
+        "machine learning"
+      ],
+      "published": "2026-06-19T16:45:03.000Z"
+    },
+    {
+      "id": "d1911489e8df033b",
+      "title": "The Goldilocks Principle in Fantasy Strategy",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/",
+      "pacer": "C",
+      "keywords": [
+        "Heroes of Might and Magic II",
+        "game design",
+        "strategy games",
+        "Goldilocks principle",
+        "retrospective"
+      ],
+      "published": "2026-06-19T16:00:22.000Z"
+    },
+    {
+      "id": "383218cecfcd928b",
+      "title": "Converting Coal Plants to Natural Gas",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
+      "pacer": "C",
+      "keywords": [
+        "coal",
+        "natural gas",
+        "power generation",
+        "energy transition",
+        "infrastructure"
+      ],
+      "published": "2026-06-19T12:03:02.000Z"
+    },
+    {
+      "id": "a16a8248af1715a8",
+      "title": "There Are No Instances in atproto",
+      "source": "overreacted — A blog by Dan Abramov",
+      "source_url": "https://overreacted.io/",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "pacer": "A",
+      "keywords": [
+        "atproto",
+        "decentralization",
+        "RSS",
+        "federation",
+        "architecture"
+      ],
+      "published": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "f58f76bdac67ff25",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Datasette",
+        "SQL",
+        "Web Application",
+        "Plugin",
+        "JavaScript"
+      ],
+      "published": "2026-06-18T23:58:38.000Z"
+    },
+    {
+      "id": "68a519e26dde7563",
+      "title": "datasette-acl 0.6a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-acl",
+        "permissions",
+        "resource-sharing",
+        "plugin"
+      ],
+      "published": "2026-06-18T19:03:13.000Z"
+    },
+    {
       "id": "7c4f2c9bb4d90cce",
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
       "source": "Krebs on Security",
@@ -111,6 +239,22 @@
         "finance"
       ],
       "published": "2026-06-18T07:00:00.000Z"
+    },
+    {
+      "id": "cfc706e130f0de5e",
+      "title": "Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/projects/glass/2/",
+      "pacer": "P",
+      "keywords": [
+        "glassblowing",
+        "tungsten",
+        "vacuum",
+        "thermionic emission",
+        "DIY"
+      ],
+      "published": "2026-06-18T00:00:00.000Z"
     },
     {
       "id": "0c39113daafb0452",
@@ -287,38 +431,6 @@
         "performance"
       ],
       "published": "2026-06-17T03:56:10.000Z"
-    },
-    {
-      "id": "42888cf86bd6da2a",
-      "title": "NetNewsWire Status",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "NetNewsWire",
-        "RSS",
-        "open-source",
-        "Brent Simmons",
-        "software development"
-      ],
-      "published": "2026-06-17T03:36:09.000Z"
-    },
-    {
-      "id": "c36939a2dda46c13",
-      "title": "datasette 1.0a34",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Datasette",
-        "SQL",
-        "Database",
-        "Software Release",
-        "UI"
-      ],
-      "published": "2026-06-16T21:31:24.000Z"
     },
     {
       "id": "932ee980fe5385b6",
@@ -863,22 +975,6 @@
         "geopolitics"
       ],
       "published": "2026-06-13T00:00:00.000Z"
-    },
-    {
-      "id": "5478fe09b26c7818",
-      "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/12/compelled-speech/",
-      "pacer": "C",
-      "keywords": [
-        "Google",
-        "remote attestation",
-        "user agent",
-        "interoperability",
-        "privacy"
-      ],
-      "published": "2026-06-12T20:45:52.000Z"
     },
     {
       "id": "c0dd6b90439c8ef0",
@@ -2128,22 +2224,6 @@
       "published": "2026-05-30T17:09:35.056Z"
     },
     {
-      "id": "7811ce556f8307a2",
-      "title": "Reading List 05/30/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-053026",
-      "pacer": "R",
-      "keywords": [
-        "Construction Physics",
-        "Nuclear Energy",
-        "Robotics",
-        "Blue Origin",
-        "Technology News"
-      ],
-      "published": "2026-05-30T12:02:52.000Z"
-    },
-    {
       "id": "03f02bae4ff49e30",
       "title": "Notes from May 2026",
       "source": "Evan Hahn (dot com)",
@@ -2156,22 +2236,6 @@
         "tech ethics",
         "software tools",
         "blogging"
-      ],
-      "published": "2026-05-30T00:00:00.000Z"
-    },
-    {
-      "id": "36e487de9b67a7a5",
-      "title": "Arp 114:",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/astro/arp114/",
-      "pacer": "E",
-      "keywords": [
-        "Arp 114",
-        "astrophotography",
-        "NGC 2276",
-        "NGC 2300",
-        "astronomy"
       ],
       "published": "2026-05-30T00:00:00.000Z"
     },
@@ -2780,22 +2844,6 @@
       "published": "2026-05-19T00:00:00.000Z"
     },
     {
-      "id": "e26bfc747d21da3b",
-      "title": "Something’s Rotten in the State of macOS Icon Design",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/",
-      "pacer": "C",
-      "keywords": [
-        "macOS",
-        "icon design",
-        "Apple",
-        "UI/UX",
-        "design constraints"
-      ],
-      "published": "2026-05-18T19:00:00.000Z"
-    },
-    {
       "id": "ace28ac54f782162",
       "title": "Don't call yourself a Software Engineer, you are an AI Enabled Engineer. ",
       "source": "iDiallo.com",
@@ -2938,22 +2986,6 @@
         "conceptual knowledge"
       ],
       "published": "2026-05-17T00:00:00.000Z"
-    },
-    {
-      "id": "2cfef118d57ade16",
-      "title": "The mistake of conflating intelligence and power",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence",
-      "pacer": "C",
-      "keywords": [
-        "intelligence",
-        "power",
-        "definition",
-        "cognitive capacity",
-        "philosophy"
-      ],
-      "published": "2026-05-16T19:04:16.000Z"
     },
     {
       "id": "eed2d316b0510025",
@@ -3352,22 +3384,6 @@
         "frequency"
       ],
       "published": "2026-05-02T14:17:00.000Z"
-    },
-    {
-      "id": "d1ce7fe94c7c987c",
-      "title": "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/",
-      "pacer": "C",
-      "keywords": [
-        "Gabriel Knight 3",
-        "Rennes-le-Château",
-        "Plantard",
-        "Lobineau",
-        "history"
-      ],
-      "published": "2026-05-01T15:46:03.000Z"
     },
     {
       "id": "16a055c63c1c722b",

@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-06-18T22:35:44.186Z",
+  "last_updated": "2026-06-19T22:17:40.585Z",
   "articles": [
+    {
+      "id": "4558fcad35bbdb6e",
+      "title": "Full Page Paralysis",
+      "url": "https://blog.jim-nielsen.com/2026/full-page-paralysis/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-19T19:00:00.000Z",
+      "summary_en": "The author discusses the phenomenon of 'full page paralysis,' contrasting it with the common fear of starting a project. They argue that completing a task is psychologically more difficult because it subjects the work to external judgment and ends the illusion of its potential perfection.",
+      "summary_zh": "作者探討了「滿頁癱瘓」現象，與大眾熟知的「空白頁恐懼」形成對比。文中指出，完成一項工作在心理上更為困難，因為這意味著作品即將面臨外界評判，並結束了對其保持完美可能性的幻想。",
+      "keywords": [
+        "procrastination",
+        "creativity",
+        "perfectionism",
+        "writing",
+        "psychology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration and reflection on a psychological barrier encountered during the creative process.",
+      "pacer_reason_zh": "本文對創作過程中遇到的心理障礙進行了概念性的探討與反思。"
+    },
+    {
+      "id": "d1911489e8df033b",
+      "title": "The Goldilocks Principle in Fantasy Strategy",
+      "url": "https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-06-19T16:00:22.000Z",
+      "summary_en": "The author reflects on their deep personal history with 'Heroes of Might and Magic II,' highlighting the game's unique role in their life. The piece explores the balance of game design through the lens of the Goldilocks principle within the context of fantasy strategy titles.",
+      "summary_zh": "作者回顧了自己與《魔法門之英雄無敵 II》深厚的淵源，並分享了該遊戲在其寫作生涯中的特殊地位。文中透過「金髮女孩原則」探討了奇幻策略遊戲在設計上的平衡感。",
+      "keywords": [
+        "Heroes of Might and Magic II",
+        "game design",
+        "strategy games",
+        "Goldilocks principle",
+        "retrospective"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on conceptual analysis of game design principles and personal reflection rather than practical tutorials or hard data.",
+      "pacer_reason_zh": "本文側重於遊戲設計原則的概念性分析與個人回顧，而非實作教學或硬性數據研究。"
+    },
+    {
+      "id": "5c7875f458c37ecd",
+      "title": "The data black hole at the center of AI",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-06-19T16:45:03.000Z",
+      "summary_en": "This piece explores the role of massive data sets as the foundational gravity holding artificial intelligence systems together. It suggests that while AI's capabilities are highly visible, they remain tethered to an invisible, dense core of underlying data.",
+      "summary_zh": "本文探討了大規模數據集作為人工智能系統核心基礎的作用。文章指出，雖然 AI 的能力顯而易見，但它們本質上仍然受限於隱藏在底層中龐大且不可見的數據核心。",
+      "keywords": [
+        "AI",
+        "data",
+        "artificial intelligence",
+        "infrastructure",
+        "machine learning"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of a galaxy and a black hole to explain the foundational nature of data in AI.",
+      "pacer_reason_zh": "文章運用銀河與黑洞的類比，闡述數據在人工智能中作為核心基礎的本質。"
+    },
+    {
+      "id": "383218cecfcd928b",
+      "title": "Converting Coal Plants to Natural Gas",
+      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-19T12:03:02.000Z",
+      "summary_en": "This article examines the historical dominance of coal in power generation and the technical considerations involved in transitioning these facilities to natural gas. It explores the viability and infrastructure challenges of repurposing existing coal plants for cleaner fuel sources.",
+      "summary_zh": "本文探討了煤炭在發電領域的歷史主導地位，以及將這些設施轉型為天然氣發電的技術考量。文中分析了將現有燃煤電廠改造成使用更清潔燃料的可行性與基礎設施挑戰。",
+      "keywords": [
+        "coal",
+        "natural gas",
+        "power generation",
+        "energy transition",
+        "infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the energy transition process and the logic behind power plant fuel conversion.",
+      "pacer_reason_zh": "本文提供了關於能源轉型過程以及電廠燃料轉換邏輯的概念性說明。"
+    },
+    {
+      "id": "a16a8248af1715a8",
+      "title": "There Are No Instances in atproto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "source": "overreacted — A blog by Dan Abramov",
+      "source_url": "https://overreacted.io/",
+      "published": "2026-06-19T00:00:00.000Z",
+      "summary_en": "The post clarifies a common misconception about the AT Protocol by explaining that it does not rely on 'instances' in the way federated networks like ActivityPub do. It draws a functional parallel to RSS and Google Reader to illustrate how the decentralized architecture actually operates.",
+      "summary_zh": "這篇文章釐清了對 AT Protocol 的常見誤解，解釋其架構與 ActivityPub 等聯邦式網路不同，並沒有所謂的「實例（instances）」。作者透過類比 RSS 和 Google Reader，說明了該去中心化架構的實際運作方式。",
+      "keywords": [
+        "atproto",
+        "decentralization",
+        "RSS",
+        "federation",
+        "architecture"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses the analogy of RSS and Google Reader to explain the structural nature of atproto.",
+      "pacer_reason_zh": "文章透過 RSS 和 Google Reader 的類比來解釋 atproto 的架構特性。"
+    },
+    {
+      "id": "cfc706e130f0de5e",
+      "title": "Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode",
+      "url": "https://maurycyz.com/projects/glass/2/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-18T00:00:00.000Z",
+      "summary_en": "This article documents the process of hand-crafting a vacuum-sealed tungsten filament lamp and testing a diode for thermionic emission. The author details the glass-to-metal sealing techniques used and discusses the experimental outcomes regarding light output and electron flow.",
+      "summary_zh": "本文記錄了手工製作真空鎢絲燈泡以及測試熱電子發射二極體的過程。作者詳細說明了玻璃與金屬的密封技術，並分享了關於燈泡發光效率及電子傳導的實驗結果。",
+      "keywords": [
+        "glassblowing",
+        "tungsten",
+        "vacuum",
+        "thermionic emission",
+        "DIY"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is primarily a hands-on tutorial documenting the steps and techniques for glassblowing and creating vacuum seals.",
+      "pacer_reason_zh": "本文主要是一份實作教學，記錄了玻璃吹製及製作真空密封的步驟與技術。"
+    },
+    {
+      "id": "7db121f1f593c4bb",
+      "title": "Pluralistic: The Big Con (19 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/19/too-big-to-fact-check/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-19T20:54:32.000Z",
+      "summary_en": "This article examines the structural deception inherent in multi-level marketing (MLM) schemes, where participants are deceived into believing they are the sole failures in a profitable system. Cory Doctorow highlights how these organizations weaponize social pressure and false data to keep victims trapped in a cycle of purchasing overpriced inventory.",
+      "summary_zh": "本文探討了多層次傳銷（MLM）計畫中內在的結構性欺騙，受害者往往誤以為自己是系統中唯一的失敗者。柯利·多克托羅（Cory Doctorow）揭露了這些組織如何利用社會壓力和虛假數據，誘使參與者陷入購買過高庫存的惡性循環。",
+      "keywords": [
+        "MLM",
+        "pyramid schemes",
+        "fraud",
+        "consumer protection",
+        "economic deception"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying psychological and structural mechanics of pyramid schemes.",
+      "pacer_reason_zh": "文章解釋了金字塔傳銷計畫背後的心理機制與結構性運作方式。"
+    },
+    {
+      "id": "f58f76bdac67ff25",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-18T23:58:38.000Z",
+      "summary_en": "Simon Willison introduces 'Datasette Apps,' a new plugin that allows users to host self-contained HTML and JavaScript applications within a sandboxed iframe. These apps can perform read and write SQL queries directly against Datasette data, enabling the creation of custom, interactive data-driven interfaces.",
+      "summary_zh": "Simon Willison 推出了名為「Datasette Apps」的新插件，允許使用者在沙盒 iframe 中託管獨立的 HTML 與 JavaScript 應用程式。這些應用程式可直接對 Datasette 資料執行讀取與寫入 SQL 查詢，從而實現客製化且具互動性的資料驅動介面。",
+      "keywords": [
+        "Datasette",
+        "SQL",
+        "Web Application",
+        "Plugin",
+        "JavaScript"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the new Datasette Apps feature, detailing how they function within a sandboxed environment and their capabilities.",
+      "pacer_reason_zh": "本文針對新的 Datasette Apps 功能提供了概念性的說明，詳細介紹了它們在沙盒環境中的運作方式及其功能。"
+    },
+    {
+      "id": "68a519e26dde7563",
+      "title": "datasette-acl 0.6a0",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-18T19:03:13.000Z",
+      "summary_en": "Datasette-acl 0.6a0 has been released, marking a shift from table-specific permissions to a more comprehensive resource-sharing framework. This update enables granular access control for multi-user Datasette instances.",
+      "summary_zh": "Datasette-acl 0.6a0 版本已發布，將權限控制範圍從單一資料表擴展至更通用的資源共享系統。此更新為多用戶 Datasette 實例提供了精細的資源存取控制功能。",
+      "keywords": [
+        "datasette",
+        "datasette-acl",
+        "permissions",
+        "resource-sharing",
+        "plugin"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for a specific project update.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，作為特定專案更新的參考資訊。"
+    },
     {
       "id": "df920bd038432968",
       "title": "Show your hands honor for the strange power they bring you",
