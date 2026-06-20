@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "3f450b49b49012d2",
+      "title": "All pieces on a 6 by 5 board",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/20/z3-python-claude/",
+      "pacer": "E",
+      "keywords": [
+        "LLM",
+        "Z3",
+        "Python",
+        "Chess Puzzle",
+        "Constraint Programming"
+      ],
+      "published": "2026-06-20T21:41:16.000Z"
+    },
+    {
+      "id": "d4c1f3c98f9fe54b",
+      "title": "Pluralistic: How the Epstein Class recruits (20 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/20/any-club-that-would-have-me/",
+      "pacer": "C",
+      "keywords": [
+        "Dialog",
+        "Peter Thiel",
+        "Cory Doctorow",
+        "Oligarchy",
+        "Secret society"
+      ],
+      "published": "2026-06-20T16:12:26.000Z"
+    },
+    {
+      "id": "1b39fadedfd59605",
+      "title": "Reading List 06/20/26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-062026",
+      "pacer": "R",
+      "keywords": [
+        "housing bill",
+        "energy storage",
+        "data center",
+        "solid-state cooling",
+        "construction technology"
+      ],
+      "published": "2026-06-20T12:01:56.000Z"
+    },
+    {
+      "id": "d2eab51724fbc1cf",
+      "title": "This Week in Package Management: 20 June 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/20/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "software releases",
+        "security patch",
+        "sbt",
+        "pnpm"
+      ],
+      "published": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "id": "d344b53a1e841a55",
+      "title": "I know Kung-fu ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/i-know-kung-fu",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "Learning",
+        "Knowledge",
+        "LLMs",
+        "Skill Acquisition"
+      ],
+      "published": "2026-06-20T03:17:05.000Z"
+    },
+    {
+      "id": "4c9db705028db9b5",
+      "title": "Bobby Prince has died",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "url": "https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html",
+      "pacer": "C",
+      "keywords": [
+        "Bobby Prince",
+        "Doom",
+        "FPS",
+        "Game Music",
+        "MIDI"
+      ],
+      "published": "2026-06-20T01:45:09.871Z"
+    },
+    {
+      "id": "9370d60ff069b1f4",
+      "title": "Quoting Sean Lynch",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "MCP",
+        "Model Context Protocol",
+        "LLMs",
+        "Authentication",
+        "API"
+      ],
+      "published": "2026-06-19T22:45:49.000Z"
+    },
+    {
       "id": "7db121f1f593c4bb",
       "title": "Pluralistic: The Big Con (19 Jun 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -65,6 +177,22 @@
       "published": "2026-06-19T16:00:22.000Z"
     },
     {
+      "id": "95f4cab02e0289b6",
+      "title": "What does it mean when the bottom bit of my HMODULE is set?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447",
+      "pacer": "C",
+      "keywords": [
+        "HMODULE",
+        "Windows API",
+        "programming",
+        "system internals",
+        "The Old New Thing"
+      ],
+      "published": "2026-06-19T14:00:00.000Z"
+    },
+    {
       "id": "383218cecfcd928b",
       "title": "Converting Coal Plants to Natural Gas",
       "source": "Construction Physics",
@@ -79,6 +207,22 @@
         "infrastructure"
       ],
       "published": "2026-06-19T12:03:02.000Z"
+    },
+    {
+      "id": "792d70515a6a69e0",
+      "title": "Arp 29: The fireworks galaxy",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/astro/arp29/",
+      "pacer": "E",
+      "keywords": [
+        "astrophotography",
+        "Arp 29",
+        "Fireworks Galaxy",
+        "telescope",
+        "image processing"
+      ],
+      "published": "2026-06-19T00:00:00.000Z"
     },
     {
       "id": "a16a8248af1715a8",
@@ -417,22 +561,6 @@
       "published": "2026-06-17T07:00:00.000Z"
     },
     {
-      "id": "1b3b1ace6e4f3379",
-      "title": "<click-to-play> — a still that plays",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "web-components",
-        "gif",
-        "javascript",
-        "progressive-enhancement",
-        "performance"
-      ],
-      "published": "2026-06-17T03:56:10.000Z"
-    },
-    {
       "id": "932ee980fe5385b6",
       "title": "Debugging on Prod ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -623,22 +751,6 @@
         "metaphor"
       ],
       "published": "2026-06-15T22:00:00.000Z"
-    },
-    {
-      "id": "3ee9374e9c0505b5",
-      "title": "Quaternion Rotations, Claude, and Lean",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/",
-      "pacer": "E",
-      "keywords": [
-        "Quaternion",
-        "Claude",
-        "AI",
-        "Mathematics",
-        "Error Detection"
-      ],
-      "published": "2026-06-15T19:31:38.000Z"
     },
     {
       "id": "49494a2bc2080688",
@@ -865,22 +977,6 @@
       "published": "2026-06-14T00:00:00.000Z"
     },
     {
-      "id": "3f805e12863c842b",
-      "title": "Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/13/minority-shareholder-report/",
-      "pacer": "C",
-      "keywords": [
-        "shareholder supremacy",
-        "Milton Friedman",
-        "corporate governance",
-        "fiduciary duty",
-        "Cory Doctorow"
-      ],
-      "published": "2026-06-13T17:49:56.000Z"
-    },
-    {
       "id": "7ccbbf339dda4c76",
       "title": "The adder at the heart of Intel's 8087 floating-point chip",
       "source": "Ken Shirriff's blog",
@@ -993,22 +1089,6 @@
       "published": "2026-06-12T16:31:11.000Z"
     },
     {
-      "id": "950f900d07754524",
-      "title": "How can I schedule work on a thread pool with low latency?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417",
-      "pacer": "C",
-      "keywords": [
-        "thread pool",
-        "latency",
-        "throughput",
-        "Windows programming",
-        "multithreading"
-      ],
-      "published": "2026-06-12T14:00:00.000Z"
-    },
-    {
       "id": "7f6a2b77e0e2d6e2",
       "title": "You can finally power on a Mac remotely",
       "source": "Jeff Geerling",
@@ -1119,22 +1199,6 @@
         "Complex Systems"
       ],
       "published": "2026-06-11T12:01:31.000Z"
-    },
-    {
-      "id": "758e28a08d935df5",
-      "title": "What Happened to tea.xyz",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html",
-      "pacer": "E",
-      "keywords": [
-        "tea.xyz",
-        "open source",
-        "cryptocurrency",
-        "pkgx",
-        "incentive design"
-      ],
-      "published": "2026-06-11T10:00:00.000Z"
     },
     {
       "id": "d3e2929059b32ed8",
@@ -1712,22 +1776,6 @@
       "published": "2026-06-06T00:00:00.000Z"
     },
     {
-      "id": "534baeb67eddf7cd",
-      "title": "Why all the PRs? ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/why-all-the-prs",
-      "pacer": "C",
-      "keywords": [
-        "hiring",
-        "GitHub",
-        "software development",
-        "resume",
-        "tech industry"
-      ],
-      "published": "2026-06-05T23:00:00.000Z"
-    },
-    {
       "id": "0b8c1a56eb4af95e",
       "title": "I tested every IP KVM in my Homelab",
       "source": "Jeff Geerling",
@@ -1822,22 +1870,6 @@
         "human capital"
       ],
       "published": "2026-06-04T16:14:49.000Z"
-    },
-    {
-      "id": "d717ee061729ab87",
-      "title": "How Long Does It Take to Plan a Bridge?",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge",
-      "pacer": "C",
-      "keywords": [
-        "infrastructure",
-        "construction",
-        "US",
-        "project management",
-        "efficiency"
-      ],
-      "published": "2026-06-04T15:24:24.000Z"
     },
     {
       "id": "6b795e6d8d608d53",
@@ -2188,22 +2220,6 @@
         "forest conservation",
         "logging",
         "environmentalism"
-      ],
-      "published": "2026-05-31T00:00:00.000Z"
-    },
-    {
-      "id": "b4a105a2ed9fb82e",
-      "title": "Please don't mess with links:",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/misc/real_links/",
-      "pacer": "A",
-      "keywords": [
-        "web development",
-        "HTML",
-        "accessibility",
-        "UX",
-        "best practices"
       ],
       "published": "2026-05-31T00:00:00.000Z"
     },
@@ -3770,22 +3786,6 @@
       "published": "2026-04-01T15:59:04.000Z"
     },
     {
-      "id": "93a2f2f8cb4579ee",
-      "title": "Mini-review: David Pogue's Apple: The First 50 Years",
-      "source": "Old Vintage Computing Research",
-      "source_url": "https://oldvcr.blogspot.com/",
-      "url": "https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html",
-      "pacer": "E",
-      "keywords": [
-        "Apple",
-        "David Pogue",
-        "Computing History",
-        "Book Review",
-        "Retro Computing"
-      ],
-      "published": "2026-04-01T02:17:00.000Z"
-    },
-    {
       "id": "16e0c17fd739fb82",
       "title": "Making human languages irrelevant",
       "source": "Rakhim's blog",
@@ -4170,16 +4170,6 @@
   ],
   "links": [
     {
-      "source": "cc329a59c0b122da",
-      "target": "3ee9374e9c0505b5",
-      "shared_keywords": [
-        "Claude",
-        "AI",
-        "Mathematics"
-      ],
-      "strength": 0.6
-    },
-    {
       "source": "57ca91d44336bb53",
       "target": "fc606360b5f051a8",
       "shared_keywords": [
@@ -4198,17 +4188,6 @@
         "Lean LaunchPad"
       ],
       "strength": 0.6
-    },
-    {
-      "source": "fe82e7aa0aca2be1",
-      "target": "b4a105a2ed9fb82e",
-      "shared_keywords": [
-        "web development",
-        "HTML",
-        "UX",
-        "best practices"
-      ],
-      "strength": 0.8
     },
     {
       "source": "243eae8006fab52d",

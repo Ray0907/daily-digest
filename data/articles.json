@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-06-19T22:17:40.585Z",
+  "last_updated": "2026-06-20T22:23:19.624Z",
   "articles": [
+    {
+      "id": "4c9db705028db9b5",
+      "title": "Bobby Prince has died",
+      "url": "https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-06-20T01:45:09.871Z",
+      "summary_en": "The article pays tribute to the legendary 90s FPS game composer Bobby Prince, best known for his iconic scores for id Software titles like Doom. The author highlights Prince's technical mastery in making MIDI music sound exceptional across diverse hardware and reviews his most atmospheric and memorable contributions to the genre.",
+      "summary_zh": "本文悼念了 90 年代第一人稱射擊遊戲的傳奇作曲家 Bobby Prince，他以《毀滅戰士》等 id Software 作品的經典配樂而聞名。作者強調了 Prince 在跨硬體平台上展現的卓越 MIDI 音樂製作水準，並回顧了他為該遊戲類型所創作的眾多經典且氛圍感十足的曲目。",
+      "keywords": [
+        "Bobby Prince",
+        "Doom",
+        "FPS",
+        "Game Music",
+        "MIDI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a biographical retrospective and analysis of a composer's body of work and stylistic impact.",
+      "pacer_reason_zh": "本文是一篇關於作曲家作品集與其風格影響的傳記性回顧與分析。"
+    },
+    {
+      "id": "1b39fadedfd59605",
+      "title": "Reading List 06/20/26",
+      "url": "https://www.construction-physics.com/p/reading-list-062026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-20T12:01:56.000Z",
+      "summary_en": "This digest explores key developments in housing legislation, energy storage, and industrial technology. It highlights industry skepticism surrounding data center timelines and innovations in cooling systems.",
+      "summary_zh": "本篇摘要探討了住房法案、能源存儲及工業技術的最新動態。內容涵蓋了市場對數據中心進度的懷疑，以及固態空調技術的發展。",
+      "keywords": [
+        "housing bill",
+        "energy storage",
+        "data center",
+        "solid-state cooling",
+        "construction technology"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list of news items and industry updates for reference.",
+      "pacer_reason_zh": "內容為新聞事件與產業動態的彙整清單，屬於參考性質。"
+    },
+    {
+      "id": "d2eab51724fbc1cf",
+      "title": "This Week in Package Management: 20 June 2026",
+      "url": "https://nesbitt.io/2026/06/20/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-20T10:00:00.000Z",
+      "summary_en": "This weekly update details the latest releases and security patches across major package managers including sbt, pnpm, npm, Yarn, and mise. Key highlights include significant architectural updates for sbt 2.0.0 and critical security fixes for path-traversal vulnerabilities in pnpm.",
+      "summary_zh": "本週總結報導了 sbt、pnpm、npm、Yarn 和 mise 等主流套件管理工具的最新版本與安全更新。重點包含 sbt 2.0.0 的架構升級，以及 pnpm 修復了關鍵的路徑遍歷漏洞。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "security patch",
+        "sbt",
+        "pnpm"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference list of updates, releases, and security patches for various software tools.",
+      "pacer_reason_zh": "本文作為各種軟體工具的更新、發布與安全修補程式的參考清單。"
+    },
+    {
+      "id": "3f450b49b49012d2",
+      "title": "All pieces on a 6 by 5 board",
+      "url": "https://www.johndcook.com/blog/2026/06/20/z3-python-claude/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-20T21:41:16.000Z",
+      "summary_en": "This post explores using Claude to generate Z3/Python code for solving a specific chess puzzle on a 6x5 board. It continues a series of experiments testing LLMs' capabilities in generating programming solutions for logical constraints.",
+      "summary_zh": "本文探討如何利用 Claude 生成 Z3/Python 程式碼，以解決 6x5 棋盤上的特定西洋棋謎題。這是作者一系列測試大型語言模型在解決邏輯約束程式設計任務中表現的實驗之一。",
+      "keywords": [
+        "LLM",
+        "Z3",
+        "Python",
+        "Chess Puzzle",
+        "Constraint Programming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post serves as an experiment or case study evaluating the performance of an LLM in solving a specific computational problem.",
+      "pacer_reason_zh": "這篇文章作為一項實驗或案例研究，評估了大型語言模型在解決特定計算問題時的效能。"
+    },
+    {
+      "id": "95f4cab02e0289b6",
+      "title": "What does it mean when the bottom bit of my HMODULE is set?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-19T14:00:00.000Z",
+      "summary_en": "This post explains the technical significance of the least significant bit being set in an HMODULE handle in Windows. It clarifies that this indicates a special state or variant of the module handle within the operating system.",
+      "summary_zh": "本文解釋了 Windows 中 HMODULE 句柄的最低位被設置時的技術含義。它闡明了這表示該模塊句柄在作業系統中處於特殊的狀態或變體。",
+      "keywords": [
+        "HMODULE",
+        "Windows API",
+        "programming",
+        "system internals",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the technical concept and meaning behind a specific bit-level implementation detail in Windows API.",
+      "pacer_reason_zh": "本文解釋了 Windows API 中特定位元層級實作細節背後的技術概念與含義。"
+    },
+    {
+      "id": "792d70515a6a69e0",
+      "title": "Arp 29: The fireworks galaxy",
+      "url": "https://maurycyz.com/astro/arp29/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-19T00:00:00.000Z",
+      "summary_en": "This post presents an astrophotography project of Arp 29, also known as the Fireworks Galaxy. It includes technical specifications of the imaging setup, observation challenges such as local star density and atmospheric conditions, and a brief summary of the processing workflow.",
+      "summary_zh": "這篇文章介紹了針對 Arp 29（煙火星系）的天文攝影專案。內容包含拍攝設備的技術規格、觀測過程中所遇到的星場密集與大氣條件挑戰，以及影像處理流程的簡要概述。",
+      "keywords": [
+        "astrophotography",
+        "Arp 29",
+        "Fireworks Galaxy",
+        "telescope",
+        "image processing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as an observational report, providing specific technical data, exposure settings, and experimental results from an astrophotography session.",
+      "pacer_reason_zh": "此內容作為觀測報告，提供了天文攝影過程中的具體技術數據、曝光設定以及實驗結果。"
+    },
+    {
+      "id": "d4c1f3c98f9fe54b",
+      "title": "Pluralistic: How the Epstein Class recruits (20 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/20/any-club-that-would-have-me/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-20T16:12:26.000Z",
+      "summary_en": "Cory Doctorow analyzes the leaked membership data of Dialog, an exclusive, secretive network tied to Peter Thiel. He highlights the cult-like nature of the group and reflects on his own experience receiving an invitation to speak at one of their events without realizing its true identity.",
+      "summary_zh": "Cory Doctorow 分析了與 Peter Thiel 有關的秘密社群 Dialog 的洩漏成員資料。他強調了該組織類似邪教的性質，並反思了自己曾收到該組織演講邀請的經歷，當時他並未察覺其真實底細。",
+      "keywords": [
+        "Dialog",
+        "Peter Thiel",
+        "Cory Doctorow",
+        "Oligarchy",
+        "Secret society"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and analysis of an organization's social structure and influence.",
+      "pacer_reason_zh": "本文對特定組織的社會結構與影響力進行了概念性的批判與分析。"
+    },
+    {
+      "id": "d344b53a1e841a55",
+      "title": "I know Kung-fu ",
+      "url": "https://idiallo.com/blog/i-know-kung-fu",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-20T03:17:05.000Z",
+      "summary_en": "The author explores the distinction between having access to vast amounts of information and the actual process of acquiring knowledge. By drawing a parallel to 'The Matrix,' the post argues that despite the availability of powerful AI tools, true mastery requires active engagement rather than passive consumption.",
+      "summary_zh": "作者探討了擁有大量資訊與真正獲取知識之間的差異。透過借鑑《駭客任務》的情節，文章指出儘管現代 AI 工具觸手可及，但真正的掌握技能仍需要親身實踐，而非僅是被動接收資訊。",
+      "keywords": [
+        "AI",
+        "Learning",
+        "Knowledge",
+        "LLMs",
+        "Skill Acquisition"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'Matrix' movie download scene as an analogy to discuss the limitations of AI-assisted learning.",
+      "pacer_reason_zh": "文章使用《駭客任務》中的知識下載場景作為類比，以探討 AI 輔助學習的局限性。"
+    },
+    {
+      "id": "9370d60ff069b1f4",
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-19T22:45:49.000Z",
+      "summary_en": "This post highlights Sean Lynch's perspective on the Model Context Protocol (MCP), emphasizing its utility in decoupling authentication flows from LLM agent context windows. It suggests that MCP's primary value may lie in serving as a secure, isolated authentication gateway for APIs.",
+      "summary_zh": "本文引用了 Sean Lynch 對模型上下文協議 (MCP) 的觀點，強調其在將身份驗證流程從 LLM 代理上下文視窗中分離出來的實用性。文中指出，MCP 的核心價值在於作為 API 安全且隔離的身份驗證閘道。",
+      "keywords": [
+        "MCP",
+        "Model Context Protocol",
+        "LLMs",
+        "Authentication",
+        "API"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual value and architectural purpose of the Model Context Protocol in AI agent systems.",
+      "pacer_reason_zh": "本文內容解釋了模型上下文協議在 AI 代理系統中的概念價值與架構目的。"
+    },
     {
       "id": "4558fcad35bbdb6e",
       "title": "Full Page Paralysis",
