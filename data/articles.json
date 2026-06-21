@@ -1,6 +1,86 @@
 {
-  "last_updated": "2026-06-20T22:23:19.624Z",
+  "last_updated": "2026-06-21T22:23:10.486Z",
   "articles": [
+    {
+      "id": "f3f9da2677a7ef1a",
+      "title": "The doom justifies the valuation",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-06-21T07:00:00.000Z",
+      "summary_en": "The author critiques the current AI industry discourse, distinguishing between genuine technical progress and the alarmist narratives used to justify inflated valuations. By contrasting technical updates like GLM-5.2 with the apocalyptic messaging from companies like Anthropic, the post argues that hype and existential fear have replaced tangible technological substance.",
+      "summary_zh": "作者批評當前的AI產業論述，區分了真正的技術進展與為了支撐高估值而編造的末日敘事。透過對比GLM-5.2等技術更新與Anthropic等公司的末日警示，文章指出炒作與生存恐懼已取代了具體的技術本質。",
+      "keywords": [
+        "AI",
+        "valuation",
+        "hype",
+        "discourse",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the cultural and economic motivations behind AI industry narratives and how they differ from technical development.",
+      "pacer_reason_zh": "本文提出了一個概念性論點，探討AI產業敘事背後的文化與經濟動機，以及其與技術開發之間的差異。"
+    },
+    {
+      "id": "23535f545ad1591e",
+      "title": "On Vulgar Materialism",
+      "url": "https://borretti.me/article/on-vulgar-materialism",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-06-21T00:00:00.000Z",
+      "summary_en": "This piece explores the philosophical intersection between vulgar materialism and cynicism. It suggests that extreme cynicism can paradoxically mirror the simplicity or ignorance of naïveté.",
+      "summary_zh": "本文探討了庸俗唯物主義與憤世嫉俗之間的哲學交集。作者提出，極致的憤世嫉俗在表現上可能與單純或天真無異。",
+      "keywords": [
+        "materialism",
+        "cynicism",
+        "philosophy",
+        "naivety",
+        "cultural criticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a brief, abstract philosophical reflection on conceptual definitions.",
+      "pacer_reason_zh": "內容是對概念定義進行的簡短抽象哲學反思。"
+    },
+    {
+      "id": "7a532a26639dd55a",
+      "title": "Glassblowing #3: A better thermionic diode",
+      "url": "https://maurycyz.com/projects/glass/3/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-20T00:00:00.000Z",
+      "summary_en": "This post chronicles the iterative process of building a thermionic vacuum diode by hand-blowing glass. It details the engineering challenges of aligning internal components and the practical steps taken to achieve electron emission through filament heating.",
+      "summary_zh": "這篇文章紀錄了手工吹製玻璃來製作熱離子真空二極體的實驗過程。作者詳細說明了內部元件對齊的工程挑戰，以及透過加熱燈絲來實現電子發射的實作步驟。",
+      "keywords": [
+        "vacuum tube",
+        "glassblowing",
+        "thermionic diode",
+        "electronics",
+        "DIY"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a hands-on account of the author's process and troubleshooting steps while building a specific device.",
+      "pacer_reason_zh": "本文屬於實作紀錄，詳細說明了作者在建造特定裝置過程中所經歷的步驟與疑難排解。"
+    },
+    {
+      "id": "ed140b4e4c38f7b0",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-21T22:01:04.000Z",
+      "summary_en": "Cloudflare has introduced a new feature allowing users to deploy Workers projects without an existing account using the 'npx wrangler deploy --temporary' command. These projects are ephemeral, lasting 60 minutes, with an option to claim the account afterward for long-term ownership.",
+      "summary_zh": "Cloudflare 推出了一項新功能，允許使用者透過 'npx wrangler deploy --temporary' 指令，在無需註冊帳號的情況下部署 Workers 專案。這些部署預設為 60 分鐘的臨時專案，並提供後續認領帳號以進行長期管理的選項。",
+      "keywords": [
+        "Cloudflare",
+        "Workers",
+        "Wrangler",
+        "Deployment",
+        "AI agents"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates a specific technical process for deploying applications using a command-line tool.",
+      "pacer_reason_zh": "本文展示了使用命令列工具部署應用程式的特定技術操作步驟。"
+    },
     {
       "id": "4c9db705028db9b5",
       "title": "Bobby Prince has died",

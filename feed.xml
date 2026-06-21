@@ -4,8 +4,44 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 20 Jun 2026 22:23:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:23:10 GMT</lastBuildDate>
     
+    <item>
+      <title>The doom justifies the valuation</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author critiques the current AI industry discourse, distinguishing between genuine technical progress and the alarmist narratives used to justify inflated valuations. By contrasting technical updates like GLM-5.2 with the apocalyptic messaging from companies like Anthropic, the post argues that hype and existential fear have replaced tangible technological substance.</description>
+    </item>
+
+    <item>
+      <title>On Vulgar Materialism</title>
+      <link>https://borretti.me/article/on-vulgar-materialism</link>
+      <guid>https://borretti.me/article/on-vulgar-materialism</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This piece explores the philosophical intersection between vulgar materialism and cynicism. It suggests that extreme cynicism can paradoxically mirror the simplicity or ignorance of naïveté.</description>
+    </item>
+
+    <item>
+      <title>Glassblowing #3: A better thermionic diode</title>
+      <link>https://maurycyz.com/projects/glass/3/</link>
+      <guid>https://maurycyz.com/projects/glass/3/</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post chronicles the iterative process of building a thermionic vacuum diode by hand-blowing glass. It details the engineering challenges of aligning internal components and the practical steps taken to achieve electron emission through filament heating.</description>
+    </item>
+
+    <item>
+      <title>Temporary Cloudflare Accounts for AI agents</title>
+      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</guid>
+      <pubDate>Sun, 21 Jun 2026 22:01:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Cloudflare has introduced a new feature allowing users to deploy Workers projects without an existing account using the 'npx wrangler deploy --temporary' command. These projects are ephemeral, lasting 60 minutes, with an option to claim the account afterward for long-term ownership.</description>
+    </item>
+
     <item>
       <title>Bobby Prince has died</title>
       <link>https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html</link>
@@ -868,42 +904,6 @@
       <pubDate>Fri, 12 Jun 2026 11:34:18 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>This post reviews the TP Link EH210, a compact USB-C Ethernet splitter designed for rooms with limited device requirements. The author evaluates its practical application for simplifying home networking in spaces that do not necessitate a full-sized Ethernet switch.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/12/compelled-speech/</link>
-      <guid>https://pluralistic.net/2026/06/12/compelled-speech/</guid>
-      <pubDate>Fri, 12 Jun 2026 20:45:52 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow critiques Google's remote attestation schemes, arguing they undermine the fundamental role of browsers as user agents. He emphasizes that browsers must remain interoperable and obedient to the user rather than enforcing manufacturer-dictated restrictions.</description>
-    </item>
-
-    <item>
-      <title>I can never fully embrace LLMs for code </title>
-      <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
-      <guid>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author reflects on the conflict between the convenience of AI-generated code and the necessity of understanding it. Unlike using established libraries, AI outputs lack vetting and consistency, leading the author to prioritize code comprehension over the speed gains offered by LLMs.</description>
-    </item>
-
-    <item>
-      <title>Quoting Andrew Singleton</title>
-      <link>https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything</guid>
-      <pubDate>Fri, 12 Jun 2026 18:09:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post features a satirical excerpt from Andrew Singleton's 'AI Economics for Dummies' that critiques the circular and inflated nature of current AI investment models. The piece uses a metaphorical story about a crematorium to highlight the lack of genuine financial substance behind some high-profile AI revenue claims.</description>
-    </item>
-
-    <item>
-      <title>Claude Fable is relentlessly proactive</title>
-      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 23:35:17 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares his experience with the proactive capabilities of Claude Fable 5, specifically in debugging software. He illustrates how the AI independently explores local project dependencies and files to troubleshoot UI glitches based on a simple screenshot and prompt.</description>
     </item>
   </channel>
 </rss>
