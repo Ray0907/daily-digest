@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-06-21T22:23:10.486Z",
+  "last_updated": "2026-06-22T22:31:42.517Z",
   "articles": [
+    {
+      "id": "ae905cb76449460c",
+      "title": "Expert-aware quantisation: near-Q4 quality at near-Q2 size?",
+      "url": "https://martinalderson.com/posts/expert-aware-quantisation/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-06-22T00:00:00.000Z",
+      "summary_en": "This article explores a technique called expert-aware quantization, which optimizes Mixture-of-Experts (MoE) models by identifying and aggressively quantizing less-relevant experts. By focusing on task-specific expert importance, the method achieves model performance comparable to 4-bit quantization while maintaining a footprint closer to 2-bit sizes.",
+      "summary_zh": "本文探討了一種名為「專家感知量化」(expert-aware quantization) 的技術，該技術通過識別並對不重要的專家層進行激進量化來優化混合專家模型 (MoE)。此方法能在保持接近 4-bit 量化性能的同時，達到接近 2-bit 的模型體積，顯著提升了本地模型的效率。",
+      "keywords": [
+        "MoE",
+        "quantization",
+        "LLM",
+        "model optimization",
+        "expert-aware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on the experimental results and performance benchmarks of a specific optimization technique for MoE models.",
+      "pacer_reason_zh": "內容重點在於針對 MoE 模型優化技術的實驗結果與效能基準測試。"
+    },
+    {
+      "id": "57c8e5d35aa573e7",
+      "title": "Consistency, But in Excellence Not Appearance",
+      "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-22T19:00:00.000Z",
+      "summary_en": "This post critiques the modern design obsession with visual consistency, arguing that rigid system rules often suppress individual excellence. The author suggests that prioritizing deep, iconic meaning over superficial uniformity allows for a higher quality of design.",
+      "summary_zh": "這篇文章批判了現代設計過度追求視覺一致性的現象，認為僵化的系統規範往往會壓制個別元件的卓越表現。作者主張，將重心從表面的統一性轉向深層的指標意義，才能創造出更具品質的設計。",
+      "keywords": [
+        "design",
+        "consistency",
+        "UI",
+        "excellence",
+        "iconography"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique of design philosophy, examining the relationship between systemic consistency and individual quality.",
+      "pacer_reason_zh": "本文屬於設計哲學的概念性評論，探討了系統性一致性與個人卓越表現之間的關係。"
+    },
+    {
+      "id": "0643ea216d7979e7",
+      "title": "What Was Matt Thinking?",
+      "url": "https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-06-22T18:41:28.000Z",
+      "summary_en": "This article explores the legacy of Matt Wright’s 1990s web scripts, which empowered early internet users to add forums and guestbooks to their sites. It highlights the tension between the accessibility of these tools and the significant security vulnerabilities that stemmed from their amateur development.",
+      "summary_zh": "本文探討了 Matt Wright 在 1990 年代開發的網站腳本對早期網路的影響，這些工具讓大眾能輕鬆建立論壇與留言板。文章同時指出了這些實用工具因開發初期缺乏安全性考量，而產生了嚴重的資安隱患與漏洞。",
+      "keywords": [
+        "Matt Wright",
+        "Matt's Script Archive",
+        "WWWboard",
+        "Web History",
+        "Cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a historical and conceptual overview of early web software development and the underlying issues of security versus accessibility.",
+      "pacer_reason_zh": "本文提供關於早期網路軟體開發的歷史與概念性回顧，分析了軟體易用性與安全性之間的矛盾。"
+    },
+    {
+      "id": "de1436f1f1d77bb6",
+      "title": "Lobachevsky’s integral formula",
+      "url": "https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-22T20:02:47.000Z",
+      "summary_en": "This post introduces Lobachevsky’s integral formula for even, π-periodic functions. It highlights the formula's utility in Fourier analysis and signal processing applications.",
+      "summary_zh": "這篇文章介紹了羅巴切夫斯基（Lobachevsky）關於偶函數且週期為 π 的積分公式。文中強調了該公式在傅立葉分析與訊號處理領域中的實用價值。",
+      "keywords": [
+        "Lobachevsky",
+        "integral",
+        "Fourier analysis",
+        "signal processing",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a specific mathematical theorem and its theoretical applications in signal processing.",
+      "pacer_reason_zh": "內容解釋了一項特定的數學定理及其在訊號處理中的理論應用。"
+    },
+    {
+      "id": "431c82f8ddcf406e",
+      "title": "Queens on a prime order board",
+      "url": "https://www.johndcook.com/blog/2026/06/21/queens-prime/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-22T00:21:44.000Z",
+      "summary_en": "This article discusses a mathematical solution to the n-queens problem specifically when n is a prime number greater than or equal to 5. It explains how selecting queens along a line with specific slopes allows for a valid placement on the chessboard.",
+      "summary_zh": "本文探討了當 n 為大於或等於 5 的質數時，n 皇后問題的數學解法。文中解釋了如何透過選擇具有特定斜率的線來排列皇后，從而滿足棋盤上互不攻擊的條件。",
+      "keywords": [
+        "n-queens problem",
+        "mathematics",
+        "prime numbers",
+        "chessboard",
+        "algorithm"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a mathematical explanation of a specific theoretical concept and its application.",
+      "pacer_reason_zh": "本文針對特定的理論概念及其應用提供了數學解釋。"
+    },
+    {
+      "id": "92b2f61b5f90415c",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-22T14:00:00.000Z",
+      "summary_en": "This post pays tribute to the individual responsible for implementing the red and green underline spell and grammar check features in Microsoft Word. It highlights how this ubiquitous functionality has since expanded beyond word processors to become a standard interface element across modern software.",
+      "summary_zh": "這篇文章向開發 Microsoft Word 拼字與語法檢查功能（紅綠底線）的工程師致敬。文中提到這項功能不僅改變了文書處理軟體，更逐漸普及到各種現代應用程式中，成為不可或缺的介面標準。",
+      "keywords": [
+        "Microsoft Word",
+        "Spell check",
+        "History",
+        "User interface",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the history and conceptual origins of a specific software feature.",
+      "pacer_reason_zh": "內容解釋了特定軟體功能的歷史背景與概念起源。"
+    },
+    {
+      "id": "5ad90e34ef63e206",
+      "title": "Pledging Another $400,000 to the Zig Software Foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-06-21T00:00:00.000Z",
+      "summary_en": "Mitchell Hashimoto announces a new $400,000 financial pledge to support the Zig Software Foundation. This commitment underscores his ongoing dedication to the long-term development and sustainability of the Zig programming language ecosystem.",
+      "summary_zh": "Mitchell Hashimoto 宣布向 Zig 軟體基金會額外捐贈 40 萬美元。此承諾突顯了他對 Zig 程式語言生態系統長期發展與永續性的持續支持。",
+      "keywords": [
+        "Zig",
+        "Software Foundation",
+        "Mitchell Hashimoto",
+        "Open Source",
+        "Funding"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific financial event and evidence of industry support for a software project.",
+      "pacer_reason_zh": "本文報導了一項具體的財務事件，並提供了產業支持該軟體專案的實證。"
+    },
+    {
+      "id": "098a7dd084d72553",
+      "title": "Cybersecurity for the paranoid business traveller",
+      "url": "https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-22T11:34:18.000Z",
+      "summary_en": "This post addresses the significant security risks business travelers face from state-sponsored attacks, espionage, and blackmail. The author compiles practical security advice and strategies for professionals to mitigate these threats while traveling abroad.",
+      "summary_zh": "這篇文章探討了商務旅客在國外時面臨的間諜活動、勒索與國家級網絡攻擊等安全威脅。作者整理了一系列實用的建議與策略，幫助專業人士提升旅行中的資安防護能力。",
+      "keywords": [
+        "cybersecurity",
+        "travel",
+        "espionage",
+        "data-privacy",
+        "business-travel"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on providing actionable, step-by-step advice and lists for readers to improve their security posture while traveling.",
+      "pacer_reason_zh": "該文章旨在提供可操作的步驟建議與清單，協助讀者提升旅行過程中的安全防護措施。"
+    },
+    {
+      "id": "d81924adc64fd02e",
+      "title": "Which Copyleft Licence is Suitable for an SVG?",
+      "url": "https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-20T11:34:22.000Z",
+      "summary_en": "This article explores the technical nature of SVG files and discusses the appropriate copyleft licensing strategies for vector graphics. It highlights how SVGs function as XML-based code and addresses the legal implications of applying open-source licenses to these files.",
+      "summary_zh": "本文探討了 SVG 檔案的技術特性，並討論了適用於向量圖形的 Copyleft 授權策略。文中解釋了 SVG 作為基於 XML 的程式碼運作方式，並探討將開源授權應用於此類檔案的法律意義。",
+      "keywords": [
+        "SVG",
+        "Copyleft",
+        "Licensing",
+        "Open Source",
+        "XML"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the nature of SVG files and discusses the conceptual framework of applying software licensing to image files.",
+      "pacer_reason_zh": "本文解釋了 SVG 檔案的本質，並討論了將軟體授權應用於影像檔案的概念性架構。"
+    },
+    {
+      "id": "087e9e489caa720f",
+      "title": "Pluralistic: Good politics (22 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/22/8-for-what-we-will/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-22T17:16:08.000Z",
+      "summary_en": "Cory Doctorow discusses the importance of effective governance, using Brazilian President Lula da Silva's political career as a model for policy-driven success. He contrasts this with the failures of the Bolsonaro administration and highlights the significance of political integrity in the face of corruption.",
+      "summary_zh": "Cory Doctorow 探討了有效治理的重要性，並以巴西總統盧拉的政治生涯作為政策成功推動的典範。他將此與博索納羅政府的失敗進行了對比，並強調了在貪腐威脅下政治誠信的重要性。",
+      "keywords": [
+        "Lula da Silva",
+        "politics",
+        "governance",
+        "Brazil",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of what constitutes 'good politics' through the lens of political history and ideology.",
+      "pacer_reason_zh": "本文透過政治歷史與意識形態的視角，探討了「良善政治」的定義與概念框架。"
+    },
+    {
+      "id": "23dacfcbc88bce26",
+      "title": "Everything you say CAN and WILL be used against you ",
+      "url": "https://idiallo.com/blog/the-right-to-remain-silent",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-22T07:00:00.000Z",
+      "summary_en": "The author draws a parallel between the legal Miranda rights warning and the invasive data-sharing agreements found in modern tech services. By highlighting how users carelessly consent to terms and identity verification, the post argues that users unwittingly surrender their privacy and agency to tech companies.",
+      "summary_zh": "作者將法律上的米蘭達警告與現代科技服務中侵入性的數據共享協議進行了類比。文章指出，使用者往往輕率地同意條款與身份驗證，卻未意識到自己正無意間將隱私與自主權讓渡給科技公司。",
+      "keywords": [
+        "Miranda rights",
+        "data privacy",
+        "tech terms",
+        "identity verification",
+        "user agency"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the legal concept of Miranda rights as a central analogy to explain the risks of agreeing to modern software terms and conditions.",
+      "pacer_reason_zh": "文章以米蘭達權利作為核心類比，用以闡述同意現代軟體條款與條件所帶來的風險。"
+    },
+    {
+      "id": "a4143d0e5dc1d57a",
+      "title": "Happy Father's Day. ",
+      "url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-22T02:43:33.000Z",
+      "summary_en": "The author reflects on fatherhood, comparing his own experiences to his father's perceived strength and leadership. He shares a personal, previously written story that uses clocks as a central metaphor to describe his father's legacy.",
+      "summary_zh": "作者透過反思為人父的經歷，將自己與父親展現出的領袖風範進行對比。他分享了一篇十年前創作的短篇故事，運用時鐘作為核心意象來描繪父親的遺風。",
+      "keywords": [
+        "fatherhood",
+        "reflection",
+        "leadership",
+        "personal essay",
+        "family"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a personal reflection on the concept of fatherhood and the transition into adulthood, focusing on identity rather than instruction or data.",
+      "pacer_reason_zh": "本文屬於對父親身份與成年轉換過程的個人反思，重點在於感性與概念層面的探討，而非操作指南或數據分析。"
+    },
+    {
+      "id": "173dbad21da8e3a8",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-21T23:35:47.000Z",
+      "summary_en": "Simon Willison has released sqlite-utils 4.0rc1, introducing built-in database migrations and nested transaction support. The release includes backwards-incompatible changes and invites community testing before the stable version launch.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0rc1 版本，正式引入資料庫遷移與巢狀交易支援。此版本包含部分不向下相容的變更，並邀請開發者在穩定版釋出前進行測試。",
+      "keywords": [
+        "sqlite-utils",
+        "Python",
+        "SQLite",
+        "database",
+        "migrations"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces new software features and provides code snippets demonstrating how to implement migrations.",
+      "pacer_reason_zh": "本文介紹軟體新功能，並透過程式碼片段示範如何實作資料庫遷移。"
+    },
+    {
+      "id": "b9c4b11c211af7d1",
+      "title": "sqlite-utils 4.0rc1",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-21T23:30:04.000Z",
+      "summary_en": "Simon Willison has released sqlite-utils 4.0rc1, which introduces support for database migrations and nested transactions. This update represents a significant step forward for the library's utility in managing SQLite databases.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0rc1，該版本引入了對資料庫遷移和巢狀交易的支援。此更新為該程式庫在管理 SQLite 資料庫的功能上邁出了重要一步。",
+      "keywords": [
+        "sqlite-utils",
+        "SQLite",
+        "database",
+        "migrations",
+        "python"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release announcement and reference for the latest version update of a software tool.",
+      "pacer_reason_zh": "該內容為軟體工具的最新版本更新發布公告，屬於參考性質。"
+    },
     {
       "id": "f3f9da2677a7ef1a",
       "title": "The doom justifies the valuation",
