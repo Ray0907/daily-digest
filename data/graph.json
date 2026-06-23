@@ -1,6 +1,198 @@
 {
   "nodes": [
     {
+      "id": "26d4c32c1f6a7593",
+      "title": "OPFS + Pyodide test harness",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "OPFS",
+        "Pyodide",
+        "Datasette Lite",
+        "SQLite",
+        "WebAssembly"
+      ],
+      "published": "2026-06-23T18:58:54.000Z"
+    },
+    {
+      "id": "962d41e3a2c99a01",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "pacer": "E",
+      "keywords": [
+        "Scattered Spider",
+        "cybercrime",
+        "Transport for London",
+        "cyberattack",
+        "guilty plea"
+      ],
+      "published": "2026-06-23T16:12:49.000Z"
+    },
+    {
+      "id": "62904a7a6bf0602e",
+      "title": "The most wonderful thing that happened to Tommy McHugh",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened",
+      "pacer": "E",
+      "keywords": [
+        "Tommy McHugh",
+        "creativity",
+        "neurology",
+        "brain injury",
+        "savant syndrome"
+      ],
+      "published": "2026-06-23T15:57:56.000Z"
+    },
+    {
+      "id": "596d03755159d9e8",
+      "title": "Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "pacer": "C",
+      "keywords": [
+        "privacy",
+        "surveillance",
+        "age verification",
+        "internet policy",
+        "big tech"
+      ],
+      "published": "2026-06-23T11:30:21.000Z"
+    },
+    {
+      "id": "43527d72068eed81",
+      "title": "Sunsetting a Package Manager",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html",
+      "pacer": "C",
+      "keywords": [
+        "CocoaPods",
+        "Package Manager",
+        "Infrastructure",
+        "Software Maintenance",
+        "Swift Package Manager"
+      ],
+      "published": "2026-06-23T10:00:00.000Z"
+    },
+    {
+      "id": "c229928d66ba3acd",
+      "title": "Liminality",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "Liminality",
+        "Fullmetal Alchemist",
+        "Technological anxiety",
+        "Philosophy"
+      ],
+      "published": "2026-06-23T07:00:00.000Z"
+    },
+    {
+      "id": "8ff67913d333c47d",
+      "title": "Our hydro deserves better than a chatbot",
+      "source": "Dr Paris Buttfield-Addison",
+      "source_url": "https://hey.paris/",
+      "url": "https://hey.paris/posts/ai-data-centres-tasmania/",
+      "pacer": "C",
+      "keywords": [
+        "Tasmania",
+        "AI data centers",
+        "energy consumption",
+        "parliamentary inquiry",
+        "public oversight"
+      ],
+      "published": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "2eece697b1d063df",
+      "title": "The Coming Loop",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "pacer": "C",
+      "keywords": [
+        "coding agents",
+        "AI engineering",
+        "automation",
+        "software development",
+        "loop architecture"
+      ],
+      "published": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "eca7be2f82af2744",
+      "title": "The worthlessness of vitamin D is mildly exaggerated",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "url": "https://dynomight.net/vitamin-d/",
+      "pacer": "E",
+      "keywords": [
+        "Vitamin D",
+        "Supplements",
+        "Clinical Trials",
+        "Biology",
+        "Health"
+      ],
+      "published": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "f26c96cfcb192832",
+      "title": "Prompt Injection as Role Confusion",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Prompt Injection",
+        "LLM",
+        "Role Confusion",
+        "AI Security",
+        "Machine Learning"
+      ],
+      "published": "2026-06-22T23:59:53.000Z"
+    },
+    {
+      "id": "d0f14fad967a5b0a",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Moebius",
+        "WebGPU",
+        "Inpainting",
+        "Browser-based AI",
+        "Simon Willison"
+      ],
+      "published": "2026-06-22T23:43:51.000Z"
+    },
+    {
+      "id": "b17c85a4c4ea4418",
+      "title": "Tagged data in Haskell (SICP 2.4.2)",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell",
+      "pacer": "P",
+      "keywords": [
+        "Haskell",
+        "SICP",
+        "Tagged Data",
+        "Complex Numbers",
+        "Programming"
+      ],
+      "published": "2026-06-22T22:00:00.000Z"
+    },
+    {
       "id": "de1436f1f1d77bb6",
       "title": "Lobachevsky’s integral formula",
       "source": "John D. Cook",
@@ -193,22 +385,6 @@
       "published": "2026-06-21T23:30:04.000Z"
     },
     {
-      "id": "ed140b4e4c38f7b0",
-      "title": "Temporary Cloudflare Accounts for AI agents",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Cloudflare",
-        "Workers",
-        "Wrangler",
-        "Deployment",
-        "AI agents"
-      ],
-      "published": "2026-06-21T22:01:04.000Z"
-    },
-    {
       "id": "f3f9da2677a7ef1a",
       "title": "The doom justifies the valuation",
       "source": "the singularity is nearer",
@@ -385,22 +561,6 @@
       "published": "2026-06-20T00:00:00.000Z"
     },
     {
-      "id": "9370d60ff069b1f4",
-      "title": "Quoting Sean Lynch",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "MCP",
-        "Model Context Protocol",
-        "LLMs",
-        "Authentication",
-        "API"
-      ],
-      "published": "2026-06-19T22:45:49.000Z"
-    },
-    {
       "id": "7db121f1f593c4bb",
       "title": "Pluralistic: The Big Con (19 Jun 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -527,22 +687,6 @@
         "architecture"
       ],
       "published": "2026-06-19T00:00:00.000Z"
-    },
-    {
-      "id": "f58f76bdac67ff25",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "Datasette",
-        "SQL",
-        "Web Application",
-        "Plugin",
-        "JavaScript"
-      ],
-      "published": "2026-06-18T23:58:38.000Z"
     },
     {
       "id": "7c4f2c9bb4d90cce",
@@ -703,22 +847,6 @@
         "Gemini 3 Flash"
       ],
       "published": "2026-06-17T22:00:00.000Z"
-    },
-    {
-      "id": "3c05b529ba4de62f",
-      "title": "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/",
-      "pacer": "E",
-      "keywords": [
-        "dead economy",
-        "Elon Musk",
-        "financial markets",
-        "asset valuation",
-        "cryptocurrency"
-      ],
-      "published": "2026-06-17T18:27:18.000Z"
     },
     {
       "id": "88e7845df3037df1",
@@ -1281,22 +1409,6 @@
       "published": "2026-06-12T12:00:00.000Z"
     },
     {
-      "id": "34e6e735a3560d1f",
-      "title": "Joint Guidance on Vulnerability Naming and Disclosure",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html",
-      "pacer": "P",
-      "keywords": [
-        "Vulnerability Naming Authority",
-        "CVE",
-        "Cybersecurity",
-        "Disclosure Process",
-        "Vulnerability Management"
-      ],
-      "published": "2026-06-12T10:00:00.000Z"
-    },
-    {
       "id": "15dcc655b1cc00fc",
       "title": "I Am Not a Reverse Centaur",
       "source": "Miguel Grinberg's Blog",
@@ -1742,22 +1854,6 @@
         "software development"
       ],
       "published": "2026-06-07T09:46:06.000Z"
-    },
-    {
-      "id": "ccede2567f734ca8",
-      "title": "Stairway to Heaven",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "statistical models",
-        "consciousness",
-        "reward hacking",
-        "branding"
-      ],
-      "published": "2026-06-07T07:00:00.000Z"
     },
     {
       "id": "f49cf14fec0f2aaa",
@@ -2568,16 +2664,6 @@
       "published": "2026-05-26T00:00:00.000Z"
     },
     {
-      "id": "758b985ad312e86e",
-      "title": "90 % of the t distribution",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-25T22:00:00.000Z"
-    },
-    {
       "id": "8c2028bc9d3233a1",
       "title": "Solving the board game Quoridor",
       "source": "Grant Slatton's Blog",
@@ -2595,16 +2681,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-05-25T14:54:59.000Z"
-    },
-    {
-      "id": "138181572c8b801a",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-25T13:21:49.000Z"
     },
     {
       "id": "fe55fedd440ff5e3",
@@ -2681,22 +2757,6 @@
         "Logo",
         "Education",
         "Nostalgia"
-      ],
-      "published": "2026-05-24T00:00:00.000Z"
-    },
-    {
-      "id": "b88b0610b56ab9fb",
-      "title": "Building Pi With Pi",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Open Source",
-        "Issue Tracker",
-        "Software Development",
-        "Dogfooding"
       ],
       "published": "2026-05-24T00:00:00.000Z"
     },
@@ -3674,22 +3734,6 @@
       "published": "2026-04-15T00:00:00.000Z"
     },
     {
-      "id": "f5ea5e5b8931005a",
-      "title": "Nothing ever dies. It merely becomes embarrassing.",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes",
-      "pacer": "C",
-      "keywords": [
-        "science",
-        "halo theory",
-        "history of science",
-        "cultural memory",
-        "ideas"
-      ],
-      "published": "2026-04-14T16:16:42.000Z"
-    },
-    {
       "id": "07c75eb997149bc2",
       "title": "give-them-two-choices",
       "source": "Chad Nauseam Home",
@@ -3900,16 +3944,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-19T00:00:00.000Z"
-    },
-    {
-      "id": "b4b719eaf86e4c8f",
-      "title": "LLMs predict my coffee",
-      "source": "DYNOMIGHT",
-      "source_url": "https://dynomight.net/",
-      "url": "https://dynomight.net/coffee/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-18T00:00:00.000Z"
     },
     {
       "id": "e92b08fe1024d018",

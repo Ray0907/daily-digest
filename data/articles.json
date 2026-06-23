@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-22T22:31:42.517Z",
+  "last_updated": "2026-06-23T22:23:51.638Z",
   "articles": [
+    {
+      "id": "62904a7a6bf0602e",
+      "title": "The most wonderful thing that happened to Tommy McHugh",
+      "url": "https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-06-23T15:57:56.000Z",
+      "summary_en": "This article explores the extraordinary case of Tommy McHugh, who suddenly developed profound artistic abilities following a brain hemorrhage. It examines the neurological implications of how physical trauma can unlock hidden latent creativity in the human mind.",
+      "summary_zh": "這篇文章探討了 Tommy McHugh 的非凡案例，他在經歷腦溢血後突然展現出深厚的藝術天賦。文章分析了生理創傷如何可能激發人類大腦中隱藏的創造力，以及其背後的腦神經科學意義。",
+      "keywords": [
+        "Tommy McHugh",
+        "creativity",
+        "neurology",
+        "brain injury",
+        "savant syndrome"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study analyzing specific anecdotal and clinical evidence regarding sudden artistic output after brain trauma.",
+      "pacer_reason_zh": "本文作為一個個案研究，分析了關於腦部創傷後突然產生藝術創作能力的具體軼事與臨床證據。"
+    },
+    {
+      "id": "8ff67913d333c47d",
+      "title": "Our hydro deserves better than a chatbot",
+      "url": "https://hey.paris/posts/ai-data-centres-tasmania/",
+      "source": "Dr Paris Buttfield-Addison",
+      "source_url": "https://hey.paris/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "The Tasmanian Greens are calling for a parliamentary inquiry into the rapid development of energy-intensive AI data centers in the state. The author supports this, highlighting concerns over lack of public oversight and the massive power requirements of these projects.",
+      "summary_zh": "塔斯馬尼亞綠黨呼籲對該州境內迅速擴張的人工智慧數據中心進行議會調查。作者對此表示支持，並強調了這些項目缺乏公眾監督以及其驚人的電力需求所帶來的隱憂。",
+      "keywords": [
+        "Tasmania",
+        "AI data centers",
+        "energy consumption",
+        "parliamentary inquiry",
+        "public oversight"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual and policy implications of AI infrastructure development, focusing on the need for regulation and oversight.",
+      "pacer_reason_zh": "本文探討了人工智慧基礎設施發展在政策與概念層面的影響，重點在於監管與監督的必要性。"
+    },
+    {
+      "id": "c229928d66ba3acd",
+      "title": "Liminality",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-06-23T07:00:00.000Z",
+      "summary_en": "The article reflects on the current state of artificial intelligence, using the concept of liminality to describe the uncomfortable transition period we inhabit. It draws parallels between modern AI development and Fullmetal Alchemist's philosopher's stone, exploring the psychological toll and fear of obsolescence in the face of rapid technological progress.",
+      "summary_zh": "本文透過「閾限狀態」（Liminality）的概念，探討了人工智慧發展現狀所帶來的不安與轉型焦慮。作者將當前的AI熱潮比作《鋼之鍊金術師》中的賢者之石，剖析了人們在面對科技可能超越人類的預期時，那種既期待又恐懼的心理狀態。",
+      "keywords": [
+        "AI",
+        "Liminality",
+        "Fullmetal Alchemist",
+        "Technological anxiety",
+        "Philosophy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of Fullmetal Alchemist to explain the societal impact and development trajectory of artificial intelligence.",
+      "pacer_reason_zh": "文章運用《鋼之鍊金術師》的隱喻來解釋人工智慧的發展軌跡與社會影響，屬於類比性質的內容。"
+    },
+    {
+      "id": "b17c85a4c4ea4418",
+      "title": "Tagged data in Haskell (SICP 2.4.2)",
+      "url": "https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-06-22T22:00:00.000Z",
+      "summary_en": "This article explores the concept of tagged data by implementing a solution for handling multiple representations of complex numbers in Haskell. Inspired by SICP, it demonstrates how to design code that allows different data formats, such as rectangular and polar coordinates, to coexist seamlessly.",
+      "summary_zh": "本文探討了標記資料（tagged data）的概念，並以 Haskell 實作了處理複數多種表示法的解決方案。受《計算機程式的構造和解釋》（SICP）啟發，作者展示了如何設計程式碼，讓直角座標與極座標等不同的資料格式能共存。",
+      "keywords": [
+        "Haskell",
+        "SICP",
+        "Tagged Data",
+        "Complex Numbers",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial, guiding the reader through the implementation of a specific programming concept using code examples.",
+      "pacer_reason_zh": "這篇文章本質上是一篇教學指南，透過程式碼範例引導讀者實作特定的程式設計概念。"
+    },
+    {
+      "id": "43527d72068eed81",
+      "title": "Sunsetting a Package Manager",
+      "url": "https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-23T10:00:00.000Z",
+      "summary_en": "CocoaPods will officially transition its trunk server to a read-only state on December 2nd, 2026, effectively ceasing new uploads while ensuring existing libraries remain functional. This decision, driven by resource limitations and the rise of Swift Package Manager, reflects a growing trend in software infrastructure management to preserve long-term accessibility.",
+      "summary_zh": "CocoaPods 將於 2026 年 12 月 2 日正式將 trunk 伺服器轉為唯讀模式，屆時將停止接受新的套件上傳，同時確保現有專案仍能正常運作。此舉旨在應對人力限制與 Swift Package Manager 的興起，並透過既有基礎設施確保軟體生態的長期可用性。",
+      "keywords": [
+        "CocoaPods",
+        "Package Manager",
+        "Infrastructure",
+        "Software Maintenance",
+        "Swift Package Manager"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what is' and 'why' behind the strategic decision to sunset a major software registry, focusing on conceptual architectural longevity.",
+      "pacer_reason_zh": "本文解釋了將主要軟體登錄庫除役的決策過程與背景，重點在於探討軟體基礎設施架構永續性的概念。"
+    },
+    {
+      "id": "2eece697b1d063df",
+      "title": "The Coming Loop",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "The article explores the emergence of 'harness-level' loops in coding agents, where external systems manage agent sessions to push tasks beyond their initial completion points. The author reflects on the tension between using these autonomous loops and the desire to maintain personal control, understanding, and code quality.",
+      "summary_zh": "本文探討了編碼代理中「編排層循環」的興起，即透過外部系統管理代理流程，使任務能超越模型原始的完成點繼續執行。作者反思了在使用這些自動化循環與保持個人對程式碼的掌控力、理解力及品質之間的衝突。",
+      "keywords": [
+        "coding agents",
+        "AI engineering",
+        "automation",
+        "software development",
+        "loop architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in agentic engineering, focusing on the architectural design of harness loops versus agent loops.",
+      "pacer_reason_zh": "本文討論了代理工程的概念性轉變，重點在於編排層循環與代理內部循環的架構設計區別。"
+    },
+    {
+      "id": "eca7be2f82af2744",
+      "title": "The worthlessness of vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "The article challenges the popular skeptic view that vitamin D supplements are useless for anyone not severely deficient. While acknowledging that randomized trials fail to prove miraculous benefits, the author argues that current evidence and biological function suggest supplementation remains a sensible strategy for those with low levels.",
+      "summary_zh": "本文挑戰了認為維生素 D 補充劑對非嚴重缺乏者毫無用處的懷疑論觀點。作者承認隨機對照試驗未能證實維生素 D 具有神奇療效，但主張基於生物學機制與現有證據，對於水平偏低的人群而言，適度補充仍是合理的健康策略。",
+      "keywords": [
+        "Vitamin D",
+        "Supplements",
+        "Clinical Trials",
+        "Biology",
+        "Health"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article evaluates the validity of vitamin D supplementation by analyzing and reinterpreting findings from randomized controlled trials and biological evidence.",
+      "pacer_reason_zh": "本文透過分析並重新詮釋隨機對照試驗結果與生物學證據，藉此評估維生素 D 補充劑的有效性。"
+    },
+    {
+      "id": "596d03755159d9e8",
+      "title": "Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-23T11:30:21.000Z",
+      "summary_en": "Cory Doctorow critiques the push for internet age verification, arguing that it is fundamentally flawed and functions as a form of mass surveillance rather than child protection. He highlights that such measures empower the surveillance-advertising industry by requiring invasive, fine-grained tracking for all users.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）批評了推動網路年齡驗證的做法，認為這種措施在本質上是有缺陷的，且實際上是一種大規模監控而非保護兒童。他強調，這類機制要求所有用戶進行精細的活動追蹤，這反而成就了廣告監控產業的願景。",
+      "keywords": [
+        "privacy",
+        "surveillance",
+        "age verification",
+        "internet policy",
+        "big tech"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument analyzing the societal implications and technical realities of age verification systems.",
+      "pacer_reason_zh": "本文提供了一種概念性論點，分析了年齡驗證系統對社會的影響及其背後的技術現實。"
+    },
+    {
+      "id": "962d41e3a2c99a01",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-06-23T16:12:49.000Z",
+      "summary_en": "Two key members of the Scattered Spider cybercrime group pleaded guilty to charges related to the August 2024 cyberattack on Transport for London. The pleas were entered on the first day of their scheduled six-week trial in the United Kingdom.",
+      "summary_zh": "兩名駭客組織「Scattered Spider」的核心成員，就針對倫敦交通局（Transport for London）的 2024 年 8 月網路攻擊案認罪。兩人在原定為期六週的審判首日便承認罪行。",
+      "keywords": [
+        "Scattered Spider",
+        "cybercrime",
+        "Transport for London",
+        "cyberattack",
+        "guilty plea"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific real-world events and criminal justice outcomes, functioning as a news report on a cybercrime case study.",
+      "pacer_reason_zh": "本文報導了真實世界的具體事件與刑事司法結果，屬於關於網路犯罪個案研究的新聞報導。"
+    },
+    {
+      "id": "26d4c32c1f6a7593",
+      "title": "OPFS + Pyodide test harness",
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-23T18:58:54.000Z",
+      "summary_en": "Simon Willison introduces a test harness designed to explore using the Origin Private File System (OPFS) with Pyodide. The tool aims to determine if browser-based applications like Datasette Lite can perform persistent editing on local SQLite files.",
+      "summary_zh": "Simon Willison 介紹了一個旨在探索將 Origin Private File System (OPFS) 與 Pyodide 結合使用的測試工具。該工具旨在評估像 Datasette Lite 這類的瀏覽器應用程式是否能夠對本地 SQLite 檔案進行持久化編輯。",
+      "keywords": [
+        "OPFS",
+        "Pyodide",
+        "Datasette Lite",
+        "SQLite",
+        "WebAssembly"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a functional tool and playground UI for developers to test and experiment with specific web API integrations.",
+      "pacer_reason_zh": "本文提供了一個功能性的工具與測試環境，讓開發者能夠實際測試並嘗試特定的網頁 API 整合。"
+    },
+    {
+      "id": "f26c96cfcb192832",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-22T23:59:53.000Z",
+      "summary_en": "This post discusses research by Ye et al. on prompt injection, highlighting how LLMs struggle to distinguish between system instructions and untrusted user input. The findings suggest that models are highly sensitive to the writing style of inputs, allowing attackers to override safety protocols by mimicking internal thinking patterns.",
+      "summary_zh": "本文介紹了 Ye 等人針對提示詞注入的研究，指出大型語言模型難以區分系統指令與不可信的使用者輸入。研究發現模型對輸入的寫作風格極為敏感，攻擊者可以透過模仿模型內部的思維格式來繞過安全限制。",
+      "keywords": [
+        "Prompt Injection",
+        "LLM",
+        "Role Confusion",
+        "AI Security",
+        "Machine Learning"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents and discusses specific findings from a research paper on LLM vulnerability patterns.",
+      "pacer_reason_zh": "文章呈現並探討了關於大型語言模型脆弱性模式的研究報告與實證發現。"
+    },
+    {
+      "id": "d0f14fad967a5b0a",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-22T23:43:51.000Z",
+      "summary_en": "Simon Willison demonstrates porting the Moebius 0.2B image inpainting model to run directly in the browser via WebGPU. The post highlights the process of making a model that originally required PyTorch and CUDA accessible as a lightweight web-based tool.",
+      "summary_zh": "Simon Willison 展示了如何將 Moebius 0.2B 圖像修復模型移植到瀏覽器中，使其能透過 WebGPU 運行。文章介紹了將原本需要 PyTorch 和 CUDA 環境的模型轉化為輕量級網頁工具的過程。",
+      "keywords": [
+        "Moebius",
+        "WebGPU",
+        "Inpainting",
+        "Browser-based AI",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post details the technical process and effort involved in porting a specific model to the browser, serving as a practical guide/log.",
+      "pacer_reason_zh": "文章詳細記錄了將特定模型移植到瀏覽器的技術過程與實踐經驗，具有指南性質。"
+    },
     {
       "id": "ae905cb76449460c",
       "title": "Expert-aware quantisation: near-Q4 quality at near-Q2 size?",
