@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-06-23T22:23:51.638Z",
+  "last_updated": "2026-06-24T22:26:26.837Z",
   "articles": [
+    {
+      "id": "75ca1ca835efdb24",
+      "title": "How we’ll fight the platform war against Big AI",
+      "url": "https://anildash.com/2026/06/23/fight-ai-platform-war/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "Anil Dash argues that the current AI market remains vulnerable to competition despite the dominance of Big Tech. He advocates for developers and users to employ traditional platform strategies and collective coordination to challenge major AI firms and mitigate potential harms.",
+      "summary_zh": "Anil Dash 認為，儘管大型科技公司在 AI 市場佔據主導地位，但市場仍處於早期階段且充滿變數。他主張開發者與使用者應運用傳統的平台競爭策略與集體協調，以制衡大型 AI 企業並減輕潛在的技術危害。",
+      "keywords": [
+        "AI",
+        "platform strategy",
+        "Big Tech",
+        "developer advocacy",
+        "digital sovereignty"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theoretical framework and strategic approach for challenging dominant AI platforms.",
+      "pacer_reason_zh": "本文探討了挑戰主導 AI 平台的理論框架與戰略方針。"
+    },
+    {
+      "id": "badfa39c59b0a4b3",
+      "title": "Weekly Update 509",
+      "url": "https://www.troyhunt.com/weekly-update-509/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-24T05:17:32.000Z",
+      "summary_en": "Troy Hunt shares his ongoing personal journey into the complexities of home cinema audiovisual setups. He reflects on his transition from unconscious to conscious incompetence, highlighting the depth of knowledge required for expert-level home theater configuration.",
+      "summary_zh": "Troy Hunt 分享了他個人在家庭影院視聽配置方面的探索過程。他反思了自己從無知到意識到自身不足的心態轉變，強調了專業級家庭影院設置背後的深奧技術門檻。",
+      "keywords": [
+        "home cinema",
+        "audiovisual",
+        "personal learning",
+        "Troy Hunt",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post functions as a personal reflection and conceptual exploration of a topic, detailing the author's learning process.",
+      "pacer_reason_zh": "這篇文章屬於個人的反思與主題概念探討，詳細描述了作者在該領域的學習認知過程。"
+    },
+    {
+      "id": "325ff569e284f386",
+      "title": "How to Write an Effective Software Design Document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "source": "Refactoring English",
+      "source_url": "https://refactoringenglish.com/",
+      "published": "2026-06-24T00:00:00.000Z",
+      "summary_en": "Effective software design documents are crucial for clarifying complex decisions and aligning team efforts before development begins. By articulating technical challenges early, these documents prevent wasted time and facilitate necessary feedback from colleagues.",
+      "summary_zh": "有效的軟體設計文件能幫助開發者在投入編碼前釐清關鍵決策，並確保團隊成員間的共識。透過闡明核心技術難題，設計文件能有效節省開發時間並促進團隊意見交流。",
+      "keywords": [
+        "Software Design",
+        "Documentation",
+        "Engineering",
+        "Team Alignment",
+        "Development Process"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'why' behind design documentation, focusing on the conceptual value of the process.",
+      "pacer_reason_zh": "本文旨在解釋設計文件的概念價值與重要性，屬於闡述「是什麼」與「為什麼」的內容。"
+    },
+    {
+      "id": "00d10d8ac734f04d",
+      "title": "Blogging Can Just Be Stating The Obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-24T19:00:00.000Z",
+      "summary_en": "This post discusses the meta-aspect of blogging, arguing that some of the most valuable content comes from simply stating obvious truths that others are ignoring. It emphasizes that pointing out common frustrations, like intrusive web popups, serves as a necessary act of observation in an increasingly user-hostile digital landscape.",
+      "summary_zh": "本文探討了部落格寫作的本質，主張最有價值的內容往往源自於指出那些顯而易見卻常被忽視的現況。作者認為，公開談論如惱人彈出視窗等常見數位體驗問題，是部落客的重要職責。",
+      "keywords": [
+        "blogging",
+        "content creation",
+        "web design",
+        "UX",
+        "commentary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual nature of blogging and the philosophy behind why simple, obvious observations are valuable.",
+      "pacer_reason_zh": "文章探討了部落格寫作的概念本質，以及為何簡單、顯而易見的觀察具有價值的哲學思考。"
+    },
+    {
+      "id": "fdbdbdc2bef944b9",
+      "title": "Regular expressions that work “everywhere”",
+      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-24T00:26:11.000Z",
+      "summary_en": "This article discusses the challenges of cross-platform regular expression compatibility, noting that feature sets and syntax often vary between implementations. It highlights the difficulty of writing portable regex code when relying on features specific to maximalist environments like Perl.",
+      "summary_zh": "本文探討了正規表示式在跨平台使用時的不相容性問題，指出不同工具間的功能支援與語法差異。作者分享了依賴特定語言（如 Perl）的功能特性時，在其他環境中可能遇到的實作困難。",
+      "keywords": [
+        "Regular expressions",
+        "Regex",
+        "Programming",
+        "Compatibility",
+        "Syntax"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual challenge of regex implementation fragmentation and its impact on cross-platform development.",
+      "pacer_reason_zh": "本文解釋了正規表示式實作破碎化的概念性挑戰，以及其對跨平台開發的影響。"
+    },
+    {
+      "id": "b173d2a07687d30c",
+      "title": "Microspeak elaborated: Isn’t escrow just a release candidate by another name?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-23T14:00:00.000Z",
+      "summary_en": "This post explains that while 'escrow' and 'release candidate' are technically similar in software development, the difference lies in the psychological intent. Using the term 'escrow' serves as a strategic linguistic choice to manage expectations differently than a standard release candidate.",
+      "summary_zh": "本文探討在軟體開發中，儘管「託管 (escrow)」與「候選發布版本 (release candidate)」在本質上相似，但名稱的使用是一種心理策略。選擇使用「託管」一詞是為了透過語言包裝來管理各方對版本的預期與心理感受。",
+      "keywords": [
+        "Microspeak",
+        "The Old New Thing",
+        "Escrow",
+        "Release Candidate",
+        "Terminology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual clarification of industry terminology and the psychological implications behind specific word choices.",
+      "pacer_reason_zh": "本文針對產業術語進行概念釐清，並解釋特定詞彙選擇背後的心理暗示意義。"
+    },
+    {
+      "id": "b2be8dc634b8d58f",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-24T00:00:00.000Z",
+      "summary_en": "This blog post critiques programming language design flaws, specifically addressing how certain languages exhibit recurring, preventable errors. It highlights user frustration with languages that fail to implement safety features to mitigate common developer mistakes.",
+      "summary_zh": "這篇文章評論了程式語言的設計缺陷，特別探討了某些語言如何反覆出現可預防的錯誤。文章強調了開發者對於那些缺乏安全機制以緩解常見錯誤的語言所感到的挫折。",
+      "keywords": [
+        "programming",
+        "software engineering",
+        "language design",
+        "bugs",
+        "tech satire"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of programming language design and error-handling philosophy.",
+      "pacer_reason_zh": "本文針對程式語言設計與錯誤處理哲學進行了概念性的批判。"
+    },
+    {
+      "id": "bcd5712831510e57",
+      "title": "I taught a bucket to speak git",
+      "url": "https://www.tigrisdata.com/blog/objgit/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "This article explores a creative and humorous technical experiment where the author attempts to implement Git version control functionality within a bucket. It highlights the intersection of unconventional programming challenges and the fundamental mechanics of Git repositories.",
+      "summary_zh": "這篇文章紀錄了一個充滿創意與幽默的技術實驗，作者嘗試將 Git 版本控制功能實作在一個水桶中。內容探討了非傳統程式設計挑戰與 Git 儲存庫核心運作機制之間的連結。",
+      "keywords": [
+        "Git",
+        "programming",
+        "experimental",
+        "version control",
+        "software engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that explores the theoretical and humorous application of version control systems in non-standard environments.",
+      "pacer_reason_zh": "這篇文章屬於概念性內容，探討了將版本控制系統應用於非標準環境中的理論性與趣味性嘗試。"
+    },
+    {
+      "id": "96c2c7601e0824f8",
+      "title": "Auth0 PHP - manually authenticating JWT idTokens",
+      "url": "https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-24T11:34:25.000Z",
+      "summary_en": "This guide provides a walkthrough for manually authenticating Auth0-issued JWT idTokens in PHP applications. It addresses the lack of official documentation by detailing the specific process required to validate these tokens effectively.",
+      "summary_zh": "本指南介紹了如何在 PHP 應用程式中手動驗證 Auth0 發行的 JWT idToken。針對官方文件不足的問題，本文詳細說明了驗證這些權杖的具體步驟。",
+      "keywords": [
+        "Auth0",
+        "JWT",
+        "PHP",
+        "Authentication",
+        "idToken"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a step-by-step technical guide for solving a specific implementation problem.",
+      "pacer_reason_zh": "本文作為解決特定實作問題的技術性逐步指南。"
+    },
+    {
+      "id": "2028e58af0d4172d",
+      "title": "Arp 293: More interacting galaxies",
+      "url": "https://maurycyz.com/astro/arp293/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-23T00:00:00.000Z",
+      "summary_en": "This post documents an amateur astrophotography session capturing the interacting galaxies Arp 293 (NGC 6285 and NGC 6286). It provides technical specifications for the imaging setup, details the processing workflow, and discusses the challenge of 'walking noise' in long-exposure stacks.",
+      "summary_zh": "本文紀錄了拍攝交互作用星系 Arp 293 (NGC 6285 與 NGC 6286) 的天文攝影過程。文中詳述了攝影設備與影像處理流程，並探討了長曝光疊圖中常見的「行走雜訊」(walking noise) 挑戰。",
+      "keywords": [
+        "astrophotography",
+        "Arp 293",
+        "NGC 6285",
+        "galaxy",
+        "walking noise"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a technical log of a specific procedure, detailing the settings, workflow, and troubleshooting of a specific astrophotography task.",
+      "pacer_reason_zh": "文章以技術日誌形式呈現，詳細說明了特定天文攝影任務的設備設定、處理流程與問題排解方法。"
+    },
+    {
+      "id": "6918965612577e24",
+      "title": "Quoting Tom MacWright",
+      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-24T18:13:51.000Z",
+      "summary_en": "Tom MacWright observes a growing trend of job applications being entirely generated by LLMs, resulting in generic content that lacks personal authenticity. He argues that this 'accidental anonymity' obscures the actual applicant, making it impossible to evaluate their true skills or personality.",
+      "summary_zh": "Tom MacWright 觀察到求職申請中大量出現由 LLM 生成的內容，導致申請人呈現出缺乏個人真實性的「意外匿名」狀態。他認為這種過度依賴 AI 生成的簡歷，使得招募方無法真正了解申請人的能力與個性。",
+      "keywords": [
+        "LLM",
+        "hiring",
+        "careers",
+        "authenticity",
+        "AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual critique of how LLM-generated content affects professional identity and personal branding in the hiring process.",
+      "pacer_reason_zh": "本文主要探討 AI 生成內容如何影響求職過程中的個人品牌與真實性，屬於概念性的觀點分析。"
+    },
+    {
+      "id": "d51209cb5acd4f7a",
+      "title": "datasette 1.0a35",
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-23T21:34:37.000Z",
+      "summary_en": "Datasette 1.0a35 introduces significant new capabilities for managing database schemas directly through the UI, including a new 'Create table' interface and an 'Alter table' tool. It also provides updated documentation for template context variables, establishing them as a stable API.",
+      "summary_zh": "Datasette 1.0a35 發布了重要更新，新增了透過 UI 直接管理資料庫結構的「建立資料表」與「修改資料表」功能。此外，本次更新還包含模板上下文變數的穩定版 API 文件，確保開發者能更穩定的自定義頁面。",
+      "keywords": [
+        "datasette",
+        "database",
+        "api",
+        "software release",
+        "schema management"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release announcement and reference for new features and documentation updates in a specific software version.",
+      "pacer_reason_zh": "此文章為軟體版本發布公告，並提供特定版本新功能與文件更新的參考資訊。"
+    },
+    {
+      "id": "5358aed48042fcc8",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-06-24T14:00:00.000Z",
+      "summary_en": "The article explores the performance and design challenges of using the WisdPi 10G Ethernet expansion card with Framework laptops. It highlights how the inherent complexities of USB-C interfaces can create bottlenecks and stability issues when handling high-speed network throughput.",
+      "summary_zh": "本文探討了將 WisdPi 10G 乙太網路擴充卡應用於 Framework 筆記型電腦時所面臨的性能與設計挑戰。文中強調了 USB-C 介面在處理高速網路傳輸時，其內在複雜性可能會引發瓶頸及穩定性問題。",
+      "keywords": [
+        "Framework",
+        "10G Ethernet",
+        "USB-C",
+        "WisdPi",
+        "Hardware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on testing and performance analysis of specific hardware, centered on empirical experience with the device.",
+      "pacer_reason_zh": "內容重點在於特定硬體的測試與性能分析，並基於實際操作與實驗經驗進行說明。"
+    },
     {
       "id": "62904a7a6bf0602e",
       "title": "The most wonderful thing that happened to Tommy McHugh",
