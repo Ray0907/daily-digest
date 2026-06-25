@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 24 Jun 2026 22:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:28:10 GMT</lastBuildDate>
     
+    <item>
+      <title>US Subways Build Too Many Cross Passages</title>
+      <link>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</link>
+      <guid>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</guid>
+      <pubDate>Thu, 25 Jun 2026 13:55:49 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article critiques the over-engineering of cross passages in US subway construction, arguing that current practices lead to excessive costs and delays. The author suggests that simplifying these designs is a key opportunity to improve the efficiency of transit infrastructure delivery.</description>
+    </item>
+
+    <item>
+      <title>Scrutineer: scanning open source without flooding maintainers</title>
+      <link>https://nesbitt.io/2026/06/25/scrutineer.html</link>
+      <guid>https://nesbitt.io/2026/06/25/scrutineer.html</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>Scrutineer is a tool designed to automate the security vulnerability reporting process in open-source projects by filtering AI-generated findings before they reach maintainers. By vetting and drafting fixes for vulnerabilities through a skill-based pipeline, it prevents maintainer burnout while improving the efficiency of the remediation process.</description>
+    </item>
+
+    <item>
+      <title>Hart’s theorem</title>
+      <link>https://www.johndcook.com/blog/2026/06/25/harts-theorem/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/25/harts-theorem/</guid>
+      <pubDate>Thu, 25 Jun 2026 19:20:09 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>Hart's theorem describes a geometric property where the inscribed and escribed circles of a circular triangle are all tangent to a common circle or line. This post introduces the theorem's definition, which applies to figures formed by circular arcs.</description>
+    </item>
+
+    <item>
+      <title>Incircles and Excircles of Pythagorean triangles</title>
+      <link>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</guid>
+      <pubDate>Thu, 25 Jun 2026 14:35:52 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the geometric properties of Pythagorean triangles by connecting incircles and excircles. It specifically examines a mathematical relationship between the radii of these circles and the sides of right-angled triangles.</description>
+    </item>
+
+    <item>
+      <title>Consecutive Pythagorean triangle sides</title>
+      <link>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:14 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores the mathematical derivation of Pythagorean triples where the legs or the hypotenuse are consecutive integers. It references historical work on finding squares of consecutive numbers to identify these specific geometric relationships.</description>
+    </item>
+
+    <item>
+      <title>The Star Trek lemma</title>
+      <link>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</guid>
+      <pubDate>Thu, 25 Jun 2026 02:38:42 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author discusses discovering a concept called 'The Star Trek Lemma' in a book by his former officemate, Arthur Baragar. He explores the origin and mathematical implications of this intriguing term found in the book's table of contents.</description>
+    </item>
+
+    <item>
+      <title>Raymond’s hot take on Hainanese chicken</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</guid>
+      <pubDate>Thu, 25 Jun 2026 14:00:01 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post is a brief, humorous observation regarding the nuances of Hainanese chicken. It reflects the author's personal take on the dish within the context of his long-running blog.</description>
+    </item>
+
+    <item>
+      <title>The case of the DLL that was not present in memory despite not being formally unloaded, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467</guid>
+      <pubDate>Thu, 25 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post begins a technical investigation into a Windows memory management mystery involving a DLL that disappeared from memory without being explicitly unloaded. It highlights the troubleshooting process for complex system behavior anomalies.</description>
+    </item>
+
+    <item>
+      <title>Cancellation of Windows Runtime activities is asynchronous</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post clarifies that cancelling Windows Runtime activities is an asynchronous process. It explains that requesting a cancellation does not imply the system will wait for immediate confirmation of the task's termination.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This blog post offers a satirical commentary on software engineering frustrations, specifically targeting the unpredictable behaviors of programming languages. It highlights the recurring nature of certain technical pitfalls that developers encounter despite repeated experiences.</description>
+    </item>
+
+    <item>
+      <title>simonw/browser-compat-db</title>
+      <link>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</guid>
+      <pubDate>Wed, 24 Jun 2026 23:59:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces a project that converts Mozilla's comprehensive browser compatibility data into a queryable SQLite database. The project uses an automated GitHub Actions workflow to build the database and host it with open CORS headers for easy exploration via Datasette Lite.</description>
+    </item>
+
     <item>
       <title>How we’ll fight the platform war against Big AI</title>
       <link>https://anildash.com/2026/06/23/fight-ai-platform-war/</link>
@@ -805,105 +904,6 @@
       <pubDate>Tue, 16 Jun 2026 17:27:51 GMT</pubDate>
       <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
       <description>Historian Ada Palmer argues that Machiavelli is frequently misinterpreted and that his complex relationship with power was shaped by intense personal suffering. The discussion sheds light on why a man who was tortured by a regime would ultimately seek to serve it.</description>
-    </item>
-
-    <item>
-      <title>Lean, not backpressure</title>
-      <link>https://entropicthoughts.com/lean-not-backpressure</link>
-      <guid>https://entropicthoughts.com/lean-not-backpressure</guid>
-      <pubDate>Mon, 15 Jun 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author critiques the use of 'backpressure' to describe systems handling AI-generated code, arguing that the term implies slowing down rather than changing quality standards. Instead, the author proposes 'lean manufacturing' as a more accurate analogy for managing unstable, high-volume inputs.</description>
-    </item>
-
-    <item>
-      <title>How Open Source Projects Change Hands</title>
-      <link>https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</link>
-      <guid>https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</guid>
-      <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article explores the mechanisms and vulnerabilities surrounding the transfer of open-source project maintainership. It examines various methods of succession, from personal handoffs and GitHub account settings to formal registry adoption processes, highlighting the lack of robust infrastructure for project continuity.</description>
-    </item>
-
-    <item>
-      <title>Partial fraction decomposition</title>
-      <link>https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</guid>
-      <pubDate>Tue, 16 Jun 2026 17:56:27 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>Partial fraction decomposition is primarily taught in calculus as a technique for integrating rational functions by breaking them into simpler, integrable terms. This post highlights how the concept is often treated narrowly in classrooms and implies broader applications beyond simple integration.</description>
-    </item>
-
-    <item>
-      <title>Three examples suffice</title>
-      <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:14:01 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical principle that while finite examples are usually insufficient to prove a theorem, there are specific contexts where they suffice. The author uses the relationship between pentagonal and triangular numbers to illustrate how numerical patterns can be verified through concrete examples.</description>
-    </item>
-
-    <item>
-      <title>Testing pentagonal numbers</title>
-      <link>https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:57:54 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explains the formula for calculating pentagonal numbers and introduces the concept of generalized pentagonal numbers. It explores the mathematical properties of these sequences and how to compute them for both positive and non-positive integers.</description>
-    </item>
-
-    <item>
-      <title>The time the x86 emulator team found code so bad that they fixed it during emulation</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</guid>
-      <pubDate>Mon, 15 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a specific instance where the x86 emulator team encountered exceptionally poor code. To ensure system stability and performance, the team implemented real-time fixes during the emulation process.</description>
-    </item>
-
-    <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on their 1990s experience with 'Two Way TV,' an early interactive television experiment from the BBC. This post provides a nostalgic look at the hardware and functionality of the forgotten technology used to play along with live game shows.</description>
-    </item>
-
-    <item>
-      <title>Debugging on Prod </title>
-      <link>https://idiallo.com/blog/debugging-on-prod</link>
-      <guid>https://idiallo.com/blog/debugging-on-prod</guid>
-      <pubDate>Tue, 16 Jun 2026 20:18:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author recounts their struggle debugging a production-only error triggered by AI-generated refactoring code. The issue was eventually identified as an infinite recursion bug within a third-party Markdown library that behaved unexpectedly due to environment differences.</description>
-    </item>
-
-    <item>
-      <title>Quoting Georgi Gerganov</title>
-      <link>https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 16:04:59 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Georgi Gerganov shares his practical experience using the Qwen3.6-27B model for daily coding maintenance tasks. He describes his lightweight workflow using an offline agent and custom system prompts to align the model with his personal coding style.</description>
-    </item>
-
-    <item>
-      <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
-      <link>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 05:20:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article critiques current export controls that misidentify defensive AI code-fixing capabilities as dangerous jailbreaks. It argues that banning models for their ability to patch vulnerabilities hinders essential cybersecurity work rather than preventing actual cyber attacks.</description>
-    </item>
-
-    <item>
-      <title>Quoting Matteo Wong, The Atlantic</title>
-      <link>https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 03:07:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights an excerpt from The Atlantic regarding Anthropic's engagement with cybersecurity experts to evaluate AI safety. It demonstrates how models can be prompted to perform security tasks while navigating jailbreak restrictions through specific framing.</description>
     </item>
   </channel>
 </rss>

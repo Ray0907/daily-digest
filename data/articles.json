@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-06-24T22:26:26.837Z",
+  "last_updated": "2026-06-25T22:28:10.328Z",
   "articles": [
+    {
+      "id": "b0e7422f718c8581",
+      "title": "US Subways Build Too Many Cross Passages",
+      "url": "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-25T13:55:49.000Z",
+      "summary_en": "This article critiques the over-engineering of cross passages in US subway construction, arguing that current practices lead to excessive costs and delays. The author suggests that simplifying these designs is a key opportunity to improve the efficiency of transit infrastructure delivery.",
+      "summary_zh": "本文批評美國地鐵建設中過度設計橫向通道的問題，指出目前的做法導致了過高的成本與施工延宕。作者認為簡化這些設計是提升公共運輸基礎建設效率的關鍵機會。",
+      "keywords": [
+        "subway",
+        "transit infrastructure",
+        "construction",
+        "civil engineering",
+        "public transit"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of infrastructure design flaws and theoretical improvements for transit delivery.",
+      "pacer_reason_zh": "本文針對基礎建設設計缺失及交通運輸交付的理論改善提供了概念性分析。"
+    },
+    {
+      "id": "5c459d947627deed",
+      "title": "Scrutineer: scanning open source without flooding maintainers",
+      "url": "https://nesbitt.io/2026/06/25/scrutineer.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-25T10:00:00.000Z",
+      "summary_en": "Scrutineer is a tool designed to automate the security vulnerability reporting process in open-source projects by filtering AI-generated findings before they reach maintainers. By vetting and drafting fixes for vulnerabilities through a skill-based pipeline, it prevents maintainer burnout while improving the efficiency of the remediation process.",
+      "summary_zh": "Scrutineer 是一款旨在自動化開源專案安全漏洞回報流程的工具，透過在結果提交給維護者之前進行篩選，有效過濾 AI 產出的雜訊。該工具利用基於技能的流水線來驗證並草擬修復方案，不僅提升了修復效率，也避免了過度轟炸維護者導致的倦怠。",
+      "keywords": [
+        "Scrutineer",
+        "Open Source",
+        "Security",
+        "AI",
+        "Vulnerability Management"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains the functional purpose and operational workflow of the Scrutineer tool, describing how it scans repositories and automates the triage process.",
+      "pacer_reason_zh": "本文解釋了 Scrutineer 工具的功能目的與作業流程，說明它是如何掃描儲存庫並自動化分類與回報流程。"
+    },
+    {
+      "id": "7aa44e4259c4296f",
+      "title": "Hart’s theorem",
+      "url": "https://www.johndcook.com/blog/2026/06/25/harts-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-25T19:20:09.000Z",
+      "summary_en": "Hart's theorem describes a geometric property where the inscribed and escribed circles of a circular triangle are all tangent to a common circle or line. This post introduces the theorem's definition, which applies to figures formed by circular arcs.",
+      "summary_zh": "哈特定理（Hart's theorem）描述了一種幾何特性，即由圓弧組成的三角形，其內切圓與三個旁切圓都與同一個圓或直線相切。本文介紹了該定理的定義及其在圓弧幾何中的應用。",
+      "keywords": [
+        "Hart's theorem",
+        "geometry",
+        "circles",
+        "tangency",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and provides a conceptual definition of the theorem.",
+      "pacer_reason_zh": "本文解釋了一個數學概念，並提供了該定理的概念性定義。"
+    },
+    {
+      "id": "b5c006d4831935b7",
+      "title": "Incircles and Excircles of Pythagorean triangles",
+      "url": "https://www.johndcook.com/blog/2026/06/25/incircle-excircle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-25T14:35:52.000Z",
+      "summary_en": "This article explores the geometric properties of Pythagorean triangles by connecting incircles and excircles. It specifically examines a mathematical relationship between the radii of these circles and the sides of right-angled triangles.",
+      "summary_zh": "本文探討了畢氏三角形（直角三角形）的幾何特性，並連結了內切圓與旁切圓的關係。文章重點分析了這些圓的半徑與直角三角形三邊長之間有趣的數學關聯。",
+      "keywords": [
+        "Pythagorean triples",
+        "incircle",
+        "excircle",
+        "geometry",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining mathematical concepts and theoretical connections between geometric properties.",
+      "pacer_reason_zh": "內容重點在於解釋數學概念以及幾何屬性之間的理論關聯。"
+    },
+    {
+      "id": "a61fde3a2e3b8bd8",
+      "title": "Consecutive Pythagorean triangle sides",
+      "url": "https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-25T12:00:14.000Z",
+      "summary_en": "This post explores the mathematical derivation of Pythagorean triples where the legs or the hypotenuse are consecutive integers. It references historical work on finding squares of consecutive numbers to identify these specific geometric relationships.",
+      "summary_zh": "本文探討了勾股數中包含連續整數邊（兩股相鄰或股與斜邊相鄰）的數學推導。文中引用了關於兩連續數平方和為平方數的歷史研究，以此識別這些特殊的幾何關係。",
+      "keywords": [
+        "Pythagorean triples",
+        "Number theory",
+        "Geometry",
+        "Mathematics",
+        "Consecutive integers"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the mathematical theory and derivation behind specific types of Pythagorean triples.",
+      "pacer_reason_zh": "本文解釋了特定類型勾股數背後的數學理論與推導過程。"
+    },
+    {
+      "id": "60afa7feb11361a6",
+      "title": "The Star Trek lemma",
+      "url": "https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-25T02:38:42.000Z",
+      "summary_en": "The author discusses discovering a concept called 'The Star Trek Lemma' in a book by his former officemate, Arthur Baragar. He explores the origin and mathematical implications of this intriguing term found in the book's table of contents.",
+      "summary_zh": "作者在瀏覽其前同事 Arthur Baragar 的著作時，意外發現了名為「星際迷航引理」(The Star Trek Lemma) 的概念。他探討了這個術語的出處以及其背後的數學意義。",
+      "keywords": [
+        "John D. Cook",
+        "Arthur Baragar",
+        "The Star Trek Lemma",
+        "Mathematics",
+        "Books"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post introduces and explains the conceptual origin of a specific mathematical term.",
+      "pacer_reason_zh": "這篇文章介紹並解釋了特定數學術語的概念性起源。"
+    },
+    {
+      "id": "c05c78135b69b63d",
+      "title": "Raymond’s hot take on Hainanese chicken",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-25T14:00:01.000Z",
+      "summary_en": "This post is a brief, humorous observation regarding the nuances of Hainanese chicken. It reflects the author's personal take on the dish within the context of his long-running blog.",
+      "summary_zh": "這篇文章簡短地分享了作者對於海南雞飯的個人看法與觀察。這是作者在其長期經營的部落格中所發布的一篇趣味性短文。",
+      "keywords": [
+        "Hainanese chicken",
+        "food",
+        "The Old New Thing",
+        "Raymond Chen",
+        "blog"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a brief subjective perspective rather than technical instructions or data.",
+      "pacer_reason_zh": "該文章提供的是主觀觀點分享，而非技術指南或數據分析。"
+    },
+    {
+      "id": "0e2d5c0731b56b27",
+      "title": "The case of the DLL that was not present in memory despite not being formally unloaded, part 1",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-25T14:00:00.000Z",
+      "summary_en": "This post begins a technical investigation into a Windows memory management mystery involving a DLL that disappeared from memory without being explicitly unloaded. It highlights the troubleshooting process for complex system behavior anomalies.",
+      "summary_zh": "本文探討了一個 Windows 記憶體管理的技術難題，關於一個未經正式卸載卻從記憶體中消失的 DLL。文章記錄了針對此類系統行為異常的排查分析過程。",
+      "keywords": [
+        "DLL",
+        "Windows",
+        "Memory Management",
+        "Debugging",
+        "System Internals"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a specific technical case study of a system behavior anomaly, fitting the evidence/investigation category.",
+      "pacer_reason_zh": "本文以具體的系統行為異常案例進行調查與分析，符合實證研究與案例分析的類別。"
+    },
+    {
+      "id": "ad33f46a5119c5b3",
+      "title": "Cancellation of Windows Runtime activities is asynchronous",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-24T14:00:00.000Z",
+      "summary_en": "This post clarifies that cancelling Windows Runtime activities is an asynchronous process. It explains that requesting a cancellation does not imply the system will wait for immediate confirmation of the task's termination.",
+      "summary_zh": "這篇文章說明取消 Windows Runtime 活動是一個非同步過程。它強調要求取消並不代表系統會等待任務確實終止的確認訊息。",
+      "keywords": [
+        "Windows Runtime",
+        "asynchronous",
+        "cancellation",
+        "programming",
+        "WinRT"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how asynchronous cancellation functions in the Windows Runtime architecture.",
+      "pacer_reason_zh": "本文針對 Windows Runtime 架構中非同步取消機制的運作方式，提供了概念性的解釋。"
+    },
+    {
+      "id": "7cbd68057c546935",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-06-25T00:00:00.000Z",
+      "summary_en": "This blog post offers a satirical commentary on software engineering frustrations, specifically targeting the unpredictable behaviors of programming languages. It highlights the recurring nature of certain technical pitfalls that developers encounter despite repeated experiences.",
+      "summary_zh": "這篇部落格文章以諷刺的角度探討了軟體工程中的挫折感，特別是針對程式語言中難以預測的行為。文章強調了開發者即使經歷多次，仍不斷遇見相同技術坑洞的無奈現狀。",
+      "keywords": [
+        "programming",
+        "software engineering",
+        "satire",
+        "debugging",
+        "tech culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual commentary on the culture and lived experience of software development.",
+      "pacer_reason_zh": "該文章作為對軟體開發文化與經驗的觀念性評論。"
+    },
+    {
+      "id": "802363aee5105ca5",
+      "title": "simonw/browser-compat-db",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-24T23:59:03.000Z",
+      "summary_en": "Simon Willison introduces a project that converts Mozilla's comprehensive browser compatibility data into a queryable SQLite database. The project uses an automated GitHub Actions workflow to build the database and host it with open CORS headers for easy exploration via Datasette Lite.",
+      "summary_zh": "Simon Willison 介紹了一個將 Mozilla 瀏覽器相容性資料轉換為可查詢 SQLite 資料庫的專案。該專案利用 GitHub Actions 自動化建置流程，並透過開啟 CORS 標頭，讓使用者能輕鬆透過 Datasette Lite 進行探索。",
+      "keywords": [
+        "SQLite",
+        "browser-compat-data",
+        "GitHub Actions",
+        "Datasette Lite",
+        "CORS"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the implementation process and provides scripts/workflows for creating and hosting a custom database.",
+      "pacer_reason_zh": "本文描述了實作過程，並提供了用於建立與託管自定義資料庫的腳本與工作流程。"
+    },
     {
       "id": "75ca1ca835efdb24",
       "title": "How we’ll fight the platform war against Big AI",

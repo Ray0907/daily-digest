@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "7aa44e4259c4296f",
+      "title": "Hart’s theorem",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/25/harts-theorem/",
+      "pacer": "C",
+      "keywords": [
+        "Hart's theorem",
+        "geometry",
+        "circles",
+        "tangency",
+        "mathematics"
+      ],
+      "published": "2026-06-25T19:20:09.000Z"
+    },
+    {
+      "id": "b5c006d4831935b7",
+      "title": "Incircles and Excircles of Pythagorean triangles",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/25/incircle-excircle/",
+      "pacer": "C",
+      "keywords": [
+        "Pythagorean triples",
+        "incircle",
+        "excircle",
+        "geometry",
+        "mathematics"
+      ],
+      "published": "2026-06-25T14:35:52.000Z"
+    },
+    {
+      "id": "c05c78135b69b63d",
+      "title": "Raymond’s hot take on Hainanese chicken",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469",
+      "pacer": "C",
+      "keywords": [
+        "Hainanese chicken",
+        "food",
+        "The Old New Thing",
+        "Raymond Chen",
+        "blog"
+      ],
+      "published": "2026-06-25T14:00:01.000Z"
+    },
+    {
+      "id": "0e2d5c0731b56b27",
+      "title": "The case of the DLL that was not present in memory despite not being formally unloaded, part 1",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "pacer": "E",
+      "keywords": [
+        "DLL",
+        "Windows",
+        "Memory Management",
+        "Debugging",
+        "System Internals"
+      ],
+      "published": "2026-06-25T14:00:00.000Z"
+    },
+    {
+      "id": "b0e7422f718c8581",
+      "title": "US Subways Build Too Many Cross Passages",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
+      "pacer": "C",
+      "keywords": [
+        "subway",
+        "transit infrastructure",
+        "construction",
+        "civil engineering",
+        "public transit"
+      ],
+      "published": "2026-06-25T13:55:49.000Z"
+    },
+    {
+      "id": "a61fde3a2e3b8bd8",
+      "title": "Consecutive Pythagorean triangle sides",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/",
+      "pacer": "C",
+      "keywords": [
+        "Pythagorean triples",
+        "Number theory",
+        "Geometry",
+        "Mathematics",
+        "Consecutive integers"
+      ],
+      "published": "2026-06-25T12:00:14.000Z"
+    },
+    {
+      "id": "5c459d947627deed",
+      "title": "Scrutineer: scanning open source without flooding maintainers",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/25/scrutineer.html",
+      "pacer": "P",
+      "keywords": [
+        "Scrutineer",
+        "Open Source",
+        "Security",
+        "AI",
+        "Vulnerability Management"
+      ],
+      "published": "2026-06-25T10:00:00.000Z"
+    },
+    {
+      "id": "60afa7feb11361a6",
+      "title": "The Star Trek lemma",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/",
+      "pacer": "C",
+      "keywords": [
+        "John D. Cook",
+        "Arthur Baragar",
+        "The Star Trek Lemma",
+        "Mathematics",
+        "Books"
+      ],
+      "published": "2026-06-25T02:38:42.000Z"
+    },
+    {
+      "id": "7cbd68057c546935",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/",
+      "pacer": "C",
+      "keywords": [
+        "programming",
+        "software engineering",
+        "satire",
+        "debugging",
+        "tech culture"
+      ],
+      "published": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "802363aee5105ca5",
+      "title": "simonw/browser-compat-db",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "SQLite",
+        "browser-compat-data",
+        "GitHub Actions",
+        "Datasette Lite",
+        "CORS"
+      ],
+      "published": "2026-06-24T23:59:03.000Z"
+    },
+    {
       "id": "00d10d8ac734f04d",
       "title": "Blogging Can Just Be Stating The Obvious",
       "source": "Jim Nielsen’s Blog",
@@ -31,6 +191,22 @@
         "AI"
       ],
       "published": "2026-06-24T18:13:51.000Z"
+    },
+    {
+      "id": "ad33f46a5119c5b3",
+      "title": "Cancellation of Windows Runtime activities is asynchronous",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465",
+      "pacer": "C",
+      "keywords": [
+        "Windows Runtime",
+        "asynchronous",
+        "cancellation",
+        "programming",
+        "WinRT"
+      ],
+      "published": "2026-06-24T14:00:00.000Z"
     },
     {
       "id": "5358aed48042fcc8",
@@ -369,22 +545,6 @@
       "published": "2026-06-22T23:59:53.000Z"
     },
     {
-      "id": "d0f14fad967a5b0a",
-      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Moebius",
-        "WebGPU",
-        "Inpainting",
-        "Browser-based AI",
-        "Simon Willison"
-      ],
-      "published": "2026-06-22T23:43:51.000Z"
-    },
-    {
       "id": "b17c85a4c4ea4418",
       "title": "Tagged data in Haskell (SICP 2.4.2)",
       "source": "Entropic Thoughts",
@@ -399,22 +559,6 @@
         "Programming"
       ],
       "published": "2026-06-22T22:00:00.000Z"
-    },
-    {
-      "id": "de1436f1f1d77bb6",
-      "title": "Lobachevsky’s integral formula",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/",
-      "pacer": "C",
-      "keywords": [
-        "Lobachevsky",
-        "integral",
-        "Fourier analysis",
-        "signal processing",
-        "mathematics"
-      ],
-      "published": "2026-06-22T20:02:47.000Z"
     },
     {
       "id": "57c8e5d35aa573e7",
@@ -529,22 +673,6 @@
       "published": "2026-06-22T02:43:33.000Z"
     },
     {
-      "id": "431c82f8ddcf406e",
-      "title": "Queens on a prime order board",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/21/queens-prime/",
-      "pacer": "C",
-      "keywords": [
-        "n-queens problem",
-        "mathematics",
-        "prime numbers",
-        "chessboard",
-        "algorithm"
-      ],
-      "published": "2026-06-22T00:21:44.000Z"
-    },
-    {
       "id": "ae905cb76449460c",
       "title": "Expert-aware quantisation: near-Q4 quality at near-Q2 size?",
       "source": "Martin Alderson",
@@ -607,22 +735,6 @@
         "cultural criticism"
       ],
       "published": "2026-06-21T00:00:00.000Z"
-    },
-    {
-      "id": "3f450b49b49012d2",
-      "title": "All pieces on a 6 by 5 board",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/20/z3-python-claude/",
-      "pacer": "E",
-      "keywords": [
-        "LLM",
-        "Z3",
-        "Python",
-        "Chess Puzzle",
-        "Constraint Programming"
-      ],
-      "published": "2026-06-20T21:41:16.000Z"
     },
     {
       "id": "d4c1f3c98f9fe54b",
@@ -801,22 +913,6 @@
       "published": "2026-06-19T16:00:22.000Z"
     },
     {
-      "id": "95f4cab02e0289b6",
-      "title": "What does it mean when the bottom bit of my HMODULE is set?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447",
-      "pacer": "C",
-      "keywords": [
-        "HMODULE",
-        "Windows API",
-        "programming",
-        "system internals",
-        "The Old New Thing"
-      ],
-      "published": "2026-06-19T14:00:00.000Z"
-    },
-    {
       "id": "383218cecfcd928b",
       "title": "Converting Coal Plants to Natural Gas",
       "source": "Construction Physics",
@@ -911,22 +1007,6 @@
         "finger-friendly"
       ],
       "published": "2026-06-18T14:43:48.000Z"
-    },
-    {
-      "id": "3de53d9dc919c67f",
-      "title": "Why doesn’t Get­Last­Input­Info() return info for the user I’m impersonating?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444",
-      "pacer": "C",
-      "keywords": [
-        "GetLastInputInfo",
-        "Windows API",
-        "Impersonation",
-        "Programming",
-        "Win32"
-      ],
-      "published": "2026-06-18T14:00:00.000Z"
     },
     {
       "id": "5399a5fbfb8381a0",
@@ -1055,38 +1135,6 @@
         "Software Release"
       ],
       "published": "2026-06-17T16:40:09.000Z"
-    },
-    {
-      "id": "cc329a59c0b122da",
-      "title": "Formalizing a ring theorem with Lean 4 and Claude",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/",
-      "pacer": "E",
-      "keywords": [
-        "Lean 4",
-        "Claude",
-        "Formal Verification",
-        "Mathematics",
-        "AI"
-      ],
-      "published": "2026-06-17T14:23:51.000Z"
-    },
-    {
-      "id": "4391a69ec1e2af6e",
-      "title": "Windows stack limit checking retrospective, follow-up",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436",
-      "pacer": "C",
-      "keywords": [
-        "Windows",
-        "Stack",
-        "Registers",
-        "Memory Management",
-        "The Old New Thing"
-      ],
-      "published": "2026-06-17T14:00:00.000Z"
     },
     {
       "id": "03b677b8dd6834c9",
@@ -1425,22 +1473,6 @@
       "published": "2026-06-13T12:01:19.000Z"
     },
     {
-      "id": "729590b7deec1cf4",
-      "title": "This Week in Package Management: 13 June 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/13/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "npm",
-        "uv",
-        "pnpm",
-        "supply-chain security",
-        "package management"
-      ],
-      "published": "2026-06-13T10:00:00.000Z"
-    },
-    {
       "id": "0021f221050a70b3",
       "title": "Human Routers of Machine Words",
       "source": "Fernando Borretti",
@@ -1761,22 +1793,6 @@
       "published": "2026-06-09T13:00:23.000Z"
     },
     {
-      "id": "2232b6ec9a44004a",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-45447/",
-      "pacer": "C",
-      "keywords": [
-        "programming",
-        "software development",
-        "language design",
-        "developer experience",
-        "satire"
-      ],
-      "published": "2026-06-09T00:00:00.000Z"
-    },
-    {
       "id": "2f2be9d48272c235",
       "title": "LLMs and almost good code",
       "source": "Entropic Thoughts",
@@ -1982,22 +1998,6 @@
         "AI coding"
       ],
       "published": "2026-06-07T00:38:00.000Z"
-    },
-    {
-      "id": "a11a89f3cac21a84",
-      "title": "Reading List 06/06/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-060626",
-      "pacer": "R",
-      "keywords": [
-        "AI",
-        "real estate",
-        "synthetic diamonds",
-        "energy storage",
-        "data centers"
-      ],
-      "published": "2026-06-06T12:02:44.000Z"
     },
     {
       "id": "e2cf33ed0bc9f2a7",
