@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-06-26T22:23:39.528Z",
+  "last_updated": "2026-06-27T22:20:17.028Z",
   "articles": [
+    {
+      "id": "382bd97bc975abfb",
+      "title": "The curious case of the disappearing Polish S",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s",
+      "source": "Aresluna",
+      "source_url": "https://www.aresluna.org/",
+      "published": "2026-06-27T21:20:04.000Z",
+      "summary_en": "This article explores a persistent keyboard bug involving the Polish letter 'ś' that has remained unresolved for thirty years. It offers an updated historical investigation into this long-standing technical anomaly.",
+      "summary_zh": "本文探討了一個關於波蘭語字母「ś」的鍵盤臭蟲，該問題困擾了使用者長達三十年之久。這是一篇針對該長期技術異常現象的更新版歷史調查。",
+      "keywords": [
+        "keyboard bug",
+        "Polish language",
+        "software history",
+        "technical anomaly",
+        "computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual exploration and historical narrative of a specific technical bug.",
+      "pacer_reason_zh": "本文作為對特定技術錯誤的概念性探討與歷史敘事。"
+    },
+    {
+      "id": "21a0663ffa001778",
+      "title": "Hazy Memory",
+      "url": "https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-06-27T14:09:29.000Z",
+      "summary_en": "This article examines the current RAM shortage, exploring Micron's perspective that aggressive customer pricing led to reduced capital investment and subsequent supply issues. The author reflects on the cyclical nature of memory production and recalls historical precedents like the 1980s Nintendo cartridge shortage.",
+      "summary_zh": "本文探討了當前的記憶體（RAM）短缺問題，分析了美光（Micron）對於客戶壓低價格導致資本投資減少並引發供應鏈危機的看法。作者同時反思了記憶體產業的週期性，並回顧了歷史上如 1980 年代任天堂卡匣短缺等案例。",
+      "keywords": [
+        "RAM",
+        "Micron",
+        "supply chain",
+        "semiconductors",
+        "memory market"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'why' behind the current memory shortage by analyzing industry logic and economic cycles.",
+      "pacer_reason_zh": "本文解釋了當前記憶體短缺的背景與成因，分析了產業邏輯與經濟週期。"
+    },
+    {
+      "id": "c492058e1b20484f",
+      "title": "Reading List 06/27/26",
+      "url": "https://www.construction-physics.com/p/reading-list-062726",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-06-27T12:02:02.000Z",
+      "summary_en": "This blog post explores various systemic challenges in the construction industry, including regulatory hurdles, supply chain inefficiencies, and the scarcity of developable land. It highlights specific cost drivers and structural bottlenecks impacting current US housing development.",
+      "summary_zh": "這篇部落格文章探討了建築業面臨的多種系統性挑戰，包括法規障礙、供應鏈效率低下以及可開發土地稀缺等問題。文中分析了影響美國當前住房開發的特定成本驅動因素與結構性瓶頸。",
+      "keywords": [
+        "construction",
+        "housing policy",
+        "supply chain",
+        "urban planning",
+        "industry trends"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a curated list of links and topics regarding construction industry news and analysis.",
+      "pacer_reason_zh": "該內容為針對建築產業新聞與分析的精選清單與主題匯編。"
+    },
+    {
+      "id": "415fc6b827df885e",
+      "title": "This Week in Package Management: 27 June 2026",
+      "url": "https://nesbitt.io/2026/06/27/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-27T10:00:00.000Z",
+      "summary_en": "This post provides a weekly roundup of significant updates across various package management tools including Spack, pnpm, pixi, uv, and RubyGems. It highlights new features, performance improvements, and security enhancements introduced in the latest versions of these development utilities.",
+      "summary_zh": "本文章整理了本週各類套件管理工具的重要更新，包含 Spack、pnpm、pixi、uv 與 RubyGems 等。文中重點介紹了這些開發工具在最新版本中所加入的新功能、效能優化與安全性增強。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "developer tools",
+        "Spack",
+        "pnpm"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference digest, listing specific updates, version releases, and feature changes for various software tools.",
+      "pacer_reason_zh": "本文屬於參考資料類型，條列了各項軟體工具的更新內容、版本發佈資訊與功能異動。"
+    },
+    {
+      "id": "e8ab4667f2aaf07c",
+      "title": "When will the decimals in a/b repeat?",
+      "url": "https://www.johndcook.com/blog/2026/06/27/decimal-period/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-27T18:12:03.000Z",
+      "summary_en": "This article explores the mathematical rules governing the repeating decimal cycles of rational fractions. It provides practical code examples to calculate the period length of these repeating decimals.",
+      "summary_zh": "本文探討了有理分數循環小數的數學規律。作者透過程式碼範例，說明如何計算分數轉為小數後的循環週期長度。",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "repeating decimals",
+        "period length",
+        "coding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on providing code and methods to calculate the period length of decimals, functioning as a technical tutorial.",
+      "pacer_reason_zh": "本文重點在於提供程式碼與計算方法來求得小數的循環週期，屬於技術實作指南。"
+    },
+    {
+      "id": "c9ebee9830dd2cf3",
+      "title": "Height of harmonic numbers",
+      "url": "https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-27T12:51:42.000Z",
+      "summary_en": "This post provides a visual analysis of the height of harmonic numbers, specifically examining the number of bits required for their numerators and denominators. It follows up on previous theoretical work by presenting plots that illustrate the growth of these values.",
+      "summary_zh": "本文針對調和數的高度進行了視覺化分析，特別探討了其分子與分母所需的位元數。這是前一篇理論文章的後續，透過圖表展示了這些數值的增長趨勢。",
+      "keywords": [
+        "harmonic numbers",
+        "asymptotics",
+        "number theory",
+        "data visualization",
+        "mathematics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on presenting empirical plots and visual data to analyze the growth patterns of harmonic numbers.",
+      "pacer_reason_zh": "該文章側重於呈現實證圖表與視覺化數據，以分析調和數的增長模式。"
+    },
+    {
+      "id": "6ebb675458331f85",
+      "title": "Writing down harmonic numbers",
+      "url": "https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-27T01:51:03.000Z",
+      "summary_en": "This article explores the mathematical representation of harmonic numbers, focusing on expressing them as fractions with a common denominator of n!. It explains how the numerator p is derived and discusses the properties of these sums.",
+      "summary_zh": "本文探討了調和數的數學表達式，重點在於將其表示為分母為 n! 的分數。文中解釋了分子 p 的推導方式，並討論了這些數列的相關數學特性。",
+      "keywords": [
+        "harmonic numbers",
+        "mathematics",
+        "fractions",
+        "number theory",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its derivation rather than providing a tutorial or a list.",
+      "pacer_reason_zh": "本文旨在解釋數學概念及其推導過程，而非提供教學或清單。"
+    },
+    {
+      "id": "25428b22830ed2f4",
+      "title": "The case of the DLL that was not present in memory despite not being formally unloaded, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-26T14:00:00.000Z",
+      "summary_en": "This post continues an investigation into an anomalous Windows behavior where a DLL appears missing from memory without an explicit unload call. It focuses on linking two separate software bugs to explain the underlying root cause.",
+      "summary_zh": "本文延續對 Windows 異常現象的調查，探討為何 DLL 在未被明確卸載的情況下卻從記憶體中消失。文章重點在於分析並串聯兩個相關的軟體錯誤，以釐清其根本原因。",
+      "keywords": [
+        "Windows",
+        "DLL",
+        "Debugging",
+        "Memory Management",
+        "The Old New Thing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a technical case study investigating specific software behavior and bug resolution.",
+      "pacer_reason_zh": "本文屬於技術案例研究，深入探討特定的軟體行為異常與錯誤排除過程。"
+    },
+    {
+      "id": "2c0418d6bcf9330c",
+      "title": "Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-27T11:14:05.000Z",
+      "summary_en": "This post explores the history of Belarusian dissidents who used whimsical flash mobs to protest the authoritarian Lukashenka regime. It draws a parallel between these historical protests and Mark Zuckerberg's recent aggressive legal actions against whistleblowers.",
+      "summary_zh": "這篇文章回顧了白俄羅斯異議人士當年如何透過荒誕的快閃活動來抗議盧卡申科獨裁政權。同時，作者將此歷史案例與祖克柏近期對吹哨者所採取的激進法律行動進行了對比分析。",
+      "keywords": [
+        "Whistleblowers",
+        "Lukashenka",
+        "Zuckerberg",
+        "Protest",
+        "Authoritarianism"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical parallel of Belarusian dissident tactics to frame and criticize current corporate actions by Meta.",
+      "pacer_reason_zh": "本文透過引用白俄羅斯異議人士的抗爭策略作為類比，藉此批評祖克柏目前的企業行為。"
+    },
+    {
+      "id": "a70c63f6d49dd592",
+      "title": "All Chinese Models Will Be Illegal in 3... 2... 1... ",
+      "url": "https://idiallo.com/blog/all-chinese-models-will-be-illegal",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-27T03:32:38.000Z",
+      "summary_en": "The article argues that the U.S. government may soon ban Chinese AI models like DeepSeek to protect domestic companies from competition, drawing a parallel to the import restrictions on BYD electric vehicles. The author suggests that these regulations are driven by corporate lobbying under the guise of safety, urging readers to download open-weight models before potential restrictions take effect.",
+      "summary_zh": "本文指出美國政府可能會以「安全政策」為由封殺 DeepSeek 等中國 AI 模型，以保護本土科技巨頭的市場地位，並將其與比亞迪電動車在美面臨的市場准入限制進行類比。作者認為這些監管背後隱含商業遊說動機，並建議讀者在法規落實前先行下載開源模型。",
+      "keywords": [
+        "AI Regulation",
+        "DeepSeek",
+        "Geopolitics",
+        "Open Source AI",
+        "Tech Policy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article primarily uses the analogy of BYD electric vehicle import bans to argue for a predicted upcoming restriction on Chinese AI models.",
+      "pacer_reason_zh": "本文主要透過比亞迪電動車遭禁止進口的案例進行類比，藉此推論未來中國 AI 模型也將面臨類似的監管封殺。"
+    },
+    {
+      "id": "326afa476552b192",
+      "title": "Quoting Dean W. Ball",
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-26T22:25:46.000Z",
+      "summary_en": "This post discusses the economic pressures facing AI frontier model developers, highlighting the narrow window of profitability before models become obsolete. It also addresses the reliance of massive infrastructure investments on a global market, which could be threatened by restrictive government access policies.",
+      "summary_zh": "本文探討了人工智慧前沿模型開發商面臨的經濟壓力，強調了模型在變舊之前獲利的時間視窗非常短暫。同時也指出，龐大的基礎設施投資依賴於全球市場，若政府實施嚴格的訪問限制，將對此商業模式構成威脅。",
+      "keywords": [
+        "AI economics",
+        "frontier models",
+        "AI infrastructure",
+        "market dynamics",
+        "US policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual business dynamics and economic challenges inherent in the current AI industry landscape.",
+      "pacer_reason_zh": "內容解釋了當前人工智慧產業格局中內在的商業動態與經濟挑戰，屬於概念性分析。"
+    },
+    {
+      "id": "7949fda4481ba2ad",
+      "title": "Saying the obvious thing",
+      "url": "https://seangoedecke.com/saying-the-obvious-thing/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-06-27T00:00:00.000Z",
+      "summary_en": "This article explores the concept of articulating obvious truths and their role in communication. It reflects on why stating the self-evident is often necessary for clarity and alignment in discourse.",
+      "summary_zh": "本文探討了闡述顯而易見的事實及其在溝通中的作用。文章反思了為什麼在對話中明確表達這些常識對於達成共識與釐清觀點至關重要。",
+      "keywords": [
+        "communication",
+        "clarity",
+        "rhetoric",
+        "obviousness",
+        "discourse"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual exploration of communication dynamics and the nature of obvious statements.",
+      "pacer_reason_zh": "本文屬於對溝通動態與明顯陳述本質的概念性探討。"
+    },
     {
       "id": "ecca1c7b462b99e9",
       "title": "My Om Malik Story",
