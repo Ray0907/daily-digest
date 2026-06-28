@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-06-27T22:20:17.028Z",
+  "last_updated": "2026-06-28T22:19:11.695Z",
   "articles": [
+    {
+      "id": "042a42259732b101",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-06-28T03:08:45.674Z",
+      "summary_en": "This article explores the historical and technical aspects of the Lemote Yeeloong laptop, which features a MIPS-based 'Godson' processor. The author examines the challenges of running OpenBSD on this niche hardware and discusses the linguistic and cultural origins of the processor's naming.",
+      "summary_zh": "這篇文章探討了搭載 MIPS 架構「龍芯」處理器的 Lemote Yeeloong 筆記型電腦之歷史與技術細節。作者分享了在該硬體上運行 OpenBSD 的挑戰，並深入解析了處理器命名背後的語言與文化意涵。",
+      "keywords": [
+        "Lemote Yeeloong",
+        "OpenBSD",
+        "MIPS",
+        "Godson",
+        "Vintage Computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the historical, linguistic, and technical conceptualization of niche hardware rather than providing a tutorial or experiment data.",
+      "pacer_reason_zh": "本文側重於探討特定硬體的歷史、語言與技術概念，而非提供操作教學或實驗數據。"
+    },
+    {
+      "id": "8d1ef6ed6b5178c5",
+      "title": "Brace expansion tree",
+      "url": "https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-28T00:33:33.000Z",
+      "summary_en": "This post analyzes a complex bash command that utilizes brace expansion to generate thirty distinct English words. It breaks down the syntax of the one-liner to demonstrate how nested shell expansions function.",
+      "summary_zh": "這篇文章分析了一行複雜的 Bash 指令，該指令利用大括號擴充功能（brace expansion）生成了三十個不同的英語單字。作者拆解了這行程式碼的語法，展示巢狀 Shell 擴充的運作原理。",
+      "keywords": [
+        "bash",
+        "brace expansion",
+        "shell",
+        "command line",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains the practical application and mechanics of a specific technical command.",
+      "pacer_reason_zh": "文章解釋了特定技術指令的實際應用與運作機制。"
+    },
+    {
+      "id": "3de6e566c817d104",
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-06-28T16:11:20.022Z",
+      "summary_en": "This article examines the hardware architecture of the Space Shuttle's I/O Processor, detailing its role in managing communication between the CPU and vehicle sensors. The author explains the function of specific circuit boards, known as 'pages,' and describes how the processor utilized early multi-threading and physical microcode fuses.",
+      "summary_zh": "本文探討了太空梭輸入/輸出處理器（IOP）的硬體架構，詳細介紹了其在處理 CPU 與車載感測器通訊中的關鍵作用。作者分析了稱為「頁面」的特定電路板功能，並描述了該處理器如何運用早期多執行緒技術及物理微碼熔絲。",
+      "keywords": [
+        "Space Shuttle",
+        "I/O Processor",
+        "IBM",
+        "microcode",
+        "hardware architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the conceptual architecture and historical technology behind the Space Shuttle's computing systems.",
+      "pacer_reason_zh": "內容重點在於解釋太空梭運算系統背後的概念性架構與歷史技術。"
+    },
+    {
+      "id": "f2297443af4aaf70",
+      "title": "Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-28T11:34:45.000Z",
+      "summary_en": "Terence Eden shares his disappointment with Bob Mortimer's 'The Hotel Avocado,' finding the sequel significantly inferior to the original. He notes that the charm of the first book has devolved into clichéd storytelling and excessive violence.",
+      "summary_zh": "Terence Eden 分享了他對 Bob Mortimer 小說《The Hotel Avocado》的失望，認為這部續集遠不如前作。他指出，首部作品中的魅力在續集中已變得陳腔濫調，且暴力元素過度氾濫。",
+      "keywords": [
+        "book review",
+        "Bob Mortimer",
+        "The Hotel Avocado",
+        "literature",
+        "reading"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal experience with reading habits and the 'regression to the mean' concept to provide a critical evaluation of a book sequel.",
+      "pacer_reason_zh": "作者透過個人的閱讀經驗與「均值回歸」的理論概念，對書本續集進行批判性評價。"
+    },
+    {
+      "id": "fff702b9fe724e9d",
+      "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-26T11:34:42.000Z",
+      "summary_en": "This review evaluates a budget-friendly third-party Gamrombo PS5 controller, highlighting its cost-effectiveness and unique lighting features. It also provides practical guidance on configuring the device for use on Linux systems.",
+      "summary_zh": "這篇評論評測了一款經濟實惠的第三方 Gamrombo PS5 控制器，強調其高性價比及獨特的燈光設計。同時，文章也提供了該設備在 Linux 系統上的配置指南。",
+      "keywords": [
+        "Gamrombo",
+        "PS5 controller",
+        "Linux",
+        "hardware review",
+        "gaming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions primarily as a hands-on review that includes a step-by-step tutorial for setting up the device on a Linux operating system.",
+      "pacer_reason_zh": "本文主要為實測評論，並包含了在 Linux 作業系統上設定該裝置的逐步教學。"
+    },
+    {
+      "id": "7386a02ead884b3a",
+      "title": "Arp 38: not that peculiar",
+      "url": "https://maurycyz.com/astro/arp38/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-06-27T00:00:00.000Z",
+      "summary_en": "This post provides an astronomical observation and imaging report of the spiral galaxy Arp 38. The author analyzes the visual structure of the galaxy, noting the absence of a companion as originally described by Arp, and details the specific equipment and processing workflow used to capture the image.",
+      "summary_zh": "這篇文章提供了螺旋星系 Arp 38 的天文觀測與成像報告。作者分析了該星系的結構，指出其並不存在 Arp 原先描述的伴星系，並詳細說明了拍攝過程中使用的器材與影像處理流程。",
+      "keywords": [
+        "Arp 38",
+        "Astronomy",
+        "Astrophotography",
+        "Galaxy",
+        "C9.25"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a technical report documenting specific imaging data, hardware settings, and processing results for an astronomical observation.",
+      "pacer_reason_zh": "內容為一份技術報告，記錄了針對特定天文觀測的成像數據、硬體設定以及處理結果。"
+    },
+    {
+      "id": "4b2ef1dcaa1d1d59",
+      "title": "The Laziest Generation ",
+      "url": "https://idiallo.com/blog/the-laziest-generation",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-28T07:00:00.000Z",
+      "summary_en": "The article uses a satirical tone to critique the common generational trope that blames modern housing unaffordability on 'reckless' spending habits like avocado toast. It highlights the stark reality of skyrocketing real estate prices compared to previous decades, demonstrating that the barrier to homeownership has fundamentally changed.",
+      "summary_zh": "本文以諷刺口吻批評了將現代青年買不起房歸咎於「揮霍」如酪梨吐司等生活習慣的觀點。文中對比了過去與現在的房價漲幅，揭示了即便節儉也難以負擔當前極高房價的社會現實。",
+      "keywords": [
+        "housing market",
+        "generational gap",
+        "real estate",
+        "economic inequality",
+        "satire"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "Uses an analogous argument comparing generational lifestyles against historical economic data to debunk a common societal trope.",
+      "pacer_reason_zh": "通過對比不同世代的生活方式與歷史經濟數據，運用類比論證來反駁常見的社會迷思。"
+    },
+    {
+      "id": "968fc5e2f5c07411",
+      "title": "Quoting Jon Udell",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-28T21:57:41.000Z",
+      "summary_en": "Jon Udell argues against the 'human-in-the-loop' framework for AI, suggesting instead that humans should maintain authority by inviting AI agents into existing workflows. This perspective shifts the narrative from being excluded by black-box automation to treating agents as collaborative team members in software development.",
+      "summary_zh": "Jon Udell 反對將 AI 視為「人在迴路中」(human-in-the-loop)，認為人類應保持主導權，將 AI 代理視為加入現有工作流程的團隊成員。這種觀點將軟體開發過程從被動的黑箱轉變為人類主導的協作模式。",
+      "keywords": [
+        "AI agents",
+        "software development",
+        "human-in-the-loop",
+        "generative AI",
+        "agentic engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content proposes a conceptual framework for redefining the relationship between humans and AI agents in software development.",
+      "pacer_reason_zh": "本文提出了一種重新定義軟體開發中人類與 AI 代理關係的概念性框架。"
+    },
     {
       "id": "382bd97bc975abfb",
       "title": "The curious case of the disappearing Polish S",
