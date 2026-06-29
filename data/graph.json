@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "4aa6b813bdb86b8d",
+      "title": "Count the number of Safari tabs",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Safari",
+        "AppleScript",
+        "automation",
+        "terminal",
+        "web browser"
+      ],
+      "published": "2026-06-29T18:36:18.000Z"
+    },
+    {
+      "id": "7ac14a1b99c8d65c",
+      "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/29/arsonist-firefighters/",
+      "pacer": "C",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "AI",
+        "search",
+        "enshittification"
+      ],
+      "published": "2026-06-29T16:34:57.000Z"
+    },
+    {
+      "id": "8edc68a0b3d08afa",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Ornith-1.0",
+        "LLM",
+        "Coding Agents",
+        "DeepReinforce",
+        "Open Weights"
+      ],
+      "published": "2026-06-29T16:17:59.000Z"
+    },
+    {
+      "id": "de9dd74e527e79f8",
+      "title": "Who you gonna believe: Grok or the docs?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/",
+      "pacer": "E",
+      "keywords": [
+        "bc",
+        "calculator",
+        "AI hallucination",
+        "Grok",
+        "POSIX"
+      ],
+      "published": "2026-06-29T12:12:05.000Z"
+    },
+    {
+      "id": "8f4efd51033924cd",
+      "title": "Unbundling the standard library",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html",
+      "pacer": "E",
+      "keywords": [
+        "Haskell",
+        "GHC",
+        "Ruby",
+        "Vulnerability",
+        "Standard Library"
+      ],
+      "published": "2026-06-29T10:00:00.000Z"
+    },
+    {
+      "id": "6f2e1891a7326a33",
+      "title": "I turned my prologue into a short video ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/byte-size/my-prologue-to-short-video",
+      "pacer": "C",
+      "keywords": [
+        "book writing",
+        "video marketing",
+        "content creation",
+        "prologue",
+        "author"
+      ],
+      "published": "2026-06-29T02:12:56.000Z"
+    },
+    {
       "id": "968fc5e2f5c07411",
       "title": "Quoting Jon Udell",
       "source": "Simon Willison's Weblog",
@@ -15,6 +111,38 @@
         "agentic engineering"
       ],
       "published": "2026-06-28T21:57:41.000Z"
+    },
+    {
+      "id": "f76ff5a4c68132d9",
+      "title": "Hack Your Summer",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Hack Your Summer",
+        "internship",
+        "mentorship",
+        "career development",
+        "tech sprint"
+      ],
+      "published": "2026-06-28T19:26:11.000Z"
+    },
+    {
+      "id": "398fc0fce75eaa82",
+      "title": "Notes from Bryan Cantrill’s “Intelligence is not Enough”",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/",
+      "pacer": "C",
+      "keywords": [
+        "Bryan Cantrill",
+        "Engineering",
+        "Teamwork",
+        "Human Values",
+        "Problem Solving"
+      ],
+      "published": "2026-06-28T19:00:00.000Z"
     },
     {
       "id": "3de6e566c817d104",
@@ -95,6 +223,22 @@
         "programming"
       ],
       "published": "2026-06-28T00:33:33.000Z"
+    },
+    {
+      "id": "2b1f3c7dcbfb4dee",
+      "title": "My favorite keyboards",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "pacer": "A",
+      "keywords": [
+        "keyboards",
+        "typing",
+        "hardware",
+        "reviews",
+        "peripherals"
+      ],
+      "published": "2026-06-28T00:00:00.000Z"
     },
     {
       "id": "382bd97bc975abfb",
@@ -289,54 +433,6 @@
       "published": "2026-06-26T22:25:46.000Z"
     },
     {
-      "id": "ae29768dabe40988",
-      "title": "Quoting Timothy B. Lee",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
-      "pacer": "A",
-      "keywords": [
-        "LLM",
-        "AI",
-        "Timothy B. Lee",
-        "Generative AI",
-        "Skill"
-      ],
-      "published": "2026-06-26T21:15:09.000Z"
-    },
-    {
-      "id": "cd2ad53be65824e8",
-      "title": "What happened after 2,000 people tried to hack my AI assistant",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "AI security",
-        "prompt injection",
-        "Claude",
-        "cybersecurity",
-        "model safety"
-      ],
-      "published": "2026-06-26T18:33:14.000Z"
-    },
-    {
-      "id": "5e81afa6f8567587",
-      "title": "Incident Report: CVE-2026-LGTM",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-      "pacer": "A",
-      "keywords": [
-        "AI security",
-        "autonomous agents",
-        "software supply chain",
-        "LLM",
-        "incident report"
-      ],
-      "published": "2026-06-26T17:58:54.000Z"
-    },
-    {
       "id": "43027dd9e764fd81",
       "title": "The next big breakthrough will be AIs learning on the job",
       "source": "Dwarkesh Podcast",
@@ -447,22 +543,6 @@
         "Artificial Intelligence"
       ],
       "published": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "7aa44e4259c4296f",
-      "title": "Hart’s theorem",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/25/harts-theorem/",
-      "pacer": "C",
-      "keywords": [
-        "Hart's theorem",
-        "geometry",
-        "circles",
-        "tangency",
-        "mathematics"
-      ],
-      "published": "2026-06-25T19:20:09.000Z"
     },
     {
       "id": "ecca1c7b462b99e9",
@@ -1073,22 +1153,6 @@
       "published": "2026-06-21T00:00:00.000Z"
     },
     {
-      "id": "d4c1f3c98f9fe54b",
-      "title": "Pluralistic: How the Epstein Class recruits (20 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/20/any-club-that-would-have-me/",
-      "pacer": "C",
-      "keywords": [
-        "Dialog",
-        "Peter Thiel",
-        "Cory Doctorow",
-        "Oligarchy",
-        "Secret society"
-      ],
-      "published": "2026-06-20T16:12:26.000Z"
-    },
-    {
       "id": "1b39fadedfd59605",
       "title": "Reading List 06/20/26",
       "source": "Construction Physics",
@@ -1119,38 +1183,6 @@
         "XML"
       ],
       "published": "2026-06-20T11:34:22.000Z"
-    },
-    {
-      "id": "d2eab51724fbc1cf",
-      "title": "This Week in Package Management: 20 June 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/20/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "package management",
-        "software releases",
-        "security patch",
-        "sbt",
-        "pnpm"
-      ],
-      "published": "2026-06-20T10:00:00.000Z"
-    },
-    {
-      "id": "d344b53a1e841a55",
-      "title": "I know Kung-fu ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/i-know-kung-fu",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "Learning",
-        "Knowledge",
-        "LLMs",
-        "Skill Acquisition"
-      ],
-      "published": "2026-06-20T03:17:05.000Z"
     },
     {
       "id": "4c9db705028db9b5",
@@ -1823,22 +1855,6 @@
         "Vulnerability"
       ],
       "published": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "7e50079e6424fcb1",
-      "title": "Being “Good” at Things",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/good-at-things/",
-      "pacer": "C",
-      "keywords": [
-        "golf",
-        "mindset",
-        "proficiency",
-        "consistency",
-        "integrity"
-      ],
-      "published": "2026-06-10T19:00:00.000Z"
     },
     {
       "id": "a02b18501d3cb698",
@@ -4248,16 +4264,6 @@
         "harmonic numbers",
         "mathematics",
         "number theory"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "415fc6b827df885e",
-      "target": "d2eab51724fbc1cf",
-      "shared_keywords": [
-        "package management",
-        "software releases",
-        "pnpm"
       ],
       "strength": 0.6
     },

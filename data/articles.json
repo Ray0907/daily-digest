@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-06-28T22:19:11.695Z",
+  "last_updated": "2026-06-29T22:21:30.154Z",
   "articles": [
+    {
+      "id": "2b1f3c7dcbfb4dee",
+      "title": "My favorite keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-06-28T00:00:00.000Z",
+      "summary_en": "This article explores the author's personal preferences and reviews of various keyboard models. It details the specific features and tactile experiences that define the author's favorite typing tools.",
+      "summary_zh": "本文探討了作者對於各類鍵盤型號的個人偏好與評測。內容詳細介紹了作者心目中理想鍵盤的特定功能與打字手感體驗。",
+      "keywords": [
+        "keyboards",
+        "typing",
+        "hardware",
+        "reviews",
+        "peripherals"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses personal subjective evaluation and analogies to describe physical typing experiences.",
+      "pacer_reason_zh": "本文透過個人的主觀評價與比喻來描述實體的打字體驗。"
+    },
+    {
+      "id": "398fc0fce75eaa82",
+      "title": "Notes from Bryan Cantrill’s “Intelligence is not Enough”",
+      "url": "https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-06-28T19:00:00.000Z",
+      "summary_en": "This post reflects on Bryan Cantrill’s talk about the engineering challenges at Oxide, arguing that solving critical, unprecedented problems requires human values like resilience and teamwork rather than raw intelligence alone. It emphasizes that character and collaboration are essential for breakthroughs where traditional knowledge or synthetic intelligence fails.",
+      "summary_zh": "這篇文章分享了 Bryan Cantrill 關於 Oxide 公司工程挑戰的觀點，強調解決前所未有的重大問題時，韌性、團隊合作與價值觀比單純的智力更為關鍵。作者指出，人類的合作與毅力在面對技術瓶頸時，往往比人工智慧提供的邏輯建議更有效。",
+      "keywords": [
+        "Bryan Cantrill",
+        "Engineering",
+        "Teamwork",
+        "Human Values",
+        "Problem Solving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the limitations of pure intelligence and the necessity of human values in complex engineering environments.",
+      "pacer_reason_zh": "本文提出了一種概念性論點，探討單純智力的侷限性，並說明在複雜工程環境中人類價值觀的必要性。"
+    },
+    {
+      "id": "8f4efd51033924cd",
+      "title": "Unbundling the standard library",
+      "url": "https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-29T10:00:00.000Z",
+      "summary_en": "The article explores the shifting boundary between compiler-level built-ins and standard libraries, using the Haskell GHC 10.2 update and Ruby's gemification as examples. It highlights how these shifting lines create complexities for vulnerability management and software bill of materials (SBOM) accuracy when libraries exist in both the language distribution and as standalone packages.",
+      "summary_zh": "本文探討了編譯器內建功能與標準函式庫之間界限的變動，並以 Haskell GHC 10.2 更新與 Ruby 的「寶石化」（gemification）為例。文章指出，當函式庫同時存在於語言發行版與獨立套件中時，這種界限的模糊化會導致漏洞管理與軟體物料清單（SBOM）產生一致性問題。",
+      "keywords": [
+        "Haskell",
+        "GHC",
+        "Ruby",
+        "Vulnerability",
+        "Standard Library"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific case studies of Haskell and Ruby updates to analyze the implications of library management on software security and versioning.",
+      "pacer_reason_zh": "本文透過 Haskell 與 Ruby 更新的具體案例分析，探討函式庫管理對軟體安全性與版本控制的影響。"
+    },
+    {
+      "id": "de9dd74e527e79f8",
+      "title": "Who you gonna believe: Grok or the docs?",
+      "url": "https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-29T12:12:05.000Z",
+      "summary_en": "This post examines the inconsistencies between documentation and AI-generated outputs when using the calculator utility 'bc'. It highlights how large language models like Grok may hallucinate features that do not exist in standard POSIX versions of the software.",
+      "summary_zh": "本文探討了在使用計算工具「bc」時，AI 生成內容與官方技術文件之間的差異。作者指出，像 Grok 這樣的大型語言模型可能會錯誤地編造出 POSIX 標準版本中所不存在的功能。",
+      "keywords": [
+        "bc",
+        "calculator",
+        "AI hallucination",
+        "Grok",
+        "POSIX"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a practical observation and comparison between software documentation and AI tool output, acting as a case study on reliability.",
+      "pacer_reason_zh": "本文提供了軟體技術文件與 AI 工具輸出之間對比的觀察，可作為評估 AI 可靠性的案例研究。"
+    },
+    {
+      "id": "7ac14a1b99c8d65c",
+      "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/29/arsonist-firefighters/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-29T16:34:57.000Z",
+      "summary_en": "Cory Doctorow critiques how Google's reliance on AI-generated search summaries undermines the open web and creator incentives. He argues that users prefer these summaries despite their inaccuracy because Google's search experience has significantly degraded.",
+      "summary_zh": "Cory Doctorow 批評 Google 依賴 AI 生成的搜尋摘要，這正削弱開放網路與創作者的獲利基礎。他指出，儘管這些摘要存在不準確性，但由於 Google 的傳統搜尋體驗已大不如前，使用者仍轉向依賴 AI 摘要。",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "AI",
+        "search",
+        "enshittification"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how AI search trends impact web traffic and platform dynamics.",
+      "pacer_reason_zh": "本文針對 AI 搜尋趨勢如何影響網站流量及平台動態，進行了概念性的分析與說明。"
+    },
+    {
+      "id": "6f2e1891a7326a33",
+      "title": "I turned my prologue into a short video ",
+      "url": "https://idiallo.com/byte-size/my-prologue-to-short-video",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-29T02:12:56.000Z",
+      "summary_en": "The author shares a new approach to book promotion by adapting their book's prologue into a short video format. This strategy addresses the difficulty of writing a full manuscript by focusing on smaller, engaging content pieces.",
+      "summary_zh": "作者分享了一種書籍宣傳的新策略，將書中的序言改編為短影音。此舉旨在應對完成整本書的挑戰，並透過精簡的內容形式吸引讀者。",
+      "keywords": [
+        "book writing",
+        "video marketing",
+        "content creation",
+        "prologue",
+        "author"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains a personal creative decision and conceptual approach to content distribution.",
+      "pacer_reason_zh": "該文闡述了作者個人的創作決策以及內容發布的觀念性做法。"
+    },
+    {
+      "id": "4aa6b813bdb86b8d",
+      "title": "Count the number of Safari tabs",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-29T18:36:18.000Z",
+      "summary_en": "This post provides a quick one-line AppleScript command to count the total number of open tabs in the Safari browser. It is a brief technical tip for users who want to programmatically audit their browser tab usage.",
+      "summary_zh": "這篇文章分享了一段簡短的 AppleScript 指令，用於計算 Safari 瀏覽器中開啟的標籤頁總數。這是一個適合想要透過程式碼快速統計瀏覽器分頁數量的實用技巧。",
+      "keywords": [
+        "Safari",
+        "AppleScript",
+        "automation",
+        "terminal",
+        "web browser"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is a functional, step-by-step tutorial on how to perform a specific task using a script.",
+      "pacer_reason_zh": "內容為具備操作步驟的教學，說明如何透過指令碼執行特定任務。"
+    },
+    {
+      "id": "8edc68a0b3d08afa",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-29T16:17:59.000Z",
+      "summary_en": "Ornith-1.0 is a new open-weights model series from DeepReinforce designed for agentic coding tasks, built upon Gemma 4 and Qwen 3.5 architectures. The author highlights the model's high performance on coding benchmarks and demonstrates its practical utility through successful tool-use tasks.",
+      "summary_zh": "Ornith-1.0 是 DeepReinforce 推出的全新開放權重模型系列，專為代理編程（Agentic Coding）任務設計，底層架構基於 Gemma 4 與 Qwen 3.5。作者強調了該模型在編程基準測試中的優異表現，並透過實際的工具調用任務展示了其應用價值。",
+      "keywords": [
+        "Ornith-1.0",
+        "LLM",
+        "Coding Agents",
+        "DeepReinforce",
+        "Open Weights"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a review and user-testing of the new model, documenting performance through anecdotal benchmarks and practical usage examples.",
+      "pacer_reason_zh": "該文章針對新模型進行了評測與實際測試，透過使用者體驗與實際執行範例來佐證其模型效能。"
+    },
+    {
+      "id": "f76ff5a4c68132d9",
+      "title": "Hack Your Summer",
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-28T19:26:11.000Z",
+      "summary_en": "Hack Your Summer is a four-week, high-velocity sprint initiative designed to help students build real-world projects amidst a shortage of traditional internships. The program connects participants with mentors and peers to create a portfolio of public-facing work to impress future employers.",
+      "summary_zh": "「Hack Your Summer」是一項為期四週的高強度專案衝刺計畫，旨在協助學生在實習機會短缺的環境下，透過親手打造專案來累積實戰經驗。該計畫透過導師輔導與同儕合作，讓參與者能產出具備專業價值的公開作品集，藉此提升就業競爭力。",
+      "keywords": [
+        "Hack Your Summer",
+        "internship",
+        "mentorship",
+        "career development",
+        "tech sprint"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept and purpose of a new initiative, focusing on 'what it is' rather than a specific tutorial or data set.",
+      "pacer_reason_zh": "本文旨在說明一項新計畫的概念與目的，側重於解釋「這是什麼」，而非教學指南或數據分析。"
+    },
     {
       "id": "042a42259732b101",
       "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",

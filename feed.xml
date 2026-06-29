@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 28 Jun 2026 22:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:21:30 GMT</lastBuildDate>
     
+    <item>
+      <title>My favorite keyboards</title>
+      <link>https://fabiensanglard.net/keyboards/index.html</link>
+      <guid>https://fabiensanglard.net/keyboards/index.html</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
+      <description>This article explores the author's personal preferences and reviews of various keyboard models. It details the specific features and tactile experiences that define the author's favorite typing tools.</description>
+    </item>
+
+    <item>
+      <title>Notes from Bryan Cantrill’s “Intelligence is not Enough”</title>
+      <link>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</link>
+      <guid>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post reflects on Bryan Cantrill’s talk about the engineering challenges at Oxide, arguing that solving critical, unprecedented problems requires human values like resilience and teamwork rather than raw intelligence alone. It emphasizes that character and collaboration are essential for breakthroughs where traditional knowledge or synthetic intelligence fails.</description>
+    </item>
+
+    <item>
+      <title>Unbundling the standard library</title>
+      <link>https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</link>
+      <guid>https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</guid>
+      <pubDate>Mon, 29 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article explores the shifting boundary between compiler-level built-ins and standard libraries, using the Haskell GHC 10.2 update and Ruby's gemification as examples. It highlights how these shifting lines create complexities for vulnerability management and software bill of materials (SBOM) accuracy when libraries exist in both the language distribution and as standalone packages.</description>
+    </item>
+
+    <item>
+      <title>Who you gonna believe: Grok or the docs?</title>
+      <link>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</guid>
+      <pubDate>Mon, 29 Jun 2026 12:12:05 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post examines the inconsistencies between documentation and AI-generated outputs when using the calculator utility 'bc'. It highlights how large language models like Grok may hallucinate features that do not exist in standard POSIX versions of the software.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/29/arsonist-firefighters/</link>
+      <guid>https://pluralistic.net/2026/06/29/arsonist-firefighters/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:34:57 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow critiques how Google's reliance on AI-generated search summaries undermines the open web and creator incentives. He argues that users prefer these summaries despite their inaccuracy because Google's search experience has significantly degraded.</description>
+    </item>
+
+    <item>
+      <title>I turned my prologue into a short video </title>
+      <link>https://idiallo.com/byte-size/my-prologue-to-short-video</link>
+      <guid>https://idiallo.com/byte-size/my-prologue-to-short-video</guid>
+      <pubDate>Mon, 29 Jun 2026 02:12:56 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The author shares a new approach to book promotion by adapting their book's prologue into a short video format. This strategy addresses the difficulty of writing a full manuscript by focusing on smaller, engaging content pieces.</description>
+    </item>
+
+    <item>
+      <title>Count the number of Safari tabs</title>
+      <link>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 18:36:18 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post provides a quick one-line AppleScript command to count the total number of open tabs in the Safari browser. It is a brief technical tip for users who want to programmatically audit their browser tab usage.</description>
+    </item>
+
+    <item>
+      <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
+      <link>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 16:17:59 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Ornith-1.0 is a new open-weights model series from DeepReinforce designed for agentic coding tasks, built upon Gemma 4 and Qwen 3.5 architectures. The author highlights the model's high performance on coding benchmarks and demonstrates its practical utility through successful tool-use tasks.</description>
+    </item>
+
+    <item>
+      <title>Hack Your Summer</title>
+      <link>https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</guid>
+      <pubDate>Sun, 28 Jun 2026 19:26:11 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Hack Your Summer is a four-week, high-velocity sprint initiative designed to help students build real-world projects amidst a shortage of traditional internships. The program connects participants with mentors and peers to create a portfolio of public-facing work to impress future employers.</description>
+    </item>
+
     <item>
       <title>Working around dragons with the Lemote Yeeloong laptop and OpenBSD</title>
       <link>https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</link>
@@ -823,87 +904,6 @@
       <pubDate>Sat, 20 Jun 2026 10:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>This weekly update details the latest releases and security patches across major package managers including sbt, pnpm, npm, Yarn, and mise. Key highlights include significant architectural updates for sbt 2.0.0 and critical security fixes for path-traversal vulnerabilities in pnpm.</description>
-    </item>
-
-    <item>
-      <title>All pieces on a 6 by 5 board</title>
-      <link>https://www.johndcook.com/blog/2026/06/20/z3-python-claude/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/20/z3-python-claude/</guid>
-      <pubDate>Sat, 20 Jun 2026 21:41:16 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores using Claude to generate Z3/Python code for solving a specific chess puzzle on a 6x5 board. It continues a series of experiments testing LLMs' capabilities in generating programming solutions for logical constraints.</description>
-    </item>
-
-    <item>
-      <title>What does it mean when the bottom bit of my HMODULE is set?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</guid>
-      <pubDate>Fri, 19 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains the technical significance of the least significant bit being set in an HMODULE handle in Windows. It clarifies that this indicates a special state or variant of the module handle within the operating system.</description>
-    </item>
-
-    <item>
-      <title>Arp 29: The fireworks galaxy</title>
-      <link>https://maurycyz.com/astro/arp29/</link>
-      <guid>https://maurycyz.com/astro/arp29/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post presents an astrophotography project of Arp 29, also known as the Fireworks Galaxy. It includes technical specifications of the imaging setup, observation challenges such as local star density and atmospheric conditions, and a brief summary of the processing workflow.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: How the Epstein Class recruits (20 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</link>
-      <guid>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</guid>
-      <pubDate>Sat, 20 Jun 2026 16:12:26 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes the leaked membership data of Dialog, an exclusive, secretive network tied to Peter Thiel. He highlights the cult-like nature of the group and reflects on his own experience receiving an invitation to speak at one of their events without realizing its true identity.</description>
-    </item>
-
-    <item>
-      <title>I know Kung-fu </title>
-      <link>https://idiallo.com/blog/i-know-kung-fu</link>
-      <guid>https://idiallo.com/blog/i-know-kung-fu</guid>
-      <pubDate>Sat, 20 Jun 2026 03:17:05 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author explores the distinction between having access to vast amounts of information and the actual process of acquiring knowledge. By drawing a parallel to 'The Matrix,' the post argues that despite the availability of powerful AI tools, true mastery requires active engagement rather than passive consumption.</description>
-    </item>
-
-    <item>
-      <title>Quoting Sean Lynch</title>
-      <link>https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything</guid>
-      <pubDate>Fri, 19 Jun 2026 22:45:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights Sean Lynch's perspective on the Model Context Protocol (MCP), emphasizing its utility in decoupling authentication flows from LLM agent context windows. It suggests that MCP's primary value may lie in serving as a secure, isolated authentication gateway for APIs.</description>
-    </item>
-
-    <item>
-      <title>Full Page Paralysis</title>
-      <link>https://blog.jim-nielsen.com/2026/full-page-paralysis/</link>
-      <guid>https://blog.jim-nielsen.com/2026/full-page-paralysis/</guid>
-      <pubDate>Fri, 19 Jun 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author discusses the phenomenon of 'full page paralysis,' contrasting it with the common fear of starting a project. They argue that completing a task is psychologically more difficult because it subjects the work to external judgment and ends the illusion of its potential perfection.</description>
-    </item>
-
-    <item>
-      <title>The Goldilocks Principle in Fantasy Strategy</title>
-      <link>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</link>
-      <guid>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:22 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>The author reflects on their deep personal history with 'Heroes of Might and Magic II,' highlighting the game's unique role in their life. The piece explores the balance of game design through the lens of the Goldilocks principle within the context of fantasy strategy titles.</description>
-    </item>
-
-    <item>
-      <title>The data black hole at the center of AI</title>
-      <link>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2</link>
-      <guid>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2</guid>
-      <pubDate>Fri, 19 Jun 2026 16:45:03 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>This piece explores the role of massive data sets as the foundational gravity holding artificial intelligence systems together. It suggests that while AI's capabilities are highly visible, they remain tethered to an invisible, dense core of underlying data.</description>
     </item>
   </channel>
 </rss>
