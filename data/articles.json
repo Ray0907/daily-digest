@@ -1,6 +1,386 @@
 {
-  "last_updated": "2026-06-29T22:21:30.154Z",
+  "last_updated": "2026-06-30T22:25:13.906Z",
   "articles": [
+    {
+      "id": "75d45f5449719352",
+      "title": "Weekly Update 510: Live From Mallorca with Scott Helme",
+      "url": "https://www.troyhunt.com/weekly-update-510/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-06-30T15:42:54.000Z",
+      "summary_en": "Troy Hunt shares a retrospective on his collaboration with Scott Helme, specifically focusing on the eight-year anniversary of the 'Why no HTTPS?' project. The initiative was designed to encourage companies to adopt transport layer security by highlighting those that had not yet implemented it.",
+      "summary_zh": "Troy Hunt 回顧了他與 Scott Helme 的合作，特別提到「Why no HTTPS?」網站成立八週年。該計畫旨在透過點名未實施傳輸層安全性的公司，進而推動企業採用 HTTPS 加密技術。",
+      "keywords": [
+        "HTTPS",
+        "Security",
+        "Troy Hunt",
+        "Scott Helme",
+        "Web Security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a reflective, conceptual piece discussing the history and mission behind a security advocacy project.",
+      "pacer_reason_zh": "這是一篇回顧性與概念性的文章，探討安全倡議專案背後的歷史與使命。"
+    },
+    {
+      "id": "361b852334ef2e71",
+      "title": "Grant Sanderson – AI and the future of math",
+      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-06-30T15:53:19.000Z",
+      "summary_en": "Grant Sanderson discusses how the intersection of AI and mathematics serves as a primary frontier for the emergence of superintelligence. The conversation explores the future impact of automated reasoning on how we conduct and perceive mathematical discovery.",
+      "summary_zh": "Grant Sanderson 探討了人工智慧與數學的交集，認為這是超智慧出現的首要領域。對談深入分析了自動化推理將如何影響未來的數學發現方式與思維模式。",
+      "keywords": [
+        "AI",
+        "mathematics",
+        "superintelligence",
+        "reasoning",
+        "future"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on theoretical discussions and conceptualizing the future impact of AI on the field of mathematics.",
+      "pacer_reason_zh": "該內容側重於理論探討，並構想人工智慧對數學領域的未來影響。"
+    },
+    {
+      "id": "996e0ef5227274d3",
+      "title": "Data-directed programming in Haskell (SICP 2.4.3)",
+      "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-06-29T22:00:00.000Z",
+      "summary_en": "This post explores the concept of data-directed programming in Haskell, using complex numbers as a practical example. It demonstrates how to handle data represented in different formats, such as rectangular and polar coordinates, within a unified system.",
+      "summary_zh": "本文探討了 Haskell 中的數據導向程式設計（Data-directed programming），並以複數為例進行說明。文中展示了如何在統一的系統中處理矩形座標與極座標等不同格式的數據。",
+      "keywords": [
+        "Haskell",
+        "SICP",
+        "Data-directed programming",
+        "Functional Programming",
+        "Complex Numbers"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article acts as a tutorial, demonstrating how to implement specific programming patterns from SICP in Haskell.",
+      "pacer_reason_zh": "本文作為教學指南，示範了如何使用 Haskell 實作 SICP 書中的特定程式設計模式。"
+    },
+    {
+      "id": "9af775d0703552c4",
+      "title": "Taking Roads and Bridges literally",
+      "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-06-30T10:00:00.000Z",
+      "summary_en": "The author reflects on the 'Roads and Bridges' metaphor used to describe open-source software, arguing that voluntary funding models are insufficient for critical infrastructure. By examining actual civil engineering standards, the article highlights the need for institutionalized, mandatory inspection and maintenance regimes rather than reliance on philanthropic 'Adopt-a-Highway' style contributions.",
+      "summary_zh": "作者反思了用於描述開源軟體的「道路與橋樑」比喻，認為自願性資助模式不足以支撐關鍵基礎設施。通過探討實際的土木工程標準，文章強調軟體生態需要建立制度化、強制性的檢查與維護機制，而非僅僅依賴類似「認養公路」的慈善捐款。",
+      "keywords": [
+        "open source",
+        "infrastructure",
+        "digital maintenance",
+        "public policy",
+        "software sustainability"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of physical civil engineering infrastructure to critique and re-evaluate the current sustainability models of open-source software.",
+      "pacer_reason_zh": "文章運用土木工程基礎設施作為類比，旨在批判並重新評估當前開源軟體的可持續發展模式。"
+    },
+    {
+      "id": "43863605d2878f71",
+      "title": "Notes from June 2026",
+      "url": "https://evanhahn.com/notes-from-june-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-06-30T00:00:00.000Z",
+      "summary_en": "This monthly update highlights the author's professional project launches at Ghost and creative coding work for Taper magazine. It also compiles critical perspectives on the ethical challenges of generative AI and discussions regarding open-source labor practices.",
+      "summary_zh": "本月誌總結了作者在 Ghost 的專案進展及為 Taper 雜誌創作的程式藝術作品。文中同時彙整了關於生成式 AI 倫理挑戰的批判性觀點，並探討了開源軟體貢獻與職場工作習慣的相關議題。",
+      "keywords": [
+        "Ghost",
+        "AI ethics",
+        "Open Source",
+        "Taper",
+        "productivity"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post primarily serves as a curated collection of links and personal updates, acting as a reference for recent developments and reading material.",
+      "pacer_reason_zh": "該文章主要作為個人動態與相關網頁連結的匯編，作為近期趨勢與閱讀素材的參考清單。"
+    },
+    {
+      "id": "c50cdfbe4681f6a9",
+      "title": "Distinguishing variables from parameters",
+      "url": "https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-30T18:51:36.000Z",
+      "summary_en": "This article explores the often confusing distinction between variables and parameters in mathematics. It clarifies that while both can change, they function differently within the scope of a function's behavior.",
+      "summary_zh": "本文探討了數學中變數與參數之間容易混淆的區別。文章釐清了儘管兩者皆可變動，但在函數運作的範疇中兩者扮演的角色截然不同。",
+      "keywords": [
+        "mathematics",
+        "variables",
+        "parameters",
+        "functions",
+        "logic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on defining and conceptualizing the theoretical difference between two mathematical terms.",
+      "pacer_reason_zh": "內容重點在於定義並概念化兩個數學術語之間的理論差異。"
+    },
+    {
+      "id": "a8714a7061389ae8",
+      "title": "Silver Rectangles and the Ways of Kings",
+      "url": "https://www.johndcook.com/blog/2026/06/30/silver-kings/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-30T14:36:14.000Z",
+      "summary_en": "This article explores the geometric properties of silver rectangles, drawing a parallel to the well-known golden rectangle. It explains the mathematical derivation of the ratios that define these shapes, showing how their proportions remain consistent when squares are added or removed.",
+      "summary_zh": "本文探討了銀矩形的幾何特性，並將其與廣為人知的黃金矩形進行類比。文章透過數學推導解釋了定義這些形狀的比例，展示了當添加或移除正方形時，其比例如何保持一致。",
+      "keywords": [
+        "silver rectangle",
+        "golden ratio",
+        "geometry",
+        "mathematics",
+        "phi"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of the golden rectangle to explain the mathematical structure and properties of the silver rectangle.",
+      "pacer_reason_zh": "文章透過黃金矩形的類比，解釋了銀矩形的數學結構與特性。"
+    },
+    {
+      "id": "3dd8e13cdfb2d211",
+      "title": "Derivative equals inverse",
+      "url": "https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-06-30T01:06:12.000Z",
+      "summary_en": "This article explores a unique mathematical problem involving a function where its derivative is equal to its inverse. It highlights that this specific differential equation cannot be solved using standard classroom techniques and requires unconventional analytical approaches.",
+      "summary_zh": "這篇文章探討了一個獨特的數學問題，即尋找一個其導數等於其反函數的函數。文章指出這類微分方程無法使用常規課堂技巧求解，需要非常規的分析方法。",
+      "keywords": [
+        "mathematics",
+        "calculus",
+        "differential equations",
+        "inverse function",
+        "derivative"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical concept and theory involving a unique functional relationship.",
+      "pacer_reason_zh": "本文解釋了一項涉及獨特函數關係的特定數學概念與理論。"
+    },
+    {
+      "id": "3a0e6dfccfa24f70",
+      "title": "A compatibility note on the abuse of Windows window class extra bytes",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-30T14:00:00.000Z",
+      "summary_en": "This post discusses the technical implications and compatibility issues surrounding the misuse of extra bytes in Windows window classes. It warns against hiding private data in these slots, as such practices can lead to system instability or conflicts with Windows updates.",
+      "summary_zh": "本文探討了濫用 Windows 視窗類別額外位元組（extra bytes）所帶來的技術影響與相容性問題。作者警告不應將私有資料隱藏在這些空間中，因為此舉可能導致系統不穩定或與 Windows 更新產生衝突。",
+      "keywords": [
+        "Windows",
+        "Win32 API",
+        "Compatibility",
+        "Programming",
+        "Window Class"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept and architectural risks associated with a specific Windows API implementation practice.",
+      "pacer_reason_zh": "本文解釋了與特定 Windows API 實作做法相關的理論概念及其架構風險。"
+    },
+    {
+      "id": "7b1403126f10c5be",
+      "title": "The evolution of window and class extra bytes in Windows",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-29T14:00:00.000Z",
+      "summary_en": "This post discusses the historical development and intended usage of window and class extra bytes within the Windows operating system architecture. It highlights how naming conventions serve as a key indicator for these specific memory structures.",
+      "summary_zh": "本文探討了 Windows 作業系統中視窗與類別額外位元組 (extra bytes) 的演變歷程與設計意圖。作者強調了透過前綴命名規則來辨識這些記憶體結構的用途。",
+      "keywords": [
+        "Windows",
+        "Win32 API",
+        "Extra Bytes",
+        "Programming",
+        "Operating System"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual evolution and intended architectural usage of a specific Windows feature.",
+      "pacer_reason_zh": "本文解釋了 Windows 特定功能的架構概念演變及其設計意圖。"
+    },
+    {
+      "id": "9b587e0a20cf3d60",
+      "title": "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-06-30T11:34:20.000Z",
+      "summary_en": "This blog post reviews the self-published novel 'Fake Creativity' by Blake Loch, which explores themes of paranoia and AI-driven plagiarism. The story follows an author questioning the authenticity of his own creative process as he grapples with the influence of technology.",
+      "summary_zh": "這篇部落格文章評論了 Blake Loch 的自出版小說《Fake Creativity》，該書探討了偏執與人工智慧抄襲等主題。故事描述一位作者在面對科技的影響時，開始質疑自身創作過程的真實性。",
+      "keywords": [
+        "Book Review",
+        "Fake Creativity",
+        "AI",
+        "Creativity",
+        "Literature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a review providing conceptual analysis and thematic exploration of a specific piece of literature.",
+      "pacer_reason_zh": "本文是一篇書評，針對特定文學作品進行了概念分析與主題探討。"
+    },
+    {
+      "id": "92b06ebd697988f8",
+      "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+      "url": "https://pluralistic.net/2026/06/30/serenissima/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-06-30T11:22:50.000Z",
+      "summary_en": "Cory Doctorow reviews Jo Walton's new novel, 'Everybody's Perfect,' praising her unique ability to write profound and beautiful stories. The post highlights the author's consistent literary brilliance and situates her latest work within her broader, critically acclaimed body of writing.",
+      "summary_zh": "Cory Doctorow 評論了 Jo Walton 的新小說《Everybody's Perfect》，讚賞她創作深刻且優美故事的獨特能力。這篇文章強調了該作者一貫的文學才華，並將其最新作品置於她廣受好評的文學創作脈絡中。",
+      "keywords": [
+        "Jo Walton",
+        "Cory Doctorow",
+        "Pluralistic",
+        "Literature",
+        "Book Review"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a reference or recommendation list for books and author updates, functioning as a digest of literary links.",
+      "pacer_reason_zh": "該內容作為圖書與作者更新的推薦列表，屬於文學資訊的摘要與參考資訊。"
+    },
+    {
+      "id": "b59c54a00986e591",
+      "title": "The Dating App Plot Device ",
+      "url": "https://idiallo.com/blog/dating-plot-device",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-06-30T07:00:00.000Z",
+      "summary_en": "This article explores the inherent conflict in dating app business models between helping users find love versus maximizing time on the platform. The author observes that these apps commodify the search for partners by creating an illusion of perfection, ultimately resulting in a cycle of continuous monetization.",
+      "summary_zh": "本文探討了交友軟體在協助用戶尋找愛情與最大化留存時間之間的商業模式衝突。作者觀察到，這些應用程式透過營造完美伴侶的幻象，將尋找對象的過程商品化，進而形成了一種持續獲利的循環。",
+      "keywords": [
+        "dating apps",
+        "monetization",
+        "business models",
+        "user experience",
+        "social technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the business philosophy and social dynamics underlying modern dating applications.",
+      "pacer_reason_zh": "本文對現代交友軟體背後的商業哲學與社會互動進行了概念性的分析。"
+    },
+    {
+      "id": "9e61dd70a4729661",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T22:15:35.000Z",
+      "summary_en": "Simon Willison shares his hands-on experience with the Gemini 3.1 Flash Lite Image model, Google's new cost-effective and high-speed image generator. He tests the model with a 'Where's Waldo'-style prompt and evaluates the quality and output consistency compared to previous versions.",
+      "summary_zh": "Simon Willison 分享了使用 Google 新款高效能、低成本圖像生成模型 Gemini 3.1 Flash Lite Image 的實測心得。他透過「威利在哪裡」風格的提示詞進行測試，並評估了該模型相較於先前版本的生成品質與準確度。",
+      "keywords": [
+        "Gemini",
+        "AI",
+        "Google",
+        "Image Generation",
+        "Nano Banana"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as an informal experiment and qualitative benchmark of a specific AI model's performance.",
+      "pacer_reason_zh": "該文章記錄了針對特定 AI 模型性能的非正式實驗與定性基準測試。"
+    },
+    {
+      "id": "36f5f67c86fa79a9",
+      "title": "What's new in Claude Sonnet 5",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T21:23:02.000Z",
+      "summary_en": "Simon Willison examines the technical updates in the new Claude Sonnet 5 model, highlighting its performance parity with Opus 4.8 and changes to API parameters. Key takeaways include the introduction of a new tokenizer that effectively increases costs by 30% and the default enabling of adaptive thinking features.",
+      "summary_zh": "Simon Willison 分析了 Claude Sonnet 5 模型的新技術更新，指出其效能與 Opus 4.8 相當，並說明了 API 參數的變更。重點在於新代幣化器（tokenizer）導致實際成本增加了 30%，以及預設開啟的自適應思考功能。",
+      "keywords": [
+        "Claude Sonnet 5",
+        "Anthropic",
+        "API",
+        "tokenization",
+        "AI models"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides specific benchmark data, pricing analysis, and technical observations regarding the model's new tokenizer and capabilities.",
+      "pacer_reason_zh": "本文提供了關於新模型代幣化器與效能的具體基準數據、價格分析及技術觀察。"
+    },
+    {
+      "id": "8629cca2232d9368",
+      "title": "The AI Compass",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T17:39:23.000Z",
+      "summary_en": "The AI Compass is a political compass-style quiz that categorizes users into one of 30 archetypes based on their views on AI ethics and technology. The tool is implemented as a simple, build-free React application, reflecting the author's hands-on approach to AI.",
+      "summary_zh": "「AI 指南針」（The AI Compass）是一款類政治光譜測驗，根據使用者對人工智慧與倫理的看法，將其歸類為 30 種原型之一。該工具採用無需建構步驟的 React 實作，展現了作者對 AI 實作應用的觀點。",
+      "keywords": [
+        "AI Compass",
+        "quiz",
+        "AI ethics",
+        "archetypes",
+        "web development"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a reference and pointer to a specific web tool and its source code.",
+      "pacer_reason_zh": "本篇文章主要作為一個參考資源，介紹並連結至特定的網路工具及其原始碼。"
+    },
+    {
+      "id": "e6d9181f4de8be94",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T16:54:26.000Z",
+      "summary_en": "Simon Willison introduces the 'shot-scraper video' command, which uses Playwright to generate automated video demos of web application routines. This tool helps coding agents demonstrate their progress by executing a storyboard defined in a YAML file.",
+      "summary_zh": "Simon Willison 介紹了「shot-scraper video」指令，該工具利用 Playwright 為網頁應用程式的操作流程錄製自動化演示影片。此功能旨在協助編碼代理程式透過 YAML 設定檔定義的腳本，自動展示其工作成果。",
+      "keywords": [
+        "shot-scraper",
+        "Playwright",
+        "automation",
+        "video demo",
+        "coding agents"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific command-line tool and configuration file format to teach users how to record video demos of web routines.",
+      "pacer_reason_zh": "本文介紹了特定的指令列工具與設定檔格式，教導使用者如何錄製網頁操作流程的演示影片。"
+    },
+    {
+      "id": "a54c3d83b7524573",
+      "title": "shot-scraper 1.10",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T15:10:14.000Z",
+      "summary_en": "The shot-scraper tool has been updated to version 1.10. The major addition is the 'video storyboard' feature, which allows users to record automated video demos of software agents in action.",
+      "summary_zh": "shot-scraper 工具已更新至 1.10 版本。此次改版的主要功能是新增了「影片腳本」(video storyboard)，讓使用者能夠為軟體代理的操作過程錄製自動化演示影片。",
+      "keywords": [
+        "shot-scraper",
+        "automation",
+        "video recording",
+        "web scraping",
+        "software tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a new feature release and provides a link to a tutorial on how to use the tool.",
+      "pacer_reason_zh": "本文旨在發布新功能更新，並提供連結引導使用者學習如何操作該工具。"
+    },
+    {
+      "id": "cf20d7464c411926",
+      "title": "HTML table extractor",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-29T23:38:21.000Z",
+      "summary_en": "Simon Willison has introduced a new browser-based tool that extracts HTML tables from pasted rich text and converts them into various formats like Markdown, CSV, and JSON. The update also adds functionality to fetch and parse tables directly from Wikipedia pages using their API.",
+      "summary_zh": "Simon Willison 推出了一款新的瀏覽器工具，可將貼上的富文本表格轉換為 Markdown、CSV、JSON 等格式。該工具近期更新後，還能透過 Wikipedia API 直接匯入並提取頁面中的表格數據。",
+      "keywords": [
+        "HTML",
+        "data extraction",
+        "converter",
+        "web tools",
+        "Wikipedia API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a specific utility tool and demonstrates how to use it for data extraction tasks.",
+      "pacer_reason_zh": "該內容介紹了一款實用的工具，並示範如何使用它來執行資料提取任務。"
+    },
     {
       "id": "2b1f3c7dcbfb4dee",
       "title": "My favorite keyboards",

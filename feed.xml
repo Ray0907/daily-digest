@@ -4,8 +4,179 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 29 Jun 2026 22:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:25:14 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 510: Live From Mallorca with Scott Helme</title>
+      <link>https://www.troyhunt.com/weekly-update-510/</link>
+      <guid>https://www.troyhunt.com/weekly-update-510/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:42:54 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt shares a retrospective on his collaboration with Scott Helme, specifically focusing on the eight-year anniversary of the 'Why no HTTPS?' project. The initiative was designed to encourage companies to adopt transport layer security by highlighting those that had not yet implemented it.</description>
+    </item>
+
+    <item>
+      <title>Grant Sanderson – AI and the future of math</title>
+      <link>https://www.dwarkesh.com/p/grant-sanderson-2</link>
+      <guid>https://www.dwarkesh.com/p/grant-sanderson-2</guid>
+      <pubDate>Tue, 30 Jun 2026 15:53:19 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>Grant Sanderson discusses how the intersection of AI and mathematics serves as a primary frontier for the emergence of superintelligence. The conversation explores the future impact of automated reasoning on how we conduct and perceive mathematical discovery.</description>
+    </item>
+
+    <item>
+      <title>Data-directed programming in Haskell (SICP 2.4.3)</title>
+      <link>https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</link>
+      <guid>https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This post explores the concept of data-directed programming in Haskell, using complex numbers as a practical example. It demonstrates how to handle data represented in different formats, such as rectangular and polar coordinates, within a unified system.</description>
+    </item>
+
+    <item>
+      <title>Taking Roads and Bridges literally</title>
+      <link>https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html</link>
+      <guid>https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author reflects on the 'Roads and Bridges' metaphor used to describe open-source software, arguing that voluntary funding models are insufficient for critical infrastructure. By examining actual civil engineering standards, the article highlights the need for institutionalized, mandatory inspection and maintenance regimes rather than reliance on philanthropic 'Adopt-a-Highway' style contributions.</description>
+    </item>
+
+    <item>
+      <title>Notes from June 2026</title>
+      <link>https://evanhahn.com/notes-from-june-2026/</link>
+      <guid>https://evanhahn.com/notes-from-june-2026/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This monthly update highlights the author's professional project launches at Ghost and creative coding work for Taper magazine. It also compiles critical perspectives on the ethical challenges of generative AI and discussions regarding open-source labor practices.</description>
+    </item>
+
+    <item>
+      <title>Distinguishing variables from parameters</title>
+      <link>https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/</guid>
+      <pubDate>Tue, 30 Jun 2026 18:51:36 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the often confusing distinction between variables and parameters in mathematics. It clarifies that while both can change, they function differently within the scope of a function's behavior.</description>
+    </item>
+
+    <item>
+      <title>Silver Rectangles and the Ways of Kings</title>
+      <link>https://www.johndcook.com/blog/2026/06/30/silver-kings/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/30/silver-kings/</guid>
+      <pubDate>Tue, 30 Jun 2026 14:36:14 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the geometric properties of silver rectangles, drawing a parallel to the well-known golden rectangle. It explains the mathematical derivation of the ratios that define these shapes, showing how their proportions remain consistent when squares are added or removed.</description>
+    </item>
+
+    <item>
+      <title>Derivative equals inverse</title>
+      <link>https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</link>
+      <guid>https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</guid>
+      <pubDate>Tue, 30 Jun 2026 01:06:12 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores a unique mathematical problem involving a function where its derivative is equal to its inverse. It highlights that this specific differential equation cannot be solved using standard classroom techniques and requires unconventional analytical approaches.</description>
+    </item>
+
+    <item>
+      <title>A compatibility note on the abuse of Windows window class extra bytes</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</guid>
+      <pubDate>Tue, 30 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the technical implications and compatibility issues surrounding the misuse of extra bytes in Windows window classes. It warns against hiding private data in these slots, as such practices can lead to system instability or conflicts with Windows updates.</description>
+    </item>
+
+    <item>
+      <title>The evolution of window and class extra bytes in Windows</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484</guid>
+      <pubDate>Mon, 29 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the historical development and intended usage of window and class extra bytes within the Windows operating system architecture. It highlights how naming conventions serve as a key indicator for these specific memory structures.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
+      <guid>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:34:20 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews the self-published novel 'Fake Creativity' by Blake Loch, which explores themes of paranoia and AI-driven plagiarism. The story follows an author questioning the authenticity of his own creative process as he grapples with the influence of technology.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Jo Walton's &quot;Everybody's Perfect&quot; (30 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/30/serenissima/</link>
+      <guid>https://pluralistic.net/2026/06/30/serenissima/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:22:50 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow reviews Jo Walton's new novel, 'Everybody's Perfect,' praising her unique ability to write profound and beautiful stories. The post highlights the author's consistent literary brilliance and situates her latest work within her broader, critically acclaimed body of writing.</description>
+    </item>
+
+    <item>
+      <title>The Dating App Plot Device </title>
+      <link>https://idiallo.com/blog/dating-plot-device</link>
+      <guid>https://idiallo.com/blog/dating-plot-device</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>This article explores the inherent conflict in dating app business models between helping users find love versus maximizing time on the platform. The author observes that these apps commodify the search for partners by creating an illusion of perfection, ultimately resulting in a cycle of continuous monetization.</description>
+    </item>
+
+    <item>
+      <title>Nano Banana 2 Lite</title>
+      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 22:15:35 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares his hands-on experience with the Gemini 3.1 Flash Lite Image model, Google's new cost-effective and high-speed image generator. He tests the model with a 'Where's Waldo'-style prompt and evaluates the quality and output consistency compared to previous versions.</description>
+    </item>
+
+    <item>
+      <title>What's new in Claude Sonnet 5</title>
+      <link>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 21:23:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison examines the technical updates in the new Claude Sonnet 5 model, highlighting its performance parity with Opus 4.8 and changes to API parameters. Key takeaways include the introduction of a new tokenizer that effectively increases costs by 30% and the default enabling of adaptive thinking features.</description>
+    </item>
+
+    <item>
+      <title>The AI Compass</title>
+      <link>https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 17:39:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The AI Compass is a political compass-style quiz that categorizes users into one of 30 archetypes based on their views on AI ethics and technology. The tool is implemented as a simple, build-free React application, reflecting the author's hands-on approach to AI.</description>
+    </item>
+
+    <item>
+      <title>Have your agent record video demos of its work with shot-scraper video</title>
+      <link>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 16:54:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces the 'shot-scraper video' command, which uses Playwright to generate automated video demos of web application routines. This tool helps coding agents demonstrate their progress by executing a storyboard defined in a YAML file.</description>
+    </item>
+
+    <item>
+      <title>shot-scraper 1.10</title>
+      <link>https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 15:10:14 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The shot-scraper tool has been updated to version 1.10. The major addition is the 'video storyboard' feature, which allows users to record automated video demos of software agents in action.</description>
+    </item>
+
+    <item>
+      <title>HTML table extractor</title>
+      <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 23:38:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has introduced a new browser-based tool that extracts HTML tables from pasted rich text and converts them into various formats like Markdown, CSV, and JSON. The update also adds functionality to fetch and parse tables directly from Wikipedia pages using their API.</description>
+    </item>
+
     <item>
       <title>My favorite keyboards</title>
       <link>https://fabiensanglard.net/keyboards/index.html</link>
@@ -733,177 +904,6 @@
       <pubDate>Mon, 22 Jun 2026 19:00:00 GMT</pubDate>
       <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
       <description>This post critiques the modern design obsession with visual consistency, arguing that rigid system rules often suppress individual excellence. The author suggests that prioritizing deep, iconic meaning over superficial uniformity allows for a higher quality of design.</description>
-    </item>
-
-    <item>
-      <title>What Was Matt Thinking?</title>
-      <link>https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective</link>
-      <guid>https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective</guid>
-      <pubDate>Mon, 22 Jun 2026 18:41:28 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the legacy of Matt Wright’s 1990s web scripts, which empowered early internet users to add forums and guestbooks to their sites. It highlights the tension between the accessibility of these tools and the significant security vulnerabilities that stemmed from their amateur development.</description>
-    </item>
-
-    <item>
-      <title>Lobachevsky’s integral formula</title>
-      <link>https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:02:47 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post introduces Lobachevsky’s integral formula for even, π-periodic functions. It highlights the formula's utility in Fourier analysis and signal processing applications.</description>
-    </item>
-
-    <item>
-      <title>Queens on a prime order board</title>
-      <link>https://www.johndcook.com/blog/2026/06/21/queens-prime/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/21/queens-prime/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:21:44 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses a mathematical solution to the n-queens problem specifically when n is a prime number greater than or equal to 5. It explains how selecting queens along a line with specific slopes allows for a valid placement on the chessboard.</description>
-    </item>
-
-    <item>
-      <title>In memory of the man who put red and green squiggles under words</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post pays tribute to the individual responsible for implementing the red and green underline spell and grammar check features in Microsoft Word. It highlights how this ubiquitous functionality has since expanded beyond word processors to become a standard interface element across modern software.</description>
-    </item>
-
-    <item>
-      <title>Pledging Another $400,000 to the Zig Software Foundation</title>
-      <link>https://mitchellh.com/writing/zig-donation-2026</link>
-      <guid>https://mitchellh.com/writing/zig-donation-2026</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
-      <description>Mitchell Hashimoto announces a new $400,000 financial pledge to support the Zig Software Foundation. This commitment underscores his ongoing dedication to the long-term development and sustainability of the Zig programming language ecosystem.</description>
-    </item>
-
-    <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post addresses the significant security risks business travelers face from state-sponsored attacks, espionage, and blackmail. The author compiles practical security advice and strategies for professionals to mitigate these threats while traveling abroad.</description>
-    </item>
-
-    <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This article explores the technical nature of SVG files and discusses the appropriate copyleft licensing strategies for vector graphics. It highlights how SVGs function as XML-based code and addresses the legal implications of applying open-source licenses to these files.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Good politics (22 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/22/8-for-what-we-will/</link>
-      <guid>https://pluralistic.net/2026/06/22/8-for-what-we-will/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:16:08 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow discusses the importance of effective governance, using Brazilian President Lula da Silva's political career as a model for policy-driven success. He contrasts this with the failures of the Bolsonaro administration and highlights the significance of political integrity in the face of corruption.</description>
-    </item>
-
-    <item>
-      <title>Everything you say CAN and WILL be used against you </title>
-      <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
-      <guid>https://idiallo.com/blog/the-right-to-remain-silent</guid>
-      <pubDate>Mon, 22 Jun 2026 07:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author draws a parallel between the legal Miranda rights warning and the invasive data-sharing agreements found in modern tech services. By highlighting how users carelessly consent to terms and identity verification, the post argues that users unwittingly surrender their privacy and agency to tech companies.</description>
-    </item>
-
-    <item>
-      <title>Happy Father's Day. </title>
-      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
-      <guid>https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 02:43:33 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author reflects on fatherhood, comparing his own experiences to his father's perceived strength and leadership. He shares a personal, previously written story that uses clocks as a central metaphor to describe his father's legacy.</description>
-    </item>
-
-    <item>
-      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</guid>
-      <pubDate>Sun, 21 Jun 2026 23:35:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released sqlite-utils 4.0rc1, introducing built-in database migrations and nested transaction support. The release includes backwards-incompatible changes and invites community testing before the stable version launch.</description>
-    </item>
-
-    <item>
-      <title>sqlite-utils 4.0rc1</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</guid>
-      <pubDate>Sun, 21 Jun 2026 23:30:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released sqlite-utils 4.0rc1, which introduces support for database migrations and nested transactions. This update represents a significant step forward for the library's utility in managing SQLite databases.</description>
-    </item>
-
-    <item>
-      <title>The doom justifies the valuation</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</guid>
-      <pubDate>Sun, 21 Jun 2026 07:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critiques the current AI industry discourse, distinguishing between genuine technical progress and the alarmist narratives used to justify inflated valuations. By contrasting technical updates like GLM-5.2 with the apocalyptic messaging from companies like Anthropic, the post argues that hype and existential fear have replaced tangible technological substance.</description>
-    </item>
-
-    <item>
-      <title>On Vulgar Materialism</title>
-      <link>https://borretti.me/article/on-vulgar-materialism</link>
-      <guid>https://borretti.me/article/on-vulgar-materialism</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This piece explores the philosophical intersection between vulgar materialism and cynicism. It suggests that extreme cynicism can paradoxically mirror the simplicity or ignorance of naïveté.</description>
-    </item>
-
-    <item>
-      <title>Glassblowing #3: A better thermionic diode</title>
-      <link>https://maurycyz.com/projects/glass/3/</link>
-      <guid>https://maurycyz.com/projects/glass/3/</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post chronicles the iterative process of building a thermionic vacuum diode by hand-blowing glass. It details the engineering challenges of aligning internal components and the practical steps taken to achieve electron emission through filament heating.</description>
-    </item>
-
-    <item>
-      <title>Temporary Cloudflare Accounts for AI agents</title>
-      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</guid>
-      <pubDate>Sun, 21 Jun 2026 22:01:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Cloudflare has introduced a new feature allowing users to deploy Workers projects without an existing account using the 'npx wrangler deploy --temporary' command. These projects are ephemeral, lasting 60 minutes, with an option to claim the account afterward for long-term ownership.</description>
-    </item>
-
-    <item>
-      <title>Bobby Prince has died</title>
-      <link>https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html</link>
-      <guid>https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html</guid>
-      <pubDate>Sat, 20 Jun 2026 01:45:09 GMT</pubDate>
-      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
-      <description>The article pays tribute to the legendary 90s FPS game composer Bobby Prince, best known for his iconic scores for id Software titles like Doom. The author highlights Prince's technical mastery in making MIDI music sound exceptional across diverse hardware and reviews his most atmospheric and memorable contributions to the genre.</description>
-    </item>
-
-    <item>
-      <title>Reading List 06/20/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-062026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-062026</guid>
-      <pubDate>Sat, 20 Jun 2026 12:01:56 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This digest explores key developments in housing legislation, energy storage, and industrial technology. It highlights industry skepticism surrounding data center timelines and innovations in cooling systems.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 20 June 2026</title>
-      <link>https://nesbitt.io/2026/06/20/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/06/20/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 20 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This weekly update details the latest releases and security patches across major package managers including sbt, pnpm, npm, Yarn, and mise. Key highlights include significant architectural updates for sbt 2.0.0 and critical security fixes for path-traversal vulnerabilities in pnpm.</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,276 @@
 {
   "nodes": [
     {
-      "id": "4aa6b813bdb86b8d",
-      "title": "Count the number of Safari tabs",
+      "id": "9e61dd70a4729661",
+      "title": "Nano Banana 2 Lite",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Gemini",
+        "AI",
+        "Google",
+        "Image Generation",
+        "Nano Banana"
+      ],
+      "published": "2026-06-30T22:15:35.000Z"
+    },
+    {
+      "id": "36f5f67c86fa79a9",
+      "title": "What's new in Claude Sonnet 5",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Claude Sonnet 5",
+        "Anthropic",
+        "API",
+        "tokenization",
+        "AI models"
+      ],
+      "published": "2026-06-30T21:23:02.000Z"
+    },
+    {
+      "id": "c50cdfbe4681f6a9",
+      "title": "Distinguishing variables from parameters",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "variables",
+        "parameters",
+        "functions",
+        "logic"
+      ],
+      "published": "2026-06-30T18:51:36.000Z"
+    },
+    {
+      "id": "8629cca2232d9368",
+      "title": "The AI Compass",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "AI Compass",
+        "quiz",
+        "AI ethics",
+        "archetypes",
+        "web development"
+      ],
+      "published": "2026-06-30T17:39:23.000Z"
+    },
+    {
+      "id": "e6d9181f4de8be94",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
       "pacer": "P",
       "keywords": [
-        "Safari",
-        "AppleScript",
+        "shot-scraper",
+        "Playwright",
         "automation",
-        "terminal",
-        "web browser"
+        "video demo",
+        "coding agents"
       ],
-      "published": "2026-06-29T18:36:18.000Z"
+      "published": "2026-06-30T16:54:26.000Z"
+    },
+    {
+      "id": "361b852334ef2e71",
+      "title": "Grant Sanderson – AI and the future of math",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "mathematics",
+        "superintelligence",
+        "reasoning",
+        "future"
+      ],
+      "published": "2026-06-30T15:53:19.000Z"
+    },
+    {
+      "id": "75d45f5449719352",
+      "title": "Weekly Update 510: Live From Mallorca with Scott Helme",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-510/",
+      "pacer": "C",
+      "keywords": [
+        "HTTPS",
+        "Security",
+        "Troy Hunt",
+        "Scott Helme",
+        "Web Security"
+      ],
+      "published": "2026-06-30T15:42:54.000Z"
+    },
+    {
+      "id": "a54c3d83b7524573",
+      "title": "shot-scraper 1.10",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "shot-scraper",
+        "automation",
+        "video recording",
+        "web scraping",
+        "software tools"
+      ],
+      "published": "2026-06-30T15:10:14.000Z"
+    },
+    {
+      "id": "a8714a7061389ae8",
+      "title": "Silver Rectangles and the Ways of Kings",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/30/silver-kings/",
+      "pacer": "A",
+      "keywords": [
+        "silver rectangle",
+        "golden ratio",
+        "geometry",
+        "mathematics",
+        "phi"
+      ],
+      "published": "2026-06-30T14:36:14.000Z"
+    },
+    {
+      "id": "3a0e6dfccfa24f70",
+      "title": "A compatibility note on the abuse of Windows window class extra bytes",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "Win32 API",
+        "Compatibility",
+        "Programming",
+        "Window Class"
+      ],
+      "published": "2026-06-30T14:00:00.000Z"
+    },
+    {
+      "id": "9b587e0a20cf3d60",
+      "title": "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Fake Creativity",
+        "AI",
+        "Creativity",
+        "Literature"
+      ],
+      "published": "2026-06-30T11:34:20.000Z"
+    },
+    {
+      "id": "92b06ebd697988f8",
+      "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/06/30/serenissima/",
+      "pacer": "R",
+      "keywords": [
+        "Jo Walton",
+        "Cory Doctorow",
+        "Pluralistic",
+        "Literature",
+        "Book Review"
+      ],
+      "published": "2026-06-30T11:22:50.000Z"
+    },
+    {
+      "id": "9af775d0703552c4",
+      "title": "Taking Roads and Bridges literally",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+      "pacer": "A",
+      "keywords": [
+        "open source",
+        "infrastructure",
+        "digital maintenance",
+        "public policy",
+        "software sustainability"
+      ],
+      "published": "2026-06-30T10:00:00.000Z"
+    },
+    {
+      "id": "b59c54a00986e591",
+      "title": "The Dating App Plot Device ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/dating-plot-device",
+      "pacer": "C",
+      "keywords": [
+        "dating apps",
+        "monetization",
+        "business models",
+        "user experience",
+        "social technology"
+      ],
+      "published": "2026-06-30T07:00:00.000Z"
+    },
+    {
+      "id": "3dd8e13cdfb2d211",
+      "title": "Derivative equals inverse",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "calculus",
+        "differential equations",
+        "inverse function",
+        "derivative"
+      ],
+      "published": "2026-06-30T01:06:12.000Z"
+    },
+    {
+      "id": "43863605d2878f71",
+      "title": "Notes from June 2026",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/notes-from-june-2026/",
+      "pacer": "R",
+      "keywords": [
+        "Ghost",
+        "AI ethics",
+        "Open Source",
+        "Taper",
+        "productivity"
+      ],
+      "published": "2026-06-30T00:00:00.000Z"
+    },
+    {
+      "id": "996e0ef5227274d3",
+      "title": "Data-directed programming in Haskell (SICP 2.4.3)",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
+      "pacer": "P",
+      "keywords": [
+        "Haskell",
+        "SICP",
+        "Data-directed programming",
+        "Functional Programming",
+        "Complex Numbers"
+      ],
+      "published": "2026-06-29T22:00:00.000Z"
     },
     {
       "id": "7ac14a1b99c8d65c",
@@ -33,20 +289,20 @@
       "published": "2026-06-29T16:34:57.000Z"
     },
     {
-      "id": "8edc68a0b3d08afa",
-      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-      "pacer": "E",
+      "id": "7b1403126f10c5be",
+      "title": "The evolution of window and class extra bytes in Windows",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484",
+      "pacer": "C",
       "keywords": [
-        "Ornith-1.0",
-        "LLM",
-        "Coding Agents",
-        "DeepReinforce",
-        "Open Weights"
+        "Windows",
+        "Win32 API",
+        "Extra Bytes",
+        "Programming",
+        "Operating System"
       ],
-      "published": "2026-06-29T16:17:59.000Z"
+      "published": "2026-06-29T14:00:00.000Z"
     },
     {
       "id": "de9dd74e527e79f8",
@@ -95,38 +351,6 @@
         "author"
       ],
       "published": "2026-06-29T02:12:56.000Z"
-    },
-    {
-      "id": "968fc5e2f5c07411",
-      "title": "Quoting Jon Udell",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI agents",
-        "software development",
-        "human-in-the-loop",
-        "generative AI",
-        "agentic engineering"
-      ],
-      "published": "2026-06-28T21:57:41.000Z"
-    },
-    {
-      "id": "f76ff5a4c68132d9",
-      "title": "Hack Your Summer",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "Hack Your Summer",
-        "internship",
-        "mentorship",
-        "career development",
-        "tech sprint"
-      ],
-      "published": "2026-06-28T19:26:11.000Z"
     },
     {
       "id": "398fc0fce75eaa82",
@@ -257,22 +481,6 @@
       "published": "2026-06-27T21:20:04.000Z"
     },
     {
-      "id": "e8ab4667f2aaf07c",
-      "title": "When will the decimals in a/b repeat?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/27/decimal-period/",
-      "pacer": "P",
-      "keywords": [
-        "mathematics",
-        "fractions",
-        "repeating decimals",
-        "period length",
-        "coding"
-      ],
-      "published": "2026-06-27T18:12:03.000Z"
-    },
-    {
       "id": "21a0663ffa001778",
       "title": "Hazy Memory",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -287,22 +495,6 @@
         "memory market"
       ],
       "published": "2026-06-27T14:09:29.000Z"
-    },
-    {
-      "id": "c9ebee9830dd2cf3",
-      "title": "Height of harmonic numbers",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/",
-      "pacer": "E",
-      "keywords": [
-        "harmonic numbers",
-        "asymptotics",
-        "number theory",
-        "data visualization",
-        "mathematics"
-      ],
-      "published": "2026-06-27T12:51:42.000Z"
     },
     {
       "id": "c492058e1b20484f",
@@ -369,22 +561,6 @@
       "published": "2026-06-27T03:32:38.000Z"
     },
     {
-      "id": "6ebb675458331f85",
-      "title": "Writing down harmonic numbers",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/",
-      "pacer": "C",
-      "keywords": [
-        "harmonic numbers",
-        "mathematics",
-        "fractions",
-        "number theory",
-        "John D. Cook"
-      ],
-      "published": "2026-06-27T01:51:03.000Z"
-    },
-    {
       "id": "7386a02ead884b3a",
       "title": "Arp 38: not that peculiar",
       "source": "Maurycy's Blog",
@@ -415,22 +591,6 @@
         "discourse"
       ],
       "published": "2026-06-27T00:00:00.000Z"
-    },
-    {
-      "id": "326afa476552b192",
-      "title": "Quoting Dean W. Ball",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI economics",
-        "frontier models",
-        "AI infrastructure",
-        "market dynamics",
-        "US policy"
-      ],
-      "published": "2026-06-26T22:25:46.000Z"
     },
     {
       "id": "43027dd9e764fd81",
@@ -689,22 +849,6 @@
       "published": "2026-06-24T19:00:00.000Z"
     },
     {
-      "id": "ad33f46a5119c5b3",
-      "title": "Cancellation of Windows Runtime activities is asynchronous",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465",
-      "pacer": "C",
-      "keywords": [
-        "Windows Runtime",
-        "asynchronous",
-        "cancellation",
-        "programming",
-        "WinRT"
-      ],
-      "published": "2026-06-24T14:00:00.000Z"
-    },
-    {
       "id": "5358aed48042fcc8",
       "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
       "source": "Jeff Geerling",
@@ -817,22 +961,6 @@
       "published": "2026-06-23T15:57:56.000Z"
     },
     {
-      "id": "b173d2a07687d30c",
-      "title": "Microspeak elaborated: Isn’t escrow just a release candidate by another name?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462",
-      "pacer": "C",
-      "keywords": [
-        "Microspeak",
-        "The Old New Thing",
-        "Escrow",
-        "Release Candidate",
-        "Terminology"
-      ],
-      "published": "2026-06-23T14:00:00.000Z"
-    },
-    {
       "id": "596d03755159d9e8",
       "title": "Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -847,22 +975,6 @@
         "big tech"
       ],
       "published": "2026-06-23T11:30:21.000Z"
-    },
-    {
-      "id": "43527d72068eed81",
-      "title": "Sunsetting a Package Manager",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html",
-      "pacer": "C",
-      "keywords": [
-        "CocoaPods",
-        "Package Manager",
-        "Infrastructure",
-        "Software Maintenance",
-        "Swift Package Manager"
-      ],
-      "published": "2026-06-23T10:00:00.000Z"
     },
     {
       "id": "c229928d66ba3acd",
@@ -1025,22 +1137,6 @@
       "published": "2026-06-22T18:41:28.000Z"
     },
     {
-      "id": "087e9e489caa720f",
-      "title": "Pluralistic: Good politics (22 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/22/8-for-what-we-will/",
-      "pacer": "C",
-      "keywords": [
-        "Lula da Silva",
-        "politics",
-        "governance",
-        "Brazil",
-        "Cory Doctorow"
-      ],
-      "published": "2026-06-22T17:16:08.000Z"
-    },
-    {
       "id": "098a7dd084d72553",
       "title": "Cybersecurity for the paranoid business traveller",
       "source": "Terence Eden’s Blog",
@@ -1071,22 +1167,6 @@
         "user agency"
       ],
       "published": "2026-06-22T07:00:00.000Z"
-    },
-    {
-      "id": "a4143d0e5dc1d57a",
-      "title": "Happy Father's Day. ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
-      "pacer": "C",
-      "keywords": [
-        "fatherhood",
-        "reflection",
-        "leadership",
-        "personal essay",
-        "family"
-      ],
-      "published": "2026-06-22T02:43:33.000Z"
     },
     {
       "id": "ae905cb76449460c",
@@ -1167,22 +1247,6 @@
         "construction technology"
       ],
       "published": "2026-06-20T12:01:56.000Z"
-    },
-    {
-      "id": "d81924adc64fd02e",
-      "title": "Which Copyleft Licence is Suitable for an SVG?",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/",
-      "pacer": "C",
-      "keywords": [
-        "SVG",
-        "Copyleft",
-        "Licensing",
-        "Open Source",
-        "XML"
-      ],
-      "published": "2026-06-20T11:34:22.000Z"
     },
     {
       "id": "4c9db705028db9b5",
@@ -2288,22 +2352,6 @@
       "published": "2026-06-05T04:06:59.000Z"
     },
     {
-      "id": "e6a7561d16342b7c",
-      "title": "Alex Imas and Phil Trammell – What remains scarce after AGI?",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell",
-      "pacer": "C",
-      "keywords": [
-        "AGI",
-        "scarcity",
-        "economics",
-        "automation",
-        "human capital"
-      ],
-      "published": "2026-06-04T16:14:49.000Z"
-    },
-    {
       "id": "6b795e6d8d608d53",
       "title": "How To Read More",
       "source": "Fernando Borretti",
@@ -2416,22 +2464,6 @@
       "published": "2026-06-02T00:00:00.000Z"
     },
     {
-      "id": "5a577b78ae731dc0",
-      "title": "Is the Monaco Grand Prix decided at qualifying?",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/is-monaco-decided-at-qualifying",
-      "pacer": "E",
-      "keywords": [
-        "Formula One",
-        "Monaco Grand Prix",
-        "Qualifying",
-        "Motorsport Statistics",
-        "Fact-check"
-      ],
-      "published": "2026-06-01T22:00:00.000Z"
-    },
-    {
       "id": "4f9660b7e3af6f55",
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "source": "Krebs on Security",
@@ -2446,22 +2478,6 @@
         "Hacking"
       ],
       "published": "2026-06-01T17:32:50.000Z"
-    },
-    {
-      "id": "d49605652b0bbf71",
-      "title": "1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "pacer": "E",
-      "keywords": [
-        "data breach",
-        "Have I Been Pwned",
-        "privacy regulations",
-        "cybersecurity",
-        "data disclosure"
-      ],
-      "published": "2026-06-01T08:22:52.000Z"
     },
     {
       "id": "6aa94bf167442b3d",
@@ -3548,22 +3564,6 @@
       "published": "2026-05-03T00:00:00.000Z"
     },
     {
-      "id": "5e2f323ab5686327",
-      "title": "png-cmp: like cmp for PNGs",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/",
-      "pacer": "P",
-      "keywords": [
-        "png-cmp",
-        "image-comparison",
-        "command-line-tool",
-        "pixel-data",
-        "development"
-      ],
-      "published": "2026-05-03T00:00:00.000Z"
-    },
-    {
       "id": "8b083fd5283b6063",
       "title": "Scaling, stretching and shifting sinusoids",
       "source": "Eli Bendersky's website",
@@ -4258,12 +4258,32 @@
   ],
   "links": [
     {
-      "source": "c9ebee9830dd2cf3",
-      "target": "6ebb675458331f85",
+      "source": "9e61dd70a4729661",
+      "target": "7ac14a1b99c8d65c",
       "shared_keywords": [
-        "harmonic numbers",
-        "mathematics",
-        "number theory"
+        "Google",
+        "Gemini",
+        "AI"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "3a0e6dfccfa24f70",
+      "target": "7b1403126f10c5be",
+      "shared_keywords": [
+        "Windows",
+        "Win32 API",
+        "Programming"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "996e0ef5227274d3",
+      "target": "b17c85a4c4ea4418",
+      "shared_keywords": [
+        "Haskell",
+        "SICP",
+        "Complex Numbers"
       ],
       "strength": 0.6
     },
