@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-06-30T22:25:13.906Z",
+  "last_updated": "2026-07-01T22:25:57.727Z",
   "articles": [
+    {
+      "id": "ae83a40e9794d5b7",
+      "title": "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst",
+      "url": "https://berthub.eu/articles/posts/de-schaduwgeheimedienst/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-01T08:40:00.000Z",
+      "summary_en": "A new research report reveals that the Dutch intelligence agencies AIVD and MIVD handle massive bulk datasets, often containing information on millions of innocent citizens, in a careless and sometimes unlawful manner. These datasets are acquired through various sources, including foreign agencies, commercial providers, and special powers.",
+      "summary_zh": "一份最新研究報告指出，荷蘭情報機構 AIVD 與 MIVD 在處理包含數百萬無辜民眾資料的「批量數據集」時，存在疏忽甚至違法行為。這些數據集通常透過國外情報機構、商業管道或特殊調查權限獲取。",
+      "keywords": [
+        "AIVD",
+        "MIVD",
+        "intelligence",
+        "bulk datasets",
+        "privacy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on the findings of a specific research report regarding intelligence agency practices.",
+      "pacer_reason_zh": "本文內容主要基於一份關於情報機構實務操作的特定研究報告之調查結果。"
+    },
+    {
+      "id": "af4ee6c875c4118b",
+      "title": "Summary of reading: April - June 2026",
+      "url": "https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-07-01T01:52:00.000Z",
+      "summary_en": "This post provides a reading digest of various books reviewed by the author between April and June 2026. The list includes a mix of historical accounts, travel memoirs, socio-political analysis, business histories, and scientific biographies.",
+      "summary_zh": "這篇文章整理了作者於 2026 年 4 月至 6 月間的閱讀筆記。涵蓋內容包括歷史紀實、旅行回憶錄、社會政治分析、企業發展史以及科學人物傳記等多類書籍的簡短心得。",
+      "keywords": [
+        "book reviews",
+        "reading list",
+        "literature",
+        "non-fiction",
+        "Eli Bendersky"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a reference list of book recommendations and brief reviews.",
+      "pacer_reason_zh": "該文章作為書籍推薦與簡短評語的參考清單。"
+    },
+    {
+      "id": "2c635c8dad9b7082",
+      "title": "explaining myself through stories",
+      "url": "https://jyn.dev/explaining-myself-through-stories/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-07-01T00:00:00.000Z",
+      "summary_en": "The author explores the limitations of language and the necessity of using narratives to express complex personal identity. By referencing literary characters, the post argues that stories provide a holistic understanding that literal descriptions or isolated facts cannot capture.",
+      "summary_zh": "作者探討了語言的局限性，並指出敘事對於表達複雜個人認同的必要性。通過引用文學角色，本文論證了故事能夠傳達單純的描述或事實無法涵蓋的整體意涵。",
+      "keywords": [
+        "storytelling",
+        "identity",
+        "narrative",
+        "philosophy",
+        "literary analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a conceptual reflection on the nature of identity and the communicative power of storytelling versus literal language.",
+      "pacer_reason_zh": "本文屬於概念性反思，探討了認同的本質以及敘事相較於字面語言所具備的溝通能力。"
+    },
+    {
+      "id": "c8d55888476f5aab",
+      "title": "The Winning Essays for the Big Questions About AI ",
+      "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-07-01T22:13:17.000Z",
+      "summary_en": "This article highlights the winning essays from the 'Big Questions About AI' competition. The entries cover diverse topics including strategies for pandemic prevention, the economic implications of AI automation, and potential lessons from the Hong Kong MTR business model.",
+      "summary_zh": "本文介紹了「關於人工智慧的重大問題」徵文比賽的獲獎作品。這些文章探討了多個領域，包括預防全球大流行病的策略、人工智慧自動化的經濟影響，以及借鑒香港地鐵商業模式的啟示。",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Essays",
+        "Automation",
+        "Public Policy"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a curated list or reference source for top-tier essay entries on AI-related topics.",
+      "pacer_reason_zh": "本文作為一份精選清單，匯集了關於人工智慧相關主題的優秀文章，屬於參考性質的資料。"
+    },
+    {
+      "id": "f5cb24fb7a45a43c",
+      "title": "The CRA is not about open source",
+      "url": "https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-01T10:00:00.000Z",
+      "summary_en": "The Cyber Resilience Act (CRA) is fundamentally a product-safety regulation for manufactured goods, rather than a piece of legislation tailored for open-source development. It treats open-source software only as a component of regulated products, failing to address the realities of open-source maintenance, registries, or community-led development.",
+      "summary_zh": "歐盟《網路韌性法案》(CRA) 本質上是一項針對工業產品的安全法規，而非專為開源開發設計的政策。該法案僅將開源軟體視為受管產品的組件，並未真正納入開源專案、維護者或開源社群運作模式的實際需求。",
+      "keywords": [
+        "CRA",
+        "Cyber Resilience Act",
+        "Open Source",
+        "EU Regulation",
+        "Software Security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the CRA, explaining its legal nature as a product-safety regulation rather than an open-source policy.",
+      "pacer_reason_zh": "本文提供對《網路韌性法案》的概念性分析，解釋其法律本質屬於產品安全法規，而非開源政策。"
+    },
+    {
+      "id": "575449c5f4ecddc3",
+      "title": "DNA Sequence Alignment and Kings",
+      "url": "https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-01T00:21:21.000Z",
+      "summary_en": "This article explores the connection between the central Delannoy numbers and chess movements, specifically how they calculate paths for a king on a board. It further discusses the application of these mathematical concepts to DNA sequence alignment.",
+      "summary_zh": "本文探討了中心德拉諾數（Delannoy numbers）與西洋棋中「國王」走法之間的數學聯繫。作者進一步解釋了這些數值如何應用於 DNA 序列比對的相關問題。",
+      "keywords": [
+        "Delannoy numbers",
+        "DNA sequence alignment",
+        "combinatorics",
+        "chess",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its application, focusing on the theoretical relationship between chess movements and sequence alignment.",
+      "pacer_reason_zh": "本文旨在解釋數學概念及其應用，重點在於說明西洋棋走法與序列比對之間的理論關聯。"
+    },
+    {
+      "id": "d34d9811ec0e656d",
+      "title": "It rather involved being on the other side of this airtight hatchway: Changing administrative settings",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-01T14:00:00.000Z",
+      "summary_en": "This post explains the security concept of an 'airtight hatchway,' illustrating why administrative privilege boundaries are difficult to cross. It highlights that gaining elevated access from within a restricted environment is a fundamental security challenge.",
+      "summary_zh": "這篇文章探討了「氣密艙門」的安全概念，說明為何跨越管理權限邊界存在困難。文章強調，從受限環境內部獲取提升後的權限是一項基礎的安全挑戰。",
+      "keywords": [
+        "security",
+        "administrative privileges",
+        "airtight hatchway",
+        "Windows",
+        "system architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a foundational security concept and the theoretical reasoning behind system boundary restrictions.",
+      "pacer_reason_zh": "本文解釋了一個基礎的安全概念，以及系統邊界限制背後的理論邏輯。"
+    },
+    {
+      "id": "341e0a6684f11f2d",
+      "title": "2026 mid-year link clearance",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-06-30T14:00:01.000Z",
+      "summary_en": "This post serves as a mid-year administrative update for The Old New Thing blog. It marks the periodic clearing of accumulated links and bookmarks, acting as a recurring housekeeping entry.",
+      "summary_zh": "本篇文章為《The Old New Thing》部落格的年中行政更新。文中記錄了例行的連結清理工作，屬於該網站週期性的整理紀錄。",
+      "keywords": [
+        "The Old New Thing",
+        "blog",
+        "housekeeping",
+        "links",
+        "mid-year"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a periodic reference update or list maintenance entry.",
+      "pacer_reason_zh": "此內容屬於週期性的參考資料更新或清單維護紀錄。"
+    },
+    {
+      "id": "1c52d8d32ba1a2e8",
+      "title": "Pluralistic: Technocarcinization (01 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/01/ontogeny/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-01T15:14:12.000Z",
+      "summary_en": "Cory Doctorow uses the biological concept of 'carcinization'—where disparate species evolve into crabs—as a metaphor for the current state of the tech industry. He argues that major platforms are converging into a singular, highly controlling, and surveillance-heavy model reminiscent of Facebook, effectively losing their unique operational identities.",
+      "summary_zh": "Cory Doctorow 利用生物學中的「甲殼動物化」現象——即不同物種最終演化成螃蟹的趨勢——來隱喻當前的科技產業發展。他認為各大科技平台正逐漸趨同，演變成一種以Facebook為範本、同時具備高控制力與高監控特徵的單一模式，導致其原本的產業差異逐漸消失。",
+      "keywords": [
+        "Enshittification",
+        "Technocarcinization",
+        "Big Tech",
+        "Surveillance",
+        "Platform Evolution"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the biological concept of carcinization as an analogy to explain the convergence of business models among major tech companies.",
+      "pacer_reason_zh": "本文運用生物學中的「甲殼動物化」概念作為類比，解釋大型科技公司商業模式趨同的現象。"
+    },
+    {
+      "id": "2acafbd6a6457016",
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-06-30T23:58:15.000Z",
+      "summary_en": "Simon Willison shares a brief update regarding Anthropic's announcement that the U.S. Department of Commerce has lifted export controls on the Claude Fable 5 and Mythos 5 models. Access to these generative AI services is expected to be restored shortly.",
+      "summary_zh": "Simon Willison 分享了一則簡短消息，指出 Anthropic 宣布美國商務部已解除對 Claude Fable 5 與 Mythos 5 模型的出口管制。預計這些生成式 AI 服務的使用權限將在短期內恢復。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "export controls",
+        "generative AI",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a reference or news record relaying a specific corporate announcement.",
+      "pacer_reason_zh": "該文章作為資訊參考或新聞紀錄，轉達了特定的企業公告。"
+    },
     {
       "id": "75d45f5449719352",
       "title": "Weekly Update 510: Live From Mallorca with Scott Helme",
