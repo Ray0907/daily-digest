@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-07-01T22:25:57.727Z",
+  "last_updated": "2026-07-02T22:20:51.097Z",
   "articles": [
+    {
+      "id": "b4f3a21edec54aa7",
+      "title": "Digitale Autonomie 2.0: en nu echt",
+      "url": "https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-02T11:37:00.000Z",
+      "summary_en": "Bert Hubert reflects on his keynote speech at the Surf Privacy and Security Conference, focusing on the practical steps required for digital autonomy. He emphasizes moving beyond theoretical discussions to actionable implementation strategies for a more autonomous digital future.",
+      "summary_zh": "Bert Hubert 回顧了他在 Surf 隱私與安全會議上的主題演講，重點探討實現數位自主權所需的實際步驟。他強調應超越理論討論，轉而關注推動數位自主發展的具體執行策略。",
+      "keywords": [
+        "digital autonomy",
+        "privacy",
+        "security",
+        "tech policy",
+        "implementation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual framework and necessary next steps for achieving digital autonomy.",
+      "pacer_reason_zh": "文章探討了實現數位自主權的概念框架以及必要的後續行動步驟。"
+    },
+    {
+      "id": "bb2bfd9ad0dd14b7",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+      "source": "Geoffrey Litt",
+      "source_url": "https://geoffreylitt.com/",
+      "published": "2026-07-02T10:00:00.000Z",
+      "summary_en": "The author argues that human understanding of AI-generated code remains critical, shifting from a role of simple verification to active participation. By utilizing techniques like code explainer docs, quizzes, and micro-worlds, developers can maintain the context necessary to guide creative iteration alongside AI agents.",
+      "summary_zh": "作者認為人類對 AI 生成程式碼的理解仍然至關重要，其角色已從單純的驗證轉變為積極參與開發過程。透過利用程式碼解釋文件、測驗及模擬環境等技術，開發者能維持必要的脈絡，以在與 AI 代理協作時持續激發創新迭代。",
+      "keywords": [
+        "AI agents",
+        "code understanding",
+        "human-AI collaboration",
+        "software development",
+        "iterative design"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on practical techniques and methods for developers to effectively engage with and understand code produced by AI agents.",
+      "pacer_reason_zh": "本文著重於開發者如何有效參與並理解 AI 代理所產出程式碼的實用技巧與方法。"
+    },
+    {
+      "id": "4b362489cf33d88b",
+      "title": "This Page Left Intentionally Blank",
+      "url": "https://blog.jim-nielsen.com/2026/intentionally-blank/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-02T19:00:00.000Z",
+      "summary_en": "The author discusses the aesthetic and philosophical value of the 'This Page Intentionally Left Blank' project, reflecting on the concept of intentional emptiness in the age of generative AI. Inspired by historical print practices, the author creates their own blank page as a deliberate act of simplicity and quietness on the web.",
+      "summary_zh": "作者探討了「此頁有意留白」(This Page Intentionally Left Blank) 計畫的美學與哲學意義，並反思在生成式 AI 時代，這種刻意留白的行為象徵著簡約與寧靜。受此啟發，作者在網站上創建了自己的空白頁面，作為對數位世界資訊過載的一種回應。",
+      "keywords": [
+        "intentionality",
+        "minimalism",
+        "web design",
+        "generative AI",
+        "digital philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual exploration of intentional blankness in digital spaces.",
+      "pacer_reason_zh": "內容聚焦於數位空間中「刻意留白」的觀念探索。"
+    },
+    {
+      "id": "b9db18ea4e5b5565",
+      "title": "Bring Back Crappy Forums",
+      "url": "https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-07-01T22:26:07.000Z",
+      "summary_en": "This article explores the decline of traditional web forums and reflects on why these niche, community-driven platforms often fostered deeper connections than modern social media. It examines the history of forums like Usenet and questions whether the transition to current social platforms has come at the cost of meaningful online interaction.",
+      "summary_zh": "本文探討了傳統網路論壇的沒落，並反思為何這些小眾且以社群為導向的平台，往往比現代社交媒體更能建立深刻的連結。文中回顧了 Usenet 等論壇的歷史，並探討現代社群平台的轉型是否以犧牲有意義的線上互動為代價。",
+      "keywords": [
+        "forums",
+        "social media",
+        "community",
+        "internet history",
+        "Usenet"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of why web forums were unique and how they differ from the modern social media landscape.",
+      "pacer_reason_zh": "本文屬於概念性探討，分析了網路論壇的獨特性及其與現代社交媒體生態的差異。"
+    },
+    {
+      "id": "09771008214ab5ae",
+      "title": "The case of the thread executing from an unloaded third-party DLL",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-02T14:00:00.000Z",
+      "summary_en": "This post discusses a technical debugging scenario involving a thread that continues to execute code from a DLL after it has been unloaded. It highlights a common pitfall in Windows development where memory management and thread synchronization overlap.",
+      "summary_zh": "這篇文章探討了一個技術除錯案例，涉及執行緒在第三方 DLL 被卸載後仍繼續執行其中的程式碼。文中指出這在 Windows 開發中是一個常見的記憶體管理與執行緒同步問題。",
+      "keywords": [
+        "debugging",
+        "Windows",
+        "DLL",
+        "threads",
+        "memory management"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a specific technical case study of a software bug, focusing on a real-world debugging scenario.",
+      "pacer_reason_zh": "本文提出了一個具體的軟體臭蟲技術案例研究，重點在於實際的除錯情境。"
+    },
+    {
+      "id": "35c3271ceda2005f",
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-02T11:34:59.000Z",
+      "summary_en": "The author defends their decision to write in en-GB, emphasizing that their blog is a personal space reflecting their cultural background. They argue that specific cultural references are intentional and reject the pressure to homogenize content for a global audience.",
+      "summary_zh": "作者捍衛其使用 en-GB（英式英語）撰寫部落格的決定，強調其部落格是反映個人文化背景的空間。他們認為特定的文化參考是有意為之，並拒絕為了迎合全球受眾而將內容大眾化或標準化。",
+      "keywords": [
+        "en-GB",
+        "blogging",
+        "inclusivity",
+        "culture",
+        "language"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a conceptual reflection on the author's personal philosophy regarding language choice and cultural identity in digital content.",
+      "pacer_reason_zh": "這篇文章是對作者在數位內容中關於語言選擇和文化認同的個人哲學進行概念性反思。"
+    },
+    {
+      "id": "cbf003ece0fc29d2",
+      "title": "Pluralistic: The difference between \"today's task\" and \"accretive work\" (02 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/02/canonization/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-02T07:54:42.000Z",
+      "summary_en": "Cory Doctorow distinguishes between two modes of productivity: 'today's tasks' and 'accretive work.' He illustrates this using the concept of 'reverse centaurs' to explain why programmers experience AI-driven automation so differently depending on whether they control the tool or are controlled by it.",
+      "summary_zh": "Cory Doctorow 探討了「當日任務」與「累積性工作」之間的差異。他透過「反向人馬（reverse centaurs）」的概念，解釋了為何工程師在使用 AI 自動化時會產生截然不同的體驗，關鍵在於開發者是掌握工具的主導者，還是被工具奴役的輔助者。",
+      "keywords": [
+        "AI",
+        "productivity",
+        "automation",
+        "tech debt",
+        "reverse centaurs"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and conceptualizing a theoretical framework to explain contradictory experiences in programming and labor.",
+      "pacer_reason_zh": "本文側重於定義並建構一個理論框架，以解釋程式開發與勞動中出現的矛盾現象。"
+    },
+    {
+      "id": "417bdaa0c3e139ab",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-02T19:27:33.000Z",
+      "summary_en": "The FBI, in collaboration with private industry partners, has seized domains linked to the NetNut residential proxy service. This enforcement action follows reports connecting the platform to the Popa botnet, which compromised millions of devices without user consent.",
+      "summary_zh": "美國聯邦調查局（FBI）與業界合作，查扣了與住宅代理服務 NetNut 相關的數百個網域。此項執法行動是針對該平台與「Popa」殭屍網路的關聯，該網路在未經使用者同意下入侵了超過兩百萬台裝置。",
+      "keywords": [
+        "FBI",
+        "NetNut",
+        "Popa botnet",
+        "cybersecurity",
+        "Alarum Technologies"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific security operation, providing factual evidence of a law enforcement action and its connection to malicious botnet activity.",
+      "pacer_reason_zh": "本文報導了具體的資安執法行動，提供有關執法單位取締行動及其與惡意殭屍網路活動關聯的事實證據。"
+    },
+    {
+      "id": "aa700a0b090cbd98",
+      "title": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-02T19:33:12.000Z",
+      "summary_en": "Simon Willison has released an alpha version of llm-coding-agent, a new tool built upon his LLM library that functions as a coding agent. The agent was developed using iterative prompts and test-driven development, and it is now available for users to install and test via PyPI.",
+      "summary_zh": "Simon Willison 發布了 llm-coding-agent 的 alpha 版本，這是一個基於其 LLM 函式庫所開發的編碼代理工具。該工具透過迭代提示詞與測試驅動開發（TDD）構建而成，目前已開放使用者透過 PyPI 安裝與測試。",
+      "keywords": [
+        "LLM",
+        "coding-agent",
+        "Python",
+        "software-development",
+        "open-source"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a release announcement with direct instructions and code examples for installing and running the new agent tool.",
+      "pacer_reason_zh": "本文為軟體發布公告，提供安裝與執行該工具的直接操作指令與程式碼範例。"
+    },
+    {
+      "id": "a5c875c2d1226c79",
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-02T18:25:00.000Z",
+      "summary_en": "Simon Willison uses the DSPy framework to systematically evaluate and optimize the system prompts for the Datasette Agent. By running automated research tasks, the process identified specific issues with schema listing and column guessing, leading to actionable improvements for SQL query generation.",
+      "summary_zh": "Simon Willison 利用 DSPy 框架來評估並優化 Datasette Agent 的系統提示詞。透過自動化研究任務，該過程識別出了關於綱要列表與欄位猜測的具體問題，進而為 SQL 查詢生成提供了可執行的改進方案。",
+      "keywords": [
+        "DSPy",
+        "Datasette Agent",
+        "SQL",
+        "Prompt Engineering",
+        "LLM Evals"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article documents an experimental process using DSPy to test and derive data-driven improvements for AI prompts.",
+      "pacer_reason_zh": "本文記錄了利用 DSPy 進行實驗的過程，旨在測試並導出針對 AI 提示詞的數據驅動改進方案。"
+    },
+    {
+      "id": "6c43649d42286d6c",
+      "title": "Understand to participate",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-02T17:07:14.000Z",
+      "summary_en": "This post discusses Geoffrey Litt's perspective on the necessity of maintaining a deep understanding of code when working with AI coding agents. It warns against accruing cognitive debt and emphasizes that human fluency is essential for active participation in the creative AI-assisted development process.",
+      "summary_zh": "這篇文章討論了 Geoffrey Litt 的觀點，強調在使用 AI 程式設計代理時，保持對程式碼的深入理解至關重要。作者警告應避免累積認知債務，並指出人類的技術流暢度是參與 AI 輔助開發過程的關鍵。",
+      "keywords": [
+        "coding-agents",
+        "generative-ai",
+        "cognitive-debt",
+        "geoffrey-litt",
+        "llms"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on a conceptual framework regarding the relationship between human expertise and AI-assisted programming.",
+      "pacer_reason_zh": "本文主要探討關於人類專業知識與 AI 輔助程式設計之間關係的概念性框架。"
+    },
+    {
+      "id": "7d3d7b98bf9f92a4",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://seangoedecke.com/text-ai-watermarks/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-02T00:00:00.000Z",
+      "summary_en": "The article argues that AI-generated text watermarks are fundamentally ineffective and easy to circumvent. It suggests that technical limitations make it impossible to guarantee the permanence of these markers against determined users.",
+      "summary_zh": "本文主張 AI 生成文本的水印在技術上本質上是無效的，且極易被移除。作者指出，由於技術限制，這些標記無法保證能長期對抗有心人士的規避手段。",
+      "keywords": [
+        "AI",
+        "watermarking",
+        "text generation",
+        "cybersecurity",
+        "content authenticity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument regarding the inherent limitations and theoretical flaws of text watermarking technologies.",
+      "pacer_reason_zh": "本文針對文本浮水印技術的內在限制與理論缺陷，提供了概念性的論點分析。"
+    },
     {
       "id": "ae83a40e9794d5b7",
       "title": "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst",
