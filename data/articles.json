@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-02T22:20:51.097Z",
+  "last_updated": "2026-07-03T22:51:25.874Z",
   "articles": [
+    {
+      "id": "da825e63f3998a67",
+      "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+      "url": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-07-03T06:52:41.000Z",
+      "summary_en": "The article uses the analogy of urinating in a swimming pool to explain the near-impossibility of completely deleting one's personal data from the internet. It highlights how once information is shared or copied, it becomes permanently diffused across the digital ecosystem.",
+      "summary_zh": "本文以在游泳池中排尿作為類比，說明將個人資料從網路上完全刪除幾乎是不可能的任務。它強調一旦資訊被分享或複製，就會永久地散佈在數位生態系統中，無法完全清除。",
+      "keywords": [
+        "data privacy",
+        "internet safety",
+        "data deletion",
+        "digital footprint",
+        "online security"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses a vivid analogy (peeing in a pool) to explain the complex, irreversible nature of data distribution on the internet.",
+      "pacer_reason_zh": "作者使用生動的類比（在游泳池中排尿）來解釋網路上數據分發的複雜且不可逆轉的本質。"
+    },
+    {
+      "id": "f8174579ba56b310",
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-07-03T15:46:04.000Z",
+      "summary_en": "This article explores the early history of Maxis Software and the visionary thinking of its co-founder, Will Wright. It highlights the company's unique approach to simulation games and the role of gaming enthusiasts in preserving the history of the medium.",
+      "summary_zh": "本文探討了 Maxis Software 的早期歷史以及聯合創始人威爾·萊特（Will Wright）的願景。文章介紹了該公司獨特的模擬遊戲開發理念，並強調了遊戲玩家在保存產業歷史方面所扮演的重要角色。",
+      "keywords": [
+        "Maxis",
+        "Will Wright",
+        "SimCity",
+        "Game History",
+        "Simulation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a historical overview and narrative exploration of a company's origins and its conceptual approach to game design.",
+      "pacer_reason_zh": "本文是對一家公司起源及其遊戲設計理念的歷史回顧與敘事性探討。"
+    },
+    {
+      "id": "eb4eef80cbe174c8",
+      "title": "The Fall and Rise of Screwworm",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-03T12:02:57.000Z",
+      "summary_en": "This article explores the historical impact and life cycle of the screwworm, a devastating parasite that affected livestock across North America. It details how these pests seasonally migrated from southern regions, highlighting their historical prevalence before eradication efforts.",
+      "summary_zh": "本文探討了螺旋蠅對北美畜牧業造成的毀滅性影響及其生命週期。文章詳述了這種寄生蟲每年從南方遷徙的習性，並回顧了其在被根除前的歷史危害。",
+      "keywords": [
+        "screwworm",
+        "parasite",
+        "livestock",
+        "entomology",
+        "history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the biological phenomenon and historical context of the screwworm's migration.",
+      "pacer_reason_zh": "文章旨在解釋螺旋蠅遷徙的生物學現象與歷史背景。"
+    },
+    {
+      "id": "3fb525ede7955074",
+      "title": "How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-03T14:00:00.000Z",
+      "summary_en": "This post explains the investigative process used to identify CcNamespace.dll as the primary cause behind the premature unloading of a group of DLLs. It highlights the importance of analyzing contextual clues to diagnose complex system behavior issues.",
+      "summary_zh": "本文介紹了如何透過分析上下文線索，找出導致一組 DLL 提前卸載的關鍵肇事者 CcNamespace.dll。文中強調了在診斷複雜系統行為問題時，分析環境背景資訊的重要性。",
+      "keywords": [
+        "CcNamespace.dll",
+        "Debugging",
+        "DLL",
+        "Windows",
+        "Root Cause Analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of the reasoning and diagnostic approach used to solve a specific technical problem.",
+      "pacer_reason_zh": "本文提供了針對特定技術問題解決過程的觀念性解釋與診斷思路。"
+    },
+    {
+      "id": "1097ae6b34011cbc",
+      "title": "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/03/rod-logic/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-03T09:00:15.000Z",
+      "summary_en": "Cory Doctorow reflects on the educational value of the 1968 CARDiac, a papercraft computer designed to teach the fundamentals of computing. He contrasts this tactile experience with his early exposure to terminal-based programming to illustrate how physical abstraction helps bridge the gap between theory and execution.",
+      "summary_zh": "Cory Doctorow 回顧了 1968 年推出的 CARDiac 紙板電腦，這款專為教學設計的工具幫助他理解了計算機運作的基礎邏輯。他將這種實體操作體驗與早期的終端機程式設計進行對比，探討了具象化教學對於理解抽象概念的重要性。",
+      "keywords": [
+        "CARDiac",
+        "computing history",
+        "education",
+        "abstraction",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article uses a personal anecdote and historical perspective to explore the conceptual nature of how computers work and the role of physical abstraction in learning.",
+      "pacer_reason_zh": "本文透過個人經歷與歷史觀點，探討計算機運作的觀念基礎，以及實體抽象概念在學習過程中所扮演的角色。"
+    },
+    {
+      "id": "beea18396340c774",
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-03T22:04:31.000Z",
+      "summary_en": "Simon Willison highlights the launch of the Open Source AI Gap Map, a non-profit initiative indexing hundreds of AI tools, models, and datasets. The project provides its underlying data in an open GitHub repository, allowing for detailed exploration and analysis.",
+      "summary_zh": "Simon Willison 介紹了「開源 AI 差距地圖」(Open Source AI Gap Map)，這是一個旨在編目各類 AI 工具、模型與數據集的非營利項目。該項目將底層數據以開源格式發佈在 GitHub 上，方便使用者進行深入探索與分析。",
+      "keywords": [
+        "open-source",
+        "ai",
+        "datasette-lite",
+        "generative-ai",
+        "gap-map"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article primarily serves as a reference point for a new dataset, providing links to the project and explaining its structure and availability.",
+      "pacer_reason_zh": "本文主要作為新數據集的參考指南，提供項目連結並解釋其結構與取得方式。"
+    },
+    {
+      "id": "dd9f2c7429b0af93",
+      "title": "Quoting Josh W. Comeau",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-03T21:25:52.000Z",
+      "summary_en": "Developer course creator Josh W. Comeau reports a significant decline in sales, attributing the downturn to the rise of AI. He argues that developers are hesitant to invest in new skills due to job market uncertainty and the ability of LLMs to provide personalized tutoring.",
+      "summary_zh": "開發者課程創作者 Josh W. Comeau 指出其課程銷量大幅下滑，並將此趨勢歸咎於 AI 的興起。他認為開發者因就業市場的不確定性而對學習新技能持保留態度，同時大型語言模型（LLM）提供的個性化教學也降低了購買付費課程的意願。",
+      "keywords": [
+        "AI",
+        "LLM",
+        "online-courses",
+        "developer-skills",
+        "creator-economy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content presents anecdotal evidence and observations regarding the impact of AI on the developer course market.",
+      "pacer_reason_zh": "內容提供了關於 AI 對開發者課程市場影響的觀察與經驗證詞。"
+    },
+    {
+      "id": "eefcaed436a9eb39",
+      "title": "Fable's judgement",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-03T18:51:06.000Z",
+      "summary_en": "Simon Willison shares a strategy for optimizing Claude Code by empowering the Fable model to use its own judgment for task delegation. By instructing the AI to choose lower-power models for routine coding tasks, users can improve efficiency and reduce token costs.",
+      "summary_zh": "Simon Willison 分享了一項優化 Claude Code 的策略，建議讓 Fable 模型自行判斷任務需求以進行委派。透過指示 AI 針對日常編碼任務選擇低功耗模型，使用者不僅能提升效率，還能有效節省 Token 成本。",
+      "keywords": [
+        "Claude Code",
+        "Fable",
+        "AI optimization",
+        "LLM",
+        "agentic workflow"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, actionable tip on how to configure and prompt an AI agent to optimize performance and cost.",
+      "pacer_reason_zh": "文章提供了實用且可操作的建議，指導使用者如何設定及提示 AI 代理以達到最佳效能與成本效益。"
+    },
+    {
+      "id": "631dfdc403b947c1",
+      "title": "June 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-03T14:50:50.000Z",
+      "summary_en": "Simon Willison has released his June 2026 sponsors-only newsletter, covering topics such as recent AI model developments, export restrictions, and updates to his open-source tools. The post invites new sponsors to access the current edition and provides a link to the previous month's newsletter as a preview.",
+      "summary_zh": "Simon Willison 發布了 2026 年 6 月的贊助者專屬電子報，內容涵蓋近期 AI 模型發展、出口限制以及其開源工具的更新。該文章邀請讀者透過贊助取得最新內容，並提供上個月的電子報作為預覽。",
+      "keywords": [
+        "newsletter",
+        "AI models",
+        "Datasette",
+        "open source",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a reference or announcement list for current newsletter topics and project updates.",
+      "pacer_reason_zh": "內容主要作為電子報主題與專案更新的參考公告清單。"
+    },
     {
       "id": "b4f3a21edec54aa7",
       "title": "Digitale Autonomie 2.0: en nu echt",

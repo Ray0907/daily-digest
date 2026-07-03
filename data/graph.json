@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "beea18396340c774",
+      "title": "Open Source AI Gap Map",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "open-source",
+        "ai",
+        "datasette-lite",
+        "generative-ai",
+        "gap-map"
+      ],
+      "published": "2026-07-03T22:04:31.000Z"
+    },
+    {
+      "id": "dd9f2c7429b0af93",
+      "title": "Quoting Josh W. Comeau",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "AI",
+        "LLM",
+        "online-courses",
+        "developer-skills",
+        "creator-economy"
+      ],
+      "published": "2026-07-03T21:25:52.000Z"
+    },
+    {
+      "id": "eefcaed436a9eb39",
+      "title": "Fable's judgement",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Claude Code",
+        "Fable",
+        "AI optimization",
+        "LLM",
+        "agentic workflow"
+      ],
+      "published": "2026-07-03T18:51:06.000Z"
+    },
+    {
+      "id": "f8174579ba56b310",
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "pacer": "C",
+      "keywords": [
+        "Maxis",
+        "Will Wright",
+        "SimCity",
+        "Game History",
+        "Simulation"
+      ],
+      "published": "2026-07-03T15:46:04.000Z"
+    },
+    {
+      "id": "631dfdc403b947c1",
+      "title": "June 2026 newsletter",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "newsletter",
+        "AI models",
+        "Datasette",
+        "open source",
+        "Simon Willison"
+      ],
+      "published": "2026-07-03T14:50:50.000Z"
+    },
+    {
+      "id": "3fb525ede7955074",
+      "title": "How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504",
+      "pacer": "C",
+      "keywords": [
+        "CcNamespace.dll",
+        "Debugging",
+        "DLL",
+        "Windows",
+        "Root Cause Analysis"
+      ],
+      "published": "2026-07-03T14:00:00.000Z"
+    },
+    {
+      "id": "eb4eef80cbe174c8",
+      "title": "The Fall and Rise of Screwworm",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "pacer": "C",
+      "keywords": [
+        "screwworm",
+        "parasite",
+        "livestock",
+        "entomology",
+        "history"
+      ],
+      "published": "2026-07-03T12:02:57.000Z"
+    },
+    {
+      "id": "1097ae6b34011cbc",
+      "title": "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/07/03/rod-logic/",
+      "pacer": "C",
+      "keywords": [
+        "CARDiac",
+        "computing history",
+        "education",
+        "abstraction",
+        "Cory Doctorow"
+      ],
+      "published": "2026-07-03T09:00:15.000Z"
+    },
+    {
+      "id": "da825e63f3998a67",
+      "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/",
+      "pacer": "A",
+      "keywords": [
+        "data privacy",
+        "internet safety",
+        "data deletion",
+        "digital footprint",
+        "online security"
+      ],
+      "published": "2026-07-03T06:52:41.000Z"
+    },
+    {
       "id": "aa700a0b090cbd98",
       "title": "llm-coding-agent 0.1a0",
       "source": "Simon Willison's Weblog",
@@ -47,38 +191,6 @@
         "digital philosophy"
       ],
       "published": "2026-07-02T19:00:00.000Z"
-    },
-    {
-      "id": "a5c875c2d1226c79",
-      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "DSPy",
-        "Datasette Agent",
-        "SQL",
-        "Prompt Engineering",
-        "LLM Evals"
-      ],
-      "published": "2026-07-02T18:25:00.000Z"
-    },
-    {
-      "id": "6c43649d42286d6c",
-      "title": "Understand to participate",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "coding-agents",
-        "generative-ai",
-        "cognitive-debt",
-        "geoffrey-litt",
-        "llms"
-      ],
-      "published": "2026-07-02T17:07:14.000Z"
     },
     {
       "id": "09771008214ab5ae",
@@ -321,38 +433,6 @@
       "published": "2026-07-01T00:00:00.000Z"
     },
     {
-      "id": "2acafbd6a6457016",
-      "title": "Quoting Anthropic",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "export controls",
-        "generative AI",
-        "LLM"
-      ],
-      "published": "2026-06-30T23:58:15.000Z"
-    },
-    {
-      "id": "9e61dd70a4729661",
-      "title": "Nano Banana 2 Lite",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Gemini",
-        "AI",
-        "Google",
-        "Image Generation",
-        "Nano Banana"
-      ],
-      "published": "2026-06-30T22:15:35.000Z"
-    },
-    {
       "id": "c50cdfbe4681f6a9",
       "title": "Distinguishing variables from parameters",
       "source": "John D. Cook",
@@ -577,22 +657,6 @@
       "published": "2026-06-29T16:34:57.000Z"
     },
     {
-      "id": "7b1403126f10c5be",
-      "title": "The evolution of window and class extra bytes in Windows",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484",
-      "pacer": "C",
-      "keywords": [
-        "Windows",
-        "Win32 API",
-        "Extra Bytes",
-        "Programming",
-        "Operating System"
-      ],
-      "published": "2026-06-29T14:00:00.000Z"
-    },
-    {
       "id": "de9dd74e527e79f8",
       "title": "Who you gonna believe: Grok or the docs?",
       "source": "John D. Cook",
@@ -783,22 +847,6 @@
         "industry trends"
       ],
       "published": "2026-06-27T12:02:02.000Z"
-    },
-    {
-      "id": "2c0418d6bcf9330c",
-      "title": "Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "pacer": "A",
-      "keywords": [
-        "Whistleblowers",
-        "Lukashenka",
-        "Zuckerberg",
-        "Protest",
-        "Authoritarianism"
-      ],
-      "published": "2026-06-27T11:14:05.000Z"
     },
     {
       "id": "415fc6b827df885e",
@@ -1905,22 +1953,6 @@
       "published": "2026-06-13T15:56:00.314Z"
     },
     {
-      "id": "a3a0a58f0dc3265b",
-      "title": "Reading List 06/13/2026",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-06132026",
-      "pacer": "R",
-      "keywords": [
-        "infrastructure",
-        "engineering",
-        "construction",
-        "manufacturing",
-        "logistics"
-      ],
-      "published": "2026-06-13T12:01:19.000Z"
-    },
-    {
       "id": "0021f221050a70b3",
       "title": "Human Routers of Machine Words",
       "source": "Fernando Borretti",
@@ -2478,22 +2510,6 @@
         "infrastructure"
       ],
       "published": "2026-06-04T00:00:00.000Z"
-    },
-    {
-      "id": "1e7def351b2eb5f3",
-      "title": "Welcoming the Philippine Government to Have I Been Pwned",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/",
-      "pacer": "E",
-      "keywords": [
-        "HIBP",
-        "Cybersecurity",
-        "Philippines",
-        "Data Breach",
-        "Government"
-      ],
-      "published": "2026-06-03T03:40:17.000Z"
     },
     {
       "id": "fcdf880821825495",
@@ -3507,22 +3523,6 @@
       "published": "2026-05-11T00:00:00.000Z"
     },
     {
-      "id": "2dfe08d135725745",
-      "title": "This Week on The Analog Antiquarian",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/",
-      "pacer": "R",
-      "keywords": [
-        "The Analog Antiquarian",
-        "blog update",
-        "announcement",
-        "gaming",
-        "hiatus"
-      ],
-      "published": "2026-05-08T16:11:33.000Z"
-    },
-    {
       "id": "3404ce0457697715",
       "title": "Flower: an SSG with a Clojure template language",
       "source": "the website of jyn",
@@ -4305,26 +4305,6 @@
         "cybersecurity"
       ],
       "strength": 0.8
-    },
-    {
-      "source": "9e61dd70a4729661",
-      "target": "7ac14a1b99c8d65c",
-      "shared_keywords": [
-        "Google",
-        "Gemini",
-        "AI"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "3a0e6dfccfa24f70",
-      "target": "7b1403126f10c5be",
-      "shared_keywords": [
-        "Windows",
-        "Win32 API",
-        "Programming"
-      ],
-      "strength": 0.6
     },
     {
       "source": "996e0ef5227274d3",
