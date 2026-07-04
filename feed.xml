@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 03 Jul 2026 22:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:43:53 GMT</lastBuildDate>
     
+    <item>
+      <title>Reading List 07/04/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-070426</link>
+      <guid>https://www.construction-physics.com/p/reading-list-070426</guid>
+      <pubDate>Sat, 04 Jul 2026 12:03:22 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This digest covers a diverse range of topics, including the prevalence of households without homeowners insurance and the implications of AI chip smuggling. It also explores technical and business developments such as Japan’s unique dual-frequency electrical grid and Meta's current strategy in the AI computing sector.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 4 July 2026</title>
+      <link>https://nesbitt.io/2026/07/04/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/07/04/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This weekly digest covers key updates across various package managers including Hex, Conan, uv, pixi, mise, Rust/Cargo, npm, and Homebrew. The releases focus on security enhancements, dependency policy management, SBOM improvements, and performance optimizations.</description>
+    </item>
+
+    <item>
+      <title>Does additional data always reduce posterior variance?</title>
+      <link>https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</guid>
+      <pubDate>Sat, 04 Jul 2026 02:50:36 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post examines the counterintuitive Bayesian scenario where collecting additional data does not always result in a decreased posterior variance. It explores the theoretical conditions under which new information might fail to narrow confidence intervals.</description>
+    </item>
+
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</link>
+      <guid>https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author discusses a regression where newer Claude models, specifically Opus 4.8 and Sonnet 5, are more prone to generating malformed tool calls compared to their predecessors. He explains that tool calling relies on text-based signals and emphasizes that despite model advancements, schema compliance for structured outputs remains a significant challenge.</description>
+    </item>
+
+    <item>
+      <title>Combined 1D and 2D Barcodes</title>
+      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
+      <guid>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
+      <pubDate>Sat, 04 Jul 2026 11:34:57 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author explores the transition from traditional 1D barcodes to 2D QR codes by creating a hybrid design. By embedding a UPC within a QR code, the system allows for dual-mode scanning depending on the proximity of the reading device.</description>
+    </item>
+
     <item>
       <title>Swimming Pools, Pee, and Trying to Delete Your Data From the Internet</title>
       <link>https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/</link>
@@ -859,51 +904,6 @@
       <pubDate>Thu, 25 Jun 2026 10:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>Scrutineer is a tool designed to automate the security vulnerability reporting process in open-source projects by filtering AI-generated findings before they reach maintainers. By vetting and drafting fixes for vulnerabilities through a skill-based pipeline, it prevents maintainer burnout while improving the efficiency of the remediation process.</description>
-    </item>
-
-    <item>
-      <title>Hart’s theorem</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/harts-theorem/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/25/harts-theorem/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:20:09 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>Hart's theorem describes a geometric property where the inscribed and escribed circles of a circular triangle are all tangent to a common circle or line. This post introduces the theorem's definition, which applies to figures formed by circular arcs.</description>
-    </item>
-
-    <item>
-      <title>Incircles and Excircles of Pythagorean triangles</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</guid>
-      <pubDate>Thu, 25 Jun 2026 14:35:52 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the geometric properties of Pythagorean triangles by connecting incircles and excircles. It specifically examines a mathematical relationship between the radii of these circles and the sides of right-angled triangles.</description>
-    </item>
-
-    <item>
-      <title>Consecutive Pythagorean triangle sides</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:14 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores the mathematical derivation of Pythagorean triples where the legs or the hypotenuse are consecutive integers. It references historical work on finding squares of consecutive numbers to identify these specific geometric relationships.</description>
-    </item>
-
-    <item>
-      <title>The Star Trek lemma</title>
-      <link>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</guid>
-      <pubDate>Thu, 25 Jun 2026 02:38:42 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author discusses discovering a concept called 'The Star Trek Lemma' in a book by his former officemate, Arthur Baragar. He explores the origin and mathematical implications of this intriguing term found in the book's table of contents.</description>
-    </item>
-
-    <item>
-      <title>Raymond’s hot take on Hainanese chicken</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</guid>
-      <pubDate>Thu, 25 Jun 2026 14:00:01 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post is a brief, humorous observation regarding the nuances of Hainanese chicken. It reflects the author's personal take on the dish within the context of his long-running blog.</description>
     </item>
   </channel>
 </rss>

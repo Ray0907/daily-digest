@@ -1,6 +1,86 @@
 {
   "nodes": [
     {
+      "id": "4984a1234f85f282",
+      "title": "Reading List 07/04/26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-070426",
+      "pacer": "R",
+      "keywords": [
+        "homeowners insurance",
+        "AI chips",
+        "electrical grid",
+        "Meta",
+        "technology news"
+      ],
+      "published": "2026-07-04T12:03:22.000Z"
+    },
+    {
+      "id": "ff57e0be66cc983d",
+      "title": "Combined 1D and 2D Barcodes",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/",
+      "pacer": "E",
+      "keywords": [
+        "barcode",
+        "QR code",
+        "UPC",
+        "data encoding",
+        "hybrid design"
+      ],
+      "published": "2026-07-04T11:34:57.000Z"
+    },
+    {
+      "id": "f09d9dc1a2f37c9b",
+      "title": "This Week in Package Management: 4 July 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "software releases",
+        "dependencies",
+        "security",
+        "developer tools"
+      ],
+      "published": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "e07f4b1e4606befb",
+      "title": "Does additional data always reduce posterior variance?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/",
+      "pacer": "C",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior variance",
+        "uncertainty",
+        "confidence intervals",
+        "data analysis"
+      ],
+      "published": "2026-07-04T02:50:36.000Z"
+    },
+    {
+      "id": "227d120c90d85e26",
+      "title": "Better Models: Worse Tools",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "pacer": "E",
+      "keywords": [
+        "Claude",
+        "LLM",
+        "Tool Calling",
+        "Anthropic",
+        "API"
+      ],
+      "published": "2026-07-04T00:00:00.000Z"
+    },
+    {
       "id": "beea18396340c774",
       "title": "Open Source AI Gap Map",
       "source": "Simon Willison's Weblog",
@@ -657,22 +737,6 @@
       "published": "2026-06-29T16:34:57.000Z"
     },
     {
-      "id": "de9dd74e527e79f8",
-      "title": "Who you gonna believe: Grok or the docs?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/",
-      "pacer": "E",
-      "keywords": [
-        "bc",
-        "calculator",
-        "AI hallucination",
-        "Grok",
-        "POSIX"
-      ],
-      "published": "2026-06-29T12:12:05.000Z"
-    },
-    {
       "id": "8f4efd51033924cd",
       "title": "Unbundling the standard library",
       "source": "Andrew Nesbitt",
@@ -945,22 +1009,6 @@
       "published": "2026-06-26T11:34:42.000Z"
     },
     {
-      "id": "98cb98bd264bccfa",
-      "title": "Incident Report: CVE-2026-LGTM",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "pacer": "E",
-      "keywords": [
-        "CVE-2026-LGTM",
-        "AI security",
-        "supply chain attack",
-        "satire",
-        "cybersecurity"
-      ],
-      "published": "2026-06-26T04:13:00.000Z"
-    },
-    {
       "id": "db51bd2d5e54cbe2",
       "title": "Quickly apply LUTs (color grading) with ffmpeg",
       "source": "Jeff Geerling",
@@ -1103,22 +1151,6 @@
         "Hardware"
       ],
       "published": "2026-06-24T14:00:00.000Z"
-    },
-    {
-      "id": "96c2c7601e0824f8",
-      "title": "Auth0 PHP - manually authenticating JWT idTokens",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/",
-      "pacer": "P",
-      "keywords": [
-        "Auth0",
-        "JWT",
-        "PHP",
-        "Authentication",
-        "idToken"
-      ],
-      "published": "2026-06-24T11:34:25.000Z"
     },
     {
       "id": "badfa39c59b0a4b3",
@@ -1519,22 +1551,6 @@
         "retrospective"
       ],
       "published": "2026-06-19T16:00:22.000Z"
-    },
-    {
-      "id": "383218cecfcd928b",
-      "title": "Converting Coal Plants to Natural Gas",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
-      "pacer": "C",
-      "keywords": [
-        "coal",
-        "natural gas",
-        "power generation",
-        "energy transition",
-        "infrastructure"
-      ],
-      "published": "2026-06-19T12:03:02.000Z"
     },
     {
       "id": "792d70515a6a69e0",
@@ -2894,16 +2910,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-05-26T03:25:17.000Z"
-    },
-    {
-      "id": "897d93c50ad53a6e",
-      "title": "Clanker: A Word For The Machine",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-26T00:00:00.000Z"
     },
     {
       "id": "fbf7721cdde04a5c",
@@ -4295,6 +4301,16 @@
     }
   ],
   "links": [
+    {
+      "source": "f09d9dc1a2f37c9b",
+      "target": "415fc6b827df885e",
+      "shared_keywords": [
+        "package management",
+        "software releases",
+        "developer tools"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "417bdaa0c3e139ab",
       "target": "7c4f2c9bb4d90cce",

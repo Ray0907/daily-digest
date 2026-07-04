@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-07-03T22:51:25.874Z",
+  "last_updated": "2026-07-04T22:43:53.830Z",
   "articles": [
+    {
+      "id": "4984a1234f85f282",
+      "title": "Reading List 07/04/26",
+      "url": "https://www.construction-physics.com/p/reading-list-070426",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-04T12:03:22.000Z",
+      "summary_en": "This digest covers a diverse range of topics, including the prevalence of households without homeowners insurance and the implications of AI chip smuggling. It also explores technical and business developments such as Japan’s unique dual-frequency electrical grid and Meta's current strategy in the AI computing sector.",
+      "summary_zh": "本篇摘要涵蓋了多樣化的議題，包括無房屋保險的家庭現況以及人工智慧晶片走私帶來的影響。此外，文中還探討了日本獨特的雙頻電力系統，以及 Meta 在人工智慧運算領域的最新策略發展。",
+      "keywords": [
+        "homeowners insurance",
+        "AI chips",
+        "electrical grid",
+        "Meta",
+        "technology news"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a curated list of various news items and topics, serving as a reference digest for readers.",
+      "pacer_reason_zh": "該文章是一篇匯集各類新聞與主題的精選列表，作為讀者的參考摘要。"
+    },
+    {
+      "id": "f09d9dc1a2f37c9b",
+      "title": "This Week in Package Management: 4 July 2026",
+      "url": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-04T10:00:00.000Z",
+      "summary_en": "This weekly digest covers key updates across various package managers including Hex, Conan, uv, pixi, mise, Rust/Cargo, npm, and Homebrew. The releases focus on security enhancements, dependency policy management, SBOM improvements, and performance optimizations.",
+      "summary_zh": "本週摘要涵蓋了 Hex、Conan、uv、pixi、mise、Rust/Cargo、npm 和 Homebrew 等多個套件管理工具的更新。這些版本重點包括安全強化、依賴策略管理、SBOM 改進以及效能優化。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "dependencies",
+        "security",
+        "developer tools"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software releases and changelogs.",
+      "pacer_reason_zh": "本文作為定期參考清單，彙總了軟體更新內容與變更日誌。"
+    },
+    {
+      "id": "e07f4b1e4606befb",
+      "title": "Does additional data always reduce posterior variance?",
+      "url": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-04T02:50:36.000Z",
+      "summary_en": "This post examines the counterintuitive Bayesian scenario where collecting additional data does not always result in a decreased posterior variance. It explores the theoretical conditions under which new information might fail to narrow confidence intervals.",
+      "summary_zh": "本文探討了一個反直覺的貝葉斯統計問題：即增加數據並不總是會減少後驗變異數。文章深入解析了為何在某些情況下，新資訊無法有效收窄信賴區間的理論原因。",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior variance",
+        "uncertainty",
+        "confidence intervals",
+        "data analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical statistical concept rather than providing a tutorial, data set, or reference list.",
+      "pacer_reason_zh": "本文旨在解釋統計學中的理論概念，而非提供操作教學、原始數據或參考清單。"
+    },
+    {
+      "id": "227d120c90d85e26",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-07-04T00:00:00.000Z",
+      "summary_en": "The author discusses a regression where newer Claude models, specifically Opus 4.8 and Sonnet 5, are more prone to generating malformed tool calls compared to their predecessors. He explains that tool calling relies on text-based signals and emphasizes that despite model advancements, schema compliance for structured outputs remains a significant challenge.",
+      "summary_zh": "作者探討了 Claude 新模型（Opus 4.8 與 Sonnet 5）在工具調用（Tool Calling）上出現退步的問題，即比舊模型更容易生成格式錯誤的參數。文章解釋了工具調用本質上是基於文字的訊號傳遞，並指出即便模型能力提升，但在嚴格遵守架構規範方面仍面臨挑戰。",
+      "keywords": [
+        "Claude",
+        "LLM",
+        "Tool Calling",
+        "Anthropic",
+        "API"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an anecdotal case study regarding model performance regression and the mechanics of tool calling.",
+      "pacer_reason_zh": "本文透過實際案例分析模型性能退步現象，並探討工具調用的運作機制，屬於經驗性證據分析。"
+    },
+    {
+      "id": "ff57e0be66cc983d",
+      "title": "Combined 1D and 2D Barcodes",
+      "url": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-04T11:34:57.000Z",
+      "summary_en": "The author explores the transition from traditional 1D barcodes to 2D QR codes by creating a hybrid design. By embedding a UPC within a QR code, the system allows for dual-mode scanning depending on the proximity of the reading device.",
+      "summary_zh": "作者探討了從傳統 1D 條碼過渡到 2D QR 碼的可能性，並實際製作了一個混合型條碼。透過將 UPC 嵌入 QR 碼中，系統能夠根據讀取設備的距離，選擇識別 1D 條碼數據或完整的 QR 碼資訊。",
+      "keywords": [
+        "barcode",
+        "QR code",
+        "UPC",
+        "data encoding",
+        "hybrid design"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article describes an experimental project where the author tests the feasibility of embedding a 1D barcode within a 2D QR code.",
+      "pacer_reason_zh": "本文描述了一個實驗性專案，作者實際測試並驗證了將 1D 條碼嵌入 2D QR 碼中的可行性。"
+    },
     {
       "id": "da825e63f3998a67",
       "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
