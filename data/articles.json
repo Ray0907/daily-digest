@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-07-04T22:43:53.830Z",
+  "last_updated": "2026-07-05T22:45:46.457Z",
   "articles": [
+    {
+      "id": "3e35095d2c0dedde",
+      "title": "Travel notes: PLDI Boulder",
+      "url": "https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-07-05T00:00:00.000Z",
+      "summary_en": "Max Bernstein reflects on his fourth PLDI conference experience in Boulder, highlighting the value of networking, research discussions, and workshops. He notes specific technical insights gained from the EGRAPHS workshop and casual interactions with fellow researchers.",
+      "summary_zh": "Max Bernstein 分享了他第四次參加在波德舉辦的 PLDI 會議的心得，重點在於社交互動、學術討論以及參與工作坊的收穫。他記錄了在 EGRAPHS 工作坊中獲得的技術啟發，以及與多位研究人員的交流經歷。",
+      "keywords": [
+        "PLDI",
+        "conference",
+        "research",
+        "EGRAPHS",
+        "networking"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a narrative account and reflection on a professional event, sharing personal experiences and conceptual takeaways from technical workshops.",
+      "pacer_reason_zh": "本文屬於針對專業活動的敘事性紀錄與心得分享，包含了個人經驗以及對技術工作坊概念性的收穫總結。"
+    },
+    {
+      "id": "ef10e0f5c9baeb91",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-05T01:00:48.000Z",
+      "summary_en": "Simon Willison uses the AI tool Claude Fable to conduct a final code review of sqlite-utils 4.0rc1 before the stable release. The process successfully identified critical bugs, including a serious data integrity issue with delete_where(), helping ensure a more robust version 4.0.",
+      "summary_zh": "作者 Simon Willison 利用 AI 工具 Claude Fable 對 sqlite-utils 4.0rc1 進行正式發布前的最終代碼審查。此過程成功發現了包含 delete_where() 資料完整性漏洞在內的關鍵錯誤，有助於確保 4.0 穩定版本的品質。",
+      "keywords": [
+        "sqlite-utils",
+        "Claude Fable",
+        "code review",
+        "software release",
+        "debugging"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a real-world case study of using AI for code review and identifying specific release-blocking bugs.",
+      "pacer_reason_zh": "本文提供了一個利用 AI 進行代碼審查並找出特定發布阻礙錯誤的實際案例研究。"
+    },
+    {
+      "id": "1888c3f9b8d874b0",
+      "title": "sqlite-utils 4.0rc2",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-05T00:47:38.000Z",
+      "summary_en": "Simon Willison has announced the release of sqlite-utils 4.0rc2. A significant portion of this version was developed with the assistance of the AI model Claude Fable.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0rc2 版本。此版本有很大一部分內容是在 AI 模型 Claude Fable 的協助下完成的。",
+      "keywords": [
+        "sqlite-utils",
+        "software release",
+        "AI-assisted coding",
+        "Simon Willison",
+        "Claude Fable"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for the latest version and its development history.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，作為最新版本及其開發歷程的參考資訊。"
+    },
+    {
+      "id": "ec4a208082d2296b",
+      "title": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-04T23:09:02.000Z",
+      "summary_en": "This post highlights an innovative technique for generating an ASCII world map using just 445 bytes of data. It demonstrates how to leverage deflate compression and JavaScript's fetch API with data URIs to achieve highly efficient text rendering.",
+      "summary_zh": "這篇文章介紹了一種僅使用 445 位元組資料來生成 ASCII 世界地圖的創新技術。文中展示了如何結合 deflate 壓縮演算法與 JavaScript 的 fetch API 和資料 URI，實現極高效率的文字渲染。",
+      "keywords": [
+        "ascii-art",
+        "javascript",
+        "compression",
+        "data-urls",
+        "web-development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific technical snippet and practical demonstration of how to implement a data compression technique.",
+      "pacer_reason_zh": "本文提供了一個具體的技術程式碼片段，並示範了如何實作資料壓縮技術的操作方式。"
+    },
+    {
+      "id": "8ee24b1ad01cae6a",
+      "title": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-04T22:53:52.000Z",
+      "summary_en": "The article discusses a regression where newer Claude models struggle with tool-use schemas compared to older versions. It suggests that models are becoming overly optimized for specific vendor-provided tools, leading to compatibility issues with third-party coding harnesses.",
+      "summary_zh": "本文探討了較新的 Claude 模型在工具使用格式上，反而比舊版本更容易出現異常的問題。作者認為這是因為模型過度針對特定廠商工具進行訓練，導致在使用第三方編程框架時出現相容性挑戰。",
+      "keywords": [
+        "LLM",
+        "Claude",
+        "Tool-use",
+        "AI engineering",
+        "Software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explains a technical phenomenon and explores the implications of model training on tool-use consistency.",
+      "pacer_reason_zh": "本文透過概念性分析說明了一種技術現象，並探討了模型訓練對工具使用一致性的影響。"
+    },
     {
       "id": "4984a1234f85f282",
       "title": "Reading List 07/04/26",

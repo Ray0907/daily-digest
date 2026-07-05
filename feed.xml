@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:45:46 GMT</lastBuildDate>
     
+    <item>
+      <title>Travel notes: PLDI Boulder</title>
+      <link>https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>Max Bernstein reflects on his fourth PLDI conference experience in Boulder, highlighting the value of networking, research discussions, and workshops. He notes specific technical insights gained from the EGRAPHS workshop and casual interactions with fellow researchers.</description>
+    </item>
+
+    <item>
+      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</guid>
+      <pubDate>Sun, 05 Jul 2026 01:00:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison uses the AI tool Claude Fable to conduct a final code review of sqlite-utils 4.0rc1 before the stable release. The process successfully identified critical bugs, including a serious data integrity issue with delete_where(), helping ensure a more robust version 4.0.</description>
+    </item>
+
+    <item>
+      <title>sqlite-utils 4.0rc2</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sun, 05 Jul 2026 00:47:38 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has announced the release of sqlite-utils 4.0rc2. A significant portion of this version was developed with the assistance of the AI model Claude Fable.</description>
+    </item>
+
+    <item>
+      <title>Building a World Map with only 500 bytes</title>
+      <link>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</guid>
+      <pubDate>Sat, 04 Jul 2026 23:09:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights an innovative technique for generating an ASCII world map using just 445 bytes of data. It demonstrates how to leverage deflate compression and JavaScript's fetch API with data URIs to achieve highly efficient text rendering.</description>
+    </item>
+
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</guid>
+      <pubDate>Sat, 04 Jul 2026 22:53:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses a regression where newer Claude models struggle with tool-use schemas compared to older versions. It suggests that models are becoming overly optimized for specific vendor-provided tools, leading to compatibility issues with third-party coding harnesses.</description>
+    </item>
+
     <item>
       <title>Reading List 07/04/26</title>
       <link>https://www.construction-physics.com/p/reading-list-070426</link>
@@ -859,51 +904,6 @@
       <pubDate>Thu, 25 Jun 2026 22:28:46 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>This post discusses a significant German court ruling holding Google liable for errors in its AI-generated overviews. It argues that AI agents must be treated as extensions of the organizations that deploy them to prevent corporate unaccountability and unethical behavior.</description>
-    </item>
-
-    <item>
-      <title>datasette-export-database 0.3a2</title>
-      <link>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</guid>
-      <pubDate>Thu, 25 Jun 2026 17:21:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released version 0.3a2 of the datasette-export-database plugin. This update fixes a version pinning issue in the configuration file to ensure compatibility with broader Datasette versions.</description>
-    </item>
-
-    <item>
-      <title>Quickly apply LUTs (color grading) with ffmpeg</title>
-      <link>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</guid>
-      <pubDate>Fri, 26 Jun 2026 02:23:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>This post provides a quick reference for applying Look-Up Tables (LUTs) to Log video footage using FFmpeg. It explains the challenge of processing Log footage compared to photography and demonstrates how to utilize command-line tools to enhance dynamic range.</description>
-    </item>
-
-    <item>
-      <title>AI inference is obviously profitable</title>
-      <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
-      <guid>https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the economic viability and profitability of AI inference. It explores the business models and market dynamics that make running AI inference models a commercially sound strategy.</description>
-    </item>
-
-    <item>
-      <title>US Subways Build Too Many Cross Passages</title>
-      <link>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</link>
-      <guid>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</guid>
-      <pubDate>Thu, 25 Jun 2026 13:55:49 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article critiques the over-engineering of cross passages in US subway construction, arguing that current practices lead to excessive costs and delays. The author suggests that simplifying these designs is a key opportunity to improve the efficiency of transit infrastructure delivery.</description>
-    </item>
-
-    <item>
-      <title>Scrutineer: scanning open source without flooding maintainers</title>
-      <link>https://nesbitt.io/2026/06/25/scrutineer.html</link>
-      <guid>https://nesbitt.io/2026/06/25/scrutineer.html</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>Scrutineer is a tool designed to automate the security vulnerability reporting process in open-source projects by filtering AI-generated findings before they reach maintainers. By vetting and drafting fixes for vulnerabilities through a skill-based pipeline, it prevents maintainer burnout while improving the efficiency of the remediation process.</description>
     </item>
   </channel>
 </rss>

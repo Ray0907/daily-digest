@@ -1,6 +1,86 @@
 {
   "nodes": [
     {
+      "id": "ef10e0f5c9baeb91",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "sqlite-utils",
+        "Claude Fable",
+        "code review",
+        "software release",
+        "debugging"
+      ],
+      "published": "2026-07-05T01:00:48.000Z"
+    },
+    {
+      "id": "1888c3f9b8d874b0",
+      "title": "sqlite-utils 4.0rc2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "sqlite-utils",
+        "software release",
+        "AI-assisted coding",
+        "Simon Willison",
+        "Claude Fable"
+      ],
+      "published": "2026-07-05T00:47:38.000Z"
+    },
+    {
+      "id": "3e35095d2c0dedde",
+      "title": "Travel notes: PLDI Boulder",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "url": "https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss",
+      "pacer": "C",
+      "keywords": [
+        "PLDI",
+        "conference",
+        "research",
+        "EGRAPHS",
+        "networking"
+      ],
+      "published": "2026-07-05T00:00:00.000Z"
+    },
+    {
+      "id": "ec4a208082d2296b",
+      "title": "Building a World Map with only 500 bytes",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "ascii-art",
+        "javascript",
+        "compression",
+        "data-urls",
+        "web-development"
+      ],
+      "published": "2026-07-04T23:09:02.000Z"
+    },
+    {
+      "id": "8ee24b1ad01cae6a",
+      "title": "Better Models: Worse Tools",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "LLM",
+        "Claude",
+        "Tool-use",
+        "AI engineering",
+        "Software development"
+      ],
+      "published": "2026-07-04T22:53:52.000Z"
+    },
+    {
       "id": "4984a1234f85f282",
       "title": "Reading List 07/04/26",
       "source": "Construction Physics",
@@ -97,38 +177,6 @@
       "published": "2026-07-03T22:04:31.000Z"
     },
     {
-      "id": "dd9f2c7429b0af93",
-      "title": "Quoting Josh W. Comeau",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "AI",
-        "LLM",
-        "online-courses",
-        "developer-skills",
-        "creator-economy"
-      ],
-      "published": "2026-07-03T21:25:52.000Z"
-    },
-    {
-      "id": "eefcaed436a9eb39",
-      "title": "Fable's judgement",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Claude Code",
-        "Fable",
-        "AI optimization",
-        "LLM",
-        "agentic workflow"
-      ],
-      "published": "2026-07-03T18:51:06.000Z"
-    },
-    {
       "id": "f8174579ba56b310",
       "title": "The Life and Times of Maxis, Part 1: SimEverything",
       "source": "The Digital Antiquarian",
@@ -143,22 +191,6 @@
         "Simulation"
       ],
       "published": "2026-07-03T15:46:04.000Z"
-    },
-    {
-      "id": "631dfdc403b947c1",
-      "title": "June 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "newsletter",
-        "AI models",
-        "Datasette",
-        "open source",
-        "Simon Willison"
-      ],
-      "published": "2026-07-03T14:50:50.000Z"
     },
     {
       "id": "3fb525ede7955074",
@@ -223,22 +255,6 @@
         "online security"
       ],
       "published": "2026-07-03T06:52:41.000Z"
-    },
-    {
-      "id": "aa700a0b090cbd98",
-      "title": "llm-coding-agent 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "LLM",
-        "coding-agent",
-        "Python",
-        "software-development",
-        "open-source"
-      ],
-      "published": "2026-07-02T19:33:12.000Z"
     },
     {
       "id": "417bdaa0c3e139ab",
@@ -3896,22 +3912,6 @@
       "published": "2026-04-05T14:20:00.000Z"
     },
     {
-      "id": "f80e9a26cc3fa2b6",
-      "title": "Value numbering",
-      "source": "Max Bernstein's Blog",
-      "source_url": "https://bernsteinbear.com/",
-      "url": "https://bernsteinbear.com/blog/value-numbering/?utm_source=rss",
-      "pacer": "C",
-      "keywords": [
-        "compiler",
-        "SSA",
-        "value numbering",
-        "optimization",
-        "computer science"
-      ],
-      "published": "2026-04-04T00:00:00.000Z"
-    },
-    {
       "id": "2564525890f34fc8",
       "title": "Spring 2026 Pebble App Contest + SDK Updates",
       "source": "Eric Migicovsky's Blog RSS Feed",
@@ -4301,6 +4301,16 @@
     }
   ],
   "links": [
+    {
+      "source": "ef10e0f5c9baeb91",
+      "target": "1888c3f9b8d874b0",
+      "shared_keywords": [
+        "sqlite-utils",
+        "software release",
+        "Claude Fable"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "f09d9dc1a2f37c9b",
       "target": "415fc6b827df885e",
