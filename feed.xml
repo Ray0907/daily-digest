@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 05 Jul 2026 22:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:54:37 GMT</lastBuildDate>
     
+    <item>
+      <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
+      <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article introduces GLM 5.2 as a powerful open-weights model capable of matching top-tier competitors like GPT and Opus for agentic tasks. It suggests that this performance at a significantly lower price point signals an impending collapse in AI inference profit margins.</description>
+    </item>
+
+    <item>
+      <title>Making a Shuffle Button</title>
+      <link>https://blog.jim-nielsen.com/2026/notes-shuffle/</link>
+      <guid>https://blog.jim-nielsen.com/2026/notes-shuffle/</guid>
+      <pubDate>Sun, 05 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author describes the challenge of implementing a 'Shuffle' button on a static blog, specifically the inefficiencies of embedding all post IDs into every page using JavaScript. He seeks a more performant, non-JS alternative to avoid unnecessary rebuilds and cache invalidation caused by frequent content updates.</description>
+    </item>
+
+    <item>
+      <title>Reproducing a geometry theorem diagram</title>
+      <link>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</guid>
+      <pubDate>Mon, 06 Jul 2026 14:22:35 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author explores the process of programmatically recreating a specific geometry theorem diagram using coordinates and mathematical assumptions. By defining the unit circle and the perpendicular line CD, the post details the steps taken to plot the geometric components accurately.</description>
+    </item>
+
+    <item>
+      <title>e approximation</title>
+      <link>https://www.johndcook.com/blog/2026/07/06/e-approximation/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/06/e-approximation/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:22:29 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores a highly accurate fractional approximation of the mathematical constant e (2721/1001). It contrasts this specific approximation with simpler methods, highlighting how such fractions can provide greater precision than standard decimal truncations.</description>
+    </item>
+
+    <item>
+      <title>I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</guid>
+      <pubDate>Mon, 06 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains that the FILE_FLAG_DELETE_ON_CLOSE flag cannot be removed once a file is opened with it. It suggests that if you need to retain the file, you must adopt a different approach to file handling.</description>
+    </item>
+
+    <item>
+      <title>Life with hazard ratios</title>
+      <link>https://dynomight.net/hazard-ratios/</link>
+      <guid>https://dynomight.net/hazard-ratios/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://dynomight.net/">DYNOMIGHT</source>
+      <description>The article explains why hazard ratios in health studies are often misinterpreted as direct indicators of life expectancy changes. Through the use of hypothetical models like Russian roulette, it demonstrates that the impact of a hazard ratio depends heavily on the baseline mortality rate and the age at which risks occur.</description>
+    </item>
+
+    <item>
+      <title>I'm just so bored of AI</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
+      <guid>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
+      <pubDate>Mon, 06 Jul 2026 11:34:18 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author expresses growing fatigue with the constant hype surrounding artificial intelligence, comparing it to repetitive and tedious conversations about fleeting trends. They argue that the novelty of AI-driven automation is quickly wearing off, leading to a sense of exhaustion with current tech discourse.</description>
+    </item>
+
+    <item>
+      <title>Stephan's Quintet</title>
+      <link>https://maurycyz.com/astro/h92/</link>
+      <guid>https://maurycyz.com/astro/h92/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post provides a deep-sky analysis of Stephan's Quintet, noting that the blue spiral galaxy is a foreground object rather than a true member of the group. It details the technical configuration and processing workflow used to capture this image of the Hickson Compact Group 92.</description>
+    </item>
+
+    <item>
+      <title>Amazon Basics, but for intellectual property. </title>
+      <link>https://idiallo.com/blog/amazon-basics-but-intellectual-property</link>
+      <guid>https://idiallo.com/blog/amazon-basics-but-intellectual-property</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>This article discusses the conflict of interest inherent in Amazon's business model, where the platform leverages proprietary sales data to replicate successful third-party products under its Amazon Basics brand. It highlights how merchants are forced to expose their operational data to Amazon to reach customers, despite Amazon's denials regarding the misuse of private seller information.</description>
+    </item>
+
+    <item>
+      <title>sqlite-utils 4.0rc3</title>
+      <link>https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</guid>
+      <pubDate>Mon, 06 Jul 2026 05:40:08 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released sqlite-utils 4.0rc3, introducing support for compound foreign keys and updated case-insensitive column matching. This release incorporates various bug fixes and improvements as the project nears its stable 4.0 version.</description>
+    </item>
+
+    <item>
+      <title>C2PA only works if everything is signed</title>
+      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
+      <guid>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article examines the limitations of the C2PA standard, arguing that its effectiveness depends entirely on universal adoption and consistent signing across the entire digital content lifecycle. It highlights how gaps in the verification chain can compromise the integrity and trustworthiness of media provenance.</description>
+    </item>
+
     <item>
       <title>Travel notes: PLDI Boulder</title>
       <link>https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss</link>
@@ -805,105 +904,6 @@
       <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article explores the concept of articulating obvious truths and their role in communication. It reflects on why stating the self-evident is often necessary for clarity and alignment in discourse.</description>
-    </item>
-
-    <item>
-      <title>My Om Malik Story</title>
-      <link>https://blog.jim-nielsen.com/2026/tribute-to-om/</link>
-      <guid>https://blog.jim-nielsen.com/2026/tribute-to-om/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on a personal encounter with the late tech journalist Om Malik, who reached out to encourage the author's early blogging efforts. This interaction highlights the profound impact that a simple act of kindness from a prominent figure can have on an individual's confidence and creative journey.</description>
-    </item>
-
-    <item>
-      <title>No-One Escapes the Permanent Underclass</title>
-      <link>https://borretti.me/article/no-one-escapes-the-permanent-underclass</link>
-      <guid>https://borretti.me/article/no-one-escapes-the-permanent-underclass</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>The article argues that the accumulation of capital is insufficient to protect individuals from systemic disempowerment. It explores the thesis that modern socio-economic structures inherently create a permanent underclass that capital cannot overcome.</description>
-    </item>
-
-    <item>
-      <title>The next big breakthrough will be AIs learning on the job</title>
-      <link>https://www.dwarkesh.com/p/the-next-paradigm</link>
-      <guid>https://www.dwarkesh.com/p/the-next-paradigm</guid>
-      <pubDate>Fri, 26 Jun 2026 15:51:34 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>The article suggests that future AI breakthroughs will stem from models learning through real-world, on-the-job experience. It argues that current research labs are currently wasting the most valuable data by neglecting this hands-on training approach.</description>
-    </item>
-
-    <item>
-      <title>Incident Report: CVE-2026-LGTM</title>
-      <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
-      <guid>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
-      <pubDate>Fri, 26 Jun 2026 04:13:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article provides a satirical account of a fictional security incident, CVE-2026-LGTM, where a malicious software package successfully bypassed multiple AI-powered security gates. The incident highlights the vulnerabilities of relying on autonomous systems for security, specifically through social engineering of AI models and flawed oversight.</description>
-    </item>
-
-    <item>
-      <title>Blink if you’re human</title>
-      <link>https://dynomight.net/blink/</link>
-      <guid>https://dynomight.net/blink/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://dynomight.net/">DYNOMIGHT</source>
-      <description>The author guarantees that all content on their blog is written by a human, rather than generated by AI. They argue that writing is a personal hobby that aids their own thinking and claim that readers prefer authentic human-authored content.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Jailbreaking isn't theft (25 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/25/thieve-different/</link>
-      <guid>https://pluralistic.net/2026/06/25/thieve-different/</guid>
-      <pubDate>Thu, 25 Jun 2026 09:37:35 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that jailbreaking digital devices is not a form of theft, but a necessary act of consumer sovereignty. He critiques the conflation of device ownership with IP infringement and warns of the dangers when foreign powers and big tech companies control personal digital infrastructures.</description>
-    </item>
-
-    <item>
-      <title>Quoting Timothy B. Lee</title>
-      <link>https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything</guid>
-      <pubDate>Fri, 26 Jun 2026 21:15:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a quote by Timothy B. Lee that challenges the misconception that large language models require no skill to operate. It argues that effective AI usage involves a learning curve, much like management, rather than being an effortless endeavor.</description>
-    </item>
-
-    <item>
-      <title>What happened after 2,000 people tried to hack my AI assistant</title>
-      <link>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</guid>
-      <pubDate>Fri, 26 Jun 2026 18:33:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>A public challenge invited 2,000 users to attempt prompt injection attacks against an AI assistant, resulting in 6,000 failed attempts. The outcome highlights the increasing effectiveness of frontier models against such attacks, though the author advises against relying on this as a guarantee of absolute security.</description>
-    </item>
-
-    <item>
-      <title>Incident Report: CVE-2026-LGTM</title>
-      <link>https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</guid>
-      <pubDate>Fri, 26 Jun 2026 17:58:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a satirical incident report detailing a scenario where two competing AI review agents enter a costly disagreement loop over a code dependency. The story serves as a cautionary tale about the potential financial and operational absurdities of deploying autonomous AI agents in software supply chains.</description>
-    </item>
-
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jun/26/openai/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/26/openai/#atom-everything</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:43 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>OpenAI has announced the GPT-5.6 series, featuring three models—Sol, Terra, and Luna—designed for varying performance and cost needs. The release introduces new prompt caching mechanisms and a tiered pricing structure based on token usage.</description>
-    </item>
-
-    <item>
-      <title>AI and Liability</title>
-      <link>https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</guid>
-      <pubDate>Thu, 25 Jun 2026 22:28:46 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post discusses a significant German court ruling holding Google liable for errors in its AI-generated overviews. It argues that AI agents must be treated as extensions of the organizations that deploy them to prevent corporate unaccountability and unethical behavior.</description>
     </item>
   </channel>
 </rss>

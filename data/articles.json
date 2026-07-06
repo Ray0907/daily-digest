@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-07-05T22:45:46.457Z",
+  "last_updated": "2026-07-06T22:54:37.344Z",
   "articles": [
+    {
+      "id": "26acf74aa038abb0",
+      "title": "GLM 5.2 and the coming AI margin collapse (part 1)",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-07-06T00:00:00.000Z",
+      "summary_en": "The article introduces GLM 5.2 as a powerful open-weights model capable of matching top-tier competitors like GPT and Opus for agentic tasks. It suggests that this performance at a significantly lower price point signals an impending collapse in AI inference profit margins.",
+      "summary_zh": "本文介紹 GLM 5.2 作為一款強大的開放權重模型，其在代理任務中表現足以媲美 GPT 與 Opus，且成本僅為後者的 15-20%。作者指出這種高性價比的競爭力，預示著 AI 推論市場的利潤空間即將面臨崩潰。",
+      "keywords": [
+        "GLM 5.2",
+        "AI inference",
+        "open weights",
+        "profit margin",
+        "agentic AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the significance of a new model and provides a conceptual analysis of market shifts in AI inference pricing.",
+      "pacer_reason_zh": "本文解釋了新模型的市場重要性，並針對 AI 推論定價的市場變化提供了概念性的分析。"
+    },
+    {
+      "id": "34b33fb3c43f141a",
+      "title": "Making a Shuffle Button",
+      "url": "https://blog.jim-nielsen.com/2026/notes-shuffle/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-05T19:00:00.000Z",
+      "summary_en": "The author describes the challenge of implementing a 'Shuffle' button on a static blog, specifically the inefficiencies of embedding all post IDs into every page using JavaScript. He seeks a more performant, non-JS alternative to avoid unnecessary rebuilds and cache invalidation caused by frequent content updates.",
+      "summary_zh": "作者分享了在靜態部落格中實作「隨機文章」功能的技術挑戰，特別是原本使用 JavaScript 將所有文章 ID 嵌入頁面的作法導致了建置效率低落與快取失效問題。他正尋求一種無需 JavaScript 的優化方案，以改善網站的建置流程。",
+      "keywords": [
+        "Static Site Generation",
+        "Web Development",
+        "JavaScript",
+        "Optimization",
+        "Blogging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a developer's post-mortem and how-to guide, detailing the technical process of re-engineering a specific site feature.",
+      "pacer_reason_zh": "本文屬於開發者的技術分享與實作紀錄，詳細敘述了重構特定網站功能的過程與方法。"
+    },
+    {
+      "id": "d4d6f9613ad8cc8d",
+      "title": "Reproducing a geometry theorem diagram",
+      "url": "https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-06T14:22:35.000Z",
+      "summary_en": "The author explores the process of programmatically recreating a specific geometry theorem diagram using coordinates and mathematical assumptions. By defining the unit circle and the perpendicular line CD, the post details the steps taken to plot the geometric components accurately.",
+      "summary_zh": "作者探討了如何透過數學假設與座標，以程式方式重現一個幾何定理的示意圖。文章詳細說明了在單位圓中設定直徑與垂直線 CD 的步驟，以精確繪製該幾何圖形。",
+      "keywords": [
+        "geometry",
+        "mathematics",
+        "visualization",
+        "diagrams",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post focuses on the step-by-step process of recreating a diagram, functioning as a practical guide.",
+      "pacer_reason_zh": "該文章側重於重現圖形的逐步過程，屬於實作指南性質。"
+    },
+    {
+      "id": "e07b588e4ae93e9c",
+      "title": "e approximation",
+      "url": "https://www.johndcook.com/blog/2026/07/06/e-approximation/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-06T12:22:29.000Z",
+      "summary_en": "This article explores a highly accurate fractional approximation of the mathematical constant e (2721/1001). It contrasts this specific approximation with simpler methods, highlighting how such fractions can provide greater precision than standard decimal truncations.",
+      "summary_zh": "本文探討了數學常數 e 的一個高精度分數近似值（2721/1001）。文章將此近似值與簡單的截斷法進行對比，說明了該分數如何在較小的分母下提供遠高於普通十進位截斷的精確度。",
+      "keywords": [
+        "e constant",
+        "approximation",
+        "mathematics",
+        "fractions",
+        "numerical analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and provides insight into the nature of numeric approximations.",
+      "pacer_reason_zh": "本文解釋了一個數學概念，並深入探討了數值近似值的特性。"
+    },
+    {
+      "id": "a8655d9bb539b568",
+      "title": "I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-06T14:00:00.000Z",
+      "summary_en": "This post explains that the FILE_FLAG_DELETE_ON_CLOSE flag cannot be removed once a file is opened with it. It suggests that if you need to retain the file, you must adopt a different approach to file handling.",
+      "summary_zh": "本文說明當檔案以 FILE_FLAG_DELETE_ON_CLOSE 旗標開啟後，無法在執行期間撤銷此設定。若需要保留檔案，開發者必須採取不同的檔案處理方式來達成目標。",
+      "keywords": [
+        "Windows API",
+        "FILE_FLAG_DELETE_ON_CLOSE",
+        "File I/O",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides technical guidance on the limitations of a specific Windows API flag and suggests alternative implementation methods.",
+      "pacer_reason_zh": "本文針對特定的 Windows API 旗標限制提供技術指引，並建議替代的實作方式。"
+    },
+    {
+      "id": "5e9b580a2edd0ead",
+      "title": "Life with hazard ratios",
+      "url": "https://dynomight.net/hazard-ratios/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-07-06T00:00:00.000Z",
+      "summary_en": "The article explains why hazard ratios in health studies are often misinterpreted as direct indicators of life expectancy changes. Through the use of hypothetical models like Russian roulette, it demonstrates that the impact of a hazard ratio depends heavily on the baseline mortality rate and the age at which risks occur.",
+      "summary_zh": "本文探討了為什麼健康研究中的「風險比」（Hazard Ratio）常被誤解為預期壽命的直接變化指標。作者透過俄羅斯輪盤的假設模型，解釋了風險比的影響程度取決於基線死亡率以及風險發生的年齡，而非簡單的線性換算。",
+      "keywords": [
+        "hazard ratio",
+        "life expectancy",
+        "statistics",
+        "health",
+        "mortality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual limitations of using hazard ratios to estimate life expectancy changes.",
+      "pacer_reason_zh": "本文旨在解釋使用風險比來評估預期壽命變化的概念性限制與誤區。"
+    },
+    {
+      "id": "d4b534bfc38855ef",
+      "title": "I'm just so bored of AI",
+      "url": "https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-06T11:34:18.000Z",
+      "summary_en": "The author expresses growing fatigue with the constant hype surrounding artificial intelligence, comparing it to repetitive and tedious conversations about fleeting trends. They argue that the novelty of AI-driven automation is quickly wearing off, leading to a sense of exhaustion with current tech discourse.",
+      "summary_zh": "作者表達了對人工智慧過度炒作的日益厭倦，並將其比作令人疲憊且重複的流行趨勢討論。他們認為，人工智慧自動化所帶來的創新感正在迅速消退，導致人們對當前的科技論述感到疲乏。",
+      "keywords": [
+        "AI fatigue",
+        "tech industry",
+        "hype",
+        "commentary",
+        "automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece reflecting on the current state of technology discourse and the author's personal sentiment toward AI.",
+      "pacer_reason_zh": "這是一篇關於科技論述現狀與作者對人工智慧個人觀感的概念性文章。"
+    },
+    {
+      "id": "c3b9661f7e52ea59",
+      "title": "Stephan's Quintet",
+      "url": "https://maurycyz.com/astro/h92/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-06T00:00:00.000Z",
+      "summary_en": "This post provides a deep-sky analysis of Stephan's Quintet, noting that the blue spiral galaxy is a foreground object rather than a true member of the group. It details the technical configuration and processing workflow used to capture this image of the Hickson Compact Group 92.",
+      "summary_zh": "這篇文章分析了史蒂芬五重星系，指出藍色螺旋星系實際上位於前景，並非該星系群的成員。文中同時說明了捕捉與處理 Hickson Compact Group 92 影像所使用的技術配置與流程。",
+      "keywords": [
+        "Stephan's Quintet",
+        "astrophotography",
+        "Hickson Compact Group 92",
+        "galaxy collision",
+        "redshift"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as an observational report, presenting technical data, hardware specifications, and experimental results from an astrophotography session.",
+      "pacer_reason_zh": "該文作為觀測報告，呈現了天文攝影過程中的技術數據、硬體規格以及實驗結果。"
+    },
+    {
+      "id": "37524733d7ba1eb1",
+      "title": "Amazon Basics, but for intellectual property. ",
+      "url": "https://idiallo.com/blog/amazon-basics-but-intellectual-property",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-06T07:00:00.000Z",
+      "summary_en": "This article discusses the conflict of interest inherent in Amazon's business model, where the platform leverages proprietary sales data to replicate successful third-party products under its Amazon Basics brand. It highlights how merchants are forced to expose their operational data to Amazon to reach customers, despite Amazon's denials regarding the misuse of private seller information.",
+      "summary_zh": "本文探討了亞馬遜商業模式中固有的利益衝突，指出亞馬遜利用平台上的銷售數據，將第三方賣家的成功產品複製到其 Amazon Basics 品牌下。儘管亞馬遜否認濫用賣家數據，但商家若想觸及客戶，就必須向亞馬遜揭露其經營數據，這種機制使賣家處於不利地位。",
+      "keywords": [
+        "Amazon",
+        "Data Privacy",
+        "Conflict of Interest",
+        "Private Label",
+        "E-commerce"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the ethical and business conflicts regarding Amazon's data usage and private-label practices.",
+      "pacer_reason_zh": "本文對亞馬遜數據使用與自有品牌業務相關的道德及商業衝突進行了概念性的解釋。"
+    },
+    {
+      "id": "1eb6e47c95e4808e",
+      "title": "sqlite-utils 4.0rc3",
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-06T05:40:08.000Z",
+      "summary_en": "Simon Willison has released sqlite-utils 4.0rc3, introducing support for compound foreign keys and updated case-insensitive column matching. This release incorporates various bug fixes and improvements as the project nears its stable 4.0 version.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0rc3，新增了對複合外鍵的支援，並調整了欄位名稱不區分大小寫的匹配規則。此版本在邁向 4.0 穩定版之前，修復了多項錯誤並進行了多項功能改進。",
+      "keywords": [
+        "sqlite-utils",
+        "software release",
+        "database",
+        "python",
+        "foreign keys"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as an annotated release note, acting as reference material for users tracking updates and changes to the software.",
+      "pacer_reason_zh": "本文屬於軟體發布說明，為使用者提供更新內容與變更細節的參考資訊。"
+    },
+    {
+      "id": "b2e5cab6d4e8a675",
+      "title": "C2PA only works if everything is signed",
+      "url": "https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-06T00:00:00.000Z",
+      "summary_en": "This article examines the limitations of the C2PA standard, arguing that its effectiveness depends entirely on universal adoption and consistent signing across the entire digital content lifecycle. It highlights how gaps in the verification chain can compromise the integrity and trustworthiness of media provenance.",
+      "summary_zh": "本文探討了 C2PA 標準的局限性，指出其有效性完全取決於數位內容生命週期中全面的採用與一致的簽署。文章強調，驗證鏈中的任何缺漏都可能損害媒體來源資訊的完整性與可信度。",
+      "keywords": [
+        "C2PA",
+        "Digital Provenance",
+        "Content Authentication",
+        "Data Integrity",
+        "Cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the technical and structural requirements necessary for a specific framework to function.",
+      "pacer_reason_zh": "本文針對特定架構運作所需的技術與結構要求提供了概念性分析。"
+    },
     {
       "id": "3e35095d2c0dedde",
       "title": "Travel notes: PLDI Boulder",
