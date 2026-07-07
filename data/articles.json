@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-07-06T22:54:37.344Z",
+  "last_updated": "2026-07-07T22:49:17.483Z",
   "articles": [
+    {
+      "id": "911b258a35ad46b8",
+      "title": "My blog has moved",
+      "url": "https://mjg59.dreamwidth.org/74260.html",
+      "source": "Matthew Garrett",
+      "source_url": "https://mjg59.dreamwidth.org/",
+      "published": "2026-07-06T09:03:04.000Z",
+      "summary_en": "The author provides a notice that their blog has migrated to a new platform. They include a link to the new location and provide an updated RSS feed for existing subscribers to follow.",
+      "summary_zh": "作者發布通知表示其部落格已遷移至新平台。文中提供了新網址以及更新後的 RSS 訂閱連結，供舊讀者進行轉移。",
+      "keywords": [
+        "blog migration",
+        "RSS feed",
+        "announcement",
+        "web presence",
+        "update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a logistical update providing updated reference links for readers.",
+      "pacer_reason_zh": "此文章作為網站遷徙的公告，主要提供讀者更新後的連結資訊，屬於參考性質。"
+    },
+    {
+      "id": "1622300ed756b4c8",
+      "title": "Kort geding aandeelhouders Solvinity",
+      "url": "https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-07T09:20:00.000Z",
+      "summary_en": "The author recounts their firsthand observations from the Solvinity shareholders' lawsuit against the Dutch government regarding a blocked sale to a US firm. They note discrepancies between the courtroom events and the subsequent media coverage by major news outlets.",
+      "summary_zh": "作者分享了其在索爾維尼蒂 (Solvinity) 股東起訴荷蘭政府一案庭審現場的觀察記錄。作者指出，法庭內發生的真實情況與隨後主流媒體的報導之間存在顯著差異。",
+      "keywords": [
+        "Solvinity",
+        "DigiD",
+        "court case",
+        "media transparency",
+        "Dutch government"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides an eyewitness account and critical analysis of a specific legal case, functioning as a primary observation/evidence-based report.",
+      "pacer_reason_zh": "本文提供了針對特定法律案件的親身觀察與批判性分析，屬於基於事實與證據的見證性報導。"
+    },
+    {
+      "id": "79022bd0122b9376",
+      "title": "A full body MRI earns you a year of smoking",
+      "url": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-07-06T22:00:00.000Z",
+      "summary_en": "This article explores the concept of radiation exposure by equating the dosage received from a full-body MRI to equivalent risks in other activities. It uses provocative comparisons to put medical imaging risks into perspective against common or extreme life experiences.",
+      "summary_zh": "本文透過將全身核磁共振成像（MRI）的輻射劑量，與其他生活活動中的風險進行對比，探討輻射暴露的觀念。文章利用具啟發性的類比，將醫療影像的風險與常見或極端的經歷放在同一水平上進行評估。",
+      "keywords": [
+        "MRI",
+        "radiation",
+        "risk assessment",
+        "healthcare",
+        "comparative analysis"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses analogies and comparative risks to explain the impact of radiation exposure from medical imaging.",
+      "pacer_reason_zh": "本文運用類比與風險對比的方式，來解釋醫療影像中輻射暴露的影響。"
+    },
+    {
+      "id": "85f16c165fbeaea5",
+      "title": "Content addressing in package managers",
+      "url": "https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-07T10:00:00.000Z",
+      "summary_en": "This article explores the implementation of content addressing in modern package managers, where data is identified by cryptographic hashes rather than locations. It surveys various systems that utilize content-addressable storage for files, layers, and artifacts to improve deduplication, security, and verification.",
+      "summary_zh": "本文探討了現代軟體包管理器中「內容定址」技術的應用，該技術透過加密雜湊而非檔案路徑來識別數據。文章梳理了現有系統如何利用此機制儲存檔案、層級與成品，以達到提升去重效率、安全性與驗證可靠性的目的。",
+      "keywords": [
+        "content addressing",
+        "package managers",
+        "hashing",
+        "OCI",
+        "storage"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the core concept of content addressing and its theoretical application within software dependency management systems.",
+      "pacer_reason_zh": "本文主要解釋內容定址的核心概念，以及其在軟體依賴管理系統中的理論應用。"
+    },
+    {
+      "id": "aa0e5ce1e0fcfd40",
+      "title": "How did Windows 95 decide that a setup program ran?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-07T14:00:00.000Z",
+      "summary_en": "This post explains the technical heuristics used by Windows 95 to identify when a setup program was running. It provides historical insight into the operating system's internal detection mechanisms.",
+      "summary_zh": "這篇文章解釋了 Windows 95 用來判斷安裝程式是否正在執行的技術啟發式方法。它提供了關於作業系統內部檢測機制的歷史洞察。",
+      "keywords": [
+        "Windows 95",
+        "heuristics",
+        "setup",
+        "operating system",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains the conceptual mechanism and logic behind a specific system behavior.",
+      "pacer_reason_zh": "它解釋了特定系統行為背後的概念機制與邏輯。"
+    },
+    {
+      "id": "21519c1eaa438548",
+      "title": "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/07/going-global/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-07T12:24:15.000Z",
+      "summary_en": "This article examines the global trend of antitrust enforcement against Big Tech, highlighting the collaborative efforts between US regulators and international authorities. It posits that a shared commitment to aggressive antitrust policy is essential to curbing the power of major technology corporations.",
+      "summary_zh": "本文探討了全球針對大型科技公司的反壟斷執法趨勢，強調了美國監管機構與國際當局之間的合作。文章指出，共同致力於積極的反壟斷政策對於遏制科技巨頭的勢力至關重要。",
+      "keywords": [
+        "Antitrust",
+        "Big Tech",
+        "Regulation",
+        "Policy",
+        "Global Cooperation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analysis and explanation of the current political and economic conceptual landscape regarding global antitrust enforcement.",
+      "pacer_reason_zh": "本文針對全球反壟斷執法的現狀提供了政治與經濟層面的概念性分析與說明。"
+    },
+    {
+      "id": "baab745c82786832",
+      "title": "sqlite-utils 4.0, now with database schema migrations",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-07T19:32:57.000Z",
+      "summary_en": "Simon Willison has released sqlite-utils 4.0, a major update introducing database schema migrations, nested transactions, and support for compound foreign keys. The release highlights the powerful table.transform() method, which enables complex schema modifications beyond standard SQLite capabilities.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0，此重大更新引入了資料庫架構遷移、巢狀交易以及複合外鍵支援。該版本特別強調了 table.transform() 方法，讓開發者能執行超越標準 SQLite 功能的複雜架構修改。",
+      "keywords": [
+        "sqlite-utils",
+        "sqlite",
+        "database",
+        "migration",
+        "python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an announcement and guide for new features, focusing on how to implement migrations using the library.",
+      "pacer_reason_zh": "本文作為新功能公告與指南，重點在於說明如何使用該函式庫執行資料庫遷移。"
+    },
+    {
+      "id": "bc0c94d89463b64f",
+      "title": "sqlite-migrate 0.2",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-07T16:33:55.000Z",
+      "summary_en": "The sqlite-migrate library has been updated to version 0.2, which officially retires the standalone package. It now functions as a compatibility shim to support the newly released sqlite-utils 4.0 dependency.",
+      "summary_zh": "sqlite-migrate 0.2 版本已發布，此版本正式將該程式庫退役。它現在轉變為一個相容性轉換層（shim），用以支援新發布的 sqlite-utils 4.0 依賴項。",
+      "keywords": [
+        "sqlite-migrate",
+        "sqlite-utils",
+        "software release",
+        "python",
+        "database"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release announcement documenting version changes and dependency updates.",
+      "pacer_reason_zh": "這是一則關於版本更新與依賴變更的軟體發布公告。"
+    },
+    {
+      "id": "43bff7e579fb99e1",
+      "title": "github-code Web Component",
+      "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-07T16:18:16.000Z",
+      "summary_en": "Simon Willison introduces an experimental Web Component, github-code, created using AI to embed specific sections of GitHub files into web pages. The tool fetches raw code from GitHub based on provided URLs and renders it with line numbers.",
+      "summary_zh": "Simon Willison 介紹了一個名為 github-code 的實驗性 Web 元件，該元件由 AI 輔助開發，可將 GitHub 檔案中的特定代碼區段嵌入網頁。此工具會根據提供的網址擷取原始代碼，並以顯示行號的方式呈現。",
+      "keywords": [
+        "github-code",
+        "web-components",
+        "ai",
+        "github",
+        "web-development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a tool and explains the prompt-based method used to build a specific web component for embedding code.",
+      "pacer_reason_zh": "該文章提供了一個工具，並解釋了使用提示詞構建特定程式碼嵌入 Web 元件的實作方式。"
+    },
+    {
+      "id": "6f16a33ecae82121",
+      "title": "sqlite-utils 4.0",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-07T15:42:43.000Z",
+      "summary_en": "sqlite-utils 4.0 has been released, introducing support for database schema migrations. This update enhances the tool's capabilities for managing and evolving SQLite database structures.",
+      "summary_zh": "sqlite-utils 4.0 已正式發布，新增了對資料庫結構遷移（schema migrations）的支援。此次更新增強了該工具在管理與演進 SQLite 資料庫結構方面的能力。",
+      "keywords": [
+        "sqlite-utils",
+        "SQLite",
+        "database",
+        "migrations",
+        "software-release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release announcement and reference for a software update.",
+      "pacer_reason_zh": "此內容作為軟體更新的發布公告與參考資訊。"
+    },
+    {
+      "id": "7fd48dfe7dd45d85",
+      "title": "sqlite-utils 4.0rc4",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-07T05:36:15.000Z",
+      "summary_en": "Simon Willison has released sqlite-utils 4.0rc4, which serves as the final release candidate before the stable 4.0 version. This update primarily incorporates feedback provided during a detailed review by Claude Fable 5.",
+      "summary_zh": "Simon Willison 發布了 sqlite-utils 4.0rc4，這是 4.0 穩定版發布前的最後一個候選版本。此更新主要根據 Claude Fable 5 的詳細審查意見進行了功能調整。",
+      "keywords": [
+        "sqlite-utils",
+        "python",
+        "software release",
+        "database tools",
+        "simon willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a reference update announcing a specific software release version and its development status.",
+      "pacer_reason_zh": "該文章作為軟體版本發布與開發狀態的參考更新。"
+    },
+    {
+      "id": "7d7bc23d2ad342c8",
+      "title": "tencent/Hy3",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-06T23:57:35.000Z",
+      "summary_en": "Tencent has released Hy3, a new 295B-parameter Mixture-of-Experts (MoE) model featuring a 256K context window and Apache 2.0 licensing. The model demonstrates high performance in productivity tasks and is currently available for testing via OpenRouter.",
+      "summary_zh": "騰訊發布了全新的 Hy3 模型，這是一款具備 295B 參數的混合專家模型（MoE），支援 256K 的上下文窗口並採用 Apache 2.0 授權。該模型在生產力任務中表現出色，目前已可在 OpenRouter 上進行測試。",
+      "keywords": [
+        "Hy3",
+        "Tencent",
+        "LLM",
+        "MoE",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides factual details, specifications, and performance claims about a newly released AI model.",
+      "pacer_reason_zh": "該文章提供了關於新發布 AI 模型的規格數據、效能聲明及具體事實資訊。"
+    },
+    {
+      "id": "354975d3d6729bcc",
+      "title": "Blog about things you don't understand yet",
+      "url": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-07T00:00:00.000Z",
+      "summary_en": "This article discusses the intellectual benefit of engaging with topics that currently elude your understanding. It highlights the importance of curiosity and the mental growth that comes from tackling complex, unfamiliar subjects.",
+      "summary_zh": "這篇文章探討了鑽研目前尚不理解的領域所帶來的智力益處。它強調了保持好奇心的重要性，以及透過挑戰複雜和陌生主題所能獲得的思維成長。",
+      "keywords": [
+        "learning",
+        "curiosity",
+        "intellectual-growth",
+        "self-improvement",
+        "knowledge"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of learning and the philosophy behind approaching difficult subjects.",
+      "pacer_reason_zh": "本文側重於學習的觀念架構，以及處理困難課題背後的哲學思考。"
+    },
     {
       "id": "26acf74aa038abb0",
       "title": "GLM 5.2 and the coming AI margin collapse (part 1)",
