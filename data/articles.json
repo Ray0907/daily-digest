@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-07-07T22:49:17.483Z",
+  "last_updated": "2026-07-08T22:52:53.272Z",
   "articles": [
+    {
+      "id": "fe5ed9134f2070ae",
+      "title": "The Decline of Deviance 2",
+      "url": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-07-08T16:10:54.000Z",
+      "summary_en": "This article explores the shifting social dynamics regarding non-conformity and individual expression in contemporary culture. It analyzes how societal standards of deviance have evolved and what this means for personal authenticity.",
+      "summary_zh": "本文探討了當代文化中關於非主流與個人表達的社會動態變化。文章分析了社會對異常行為標準的演變，以及這對個人真實性所帶來的影響。",
+      "keywords": [
+        "deviance",
+        "culture",
+        "conformity",
+        "social norms",
+        "sociology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, examining theoretical shifts in social behavior and norms.",
+      "pacer_reason_zh": "本文主要屬於概念性內容，探討社會行為與規範的理論轉變。"
+    },
+    {
+      "id": "81e679c582e4f30e",
+      "title": "Weekly Update 511: Live from my Riad in Marrakech",
+      "url": "https://www.troyhunt.com/weekly-update-511/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-07-08T13:54:46.000Z",
+      "summary_en": "Troy Hunt shares a personal update from Marrakech while addressing the ongoing challenge of data breach management. He uses the metaphor of trying to remove urine from a swimming pool to illustrate the difficulty of containing leaked personal information.",
+      "summary_zh": "Troy Hunt 在馬拉喀什分享個人近況，並討論了數據洩漏管理的持續挑戰。他以「試圖清除游泳池中的尿液」作為比喻，說明了防止個人資訊外洩的困難度。",
+      "keywords": [
+        "data breaches",
+        "Troy Hunt",
+        "security",
+        "privacy",
+        "analogy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a distinct analogy to explain the difficulty of data breach containment.",
+      "pacer_reason_zh": "該文章使用了一個獨特的類比來解釋數據洩漏防護的困難性。"
+    },
+    {
+      "id": "c2928edccd593e8c",
+      "title": "Family Feud: Mac-assed Mac App Edition",
+      "url": "https://blog.jim-nielsen.com/2026/mac-assed-family-feud/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-08T19:00:00.000Z",
+      "summary_en": "This post uses a 'Family Feud' game show format to critique why large, wealthy tech companies often release 'Electron' apps instead of high-quality, native macOS applications. The author suggests a correlation between corporate size and the tendency to prioritize cross-platform convenience over a true native user experience.",
+      "summary_zh": "本文以「家庭糾紛」遊戲節目的形式，探討為何大型科技公司往往傾向開發 Electron 應用程式，而非高品質的 macOS 原生應用。作者指出，企業規模與對原生體驗的重視程度之間似乎存在負相關，暗示大公司往往忽略了打造優秀原生軟體的細節。",
+      "keywords": [
+        "macOS",
+        "Electron",
+        "software development",
+        "native apps",
+        "tech critique"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual relationship between company size and the quality of native software development through a satirical lens.",
+      "pacer_reason_zh": "本文透過諷刺的視角，探討企業規模與原生軟體開發品質之間的觀念性關聯。"
+    },
+    {
+      "id": "51f1b298b0834eac",
+      "title": "The other kind of control flow guard check: The combined validate and call",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-08T14:00:00.000Z",
+      "summary_en": "This post discusses a specific optimization in Control Flow Guard (CFG) mechanisms where validation and function calls are combined into a single operation. It explains how this dual-purpose approach streamlines security checks in system programming.",
+      "summary_zh": "本文探討了控制流防護 (CFG) 機制中的一種優化方式，即將驗證與函式呼叫合併為單一操作。文章說明了這種雙重用途的機制如何簡化系統程式設計中的安全性檢查。",
+      "keywords": [
+        "Control Flow Guard",
+        "CFG",
+        "Windows Internals",
+        "Security",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual mechanics of a specific system security feature.",
+      "pacer_reason_zh": "本文解釋了特定系統安全功能的運作概念與機制。"
+    },
+    {
+      "id": "a88760ecaf482a97",
+      "title": "Agents are monads (but not that kind)",
+      "url": "https://xeiaso.net/blog/2026/hyle-pneuma/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary_en": "The article explores the conceptual relationship between software agents and monads. It humorously attempts to explain complex functional programming abstractions without relying on heavy academic jargon like endofunctors.",
+      "summary_zh": "本文探討了軟體代理（Agents）與單子（Monads）之間的觀念連結。作者幽默地嘗試在不使用複雜學術術語（如自函子）的情況下，解釋這些抽象的程式設計概念。",
+      "keywords": [
+        "monads",
+        "agents",
+        "functional programming",
+        "software architecture",
+        "abstraction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining abstract programming concepts and theoretical parallels between agents and functional programming structures.",
+      "pacer_reason_zh": "內容重點在於解釋抽象的程式設計概念，以及代理與函數式程式設計結構之間的理論對照。"
+    },
+    {
+      "id": "3f18505353ef95e7",
+      "title": "A bug which only affected left-handed users",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-08T11:34:43.000Z",
+      "summary_en": "The author shares a humorous reflection on a bug report that specifically affected left-handed users. The post highlights the often-overlooked considerations in user experience design and the challenges of reporting niche accessibility issues.",
+      "summary_zh": "作者分享了一篇關於一個僅影響左撇子使用者的軟體錯誤報告，並以幽默的方式探討了該事件。內容強調了在使用者體驗設計中，往往容易被忽視的細節以及處理特殊無障礙問題的挑戰。",
+      "keywords": [
+        "UX",
+        "accessibility",
+        "bug report",
+        "left-handed",
+        "web design"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study/anecdotal experience regarding a specific software bug report.",
+      "pacer_reason_zh": "本文以案例研究的形式分享了關於特定軟體錯誤報告的經驗與觀察。"
+    },
+    {
+      "id": "a89b40e99f3d3e81",
+      "title": "And Then the Billionaire Paid Off $550 Million of Our Debts ",
+      "url": "https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-08T08:00:00.000Z",
+      "summary_en": "The article examines the complexities behind billionaire philanthropy, using Evan Spiegel's donation to medical debt and Bill Gates' foundation as examples. The author argues that public acts of charity often come with nuances and structural motives that merit closer scrutiny.",
+      "summary_zh": "這篇文章探討了億萬富翁慈善行為背後的複雜性，並以 Evan Spiegel 的醫療債務捐款和比爾蓋茲基金會為例。作者認為，公開的慈善善舉往往隱含著細微差別和結構性動機，值得深入剖析。",
+      "keywords": [
+        "philanthropy",
+        "billionaires",
+        "charity",
+        "Bill Gates",
+        "Evan Spiegel"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on analyzing and conceptualizing the motives and implications behind billionaire charitable donations.",
+      "pacer_reason_zh": "文章重點在於分析並概念化億萬富翁捐款背後的動機與意涵。"
+    },
+    {
+      "id": "11d2003407b798e6",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-08T12:31:39.000Z",
+      "summary_en": "An investigative report reveals that a cybersecurity startup purchasing zero-day vulnerabilities is led by convicted felons with a history of fraudulent business activities. The article exposes the founders' backgrounds, including their involvement in fake intelligence companies and far-right conspiracy theories.",
+      "summary_zh": "一份調查報告揭露，一家收購零日漏洞的網路安全新創公司，其經營者竟是有詐欺前科且涉入極右派陰謀論的罪犯。文中詳細說明了創辦人過去經營虛假情報公司及虛假身分的背景。",
+      "keywords": [
+        "Cybersecurity",
+        "Zero-day",
+        "Fraud",
+        "Krebs on Security",
+        "Investigation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative case study providing evidence of the background and credibility of the startup's leadership.",
+      "pacer_reason_zh": "本文是一篇調查性案例研究，提供了關於該新創公司領導階層背景與誠信問題的證據。"
+    },
+    {
+      "id": "f4006669ac4434d9",
+      "title": "Quoting Kenton Varda",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-08T20:03:34.000Z",
+      "summary_en": "Kenton Varda has implemented a moratorium on AI-generated change descriptions within his team's workflow. He argues that AI output often redundantly describes code details while failing to provide the essential high-level context required for effective code reviews.",
+      "summary_zh": "Kenton Varda 的團隊宣佈禁止使用 AI 生成變更描述。他認為 AI 產出的內容往往只是冗餘地描述程式碼細節，卻忽略了程式碼審閱時最需要的宏觀架構與背景資訊。",
+      "keywords": [
+        "AI",
+        "LLM",
+        "code review",
+        "software engineering",
+        "generative AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a conceptual argument regarding the limitations of AI-generated documentation in professional software development.",
+      "pacer_reason_zh": "內容針對 AI 生成技術在專業軟體開發中存在的局限性，提出了概念性的觀點與反思。"
+    },
+    {
+      "id": "411c5d492b1439e6",
+      "title": "The Special Value Pi 4 was extremely short-lived",
+      "url": "https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-07-08T14:00:00.000Z",
+      "summary_en": "Jeff Geerling highlights the discovery and acquisition of a rare 'Special Value' Raspberry Pi 4 edition. This limited model features a lower-clocked processor of 1.25 GHz compared to the standard retail version's 1.8 GHz.",
+      "summary_zh": "Jeff Geerling 分享了關於極其罕見的 Raspberry Pi 4「特殊價值版」的發現與購入過程。此版本與標準版不同，其處理器時脈僅限於 1.25 GHz，低於零售版的 1.8 GHz。",
+      "keywords": [
+        "Raspberry Pi",
+        "Jeff Geerling",
+        "hardware",
+        "rare",
+        "tech news"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an evidence-based report on a specific hardware variant through observation and personal acquisition.",
+      "pacer_reason_zh": "本文透過作者的觀察與實際購入，記錄並驗證了特定硬體變體的規格差異，屬於證據類內容。"
+    },
     {
       "id": "911b258a35ad46b8",
       "title": "My blog has moved",

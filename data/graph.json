@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "f4006669ac4434d9",
+      "title": "Quoting Kenton Varda",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "LLM",
+        "code review",
+        "software engineering",
+        "generative AI"
+      ],
+      "published": "2026-07-08T20:03:34.000Z"
+    },
+    {
+      "id": "c2928edccd593e8c",
+      "title": "Family Feud: Mac-assed Mac App Edition",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/mac-assed-family-feud/",
+      "pacer": "C",
+      "keywords": [
+        "macOS",
+        "Electron",
+        "software development",
+        "native apps",
+        "tech critique"
+      ],
+      "published": "2026-07-08T19:00:00.000Z"
+    },
+    {
+      "id": "fe5ed9134f2070ae",
+      "title": "The Decline of Deviance 2",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
+      "pacer": "C",
+      "keywords": [
+        "deviance",
+        "culture",
+        "conformity",
+        "social norms",
+        "sociology"
+      ],
+      "published": "2026-07-08T16:10:54.000Z"
+    },
+    {
+      "id": "51f1b298b0834eac",
+      "title": "The other kind of control flow guard check: The combined validate and call",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510",
+      "pacer": "C",
+      "keywords": [
+        "Control Flow Guard",
+        "CFG",
+        "Windows Internals",
+        "Security",
+        "Programming"
+      ],
+      "published": "2026-07-08T14:00:00.000Z"
+    },
+    {
+      "id": "411c5d492b1439e6",
+      "title": "The Special Value Pi 4 was extremely short-lived",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/",
+      "pacer": "E",
+      "keywords": [
+        "Raspberry Pi",
+        "Jeff Geerling",
+        "hardware",
+        "rare",
+        "tech news"
+      ],
+      "published": "2026-07-08T14:00:00.000Z"
+    },
+    {
+      "id": "81e679c582e4f30e",
+      "title": "Weekly Update 511: Live from my Riad in Marrakech",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-511/",
+      "pacer": "A",
+      "keywords": [
+        "data breaches",
+        "Troy Hunt",
+        "security",
+        "privacy",
+        "analogy"
+      ],
+      "published": "2026-07-08T13:54:46.000Z"
+    },
+    {
+      "id": "11d2003407b798e6",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "pacer": "E",
+      "keywords": [
+        "Cybersecurity",
+        "Zero-day",
+        "Fraud",
+        "Krebs on Security",
+        "Investigation"
+      ],
+      "published": "2026-07-08T12:31:39.000Z"
+    },
+    {
+      "id": "3f18505353ef95e7",
+      "title": "A bug which only affected left-handed users",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "pacer": "E",
+      "keywords": [
+        "UX",
+        "accessibility",
+        "bug report",
+        "left-handed",
+        "web design"
+      ],
+      "published": "2026-07-08T11:34:43.000Z"
+    },
+    {
+      "id": "a89b40e99f3d3e81",
+      "title": "And Then the Billionaire Paid Off $550 Million of Our Debts ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts",
+      "pacer": "C",
+      "keywords": [
+        "philanthropy",
+        "billionaires",
+        "charity",
+        "Bill Gates",
+        "Evan Spiegel"
+      ],
+      "published": "2026-07-08T08:00:00.000Z"
+    },
+    {
+      "id": "a88760ecaf482a97",
+      "title": "Agents are monads (but not that kind)",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/blog/2026/hyle-pneuma/",
+      "pacer": "C",
+      "keywords": [
+        "monads",
+        "agents",
+        "functional programming",
+        "software architecture",
+        "abstraction"
+      ],
+      "published": "2026-07-08T00:00:00.000Z"
+    },
+    {
       "id": "baab745c82786832",
       "title": "sqlite-utils 4.0, now with database schema migrations",
       "source": "Simon Willison's Weblog",
@@ -127,22 +287,6 @@
         "Dutch government"
       ],
       "published": "2026-07-07T09:20:00.000Z"
-    },
-    {
-      "id": "7fd48dfe7dd45d85",
-      "title": "sqlite-utils 4.0rc4",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "sqlite-utils",
-        "python",
-        "software release",
-        "database tools",
-        "simon willison"
-      ],
-      "published": "2026-07-07T05:36:15.000Z"
     },
     {
       "id": "354975d3d6729bcc",
@@ -705,22 +849,6 @@
       "published": "2026-07-01T15:14:12.000Z"
     },
     {
-      "id": "d34d9811ec0e656d",
-      "title": "It rather involved being on the other side of this airtight hatchway: Changing administrative settings",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498",
-      "pacer": "C",
-      "keywords": [
-        "security",
-        "administrative privileges",
-        "airtight hatchway",
-        "Windows",
-        "system architecture"
-      ],
-      "published": "2026-07-01T14:00:00.000Z"
-    },
-    {
       "id": "f5cb24fb7a45a43c",
       "title": "The CRA is not about open source",
       "source": "Andrew Nesbitt",
@@ -1009,22 +1137,6 @@
       "published": "2026-06-28T16:11:20.022Z"
     },
     {
-      "id": "f2297443af4aaf70",
-      "title": "Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/",
-      "pacer": "A",
-      "keywords": [
-        "book review",
-        "Bob Mortimer",
-        "The Hotel Avocado",
-        "literature",
-        "reading"
-      ],
-      "published": "2026-06-28T11:34:45.000Z"
-    },
-    {
       "id": "4b2ef1dcaa1d1d59",
       "title": "The Laziest Generation ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -1119,22 +1231,6 @@
         "industry trends"
       ],
       "published": "2026-06-27T12:02:02.000Z"
-    },
-    {
-      "id": "a70c63f6d49dd592",
-      "title": "All Chinese Models Will Be Illegal in 3... 2... 1... ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/all-chinese-models-will-be-illegal",
-      "pacer": "A",
-      "keywords": [
-        "AI Regulation",
-        "DeepSeek",
-        "Geopolitics",
-        "Open Source AI",
-        "Tech Policy"
-      ],
-      "published": "2026-06-27T03:32:38.000Z"
     },
     {
       "id": "7386a02ead884b3a",
@@ -1295,22 +1391,6 @@
         "tech culture"
       ],
       "published": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "00d10d8ac734f04d",
-      "title": "Blogging Can Just Be Stating The Obvious",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "pacer": "C",
-      "keywords": [
-        "blogging",
-        "content creation",
-        "web design",
-        "UX",
-        "commentary"
-      ],
-      "published": "2026-06-24T19:00:00.000Z"
     },
     {
       "id": "5358aed48042fcc8",
@@ -2161,22 +2241,6 @@
       "published": "2026-06-12T09:20:39.000Z"
     },
     {
-      "id": "2c71ad3dea8f02d8",
-      "title": "Why are cached input tokens cheaper with AI services?",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "caching",
-        "GPU",
-        "tokens",
-        "cost optimization"
-      ],
-      "published": "2026-06-12T00:00:00.000Z"
-    },
-    {
       "id": "d3e2929059b32ed8",
       "title": "AI will be massively deflationary",
       "source": "the singularity is nearer",
@@ -2257,22 +2321,6 @@
       "published": "2026-06-10T12:22:04.000Z"
     },
     {
-      "id": "243eae8006fab52d",
-      "title": "Weekly Update 507",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-507/",
-      "pacer": "C",
-      "keywords": [
-        "Have I Been Pwned",
-        "Data Breach",
-        "Cybersecurity",
-        "Operational Management",
-        "Troy Hunt"
-      ],
-      "published": "2026-06-10T05:31:56.000Z"
-    },
-    {
       "id": "f947be62d5d3a381",
       "title": "Gaslighting Openness",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -2287,22 +2335,6 @@
         "Digital Sovereignty"
       ],
       "published": "2026-06-10T00:00:00.000Z"
-    },
-    {
-      "id": "ea6cfaf1ee3aa04f",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "pacer": "E",
-      "keywords": [
-        "Microsoft",
-        "Patch Tuesday",
-        "Cybersecurity",
-        "Vulnerability",
-        "Software Update"
-      ],
-      "published": "2026-06-09T22:07:28.000Z"
     },
     {
       "id": "1da38fd399890f7c",
@@ -2782,22 +2814,6 @@
         "blogging"
       ],
       "published": "2026-05-30T00:00:00.000Z"
-    },
-    {
-      "id": "2cd3051d8a5aaded",
-      "title": "It's hard to justify buying a Framework 12",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "pacer": "E",
-      "keywords": [
-        "Framework 12",
-        "MacBook Neo",
-        "筆電採購",
-        "性價比",
-        "硬體評測"
-      ],
-      "published": "2026-05-29T14:00:00.000Z"
     },
     {
       "id": "d1ec34024eaca204",
@@ -3704,22 +3720,6 @@
       "published": "2026-04-30T00:00:00.000Z"
     },
     {
-      "id": "569a50f16c8e75c5",
-      "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition",
-      "pacer": "R",
-      "keywords": [
-        "Experimental History",
-        "blogging",
-        "competition",
-        "writing",
-        "community"
-      ],
-      "published": "2026-04-28T17:48:50.000Z"
-    },
-    {
       "id": "a1db390df188cc3d",
       "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
       "source": "Steve Blank",
@@ -4324,16 +4324,6 @@
         "sqlite-utils",
         "python",
         "database"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "bc0c94d89463b64f",
-      "target": "7fd48dfe7dd45d85",
-      "shared_keywords": [
-        "sqlite-utils",
-        "python",
-        "software release"
       ],
       "strength": 0.6
     },
