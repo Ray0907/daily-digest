@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 08 Jul 2026 22:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 23:00:36 GMT</lastBuildDate>
     
+    <item>
+      <title>Boxed In</title>
+      <link>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</link>
+      <guid>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</guid>
+      <pubDate>Thu, 09 Jul 2026 17:20:00 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the career limitations that arise when creators impose overly rigid constraints on their work. Using Paul Fusco and his character ALF as a case study, it illustrates how an uncompromising commitment to maintaining an illusion can stifle production and hinder long-term professional opportunities.</description>
+    </item>
+
+    <item>
+      <title>Unboxed: Zig</title>
+      <link>https://nesbitt.io/2026/07/09/unboxed-zig.html</link>
+      <guid>https://nesbitt.io/2026/07/09/unboxed-zig.html</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article provides an analytical overview of the Zig programming language's built-in package manager. It explains the roles of the build.zig and build.zig.zon files, detailing how Zig manages dependencies through content hashes and restricted object notation.</description>
+    </item>
+
+    <item>
+      <title>I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains that fixing a #pragma detect_mismatch error requires more than just changing the code. You must perform a full rebuild of all project dependencies to ensure the fix propagates correctly.</description>
+    </item>
+
+    <item>
+      <title>The console wars have been lost</title>
+      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
+      <guid>https://xeiaso.net/notes/2026/console-wars-lost/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The blog post argues that Valve has effectively won the console wars through passive strategy. Rather than competing directly with traditional console manufacturers, Valve focused on building an open, hardware-agnostic platform.</description>
+    </item>
+
+    <item>
+      <title>Arp 90</title>
+      <link>https://maurycyz.com/astro/arp90/</link>
+      <guid>https://maurycyz.com/astro/arp90/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post provides technical imaging details and processing steps for the interacting galaxy pair Arp 90. It includes specific gear configurations, exposure data, and a summary of the image calibration and stacking workflow.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Post-political (09 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/08/wilhoitian/</link>
+      <guid>https://pluralistic.net/2026/07/08/wilhoitian/</guid>
+      <pubDate>Thu, 09 Jul 2026 06:37:55 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow critiques the concept of post-politics and the 'horseshoe theory,' arguing that these ideas create a dangerous false equivalence between left and right. He asserts that modern political divisions represent substantive, life-and-death disagreements rather than mere tribalism or cultural signaling.</description>
+    </item>
+
+    <item>
+      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
+      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 19:46:38 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>OpenAI has released the GPT-5.6 family of models, including Luna, Terra, and Sol, which feature a 1-million-token context window and improved agentic performance. While these models offer significant cost efficiencies and high scores on long-running workflow benchmarks, they demonstrate varied performance on coding tasks like SWE-Bench Pro.</description>
+    </item>
+
+    <item>
+      <title>Introducing Muse Spark 1.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:24:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces Muse Spark 1.1, Meta's latest model featuring enhanced agentic tool use and an official API. The post highlights the model's evaluation findings and provides a practical guide for accessing it via a new CLI plugin.</description>
+    </item>
+
+    <item>
+      <title>llm-meta-ai 0.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:12:20 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.1 of llm-meta-ai. This tool enables users to run prompts against Meta's new muse-spark-1.1 model using the LLM command-line interface.</description>
+    </item>
+
+    <item>
+      <title>llm 0.31.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:06:15 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.31.1 of the LLM command-line utility. This update specifically resolves a JSON error that occurred when OpenAI Chat Completion endpoints returned empty tool call arguments.</description>
+    </item>
+
+    <item>
+      <title>Rewriting Bun in Rust</title>
+      <link>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</guid>
+      <pubDate>Wed, 08 Jul 2026 23:57:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Bun creator Jarred Sumner details the decision to rewrite the Bun runtime from Zig to Rust to solve complex memory management issues. The article explores how AI-powered coding agents made this massive, historically discouraged undertaking possible by automating the translation and verification process.</description>
+    </item>
+
+    <item>
+      <title>Introducing GPT‑Live</title>
+      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</guid>
+      <pubDate>Wed, 08 Jul 2026 23:20:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison reviews the newly released GPT-Live for ChatGPT voice mode, highlighting its improved reasoning capabilities and ability to delegate complex tasks to GPT-5.5. He shares his personal experience with the model, noting its enhanced conversational flow and documenting an interesting anecdote regarding unexpected model behavior.</description>
+    </item>
+
     <item>
       <title>The Decline of Deviance 2</title>
       <link>https://www.experimental-history.com/p/the-decline-of-deviance-2</link>
@@ -796,114 +904,6 @@
       <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
       <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
       <description>This article explores the inherent conflict in dating app business models between helping users find love versus maximizing time on the platform. The author observes that these apps commodify the search for partners by creating an illusion of perfection, ultimately resulting in a cycle of continuous monetization.</description>
-    </item>
-
-    <item>
-      <title>Nano Banana 2 Lite</title>
-      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 22:15:35 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares his hands-on experience with the Gemini 3.1 Flash Lite Image model, Google's new cost-effective and high-speed image generator. He tests the model with a 'Where's Waldo'-style prompt and evaluates the quality and output consistency compared to previous versions.</description>
-    </item>
-
-    <item>
-      <title>What's new in Claude Sonnet 5</title>
-      <link>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 21:23:02 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison examines the technical updates in the new Claude Sonnet 5 model, highlighting its performance parity with Opus 4.8 and changes to API parameters. Key takeaways include the introduction of a new tokenizer that effectively increases costs by 30% and the default enabling of adaptive thinking features.</description>
-    </item>
-
-    <item>
-      <title>The AI Compass</title>
-      <link>https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 17:39:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The AI Compass is a political compass-style quiz that categorizes users into one of 30 archetypes based on their views on AI ethics and technology. The tool is implemented as a simple, build-free React application, reflecting the author's hands-on approach to AI.</description>
-    </item>
-
-    <item>
-      <title>Have your agent record video demos of its work with shot-scraper video</title>
-      <link>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 16:54:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces the 'shot-scraper video' command, which uses Playwright to generate automated video demos of web application routines. This tool helps coding agents demonstrate their progress by executing a storyboard defined in a YAML file.</description>
-    </item>
-
-    <item>
-      <title>shot-scraper 1.10</title>
-      <link>https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 15:10:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The shot-scraper tool has been updated to version 1.10. The major addition is the 'video storyboard' feature, which allows users to record automated video demos of software agents in action.</description>
-    </item>
-
-    <item>
-      <title>HTML table extractor</title>
-      <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
-      <pubDate>Mon, 29 Jun 2026 23:38:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has introduced a new browser-based tool that extracts HTML tables from pasted rich text and converts them into various formats like Markdown, CSV, and JSON. The update also adds functionality to fetch and parse tables directly from Wikipedia pages using their API.</description>
-    </item>
-
-    <item>
-      <title>My favorite keyboards</title>
-      <link>https://fabiensanglard.net/keyboards/index.html</link>
-      <guid>https://fabiensanglard.net/keyboards/index.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
-      <description>This article explores the author's personal preferences and reviews of various keyboard models. It details the specific features and tactile experiences that define the author's favorite typing tools.</description>
-    </item>
-
-    <item>
-      <title>Notes from Bryan Cantrill’s “Intelligence is not Enough”</title>
-      <link>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</link>
-      <guid>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</guid>
-      <pubDate>Sun, 28 Jun 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post reflects on Bryan Cantrill’s talk about the engineering challenges at Oxide, arguing that solving critical, unprecedented problems requires human values like resilience and teamwork rather than raw intelligence alone. It emphasizes that character and collaboration are essential for breakthroughs where traditional knowledge or synthetic intelligence fails.</description>
-    </item>
-
-    <item>
-      <title>Unbundling the standard library</title>
-      <link>https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</link>
-      <guid>https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</guid>
-      <pubDate>Mon, 29 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article explores the shifting boundary between compiler-level built-ins and standard libraries, using the Haskell GHC 10.2 update and Ruby's gemification as examples. It highlights how these shifting lines create complexities for vulnerability management and software bill of materials (SBOM) accuracy when libraries exist in both the language distribution and as standalone packages.</description>
-    </item>
-
-    <item>
-      <title>Who you gonna believe: Grok or the docs?</title>
-      <link>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</link>
-      <guid>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</guid>
-      <pubDate>Mon, 29 Jun 2026 12:12:05 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post examines the inconsistencies between documentation and AI-generated outputs when using the calculator utility 'bc'. It highlights how large language models like Grok may hallucinate features that do not exist in standard POSIX versions of the software.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/29/arsonist-firefighters/</link>
-      <guid>https://pluralistic.net/2026/06/29/arsonist-firefighters/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:34:57 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow critiques how Google's reliance on AI-generated search summaries undermines the open web and creator incentives. He argues that users prefer these summaries despite their inaccuracy because Google's search experience has significantly degraded.</description>
-    </item>
-
-    <item>
-      <title>I turned my prologue into a short video </title>
-      <link>https://idiallo.com/byte-size/my-prologue-to-short-video</link>
-      <guid>https://idiallo.com/byte-size/my-prologue-to-short-video</guid>
-      <pubDate>Mon, 29 Jun 2026 02:12:56 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author shares a new approach to book promotion by adapting their book's prologue into a short video format. This strategy addresses the difficulty of writing a full manuscript by focusing on smaller, engaging content pieces.</description>
     </item>
   </channel>
 </rss>

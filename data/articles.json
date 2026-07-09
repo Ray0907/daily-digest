@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-07-08T22:52:53.272Z",
+  "last_updated": "2026-07-09T23:00:36.489Z",
   "articles": [
+    {
+      "id": "8e3025fcf50e7800",
+      "title": "Boxed In",
+      "url": "https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-07-09T17:20:00.000Z",
+      "summary_en": "This article explores the career limitations that arise when creators impose overly rigid constraints on their work. Using Paul Fusco and his character ALF as a case study, it illustrates how an uncompromising commitment to maintaining an illusion can stifle production and hinder long-term professional opportunities.",
+      "summary_zh": "這篇文章探討了創作者在作品中設定過於嚴格的限制時，可能對職業發展造成的侷限。透過保羅·福斯科與其角色 ALF 的案例，說明了對維持虛構幻象的過度執著，反而會限制製作靈活性並阻礙長期的職業機會。",
+      "keywords": [
+        "ALF",
+        "Paul Fusco",
+        "Creativity",
+        "Creative limitations",
+        "Pop culture"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the specific analogy of Paul Fusco's relationship with the character ALF to illustrate the broader conceptual danger of creative rigidity.",
+      "pacer_reason_zh": "本文透過保羅·福斯科與 ALF 角色的案例作為類比，用以說明創意固執所帶來的廣泛概念性風險。"
+    },
+    {
+      "id": "df2be0829dd6ac4a",
+      "title": "Unboxed: Zig",
+      "url": "https://nesbitt.io/2026/07/09/unboxed-zig.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-09T10:00:00.000Z",
+      "summary_en": "This article provides an analytical overview of the Zig programming language's built-in package manager. It explains the roles of the build.zig and build.zig.zon files, detailing how Zig manages dependencies through content hashes and restricted object notation.",
+      "summary_zh": "本文介紹了 Zig 程式語言內建套件管理器的運作機制。文章說明了 build.zig 與 build.zig.zon 檔案的各自職責，並詳述了 Zig 如何透過內容雜湊值（hashes）與受限的物件標記法（ZON）來管理專案相依性。",
+      "keywords": [
+        "Zig",
+        "Package Manager",
+        "build.zig",
+        "ZON",
+        "Programming Tools"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'how' of Zig's package management architecture and its underlying design philosophy.",
+      "pacer_reason_zh": "文章針對 Zig 套件管理架構的功能與設計原理進行了概念性的解釋與說明。"
+    },
+    {
+      "id": "5ddd640336f4a57f",
+      "title": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-09T14:00:00.000Z",
+      "summary_en": "This post explains that fixing a #pragma detect_mismatch error requires more than just changing the code. You must perform a full rebuild of all project dependencies to ensure the fix propagates correctly.",
+      "summary_zh": "本文說明修正 #pragma detect_mismatch 錯誤不僅僅是修改程式碼。您必須對所有依賴該變更的項目執行完整重建，以確保修復正確生效。",
+      "keywords": [
+        "#pragma",
+        "detect_mismatch",
+        "C++",
+        "rebuild",
+        "debugging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a direct, step-by-step solution to a specific technical error.",
+      "pacer_reason_zh": "該文章針對特定的技術錯誤提供了直接且步驟化的解決方案。"
+    },
+    {
+      "id": "4b28739b0a093ab4",
+      "title": "The console wars have been lost",
+      "url": "https://xeiaso.net/notes/2026/console-wars-lost/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-07-09T00:00:00.000Z",
+      "summary_en": "The blog post argues that Valve has effectively won the console wars through passive strategy. Rather than competing directly with traditional console manufacturers, Valve focused on building an open, hardware-agnostic platform.",
+      "summary_zh": "這篇文章認為 Valve 透過被動策略贏得了主機戰爭。他們沒有選擇與傳統主機製造商直接競爭，而是致力於建立一個開放且與硬體無關的平台。",
+      "keywords": [
+        "Valve",
+        "Steam Deck",
+        "Gaming",
+        "Console Wars",
+        "Platform Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual take on industry dynamics and strategic positioning.",
+      "pacer_reason_zh": "該文提供了關於產業動態與策略定位的概念性分析。"
+    },
+    {
+      "id": "91520bc5ff2b898f",
+      "title": "Arp 90",
+      "url": "https://maurycyz.com/astro/arp90/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-08T00:00:00.000Z",
+      "summary_en": "This post provides technical imaging details and processing steps for the interacting galaxy pair Arp 90. It includes specific gear configurations, exposure data, and a summary of the image calibration and stacking workflow.",
+      "summary_zh": "本文介紹了交互作用星系對 Arp 90 的天文攝影技術細節與影像處理流程。內容涵蓋了設備配置、曝光數據以及校準與堆疊處理的步驟。",
+      "keywords": [
+        "Arp 90",
+        "Astro-photography",
+        "Galaxy",
+        "Image processing",
+        "Deep sky"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content presents specific experimental data, equipment settings, and processing results for a single astronomical observation.",
+      "pacer_reason_zh": "內容展示了特定天文觀測的實驗數據、設備設置以及處理結果。"
+    },
+    {
+      "id": "f10948b9aa05fc69",
+      "title": "Pluralistic: Post-political (09 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/08/wilhoitian/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-09T06:37:55.000Z",
+      "summary_en": "Cory Doctorow critiques the concept of post-politics and the 'horseshoe theory,' arguing that these ideas create a dangerous false equivalence between left and right. He asserts that modern political divisions represent substantive, life-and-death disagreements rather than mere tribalism or cultural signaling.",
+      "summary_zh": "Cory Doctorow 批評了「後政治」和「馬蹄鐵理論」，認為這些觀點在左派與右派之間創造了危險的錯誤對等。他主張現代政治分歧代表著攸關生死的實質議題，而非單純的部落主義或文化符號象徵。",
+      "keywords": [
+        "politics",
+        "political polarization",
+        "horseshoe theory",
+        "Cory Doctorow",
+        "social commentary"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of political theories like the 'horseshoe theory' and explains the author's stance on why political polarization is rooted in substantive disagreement.",
+      "pacer_reason_zh": "本文針對「馬蹄鐵理論」等政治理論提供了概念性的批判，並解釋了作者關於政治兩極化源於實質分歧的立場。"
+    },
+    {
+      "id": "6786dc227c1f3563",
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-09T19:46:38.000Z",
+      "summary_en": "OpenAI has released the GPT-5.6 family of models, including Luna, Terra, and Sol, which feature a 1-million-token context window and improved agentic performance. While these models offer significant cost efficiencies and high scores on long-running workflow benchmarks, they demonstrate varied performance on coding tasks like SWE-Bench Pro.",
+      "summary_zh": "OpenAI 發布了 GPT-5.6 模型系列，包含 Luna、Terra 和 Sol 三種尺寸，均支援百萬級上下文視窗並提升了代理任務效能。儘管這些模型在長期工作流程基準測試中展現了顯著的成本效益，但在 SWE-Bench Pro 等編碼基準測試中表現則各異。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.6",
+        "LLM",
+        "AI benchmarks",
+        "Agentic AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on benchmarking performance, cost comparison, and data analysis of new model capabilities.",
+      "pacer_reason_zh": "本文重點在於分析新模型的效能基準測試、成本比較以及相關數據報告。"
+    },
+    {
+      "id": "32d550e225ddffd6",
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-09T16:24:09.000Z",
+      "summary_en": "Simon Willison introduces Muse Spark 1.1, Meta's latest model featuring enhanced agentic tool use and an official API. The post highlights the model's evaluation findings and provides a practical guide for accessing it via a new CLI plugin.",
+      "summary_zh": "Simon Willison 介紹了 Meta 最新推出的 Muse Spark 1.1 模型，該版本提升了代理工具調用能力並提供官方 API。文中不僅分享了模型評估報告的亮點，還示範了如何透過新的 CLI 外掛程式來實作存取。",
+      "keywords": [
+        "Muse Spark 1.1",
+        "Meta",
+        "LLM",
+        "API",
+        "CLI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article includes a step-by-step technical tutorial on how to install and use the new plugin to interact with the model via command line.",
+      "pacer_reason_zh": "文章包含了一份技術教學，逐步說明如何安裝與使用新的插件，透過指令列與模型進行互動。"
+    },
+    {
+      "id": "84f3ec33fcb0e26a",
+      "title": "llm-meta-ai 0.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-09T16:12:20.000Z",
+      "summary_en": "Simon Willison has released version 0.1 of llm-meta-ai. This tool enables users to run prompts against Meta's new muse-spark-1.1 model using the LLM command-line interface.",
+      "summary_zh": "Simon Willison 發布了 llm-meta-ai 0.1 版本。此工具讓使用者能透過 LLM 命令列介面，針對 Meta 最新的 muse-spark-1.1 模型執行提示詞。",
+      "keywords": [
+        "llm",
+        "meta",
+        "muse-spark",
+        "cli",
+        "ai"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for a specific new tool version.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，作為特定工具版本的參考資訊。"
+    },
+    {
+      "id": "903087bd5201a8c2",
+      "title": "llm 0.31.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-09T16:06:15.000Z",
+      "summary_en": "Simon Willison has released version 0.31.1 of the LLM command-line utility. This update specifically resolves a JSON error that occurred when OpenAI Chat Completion endpoints returned empty tool call arguments.",
+      "summary_zh": "Simon Willison 發布了 LLM 命令列工具的 0.31.1 版本。此更新修復了 OpenAI Chat Completion 終端在處理空參數工具調用時可能引發的 JSON 錯誤。",
+      "keywords": [
+        "llm",
+        "software-release",
+        "openai",
+        "cli",
+        "bug-fix"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note documenting a version update and a specific bug fix.",
+      "pacer_reason_zh": "這是軟體版本更新說明，記錄了版本迭代與特定的錯誤修復內容。"
+    },
+    {
+      "id": "f159d9ad36573be3",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-08T23:57:21.000Z",
+      "summary_en": "Bun creator Jarred Sumner details the decision to rewrite the Bun runtime from Zig to Rust to solve complex memory management issues. The article explores how AI-powered coding agents made this massive, historically discouraged undertaking possible by automating the translation and verification process.",
+      "summary_zh": "Bun 創辦人 Jarred Sumner 詳細介紹了將 Bun 執行環境從 Zig 改寫為 Rust 的決策過程，旨在解決複雜的記憶體管理問題。文章探討了 AI 編碼代理如何透過自動化轉換與驗證流程，使這項以往被視為禁忌的大規模重構成為可能。",
+      "keywords": [
+        "Bun",
+        "Rust",
+        "Zig",
+        "Memory Management",
+        "AI Agents"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study detailing a specific engineering migration project, providing evidence and insights into why the switch was made.",
+      "pacer_reason_zh": "本文作為一個案例研究，詳細介紹了具體的工程遷移專案，並針對為何進行轉換提供了證據與觀點。"
+    },
+    {
+      "id": "66b741ba9c910e97",
+      "title": "Introducing GPT‑Live",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-08T23:20:48.000Z",
+      "summary_en": "Simon Willison reviews the newly released GPT-Live for ChatGPT voice mode, highlighting its improved reasoning capabilities and ability to delegate complex tasks to GPT-5.5. He shares his personal experience with the model, noting its enhanced conversational flow and documenting an interesting anecdote regarding unexpected model behavior.",
+      "summary_zh": "Simon Willison 評測了 ChatGPT 語音模式新推出的 GPT-Live，強調其強化的推理能力，以及將複雜任務委派給 GPT-5.5 的功能。他分享了個人使用心得，指出其對話流暢度的提升，並紀錄了一段關於模型意外行為的趣事。",
+      "keywords": [
+        "GPT-Live",
+        "ChatGPT",
+        "OpenAI",
+        "AI Voice",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an experiential report and a firsthand case study of the new model's capabilities and quirks.",
+      "pacer_reason_zh": "本文屬於使用者體驗報告，並作為該新模型功能與特性的一項實務個案研究。"
+    },
     {
       "id": "fe5ed9134f2070ae",
       "title": "The Decline of Deviance 2",
