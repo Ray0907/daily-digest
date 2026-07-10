@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "a1a78491d4bed77b",
+      "title": "Quoting Nilay Patel",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "augmented reality",
+        "privacy",
+        "ai ethics",
+        "hardware limitations",
+        "tech policy"
+      ],
+      "published": "2026-07-10T17:05:26.000Z"
+    },
+    {
+      "id": "3ee836a9713801b5",
+      "title": "Adam Brown – A deep but accessible introduction to general relativity",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/adam-brown-gr",
+      "pacer": "C",
+      "keywords": [
+        "General Relativity",
+        "Black Holes",
+        "Physics",
+        "Astrophysics",
+        "Energy"
+      ],
+      "published": "2026-07-10T16:23:56.000Z"
+    },
+    {
+      "id": "de462961452317c0",
+      "title": "This Week on The Analog Antiquarian",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/",
+      "pacer": "C",
+      "keywords": [
+        "Digital Antiquarian",
+        "Henry VI Part 3",
+        "Software History",
+        "Retrogaming",
+        "Game Development"
+      ],
+      "published": "2026-07-10T16:20:37.000Z"
+    },
+    {
+      "id": "125769a894c36cb7",
+      "title": "The case of the mysterious changes to integers when there shouldn’t have been any code generation effect",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514",
+      "pacer": "E",
+      "keywords": [
+        "debugging",
+        "integers",
+        "code generation",
+        "programming",
+        "The Old New Thing"
+      ],
+      "published": "2026-07-10T14:00:00.000Z"
+    },
+    {
+      "id": "39404e835ddcd75d",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "pacer": "C",
+      "keywords": [
+        "QuadRF",
+        "Raspberry Pi",
+        "FPGA",
+        "WiFi",
+        "Signal Processing"
+      ],
+      "published": "2026-07-10T14:00:00.000Z"
+    },
+    {
+      "id": "db3234898ae34ee6",
+      "title": "Game Review: Lovers In A Dangerous Spacetime ★★★☆☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/",
+      "pacer": "E",
+      "keywords": [
+        "game review",
+        "co-operative games",
+        "gaming",
+        "Lovers In A Dangerous Spacetime",
+        "leisure"
+      ],
+      "published": "2026-07-10T11:34:18.000Z"
+    },
+    {
+      "id": "3320b37f35ff951f",
+      "title": "Package Management as Org Chart",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+      "pacer": "A",
+      "keywords": [
+        "Conway's Law",
+        "Dependency Management",
+        "Software Architecture",
+        "Monorepo",
+        "Package Management"
+      ],
+      "published": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "1f3892de2f325fb2",
+      "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "labor",
+        "automation",
+        "ideology",
+        "management"
+      ],
+      "published": "2026-07-10T09:52:06.000Z"
+    },
+    {
+      "id": "d175f5f47bd85631",
+      "title": "Quoting OpenAI",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "ChatGPT Work",
+        "AI",
+        "Simon Willison"
+      ],
+      "published": "2026-07-10T01:05:57.000Z"
+    },
+    {
       "id": "6786dc227c1f3563",
       "title": "The new GPT-5.6 family: Luna, Terra, Sol",
       "source": "Simon Willison's Weblog",
@@ -65,22 +209,6 @@
       "published": "2026-07-09T16:12:20.000Z"
     },
     {
-      "id": "903087bd5201a8c2",
-      "title": "llm 0.31.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "software-release",
-        "openai",
-        "cli",
-        "bug-fix"
-      ],
-      "published": "2026-07-09T16:06:15.000Z"
-    },
-    {
       "id": "5ddd640336f4a57f",
       "title": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
       "source": "The Old New Thing",
@@ -129,6 +257,22 @@
       "published": "2026-07-09T06:37:55.000Z"
     },
     {
+      "id": "4dab36fa03c0f874",
+      "title": "The Tadpole galaxy:",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/astro/arp188/",
+      "pacer": "E",
+      "keywords": [
+        "Tadpole galaxy",
+        "astrophotography",
+        "Arp 188",
+        "image processing",
+        "deep sky imaging"
+      ],
+      "published": "2026-07-09T00:00:00.000Z"
+    },
+    {
       "id": "4b28739b0a093ab4",
       "title": "The console wars have been lost",
       "source": "Xe Iaso's blog",
@@ -143,22 +287,6 @@
         "Platform Strategy"
       ],
       "published": "2026-07-09T00:00:00.000Z"
-    },
-    {
-      "id": "f159d9ad36573be3",
-      "title": "Rewriting Bun in Rust",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Bun",
-        "Rust",
-        "Zig",
-        "Memory Management",
-        "AI Agents"
-      ],
-      "published": "2026-07-08T23:57:21.000Z"
     },
     {
       "id": "c2928edccd593e8c",
@@ -705,22 +833,6 @@
       "published": "2026-07-03T15:46:04.000Z"
     },
     {
-      "id": "3fb525ede7955074",
-      "title": "How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504",
-      "pacer": "C",
-      "keywords": [
-        "CcNamespace.dll",
-        "Debugging",
-        "DLL",
-        "Windows",
-        "Root Cause Analysis"
-      ],
-      "published": "2026-07-03T14:00:00.000Z"
-    },
-    {
       "id": "eb4eef80cbe174c8",
       "title": "The Fall and Rise of Screwworm",
       "source": "Construction Physics",
@@ -913,22 +1025,6 @@
       "published": "2026-07-01T22:13:17.000Z"
     },
     {
-      "id": "1c52d8d32ba1a2e8",
-      "title": "Pluralistic: Technocarcinization (01 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/01/ontogeny/",
-      "pacer": "A",
-      "keywords": [
-        "Enshittification",
-        "Technocarcinization",
-        "Big Tech",
-        "Surveillance",
-        "Platform Evolution"
-      ],
-      "published": "2026-07-01T15:14:12.000Z"
-    },
-    {
       "id": "f5cb24fb7a45a43c",
       "title": "The CRA is not about open source",
       "source": "Andrew Nesbitt",
@@ -1055,38 +1151,6 @@
         "Web Security"
       ],
       "published": "2026-06-30T15:42:54.000Z"
-    },
-    {
-      "id": "9b587e0a20cf3d60",
-      "title": "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/",
-      "pacer": "C",
-      "keywords": [
-        "Book Review",
-        "Fake Creativity",
-        "AI",
-        "Creativity",
-        "Literature"
-      ],
-      "published": "2026-06-30T11:34:20.000Z"
-    },
-    {
-      "id": "9af775d0703552c4",
-      "title": "Taking Roads and Bridges literally",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
-      "pacer": "A",
-      "keywords": [
-        "open source",
-        "infrastructure",
-        "digital maintenance",
-        "public policy",
-        "software sustainability"
-      ],
-      "published": "2026-06-30T10:00:00.000Z"
     },
     {
       "id": "b59c54a00986e591",
@@ -1777,22 +1841,6 @@
       "published": "2026-06-20T01:45:09.871Z"
     },
     {
-      "id": "7a532a26639dd55a",
-      "title": "Glassblowing #3: A better thermionic diode",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/projects/glass/3/",
-      "pacer": "P",
-      "keywords": [
-        "vacuum tube",
-        "glassblowing",
-        "thermionic diode",
-        "electronics",
-        "DIY"
-      ],
-      "published": "2026-06-20T00:00:00.000Z"
-    },
-    {
       "id": "5c7875f458c37ecd",
       "title": "The data black hole at the center of AI",
       "source": "Dwarkesh Podcast",
@@ -1967,22 +2015,6 @@
         "enthusiast"
       ],
       "published": "2026-06-16T18:50:27.000Z"
-    },
-    {
-      "id": "e1aa9ff126fab19e",
-      "title": "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/ada-palmer-2",
-      "pacer": "C",
-      "keywords": [
-        "Machiavelli",
-        "Ada Palmer",
-        "Political Philosophy",
-        "History",
-        "Power"
-      ],
-      "published": "2026-06-16T17:27:51.000Z"
     },
     {
       "id": "57ca91d44336bb53",
@@ -2526,22 +2558,6 @@
         "online behavior"
       ],
       "published": "2026-06-06T00:00:00.000Z"
-    },
-    {
-      "id": "0b8c1a56eb4af95e",
-      "title": "I tested every IP KVM in my Homelab",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "pacer": "E",
-      "keywords": [
-        "IP KVM",
-        "Homelab",
-        "PiKVM",
-        "Remote Desktop",
-        "SSH"
-      ],
-      "published": "2026-06-05T14:00:00.000Z"
     },
     {
       "id": "1841ef51eb149377",
@@ -3145,22 +3161,6 @@
         "interpersonal"
       ],
       "published": "2026-05-22T19:00:00.000Z"
-    },
-    {
-      "id": "a276e31fcf089704",
-      "title": "Planescape: Torment, Part 1: From the Tabletop…",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/",
-      "pacer": "C",
-      "keywords": [
-        "Planescape: Torment",
-        "Dungeons & Dragons",
-        "Infinity Engine",
-        "RPG",
-        "Gaming History"
-      ],
-      "published": "2026-05-22T16:27:41.000Z"
     },
     {
       "id": "9330e690b35abdf8",
