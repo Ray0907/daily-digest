@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-10T22:46:52.869Z",
+  "last_updated": "2026-07-11T22:34:54.473Z",
   "articles": [
+    {
+      "id": "a45460126bb73a49",
+      "title": "Goede geluiden over digitale autonomie",
+      "url": "https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-11T10:00:13.000Z",
+      "summary_en": "The Dutch government is shifting its stance on digital autonomy, moving from a decade of denial to actively publishing documents that prioritize independence. These recent official texts suggest a newfound commitment to digital sovereignty and concrete decision-making.",
+      "summary_zh": "荷蘭政府在數位自主權議題上出現明顯轉變，從過去十年的否認轉為積極倡導獨立自主。最新的官方文件顯示，政府正認真投入相關政策並展現出明確的決心。",
+      "keywords": [
+        "digital autonomy",
+        "government policy",
+        "Netherlands",
+        "digital sovereignty",
+        "policy shift"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in government policy regarding digital autonomy.",
+      "pacer_reason_zh": "文章討論了政府在數位自主權政策上的概念性轉變。"
+    },
+    {
+      "id": "1cbe165c6a454676",
+      "title": "Dot product: Component vs. Geometric definition",
+      "url": "https://eli.thegreenplace.net/2026/dot-product-component-vs-geometric-definition/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-07-11T01:42:00.000Z",
+      "summary_en": "This article explores the mathematical equivalence between the algebraic component definition and the geometric definition of the vector dot product. It provides formal proofs for this relationship using the law of cosines and vector projections.",
+      "summary_zh": "本文探討了向量內積的代數分量定義與幾何定義之間的數學等價性。作者透過餘弦定理和投影法，詳細推導並證明了這兩種定義為何會產生相同的結果。",
+      "keywords": [
+        "dot product",
+        "vectors",
+        "linear algebra",
+        "mathematical proof",
+        "Euclidean space"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, focusing on explaining and proving the equivalence of mathematical definitions.",
+      "pacer_reason_zh": "本文屬於概念性內容，重點在於解釋並證明不同數學定義之間的等價關係。"
+    },
+    {
+      "id": "c3547331e720b325",
+      "title": "AI 2040 and the Cult of Intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-07-11T07:00:00.000Z",
+      "summary_en": "The author critiques the 'hard takeoff' theory of AI, arguing that theoretical intelligence cannot bypass the physical constraints and logistical complexities of real-world engineering. They emphasize that physical reality, such as supply chains and hardware durability, remains a significant bottleneck that tokens alone cannot resolve.",
+      "summary_zh": "作者批判了AI「硬起飛」的理論，認為純粹的智能無法超越現實世界工程中的物理限制與物流複雜性。文章強調，現實物理層面（如供應鏈和硬體耐用度）依然是AI難以逾越的瓶頸，光靠數據與 tokens 無法解決這些問題。",
+      "keywords": [
+        "AI",
+        "hard takeoff",
+        "hardware",
+        "engineering",
+        "reality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and philosophical perspective on the limits of AI intelligence versus physical reality.",
+      "pacer_reason_zh": "這篇文章針對AI智能與物理現實之間的界限提供了概念性的批判與哲學視角。"
+    },
+    {
+      "id": "a0325e90ab2ea5b4",
+      "title": "Reading List 07/11/26",
+      "url": "https://www.construction-physics.com/p/reading-list-071126",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-11T12:01:33.000Z",
+      "summary_en": "This post provides a curated collection of diverse news topics, ranging from socioeconomic shifts and corporate financial performance to infrastructure challenges and technological developments. It serves as a brief overview of current events and systemic issues across various sectors.",
+      "summary_zh": "這篇文章整理了一系列多元的新聞主題，涵蓋社會經濟變遷、企業獲利表現、基礎設施挑戰及技術發展。內容旨在提供各領域重要時事的簡要概覽。",
+      "keywords": [
+        "current events",
+        "curated list",
+        "socioeconomics",
+        "infrastructure",
+        "global news"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list or collection of external links and topical references.",
+      "pacer_reason_zh": "本文屬於精選清單或外部連結與主題參考的集合。"
+    },
+    {
+      "id": "fd207cef4c13ffde",
+      "title": "This Week in Package Management: 11 July 2026",
+      "url": "https://nesbitt.io/2026/07/11/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-11T10:00:00.000Z",
+      "summary_en": "This roundup covers the latest updates in package management as of July 11, 2026. Key releases include major breaking changes in npm 12.0.0, new registry configuration features in pnpm, security and performance improvements in uv, and various updates for Go, Rust, and winget.",
+      "summary_zh": "本期週報彙整了 2026 年 7 月 11 日的套件管理工具更新。重點包括 npm 12.0.0 的重大變更、pnpm 的註冊表配置功能、uv 的安全性與效能優化，以及 Go、Rust 和 winget 的相關版本更新。",
+      "keywords": [
+        "package management",
+        "npm",
+        "pnpm",
+        "uv",
+        "software updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference digest, curating release notes and specific technical updates for multiple tools.",
+      "pacer_reason_zh": "本文作為定期參考摘要，彙整了多項工具的版本發布說明與技術更新資訊。"
+    },
+    {
+      "id": "0a4e3366b28bbfda",
+      "title": "Prefer STRICT tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-07-11T00:00:00.000Z",
+      "summary_en": "This article advocates for using SQLite's 'STRICT' table feature to enforce rigid data typing. By enabling this option, developers can prevent common errors such as inserting invalid data types into columns and defining tables with incorrect types.",
+      "summary_zh": "本文提倡在 SQLite 中使用「STRICT」表格功能，以強制執行嚴格的資料型態規範。啟用此功能可防止將錯誤資料型態寫入欄位，並避免在定義資料表時使用不正確的型態設定。",
+      "keywords": [
+        "SQLite",
+        "STRICT tables",
+        "database",
+        "data integrity",
+        "SQL"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains how to implement a specific feature ('STRICT') and provides a step-by-step example of its usage to improve database schema design.",
+      "pacer_reason_zh": "本文介紹了如何實作特定的功能（STRICT），並透過步驟範例說明如何運用該功能來改善資料庫結構設計。"
+    },
+    {
+      "id": "f2193e112b91e354",
+      "title": "Progress on Gilbreath’s conjecture",
+      "url": "https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-11T21:30:11.000Z",
+      "summary_en": "The article revisits Gilbreath’s conjecture, a mathematical problem involving prime number sequences. It highlights the simplicity and unusual nature of the conjecture, noting historical interest from mathematicians like Paul Erdős.",
+      "summary_zh": "本文重新探討了關於質數數列的吉爾布雷斯猜想（Gilbreath’s conjecture）。文中指出該猜想雖然表述簡單且引人入勝，但卻具有獨特性，並提及了數學家保羅·艾狄胥對其真實性的看法。",
+      "keywords": [
+        "Gilbreath's conjecture",
+        "prime numbers",
+        "mathematics",
+        "Paul Erdős",
+        "number theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining a mathematical conjecture and its conceptual background.",
+      "pacer_reason_zh": "內容側重於解釋一個數學猜想及其概念背景。"
+    },
+    {
+      "id": "89145212f5693258",
+      "title": "Pluralistic: Workplace \"flexibility\" isn't (11 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/11/your-risk/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-11T08:54:28.000Z",
+      "summary_en": "The article critiques the gig economy, arguing that corporate claims of 'flexibility' are actually a method for shifting risks onto workers. It highlights the irony that while these data-driven companies possess granular information on worker earnings and unpaid time, they deliberately keep this data private to obscure their labor practices.",
+      "summary_zh": "本文批評了零工經濟，認為企業所稱的「靈活性」實際上是將風險轉嫁給勞工。文章強調，諷刺的是，這些數據驅動型公司雖掌握著工資與無償工時的精確數據，卻刻意隱瞞這些資訊以掩蓋其勞動剝削本質。",
+      "keywords": [
+        "gig economy",
+        "labor rights",
+        "data privacy",
+        "workplace flexibility",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the gig economy model, explaining the 'why' behind the lack of transparency in labor data.",
+      "pacer_reason_zh": "本文對零工經濟模式提出了概念性的批判，解釋了勞動數據缺乏透明度背後的深層原因。"
+    },
+    {
+      "id": "d0177051d44283f1",
+      "title": "In defense of not understanding your codebase",
+      "url": "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-11T00:00:00.000Z",
+      "summary_en": "This article argues that it is acceptable and sometimes beneficial for developers to have an incomplete understanding of their entire codebase. It suggests that cognitive focus should be prioritized over the pressure to master every line of system code.",
+      "summary_zh": "本文主張開發者無需完全理解整個程式碼庫，這不僅是可以接受的，有時甚至更有益處。文章建議開發者應將認知資源集中在關鍵區域，而非強迫自己精通每一行系統程式碼。",
+      "keywords": [
+        "software development",
+        "codebase",
+        "cognitive load",
+        "engineering productivity",
+        "software architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual perspective on software development philosophy and cognitive management.",
+      "pacer_reason_zh": "本文探討軟體開發哲學與認知管理的概念性觀點。"
+    },
     {
       "id": "de462961452317c0",
       "title": "This Week on The Analog Antiquarian",
