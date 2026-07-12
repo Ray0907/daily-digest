@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "abbfea7aa0789a5d",
+      "title": "Fable gets another bump",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "OpenAI",
+        "GPT-5.6",
+        "Generative AI"
+      ],
+      "published": "2026-07-12T21:20:07.000Z"
+    },
+    {
+      "id": "39d60e099749bbfe",
+      "title": "Posterior variance",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/12/posterior-variance/",
+      "pacer": "C",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior variance",
+        "data analysis",
+        "statistical models",
+        "probability"
+      ],
+      "published": "2026-07-12T19:26:29.000Z"
+    },
+    {
+      "id": "056bc63a0434f90e",
+      "title": "Posterior mean",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/12/posterior-mean/",
+      "pacer": "C",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior mean",
+        "prior belief",
+        "data analysis",
+        "probability"
+      ],
+      "published": "2026-07-12T17:48:14.000Z"
+    },
+    {
+      "id": "eca83f316e73c35e",
+      "title": "Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "pacer": "E",
+      "keywords": [
+        "Interrail",
+        "travel",
+        "Europe",
+        "train journey",
+        "itinerary"
+      ],
+      "published": "2026-07-12T11:34:43.000Z"
+    },
+    {
+      "id": "bccddf2bab1ba522",
+      "title": "I love LLMs, I hate hype",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "LLMs",
+        "hype",
+        "tech culture",
+        "open source"
+      ],
+      "published": "2026-07-12T07:00:00.000Z"
+    },
+    {
+      "id": "ba5e0405d90487d0",
+      "title": "Making cooled clothing:",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/projects/cooled/",
+      "pacer": "E",
+      "keywords": [
+        "cooling",
+        "thermodynamics",
+        "engineering",
+        "phase-change materials",
+        "wearable"
+      ],
+      "published": "2026-07-12T00:00:00.000Z"
+    },
+    {
+      "id": "97e8fb8081fe304b",
+      "title": "sqlite-utils 4.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "sqlite-utils",
+        "Python",
+        "CLI",
+        "database",
+        "software release"
+      ],
+      "published": "2026-07-11T23:50:20.000Z"
+    },
+    {
       "id": "f2193e112b91e354",
       "title": "Progress on Gilbreath’s conjecture",
       "source": "John D. Cook",
@@ -111,6 +223,22 @@
         "Euclidean space"
       ],
       "published": "2026-07-11T01:42:00.000Z"
+    },
+    {
+      "id": "6e8cc465ff176d68",
+      "title": "A dock that finally wakes up reliably",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "pacer": "E",
+      "keywords": [
+        "hardware",
+        "docking station",
+        "connectivity",
+        "tech review",
+        "usability"
+      ],
+      "published": "2026-07-11T00:00:00.000Z"
     },
     {
       "id": "0a4e3366b28bbfda",
@@ -289,6 +417,22 @@
       "published": "2026-07-10T01:05:57.000Z"
     },
     {
+      "id": "bdfb1ef18e23afea",
+      "title": "Don't you mean extinct?",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "pacer": "C",
+      "keywords": [
+        "obsolescence",
+        "extinction",
+        "technology",
+        "hardware",
+        "software"
+      ],
+      "published": "2026-07-10T00:00:00.000Z"
+    },
+    {
       "id": "6786dc227c1f3563",
       "title": "The new GPT-5.6 family: Luna, Terra, Sol",
       "source": "Simon Willison's Weblog",
@@ -319,38 +463,6 @@
         "Pop culture"
       ],
       "published": "2026-07-09T17:20:00.000Z"
-    },
-    {
-      "id": "32d550e225ddffd6",
-      "title": "Introducing Muse Spark 1.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "Muse Spark 1.1",
-        "Meta",
-        "LLM",
-        "API",
-        "CLI"
-      ],
-      "published": "2026-07-09T16:24:09.000Z"
-    },
-    {
-      "id": "84f3ec33fcb0e26a",
-      "title": "llm-meta-ai 0.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "meta",
-        "muse-spark",
-        "cli",
-        "ai"
-      ],
-      "published": "2026-07-09T16:12:20.000Z"
     },
     {
       "id": "5ddd640336f4a57f",
@@ -929,22 +1041,6 @@
       "published": "2026-07-04T10:00:00.000Z"
     },
     {
-      "id": "e07f4b1e4606befb",
-      "title": "Does additional data always reduce posterior variance?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/",
-      "pacer": "C",
-      "keywords": [
-        "Bayesian statistics",
-        "posterior variance",
-        "uncertainty",
-        "confidence intervals",
-        "data analysis"
-      ],
-      "published": "2026-07-04T02:50:36.000Z"
-    },
-    {
       "id": "227d120c90d85e26",
       "title": "Better Models: Worse Tools",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -1073,22 +1169,6 @@
       "published": "2026-07-02T11:37:00.000Z"
     },
     {
-      "id": "35c3271ceda2005f",
-      "title": "This blog is written in en-GB",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-      "pacer": "C",
-      "keywords": [
-        "en-GB",
-        "blogging",
-        "inclusivity",
-        "culture",
-        "language"
-      ],
-      "published": "2026-07-02T11:34:59.000Z"
-    },
-    {
       "id": "bb2bfd9ad0dd14b7",
       "title": "Understanding is the new bottleneck",
       "source": "Geoffrey Litt",
@@ -1183,22 +1263,6 @@
         "Eli Bendersky"
       ],
       "published": "2026-07-01T01:52:00.000Z"
-    },
-    {
-      "id": "575449c5f4ecddc3",
-      "title": "DNA Sequence Alignment and Kings",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/",
-      "pacer": "C",
-      "keywords": [
-        "Delannoy numbers",
-        "DNA sequence alignment",
-        "combinatorics",
-        "chess",
-        "mathematics"
-      ],
-      "published": "2026-07-01T00:21:21.000Z"
     },
     {
       "id": "2c635c8dad9b7082",
@@ -1729,22 +1793,6 @@
       "published": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "2028e58af0d4172d",
-      "title": "Arp 293: More interacting galaxies",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/astro/arp293/",
-      "pacer": "P",
-      "keywords": [
-        "astrophotography",
-        "Arp 293",
-        "NGC 6285",
-        "galaxy",
-        "walking noise"
-      ],
-      "published": "2026-06-23T00:00:00.000Z"
-    },
-    {
       "id": "8ff67913d333c47d",
       "title": "Our hydro deserves better than a chatbot",
       "source": "Dr Paris Buttfield-Addison",
@@ -2047,22 +2095,6 @@
         "Software Release"
       ],
       "published": "2026-06-17T16:40:09.000Z"
-    },
-    {
-      "id": "03b677b8dd6834c9",
-      "title": "Summoning the Demon",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "technology",
-        "society",
-        "collapse",
-        "capitalism"
-      ],
-      "published": "2026-06-17T07:00:00.000Z"
     },
     {
       "id": "375b18b904952599",
@@ -4317,6 +4349,16 @@
     }
   ],
   "links": [
+    {
+      "source": "39d60e099749bbfe",
+      "target": "056bc63a0434f90e",
+      "shared_keywords": [
+        "Bayesian statistics",
+        "data analysis",
+        "probability"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "417bdaa0c3e139ab",
       "target": "7c4f2c9bb4d90cce",

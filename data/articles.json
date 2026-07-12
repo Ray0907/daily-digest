@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-11T22:34:54.473Z",
+  "last_updated": "2026-07-12T22:35:01.953Z",
   "articles": [
+    {
+      "id": "6e8cc465ff176d68",
+      "title": "A dock that finally wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-07-11T00:00:00.000Z",
+      "summary_en": "This post reviews a hardware docking station that solves common connectivity issues. It highlights the author's positive experience with a device that finally offers reliable wake-up functionality.",
+      "summary_zh": "這篇文章評測了一款終於能穩定喚醒的硬體擴充基座。作者分享了該裝置如何解決常見的連線問題，並帶來可靠的使用體驗。",
+      "keywords": [
+        "hardware",
+        "docking station",
+        "connectivity",
+        "tech review",
+        "usability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a personal case study/review of a specific hardware product.",
+      "pacer_reason_zh": "該文章針對特定硬體產品進行個人化的案例分析與評測。"
+    },
+    {
+      "id": "bdfb1ef18e23afea",
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-07-10T00:00:00.000Z",
+      "summary_en": "This article discusses the nuances of terminology, specifically distinguishing between the concepts of obsolescence and extinction in technology. It explores how hardware and software lifecycles are perceived by users compared to their actual functional states.",
+      "summary_zh": "本文探討了術語的細微差別，特別是區分了技術領域中「過時」與「滅絕」的概念。文章分析了用戶對軟硬體生命週期的認知，以及這些技術在實際功能狀態下的差異。",
+      "keywords": [
+        "obsolescence",
+        "extinction",
+        "technology",
+        "hardware",
+        "software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and conceptualizing the lifecycle status of technology.",
+      "pacer_reason_zh": "本文側重於定義並概念化技術的生命週期狀態。"
+    },
+    {
+      "id": "bccddf2bab1ba522",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-07-12T07:00:00.000Z",
+      "summary_en": "The author expresses genuine enthusiasm for AI technological progress while criticizing the industry's pervasive, fear-based hype. They argue that AI development is driven by general computing progress rather than the proprietary efforts of frontier labs, which they believe struggle to capture the value they create.",
+      "summary_zh": "作者表達了對人工智慧技術進步的真實熱情，同時批評了業界充斥的恐懼導向炒作。他們認為 AI 的發展源於計算能力的總體進步，而非前沿實驗室的專有努力，並指出這些實驗室難以從中攫取實際價值。",
+      "keywords": [
+        "AI",
+        "LLMs",
+        "hype",
+        "tech culture",
+        "open source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is an opinionated critique explaining the author's conceptual stance on the state of the AI industry and the nature of technological progress.",
+      "pacer_reason_zh": "這是一篇觀點評論，闡述了作者對於人工智慧產業現狀及技術發展本質的理念與見解。"
+    },
+    {
+      "id": "39d60e099749bbfe",
+      "title": "Posterior variance",
+      "url": "https://www.johndcook.com/blog/2026/07/12/posterior-variance/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-12T19:26:29.000Z",
+      "summary_en": "This article explores the counterintuitive statistical phenomenon where adding more data does not always decrease posterior variance. It references previous analysis of Bayesian models to illustrate how posterior means behave as weighted averages.",
+      "summary_zh": "本文探討了一個違反直覺的統計現象，即增加更多數據並不總能減少後驗變異數。作者引用了先前對貝氏模型的分析，說明後驗平均值如何作為先驗平均值與樣本平均值的加權平均。",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior variance",
+        "data analysis",
+        "statistical models",
+        "probability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the theoretical nuances and concepts behind Bayesian statistical properties.",
+      "pacer_reason_zh": "本文旨在解釋貝氏統計屬性背後的理論細節與概念。"
+    },
+    {
+      "id": "056bc63a0434f90e",
+      "title": "Posterior mean",
+      "url": "https://www.johndcook.com/blog/2026/07/12/posterior-mean/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-12T17:48:14.000Z",
+      "summary_en": "This article explores the concept of the posterior mean in Bayesian statistics, which acts as a compromise between prior beliefs and new observed data. It explains how to mathematically balance previous information with fresh evidence to update judgments.",
+      "summary_zh": "本文探討了貝葉斯統計中的後驗平均值，該概念在先驗信念與新觀測數據之間起到折衷作用。文章解釋了如何平衡既有資訊與新證據，以更新判斷結果。",
+      "keywords": [
+        "Bayesian statistics",
+        "posterior mean",
+        "prior belief",
+        "data analysis",
+        "probability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of the posterior mean and how it functions as a statistical compromise.",
+      "pacer_reason_zh": "文章解釋了後驗平均值的理論概念，並闡述其作為統計折衷方案的運作方式。"
+    },
+    {
+      "id": "eca83f316e73c35e",
+      "title": "Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-12T11:34:43.000Z",
+      "summary_en": "The author shares their experience of a 6,379km Interrail trip across 13 countries over seven weeks. By adjusting their pass strategy from a previous month-long intensive trip to a more relaxed two-month plan, they successfully managed a long-distance European journey including ferry travel.",
+      "summary_zh": "作者分享了他們在七週內橫跨 13 個國家、總長 6,379 公里的鐵路旅遊體驗。透過將通行證調整為兩個月內任選 15 天的使用方案，他們成功完成了這趟比以往更從容且包含渡輪行程的歐洲長途之旅。",
+      "keywords": [
+        "Interrail",
+        "travel",
+        "Europe",
+        "train journey",
+        "itinerary"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post serves as a personal case study and travel report detailing the logistics and outcome of a specific long-distance trip.",
+      "pacer_reason_zh": "這篇文章提供了個人旅遊案例研究與心得，詳細記錄了特定長途旅行的規劃邏輯與實際成果。"
+    },
+    {
+      "id": "ba5e0405d90487d0",
+      "title": "Making cooled clothing:",
+      "url": "https://maurycyz.com/projects/cooled/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-12T00:00:00.000Z",
+      "summary_en": "This post explores the engineering challenges of designing wearable cooling systems. It compares active refrigeration methods, like semiconductor cooling, with phase-change materials and concludes by evaluating specific chemical compounds for personal thermal regulation.",
+      "summary_zh": "這篇文章探討了設計穿戴式冷卻系統的工程挑戰。文中比較了主動式製冷技術與相變材料，並評估了幾種用於個人熱調節的化學物質及其可行性。",
+      "keywords": [
+        "cooling",
+        "thermodynamics",
+        "engineering",
+        "phase-change materials",
+        "wearable"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on evaluating the technical feasibility and physical properties of different cooling methods and materials.",
+      "pacer_reason_zh": "文章重點在於評估不同冷卻方法與材料的技術可行性及物理特性。"
+    },
+    {
+      "id": "abbfea7aa0789a5d",
+      "title": "Fable gets another bump",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-12T21:20:07.000Z",
+      "summary_en": "Anthropic has extended access to the Claude Fable model due to ongoing compute constraints, while OpenAI has removed usage limits for their GPT-5.6 model. Simon Willison argues that Anthropic should permanently integrate Fable into their plans to remain competitive against OpenAI's more accessible approach.",
+      "summary_zh": "Anthropic 因運算資源限制延長了 Claude Fable 模型的存取期限，而 OpenAI 則取消了 GPT-5.6 的使用限制。本文作者 Simon Willison 認為，為了與 OpenAI 的更普及策略競爭，Anthropic 應將 Fable 模型永久納入訂閱方案中。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "OpenAI",
+        "GPT-5.6",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes the competitive landscape of AI model access by providing specific evidence of policy changes and usage updates from Anthropic and OpenAI.",
+      "pacer_reason_zh": "本文透過引用 Anthropic 與 OpenAI 兩家公司在政策變更與使用限制上的具體證據，分析了人工智慧模型存取服務的競爭現況。"
+    },
+    {
+      "id": "97e8fb8081fe304b",
+      "title": "sqlite-utils 4.1",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-11T23:50:20.000Z",
+      "summary_en": "sqlite-utils 4.1 has been released, introducing a new --code option for the insert and upsert CLI commands. This feature allows users to provide blocks of Python code to generate rows directly, extending the tool's existing capabilities for data manipulation.",
+      "summary_zh": "sqlite-utils 4.1 正式發布，為 insert 和 upsert 指令新增了 --code 選項。此功能允許使用者透過 Python 程式碼片段直接產生資料列，進一步擴展了該工具的資料處理能力。",
+      "keywords": [
+        "sqlite-utils",
+        "Python",
+        "CLI",
+        "database",
+        "software release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a release update with specific command-line usage examples for implementing the new feature.",
+      "pacer_reason_zh": "該文章提供了軟體更新資訊，並展示了如何使用指令列操作來實作新功能。"
+    },
     {
       "id": "a45460126bb73a49",
       "title": "Goede geluiden over digitale autonomie",

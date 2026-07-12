@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 11 Jul 2026 22:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:35:02 GMT</lastBuildDate>
     
+    <item>
+      <title>A dock that finally wakes up reliably</title>
+      <link>https://fabiensanglard.net/tb4/index.html</link>
+      <guid>https://fabiensanglard.net/tb4/index.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
+      <description>This post reviews a hardware docking station that solves common connectivity issues. It highlights the author's positive experience with a device that finally offers reliable wake-up functionality.</description>
+    </item>
+
+    <item>
+      <title>Don't you mean extinct?</title>
+      <link>https://fabiensanglard.net/extinct/index.html</link>
+      <guid>https://fabiensanglard.net/extinct/index.html</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
+      <description>This article discusses the nuances of terminology, specifically distinguishing between the concepts of obsolescence and extinction in technology. It explores how hardware and software lifecycles are perceived by users compared to their actual functional states.</description>
+    </item>
+
+    <item>
+      <title>I love LLMs, I hate hype</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author expresses genuine enthusiasm for AI technological progress while criticizing the industry's pervasive, fear-based hype. They argue that AI development is driven by general computing progress rather than the proprietary efforts of frontier labs, which they believe struggle to capture the value they create.</description>
+    </item>
+
+    <item>
+      <title>Posterior variance</title>
+      <link>https://www.johndcook.com/blog/2026/07/12/posterior-variance/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/12/posterior-variance/</guid>
+      <pubDate>Sun, 12 Jul 2026 19:26:29 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the counterintuitive statistical phenomenon where adding more data does not always decrease posterior variance. It references previous analysis of Bayesian models to illustrate how posterior means behave as weighted averages.</description>
+    </item>
+
+    <item>
+      <title>Posterior mean</title>
+      <link>https://www.johndcook.com/blog/2026/07/12/posterior-mean/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/12/posterior-mean/</guid>
+      <pubDate>Sun, 12 Jul 2026 17:48:14 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the concept of the posterior mean in Bayesian statistics, which acts as a compromise between prior beliefs and new observed data. It explains how to mathematically balance previous information with fresh evidence to update judgments.</description>
+    </item>
+
+    <item>
+      <title>Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</title>
+      <link>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</link>
+      <guid>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</guid>
+      <pubDate>Sun, 12 Jul 2026 11:34:43 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares their experience of a 6,379km Interrail trip across 13 countries over seven weeks. By adjusting their pass strategy from a previous month-long intensive trip to a more relaxed two-month plan, they successfully managed a long-distance European journey including ferry travel.</description>
+    </item>
+
+    <item>
+      <title>Making cooled clothing:</title>
+      <link>https://maurycyz.com/projects/cooled/</link>
+      <guid>https://maurycyz.com/projects/cooled/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post explores the engineering challenges of designing wearable cooling systems. It compares active refrigeration methods, like semiconductor cooling, with phase-change materials and concludes by evaluating specific chemical compounds for personal thermal regulation.</description>
+    </item>
+
+    <item>
+      <title>Fable gets another bump</title>
+      <link>https://simonwillison.net/2026/Jul/12/bump/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/12/bump/#atom-everything</guid>
+      <pubDate>Sun, 12 Jul 2026 21:20:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has extended access to the Claude Fable model due to ongoing compute constraints, while OpenAI has removed usage limits for their GPT-5.6 model. Simon Willison argues that Anthropic should permanently integrate Fable into their plans to remain competitive against OpenAI's more accessible approach.</description>
+    </item>
+
+    <item>
+      <title>sqlite-utils 4.1</title>
+      <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sat, 11 Jul 2026 23:50:20 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>sqlite-utils 4.1 has been released, introducing a new --code option for the insert and upsert CLI commands. This feature allows users to provide blocks of Python code to generate rows directly, extending the tool's existing capabilities for data manipulation.</description>
+    </item>
+
     <item>
       <title>Goede geluiden over digitale autonomie</title>
       <link>https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/</link>
@@ -823,87 +904,6 @@
       <pubDate>Thu, 02 Jul 2026 07:54:42 GMT</pubDate>
       <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description>Cory Doctorow distinguishes between two modes of productivity: 'today's tasks' and 'accretive work.' He illustrates this using the concept of 'reverse centaurs' to explain why programmers experience AI-driven automation so differently depending on whether they control the tool or are controlled by it.</description>
-    </item>
-
-    <item>
-      <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
-      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
-      <guid>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:27:33 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>The FBI, in collaboration with private industry partners, has seized domains linked to the NetNut residential proxy service. This enforcement action follows reports connecting the platform to the Popa botnet, which compromised millions of devices without user consent.</description>
-    </item>
-
-    <item>
-      <title>llm-coding-agent 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 19:33:12 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released an alpha version of llm-coding-agent, a new tool built upon his LLM library that functions as a coding agent. The agent was developed using iterative prompts and test-driven development, and it is now available for users to install and test via PyPI.</description>
-    </item>
-
-    <item>
-      <title>Using DSPy to evaluate and improve Datasette Agent's SQL system prompts</title>
-      <link>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 18:25:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison uses the DSPy framework to systematically evaluate and optimize the system prompts for the Datasette Agent. By running automated research tasks, the process identified specific issues with schema listing and column guessing, leading to actionable improvements for SQL query generation.</description>
-    </item>
-
-    <item>
-      <title>Understand to participate</title>
-      <link>https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 17:07:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post discusses Geoffrey Litt's perspective on the necessity of maintaining a deep understanding of code when working with AI coding agents. It warns against accruing cognitive debt and emphasizes that human fluency is essential for active participation in the creative AI-assisted development process.</description>
-    </item>
-
-    <item>
-      <title>Text AI watermarks will always be trivial to remove</title>
-      <link>https://seangoedecke.com/text-ai-watermarks/</link>
-      <guid>https://seangoedecke.com/text-ai-watermarks/</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article argues that AI-generated text watermarks are fundamentally ineffective and easy to circumvent. It suggests that technical limitations make it impossible to guarantee the permanence of these markers against determined users.</description>
-    </item>
-
-    <item>
-      <title>Bulkdatasets AIVD en MIVD: de schaduw geheime dienst</title>
-      <link>https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</link>
-      <guid>https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</guid>
-      <pubDate>Wed, 01 Jul 2026 08:40:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>A new research report reveals that the Dutch intelligence agencies AIVD and MIVD handle massive bulk datasets, often containing information on millions of innocent citizens, in a careless and sometimes unlawful manner. These datasets are acquired through various sources, including foreign agencies, commercial providers, and special powers.</description>
-    </item>
-
-    <item>
-      <title>Summary of reading: April - June 2026</title>
-      <link>https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</link>
-      <guid>https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</guid>
-      <pubDate>Wed, 01 Jul 2026 01:52:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This post provides a reading digest of various books reviewed by the author between April and June 2026. The list includes a mix of historical accounts, travel memoirs, socio-political analysis, business histories, and scientific biographies.</description>
-    </item>
-
-    <item>
-      <title>explaining myself through stories</title>
-      <link>https://jyn.dev/explaining-myself-through-stories/</link>
-      <guid>https://jyn.dev/explaining-myself-through-stories/</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://jyn.dev/">the website of jyn</source>
-      <description>The author explores the limitations of language and the necessity of using narratives to express complex personal identity. By referencing literary characters, the post argues that stories provide a holistic understanding that literal descriptions or isolated facts cannot capture.</description>
-    </item>
-
-    <item>
-      <title>The Winning Essays for the Big Questions About AI </title>
-      <link>https://www.dwarkesh.com/p/blog-prize-winners</link>
-      <guid>https://www.dwarkesh.com/p/blog-prize-winners</guid>
-      <pubDate>Wed, 01 Jul 2026 22:13:17 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>This article highlights the winning essays from the 'Big Questions About AI' competition. The entries cover diverse topics including strategies for pandemic prevention, the economic implications of AI automation, and potential lessons from the Hong Kong MTR business model.</description>
     </item>
   </channel>
 </rss>
