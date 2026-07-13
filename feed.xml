@@ -4,8 +4,122 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 12 Jul 2026 22:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:42:19 GMT</lastBuildDate>
     
+    <item>
+      <title>Winners and losers in the coming AI margin collapse (part 2)</title>
+      <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article analyzes the shifting value distribution in the AI industry as inference costs plummet. It argues that hardware providers and consumers gain the most, while frontier labs must pivot toward complex agents to maintain a competitive advantage.</description>
+    </item>
+
+    <item>
+      <title>What’s an Icon in 2026?</title>
+      <link>https://blog.jim-nielsen.com/2026/icons-as-software/</link>
+      <guid>https://blog.jim-nielsen.com/2026/icons-as-software/</guid>
+      <pubDate>Sun, 12 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This article explores the evolution of Apple app icons, which are shifting from static images to dynamic, multi-layered digital objects. It highlights how the new Icon Composer tool allows icons to be assembled on-the-fly by the operating system using layers and effects.</description>
+    </item>
+
+    <item>
+      <title>Mandatory Update: A Short Story</title>
+      <link>https://micahflee.com/mandatory-update-a-short-story/</link>
+      <guid>https://micahflee.com/mandatory-update-a-short-story/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:33:31 GMT</pubDate>
+      <source url="https://micahflee.com/">micahflee</source>
+      <description>The author shares their recent venture into creative writing by joining a local fiction group. They have submitted a short story to the DEF CON 34 Creative Writing Short Story Contest.</description>
+    </item>
+
+    <item>
+      <title>Why don’t we just make the entire stack out of guard pages?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528</guid>
+      <pubDate>Mon, 13 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the feasibility and architectural implications of implementing a software stack entirely composed of guard pages. It explores the technical constraints and potential outcomes of such a memory management strategy.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/13/go-meta-meta/</link>
+      <guid>https://pluralistic.net/2026/07/13/go-meta-meta/</guid>
+      <pubDate>Mon, 13 Jul 2026 08:15:24 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow examines the paradoxical business models of AI companies, questioning why they prioritize selling infrastructure tools to customers rather than leveraging their technology to compete directly in those same markets. The post uses the metaphor of selling 'picks and shovels' to explore the dynamics of value, skepticism toward get-rich-quick schemes, and the underlying incentives of tech giants.</description>
+    </item>
+
+    <item>
+      <title>
+Control the ideas, not the code
+</title>
+      <link>
+http://antirez.com/news/169
+</link>
+      <guid>
+http://antirez.com/news/169
+</guid>
+      <pubDate>Mon, 13 Jul 2026 11:39:52 GMT</pubDate>
+      <source url="http://antirez.com/"></source>
+      <description>The author argues that the essence of programming is shifting from manual coding to the conceptual control of ideas. He encourages developers to embrace AI-assisted workflows, noting that focusing too heavily on writing code often limits one's professional impact in an evolving landscape.</description>
+    </item>
+
+    <item>
+      <title>Lessons Learned from CISA’s Recent GitHub Leak</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>CISA recently addressed a significant security lapse where a contractor exposed internal credentials, including AWS Govcloud keys, in a public GitHub repository for six months. The incident highlights critical gaps in organizational response and vulnerability management that provide essential security lessons for all teams.</description>
+    </item>
+
+    <item>
+      <title>DOOMQL</title>
+      <link>https://simonwillison.net/2026/Jul/13/doomql/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/13/doomql/#atom-everything</guid>
+      <pubDate>Mon, 13 Jul 2026 22:34:41 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>DOOMQL is an experimental project that uses SQLite as a game engine to render a Doom-like game entirely through SQL queries. By leveraging recursive CTEs, the engine handles movement, combat, and rendering within the database, which can be further explored using Datasette.</description>
+    </item>
+
+    <item>
+      <title>datasette code-frequency chart on GitHub</title>
+      <link>https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</guid>
+      <pubDate>Mon, 13 Jul 2026 21:45:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison examines his Datasette project's GitHub code frequency chart to analyze the impact of modern AI coding agents on his development output. The data reveals a significant spike in code additions correlating with the adoption of advanced models like Opus 4.8 and GPT-5.6.</description>
+    </item>
+
+    <item>
+      <title>Directly Responsible Individuals (DRI)</title>
+      <link>https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</guid>
+      <pubDate>Sun, 12 Jul 2026 23:57:14 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article defines the concept of a Directly Responsible Individual (DRI), a term originating from Apple to identify someone accountable for a project's success. It argues that while AI agents are useful, they cannot serve as DRIs because machines lack the capacity for true accountability.</description>
+    </item>
+
+    <item>
+      <title>shot-scraper 1.11</title>
+      <link>https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything</guid>
+      <pubDate>Sun, 12 Jul 2026 23:46:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The shot-scraper 1.11 update introduces minor improvements to command consistency and server handling. Key changes include a new 30-second wait period for server startup and the addition of a --js-file option for loading JavaScript scripts.</description>
+    </item>
+
+    <item>
+      <title>sqlite-utils 4.1.1</title>
+      <link>https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sun, 12 Jul 2026 20:55:30 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The sqlite-utils 4.1.1 release primarily addresses a transaction safety issue involving foreign key constraints during table transformations. It also introduces improved documentation cross-referencing between the CLI and Python API.</description>
+    </item>
+
     <item>
       <title>A dock that finally wakes up reliably</title>
       <link>https://fabiensanglard.net/tb4/index.html</link>
@@ -796,114 +910,6 @@
       <pubDate>Fri, 03 Jul 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
       <description>This post explains the investigative process used to identify CcNamespace.dll as the primary cause behind the premature unloading of a group of DLLs. It highlights the importance of analyzing contextual clues to diagnose complex system behavior issues.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/03/rod-logic/</link>
-      <guid>https://pluralistic.net/2026/07/03/rod-logic/</guid>
-      <pubDate>Fri, 03 Jul 2026 09:00:15 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow reflects on the educational value of the 1968 CARDiac, a papercraft computer designed to teach the fundamentals of computing. He contrasts this tactile experience with his early exposure to terminal-based programming to illustrate how physical abstraction helps bridge the gap between theory and execution.</description>
-    </item>
-
-    <item>
-      <title>Open Source AI Gap Map</title>
-      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 22:04:31 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights the launch of the Open Source AI Gap Map, a non-profit initiative indexing hundreds of AI tools, models, and datasets. The project provides its underlying data in an open GitHub repository, allowing for detailed exploration and analysis.</description>
-    </item>
-
-    <item>
-      <title>Quoting Josh W. Comeau</title>
-      <link>https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 21:25:52 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Developer course creator Josh W. Comeau reports a significant decline in sales, attributing the downturn to the rise of AI. He argues that developers are hesitant to invest in new skills due to job market uncertainty and the ability of LLMs to provide personalized tutoring.</description>
-    </item>
-
-    <item>
-      <title>Fable's judgement</title>
-      <link>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 18:51:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a strategy for optimizing Claude Code by empowering the Fable model to use its own judgment for task delegation. By instructing the AI to choose lower-power models for routine coding tasks, users can improve efficiency and reduce token costs.</description>
-    </item>
-
-    <item>
-      <title>June 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 14:50:50 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released his June 2026 sponsors-only newsletter, covering topics such as recent AI model developments, export restrictions, and updates to his open-source tools. The post invites new sponsors to access the current edition and provides a link to the previous month's newsletter as a preview.</description>
-    </item>
-
-    <item>
-      <title>Digitale Autonomie 2.0: en nu echt</title>
-      <link>https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</link>
-      <guid>https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
-      <pubDate>Thu, 02 Jul 2026 11:37:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>Bert Hubert reflects on his keynote speech at the Surf Privacy and Security Conference, focusing on the practical steps required for digital autonomy. He emphasizes moving beyond theoretical discussions to actionable implementation strategies for a more autonomous digital future.</description>
-    </item>
-
-    <item>
-      <title>Understanding is the new bottleneck</title>
-      <link>https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</link>
-      <guid>https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</guid>
-      <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://geoffreylitt.com/">Geoffrey Litt</source>
-      <description>The author argues that human understanding of AI-generated code remains critical, shifting from a role of simple verification to active participation. By utilizing techniques like code explainer docs, quizzes, and micro-worlds, developers can maintain the context necessary to guide creative iteration alongside AI agents.</description>
-    </item>
-
-    <item>
-      <title>This Page Left Intentionally Blank</title>
-      <link>https://blog.jim-nielsen.com/2026/intentionally-blank/</link>
-      <guid>https://blog.jim-nielsen.com/2026/intentionally-blank/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author discusses the aesthetic and philosophical value of the 'This Page Intentionally Left Blank' project, reflecting on the concept of intentional emptiness in the age of generative AI. Inspired by historical print practices, the author creates their own blank page as a deliberate act of simplicity and quietness on the web.</description>
-    </item>
-
-    <item>
-      <title>Bring Back Crappy Forums</title>
-      <link>https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</link>
-      <guid>https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</guid>
-      <pubDate>Wed, 01 Jul 2026 22:26:07 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the decline of traditional web forums and reflects on why these niche, community-driven platforms often fostered deeper connections than modern social media. It examines the history of forums like Usenet and questions whether the transition to current social platforms has come at the cost of meaningful online interaction.</description>
-    </item>
-
-    <item>
-      <title>The case of the thread executing from an unloaded third-party DLL</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</guid>
-      <pubDate>Thu, 02 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a technical debugging scenario involving a thread that continues to execute code from a DLL after it has been unloaded. It highlights a common pitfall in Windows development where memory management and thread synchronization overlap.</description>
-    </item>
-
-    <item>
-      <title>This blog is written in en-GB</title>
-      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
-      <guid>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
-      <pubDate>Thu, 02 Jul 2026 11:34:59 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author defends their decision to write in en-GB, emphasizing that their blog is a personal space reflecting their cultural background. They argue that specific cultural references are intentional and reject the pressure to homogenize content for a global audience.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The difference between &quot;today's task&quot; and &quot;accretive work&quot; (02 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/02/canonization/</link>
-      <guid>https://pluralistic.net/2026/07/02/canonization/</guid>
-      <pubDate>Thu, 02 Jul 2026 07:54:42 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow distinguishes between two modes of productivity: 'today's tasks' and 'accretive work.' He illustrates this using the concept of 'reverse centaurs' to explain why programmers experience AI-driven automation so differently depending on whether they control the tool or are controlled by it.</description>
     </item>
   </channel>
 </rss>

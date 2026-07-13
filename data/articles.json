@@ -1,6 +1,245 @@
 {
-  "last_updated": "2026-07-12T22:35:01.953Z",
+  "last_updated": "2026-07-13T22:42:19.500Z",
   "articles": [
+    {
+      "id": "c627459e3c2e1bb6",
+      "title": "Winners and losers in the coming AI margin collapse (part 2)",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-07-12T00:00:00.000Z",
+      "summary_en": "This article analyzes the shifting value distribution in the AI industry as inference costs plummet. It argues that hardware providers and consumers gain the most, while frontier labs must pivot toward complex agents to maintain a competitive advantage.",
+      "summary_zh": "本文分析了隨著人工智慧推論成本暴跌，產業價值鏈的轉移趨勢。作者指出硬體供應鏈與消費者將成為最大贏家，而尖端實驗室則必須轉向發展複雜的 AI 代理程式以維持市場競爭力。",
+      "keywords": [
+        "AI inference",
+        "margin collapse",
+        "hardware",
+        "frontier labs",
+        "value capture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of market dynamics and theoretical economic shifts within the AI industry.",
+      "pacer_reason_zh": "本文針對人工智慧產業的市場動態與理論上的經濟結構轉變進行了概念性分析。"
+    },
+    {
+      "id": "d3c12d141e69bc75",
+      "title": "What’s an Icon in 2026?",
+      "url": "https://blog.jim-nielsen.com/2026/icons-as-software/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-12T19:00:00.000Z",
+      "summary_en": "This article explores the evolution of Apple app icons, which are shifting from static images to dynamic, multi-layered digital objects. It highlights how the new Icon Composer tool allows icons to be assembled on-the-fly by the operating system using layers and effects.",
+      "summary_zh": "本文探討了 Apple 應用程式圖示的演變，說明圖示正從靜態影像轉向動態、多圖層的數位物件。文章強調新的 Icon Composer 工具如何讓作業系統能即時組合圖層與特效，從而呈現更豐富的視覺體驗。",
+      "keywords": [
+        "Apple",
+        "Icon design",
+        "UI/UX",
+        "Icon Composer",
+        "Software engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the changing conceptual nature of app icons as software-defined assets rather than static images.",
+      "pacer_reason_zh": "本文解釋了應用程式圖示的概念性轉變，將其定義為由軟體生成的動態資源，而非傳統的靜態影像。"
+    },
+    {
+      "id": "1ac8e18a667536fc",
+      "title": "Mandatory Update: A Short Story",
+      "url": "https://micahflee.com/mandatory-update-a-short-story/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-07-13T15:33:31.000Z",
+      "summary_en": "The author shares their recent venture into creative writing by joining a local fiction group. They have submitted a short story to the DEF CON 34 Creative Writing Short Story Contest.",
+      "summary_zh": "作者分享了近期參與在地小說創作團體，並投入創意寫作的經驗。文中提到他們已向 DEF CON 34 短篇小說比賽投稿了自己的作品。",
+      "keywords": [
+        "creative writing",
+        "DEF CON 34",
+        "fiction",
+        "writing contest",
+        "author"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a personal update and a narrative account of the author's creative activities.",
+      "pacer_reason_zh": "這篇文章屬於作者個人的生活更新與創作動態紀錄。"
+    },
+    {
+      "id": "3897910b88db18e7",
+      "title": "Why don’t we just make the entire stack out of guard pages?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-13T14:00:00.000Z",
+      "summary_en": "This post discusses the feasibility and architectural implications of implementing a software stack entirely composed of guard pages. It explores the technical constraints and potential outcomes of such a memory management strategy.",
+      "summary_zh": "本文探討了將整個軟體堆疊完全由保護頁（guard pages）組成的可行性及其架構影響。文章深入分析了此種記憶體管理策略的技術限制與潛在後果。",
+      "keywords": [
+        "guard pages",
+        "memory management",
+        "software architecture",
+        "stack",
+        "operating systems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual exploration and technical analysis of a specific architectural idea.",
+      "pacer_reason_zh": "本文是對特定架構構想的概念性探討與技術分析。"
+    },
+    {
+      "id": "c1cfaeb271f5c6c2",
+      "title": "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/13/go-meta-meta/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-13T08:15:24.000Z",
+      "summary_en": "Cory Doctorow examines the paradoxical business models of AI companies, questioning why they prioritize selling infrastructure tools to customers rather than leveraging their technology to compete directly in those same markets. The post uses the metaphor of selling 'picks and shovels' to explore the dynamics of value, skepticism toward get-rich-quick schemes, and the underlying incentives of tech giants.",
+      "summary_zh": "柯里·多克托羅（Cory Doctorow）探討了 AI 公司的商業模式矛盾，質疑為何它們選擇將基礎設施工具賣給客戶，而非直接利用其技術在市場中進行競爭。文章藉由「販賣鏟子」的比喻，深入分析了價值觀與技術巨頭背後的商業誘因，並對暴富捷徑提出了批判性思考。",
+      "keywords": [
+        "AI",
+        "business models",
+        "Cory Doctorow",
+        "tech industry",
+        "economics"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical metaphor of selling 'picks and shovels' during a gold rush to analyze the strategic choices and incentives of modern AI corporations.",
+      "pacer_reason_zh": "文章運用淘金熱時期「販賣鏟子」的歷史隱喻，來分析現代人工智慧企業的戰略選擇與商業誘因。"
+    },
+    {
+      "id": "f8dfc93777c342e9",
+      "title": "\nControl the ideas, not the code\n",
+      "url": "\nhttp://antirez.com/news/169\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-07-13T11:39:52.000Z",
+      "summary_en": "The author argues that the essence of programming is shifting from manual coding to the conceptual control of ideas. He encourages developers to embrace AI-assisted workflows, noting that focusing too heavily on writing code often limits one's professional impact in an evolving landscape.",
+      "summary_zh": "作者主張程式設計的核心正在從手寫程式碼轉向對創意概念的掌控。他鼓勵開發者擁抱 AI 輔助工作流程，並指出在產業變遷的環境下，過度拘泥於程式碼細節反而會限制個人的專業影響力。",
+      "keywords": [
+        "AI programming",
+        "software development",
+        "innovation",
+        "coding",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a high-level conceptual shift regarding the future of software engineering and the role of programmers.",
+      "pacer_reason_zh": "內容側重於軟體工程未來趨勢與程式設計師角色的高階概念性變革說明。"
+    },
+    {
+      "id": "5c213df7e73fbd33",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-13T15:03:28.000Z",
+      "summary_en": "CISA recently addressed a significant security lapse where a contractor exposed internal credentials, including AWS Govcloud keys, in a public GitHub repository for six months. The incident highlights critical gaps in organizational response and vulnerability management that provide essential security lessons for all teams.",
+      "summary_zh": "美國網路安全與基礎設施安全局 (CISA) 最近處理了一起嚴重的安全漏洞，該漏洞源於承包商將包含 AWS Govcloud 金鑰在內的內部憑證公開在 GitHub 上長達六個月。此事件凸顯了該機構在應變機制上的缺失，為所有安全團隊提供了重要的風險防範借鏡。",
+      "keywords": [
+        "CISA",
+        "GitHub",
+        "data leak",
+        "cybersecurity",
+        "credential exposure"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study analyzing a real-world security breach and its postmortem findings.",
+      "pacer_reason_zh": "本文透過實際的安全洩露事件進行案例分析，並探討其事後檢討結果。"
+    },
+    {
+      "id": "083d0cae653d4b7c",
+      "title": "DOOMQL",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-13T22:34:41.000Z",
+      "summary_en": "DOOMQL is an experimental project that uses SQLite as a game engine to render a Doom-like game entirely through SQL queries. By leveraging recursive CTEs, the engine handles movement, combat, and rendering within the database, which can be further explored using Datasette.",
+      "summary_zh": "DOOMQL 是一個實驗性專案，它將 SQLite 作為遊戲引擎，完全透過 SQL 查詢來渲染出一款類似 Doom 的遊戲。該引擎利用遞迴公用資料表運算式（CTE）處理遊戲的移動、戰鬥與畫面渲染，並能透過 Datasette 進一步探索資料庫內容。",
+      "keywords": [
+        "DOOMQL",
+        "SQLite",
+        "SQL",
+        "Game Engine",
+        "Recursive CTE"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a specific project and provides actionable commands to clone, run, and explore the software, functioning as a practical guide.",
+      "pacer_reason_zh": "文章介紹了一個特定的專案，並提供了複製、執行與探索該軟體的實際操作指令，具有實作指引的性質。"
+    },
+    {
+      "id": "d20bc9f9cdd109f3",
+      "title": "datasette code-frequency chart on GitHub",
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-13T21:45:27.000Z",
+      "summary_en": "Simon Willison examines his Datasette project's GitHub code frequency chart to analyze the impact of modern AI coding agents on his development output. The data reveals a significant spike in code additions correlating with the adoption of advanced models like Opus 4.8 and GPT-5.6.",
+      "summary_zh": "Simon Willison 透過觀察 Datasette 專案的 GitHub 程式碼頻率圖表，分析 AI 程式設計代理對其開發產出的影響。數據顯示，程式碼新增量的顯著激增與採用 Opus 4.8 和 GPT-5.6 等先進模型的時間點高度吻合。",
+      "keywords": [
+        "GitHub",
+        "AI-assisted programming",
+        "Datasette",
+        "coding agents",
+        "LLMs"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post uses specific project data and charts as evidence to demonstrate the impact of AI coding tools on developer productivity.",
+      "pacer_reason_zh": "本文使用特定專案的數據與圖表作為證據，展示 AI 程式開發工具對開發者生產力的影響。"
+    },
+    {
+      "id": "2546e8c5277b1da9",
+      "title": "Directly Responsible Individuals (DRI)",
+      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-12T23:57:14.000Z",
+      "summary_en": "The article defines the concept of a Directly Responsible Individual (DRI), a term originating from Apple to identify someone accountable for a project's success. It argues that while AI agents are useful, they cannot serve as DRIs because machines lack the capacity for true accountability.",
+      "summary_zh": "本文定義了「直接負責人」(DRI) 的概念，這是源自蘋果公司、用於指派專案最終責任人的術語。作者認為，儘管 AI 代理非常實用，但它們不應擔任 DRI，因為機器無法承擔真正的人類責任。",
+      "keywords": [
+        "DRI",
+        "management",
+        "AI",
+        "accountability",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual exploration of organizational management roles and the theoretical limits of AI accountability.",
+      "pacer_reason_zh": "本文針對組織管理職責以及 AI 當責能力之理論極限進行了概念性的探討。"
+    },
+    {
+      "id": "b626f9f50c91bc84",
+      "title": "shot-scraper 1.11",
+      "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-12T23:46:52.000Z",
+      "summary_en": "The shot-scraper 1.11 update introduces minor improvements to command consistency and server handling. Key changes include a new 30-second wait period for server startup and the addition of a --js-file option for loading JavaScript scripts.",
+      "summary_zh": "shot-scraper 1.11 版本發布，針對指令一致性與伺服器處理進行了小幅改進。主要更新包括將伺服器啟動等待時間延長至 30 秒，並新增了透過 --js-file 選項載入 JavaScript 檔案的功能。",
+      "keywords": [
+        "shot-scraper",
+        "web-scraping",
+        "automation",
+        "software-release",
+        "cli"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing specific updates, new features, and technical bug fixes for a tool.",
+      "pacer_reason_zh": "這是軟體版本更新說明，詳細列出了工具的更新內容、新功能與技術修復。"
+    },
+    {
+      "id": "61cb7400ca6e7254",
+      "title": "sqlite-utils 4.1.1",
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-12T20:55:30.000Z",
+      "summary_en": "The sqlite-utils 4.1.1 release primarily addresses a transaction safety issue involving foreign key constraints during table transformations. It also introduces improved documentation cross-referencing between the CLI and Python API.",
+      "summary_zh": "sqlite-utils 4.1.1 版本主要修復了在資料表轉換過程中涉及外鍵限制的交易安全性問題。此外，該版本還改善了 CLI 與 Python API 文件之間的交叉引用功能。",
+      "keywords": [
+        "sqlite-utils",
+        "python",
+        "database",
+        "software-release",
+        "sqlite"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a technical release note detailing software updates, bug fixes, and documentation improvements.",
+      "pacer_reason_zh": "這是詳細說明軟體更新、錯誤修復與文件改進的技術發布說明。"
+    },
     {
       "id": "6e8cc465ff176d68",
       "title": "A dock that finally wakes up reliably",
