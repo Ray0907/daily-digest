@@ -1,36 +1,276 @@
 {
   "nodes": [
     {
-      "id": "083d0cae653d4b7c",
-      "title": "DOOMQL",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
-      "pacer": "P",
+      "id": "4632681f1254dfb2",
+      "title": "They Prefer the App ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/they-prefer-the-app",
+      "pacer": "C",
       "keywords": [
-        "DOOMQL",
-        "SQLite",
-        "SQL",
-        "Game Engine",
-        "Recursive CTE"
+        "apps",
+        "websites",
+        "data privacy",
+        "user experience",
+        "tech critique"
       ],
-      "published": "2026-07-13T22:34:41.000Z"
+      "published": "2026-07-14T22:35:36.000Z"
     },
     {
-      "id": "d20bc9f9cdd109f3",
-      "title": "datasette code-frequency chart on GitHub",
+      "id": "60255d1736e26c26",
+      "title": "simonw/pedalican",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "Codex Desktop",
+        "AI agents",
+        "generative AI",
+        "animation",
+        "sprite sheets"
+      ],
+      "published": "2026-07-14T22:29:45.000Z"
+    },
+    {
+      "id": "62fc607a04bf61ec",
+      "title": "lobste.rs is now running on SQLite",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
       "pacer": "E",
       "keywords": [
-        "GitHub",
-        "AI-assisted programming",
-        "Datasette",
-        "coding agents",
-        "LLMs"
+        "SQLite",
+        "Lobsters",
+        "Database Migration",
+        "Web Architecture",
+        "Performance"
       ],
-      "published": "2026-07-13T21:45:27.000Z"
+      "published": "2026-07-14T19:44:11.000Z"
+    },
+    {
+      "id": "b49a657379e32ffb",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "pacer": "E",
+      "keywords": [
+        "Microsoft",
+        "Security",
+        "Patch Tuesday",
+        "Vulnerabilities",
+        "Artificial Intelligence"
+      ],
+      "published": "2026-07-14T19:22:42.000Z"
+    },
+    {
+      "id": "3a7c85312127dd26",
+      "title": "Quoting Armin Ronacher",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "software-engineering",
+        "coding-agents",
+        "collaboration",
+        "ai",
+        "system-architecture"
+      ],
+      "published": "2026-07-14T18:04:23.000Z"
+    },
+    {
+      "id": "3b7b0f5c614887b4",
+      "title": "datasette 1.0a37",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "release",
+        "software development",
+        "api",
+        "plugin"
+      ],
+      "published": "2026-07-14T16:31:41.000Z"
+    },
+    {
+      "id": "713d5c4af8a89517",
+      "title": "I'm still alive",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "url": "https://buttondown.com/hillelwayne/archive/im-still-alive/",
+      "pacer": "C",
+      "keywords": [
+        "update",
+        "status",
+        "blogging",
+        "announcement",
+        "personal"
+      ],
+      "published": "2026-07-14T16:15:07.000Z"
+    },
+    {
+      "id": "a75b896663be090b",
+      "title": "ICD-10 chapters and code letters",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/",
+      "pacer": "R",
+      "keywords": [
+        "ICD-10",
+        "medical coding",
+        "ICD-10-CM",
+        "healthcare data",
+        "classification"
+      ],
+      "published": "2026-07-14T14:24:12.000Z"
+    },
+    {
+      "id": "3f9d975f7689fa8a",
+      "title": "Microspeak: Double-click and drill down",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532",
+      "pacer": "C",
+      "keywords": [
+        "Microspeak",
+        "business jargon",
+        "double-click",
+        "drill down",
+        "terminology"
+      ],
+      "published": "2026-07-14T14:00:00.000Z"
+    },
+    {
+      "id": "947b18219234a8d2",
+      "title": "I'm a USB-C Maximalist",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "pacer": "A",
+      "keywords": [
+        "USB-C",
+        "Power Delivery",
+        "travel",
+        "charging",
+        "minimalism"
+      ],
+      "published": "2026-07-14T11:34:26.000Z"
+    },
+    {
+      "id": "9ef39be16bf9d3eb",
+      "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/07/14/designated-survivor/",
+      "pacer": "C",
+      "keywords": [
+        "gerontocracy",
+        "designated survivor",
+        "US politics",
+        "institutionalism",
+        "Cory Doctorow"
+      ],
+      "published": "2026-07-14T11:10:45.000Z"
+    },
+    {
+      "id": "86da57583a025800",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "uvx",
+        "GitHub Actions",
+        "Python",
+        "caching",
+        "devops"
+      ],
+      "published": "2026-07-14T00:56:20.000Z"
+    },
+    {
+      "id": "9fd7063b60878f31",
+      "title": "Presigned URLs are technically a security vuln",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://www.tigrisdata.com/blog/presigned-urls-security-vuln/",
+      "pacer": "C",
+      "keywords": [
+        "presigned URLs",
+        "security",
+        "vulnerability",
+        "web architecture",
+        "cloud storage"
+      ],
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "ae47cbdca7d07634",
+      "title": "You should probably check on your smart appliances",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "pacer": "C",
+      "keywords": [
+        "smart appliances",
+        "IoT security",
+        "malware",
+        "cybersecurity",
+        "smart home"
+      ],
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "8c95d8744c57d47e",
+      "title": "Pseudpocalypse",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "url": "https://dynomight.net/pseudpocalypse/",
+      "pacer": "C",
+      "keywords": [
+        "pseudonymity",
+        "AI",
+        "privacy",
+        "author identification",
+        "surveillance"
+      ],
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "f2531141b9fbd596",
+      "title": "What does \"playing politics\" mean for software engineers?",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/playing-politics/",
+      "pacer": "C",
+      "keywords": [
+        "software engineering",
+        "office politics",
+        "soft skills",
+        "career growth",
+        "organizational influence"
+      ],
+      "published": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "9bf54473d8a46f2f",
+      "title": "Intuition for distribution differences",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/distribution-differences",
+      "pacer": "A",
+      "keywords": [
+        "distribution",
+        "statistics",
+        "data analysis",
+        "intuition",
+        "population"
+      ],
+      "published": "2026-07-13T22:00:00.000Z"
     },
     {
       "id": "1ac8e18a667536fc",
@@ -96,6 +336,22 @@
       "published": "2026-07-13T11:39:52.000Z"
     },
     {
+      "id": "cd72a1127b487ccf",
+      "title": "[RSS Club] Half a million steps is about 10 marathons",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/",
+      "pacer": "E",
+      "keywords": [
+        "RSS",
+        "Quantified Self",
+        "Smartwatch",
+        "Interrail",
+        "Data tracking"
+      ],
+      "published": "2026-07-13T11:34:09.000Z"
+    },
+    {
       "id": "c1cfaeb271f5c6c2",
       "title": "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -112,52 +368,36 @@
       "published": "2026-07-13T08:15:24.000Z"
     },
     {
-      "id": "2546e8c5277b1da9",
-      "title": "Directly Responsible Individuals (DRI)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "DRI",
-        "management",
-        "AI",
-        "accountability",
-        "LLM"
-      ],
-      "published": "2026-07-12T23:57:14.000Z"
-    },
-    {
-      "id": "b626f9f50c91bc84",
-      "title": "shot-scraper 1.11",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "id": "0d15af861f868e97",
+      "title": "Jurassic Park computers in excruciating detail",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "pacer": "R",
       "keywords": [
-        "shot-scraper",
-        "web-scraping",
-        "automation",
-        "software-release",
-        "cli"
+        "Jurassic Park",
+        "retro computing",
+        "SGI",
+        "film technology",
+        "user interface"
       ],
-      "published": "2026-07-12T23:46:52.000Z"
+      "published": "2026-07-13T00:00:00.000Z"
     },
     {
-      "id": "abbfea7aa0789a5d",
-      "title": "Fable gets another bump",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "pacer": "E",
+      "id": "1fe3ab610cc5e155",
+      "title": "The Tower Keeps Rising",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "pacer": "A",
       "keywords": [
-        "Anthropic",
-        "Claude",
-        "OpenAI",
-        "GPT-5.6",
-        "Generative AI"
+        "software engineering",
+        "coordination",
+        "Tower of Babel",
+        "AI",
+        "team communication"
       ],
-      "published": "2026-07-12T21:20:07.000Z"
+      "published": "2026-07-13T00:00:00.000Z"
     },
     {
       "id": "39d60e099749bbfe",
@@ -816,38 +1056,6 @@
       "published": "2026-07-08T00:00:00.000Z"
     },
     {
-      "id": "aa0e5ce1e0fcfd40",
-      "title": "How did Windows 95 decide that a setup program ran?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508",
-      "pacer": "C",
-      "keywords": [
-        "Windows 95",
-        "heuristics",
-        "setup",
-        "operating system",
-        "The Old New Thing"
-      ],
-      "published": "2026-07-07T14:00:00.000Z"
-    },
-    {
-      "id": "21519c1eaa438548",
-      "title": "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/07/going-global/",
-      "pacer": "C",
-      "keywords": [
-        "Antitrust",
-        "Big Tech",
-        "Regulation",
-        "Policy",
-        "Global Cooperation"
-      ],
-      "published": "2026-07-07T12:24:15.000Z"
-    },
-    {
       "id": "85f16c165fbeaea5",
       "title": "Content addressing in package managers",
       "source": "Andrew Nesbitt",
@@ -926,38 +1134,6 @@
         "programming"
       ],
       "published": "2026-07-06T14:22:35.000Z"
-    },
-    {
-      "id": "e07b588e4ae93e9c",
-      "title": "e approximation",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/06/e-approximation/",
-      "pacer": "C",
-      "keywords": [
-        "e constant",
-        "approximation",
-        "mathematics",
-        "fractions",
-        "numerical analysis"
-      ],
-      "published": "2026-07-06T12:22:29.000Z"
-    },
-    {
-      "id": "d4b534bfc38855ef",
-      "title": "I'm just so bored of AI",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/",
-      "pacer": "C",
-      "keywords": [
-        "AI fatigue",
-        "tech industry",
-        "hype",
-        "commentary",
-        "automation"
-      ],
-      "published": "2026-07-06T11:34:18.000Z"
     },
     {
       "id": "911b258a35ad46b8",
@@ -1102,22 +1278,6 @@
         "technology news"
       ],
       "published": "2026-07-04T12:03:22.000Z"
-    },
-    {
-      "id": "ff57e0be66cc983d",
-      "title": "Combined 1D and 2D Barcodes",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/",
-      "pacer": "E",
-      "keywords": [
-        "barcode",
-        "QR code",
-        "UPC",
-        "data encoding",
-        "hybrid design"
-      ],
-      "published": "2026-07-04T11:34:57.000Z"
     },
     {
       "id": "f09d9dc1a2f37c9b",
@@ -1488,22 +1648,6 @@
       "published": "2026-06-28T16:11:20.022Z"
     },
     {
-      "id": "4b2ef1dcaa1d1d59",
-      "title": "The Laziest Generation ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/the-laziest-generation",
-      "pacer": "A",
-      "keywords": [
-        "housing market",
-        "generational gap",
-        "real estate",
-        "economic inequality",
-        "satire"
-      ],
-      "published": "2026-06-28T07:00:00.000Z"
-    },
-    {
       "id": "042a42259732b101",
       "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
       "source": "Old Vintage Computing Research",
@@ -1596,22 +1740,6 @@
         "Astrophotography",
         "Galaxy",
         "C9.25"
-      ],
-      "published": "2026-06-27T00:00:00.000Z"
-    },
-    {
-      "id": "7949fda4481ba2ad",
-      "title": "Saying the obvious thing",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/saying-the-obvious-thing/",
-      "pacer": "C",
-      "keywords": [
-        "communication",
-        "clarity",
-        "rhetoric",
-        "obviousness",
-        "discourse"
       ],
       "published": "2026-06-27T00:00:00.000Z"
     },
@@ -1760,22 +1888,6 @@
       "published": "2026-06-24T00:00:00.000Z"
     },
     {
-      "id": "b2be8dc634b8d58f",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/",
-      "pacer": "C",
-      "keywords": [
-        "programming",
-        "software engineering",
-        "language design",
-        "bugs",
-        "tech satire"
-      ],
-      "published": "2026-06-24T00:00:00.000Z"
-    },
-    {
       "id": "962d41e3a2c99a01",
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "source": "Krebs on Security",
@@ -1836,22 +1948,6 @@
         "Big Tech",
         "developer advocacy",
         "digital sovereignty"
-      ],
-      "published": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "bcd5712831510e57",
-      "title": "I taught a bucket to speak git",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://www.tigrisdata.com/blog/objgit/",
-      "pacer": "C",
-      "keywords": [
-        "Git",
-        "programming",
-        "experimental",
-        "version control",
-        "software engineering"
       ],
       "published": "2026-06-23T00:00:00.000Z"
     },
@@ -2064,22 +2160,6 @@
       "published": "2026-06-19T00:00:00.000Z"
     },
     {
-      "id": "7c4f2c9bb4d90cce",
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "pacer": "E",
-      "keywords": [
-        "Popa botnet",
-        "NetNut",
-        "Alarum Technologies",
-        "cybersecurity",
-        "proxy provider"
-      ],
-      "published": "2026-06-18T17:37:58.000Z"
-    },
-    {
       "id": "df920bd038432968",
       "title": "Show your hands honor for the strange power they bring you",
       "source": "Aresluna",
@@ -2206,22 +2286,6 @@
         "Stanford"
       ],
       "published": "2026-06-16T13:00:57.000Z"
-    },
-    {
-      "id": "f3b25521c39cfe40",
-      "title": "Lean, not backpressure",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/lean-not-backpressure",
-      "pacer": "A",
-      "keywords": [
-        "backpressure",
-        "lean manufacturing",
-        "software architecture",
-        "system design",
-        "metaphor"
-      ],
-      "published": "2026-06-15T22:00:00.000Z"
     },
     {
       "id": "4d71ab2822f08eac",
@@ -2653,22 +2717,6 @@
         "cognition"
       ],
       "published": "2026-06-06T01:14:14.000Z"
-    },
-    {
-      "id": "55646884668a4b75",
-      "title": "Communities of Not",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/6/6/communities-of-not/",
-      "pacer": "C",
-      "keywords": [
-        "community dynamics",
-        "tribalism",
-        "identity politics",
-        "social psychology",
-        "online behavior"
-      ],
-      "published": "2026-06-06T00:00:00.000Z"
     },
     {
       "id": "1841ef51eb149377",
@@ -3290,38 +3338,6 @@
       "published": "2026-05-20T22:36:13.000Z"
     },
     {
-      "id": "afdc8571b630a033",
-      "title": "Assumptions weaken properties",
-      "source": "Computer Things",
-      "source_url": "https://buttondown.com/hillelwayne",
-      "url": "https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/",
-      "pacer": "C",
-      "keywords": [
-        "logic",
-        "formal specification",
-        "software testing",
-        "system assumptions",
-        "properties"
-      ],
-      "published": "2026-05-20T15:13:16.000Z"
-    },
-    {
-      "id": "adcaf690fdc36dbb",
-      "title": "Magic the Gathering format: Fun 40",
-      "source": "Fabien Sanglard",
-      "source_url": "https://fabiensanglard.net/",
-      "url": "https://fabiensanglard.net/mtg/fun//index.html",
-      "pacer": "P",
-      "keywords": [
-        "Magic the Gathering",
-        "Fun 40",
-        "Card games",
-        "TCG",
-        "Game design"
-      ],
-      "published": "2026-05-20T00:00:00.000Z"
-    },
-    {
       "id": "2d355a1227b7c9a0",
       "title": "\nAlternatives for the EDIT tool of LLM agents\n",
       "source_url": "http://antirez.com/",
@@ -3588,22 +3604,6 @@
         "prototyping",
         "software development",
         "user experience"
-      ],
-      "published": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "id": "c10d997e5268db8f",
-      "title": "What’s with all the slide decks?",
-      "source": "DYNOMIGHT",
-      "source_url": "https://dynomight.net/",
-      "url": "https://dynomight.net/slides/",
-      "pacer": "C",
-      "keywords": [
-        "slide decks",
-        "workplace communication",
-        "literacy",
-        "reading habits",
-        "corporate culture"
       ],
       "published": "2026-05-13T00:00:00.000Z"
     },
@@ -4374,17 +4374,6 @@
         "probability"
       ],
       "strength": 0.6
-    },
-    {
-      "source": "417bdaa0c3e139ab",
-      "target": "7c4f2c9bb4d90cce",
-      "shared_keywords": [
-        "Popa botnet",
-        "NetNut",
-        "Alarum Technologies",
-        "cybersecurity"
-      ],
-      "strength": 0.8
     },
     {
       "source": "996e0ef5227274d3",

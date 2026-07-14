@@ -1,6 +1,406 @@
 {
-  "last_updated": "2026-07-13T22:42:19.500Z",
+  "last_updated": "2026-07-14T22:44:23.160Z",
   "articles": [
+    {
+      "id": "0d15af861f868e97",
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-07-13T00:00:00.000Z",
+      "summary_en": "This article provides an in-depth technical breakdown of the computer systems and software interfaces featured in the film Jurassic Park. It explores the hardware and aesthetic design choices that helped define the movie's iconic retro-futuristic computing environment.",
+      "summary_zh": "本文深入剖析了電影《侏羅紀公園》中出現的電腦系統與軟體介面。文章探討了塑造該電影標誌性復古未來風格的硬體配置與視覺設計細節。",
+      "keywords": [
+        "Jurassic Park",
+        "retro computing",
+        "SGI",
+        "film technology",
+        "user interface"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a detailed technical reference and historical documentation of specific movie props and computing setups.",
+      "pacer_reason_zh": "本文作為電影道具與電腦配置的詳細技術參考與歷史文獻紀錄。"
+    },
+    {
+      "id": "713d5c4af8a89517",
+      "title": "I'm still alive",
+      "url": "https://buttondown.com/hillelwayne/archive/im-still-alive/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-07-14T16:15:07.000Z",
+      "summary_en": "The article is a brief update confirming the continued existence and activity of the author. It serves as a status check for readers of the blog.",
+      "summary_zh": "本文是一篇簡短的狀態更新，確認作者仍然活躍且持續經營部落格。這是一則針對讀者的簡單存活確認。",
+      "keywords": [
+        "update",
+        "status",
+        "blogging",
+        "announcement",
+        "personal"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a personal status announcement that describes the current state of the author's activity.",
+      "pacer_reason_zh": "內容屬於個人狀態公告，描述了作者目前的活動情況。"
+    },
+    {
+      "id": "9bf54473d8a46f2f",
+      "title": "Intuition for distribution differences",
+      "url": "https://entropicthoughts.com/distribution-differences",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-07-13T22:00:00.000Z",
+      "summary_en": "The article uses an intuitive analogy involving national population scores to explain the concept of distribution differences. It aims to simplify the interpretation of statistical variations in datasets.",
+      "summary_zh": "本文透過國家人口評分的類比，直觀地解釋了分佈差異的概念。旨在幫助讀者更輕鬆地理解數據集中的統計變化。",
+      "keywords": [
+        "distribution",
+        "statistics",
+        "data analysis",
+        "intuition",
+        "population"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses a hypothetical national scoring analogy to explain abstract statistical distribution concepts.",
+      "pacer_reason_zh": "作者使用假設性的國家評分作為類比，來解釋抽象的統計分佈概念。"
+    },
+    {
+      "id": "a75b896663be090b",
+      "title": "ICD-10 chapters and code letters",
+      "url": "https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-14T14:24:12.000Z",
+      "summary_en": "This post explains the organizational structure of ICD-10-CM medical codes, noting that they are divided into 21 chapters. It highlights that while chapters often align with specific starting letters, there are exceptions where single letters span multiple chapters or a single chapter covers multiple letter blocks.",
+      "summary_zh": "這篇文章介紹了 ICD-10-CM 醫療代碼的組織架構，該標準共分為 21 個章節。文中指出，雖然章節通常對應代碼的首字母，但仍存在例外情況，例如單一字母可能跨越多個章節，或是單一章節涵蓋多個字母區塊。",
+      "keywords": [
+        "ICD-10",
+        "medical coding",
+        "ICD-10-CM",
+        "healthcare data",
+        "classification"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post provides a technical explanation of how a specific standard system is organized, acting as a reference for understanding code structures.",
+      "pacer_reason_zh": "這篇文章提供了特定標準系統架構的技術說明，適合作為理解代碼結構的參考資料。"
+    },
+    {
+      "id": "1fe3ab610cc5e155",
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-07-13T00:00:00.000Z",
+      "summary_en": "The author explores the Tower of Babel as a metaphor for software development, arguing that success in large-scale projects relies on human coordination rather than just individual coding speed. Even with advanced AI tools, the primary challenge remains maintaining a shared understanding of system concepts and boundaries among team members.",
+      "summary_zh": "作者以巴別塔作為軟體開發的隱喻，指出大型專案的成功取決於團隊成員之間的協調，而非僅靠個人的程式編寫速度。即便有了 AI 工具的輔助，軟體工程的核心挑戰仍在於如何維護對系統概念與邊界的一致理解。",
+      "keywords": [
+        "software engineering",
+        "coordination",
+        "Tower of Babel",
+        "AI",
+        "team communication"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the biblical story of the Tower of Babel as an analogy to explain the challenges of coordination in large software projects.",
+      "pacer_reason_zh": "文章運用巴別塔的聖經故事作為類比，以解釋大型軟體專案中協調溝通所面臨的挑戰。"
+    },
+    {
+      "id": "3f9d975f7689fa8a",
+      "title": "Microspeak: Double-click and drill down",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-14T14:00:00.000Z",
+      "summary_en": "This post explores the metaphorical usage of the terms 'double-click' and 'drill down' within professional business jargon. It highlights how these phrases are commonly employed to request more detailed information or to explore a topic more deeply.",
+      "summary_zh": "這篇文章探討了商業術語中「雙擊 (double-click)」與「向下鑽研 (drill down)」的隱喻用法。文章說明了這些詞彙在職場中如何被用來要求更詳細的資訊或深入探討特定議題。",
+      "keywords": [
+        "Microspeak",
+        "business jargon",
+        "double-click",
+        "drill down",
+        "terminology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation and conceptual analysis of specific professional vocabulary.",
+      "pacer_reason_zh": "本文針對特定職場專業術語提供了定義解釋與概念分析。"
+    },
+    {
+      "id": "9fd7063b60878f31",
+      "title": "Presigned URLs are technically a security vuln",
+      "url": "https://www.tigrisdata.com/blog/presigned-urls-security-vuln/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-07-14T00:00:00.000Z",
+      "summary_en": "This article discusses the inherent security risks associated with using presigned URLs for resource access. It argues that these URLs often function as security vulnerabilities due to their design and potential for misuse.",
+      "summary_zh": "本文探討了使用預簽名網址（Presigned URLs）存取資源時所帶來的安全性風險。文章指出，這些網址因其設計特性與潛在的濫用風險，本質上是一種安全漏洞。",
+      "keywords": [
+        "presigned URLs",
+        "security",
+        "vulnerability",
+        "web architecture",
+        "cloud storage"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and security analysis of a specific technology pattern.",
+      "pacer_reason_zh": "本文針對特定技術模式提供了觀念性的批判與安全分析。"
+    },
+    {
+      "id": "ae47cbdca7d07634",
+      "title": "You should probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-07-14T00:00:00.000Z",
+      "summary_en": "This post serves as a lighthearted warning regarding the security vulnerabilities inherent in smart home appliances. It highlights the importance of auditing IoT devices to ensure they are not being compromised by malware.",
+      "summary_zh": "這篇文章以輕鬆的方式提醒讀者，智慧家電可能存在安全漏洞。文章強調定期檢查物聯網設備，以確保設備未遭到惡意軟體感染的重要性。",
+      "keywords": [
+        "smart appliances",
+        "IoT security",
+        "malware",
+        "cybersecurity",
+        "smart home"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview of the risks associated with smart device security rather than a technical tutorial or data-driven study.",
+      "pacer_reason_zh": "這篇文章針對智慧裝置安全性相關風險提供了觀念性的概述，而非技術教學或數據研究。"
+    },
+    {
+      "id": "8c95d8744c57d47e",
+      "title": "Pseudpocalypse",
+      "url": "https://dynomight.net/pseudpocalypse/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-07-14T00:00:00.000Z",
+      "summary_en": "The author conjectures that advancements in statistical analysis and AI will make it nearly impossible to maintain online pseudonymity. By linking writing styles and physical behavioral patterns to genuine identities, we are approaching a 'pseudpocalypse' where anonymity in the digital and physical world becomes effectively obsolete.",
+      "summary_zh": "作者推測，隨著統計分析與人工智慧的進步，維持網路匿名將變得幾乎不可能。透過將寫作風格與行為模式連結至真實身分，我們正邁向一個「偽匿名末日」，使得數位與現實生活中的匿名性趨近消失。",
+      "keywords": [
+        "pseudonymity",
+        "AI",
+        "privacy",
+        "author identification",
+        "surveillance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a theoretical concept and future prediction regarding the loss of anonymity due to technological advancement.",
+      "pacer_reason_zh": "本文探討了關於技術進步導致匿名性喪失的概念性理論與未來預測。"
+    },
+    {
+      "id": "947b18219234a8d2",
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-14T11:34:26.000Z",
+      "summary_en": "The author shares his experience of simplifying travel by using a single USB-C Power Delivery (PD) charger for all his devices. This approach highlights the convenience and efficiency of standardizing charging hardware for various gadgets.",
+      "summary_zh": "作者分享了他僅攜帶一個 USB-C PD 充電器即可滿足所有設備需求的旅行經驗。此做法凸顯了將充電硬體標準化為各類裝置所帶來的便利性與效率。",
+      "keywords": [
+        "USB-C",
+        "Power Delivery",
+        "travel",
+        "charging",
+        "minimalism"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal travel experience as an analogy for the broader benefits of standardizing universal charging technology.",
+      "pacer_reason_zh": "本文以作者個人的旅行經驗為例，類比說明了標準化通用充電技術帶來的廣泛益處。"
+    },
+    {
+      "id": "cd72a1127b487ccf",
+      "title": "[RSS Club] Half a million steps is about 10 marathons",
+      "url": "https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-13T11:34:09.000Z",
+      "summary_en": "The author shares their experience tracking daily step counts during a recent 49-day, 6,400km Interrail trip using a budget smartwatch. The post explores the personal data gathered while traveling, contextualizing the physical activity involved in their journey.",
+      "summary_zh": "作者分享了在最近為期 49 天、長達 6,400 公里的鐵路旅行中，利用平價智慧手錶追蹤每日步行步數的體驗。這篇文章探討了旅行過程中記錄到的個人數據，並分析了旅途中的實際活動量。",
+      "keywords": [
+        "RSS",
+        "Quantified Self",
+        "Smartwatch",
+        "Interrail",
+        "Data tracking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post centers on personal data collection and the presentation of tracked physical activity metrics during a specific trip.",
+      "pacer_reason_zh": "文章以個人數據收集為核心，展示並分析了特定旅行期間所記錄的身體活動指標。"
+    },
+    {
+      "id": "9ef39be16bf9d3eb",
+      "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/14/designated-survivor/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-14T11:10:45.000Z",
+      "summary_en": "This article examines the concept of the 'designated survivor' in the U.S. political system as a relic of Cold War technocratic planning. It contrasts this formal proceduralism with the modern era's 'vibes-based' political chaos and the ongoing struggle between long-term institutional strategies and impulsive governance.",
+      "summary_zh": "本文探討美國政治制度中「指定生存者」的概念，將其視為冷戰時期技術官僚規劃的遺產。文章對比了這種正式的程序主義與當代政治中「感覺導向」的混亂，以及長期體制策略與衝動執政之間的持續博弈。",
+      "keywords": [
+        "gerontocracy",
+        "designated survivor",
+        "US politics",
+        "institutionalism",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical and analytical perspective on political structures and their evolution, functioning as conceptual commentary.",
+      "pacer_reason_zh": "本文對政治結構及其演變提供了理論與分析視角，屬於概念性的評論內容。"
+    },
+    {
+      "id": "4632681f1254dfb2",
+      "title": "They Prefer the App ",
+      "url": "https://idiallo.com/blog/they-prefer-the-app",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-14T22:35:36.000Z",
+      "summary_en": "The author argues that modern internet users have forgotten that many platforms are fundamentally websites, unnecessarily relying on resource-heavy apps instead. These apps often restrict standard web functionality while serving primarily as data-harvesting tools for corporations.",
+      "summary_zh": "作者指出現代用戶已逐漸遺忘許多網路平台本質上就是網站，卻仍執著於使用資源沈重的應用程式。這些 App 不僅限制了基本的網路功能，更成為企業獲取用戶數據的主要工具。",
+      "keywords": [
+        "apps",
+        "websites",
+        "data privacy",
+        "user experience",
+        "tech critique"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the shift from web-based browsing to app-centric usage and its implications for user autonomy.",
+      "pacer_reason_zh": "本文針對從網頁瀏覽轉向應用程式導向的趨勢進行概念性批判，並探討其對用戶自主權的影響。"
+    },
+    {
+      "id": "b49a657379e32ffb",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-14T19:22:42.000Z",
+      "summary_en": "Microsoft has released security updates addressing 570 vulnerabilities, nearly tripling the record number of patches issued the previous month. The company attributes this significant increase in discovered flaws to the use of artificial intelligence in vulnerability research.",
+      "summary_zh": "微軟發布了安全更新以修復 570 個安全漏洞，數量幾乎是上個月創紀錄補丁數的三倍。微軟指出，補丁數量激增主要歸因於人工智慧技術在漏洞檢測方面的應用。",
+      "keywords": [
+        "Microsoft",
+        "Security",
+        "Patch Tuesday",
+        "Vulnerabilities",
+        "Artificial Intelligence"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific data regarding record-breaking vulnerability numbers and identifies the underlying cause behind the statistics.",
+      "pacer_reason_zh": "本文報導了關於破紀錄漏洞數量的具體數據，並指出了該統計數字背後的根本原因。"
+    },
+    {
+      "id": "60255d1736e26c26",
+      "title": "simonw/pedalican",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T22:29:45.000Z",
+      "summary_en": "Simon Willison explores the feature of creating custom 'pet' animations for Codex Desktop. By leveraging AI models like GPT-5.6 and image generation tools, he created a custom pelican-on-a-bicycle animation and documented the entire iterative development process.",
+      "summary_zh": "Simon Willison 探索了為 Codex Desktop 創建自定義「寵物」動畫的功能。他利用 GPT-5.6 和圖像生成工具，設計了一款騎自行車的鵜鶘動畫，並記錄了整個開發迭代過程。",
+      "keywords": [
+        "Codex Desktop",
+        "AI agents",
+        "generative AI",
+        "animation",
+        "sprite sheets"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article details the process and steps taken to create a custom AI-driven desktop pet, serving as a practical guide/example.",
+      "pacer_reason_zh": "本文詳細介紹了創建 AI 桌面寵物的過程與步驟，適合作為實作指南或案例參考。"
+    },
+    {
+      "id": "62fc607a04bf61ec",
+      "title": "lobste.rs is now running on SQLite",
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T19:44:11.000Z",
+      "summary_en": "The community site Lobsters has successfully migrated its database from MariaDB to SQLite, achieving improved performance and lower infrastructure costs. This case study demonstrates the capability of SQLite to handle significant production workloads on a single server setup.",
+      "summary_zh": "社群網站 Lobsters 已成功將其資料庫從 MariaDB 遷移至 SQLite，顯著提升了網站效能並降低了基礎設施成本。此案例展示了 SQLite 在單一伺服器架構下處理大型生產環境負載的強大能力。",
+      "keywords": [
+        "SQLite",
+        "Lobsters",
+        "Database Migration",
+        "Web Architecture",
+        "Performance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a real-world case study, providing concrete performance metrics and architectural data regarding a production database migration.",
+      "pacer_reason_zh": "本文屬於真實案例研究，提供了關於生產環境資料庫遷移的具體效能指標與架構數據。"
+    },
+    {
+      "id": "3a7c85312127dd26",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T18:04:23.000Z",
+      "summary_en": "Armin Ronacher argues that the shared language of software engineering is built through the social friction of collaboration rather than just documentation. He suggests that the rise of coding agents threatens this synchronization by removing the necessary communication and alignment processes that keep teams aligned on system architecture.",
+      "summary_zh": "Armin Ronacher 指出，軟體工程的共通語言是透過協作中的「摩擦」建立的，而非僅靠文件。他認為 AI 程式編寫代理可能會消除這些必要的溝通與協調過程，進而削弱團隊對系統架構的共識。",
+      "keywords": [
+        "software-engineering",
+        "coding-agents",
+        "collaboration",
+        "ai",
+        "system-architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of how social friction and communication contribute to shared mental models in software engineering.",
+      "pacer_reason_zh": "內容探討了軟體工程中社交摩擦與溝通如何建立共享心智模型的概念性分析。"
+    },
+    {
+      "id": "3b7b0f5c614887b4",
+      "title": "datasette 1.0a37",
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T16:31:41.000Z",
+      "summary_en": "Datasette version 1.0a37 has been released, focusing on minor performance enhancements and updates to the authentication documentation. The update also rolls back a cosmetic API change that previously caused issues with existing plugin test suites.",
+      "summary_zh": "Datasette 發布了 1.0a37 版本，主要進行了效能優化與權限系統文件更新。此外，該版本還撤銷了一項先前導致大多數插件測試套件失敗的 API 變更。",
+      "keywords": [
+        "datasette",
+        "release",
+        "software development",
+        "api",
+        "plugin"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a release note/reference document for a software update.",
+      "pacer_reason_zh": "該內容為軟體更新的發布說明，屬於參考性質的文件。"
+    },
+    {
+      "id": "86da57583a025800",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T00:56:20.000Z",
+      "summary_en": "This post explains how to optimize GitHub Actions workflows using 'uvx' by implementing a cache-friendly approach. By setting a specific 'UV_EXCLUDE_NEWER' environment variable and incorporating it into the cache key, users can avoid repetitive PyPI downloads while maintaining control over tool updates.",
+      "summary_zh": "這篇文章介紹了如何在 GitHub Actions 中以快取友善的方式使用 'uvx'。透過設置 'UV_EXCLUDE_NEWER' 環境變數並將其整合至快取鍵中，開發者可以避免每次執行時重複下載 PyPI 套件，同時靈活控制工具的更新。",
+      "keywords": [
+        "uvx",
+        "GitHub Actions",
+        "Python",
+        "caching",
+        "devops"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable recipe for configuring GitHub Actions workflows more efficiently.",
+      "pacer_reason_zh": "文章提供了一個具體且可執行的操作指南，用於優化 GitHub Actions 工作流的設定。"
+    },
+    {
+      "id": "f2531141b9fbd596",
+      "title": "What does \"playing politics\" mean for software engineers?",
+      "url": "https://seangoedecke.com/playing-politics/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-14T00:00:00.000Z",
+      "summary_en": "This article explores the concept of 'playing politics' within software engineering environments. It reframes office politics as the essential skill of navigating organizational influence and interpersonal dynamics to achieve technical goals.",
+      "summary_zh": "本文探討了軟體工程環境中「玩弄政治」的含義。作者將辦公室政治重新定義為一種必要的溝通技巧，強調工程師需透過影響力與人際互動，以更有效地達成技術目標。",
+      "keywords": [
+        "software engineering",
+        "office politics",
+        "soft skills",
+        "career growth",
+        "organizational influence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that defines and explains a social phenomenon within a professional context.",
+      "pacer_reason_zh": "這是一篇概念性文章，旨在定義並解釋職場中的社會現象。"
+    },
     {
       "id": "c627459e3c2e1bb6",
       "title": "Winners and losers in the coming AI margin collapse (part 2)",
