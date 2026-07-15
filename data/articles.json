@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-07-14T22:44:23.160Z",
+  "last_updated": "2026-07-15T22:45:22.821Z",
   "articles": [
+    {
+      "id": "1e4153c4aee5962d",
+      "title": "Weekly Update 512: IoT Lockout Fail",
+      "url": "https://www.troyhunt.com/weekly-update-512/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-07-15T00:35:38.000Z",
+      "summary_en": "Troy Hunt recounts a personal experience where a dead battery in an IoT smart lock left him stranded outside his home after a long journey. The incident highlights the inherent risks and lack of physical fail-safes in relying solely on smart home technology for critical access.",
+      "summary_zh": "Troy Hunt 分享了他從巴黎長途飛行後，因物聯網智慧門鎖電池耗盡而被困在家門外的親身經歷。這起事件凸顯了完全依賴智慧家庭技術進行關鍵門禁時，所隱含的風險與缺乏實體備援機制的潛在問題。",
+      "keywords": [
+        "IoT",
+        "Smart Home",
+        "Security",
+        "Hardware Failure",
+        "Smart Lock"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "Uses a personal real-world case study to illustrate the vulnerabilities of smart home devices.",
+      "pacer_reason_zh": "透過個人的真實案例說明智慧家庭設備的安全與可靠性隱憂。"
+    },
+    {
+      "id": "97ca334e11d90ef8",
+      "title": "Ben je van de IT of niet?",
+      "url": "https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-15T10:15:00.000Z",
+      "summary_en": "This article uses the analogy of a broken office toilet to illustrate the bureaucratic complexities and accountability issues often found in large IT departments. It highlights how ambiguous responsibilities and organizational silos can lead to significant inefficiency and frustration.",
+      "summary_zh": "本文透過辦公室馬桶故障的隱喻，說明大型 IT 部門中常見的官僚複雜性與責任歸屬問題。文章強調模糊的權責劃分和組織隔閡，往往會導致執行效率低落與工作挫折。",
+      "keywords": [
+        "IT management",
+        "bureaucracy",
+        "accountability",
+        "organizational structure",
+        "analogies"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a common office maintenance scenario as an analogy to explain the structural problems within IT organizations.",
+      "pacer_reason_zh": "文章使用常見的辦公室修繕情境作為類比，來解釋 IT 組織內部存在的結構性問題。"
+    },
+    {
+      "id": "f0fa5829d5af7a9f",
+      "title": "Notes on the Fourier Transform",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-07-15T03:04:00.000Z",
+      "summary_en": "This article explores the transition from Fourier series for periodic functions to the Fourier transform for non-periodic functions. By using interactive visualizations, it demonstrates how increasing the period length affects the approximation of non-repeating functions.",
+      "summary_zh": "本文探討了從週期函數的傅立葉級數轉換到非週期函數的傅立葉轉換之概念。透過互動式視覺化工具，文章展示了當週期長度增加時，如何影響對非重複函數的近似效果。",
+      "keywords": [
+        "Fourier Transform",
+        "Fourier series",
+        "Mathematics",
+        "Signal processing",
+        "Data visualization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical transition from Fourier series to Fourier transform through conceptual derivation and visualization.",
+      "pacer_reason_zh": "本文透過概念推導與視覺化演示，解釋了從傅立葉級數到傅立葉轉換的數學過渡。"
+    },
+    {
+      "id": "c2cb2ebcf6807953",
+      "title": "The case of the invalid function pointer when shutting down the display control panel",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-15T14:00:00.000Z",
+      "summary_en": "This post investigates a technical issue involving an invalid function pointer that occurs during the shutdown of the Windows display control panel. It explores the debugging process used to track down the root cause of this system instability.",
+      "summary_zh": "本文探討了在關閉 Windows 顯示控制台時，因無效函式指標（invalid function pointer）所引發的技術問題。文章詳細記錄了針對此系統不穩定現象的除錯過程與原因分析。",
+      "keywords": [
+        "Windows",
+        "debugging",
+        "function pointer",
+        "display control panel",
+        "technical analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a diagnostic case study of a specific software bug.",
+      "pacer_reason_zh": "本文屬於針對特定軟體錯誤的診斷案例分析。"
+    },
+    {
+      "id": "5201cdda51e234b5",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-15T14:21:54.000Z",
+      "summary_en": "The article discusses a security vulnerability in Claude's web_fetch tool discovered by Ayush Paul, where an attacker can bypass data exfiltration protections. By crafting a nested sequence of links, an attacker can trick the AI into leaking private user memory data despite existing safety filters.",
+      "summary_zh": "本文介紹了 Ayush Paul 發現的 Claude web_fetch 工具安全漏洞，該漏洞繞過了防止數據外洩的保護機制。攻擊者可以透過精心設計的巢狀連結引導 AI，將使用者的私密記憶數據洩露給惡意網站。",
+      "keywords": [
+        "Claude",
+        "web_fetch",
+        "security",
+        "vulnerability",
+        "data-exfiltration"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a specific security exploit case study demonstrating how a system's safety mechanism was bypassed in a real-world scenario.",
+      "pacer_reason_zh": "本文提出了一個特定的安全漏洞案例研究，展示了系統安全機制在實際情境中是如何被繞過的。"
+    },
+    {
+      "id": "c9bbf8c8b0697add",
+      "title": "Quoting GitHub Changelog",
+      "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-14T22:43:35.000Z",
+      "summary_en": "Simon Willison highlights a recent update to GitHub's Dependabot which introduces a mandatory three-day cooldown period for new package releases. This default behavior is designed to improve stability by preventing immediate version updates.",
+      "summary_zh": "Simon Willison 介紹了 GitHub Dependabot 的最新更新，該更新為套件新版本引入了強制性的三天冷卻期。此預設機制旨在避免版本過於頻繁的更新，藉此提升軟體依賴的穩定性。",
+      "keywords": [
+        "GitHub",
+        "Dependabot",
+        "dependency-cooldowns",
+        "packaging",
+        "software-updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a reference or pointer to a specific product update and documentation change.",
+      "pacer_reason_zh": "該文章作為特定產品更新與文件變更的參考資訊或指標。"
+    },
     {
       "id": "0d15af861f868e97",
       "title": "Jurassic Park computers in excruciating detail",

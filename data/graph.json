@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "5201cdda51e234b5",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Claude",
+        "web_fetch",
+        "security",
+        "vulnerability",
+        "data-exfiltration"
+      ],
+      "published": "2026-07-15T14:21:54.000Z"
+    },
+    {
+      "id": "c2cb2ebcf6807953",
+      "title": "The case of the invalid function pointer when shutting down the display control panel",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535",
+      "pacer": "E",
+      "keywords": [
+        "Windows",
+        "debugging",
+        "function pointer",
+        "display control panel",
+        "technical analysis"
+      ],
+      "published": "2026-07-15T14:00:00.000Z"
+    },
+    {
+      "id": "97ca334e11d90ef8",
+      "title": "Ben je van de IT of niet?",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/",
+      "pacer": "A",
+      "keywords": [
+        "IT management",
+        "bureaucracy",
+        "accountability",
+        "organizational structure",
+        "analogies"
+      ],
+      "published": "2026-07-15T10:15:00.000Z"
+    },
+    {
+      "id": "f0fa5829d5af7a9f",
+      "title": "Notes on the Fourier Transform",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/",
+      "pacer": "C",
+      "keywords": [
+        "Fourier Transform",
+        "Fourier series",
+        "Mathematics",
+        "Signal processing",
+        "Data visualization"
+      ],
+      "published": "2026-07-15T03:04:00.000Z"
+    },
+    {
+      "id": "1e4153c4aee5962d",
+      "title": "Weekly Update 512: IoT Lockout Fail",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-512/",
+      "pacer": "E",
+      "keywords": [
+        "IoT",
+        "Smart Home",
+        "Security",
+        "Hardware Failure",
+        "Smart Lock"
+      ],
+      "published": "2026-07-15T00:35:38.000Z"
+    },
+    {
+      "id": "c9bbf8c8b0697add",
+      "title": "Quoting GitHub Changelog",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "GitHub",
+        "Dependabot",
+        "dependency-cooldowns",
+        "packaging",
+        "software-updates"
+      ],
+      "published": "2026-07-14T22:43:35.000Z"
+    },
+    {
       "id": "4632681f1254dfb2",
       "title": "They Prefer the App ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -81,22 +177,6 @@
       "published": "2026-07-14T18:04:23.000Z"
     },
     {
-      "id": "3b7b0f5c614887b4",
-      "title": "datasette 1.0a37",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "release",
-        "software development",
-        "api",
-        "plugin"
-      ],
-      "published": "2026-07-14T16:31:41.000Z"
-    },
-    {
       "id": "713d5c4af8a89517",
       "title": "I'm still alive",
       "source": "Computer Things",
@@ -175,22 +255,6 @@
         "Cory Doctorow"
       ],
       "published": "2026-07-14T11:10:45.000Z"
-    },
-    {
-      "id": "86da57583a025800",
-      "title": "Using uvx in GitHub Actions in a cache-friendly way",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "uvx",
-        "GitHub Actions",
-        "Python",
-        "caching",
-        "devops"
-      ],
-      "published": "2026-07-14T00:56:20.000Z"
     },
     {
       "id": "9fd7063b60878f31",
@@ -926,22 +990,6 @@
         "sociology"
       ],
       "published": "2026-07-08T16:10:54.000Z"
-    },
-    {
-      "id": "51f1b298b0834eac",
-      "title": "The other kind of control flow guard check: The combined validate and call",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510",
-      "pacer": "C",
-      "keywords": [
-        "Control Flow Guard",
-        "CFG",
-        "Windows Internals",
-        "Security",
-        "Programming"
-      ],
-      "published": "2026-07-08T14:00:00.000Z"
     },
     {
       "id": "411c5d492b1439e6",
@@ -2256,22 +2304,6 @@
       "published": "2026-06-16T18:50:27.000Z"
     },
     {
-      "id": "57ca91d44336bb53",
-      "title": "Do not invite big-tech to join your digital autonomy discussion",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/do-not-invite-big-tech-to-your-digital-autonomy-discussion/",
-      "pacer": "C",
-      "keywords": [
-        "Digital Autonomy",
-        "Big Tech",
-        "Tech Policy",
-        "Digital Sovereignty",
-        "EU"
-      ],
-      "published": "2026-06-16T16:00:00.000Z"
-    },
-    {
       "id": "960debb926861d36",
       "title": "Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations",
       "source": "Steve Blank",
@@ -2286,22 +2318,6 @@
         "Stanford"
       ],
       "published": "2026-06-16T13:00:57.000Z"
-    },
-    {
-      "id": "4d71ab2822f08eac",
-      "title": "Weekly Update 508",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-508/",
-      "pacer": "C",
-      "keywords": [
-        "home improvement",
-        "hardware",
-        "design",
-        "user experience",
-        "smart home"
-      ],
-      "published": "2026-06-15T04:55:47.000Z"
     },
     {
       "id": "94fb41860238f3b1",
@@ -3005,22 +3021,6 @@
         "人格陰影"
       ],
       "published": "2026-05-28T13:00:00.000Z"
-    },
-    {
-      "id": "c3ec5121c787e6e1",
-      "title": "Notes on Fourier series",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-fourier-series/",
-      "pacer": "P",
-      "keywords": [
-        "Fourier series",
-        "mathematics",
-        "trigonometric series",
-        "linear algebra",
-        "Hilbert space"
-      ],
-      "published": "2026-05-28T02:30:00.000Z"
     },
     {
       "id": "3acfea99042762dc",

@@ -4,8 +4,62 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 14 Jul 2026 22:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:45:22 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 512: IoT Lockout Fail</title>
+      <link>https://www.troyhunt.com/weekly-update-512/</link>
+      <guid>https://www.troyhunt.com/weekly-update-512/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:35:38 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt recounts a personal experience where a dead battery in an IoT smart lock left him stranded outside his home after a long journey. The incident highlights the inherent risks and lack of physical fail-safes in relying solely on smart home technology for critical access.</description>
+    </item>
+
+    <item>
+      <title>Ben je van de IT of niet?</title>
+      <link>https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/</link>
+      <guid>https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/</guid>
+      <pubDate>Wed, 15 Jul 2026 10:15:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>This article uses the analogy of a broken office toilet to illustrate the bureaucratic complexities and accountability issues often found in large IT departments. It highlights how ambiguous responsibilities and organizational silos can lead to significant inefficiency and frustration.</description>
+    </item>
+
+    <item>
+      <title>Notes on the Fourier Transform</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</link>
+      <guid>https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</guid>
+      <pubDate>Wed, 15 Jul 2026 03:04:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article explores the transition from Fourier series for periodic functions to the Fourier transform for non-periodic functions. By using interactive visualizations, it demonstrates how increasing the period length affects the approximation of non-repeating functions.</description>
+    </item>
+
+    <item>
+      <title>The case of the invalid function pointer when shutting down the display control panel</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</guid>
+      <pubDate>Wed, 15 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post investigates a technical issue involving an invalid function pointer that occurs during the shutdown of the Windows display control panel. It explores the debugging process used to track down the root cause of this system instability.</description>
+    </item>
+
+    <item>
+      <title>How I tricked Claude into leaking your deepest, darkest secrets</title>
+      <link>https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</guid>
+      <pubDate>Wed, 15 Jul 2026 14:21:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses a security vulnerability in Claude's web_fetch tool discovered by Ayush Paul, where an attacker can bypass data exfiltration protections. By crafting a nested sequence of links, an attacker can trick the AI into leaking private user memory data despite existing safety filters.</description>
+    </item>
+
+    <item>
+      <title>Quoting GitHub Changelog</title>
+      <link>https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 22:43:35 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison highlights a recent update to GitHub's Dependabot which introduces a mandatory three-day cooldown period for new package releases. This default behavior is designed to improve stability by preventing immediate version updates.</description>
+    </item>
+
     <item>
       <title>Jurassic Park computers in excruciating detail</title>
       <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
@@ -856,60 +910,6 @@ http://antirez.com/news/169
       <pubDate>Mon, 06 Jul 2026 23:57:35 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Tencent has released Hy3, a new 295B-parameter Mixture-of-Experts (MoE) model featuring a 256K context window and Apache 2.0 licensing. The model demonstrates high performance in productivity tasks and is currently available for testing via OpenRouter.</description>
-    </item>
-
-    <item>
-      <title>Blog about things you don't understand yet</title>
-      <link>https://seangoedecke.com/blog-about-things-you-dont-understand-yet/</link>
-      <guid>https://seangoedecke.com/blog-about-things-you-dont-understand-yet/</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the intellectual benefit of engaging with topics that currently elude your understanding. It highlights the importance of curiosity and the mental growth that comes from tackling complex, unfamiliar subjects.</description>
-    </item>
-
-    <item>
-      <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
-      <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The article introduces GLM 5.2 as a powerful open-weights model capable of matching top-tier competitors like GPT and Opus for agentic tasks. It suggests that this performance at a significantly lower price point signals an impending collapse in AI inference profit margins.</description>
-    </item>
-
-    <item>
-      <title>Making a Shuffle Button</title>
-      <link>https://blog.jim-nielsen.com/2026/notes-shuffle/</link>
-      <guid>https://blog.jim-nielsen.com/2026/notes-shuffle/</guid>
-      <pubDate>Sun, 05 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author describes the challenge of implementing a 'Shuffle' button on a static blog, specifically the inefficiencies of embedding all post IDs into every page using JavaScript. He seeks a more performant, non-JS alternative to avoid unnecessary rebuilds and cache invalidation caused by frequent content updates.</description>
-    </item>
-
-    <item>
-      <title>Reproducing a geometry theorem diagram</title>
-      <link>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</guid>
-      <pubDate>Mon, 06 Jul 2026 14:22:35 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author explores the process of programmatically recreating a specific geometry theorem diagram using coordinates and mathematical assumptions. By defining the unit circle and the perpendicular line CD, the post details the steps taken to plot the geometric components accurately.</description>
-    </item>
-
-    <item>
-      <title>e approximation</title>
-      <link>https://www.johndcook.com/blog/2026/07/06/e-approximation/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/06/e-approximation/</guid>
-      <pubDate>Mon, 06 Jul 2026 12:22:29 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores a highly accurate fractional approximation of the mathematical constant e (2721/1001). It contrasts this specific approximation with simpler methods, highlighting how such fractions can provide greater precision than standard decimal truncations.</description>
-    </item>
-
-    <item>
-      <title>I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</guid>
-      <pubDate>Mon, 06 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains that the FILE_FLAG_DELETE_ON_CLOSE flag cannot be removed once a file is opened with it. It suggests that if you need to retain the file, you must adopt a different approach to file handling.</description>
     </item>
   </channel>
 </rss>
