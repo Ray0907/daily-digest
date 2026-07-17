@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-07-16T22:45:14.252Z",
+  "last_updated": "2026-07-17T22:36:31.470Z",
   "articles": [
+    {
+      "id": "f24d4c00a9ce500f",
+      "title": "Podcast Notes: Iain McGilchrist on “The Great Simplification”",
+      "url": "https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-16T19:00:00.000Z",
+      "summary_en": "This post discusses Dr. Iain McGilchrist's perspective on the limitations of science, reason, and AI. It highlights that true breakthroughs, such as those by Einstein, often arise from holistic insights rather than linear logic or algorithms.",
+      "summary_zh": "本文探討了 Iain McGilchrist 博士對於科學、理性和人工智慧局限性的觀點。文中強調，重大的科學突破往往源於對整體的直觀洞察（gestalt），而非僅僅依賴線性的邏輯推演或演算法。",
+      "keywords": [
+        "Iain McGilchrist",
+        "AI",
+        "科學方法",
+        "直觀",
+        "哲學"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual discussion of human cognition, the nature of scientific discovery, and the philosophical limitations of AI.",
+      "pacer_reason_zh": "本文聚焦於人類認知、科學發現本質及人工智慧哲學侷限性的概念探討。"
+    },
+    {
+      "id": "6173003b28032791",
+      "title": "The Life and Times of Maxis, Part 2: SimWorld",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-07-17T15:59:19.000Z",
+      "summary_en": "This article explores the history of Maxis Software following the success of SimCity 2000, specifically focusing on the development and reception of their unusual 1994 title, SimHealth. It highlights the company's attempt to branch into serious simulation software during a period of transition.",
+      "summary_zh": "本文探討了 Maxis Software 在《模擬城市 2000》取得巨大成功後的發展歷程，特別聚焦於其 1994 年推出的獨特作品《SimHealth》。內容回顧了該公司在轉型期嘗試開發嚴肅模擬軟體的背景與市場反響。",
+      "keywords": [
+        "Maxis",
+        "SimCity 2000",
+        "SimHealth",
+        "Video Game History",
+        "Simulation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a historical narrative and context explaining the conceptual shift and development choices of a specific company.",
+      "pacer_reason_zh": "本文提供歷史敘述與背景，解釋了特定公司在發展策略上的概念轉變與決策過程。"
+    },
+    {
+      "id": "a1ca7bb752e27277",
+      "title": "Plumbing Homebrew into the vulnerability ecosystem",
+      "url": "https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-17T10:00:00.000Z",
+      "summary_en": "The author details the development of 'brew-vulns,' a tool for Homebrew that integrates CVE scanning by leveraging the OSV.dev database. The project evolved from a personal gem into a native feature in Homebrew, requiring technical adjustments like API pagination, data sanitization, and handling formula-specific patches.",
+      "summary_zh": "作者詳細介紹了如何為 Homebrew 開發『brew-vulns』漏洞掃描工具，並整合了 OSV.dev 資料庫。該專案從個人開發工具最終被納入 Homebrew 原生功能，過程中解決了 API 分頁、資料清理以及處理軟體包自訂補丁等技術挑戰。",
+      "keywords": [
+        "Homebrew",
+        "CVE",
+        "OSV.dev",
+        "vulnerability scanning",
+        "software security"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article describes the practical evolution, data challenges, and real-world implementation of a vulnerability scanning tool within a large package ecosystem.",
+      "pacer_reason_zh": "文章描述了在大型軟體包生態系統中開發漏洞掃描工具的實踐演進、資料處理挑戰及實際應用過程。"
+    },
+    {
+      "id": "2e93a5bdc66f3670",
+      "title": "Visualizing Medical Code Hierarchy",
+      "url": "https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-17T16:12:31.000Z",
+      "summary_en": "This post demonstrates how to use Python's squarify library to visualize the structure of medical coding systems. It provides treemaps comparing the distribution of HCPCS and ICD-10 codes based on their starting characters.",
+      "summary_zh": "本文展示如何運用 Python 的 squarify 套件來視覺化醫療編碼系統的結構。透過樹狀圖（treemaps）呈現並比較了 HCPCS 與 ICD-10 編碼依據首字母分布的情形。",
+      "keywords": [
+        "Python",
+        "squarify",
+        "treemap",
+        "ICD-10",
+        "HCPCS"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a practical demonstration and code-based approach for visualizing data.",
+      "pacer_reason_zh": "該文章提供了視覺化數據的實作示範與程式碼應用方法。"
+    },
+    {
+      "id": "2efeec5fab389f5a",
+      "title": "Regular expressions for HCPCS codes",
+      "url": "https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-17T14:02:52.000Z",
+      "summary_en": "This post explains the structure of HCPCS Level II medical billing codes. It provides regular expressions designed to identify and validate these codes for data processing tasks.",
+      "summary_zh": "這篇文章介紹了 HCPCS Level II 醫療計費代碼的結構。作者提供了用於識別和驗證這些代碼的正則表達式，適用於數據處理需求。",
+      "keywords": [
+        "HCPCS",
+        "Regular expressions",
+        "Healthcare",
+        "Data validation",
+        "Medical coding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific regular expression patterns that serve as a practical, step-by-step tool for developers to validate medical codes.",
+      "pacer_reason_zh": "本文提供了具體的正則表達式模式，作為開發人員驗證醫療代碼的實用操作指南。"
+    },
+    {
+      "id": "bf23fe5c7b7f0eb8",
+      "title": "Regular expression speed and error rates",
+      "url": "https://www.johndcook.com/blog/2026/07/17/regex-speed-error/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-17T11:26:19.000Z",
+      "summary_en": "This article re-examines the use of regular expressions for matching diagnosis codes, specifically analyzing their performance regarding execution speed and error rates. It discusses the inherent trade-offs, including the risks of false positives and negatives, while acknowledging the practical advantages of regex in certain contexts.",
+      "summary_zh": "本文重新審視了使用正規表示式來比對診斷代碼的應用，並探討了其在執行速度與錯誤率方面的表現。文中分析了正規表示式在處理時固有的優缺點，包括偽陽性與偽陰性的風險，以及在特定情境下的實用價值。",
+      "keywords": [
+        "regular expressions",
+        "regex",
+        "diagnosis codes",
+        "performance",
+        "error rates"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on evaluating the performance metrics of regular expressions, specifically analyzing speed and error rates as empirical evidence.",
+      "pacer_reason_zh": "本文聚焦於評估正規表示式的效能指標，並以執行速度與錯誤率作為實證數據進行分析。"
+    },
+    {
+      "id": "cd95df0b188bda99",
+      "title": "Why has the display control panel pointer truncation bug gone unfixed for so long?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-17T14:00:00.000Z",
+      "summary_en": "This post addresses a long-standing display control panel bug involving pointer truncation. It clarifies that a fix has been developed, but explains the logistical challenges preventing its deployment.",
+      "summary_zh": "本文探討了顯示控制台指標截斷錯誤長期未修復的問題。作者釐清其實該錯誤已經有修正方案，但受限於部署流程導致該修復無法及時發佈。",
+      "keywords": [
+        "Windows",
+        "bug",
+        "display",
+        "software maintenance",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation for a software development issue and operational delay.",
+      "pacer_reason_zh": "本文針對軟體開發問題與部署延遲提供了概念性的解釋。"
+    },
+    {
+      "id": "deaf185e030e2ef8",
+      "title": "NGC 7497, etc.",
+      "url": "https://maurycyz.com/astro/ngc7497/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-16T00:00:00.000Z",
+      "summary_en": "This post features an amateur astrophotography capture of the spiral galaxy NGC 7497, highlighting an overlapping foreground nebula with very low surface brightness. It includes technical specifications of the imaging setup, exposure details, and the image processing workflow used to overcome heavy light pollution.",
+      "summary_zh": "這篇文章分享了旋渦星系 NGC 7497 的天文攝影作品，特別指出了前景星雲及其極低的表面亮度。內容包含了設備規格、曝光數據以及克服嚴重光害後的影像處理流程。",
+      "keywords": [
+        "astrophotography",
+        "NGC 7497",
+        "nebula",
+        "imaging",
+        "surface brightness"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on presenting a specific astrophotography capture, including technical data, equipment specs, and imaging results.",
+      "pacer_reason_zh": "內容重點在於展示具體的天文攝影成果，並提供了器材規格、曝光數據及影像處理參數等實證資訊。"
+    },
+    {
+      "id": "3293d2845978c618",
+      "title": "Quoting Kimi K3",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-17T13:43:53.000Z",
+      "summary_en": "This post highlights a brief exchange with the Kimi K3 AI model. It captures the AI's refusal to disclose its system prompt in response to a user query.",
+      "summary_zh": "這篇文章紀錄了與 Kimi K3 AI 模型的一段簡短互動。內容展示了該 AI 在面對使用者試圖獲取系統提示詞時的拒絕回應。",
+      "keywords": [
+        "Kimi K3",
+        "AI",
+        "LLMs",
+        "system prompt",
+        "generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "It serves as a primary source evidence of an AI's behavior and response pattern during a specific interaction.",
+      "pacer_reason_zh": "這是一份關於 AI 在特定互動中行為與反應模式的原始證據紀錄。"
+    },
+    {
+      "id": "1371fbba18fd875e",
+      "title": "LLM cliché highlighter",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-17T12:11:11.000Z",
+      "summary_en": "Simon Willison developed a tool to detect and highlight common cliches frequently found in LLM-generated text. The app helps users identify repetitive patterns and predictable writing styles often associated with generative AI.",
+      "summary_zh": "Simon Willison 開發了一款工具，用於檢測並標記大型語言模型（LLM）生成的文本中常見的陳腔濫調。該應用程式能協助使用者識別生成式 AI 內容中重複出現的寫作模式與套路。",
+      "keywords": [
+        "LLM",
+        "Generative AI",
+        "Writing Tools",
+        "AI Detection",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific tool designed for a practical task: identifying AI-generated writing cliches.",
+      "pacer_reason_zh": "本文介紹了一款專為特定實用任務設計的工具，即識別 AI 生成寫作中的陳腔濫調。"
+    },
+    {
+      "id": "18ae4ad2083a7eb5",
+      "title": "Spot birds not golf",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-17T02:58:07.000Z",
+      "summary_en": "The author proposes a satirical solution to the massive water consumption of AI data centers by suggesting tech companies replace resource-heavy golf courses with public birdwatching parks. By comparing Google's total water usage to the high consumption of golf courses in the Coachella Valley, the post highlights the significant environmental impact of hyperscalers.",
+      "summary_zh": "作者提出了一種諷刺性的解決方案，建議科技公司將耗水量大的高爾夫球場改建為公共賞鳥公園，以緩解 AI 資料中心帶來的用水壓力。透過比較 Google 的總用水量與 Coachella Valley 高爾夫球場的耗水數據，該文章突顯了大型雲端服務商對環境造成的重大影響。",
+      "keywords": [
+        "AI",
+        "water-usage",
+        "sustainability",
+        "data-centers",
+        "satire"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific data points regarding water consumption from Google's environmental report and local golf course statistics to argue a point.",
+      "pacer_reason_zh": "本文引用了 Google 環境報告與當地高爾夫球場的具體耗水量數據作為論點基礎。"
+    },
+    {
+      "id": "be555f9c5139bca8",
+      "title": "Firefox in WebAssembly",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-16T23:34:16.000Z",
+      "summary_en": "The Puter team has successfully compiled the Firefox browser to run within another browser via WebAssembly. This technical achievement relies on a WebSocket proxy to bypass browser network limitations while maintaining end-to-end encryption for HTTPS traffic.",
+      "summary_zh": "Puter 團隊成功將 Firefox 編譯為可在瀏覽器中運行的 WebAssembly 版本，實現了「瀏覽器中的瀏覽器」。該專案利用 WebSocket 代理突破了瀏覽器的網路連線限制，同時確保 HTTPS 流量維持端對端加密。",
+      "keywords": [
+        "WebAssembly",
+        "Firefox",
+        "Puter",
+        "browser-in-browser",
+        "Wisp"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific technical experiment and demonstration of running Firefox in WebAssembly, providing details on the implementation, infrastructure, and outcomes.",
+      "pacer_reason_zh": "本文介紹了一項將 Firefox 運行於 WebAssembly 的技術實驗，並提供了關於其實作方式、架構需求及運行結果的具體案例分析。"
+    },
+    {
+      "id": "309289caeb35d554",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-16T14:57:39.000Z",
+      "summary_en": "Simon Willison introduces a web tool that converts Mermaid diagrams into ASCII art by compiling a Go library to WebAssembly. The new tool offers enhanced features, including support for colored diagram elements.",
+      "summary_zh": "Simon Willison 介紹了一款將 Mermaid 圖表轉換為 ASCII 藝術的網頁工具，該工具透過將 Go 語言函式庫編譯為 WebAssembly 實現。此版本新增了對彩色圖表元素的支援。",
+      "keywords": [
+        "Mermaid",
+        "ASCII",
+        "WebAssembly",
+        "Go",
+        "Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on a specific utility tool and its implementation, serving as a showcase for a functional web application.",
+      "pacer_reason_zh": "內容重點在於介紹實用工具及其應用方式，展示了具備實際功能的網頁應用程式。"
+    },
     {
       "id": "d770897fbcf7c974",
       "title": "i've started drawing again",

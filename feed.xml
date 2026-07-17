@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 16 Jul 2026 22:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:36:31 GMT</lastBuildDate>
     
+    <item>
+      <title>Podcast Notes: Iain McGilchrist on “The Great Simplification”</title>
+      <link>https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/</link>
+      <guid>https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/</guid>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post discusses Dr. Iain McGilchrist's perspective on the limitations of science, reason, and AI. It highlights that true breakthroughs, such as those by Einstein, often arise from holistic insights rather than linear logic or algorithms.</description>
+    </item>
+
+    <item>
+      <title>The Life and Times of Maxis, Part 2: SimWorld</title>
+      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/</link>
+      <guid>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/</guid>
+      <pubDate>Fri, 17 Jul 2026 15:59:19 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This article explores the history of Maxis Software following the success of SimCity 2000, specifically focusing on the development and reception of their unusual 1994 title, SimHealth. It highlights the company's attempt to branch into serious simulation software during a period of transition.</description>
+    </item>
+
+    <item>
+      <title>Plumbing Homebrew into the vulnerability ecosystem</title>
+      <link>https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</link>
+      <guid>https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author details the development of 'brew-vulns,' a tool for Homebrew that integrates CVE scanning by leveraging the OSV.dev database. The project evolved from a personal gem into a native feature in Homebrew, requiring technical adjustments like API pagination, data sanitization, and handling formula-specific patches.</description>
+    </item>
+
+    <item>
+      <title>Visualizing Medical Code Hierarchy</title>
+      <link>https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/</guid>
+      <pubDate>Fri, 17 Jul 2026 16:12:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post demonstrates how to use Python's squarify library to visualize the structure of medical coding systems. It provides treemaps comparing the distribution of HCPCS and ICD-10 codes based on their starting characters.</description>
+    </item>
+
+    <item>
+      <title>Regular expressions for HCPCS codes</title>
+      <link>https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:02:52 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explains the structure of HCPCS Level II medical billing codes. It provides regular expressions designed to identify and validate these codes for data processing tasks.</description>
+    </item>
+
+    <item>
+      <title>Regular expression speed and error rates</title>
+      <link>https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</guid>
+      <pubDate>Fri, 17 Jul 2026 11:26:19 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article re-examines the use of regular expressions for matching diagnosis codes, specifically analyzing their performance regarding execution speed and error rates. It discusses the inherent trade-offs, including the risks of false positives and negatives, while acknowledging the practical advantages of regex in certain contexts.</description>
+    </item>
+
+    <item>
+      <title>Why has the display control panel pointer truncation bug gone unfixed for so long?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541</guid>
+      <pubDate>Fri, 17 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post addresses a long-standing display control panel bug involving pointer truncation. It clarifies that a fix has been developed, but explains the logistical challenges preventing its deployment.</description>
+    </item>
+
+    <item>
+      <title>NGC 7497, etc.</title>
+      <link>https://maurycyz.com/astro/ngc7497/</link>
+      <guid>https://maurycyz.com/astro/ngc7497/</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post features an amateur astrophotography capture of the spiral galaxy NGC 7497, highlighting an overlapping foreground nebula with very low surface brightness. It includes technical specifications of the imaging setup, exposure details, and the image processing workflow used to overcome heavy light pollution.</description>
+    </item>
+
+    <item>
+      <title>Quoting Kimi K3</title>
+      <link>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</guid>
+      <pubDate>Fri, 17 Jul 2026 13:43:53 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a brief exchange with the Kimi K3 AI model. It captures the AI's refusal to disclose its system prompt in response to a user query.</description>
+    </item>
+
+    <item>
+      <title>LLM cliché highlighter</title>
+      <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</guid>
+      <pubDate>Fri, 17 Jul 2026 12:11:11 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison developed a tool to detect and highlight common cliches frequently found in LLM-generated text. The app helps users identify repetitive patterns and predictable writing styles often associated with generative AI.</description>
+    </item>
+
+    <item>
+      <title>Spot birds not golf</title>
+      <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</guid>
+      <pubDate>Fri, 17 Jul 2026 02:58:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The author proposes a satirical solution to the massive water consumption of AI data centers by suggesting tech companies replace resource-heavy golf courses with public birdwatching parks. By comparing Google's total water usage to the high consumption of golf courses in the Coachella Valley, the post highlights the significant environmental impact of hyperscalers.</description>
+    </item>
+
+    <item>
+      <title>Firefox in WebAssembly</title>
+      <link>https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 23:34:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The Puter team has successfully compiled the Firefox browser to run within another browser via WebAssembly. This technical achievement relies on a WebSocket proxy to bypass browser network limitations while maintaining end-to-end encryption for HTTPS traffic.</description>
+    </item>
+
+    <item>
+      <title>Mermaid to ASCII art (mermaid-ascii)</title>
+      <link>https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 14:57:39 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces a web tool that converts Mermaid diagrams into ASCII art by compiling a Go library to WebAssembly. The new tool offers enhanced features, including support for colored diagram elements.</description>
+    </item>
+
     <item>
       <title>i've started drawing again</title>
       <link>https://jyn.dev/i-ve-started-drawing-again/</link>
@@ -793,123 +910,6 @@ http://antirez.com/news/169
       <pubDate>Thu, 09 Jul 2026 16:24:09 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison introduces Muse Spark 1.1, Meta's latest model featuring enhanced agentic tool use and an official API. The post highlights the model's evaluation findings and provides a practical guide for accessing it via a new CLI plugin.</description>
-    </item>
-
-    <item>
-      <title>llm-meta-ai 0.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:12:20 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1 of llm-meta-ai. This tool enables users to run prompts against Meta's new muse-spark-1.1 model using the LLM command-line interface.</description>
-    </item>
-
-    <item>
-      <title>llm 0.31.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:06:15 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.31.1 of the LLM command-line utility. This update specifically resolves a JSON error that occurred when OpenAI Chat Completion endpoints returned empty tool call arguments.</description>
-    </item>
-
-    <item>
-      <title>Rewriting Bun in Rust</title>
-      <link>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</guid>
-      <pubDate>Wed, 08 Jul 2026 23:57:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Bun creator Jarred Sumner details the decision to rewrite the Bun runtime from Zig to Rust to solve complex memory management issues. The article explores how AI-powered coding agents made this massive, historically discouraged undertaking possible by automating the translation and verification process.</description>
-    </item>
-
-    <item>
-      <title>Introducing GPT‑Live</title>
-      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</guid>
-      <pubDate>Wed, 08 Jul 2026 23:20:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison reviews the newly released GPT-Live for ChatGPT voice mode, highlighting its improved reasoning capabilities and ability to delegate complex tasks to GPT-5.5. He shares his personal experience with the model, noting its enhanced conversational flow and documenting an interesting anecdote regarding unexpected model behavior.</description>
-    </item>
-
-    <item>
-      <title>The Decline of Deviance 2</title>
-      <link>https://www.experimental-history.com/p/the-decline-of-deviance-2</link>
-      <guid>https://www.experimental-history.com/p/the-decline-of-deviance-2</guid>
-      <pubDate>Wed, 08 Jul 2026 16:10:54 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This article explores the shifting social dynamics regarding non-conformity and individual expression in contemporary culture. It analyzes how societal standards of deviance have evolved and what this means for personal authenticity.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 511: Live from my Riad in Marrakech</title>
-      <link>https://www.troyhunt.com/weekly-update-511/</link>
-      <guid>https://www.troyhunt.com/weekly-update-511/</guid>
-      <pubDate>Wed, 08 Jul 2026 13:54:46 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt shares a personal update from Marrakech while addressing the ongoing challenge of data breach management. He uses the metaphor of trying to remove urine from a swimming pool to illustrate the difficulty of containing leaked personal information.</description>
-    </item>
-
-    <item>
-      <title>Family Feud: Mac-assed Mac App Edition</title>
-      <link>https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</link>
-      <guid>https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</guid>
-      <pubDate>Wed, 08 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post uses a 'Family Feud' game show format to critique why large, wealthy tech companies often release 'Electron' apps instead of high-quality, native macOS applications. The author suggests a correlation between corporate size and the tendency to prioritize cross-platform convenience over a true native user experience.</description>
-    </item>
-
-    <item>
-      <title>The other kind of control flow guard check: The combined validate and call</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses a specific optimization in Control Flow Guard (CFG) mechanisms where validation and function calls are combined into a single operation. It explains how this dual-purpose approach streamlines security checks in system programming.</description>
-    </item>
-
-    <item>
-      <title>Agents are monads (but not that kind)</title>
-      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
-      <guid>https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The article explores the conceptual relationship between software agents and monads. It humorously attempts to explain complex functional programming abstractions without relying on heavy academic jargon like endofunctors.</description>
-    </item>
-
-    <item>
-      <title>A bug which only affected left-handed users</title>
-      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
-      <guid>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
-      <pubDate>Wed, 08 Jul 2026 11:34:43 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares a humorous reflection on a bug report that specifically affected left-handed users. The post highlights the often-overlooked considerations in user experience design and the challenges of reporting niche accessibility issues.</description>
-    </item>
-
-    <item>
-      <title>And Then the Billionaire Paid Off $550 Million of Our Debts </title>
-      <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
-      <guid>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The article examines the complexities behind billionaire philanthropy, using Evan Spiegel's donation to medical debt and Bill Gates' foundation as examples. The author argues that public acts of charity often come with nuances and structural motives that merit closer scrutiny.</description>
-    </item>
-
-    <item>
-      <title>Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
-      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
-      <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>An investigative report reveals that a cybersecurity startup purchasing zero-day vulnerabilities is led by convicted felons with a history of fraudulent business activities. The article exposes the founders' backgrounds, including their involvement in fake intelligence companies and far-right conspiracy theories.</description>
-    </item>
-
-    <item>
-      <title>Quoting Kenton Varda</title>
-      <link>https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything</guid>
-      <pubDate>Wed, 08 Jul 2026 20:03:34 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Kenton Varda has implemented a moratorium on AI-generated change descriptions within his team's workflow. He argues that AI output often redundantly describes code details while failing to provide the essential high-level context required for effective code reviews.</description>
     </item>
   </channel>
 </rss>

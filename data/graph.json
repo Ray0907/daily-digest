@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "2e93a5bdc66f3670",
+      "title": "Visualizing Medical Code Hierarchy",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/",
+      "pacer": "P",
+      "keywords": [
+        "Python",
+        "squarify",
+        "treemap",
+        "ICD-10",
+        "HCPCS"
+      ],
+      "published": "2026-07-17T16:12:31.000Z"
+    },
+    {
+      "id": "6173003b28032791",
+      "title": "The Life and Times of Maxis, Part 2: SimWorld",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/",
+      "pacer": "C",
+      "keywords": [
+        "Maxis",
+        "SimCity 2000",
+        "SimHealth",
+        "Video Game History",
+        "Simulation"
+      ],
+      "published": "2026-07-17T15:59:19.000Z"
+    },
+    {
+      "id": "2efeec5fab389f5a",
+      "title": "Regular expressions for HCPCS codes",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/",
+      "pacer": "P",
+      "keywords": [
+        "HCPCS",
+        "Regular expressions",
+        "Healthcare",
+        "Data validation",
+        "Medical coding"
+      ],
+      "published": "2026-07-17T14:02:52.000Z"
+    },
+    {
+      "id": "cd95df0b188bda99",
+      "title": "Why has the display control panel pointer truncation bug gone unfixed for so long?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "bug",
+        "display",
+        "software maintenance",
+        "The Old New Thing"
+      ],
+      "published": "2026-07-17T14:00:00.000Z"
+    },
+    {
+      "id": "3293d2845978c618",
+      "title": "Quoting Kimi K3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Kimi K3",
+        "AI",
+        "LLMs",
+        "system prompt",
+        "generative AI"
+      ],
+      "published": "2026-07-17T13:43:53.000Z"
+    },
+    {
+      "id": "1371fbba18fd875e",
+      "title": "LLM cliché highlighter",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "Generative AI",
+        "Writing Tools",
+        "AI Detection",
+        "Simon Willison"
+      ],
+      "published": "2026-07-17T12:11:11.000Z"
+    },
+    {
+      "id": "bf23fe5c7b7f0eb8",
+      "title": "Regular expression speed and error rates",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/07/17/regex-speed-error/",
+      "pacer": "E",
+      "keywords": [
+        "regular expressions",
+        "regex",
+        "diagnosis codes",
+        "performance",
+        "error rates"
+      ],
+      "published": "2026-07-17T11:26:19.000Z"
+    },
+    {
+      "id": "a1ca7bb752e27277",
+      "title": "Plumbing Homebrew into the vulnerability ecosystem",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html",
+      "pacer": "E",
+      "keywords": [
+        "Homebrew",
+        "CVE",
+        "OSV.dev",
+        "vulnerability scanning",
+        "software security"
+      ],
+      "published": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "18ae4ad2083a7eb5",
+      "title": "Spot birds not golf",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "AI",
+        "water-usage",
+        "sustainability",
+        "data-centers",
+        "satire"
+      ],
+      "published": "2026-07-17T02:58:07.000Z"
+    },
+    {
+      "id": "be555f9c5139bca8",
+      "title": "Firefox in WebAssembly",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "WebAssembly",
+        "Firefox",
+        "Puter",
+        "browser-in-browser",
+        "Wisp"
+      ],
+      "published": "2026-07-16T23:34:16.000Z"
+    },
+    {
       "id": "7e3dbb6d4944510c",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "source": "Simon Willison's Weblog",
@@ -15,6 +175,22 @@
         "benchmarks"
       ],
       "published": "2026-07-16T20:19:30.000Z"
+    },
+    {
+      "id": "f24d4c00a9ce500f",
+      "title": "Podcast Notes: Iain McGilchrist on “The Great Simplification”",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/",
+      "pacer": "C",
+      "keywords": [
+        "Iain McGilchrist",
+        "AI",
+        "科學方法",
+        "直觀",
+        "哲學"
+      ],
+      "published": "2026-07-16T19:00:00.000Z"
     },
     {
       "id": "9282c824e3bba6ef",
@@ -33,38 +209,6 @@
       "published": "2026-07-16T18:13:07.000Z"
     },
     {
-      "id": "d8ca3e3a6045eb55",
-      "title": "Quoting Thibault Sottiaux",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "AI",
-        "Codex",
-        "LLMs",
-        "file-deletion",
-        "coding-agents"
-      ],
-      "published": "2026-07-16T17:45:59.000Z"
-    },
-    {
-      "id": "81a3e497914a6826",
-      "title": "Inkling: Our open-weights model",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "Inkling",
-        "Open-weights",
-        "Thinking Machines Lab",
-        "Multimodal",
-        "AI"
-      ],
-      "published": "2026-07-16T15:35:25.000Z"
-    },
-    {
       "id": "f231cd8e300602d5",
       "title": "Speculating on how the buggy control panel extension truncated a value that it had right in front of it",
       "source": "The Old New Thing",
@@ -79,22 +223,6 @@
         "logic error"
       ],
       "published": "2026-07-16T14:00:00.000Z"
-    },
-    {
-      "id": "46c8dc21ff9066cd",
-      "title": "Quoting Linus Torvalds",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "Linus Torvalds",
-        "Linux",
-        "AI",
-        "Open-source",
-        "Software development"
-      ],
-      "published": "2026-07-16T13:26:10.000Z"
     },
     {
       "id": "a27306b918b62b63",
@@ -145,20 +273,20 @@
       "published": "2026-07-16T07:00:00.000Z"
     },
     {
-      "id": "9a7004640b9b2be0",
-      "title": "Mermaid to Unicode box art (grok-mermaid)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-      "pacer": "P",
+      "id": "deaf185e030e2ef8",
+      "title": "NGC 7497, etc.",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/astro/ngc7497/",
+      "pacer": "E",
       "keywords": [
-        "Mermaid",
-        "WebAssembly",
-        "Rust",
-        "Grok",
-        "Unicode"
+        "astrophotography",
+        "NGC 7497",
+        "nebula",
+        "imaging",
+        "surface brightness"
       ],
-      "published": "2026-07-16T00:33:18.000Z"
+      "published": "2026-07-16T00:00:00.000Z"
     },
     {
       "id": "d770897fbcf7c974",
@@ -608,22 +736,6 @@
       "published": "2026-07-12T19:00:00.000Z"
     },
     {
-      "id": "056bc63a0434f90e",
-      "title": "Posterior mean",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/12/posterior-mean/",
-      "pacer": "C",
-      "keywords": [
-        "Bayesian statistics",
-        "posterior mean",
-        "prior belief",
-        "data analysis",
-        "probability"
-      ],
-      "published": "2026-07-12T17:48:14.000Z"
-    },
-    {
       "id": "eca83f316e73c35e",
       "title": "Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks",
       "source": "Terence Eden’s Blog",
@@ -686,22 +798,6 @@
         "wearable"
       ],
       "published": "2026-07-12T00:00:00.000Z"
-    },
-    {
-      "id": "f2193e112b91e354",
-      "title": "Progress on Gilbreath’s conjecture",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/",
-      "pacer": "C",
-      "keywords": [
-        "Gilbreath's conjecture",
-        "prime numbers",
-        "mathematics",
-        "Paul Erdős",
-        "number theory"
-      ],
-      "published": "2026-07-11T21:30:11.000Z"
     },
     {
       "id": "a0325e90ab2ea5b4",
@@ -878,22 +974,6 @@
         "Game Development"
       ],
       "published": "2026-07-10T16:20:37.000Z"
-    },
-    {
-      "id": "125769a894c36cb7",
-      "title": "The case of the mysterious changes to integers when there shouldn’t have been any code generation effect",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514",
-      "pacer": "E",
-      "keywords": [
-        "debugging",
-        "integers",
-        "code generation",
-        "programming",
-        "The Old New Thing"
-      ],
-      "published": "2026-07-10T14:00:00.000Z"
     },
     {
       "id": "39404e835ddcd75d",
@@ -1232,22 +1312,6 @@
       "published": "2026-07-06T22:00:00.000Z"
     },
     {
-      "id": "d4d6f9613ad8cc8d",
-      "title": "Reproducing a geometry theorem diagram",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/",
-      "pacer": "P",
-      "keywords": [
-        "geometry",
-        "mathematics",
-        "visualization",
-        "diagrams",
-        "programming"
-      ],
-      "published": "2026-07-06T14:22:35.000Z"
-    },
-    {
       "id": "911b258a35ad46b8",
       "title": "My blog has moved",
       "source": "Matthew Garrett",
@@ -1390,22 +1454,6 @@
         "technology news"
       ],
       "published": "2026-07-04T12:03:22.000Z"
-    },
-    {
-      "id": "f09d9dc1a2f37c9b",
-      "title": "This Week in Package Management: 4 July 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "package management",
-        "software releases",
-        "dependencies",
-        "security",
-        "developer tools"
-      ],
-      "published": "2026-07-04T10:00:00.000Z"
     },
     {
       "id": "227d120c90d85e26",
@@ -1712,22 +1760,6 @@
       "published": "2026-06-29T22:00:00.000Z"
     },
     {
-      "id": "398fc0fce75eaa82",
-      "title": "Notes from Bryan Cantrill’s “Intelligence is not Enough”",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/",
-      "pacer": "C",
-      "keywords": [
-        "Bryan Cantrill",
-        "Engineering",
-        "Teamwork",
-        "Human Values",
-        "Problem Solving"
-      ],
-      "published": "2026-06-28T19:00:00.000Z"
-    },
-    {
       "id": "3de6e566c817d104",
       "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
       "source": "Ken Shirriff's blog",
@@ -1822,22 +1854,6 @@
         "industry trends"
       ],
       "published": "2026-06-27T12:02:02.000Z"
-    },
-    {
-      "id": "7386a02ead884b3a",
-      "title": "Arp 38: not that peculiar",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/astro/arp38/",
-      "pacer": "E",
-      "keywords": [
-        "Arp 38",
-        "Astronomy",
-        "Astrophotography",
-        "Galaxy",
-        "C9.25"
-      ],
-      "published": "2026-06-27T00:00:00.000Z"
     },
     {
       "id": "43027dd9e764fd81",
@@ -2638,22 +2654,6 @@
         "book review"
       ],
       "published": "2026-06-09T13:00:23.000Z"
-    },
-    {
-      "id": "950fbeaafc65332a",
-      "title": "Planescape: Torment, Part 2: …to the Desktop",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/",
-      "pacer": "C",
-      "keywords": [
-        "Planescape: Torment",
-        "Dungeons & Dragons",
-        "Chris Avellone",
-        "Interplay",
-        "Game History"
-      ],
-      "published": "2026-06-08T15:36:41.000Z"
     },
     {
       "id": "b6a408a625a76dcb",
@@ -4381,16 +4381,6 @@
     }
   ],
   "links": [
-    {
-      "source": "39d60e099749bbfe",
-      "target": "056bc63a0434f90e",
-      "shared_keywords": [
-        "Bayesian statistics",
-        "data analysis",
-        "probability"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "996e0ef5227274d3",
       "target": "b17c85a4c4ea4418",
