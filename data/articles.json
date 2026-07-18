@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-07-17T22:36:31.470Z",
+  "last_updated": "2026-07-18T22:35:42.080Z",
   "articles": [
+    {
+      "id": "eb444adef644f31b",
+      "title": "Make It Work vs. Make It Good",
+      "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-18T19:00:00.000Z",
+      "summary_en": "The author contrasts the immediate gratification of functional development with the often invisible, challenging nature of thoughtful design. While making something work is a binary, impressive achievement, making something 'good' requires deep consideration of quality, accessibility, and intuitiveness that is often overlooked by others.",
+      "summary_zh": "作者對比了開發功能時能獲得的立即成就感，以及設計高品質產品時往往隱而不顯的挑戰。雖然讓東西運作起來是二元且令人印象深刻的，但要讓產品「好用」則需要兼顧品質、易用性與直覺，這些細節往往容易被他人忽略。",
+      "keywords": [
+        "design",
+        "development",
+        "ux",
+        "process",
+        "quality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of the philosophical difference between functional code and quality design.",
+      "pacer_reason_zh": "這篇文章對功能性程式碼與高品質設計之間的哲學差異進行了概念性的探討。"
+    },
+    {
+      "id": "493a62b32afeed19",
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "source": "Max Woolf's Blog",
+      "source_url": "https://minimaxir.com/",
+      "published": "2026-07-18T19:00:00.000Z",
+      "summary_en": "The author discusses the frustration surrounding inconsistent weekly quota resets for AI agents. They analyze the impact of these frequent changes on user experience and productivity.",
+      "summary_zh": "作者探討了近期 AI 代理程式每週配額重置頻率不一所帶來的困擾。文中分析了這些頻繁變動如何影響使用者體驗與生產力。",
+      "keywords": [
+        "AI agents",
+        "quota resets",
+        "user experience",
+        "product design",
+        "technical frustration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining and discussing the concept and implications of a specific system behavior.",
+      "pacer_reason_zh": "內容著重於解釋並探討特定系統行為的概念及其影響。"
+    },
+    {
+      "id": "b197700303c4284c",
+      "title": "The Terminus",
+      "url": "https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-07-17T20:41:40.000Z",
+      "summary_en": "This article explores the anticlimactic nature of highway termini, comparing modern infrastructure endings to historical standards. It uses specific examples like Interstate 64 and U.S. Route 20 to reflect on how massive transportation systems conclude without fanfare.",
+      "summary_zh": "這篇文章探討了高速公路終點往往平淡無奇的特性，並將現代基礎建設的結束方式與歷史標準進行了比較。透過伊利諾州 64 號州際公路和美國 20 號國道等具體案例，反思了龐大的交通系統如何在缺乏慶祝的情況下悄然終止。",
+      "keywords": [
+        "highways",
+        "infrastructure",
+        "interstates",
+        "transportation",
+        "history"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article draws analogies between the mundane endings of modern highways and the more celebratory approach of the ancient Romans.",
+      "pacer_reason_zh": "本文將現代高速公路平淡的終點與古羅馬時期較具儀式感的做法進行了類比分析。"
+    },
+    {
+      "id": "3a2d072bb61c4d95",
+      "title": "Reading List 07/18/26",
+      "url": "https://www.construction-physics.com/p/reading-list-071826",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-18T12:01:57.000Z",
+      "summary_en": "This digest explores current developments in industrial manufacturing and infrastructure, including the stalling of the California Forever project and the challenges of EV battery recycling. It also highlights inefficiencies in defense production and the complexities inherent in manufacturing wire harnesses.",
+      "summary_zh": "本期摘要探討了工業製造與基礎設施的當前進展，包括加州「California Forever」計畫的受阻以及電動車電池回收所面臨的挑戰。內容亦分析了國防軍工生產的低效率問題，以及線束製造過程中隱含的複雜性。",
+      "keywords": [
+        "infrastructure",
+        "manufacturing",
+        "EV batteries",
+        "California Forever",
+        "industrial policy"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and brief updates on various industry topics, serving primarily as a reference source.",
+      "pacer_reason_zh": "本文彙整了各類產業主題的連結與簡短更新，主要作為資訊參考來源。"
+    },
+    {
+      "id": "34ab35a455df343b",
+      "title": "This Week in Package Management: 18 July 2026",
+      "url": "https://nesbitt.io/2026/07/18/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-18T10:00:00.000Z",
+      "summary_en": "This roundup covers the latest updates in package management tools as of July 18, 2026. It highlights key release notes for tools like pnpm, Deno, and Homebrew, alongside security fixes for Docker Engine.",
+      "summary_zh": "本篇報導總結了 2026 年 7 月 18 日當週套件管理工具的最新動態。重點介紹了 pnpm、Deno 和 Homebrew 等工具的發布更新，以及 Docker Engine 的安全性修正。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "pnpm",
+        "Deno",
+        "cybersecurity"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing updates, versions, and security releases across various software tools.",
+      "pacer_reason_zh": "本文作為定期參考清單，彙整了各類軟體工具的更新、版本號以及安全修復資訊。"
+    },
+    {
+      "id": "ac4f68083a03d1ef",
+      "title": "Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-18T11:34:18.000Z",
+      "summary_en": "This review of 'A City on Mars' examines the Weinersmiths' skeptical take on space colonization. The author humorously describes the book as a 'demoralizing' but logically sound argument against the immediate feasibility of living on other planets.",
+      "summary_zh": "這篇對《A City on Mars》的書評探討了作者對於太空殖民持有的懷疑論點。作者以幽默的筆調指出，該書雖然被戲稱為「扼殺夢想」，但其針對人類移居外星球可行性的邏輯分析卻非常嚴謹且令人信服。",
+      "keywords": [
+        "A City on Mars",
+        "space colonization",
+        "book review",
+        "Weinersmith",
+        "space exploration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content evaluates the conceptual arguments and logical framework presented in the book regarding space colonization.",
+      "pacer_reason_zh": "內容探討書中針對太空殖民所提出的概念性論點與邏輯架構。"
+    },
+    {
+      "id": "0392ac25abc72b60",
+      "title": "Regressive JPEGs:",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-17T00:00:00.000Z",
+      "summary_en": "This article explains the technical structure of progressive JPEGs, focusing on how they save low-frequency data first to allow images to load gradually. It further explores the potential for manipulating these scan layers to create dynamic, sequential image displays, though notes that modern decoder limitations often restrict this behavior.",
+      "summary_zh": "本文探討了漸進式 JPEG 的技術架構，說明其如何優先儲存低頻數據以實現影像的漸進式載入。文中進一步探討了透過操作掃描層來製作動態連續影像的可能性，並指出由於解碼器的限制，此類應用在實際場景中可能受限。",
+      "keywords": [
+        "JPEG",
+        "Image Processing",
+        "Binary Format",
+        "Progressive Scan",
+        "DCT"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying technical concepts and data structure of the JPEG format and how its progressive loading mechanism functions.",
+      "pacer_reason_zh": "本文旨在解釋 JPEG 格式底層的技術概念與資料結構，並闡述其漸進式載入機制的工作原理。"
+    },
+    {
+      "id": "b38b4ea43037f58e",
+      "title": "SQLite Query Explainer",
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-18T17:19:10.000Z",
+      "summary_en": "Simon Willison has introduced an interactive browser-based tool that simplifies the understanding of complex SQLite query plans. By leveraging Pyodide and WebAssembly, the tool provides automated explanations for EXPLAIN and EXPLAIN QUERY PLAN results.",
+      "summary_zh": "Simon Willison 推出了一款基於瀏覽器的互動式工具，旨在簡化對複雜 SQLite 查詢計畫的理解。該工具透過 Pyodide 和 WebAssembly 技術，為 EXPLAIN 和 EXPLAIN QUERY PLAN 的執行結果提供自動化解釋。",
+      "keywords": [
+        "SQLite",
+        "Query Plan",
+        "WebAssembly",
+        "Pyodide",
+        "Developer Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a specific utility tool for developers to perform a task (explaining query plans).",
+      "pacer_reason_zh": "該內容介紹了一個讓開發者執行特定任務（解釋查詢計畫）的實用工具。"
+    },
+    {
+      "id": "efd351343b074a48",
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-18T06:00:13.000Z",
+      "summary_en": "Anthropic has decided to permanently include the Claude Fable 5 model in its Max and Team Premium subscription plans following competitive pressure from other AI models. While higher-tier subscribers gain access, users on the standard $20/month plan remain excluded from this specific model.",
+      "summary_zh": "受到市場競爭的壓力，Anthropic 決定將 Claude Fable 5 模型永久納入 Max 和 Team Premium 訂閱方案中。儘管高階訂閱者獲得了存取權，但每月 20 美元的標準方案用戶仍無法使用此模型。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "Fable 5",
+        "AI pricing",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the shift in business strategy and product availability for an AI model within the broader context of market competition.",
+      "pacer_reason_zh": "本文旨在解釋 AI 模型在市場競爭背景下的商業策略調整與產品可用性變動。"
+    },
+    {
+      "id": "8d4229547b886f24",
+      "title": "nascheme/quixote",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-18T05:27:49.000Z",
+      "summary_en": "The Quixote web framework, a vintage Python tool with over 20 years of history, recently received a new commit. This highlights the longevity and continued, albeit sparse, maintenance of older software projects.",
+      "summary_zh": "擁有超過 20 年歷史的 Python 網頁框架 Quixote 近期出現了新的代碼提交。這展示了老牌軟體專案在長期維護上的韌性與歷史價值。",
+      "keywords": [
+        "Quixote",
+        "Python",
+        "web-frameworks",
+        "software-history",
+        "open-source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual look at the history and status of a legacy software framework.",
+      "pacer_reason_zh": "本文從概念上介紹了老牌軟體框架的歷史背景與現狀。"
+    },
+    {
+      "id": "4c9fda15759ba22d",
+      "title": "Overtraining as the path to human-like AI",
+      "url": "https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-18T00:00:00.000Z",
+      "summary_en": "This article explores the theory that pushing AI models to their limits through overtraining is essential for achieving human-like cognitive capabilities. It examines the relationship between computational scale, training intensity, and the emergent properties of large language models.",
+      "summary_zh": "本文探討了透過「過度訓練」將 AI 模型推向極限，是實現類人認知能力的關鍵路徑。文章分析了運算規模、訓練強度與大型語言模型湧現能力之間的關係。",
+      "keywords": [
+        "AI",
+        "Overtraining",
+        "Machine Learning",
+        "Scaling Laws",
+        "Artificial Intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on high-level theories and conceptual explanations regarding AI development methodologies.",
+      "pacer_reason_zh": "本文側重於有關 AI 開發方法論的高層次理論與概念性解釋。"
+    },
     {
       "id": "f24d4c00a9ce500f",
       "title": "Podcast Notes: Iain McGilchrist on “The Great Simplification”",

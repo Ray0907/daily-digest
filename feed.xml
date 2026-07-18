@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 17 Jul 2026 22:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:35:42 GMT</lastBuildDate>
     
+    <item>
+      <title>Make It Work vs. Make It Good</title>
+      <link>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</link>
+      <guid>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</guid>
+      <pubDate>Sat, 18 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author contrasts the immediate gratification of functional development with the often invisible, challenging nature of thoughtful design. While making something work is a binary, impressive achievement, making something 'good' requires deep consideration of quality, accessibility, and intuitiveness that is often overlooked by others.</description>
+    </item>
+
+    <item>
+      <title>What's the deal with all the random weekly quota resets for agents lately?</title>
+      <link>https://minimaxir.com/2026/07/agent-quota-reset/</link>
+      <guid>https://minimaxir.com/2026/07/agent-quota-reset/</guid>
+      <pubDate>Sat, 18 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://minimaxir.com/">Max Woolf's Blog</source>
+      <description>The author discusses the frustration surrounding inconsistent weekly quota resets for AI agents. They analyze the impact of these frequent changes on user experience and productivity.</description>
+    </item>
+
+    <item>
+      <title>The Terminus</title>
+      <link>https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</link>
+      <guid>https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</guid>
+      <pubDate>Fri, 17 Jul 2026 20:41:40 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the anticlimactic nature of highway termini, comparing modern infrastructure endings to historical standards. It uses specific examples like Interstate 64 and U.S. Route 20 to reflect on how massive transportation systems conclude without fanfare.</description>
+    </item>
+
+    <item>
+      <title>Reading List 07/18/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-071826</link>
+      <guid>https://www.construction-physics.com/p/reading-list-071826</guid>
+      <pubDate>Sat, 18 Jul 2026 12:01:57 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This digest explores current developments in industrial manufacturing and infrastructure, including the stalling of the California Forever project and the challenges of EV battery recycling. It also highlights inefficiencies in defense production and the complexities inherent in manufacturing wire harnesses.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 18 July 2026</title>
+      <link>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This roundup covers the latest updates in package management tools as of July 18, 2026. It highlights key release notes for tools like pnpm, Deno, and Homebrew, alongside security fixes for Docker Engine.</description>
+    </item>
+
+    <item>
+      <title>Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</link>
+      <guid>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</guid>
+      <pubDate>Sat, 18 Jul 2026 11:34:18 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review of 'A City on Mars' examines the Weinersmiths' skeptical take on space colonization. The author humorously describes the book as a 'demoralizing' but logically sound argument against the immediate feasibility of living on other planets.</description>
+    </item>
+
+    <item>
+      <title>Regressive JPEGs:</title>
+      <link>https://maurycyz.com/projects/bad_jpeg/</link>
+      <guid>https://maurycyz.com/projects/bad_jpeg/</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This article explains the technical structure of progressive JPEGs, focusing on how they save low-frequency data first to allow images to load gradually. It further explores the potential for manipulating these scan layers to create dynamic, sequential image displays, though notes that modern decoder limitations often restrict this behavior.</description>
+    </item>
+
+    <item>
+      <title>SQLite Query Explainer</title>
+      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</guid>
+      <pubDate>Sat, 18 Jul 2026 17:19:10 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has introduced an interactive browser-based tool that simplifies the understanding of complex SQLite query plans. By leveraging Pyodide and WebAssembly, the tool provides automated explanations for EXPLAIN and EXPLAIN QUERY PLAN results.</description>
+    </item>
+
+    <item>
+      <title>Claude make Fable 5 permanent</title>
+      <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
+      <pubDate>Sat, 18 Jul 2026 06:00:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has decided to permanently include the Claude Fable 5 model in its Max and Team Premium subscription plans following competitive pressure from other AI models. While higher-tier subscribers gain access, users on the standard $20/month plan remain excluded from this specific model.</description>
+    </item>
+
+    <item>
+      <title>nascheme/quixote</title>
+      <link>https://simonwillison.net/2026/Jul/18/quixote/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/18/quixote/#atom-everything</guid>
+      <pubDate>Sat, 18 Jul 2026 05:27:49 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The Quixote web framework, a vintage Python tool with over 20 years of history, recently received a new commit. This highlights the longevity and continued, albeit sparse, maintenance of older software projects.</description>
+    </item>
+
+    <item>
+      <title>Overtraining as the path to human-like AI</title>
+      <link>https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/</link>
+      <guid>https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the theory that pushing AI models to their limits through overtraining is essential for achieving human-like cognitive capabilities. It examines the relationship between computational scale, training intensity, and the emergent properties of large language models.</description>
+    </item>
+
     <item>
       <title>Podcast Notes: Iain McGilchrist on “The Great Simplification”</title>
       <link>https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/</link>
@@ -811,105 +910,6 @@ http://antirez.com/news/169
       <pubDate>Fri, 10 Jul 2026 09:52:06 GMT</pubDate>
       <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description>Cory Doctorow critiques the AI boom as an ideological project driven by the desire to eliminate human friction from the workplace. He argues that corporations prioritize automation not just for efficiency, but to avoid the complexities and dissent inherent in managing human labor.</description>
-    </item>
-
-    <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything</guid>
-      <pubDate>Fri, 10 Jul 2026 17:05:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Nilay Patel argues that the hardware limitations of augmented reality glasses necessitate constant cloud-based data processing, creating an inevitable conflict with user privacy. He suggests that the societal costs of these trade-offs may be too high, potentially warranting a halt to the development of such devices.</description>
-    </item>
-
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:57 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights the confusion surrounding OpenAI's ChatGPT Work feature. He notes that the official documentation fails to clearly explain how data syncs between cloud, web, and desktop versions.</description>
-    </item>
-
-    <item>
-      <title>QuadRF can spot drones and see WiFi through my wall</title>
-      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>The QuadRF is a powerful phased-array radio device utilizing a Raspberry Pi 5 and FPGA technology to perform advanced signal processing. It demonstrates the capability to track drones and intercept WiFi traffic through walls, highlighting significant privacy and security concerns regarding wireless signals.</description>
-    </item>
-
-    <item>
-      <title>Boxed In</title>
-      <link>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</link>
-      <guid>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</guid>
-      <pubDate>Thu, 09 Jul 2026 17:20:00 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the career limitations that arise when creators impose overly rigid constraints on their work. Using Paul Fusco and his character ALF as a case study, it illustrates how an uncompromising commitment to maintaining an illusion can stifle production and hinder long-term professional opportunities.</description>
-    </item>
-
-    <item>
-      <title>Unboxed: Zig</title>
-      <link>https://nesbitt.io/2026/07/09/unboxed-zig.html</link>
-      <guid>https://nesbitt.io/2026/07/09/unboxed-zig.html</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article provides an analytical overview of the Zig programming language's built-in package manager. It explains the roles of the build.zig and build.zig.zon files, detailing how Zig manages dependencies through content hashes and restricted object notation.</description>
-    </item>
-
-    <item>
-      <title>I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</guid>
-      <pubDate>Thu, 09 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains that fixing a #pragma detect_mismatch error requires more than just changing the code. You must perform a full rebuild of all project dependencies to ensure the fix propagates correctly.</description>
-    </item>
-
-    <item>
-      <title>The console wars have been lost</title>
-      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
-      <guid>https://xeiaso.net/notes/2026/console-wars-lost/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The blog post argues that Valve has effectively won the console wars through passive strategy. Rather than competing directly with traditional console manufacturers, Valve focused on building an open, hardware-agnostic platform.</description>
-    </item>
-
-    <item>
-      <title>Arp 90</title>
-      <link>https://maurycyz.com/astro/arp90/</link>
-      <guid>https://maurycyz.com/astro/arp90/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post provides technical imaging details and processing steps for the interacting galaxy pair Arp 90. It includes specific gear configurations, exposure data, and a summary of the image calibration and stacking workflow.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Post-political (09 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/08/wilhoitian/</link>
-      <guid>https://pluralistic.net/2026/07/08/wilhoitian/</guid>
-      <pubDate>Thu, 09 Jul 2026 06:37:55 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow critiques the concept of post-politics and the 'horseshoe theory,' arguing that these ideas create a dangerous false equivalence between left and right. He asserts that modern political divisions represent substantive, life-and-death disagreements rather than mere tribalism or cultural signaling.</description>
-    </item>
-
-    <item>
-      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
-      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 19:46:38 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>OpenAI has released the GPT-5.6 family of models, including Luna, Terra, and Sol, which feature a 1-million-token context window and improved agentic performance. While these models offer significant cost efficiencies and high scores on long-running workflow benchmarks, they demonstrate varied performance on coding tasks like SWE-Bench Pro.</description>
-    </item>
-
-    <item>
-      <title>Introducing Muse Spark 1.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:24:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces Muse Spark 1.1, Meta's latest model featuring enhanced agentic tool use and an official API. The post highlights the model's evaluation findings and provides a practical guide for accessing it via a new CLI plugin.</description>
     </item>
   </channel>
 </rss>
