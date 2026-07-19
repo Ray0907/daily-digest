@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-07-18T22:35:42.080Z",
+  "last_updated": "2026-07-19T22:38:36.111Z",
   "articles": [
+    {
+      "id": "f1a8be43df62f509",
+      "title": "Fitting a regular expression to a list of words",
+      "url": "https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-19T19:30:17.000Z",
+      "summary_en": "This article explains how to efficiently search for a list of words using the grep utility. It demonstrates the use of command-line flags to treat input files as lists of literal strings rather than complex regular expressions.",
+      "summary_zh": "本文介紹了如何利用 grep 工具高效搜尋單字列表。透過使用特定的指令旗標，使用者可以將輸入檔案視為字串列表，而非複雜的正規表示式進行處理。",
+      "keywords": [
+        "grep",
+        "regex",
+        "command-line",
+        "search",
+        "utility"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step technical guide on how to use specific command-line flags for a task.",
+      "pacer_reason_zh": "本文針對如何使用特定的命令列旗標來執行任務，提供了實用的技術操作步驟說明。"
+    },
+    {
+      "id": "d5c6be4acc18fc7b",
+      "title": "Sum of low squares",
+      "url": "https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-19T16:41:48.000Z",
+      "summary_en": "This article discusses the mathematical properties of quadratic residues modulo an odd prime number. It explores the distribution of squares within the set of numbers from 1 to p-1 and examines the sum of these values.",
+      "summary_zh": "本文探討了奇質數模運算下二次剩餘的數學特性。文中分析了 1 到 p-1 之間數字作為平方數的分佈情況，並討論了這些數值的總和。",
+      "keywords": [
+        "mathematics",
+        "number theory",
+        "prime numbers",
+        "quadratic residues",
+        "modular arithmetic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a specific mathematical concept and theory regarding prime numbers and squares.",
+      "pacer_reason_zh": "本文旨在解釋關於質數與平方數的特定數學概念與理論。"
+    },
+    {
+      "id": "746ff2a79bb880c4",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-19T05:06:21.000Z",
+      "summary_en": "This post highlights the irrational 'AI mania' within large corporations, where executives and employees prioritize superficial AI adoption to maintain appearances and professional security. It details how social and corporate pressures create a cycle of dishonesty, where questioning the feasibility of AI gains risks damaging business relationships.",
+      "summary_zh": "本文探討了大型企業中非理性的「人工智慧狂熱」，指出高管與員工為了維護形象與職位，盲目推動不切實際的 AI 策略。文章揭示了企業間為了維護合約與互信，不得不配合誇大 AI 成效的社會壓力，導致誠實評估變得極其困難。",
+      "keywords": [
+        "AI",
+        "corporate culture",
+        "artificial intelligence",
+        "business strategy",
+        "productivity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific, anecdotal evidence and case-study-like accounts from industry insiders to illustrate the current state of corporate AI adoption.",
+      "pacer_reason_zh": "文章引用業界人士的具體軼事與案例研究，以此說明當前企業在採用人工智慧時的真實狀況。"
+    },
+    {
+      "id": "eb24893336d648f2",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-19T03:54:09.000Z",
+      "summary_en": "Simon Willison investigates whether the latest version of Claude Code has transitioned to using the new Rust-based Bun runtime. By inspecting binary strings, he confirms that Claude Code is indeed shipping with a preview version of Bun built in Rust.",
+      "summary_zh": "Simon Willison 探討了最新版本的 Claude Code 是否已改用以 Rust 編寫的 Bun 執行環境。透過檢查二進位檔案字串，他證實了 Claude Code 確實內建了 Rust 版 Bun 的預覽版本。",
+      "keywords": [
+        "Claude Code",
+        "Bun",
+        "Rust",
+        "runtime",
+        "software engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The author uses technical evidence, including command-line inspection of binaries, to verify a software architectural change.",
+      "pacer_reason_zh": "作者透過執行指令檢查二進位檔案等技術證據，來驗證軟體架構的變更。"
+    },
+    {
+      "id": "ea5ddfd54530efb6",
+      "title": "Impro is a handbook for running a cult",
+      "url": "https://seangoedecke.com/impro/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-19T00:00:00.000Z",
+      "summary_en": "This article explores Keith Johnstone's book 'Impro' as a metaphorical manual for organizing and managing cult-like groups. It examines the psychological and social dynamics used to foster deep commitment and group cohesion.",
+      "summary_zh": "本文探討了 Keith Johnstone 的著作《Impro》如何作為組織和管理類邪教團體的隱喻手冊。文章分析了用以建立深度承諾與群體凝聚力的心理與社會機制。",
+      "keywords": [
+        "Impro",
+        "Keith Johnstone",
+        "cult dynamics",
+        "social psychology",
+        "group behavior"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the framework of a theatrical handbook to draw analogies to the social structures of cults.",
+      "pacer_reason_zh": "本文利用戲劇手冊的框架，對邪教組織的社會結構進行了類比分析。"
+    },
     {
       "id": "eb444adef644f31b",
       "title": "Make It Work vs. Make It Good",
