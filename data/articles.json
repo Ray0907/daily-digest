@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-19T22:38:36.111Z",
+  "last_updated": "2026-07-20T22:43:49.930Z",
   "articles": [
+    {
+      "id": "3f42ae0df443f983",
+      "title": "Why I Stopped \"Creating Content\"",
+      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "source": "Refactoring English",
+      "source_url": "https://refactoringenglish.com/",
+      "published": "2026-07-20T00:00:00.000Z",
+      "summary_en": "The author reflects on the enduring power of Michelangelo’s David, arguing that high-quality, meaningful work transcends the fleeting nature of modern digital content. They suggest that true artistic impact lies in craftsmanship that captures attention naturally, rather than the relentless pursuit of volume.",
+      "summary_zh": "作者透過對米開朗基羅《大衛像》的體悟，探討了超越當代數位內容速食文化的深度價值。文章指出，真正的影響力來自於能引起共鳴的匠心之作，而非一味追求流量與頻率的內容產出。",
+      "keywords": [
+        "content creation",
+        "craftsmanship",
+        "attention economy",
+        "art",
+        "minimalism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on a conceptual shift in how we define and value content, using a philosophical reflection rather than a guide or data analysis.",
+      "pacer_reason_zh": "本文探討了內容定義與價值觀的概念性轉變，透過哲學反思而非教學指南或數據分析來闡述觀點。"
+    },
+    {
+      "id": "f2a7dec77fa6aba5",
+      "title": "OpenTK: nu ook met Internetconsultaties & notificaties",
+      "url": "https://berthub.eu/articles/posts/opentk-internetconsultaties/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-20T11:37:00.000Z",
+      "summary_en": "OpenTK is a platform developed by Bert Hubert to increase transparency in the Dutch House of Representatives by tracking legislative activities. The service provides timely email notifications to help citizens and professionals stay informed about relevant legal developments.",
+      "summary_zh": "OpenTK 是由 Bert Hubert 開發的平台，旨在提升荷蘭眾議院的透明度，追蹤各項立法動態。該服務提供及時的電子郵件通知，協助公民與專業人士掌握關鍵的法律進展。",
+      "keywords": [
+        "OpenTK",
+        "Bert Hubert",
+        "透明度",
+        "Tweede Kamer",
+        "通知系統"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the concept and purpose of the OpenTK platform in monitoring legislative processes.",
+      "pacer_reason_zh": "文章解釋了 OpenTK 平台監測立法流程的概念與目的。"
+    },
+    {
+      "id": "dc73b4948ca90ff7",
+      "title": "Memory Safety's Hardest Problem",
+      "url": "https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-07-20T00:00:00.000Z",
+      "summary_en": "The article explores the challenge of type confusion in memory-safe programming, illustrating how tagged unions can lead to undefined behavior when pointers are misused. It argues that while niche theoretical issues exist, the industry should prioritize fixing common, exploitable errors like buffer overflows through language-level bounds checking.",
+      "summary_zh": "本文探討了記憶體安全編程中的型別混淆挑戰，展示了在指標使用不當時，標記聯集（tagged union）如何導致未定義行為。作者認為，雖然存在一些小眾的理論問題，但業界應優先透過語言層級的邊界檢查，來解決如緩衝區溢位等常見且具可利用性的漏洞。",
+      "keywords": [
+        "memory safety",
+        "type confusion",
+        "zig",
+        "buffer overflow",
+        "programming language design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theoretical limitations of memory safety models and the conceptual trade-offs in programming language design.",
+      "pacer_reason_zh": "本文討論了記憶體安全模型的理論限制，以及程式語言設計中的概念性權衡。"
+    },
+    {
+      "id": "a62a0cb50ace957b",
+      "title": "Volume to Area ratio for Regular Solids",
+      "url": "https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-20T14:35:21.000Z",
+      "summary_en": "This article explores the geometric relationship between the volume and surface area of spheres and regular solids. It demonstrates that the ratio of volume to area remains consistent across different regular polyhedra when using the radius of an inscribed sphere.",
+      "summary_zh": "本文探討了球體與正多面體在體積與表面積之間的幾何關係。文章指出，當使用內切球半徑作為參考時，所有正多面體的體積與表面積之比具有驚人的一致性。",
+      "keywords": [
+        "geometry",
+        "volume",
+        "surface area",
+        "regular solids",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a mathematical concept and the relationship between geometric properties.",
+      "pacer_reason_zh": "內容旨在解釋數學概念以及幾何屬性之間的理論關係。"
+    },
+    {
+      "id": "2b8960e713c619b2",
+      "title": "Solving a chess puzzle with Grok 4.5",
+      "url": "https://www.johndcook.com/blog/2026/07/20/grok-chess/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-20T14:33:31.000Z",
+      "summary_en": "John D. Cook explores the performance of Grok 4.5 in solving chess puzzles by generating code. The article demonstrates that Grok 4.5 is surprisingly capable of handling these logical tasks, matching the performance of other leading AI models.",
+      "summary_zh": "John D. Cook 探討了 Grok 4.5 在透過生成程式碼解決西洋棋謎題方面的表現。測試結果顯示，Grok 4.5 在處理此類邏輯任務時表現優異，其能力不亞於其他主流人工智慧模型。",
+      "keywords": [
+        "Grok 4.5",
+        "AI",
+        "chess",
+        "coding",
+        "logic"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an experiment or benchmark test, evaluating the capabilities of a specific AI model through a practical trial.",
+      "pacer_reason_zh": "本文屬於實驗或基準測試，透過實際案例評估特定人工智慧模型在解決問題時的能力。"
+    },
+    {
+      "id": "05e82bfde7fd0e67",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-20T14:00:00.000Z",
+      "summary_en": "This article introduces the process of creating an agile Windows Runtime delegate using C++/WinRT. It focuses on the technical implementation of making delegates thread-safe and compatible across different contexts.",
+      "summary_zh": "本文介紹如何在 C++/WinRT 中建立敏捷（agile）的 Windows Runtime 委派（delegate）。內容重點在於技術實作，以確保委派在不同執行緒環境下的安全使用與相容性。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Delegate",
+        "Agile",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a series providing technical guidance and implementation steps for developers using C++/WinRT.",
+      "pacer_reason_zh": "本文為系列文章的一部分，旨在為使用 C++/WinRT 的開發者提供技術指導與實作步驟。"
+    },
+    {
+      "id": "b3d901fa5502f189",
+      "title": "Reverse-engineering is cheap now",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-20T19:24:05.000Z",
+      "summary_en": "The article discusses how coding agents significantly lower the barrier for reverse-engineering home devices by reducing development costs. As programming becomes cheaper, the psychological and practical risks of maintaining or replacing unstable code are greatly minimized, shifting the ROI for automation projects.",
+      "summary_zh": "本文探討了程式編寫代理工具（coding agents）如何降低逆向工程家電的門檻，大幅減少開發成本。隨著程式編寫成本降低，維護或替換不穩定程式碼所帶來的心理負擔與風險也隨之大幅下降，進而改變了自動化專案的投資報酬評估。",
+      "keywords": [
+        "reverse-engineering",
+        "coding-agents",
+        "automation",
+        "generative-ai",
+        "ROI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical perspective on how the emergence of coding agents is shifting the conceptual framework of software development ROI.",
+      "pacer_reason_zh": "本文提供了分析觀點，闡述了程式編寫代理的興起如何改變軟體開發投資報酬率的概念框架。"
+    },
+    {
+      "id": "7ca284d7d58869e9",
+      "title": "Who’s Afraid of Chinese Models?",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-20T17:09:19.000Z",
+      "summary_en": "This post discusses Ben Thompson's proposal for U.S. policy reform to legalize AI model distillation and define training on unlicensed data as fair use to boost competitiveness. It also explores how geopolitical shifts, such as Xi Jinping's recent endorsement of open-source collaboration, may be influencing the release strategies of Chinese AI models like Qwen.",
+      "summary_zh": "本文探討了 Ben Thompson 關於美國應修法的建議，主張應將 AI 模型訓練視為合理使用（fair use）並禁止限制模型蒸餾，以提升產業競爭力。此外，文章也分析了中國政府對開源協作的政策轉向，如何可能影響如 Qwen 等中國 AI 模型的開放策略。",
+      "keywords": [
+        "AI",
+        "generative-ai",
+        "llms",
+        "distillation",
+        "open-source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on analyzing theoretical policy proposals and interpreting the strategic motivations behind global AI model release decisions.",
+      "pacer_reason_zh": "內容主要聚焦於分析政策理論建議，並解讀全球 AI 模型發布決策背後的策略動機。"
+    },
+    {
+      "id": "f8697401d95d0607",
+      "title": "Quoting Sam Altman",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-20T03:47:59.000Z",
+      "summary_en": "This post features a leaked email from Sam Altman to the OpenAI board in 2022 discussing open-source strategy. The email reveals concerns about preventing competitors from securing funding by releasing a capable, locally-run language model.",
+      "summary_zh": "這篇文章引用了 Sam Altman 於 2022 年發給 OpenAI 董事會的電子郵件，討論其開源策略。郵件內容揭露了 OpenAI 當時計畫透過發布可在消費級硬體上運行的模型，以阻礙競爭對手獲得融資的策略考量。",
+      "keywords": [
+        "OpenAI",
+        "Sam Altman",
+        "Open Source",
+        "LLM",
+        "AI Strategy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content provides primary source evidence regarding OpenAI's past strategic decision-making process.",
+      "pacer_reason_zh": "內容提供了關於 OpenAI 過去戰略決策過程的原始證據。"
+    },
     {
       "id": "f1a8be43df62f509",
       "title": "Fitting a regular expression to a list of words",

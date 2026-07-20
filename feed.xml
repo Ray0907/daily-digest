@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 19 Jul 2026 22:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:43:50 GMT</lastBuildDate>
     
+    <item>
+      <title>Why I Stopped &quot;Creating Content&quot;</title>
+      <link>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</link>
+      <guid>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://refactoringenglish.com/">Refactoring English</source>
+      <description>The author reflects on the enduring power of Michelangelo’s David, arguing that high-quality, meaningful work transcends the fleeting nature of modern digital content. They suggest that true artistic impact lies in craftsmanship that captures attention naturally, rather than the relentless pursuit of volume.</description>
+    </item>
+
+    <item>
+      <title>OpenTK: nu ook met Internetconsultaties &amp; notificaties</title>
+      <link>https://berthub.eu/articles/posts/opentk-internetconsultaties/</link>
+      <guid>https://berthub.eu/articles/posts/opentk-internetconsultaties/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:37:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>OpenTK is a platform developed by Bert Hubert to increase transparency in the Dutch House of Representatives by tracking legislative activities. The service provides timely email notifications to help citizens and professionals stay informed about relevant legal developments.</description>
+    </item>
+
+    <item>
+      <title>Memory Safety's Hardest Problem</title>
+      <link>https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</link>
+      <guid>https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The article explores the challenge of type confusion in memory-safe programming, illustrating how tagged unions can lead to undefined behavior when pointers are misused. It argues that while niche theoretical issues exist, the industry should prioritize fixing common, exploitable errors like buffer overflows through language-level bounds checking.</description>
+    </item>
+
+    <item>
+      <title>Volume to Area ratio for Regular Solids</title>
+      <link>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</guid>
+      <pubDate>Mon, 20 Jul 2026 14:35:21 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the geometric relationship between the volume and surface area of spheres and regular solids. It demonstrates that the ratio of volume to area remains consistent across different regular polyhedra when using the radius of an inscribed sphere.</description>
+    </item>
+
+    <item>
+      <title>Solving a chess puzzle with Grok 4.5</title>
+      <link>https://www.johndcook.com/blog/2026/07/20/grok-chess/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/20/grok-chess/</guid>
+      <pubDate>Mon, 20 Jul 2026 14:33:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>John D. Cook explores the performance of Grok 4.5 in solving chess puzzles by generating code. The article demonstrates that Grok 4.5 is surprisingly capable of handling these logical tasks, matching the performance of other leading AI models.</description>
+    </item>
+
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</guid>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article introduces the process of creating an agile Windows Runtime delegate using C++/WinRT. It focuses on the technical implementation of making delegates thread-safe and compatible across different contexts.</description>
+    </item>
+
+    <item>
+      <title>Reverse-engineering is cheap now</title>
+      <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 19:24:05 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses how coding agents significantly lower the barrier for reverse-engineering home devices by reducing development costs. As programming becomes cheaper, the psychological and practical risks of maintaining or replacing unstable code are greatly minimized, shifting the ROI for automation projects.</description>
+    </item>
+
+    <item>
+      <title>Who’s Afraid of Chinese Models?</title>
+      <link>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 17:09:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post discusses Ben Thompson's proposal for U.S. policy reform to legalize AI model distillation and define training on unlicensed data as fair use to boost competitiveness. It also explores how geopolitical shifts, such as Xi Jinping's recent endorsement of open-source collaboration, may be influencing the release strategies of Chinese AI models like Qwen.</description>
+    </item>
+
+    <item>
+      <title>Quoting Sam Altman</title>
+      <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 03:47:59 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post features a leaked email from Sam Altman to the OpenAI board in 2022 discussing open-source strategy. The email reveals concerns about preventing competitors from securing funding by releasing a capable, locally-run language model.</description>
+    </item>
+
     <item>
       <title>Fitting a regular expression to a list of words</title>
       <link>https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/</link>
@@ -829,87 +910,6 @@ http://antirez.com/news/169
       <pubDate>Sat, 11 Jul 2026 01:42:00 GMT</pubDate>
       <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
       <description>This article explores the mathematical equivalence between the algebraic component definition and the geometric definition of the vector dot product. It provides formal proofs for this relationship using the law of cosines and vector projections.</description>
-    </item>
-
-    <item>
-      <title>AI 2040 and the Cult of Intelligence</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</guid>
-      <pubDate>Sat, 11 Jul 2026 07:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critiques the 'hard takeoff' theory of AI, arguing that theoretical intelligence cannot bypass the physical constraints and logistical complexities of real-world engineering. They emphasize that physical reality, such as supply chains and hardware durability, remains a significant bottleneck that tokens alone cannot resolve.</description>
-    </item>
-
-    <item>
-      <title>Reading List 07/11/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-071126</link>
-      <guid>https://www.construction-physics.com/p/reading-list-071126</guid>
-      <pubDate>Sat, 11 Jul 2026 12:01:33 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated collection of diverse news topics, ranging from socioeconomic shifts and corporate financial performance to infrastructure challenges and technological developments. It serves as a brief overview of current events and systemic issues across various sectors.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 11 July 2026</title>
-      <link>https://nesbitt.io/2026/07/11/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/07/11/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 11 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This roundup covers the latest updates in package management as of July 11, 2026. Key releases include major breaking changes in npm 12.0.0, new registry configuration features in pnpm, security and performance improvements in uv, and various updates for Go, Rust, and winget.</description>
-    </item>
-
-    <item>
-      <title>Prefer STRICT tables in SQLite</title>
-      <link>https://evanhahn.com/prefer-strict-tables-in-sqlite/</link>
-      <guid>https://evanhahn.com/prefer-strict-tables-in-sqlite/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
-      <description>This article advocates for using SQLite's 'STRICT' table feature to enforce rigid data typing. By enabling this option, developers can prevent common errors such as inserting invalid data types into columns and defining tables with incorrect types.</description>
-    </item>
-
-    <item>
-      <title>Progress on Gilbreath’s conjecture</title>
-      <link>https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</guid>
-      <pubDate>Sat, 11 Jul 2026 21:30:11 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article revisits Gilbreath’s conjecture, a mathematical problem involving prime number sequences. It highlights the simplicity and unusual nature of the conjecture, noting historical interest from mathematicians like Paul Erdős.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Workplace &quot;flexibility&quot; isn't (11 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/11/your-risk/</link>
-      <guid>https://pluralistic.net/2026/07/11/your-risk/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:54:28 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>The article critiques the gig economy, arguing that corporate claims of 'flexibility' are actually a method for shifting risks onto workers. It highlights the irony that while these data-driven companies possess granular information on worker earnings and unpaid time, they deliberately keep this data private to obscure their labor practices.</description>
-    </item>
-
-    <item>
-      <title>In defense of not understanding your codebase</title>
-      <link>https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/</link>
-      <guid>https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article argues that it is acceptable and sometimes beneficial for developers to have an incomplete understanding of their entire codebase. It suggests that cognitive focus should be prioritized over the pressure to master every line of system code.</description>
-    </item>
-
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
-      <guid>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:20:37 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>This entry explores the historical and digital significance of 'Henry VI, Part 3,' the fourth installment in a series examining classic software titles. It contextualizes the game's development and its place within the broader landscape of early computing history.</description>
-    </item>
-
-    <item>
-      <title>Adam Brown – A deep but accessible introduction to general relativity</title>
-      <link>https://www.dwarkesh.com/p/adam-brown-gr</link>
-      <guid>https://www.dwarkesh.com/p/adam-brown-gr</guid>
-      <pubDate>Fri, 10 Jul 2026 16:23:56 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>This episode features Adam Brown providing an accessible yet deep introduction to the principles of general relativity. The discussion specifically explores how the unique properties of black holes position them as the ultimate theoretical power plants.</description>
     </item>
   </channel>
 </rss>
