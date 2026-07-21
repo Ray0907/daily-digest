@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-07-20T22:43:49.930Z",
+  "last_updated": "2026-07-21T22:42:42.814Z",
   "articles": [
+    {
+      "id": "952fe0b02821e84e",
+      "title": "Blog Jamboree 2026: The Winners",
+      "url": "https://www.experimental-history.com/p/blog-jamboree-2026-the-winners",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-07-21T14:38:24.000Z",
+      "summary_en": "This post announces the winners of the Blog Jamboree 2026 competition. It highlights the community-driven recognition of high-quality experimental writing.",
+      "summary_zh": "本篇文章宣布了 Blog Jamboree 2026 的獲獎者名單。文章強調了社群對於高品質實驗性寫作的認可與表彰。",
+      "keywords": [
+        "Blog Jamboree",
+        "Awards",
+        "Experimental History",
+        "Writing",
+        "Community"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as an announcement and a list of winners, serving as reference material for the community.",
+      "pacer_reason_zh": "內容主要為獲獎名單的公告與資訊彙整，屬於供社群查詢的參考性質資料。"
+    },
+    {
+      "id": "c8fa033bc62ef040",
+      "title": "Weekly Update 513: Clauding The Home Network",
+      "url": "https://www.troyhunt.com/weekly-update-513/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-07-21T07:30:24.000Z",
+      "summary_en": "This update highlights a project integrating Claude AI with home network management tools like UniFi, Home Assistant, and Pi-Hole. The author demonstrates how AI can effectively synthesize large amounts of noisy network data into actionable insights.",
+      "summary_zh": "本篇週報介紹了將 Claude AI 與 UniFi、Home Assistant 及 Pi-Hole 等家庭網路管理工具整合的專案。作者展示了 AI 如何有效地將大量且雜亂的網路數據轉換為實用的洞察資訊。",
+      "keywords": [
+        "Claude",
+        "AI",
+        "Home Network",
+        "Automation",
+        "Data Synthesis"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on a practical demonstration of integrating specific tools to achieve a functional network management outcome.",
+      "pacer_reason_zh": "內容側重於整合特定工具以實現實際網路管理成果的實作示範。"
+    },
+    {
+      "id": "a6e9ba159f79c641",
+      "title": "10 REM\"_(C2SLFF4",
+      "url": "http://beej.us/blog/data/mystery-comment/",
+      "source": "Beej's Bit Bucket",
+      "source_url": "http://beej.us/blog/",
+      "published": "2026-07-21T00:00:00.000Z",
+      "summary_en": "The author investigates a long-standing technical mystery regarding the BASIC programming language in a retrocomputing context. The post details the process of identifying and resolving this specific historical quirk.",
+      "summary_zh": "作者針對 BASIC 程式語言中一個困擾已久的技術謎團進行了追蹤與研究。本文記錄了在復古運算領域中，探討並解決該歷史性技術問題的過程。",
+      "keywords": [
+        "BASIC",
+        "retrocomputing",
+        "programming",
+        "troubleshooting",
+        "history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining and exploring the conceptual understanding of a specific programming language quirk.",
+      "pacer_reason_zh": "內容重點在於解釋並探索特定程式語言特性的概念性知識。"
+    },
+    {
+      "id": "1a3eb64649953b6a",
+      "title": "For a Business, Should Making (Extra) Money Be Incidental?",
+      "url": "https://simone.org/business-money-incidental/",
+      "source": "Simone Salis",
+      "source_url": "https://simone.org/",
+      "published": "2026-07-21T13:00:00.000Z",
+      "summary_en": "This article explores the ethical philosophy that businesses should prioritize satisfying consumer desires over profit maximization. It argues that commercial success should be an incidental byproduct of providing genuine value rather than the primary goal achieved through exploitation.",
+      "summary_zh": "本文探討了一種商業哲學，主張企業應優先滿足消費者的需求，而非僅將追求利潤最大化作為目標。作者認為，成功的商業模式應透過提供實際價值來自然達成，而非透過剝削手段獲利。",
+      "keywords": [
+        "Business Ethics",
+        "Consumer Needs",
+        "Profit Motive",
+        "Philosophy",
+        "Value Creation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual framework for business ethics and the nature of human-business relationships.",
+      "pacer_reason_zh": "本文提出了一種關於商業倫理以及人類與商業之間關係的觀念性架構。"
+    },
+    {
+      "id": "b42e092afc6eee48",
+      "title": "Kan een Amerikaans bedrijf met encryptie de Amerikaanse overheid buiten de deur houden?",
+      "url": "https://berthub.eu/articles/posts/kan-een-amerikaans-bedrijf-zo-versleutelen-dat-amerikanen-er-niet-bijkunnen/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-21T13:20:00.000Z",
+      "summary_en": "This article discusses the limitations of US-based companies in protecting user data from government overreach. It highlights that legal agreements are insufficient to prevent data handover or service termination, suggesting that robust encryption remains the only viable defense.",
+      "summary_zh": "本文探討了美國企業在面對美國政府數據調取要求時的無奈，指出法律合約無法阻止政府干預或服務中斷。作者強調，在現有的法律框架下，強加密技術是保護隱私的最後防線。",
+      "keywords": [
+        "privacy",
+        "encryption",
+        "US law",
+        "data protection",
+        "cloud computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual reality and systemic limitations of relying on US-based service providers for data privacy.",
+      "pacer_reason_zh": "本文闡述了依賴美國服務供應商在數據隱私保護上所面臨的概念性現實與系統性限制。"
+    },
+    {
+      "id": "46c259d1bfa61566",
+      "title": "Kuiper Q-Q plot: are these the same?",
+      "url": "https://entropicthoughts.com/kuiper-q-q-plot",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-07-20T22:00:00.000Z",
+      "summary_en": "This article explores the use of Kuiper Q-Q plots to visualize and understand differences between probability distributions. It specifically references a study on the variation in scores between treated children and a reference group.",
+      "summary_zh": "本文探討了使用 Kuiper Q-Q 圖來視覺化並理解機率分佈之間的差異。文中具體引用了一個關於受試兒童與對照組之間分數變異數的案例進行分析。",
+      "keywords": [
+        "Kuiper Q-Q plot",
+        "distribution",
+        "data analysis",
+        "statistics",
+        "visualization"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on interpreting statistical distribution data through specific case studies and graphical tools.",
+      "pacer_reason_zh": "內容側重於透過具體案例分析與圖表工具來詮釋統計分佈數據。"
+    },
+    {
+      "id": "76e7fa8386702efe",
+      "title": "–end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-21T10:00:00.000Z",
+      "summary_en": "The article explains the purpose of the git flag --end-of-options, introduced to safely handle untrusted input that might be mistaken for command options. It distinguishes this flag from the traditional -- marker, which git uses to separate revisions from pathspecs, and details its gradual implementation across various git subcommands.",
+      "summary_zh": "本文介紹了 git --end-of-options 旗標，該旗標旨在安全處理可能被誤認為指令選項的不受信任輸入。文章區分了此旗標與傳統 -- 標記的差異（後者在 git 中用於分隔修訂版本與路徑規格），並詳細說明了其在各個 git 子指令中逐步導入的過程。",
+      "keywords": [
+        "git",
+        "command-line",
+        "security",
+        "software-engineering",
+        "devops"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an in-depth explanation of a specific technical concept and its underlying design rationale within the git command-line tool.",
+      "pacer_reason_zh": "本文深入解釋了 git 命令列工具中特定技術概念的運作機制及其背後的設計邏輯。"
+    },
+    {
+      "id": "4f1b6702b2eefb5b",
+      "title": "Forensic accounting in Python",
+      "url": "https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-21T15:05:04.000Z",
+      "summary_en": "This article explores the use of Python for forensic accounting, focusing on reverse-engineering data analyses with ambiguous variables. It demonstrates how to solve for unknown values in systems where only the total sum is known.",
+      "summary_zh": "本文探討如何利用 Python 進行鑑識會計，重點在於針對變數不明確的數據分析進行逆向工程。文中演示了在已知總和的情況下，如何推算系統中各個未知數值的方法。",
+      "keywords": [
+        "forensic accounting",
+        "Python",
+        "data analysis",
+        "reverse engineering",
+        "mathematical modeling"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical approach and methodology for using Python to solve specific data analysis problems.",
+      "pacer_reason_zh": "本文提供了使用 Python 解決特定數據分析問題的實用方法與操作步驟。"
+    },
+    {
+      "id": "fbb6348b4a407cd1",
+      "title": "Locally everywhere does not imply everywhere",
+      "url": "https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-21T12:14:03.000Z",
+      "summary_en": "The article discusses the recent discovery of a counterexample to the Jacobian conjecture using AI tools. It explores the history of mathematician consensus regarding the conjecture and reflects on the broader philosophical implication that local properties do not necessarily guarantee global truths.",
+      "summary_zh": "本文探討了近期利用人工智慧工具發現雅可比猜想反例的事件。作者回顧了數學界對該猜想的普遍看法，並進一步反思了「局部性質不等於全局真理」這一數學與哲學觀點。",
+      "keywords": [
+        "Jacobian conjecture",
+        "Mathematics",
+        "AI",
+        "Counterexample",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual exploration of mathematical conjectures and the philosophical implications of global versus local properties.",
+      "pacer_reason_zh": "內容聚焦於對數學猜想的概念性探討，以及關於局部與全局性質之間關聯的哲學反思。"
+    },
+    {
+      "id": "13d017fb08c47226",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-21T14:00:00.000Z",
+      "summary_en": "This post continues the technical discussion on creating agile versions of Windows Runtime delegates in C++/WinRT. It specifically explores how to optimize the process by short-circuiting the simplest use cases.",
+      "summary_zh": "本文延續了關於在 C++/WinRT 中建立敏捷（agile）Windows Runtime 委派的技術討論。文中特別探討了如何透過捷徑處理最簡單的情況來優化效能。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "delegate",
+        "agile",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific technical implementation steps for handling C++/WinRT delegates.",
+      "pacer_reason_zh": "本文提供了處理 C++/WinRT 委派的具體技術實作步驟。"
+    },
+    {
+      "id": "d999acd42dafbe95",
+      "title": "Public Transport - Don't Make Me Think!",
+      "url": "https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-20T11:34:23.000Z",
+      "summary_en": "The author examines the inconsistent and often frustrating user experience of public transport ticketing systems across various global cities. By applying design principles to urban transit, the post highlights how complex bureaucracy creates unnecessary cognitive load for travelers.",
+      "summary_zh": "作者探討了全球多個城市公共交通票務系統中，極度不一致且令人困惑的使用者體驗。透過應用電腦系統設計原則，文章指出過於複雜的官僚機制為旅客帶來了不必要的認知負擔。",
+      "keywords": [
+        "public transport",
+        "UX design",
+        "user-centred design",
+        "ticketing systems",
+        "urban mobility"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post focuses on the conceptual critique of user experience design and the cognitive load in public service systems.",
+      "pacer_reason_zh": "本文重點在於對使用者體驗設計的概念性批判，以及公共服務系統中認知負擔的探討。"
+    },
+    {
+      "id": "eb7e84fb19b614dd",
+      "title": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers",
+      "url": "https://pluralistic.net/2026/07/21/dickovers/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-21T08:49:18.000Z",
+      "summary_en": "This post discusses 'dickovers,' a term coined by John Gruber for intrusive pop-ups and panels that obscure content to force user interactions like newsletter sign-ups or cookie consent. The author criticizes websites for using these modals as malicious compliance with GDPR and highlights the irony of sites that punish users for using privacy-preserving tools like Global Privacy Control.",
+      "summary_zh": "本文探討了「dickovers」這一術語，指代網站中那些遮擋內容並強迫使用者進行互動（如訂閱電子報或同意 Cookie）的彈出式視窗。作者批評網站利用這些介面進行惡意合規以應對 GDPR，並指出網站反而懲罰那些啟用「全球隱私控制 (GPC)」等隱私保護工具的使用者。",
+      "keywords": [
+        "dickovers",
+        "GDPR",
+        "privacy",
+        "web design",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation and critique of a specific web design pattern ('dickovers') and its relationship to privacy regulations.",
+      "pacer_reason_zh": "本文對特定的網頁設計模式（dickovers）及其與隱私法規之間的關係進行了概念性的解釋與批評。"
+    },
+    {
+      "id": "5c27e4812b384e47",
+      "title": "Expensive Is Just a Brand Now ",
+      "url": "https://idiallo.com/blog/expensive-is-just-branding",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-20T23:00:00.000Z",
+      "summary_en": "The article explores the decoupling of product quality and price, arguing that high prices are increasingly driven by branding rather than manufacturing excellence. It highlights that many luxury and budget goods now share the same supply chains, shifting the focus from tangible build quality to perceived brand value.",
+      "summary_zh": "這篇文章探討了產品品質與價格脫鉤的現象，認為高昂的價格越來越多地由品牌行銷而非製造工藝所驅動。作者指出，許多精品與平價商品如今出自相同的供應鏈，證明價格已不再是反映實際品質的可靠指標。",
+      "keywords": [
+        "branding",
+        "consumerism",
+        "quality",
+        "supply chain",
+        "luxury goods"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how modern market dynamics have shifted the relationship between product pricing and actual manufacturing quality.",
+      "pacer_reason_zh": "這篇文章針對現代市場動態進行了觀念性分析，探討產品定價與實際製造品質之間的關係變化。"
+    },
+    {
+      "id": "1611d485eafec99f",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-21T14:22:27.000Z",
+      "summary_en": "Nativ is a new macOS desktop application that allows users to run vision-LLMs locally using the MLX framework. Developed by Prince Canuma, the app offers both a chat interface and a localhost API server, seamlessly integrating with existing Hugging Face model caches.",
+      "summary_zh": "Nativ 是一款全新的 macOS 桌面應用程式，讓使用者能夠利用 MLX 框架在本地運行視覺大型語言模型 (vision-LLM)。該應用程式由 Prince Canuma 開發，提供聊天介面與本地 API 伺服器，並能無縫整合現有的 Hugging Face 模型快取。",
+      "keywords": [
+        "Nativ",
+        "macOS",
+        "MLX",
+        "Local LLM",
+        "Vision-LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article introduces and explains a new software tool for local AI execution, focusing on what the tool is and its primary features.",
+      "pacer_reason_zh": "本文介紹並解釋了一款用於本地執行 AI 的新軟體工具，重點說明該工具的定義及其核心功能。"
+    },
+    {
+      "id": "07d858f5b61f2e83",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-21T12:54:02.000Z",
+      "summary_en": "Simon Willison hosts a discussion with Anthropic's Claude Code team about the evolution of their AI coding tools and internal development processes. The conversation highlights successful strategies like internal dogfooding and shifts in system prompt engineering for modern LLMs.",
+      "summary_zh": "Simon Willison 與 Anthropic 的 Claude Code 團隊進行對談，探討 AI 程式編寫工具的演進及內部開發流程。對話重點包括「狗糧」測試策略的成功，以及針對現代大型語言模型在系統提示詞工程上的轉變。",
+      "keywords": [
+        "Anthropic",
+        "Claude Code",
+        "AI Engineering",
+        "Dogfooding",
+        "Prompt Engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents insights based on the team's internal development experience, metrics (like 65% PR landing rate), and empirical findings regarding system prompt performance.",
+      "pacer_reason_zh": "本文基於團隊的內部開發經驗、指標數據（如 65% 的 PR 提交率）以及對系統提示詞性能的實證發現，提供了深入見解。"
+    },
     {
       "id": "3f42ae0df443f983",
       "title": "Why I Stopped \"Creating Content\"",
