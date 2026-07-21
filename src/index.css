@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import "./themes/newspaper.css";
 
 @variant dark (&:where(.dark, .dark *));
 
@@ -38,4 +37,41 @@
 		animation-duration: 0.01ms !important;
 		transition-duration: 0.01ms !important;
 	}
+}
+
+/* ── Bookshelf layout (Stripe Press 風) ───────────────────── */
+.shelf-header {
+	position: fixed; top: 0; left: 0; right: 0; z-index: 10;
+	text-align: center; padding: 10vh 1rem 0; pointer-events: none;
+	color: #f5f3ee;
+}
+.shelf-header h1 {
+	font: 400 clamp(28px, 5vw, 56px)/1.05 Georgia, 'Times New Roman', serif;
+	letter-spacing: -0.02em;                 /* 大字負字距 (apple-design 排版) */
+}
+.shelf-header p {
+	margin-top: 0.6em; color: #8a8780;
+	font: 400 14px/1 system-ui, sans-serif;
+	letter-spacing: 0.14em; text-transform: uppercase;
+}
+.shelf-nav {
+	position: fixed; top: 1rem; right: 1rem; z-index: 20;
+	display: flex; gap: 0.5rem;
+	background: rgba(255,255,255,0.06);       /* translucent chrome */
+	backdrop-filter: blur(20px) saturate(160%);
+	border: 1px solid rgba(255,255,255,0.12);
+	border-radius: 99px; padding: 0.35rem 0.5rem;
+}
+.shelf-nav a {
+	color: #d8d5cd; text-decoration: none;
+	font: 500 13px system-ui, sans-serif;
+	padding: 0.35rem 0.8rem; border-radius: 99px;
+	transition: background 160ms ease, color 160ms ease;
+}
+.shelf-nav a:hover { background: rgba(255,255,255,0.12); color: #fff; }
+.shelf-nav a:active { transform: scale(0.97); }  /* 按下回饋 */
+.shelf-loading {
+	min-height: 100vh; display: grid; place-items: center;
+	background: #111015; color: #8a8780;
+	font: 400 15px system-ui, sans-serif;
 }
