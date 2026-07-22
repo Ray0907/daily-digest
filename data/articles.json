@@ -1,6 +1,185 @@
 {
-  "last_updated": "2026-07-21T22:42:42.814Z",
+  "last_updated": "2026-07-22T22:48:57.718Z",
   "articles": [
+    {
+      "id": "ed0f7cc755791df1",
+      "title": "Announcing the Portal open beta",
+      "url": "https://keygen.sh/blog/announcing-portal-open-beta/",
+      "source": "Keygen Blog",
+      "source_url": "https://keygen.sh/blog/",
+      "published": "2026-07-22T05:00:00.000Z",
+      "summary_en": "Keygen has officially launched the open beta for Portal, their new open-source dashboard. This tool is designed to provide users with a centralized interface for managing their software licensing and distribution.",
+      "summary_zh": "Keygen 正式發布了全新開源儀表板 Portal 的公開測試版。該工具旨在為用戶提供一個集中化的介面，以便管理軟體授權與發布。",
+      "keywords": [
+        "Keygen",
+        "Portal",
+        "open source",
+        "dashboard",
+        "software licensing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an introduction and announcement of a new product concept.",
+      "pacer_reason_zh": "本文旨在介紹並公告一項新產品的概念。"
+    },
+    {
+      "id": "04609ffb5ccff902",
+      "title": "When sine of x degrees equals sine of x radians",
+      "url": "https://www.johndcook.com/blog/2026/07/22/degrees-radians/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-22T12:17:11.000Z",
+      "summary_en": "This article explores the specific mathematical conditions where the sine function yields the same value for both degrees and radians. It notes that while these units typically produce different results, there are unique intersections where they coincide.",
+      "summary_zh": "本文探討了在何種數學條件下，正弦函數在角度與弧度下會產生相同的值。文中指出，雖然這兩種單位通常會得出不同的結果，但在某些特定點上它們會重合。",
+      "keywords": [
+        "trigonometry",
+        "sine",
+        "mathematics",
+        "radians",
+        "degrees"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical concept and explores the conditions under which an equality holds.",
+      "pacer_reason_zh": "本文解釋了一個特定的數學概念，並探討了該等式成立的條件。"
+    },
+    {
+      "id": "32e514f425621c05",
+      "title": "Does creatine make you smarter?",
+      "url": "https://dynomight.net/creatine/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-07-22T00:00:00.000Z",
+      "summary_en": "This article debunks common myths surrounding creatine, clarifying that it is a safe, naturally occurring nutrient rather than a dangerous hormone or drug. It reviews scientific literature to refute claims regarding testosterone levels and hair loss, while highlighting the strong evidence supporting its efficacy for strength performance.",
+      "summary_zh": "本文釐清了關於肌酸的常見迷思，指出它是一種安全且天然的營養素，而非危險的荷爾蒙或藥物。文章透過檢視科學研究，駁斥了關於肌酸影響睪固酮與導致掉髮的傳言，並強調了其在增強體力方面的顯著實證支持。",
+      "keywords": [
+        "creatine",
+        "supplements",
+        "health",
+        "fitness",
+        "nutrition"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article relies on scientific consensus, research study reviews, and expert organization statements to validate claims.",
+      "pacer_reason_zh": "本文依賴科學共識、研究文獻回顧以及專業組織的聲明來驗證其論點。"
+    },
+    {
+      "id": "edb9884c0bcf8fec",
+      "title": "Everyone Should Know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-07-22T00:00:00.000Z",
+      "summary_en": "This article explores the fundamental importance of Single Instruction, Multiple Data (SIMD) technology in modern computing. It highlights how understanding SIMD is essential for developers aiming to optimize performance and take full advantage of contemporary processor architectures.",
+      "summary_zh": "本文探討了單指令多重數據（SIMD）技術在現代計算中的基本重要性。文章強調，對於致力於優化效能並充分利用當代處理器架構的開發者而言，理解 SIMD 是不可或缺的知識。",
+      "keywords": [
+        "SIMD",
+        "performance",
+        "optimization",
+        "processor",
+        "computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the core concept of SIMD and its significance in software development.",
+      "pacer_reason_zh": "本文重點在於解釋 SIMD 的核心概念及其在軟體開發中的重要性。"
+    },
+    {
+      "id": "18e314366551ad0e",
+      "title": "Scattered thoughts on social geolocation",
+      "url": "https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-22T11:34:12.000Z",
+      "summary_en": "The author discusses the lack of native social geolocation features in decentralized protocols like ActivityPub and AT Protocol compared to legacy platforms. The post highlights the author's ongoing advocacy for location-sharing capabilities and their engagement with the GeoSocial Task Force to address these gaps.",
+      "summary_zh": "作者探討了與傳統社交平台相比，去中心化協議（如 ActivityPub 和 AT Protocol）在社交地理位置功能上的缺失。文中強調了作者對此議題的持續關注，並分享了他與地理社交工作小組（GeoSocial Task Force）討論相關功能的過程。",
+      "keywords": [
+        "geolocation",
+        "ActivityPub",
+        "AT Protocol",
+        "social media",
+        "decentralization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual limitations of current decentralized social protocols regarding location sharing.",
+      "pacer_reason_zh": "這篇文章探討了當前去中心化社交協議在地理位置分享功能上的概念性侷限。"
+    },
+    {
+      "id": "587ea74f30936f53",
+      "title": "Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/22/table-flipper/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-22T08:58:31.000Z",
+      "summary_en": "This article discusses the decline of American global hegemony, arguing that the Trump administration undermined the international rules-based order that previously favored US interests. Cory Doctorow explores the transition toward a post-American world, suggesting that other nations are now creating new systems because the cost of maintaining the American-led status quo has become unsustainable.",
+      "summary_zh": "本文探討了美國全球霸權的衰落，認為川普政府破壞了原本有利於美國利益的國際規則秩序。柯利·多克托羅（Cory Doctorow）探討了後美國時代的過渡，指出其他國家正致力於建立新的體系，因為維持由美國主導的現狀已變得難以持續。",
+      "keywords": [
+        "geopolitics",
+        "Trump",
+        "international relations",
+        "hegemony",
+        "foreign policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of international political structures and the theory of why nations maintain or abandon global systems.",
+      "pacer_reason_zh": "本文對國際政治結構以及國家為何維持或放棄全球體系的理論提供了概念性分析。"
+    },
+    {
+      "id": "ccdcdc171b72feda",
+      "title": "\nNot just development, distribution of software may change as well\n",
+      "url": "\nhttp://antirez.com/news/170\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-07-22T14:52:39.000Z",
+      "summary_en": "The rise of AI-assisted coding is shifting software distribution from fixed, stable releases to more dynamic, user-customizable models. Users can now leverage AI agents to modify software to fit specific requirements, challenging the traditional binary of stable versus unstable branches.",
+      "summary_zh": "AI 輔助程式編寫正在改變軟體發布模式，從傳統固定的穩定版本轉向更具動態與自訂性的開發方式。使用者現在可以透過 AI 代理程式根據特定需求修改軟體，這挑戰了傳統軟體開發中「穩定版」與「不穩定版」的二分法。",
+      "keywords": [
+        "AI",
+        "Software Distribution",
+        "Open Source",
+        "Coding Agents",
+        "Semver"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores the conceptual shift in software delivery paradigms caused by the integration of AI tools.",
+      "pacer_reason_zh": "本文探討了人工智慧工具整合後，軟體交付範式的概念性轉變。"
+    },
+    {
+      "id": "127a687d7f2f13aa",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-22T01:10:38.000Z",
+      "summary_en": "LG Electronics plans to ban smart TV apps that convert devices into residential proxy nodes following research revealing widespread unauthorized traffic routing. This initiative aims to address significant security vulnerabilities found in nearly half of the apps in LG's webOS store.",
+      "summary_zh": "LG 電子計劃禁止將智慧電視轉變為住宅代理節點的應用程式，此前研究指出該平台應用程式存在嚴重的未經授權流量路由問題。此舉旨在解決 webOS 商店中近半數應用程式所帶來的潛在資安風險。",
+      "keywords": [
+        "LG",
+        "Smart TV",
+        "Residential Proxy",
+        "Cybersecurity",
+        "webOS"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual shift in platform policy regarding security and the definition of app functionality.",
+      "pacer_reason_zh": "本文解釋了平台在資安政策與應用程式功能定義方面的概念性調整。"
+    },
+    {
+      "id": "df0e39d78e6526da",
+      "title": "Open Sauce and GPS time were my summer AI Antiseptics",
+      "url": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-07-22T14:00:00.000Z",
+      "summary_en": "Jeff Geerling reflects on his experience at the Open Sauce event, using it as a refreshing break from the current AI-saturated digital landscape. He shares a personal project where he successfully generated a complete 2141-line MicroPython application for a GPS badge using Claude, without manually editing any code.",
+      "summary_zh": "Jeff Geerling 分享了他參加 Open Sauce 活動的心得，認為這場線下活動是逃離當前 AI 氾濫網路環境的最佳解藥。同時，他展示了自己如何僅透過 AI 模型 Claude 直接生成一段兩千多行的 MicroPython 程式碼，成功完成了一個 GPS 徽章的專案開發。",
+      "keywords": [
+        "Open Sauce",
+        "AI",
+        "MicroPython",
+        "Claude",
+        "GPS"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study or experiment documenting the author's real-world attempt to build software entirely via AI generation.",
+      "pacer_reason_zh": "本文作為一個案例研究，記錄了作者在現實環境中嘗試完全透過 AI 生成軟體的實作過程。"
+    },
     {
       "id": "952fe0b02821e84e",
       "title": "Blog Jamboree 2026: The Winners",
