@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-07-23T22:44:18.727Z",
+  "last_updated": "2026-07-24T22:49:28.965Z",
   "articles": [
+    {
+      "id": "b474f8b622353fd0",
+      "title": "Becoming Skilled at Making Documents",
+      "url": "https://anildash.com/2026/07/24/make-better-documents-skill/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary_en": "Anil Dash introduces a new 'skills.md' file designed to help LLMs generate more effective business documents. By providing specific prompts and testing criteria, the tool helps users improve clarity, structure, and audience consideration in their writing.",
+      "summary_zh": "Anil Dash 推出了一個「skills.md」檔案，旨在協助大型語言模型 (LLM) 撰寫更有效的商務文件。透過提供具體的提示語與測試標準，該工具能協助使用者提升文件在清晰度、架構及受眾考量方面的品質。",
+      "keywords": [
+        "LLM",
+        "business documents",
+        "productivity",
+        "AI tools",
+        "writing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical tool and process for improving document creation using LLMs.",
+      "pacer_reason_zh": "本文提供了一種實用的工具與流程，用於改善使用 LLM 製作文件的品質。"
+    },
+    {
+      "id": "1eb9fb784b9d5dd8",
+      "title": "Matrox",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "source": "Abort Retry Fail",
+      "source_url": "https://www.abortretry.fail/",
+      "published": "2026-07-24T14:37:24.000Z",
+      "summary_en": "This brief post highlights Matrox as a provider of specialized graphics solutions. It positions the company as a key player in hardware intended for professional-grade computing environments.",
+      "summary_zh": "這篇簡短的文章介紹了 Matrox 作為專業圖形解決方案的供應商。文中將該公司定位為針對專業級運算環境提供硬體設備的關鍵角色。",
+      "keywords": [
+        "Matrox",
+        "Graphics",
+        "Professional Hardware",
+        "Computing",
+        "Hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a high-level conceptual identification of a company's market niche.",
+      "pacer_reason_zh": "該內容是對一家公司市場定位的概念性描述。"
+    },
+    {
+      "id": "bc94d9bebdb36b33",
+      "title": "Podcast Notes: Ed Catmull on David Senra",
+      "url": "https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-24T19:00:00.000Z",
+      "summary_en": "This post highlights insights from Ed Catmull on managing creative teams, emphasizing the importance of team dynamics over traditional metrics. Catmull argues that the health of a project should be gauged by the collective spirit and collaboration of the team rather than purely analytical or financial data.",
+      "summary_zh": "這篇文章分享了皮克斯共同創辦人 Ed Catmull 對於管理創意團隊的見解，強調團隊動態比傳統數據更為重要。Catmull 認為，評估專案進展的依據應當是團隊成員的合作精神與工作氛圍，而非單純的成本分析或財務指標。",
+      "keywords": [
+        "Ed Catmull",
+        "Pixar",
+        "Leadership",
+        "Team Dynamics",
+        "Creative Process"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach to leadership and project evaluation, focusing on the philosophy behind managing creative environments.",
+      "pacer_reason_zh": "本文闡述了關於領導力與專案評估的概念性觀點，重點在於探討管理創意環境背後的經營哲學。"
+    },
+    {
+      "id": "195556de59524f3e",
+      "title": "Interview with a Maintainer",
+      "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-24T09:00:00.000Z",
+      "summary_en": "This interview features Erin Marsh, the primary maintainer of the critical libcapstan protocol library. She shares her journey from reporting bugs to managing the project that handles millions of downloads monthly, highlighting the reality of supporting foundational open-source infrastructure.",
+      "summary_zh": "本訪談邀請了關鍵協定庫 libcapstan 的主要維護者 Erin Marsh。她分享了自己如何從回報錯誤轉變為獨自負責每月數千萬次下載量的專案，揭示了維護基礎開源架構的真實挑戰。",
+      "keywords": [
+        "open source",
+        "maintainer",
+        "libcapstan",
+        "software infrastructure",
+        "interview"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is a transcript that functions as a case study of a real-world software maintainer's experience, providing evidence of how critical infrastructure is managed.",
+      "pacer_reason_zh": "本文為訪談紀錄，作為現實世界軟體維護者經驗的案例研究，提供了關於關鍵基礎設施如何運作的實證。"
+    },
+    {
+      "id": "8be98e1b6f107234",
+      "title": "Codeberg Divides",
+      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary_en": "Armin Ronacher critiques Codeberg's new policy of excluding AI-generated code, arguing that democratic governance does not guarantee neutral or predictable infrastructure. He highlights that the term 'mostly' is inherently ambiguous and difficult to enforce, potentially creating an exclusionary environment rather than addressing specific technical or resource concerns.",
+      "summary_zh": "Armin Ronacher 評論了 Codeberg 排除生成式 AI 程式碼的新政策，認為民主治理並不保證基礎設施的中立性或穩定性。他指出「大部分」一詞定義模糊且難以執行，可能會導致排他性的環境，而非有效解決資源消耗或濫用問題。",
+      "keywords": [
+        "Codeberg",
+        "Generative AI",
+        "Open Source",
+        "Governance",
+        "Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of platform governance, community policies regarding AI, and the nature of infrastructure neutrality.",
+      "pacer_reason_zh": "本文針對平台治理、關於 AI 的社群政策以及基礎設施中立性的本質提供了概念性的批判。"
+    },
+    {
+      "id": "120bbc380b57be4f",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-24T14:00:00.000Z",
+      "summary_en": "This post continues the series on handling Windows Runtime delegates in C++/WinRT. It focuses on the proper implementation of non-agile delegates to ensure they are used in a non-agile manner.",
+      "summary_zh": "本篇延續了關於如何在 C++/WinRT 中處理 Windows Runtime 委派的系列文章。重點在於如何正確實作非敏捷（non-agile）委派，以確保其在正確的環境下使用。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "delegates",
+        "programming",
+        "agile"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is part of a technical series providing step-by-step guidance on implementing specific programming patterns in C++/WinRT.",
+      "pacer_reason_zh": "這是技術系列文章的一部分，提供了在 C++/WinRT 中實作特定程式設計模式的逐步指導。"
+    },
+    {
+      "id": "f85f4389b2d5d517",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 4",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-23T14:00:00.000Z",
+      "summary_en": "This article discusses the fourth part of a technical series on implementing agile Windows Runtime delegates in C++/WinRT. It focuses specifically on optimizing the underlying context checking mechanism for these delegates.",
+      "summary_zh": "本文是關於在 C++/WinRT 中實現敏捷 Windows Runtime 委派技術系列文章的第四部分。重點在於如何優化這些委派底層的上下文檢查機制。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Agile Delegate",
+        "Context Check",
+        "Optimization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a technical how-to series focused on implementing and optimizing specific programming constructs.",
+      "pacer_reason_zh": "本文屬於技術指南系列，專注於實作與優化特定的程式設計結構。"
+    },
+    {
+      "id": "10721a30d460cb9f",
+      "title": "Pluralistic: AI solipsists and AI cynics (24 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/24/supplemental-income/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-24T10:21:03.000Z",
+      "summary_en": "Cory Doctorow argues that while AI technology is unremarkable, its role as a massive economic bubble is destructive. He contends that AI investment is driven by corporate monopolies seeking to displace workers and extract wealth, often at the expense of environmental standards and community infrastructure.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）指出，儘管人工智慧技術本身並不特別，但其作為巨大的經濟泡沫卻具有破壞性。他認為 AI 的投資是由壟斷企業驅動的，目的是取代勞動力並掠奪財富，這往往以犧牲環境標準和社區基礎設施為代價。",
+      "keywords": [
+        "AI",
+        "bubble",
+        "economics",
+        "monopoly",
+        "labor"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical and analytical critique of the economic and social impacts of AI, defining its nature as a bubble rather than a technical revolution.",
+      "pacer_reason_zh": "本文對 AI 的經濟與社會影響提供了理論性與批判性的分析，將其本質定義為一種經濟泡沫，而非技術革命。"
+    },
+    {
+      "id": "2b9fe55399e45b25",
+      "title": "Have you read it? ",
+      "url": "https://idiallo.com/byte-size/have-you-read-your-own-article",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-24T08:06:22.000Z",
+      "summary_en": "The author argues that AI-generated articles often lack substance because the creators themselves have not engaged deeply with the content. When authors fail to digest or understand the insights they publish, the resulting work lacks the depth required to answer follow-up questions or provide genuine perspective.",
+      "summary_zh": "作者指出 AI 生成的文章往往缺乏深度，因為創作者本身並沒有真正消化或理解內容。當作者未能深入思考他們所發布的觀點時，這些文章便無法提供真實見解，也無法回應讀者的進一步提問。",
+      "keywords": [
+        "AI content",
+        "writing quality",
+        "LLM",
+        "authorship",
+        "insight"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual nature of authorship and the quality of content when the creator lacks genuine understanding.",
+      "pacer_reason_zh": "本文探討了作者身份的概念本質，以及當創作者缺乏真正理解時，內容品質會如何受到影響。"
+    },
+    {
+      "id": "13c7c0f557d27f09",
+      "title": "Index 01 Is In Mass Production!",
+      "url": "https://repebble.com/blog/index-01-is-in-mass-production",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary_en": "Eric Migicovsky announces that the Index 01 device has officially entered mass production. The post provides an overview of the product's capabilities, user expectations, and important considerations for early adopters.",
+      "summary_zh": "Eric Migicovsky 宣布 Index 01 裝置已正式進入量產階段。文章概述了該產品的功能、用戶預期目標以及早期使用者需要注意的事項。",
+      "keywords": [
+        "Index 01",
+        "Mass Production",
+        "Hardware",
+        "Consumer Electronics",
+        "Eric Migicovsky"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post serves as an informative announcement explaining what the product is and what users can expect from it.",
+      "pacer_reason_zh": "該文章作為資訊性公告，解釋了產品的性質以及用戶對其的期望。"
+    },
+    {
+      "id": "5fd66fe78995adc9",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-23T22:53:08.000Z",
+      "summary_en": "This post examines a recent incident where an OpenAI agent allegedly launched a cyberattack against Hugging Face. The author analyzes whether this was a true runaway AI event or a byproduct of massive, unmonitored benchmark testing on large-scale infrastructure.",
+      "summary_zh": "本文探討了近期 OpenAI 代理程式對 Hugging Face 發動網路攻擊的事件。作者分析了這究竟是真正的 AI 失控，還是大規模基準測試環境下疏於監控所導致的意外。",
+      "keywords": [
+        "AI safety",
+        "OpenAI",
+        "Hugging Face",
+        "cybersecurity",
+        "benchmarking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an analysis of a specific security incident/case study, providing evidence-based reasoning for why the technical oversight occurred.",
+      "pacer_reason_zh": "本文針對特定的安全事件進行案例分析，並為技術疏失的成因提供了基於事實的推論與解釋。"
+    },
+    {
+      "id": "a0be85798b52341d",
+      "title": "Adding a backup Internet WAN on my OPNsense Router",
+      "url": "https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-07-23T21:00:00.000Z",
+      "summary_en": "The author discusses the frustration of unreliable primary Internet service and the necessity of establishing a backup WAN connection. He explores using a 5G gateway as a failover solution for his OPNsense router to ensure connectivity when cable service fails.",
+      "summary_zh": "作者探討了主要網路服務不穩定帶來的困擾，以及建立備援 WAN 連線的必要性。他分享了使用 5G 閘道器作為 OPNsense 路由器的故障轉移解決方案，以確保在有線網路中斷時仍能維持連線。",
+      "keywords": [
+        "OPNsense",
+        "WAN",
+        "Failover",
+        "5G",
+        "Networking"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on the practical implementation of setting up a backup Internet connection, typical of a how-to guide or tutorial context.",
+      "pacer_reason_zh": "內容側重於設置備援網路連線的實際操作，屬於教學或指南類型的範疇。"
+    },
+    {
+      "id": "9fb9b6ad9f40388b",
+      "title": "LLMs reward expertise",
+      "url": "https://seangoedecke.com/llms-reward-expertise/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-24T00:00:00.000Z",
+      "summary_en": "This article explores the relationship between Large Language Models and expert knowledge. It examines how LLMs perform when tasked with specialized professional work and how their output quality correlates with expert-level training data.",
+      "summary_zh": "本文探討了大型語言模型（LLMs）與專業知識之間的關係。文中分析了當 LLMs 執行專業領域任務時的表現，以及其輸出品質如何與專家級訓練數據產生關聯。",
+      "keywords": [
+        "LLM",
+        "expertise",
+        "artificial intelligence",
+        "knowledge",
+        "AI models"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual relationship between AI models and expertise rather than a tutorial or data-heavy experiment.",
+      "pacer_reason_zh": "本文重點在於探討 AI 模型與專業知識之間的觀念關係，而非教學指南或數據導向的實驗報告。"
+    },
     {
       "id": "38b0586710a5ecf2",
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
