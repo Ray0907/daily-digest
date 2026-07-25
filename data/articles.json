@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-07-24T22:49:28.965Z",
+  "last_updated": "2026-07-25T22:41:03.837Z",
   "articles": [
+    {
+      "id": "b77bd88ff48cfc58",
+      "title": "Reading List 07/25/26",
+      "url": "https://www.construction-physics.com/p/reading-list-072526",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-25T14:01:08.000Z",
+      "summary_en": "This digest explores a diverse range of topics, including the impact of China's EV subsidies, the evolving technology of aeroderivative gas turbines, and critical infrastructure concerns like defective roadway guardrails. It also touches upon geopolitical developments such as the potential U.S.-Saudi nuclear agreement.",
+      "summary_zh": "本摘要探討了多項議題，包括中國電動車補貼的影響、航空衍生型燃氣渦輪機的未來發展，以及諸如道路護欄缺陷等關鍵基礎設施問題。同時也涵蓋了美沙核能協議等地緣政治發展動態。",
+      "keywords": [
+        "EV subsidies",
+        "gas turbines",
+        "infrastructure",
+        "geopolitics",
+        "Construction Physics"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and topics for quick reference.",
+      "pacer_reason_zh": "這篇文章作為精選連結與主題列表，旨在供讀者快速參考。"
+    },
+    {
+      "id": "51c15f2d9fa2f5ac",
+      "title": "This Week in Package Management: 25 July 2026",
+      "url": "https://nesbitt.io/2026/07/25/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-25T10:00:00.000Z",
+      "summary_en": "This roundup highlights key updates in package management tools, including performance improvements for opam and pnpm, and new functionality for RubyGems, uv, and mise. The report covers a series of bug fixes, security enhancements, and feature releases from late July 2026.",
+      "summary_zh": "本週總結重點介紹了套件管理工具的最新進展，包括 opam 和 pnpm 的效能優化，以及 RubyGems、uv 和 mise 的功能更新。內容涵蓋了 2026 年 7 月下旬的多項漏洞修復、安全性增強及新功能釋出。",
+      "keywords": [
+        "package management",
+        "RubyGems",
+        "uv",
+        "opam",
+        "pnpm"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software releases and changelogs.",
+      "pacer_reason_zh": "本文屬於定期發布的參考清單，用於彙整軟體更新與版本變更紀錄。"
+    },
+    {
+      "id": "79360276f5589f24",
+      "title": "Excel column numbering",
+      "url": "https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-25T13:37:30.000Z",
+      "summary_en": "The article explores the logic behind Excel's column labeling system, which uses letters to represent column numbers. It clarifies that the system is not a standard base-26 numeral system and explains the underlying mathematical structure.",
+      "summary_zh": "本文探討了 Excel 直欄標籤系統背後的邏輯，這些標籤使用字母來代表直欄編號。文章澄清了該系統並非標準的 26 進位制，並進一步解釋了其底層的數學結構。",
+      "keywords": [
+        "Excel",
+        "spreadsheet",
+        "column numbering",
+        "base-26",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical mathematical structure and logic behind how Excel labels its columns.",
+      "pacer_reason_zh": "本文解釋了 Excel 如何標記其直欄背後的理論數學結構與邏輯。"
+    },
+    {
+      "id": "f4d2b9b8e8e86467",
+      "title": "Pluralistic: Apple's robo-repo (25 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-25T10:41:10.000Z",
+      "summary_en": "This article examines the predatory nature of the 'risk premium' in lending, where financial institutions charge poor borrowers exorbitant interest rates. It critiques how companies exploit vulnerable populations by socializing risk while prioritizing high-interest returns.",
+      "summary_zh": "本文探討了貸款領域中「風險溢價」的掠奪性本質，即金融機構向貧困借款人收取高額利息。文章批評了企業如何透過將風險社會化，同時優先追求高利息回報來剝削弱勢群體。",
+      "keywords": [
+        "finance",
+        "risk premium",
+        "predatory lending",
+        "economic inequality",
+        "debt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how the financial industry structures loan risk and interest rates to exploit vulnerable borrowers.",
+      "pacer_reason_zh": "本文對金融業如何建構貸款風險與利率以剝削弱勢借款人的機制提供了概念性解釋。"
+    },
+    {
+      "id": "f2c8b8dcceb1e560",
+      "title": "\nBeing Linux Torvalds\n",
+      "url": "\nhttp://antirez.com/news/171\n",
+      "source_url": "http://antirez.com/",
+      "published": "2026-07-25T11:20:55.000Z",
+      "summary_en": "The article explores the distinction between Linus Torvalds' technical skill and his true legacy as a leader. It argues that while many programmers can write a kernel, Torvalds' unique impact stemmed from his early transition from active coder to project coordinator and visionary leader.",
+      "summary_zh": "本文探討了林納斯·托瓦茲（Linus Torvalds）的技術實力與其領導地位之間的區別。文章指出，雖然許多開發者都能編寫內核，但托瓦茲真正的成就來自於他早期便從開發者轉型為專案協調者與領袖，確立了 Linux 的發展方向。",
+      "keywords": [
+        "Linus Torvalds",
+        "Linux",
+        "Leadership",
+        "Open Source",
+        "Kernel Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of what defines Linus Torvalds' success, distinguishing between technical implementation and project leadership.",
+      "pacer_reason_zh": "本文針對林納斯·托瓦茲的成功關鍵進行了概念性分析，區分了技術實作與專案領導能力之間的差異。"
+    },
+    {
+      "id": "25a79f33334f2b0e",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-25T00:42:59.000Z",
+      "summary_en": "This post highlights findings from the Claude Opus 5 system card regarding its improved resistance to prompt injection. It emphasizes that the model is significantly harder to manipulate than its predecessors according to recent red teaming evaluations.",
+      "summary_zh": "本文引用了 Claude Opus 5 系統卡中的研究結果，指出該模型在防範提示詞注入攻擊方面表現更為優異。根據最新的紅隊測試與評估，Opus 5 比以往的模型更難被成功干擾。",
+      "keywords": [
+        "Claude",
+        "Opus 5",
+        "prompt injection",
+        "AI safety",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content reports on specific findings and data regarding model performance found in official system card evaluations.",
+      "pacer_reason_zh": "內容報導了系統卡評估中關於模型效能的具體發現與數據。"
+    },
+    {
+      "id": "9ad129712140dfd6",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-24T23:48:50.000Z",
+      "summary_en": "Anthropic has released Claude Opus 5, a new model that leads current AI leaderboards while maintaining the same pricing as its predecessor. The model demonstrates advanced proactive problem-solving capabilities and improved vulnerability detection without being explicitly trained on exploit execution.",
+      "summary_zh": "Anthropic 發布了 Claude Opus 5 模型，該模型在保持與前代相同價格的同時，於 AI 排行榜上名列前茅。Opus 5 展示了強大的主動解決問題能力，並在未經專門訓練的情況下提升了漏洞偵測能力，同時避免了漏洞利用功能的訓練。",
+      "keywords": [
+        "Claude Opus 5",
+        "Anthropic",
+        "AI model",
+        "proactive AI",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on the performance benchmarks and functional capabilities of a new model, citing leaderboard data and specific test case anecdotes.",
+      "pacer_reason_zh": "內容聚焦於新模型的效能基準與功能表現，引用了排行榜數據及具體的測試案例作為佐證。"
+    },
     {
       "id": "b474f8b622353fd0",
       "title": "Becoming Skilled at Making Documents",
