@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-25T22:41:03.837Z",
+  "last_updated": "2026-07-26T22:46:18.807Z",
   "articles": [
+    {
+      "id": "a0984562780e0fab",
+      "title": "Weekly Update 514: This Week in Data Breaches",
+      "url": "https://www.troyhunt.com/weekly-update-514/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-07-26T09:14:51.000Z",
+      "summary_en": "This update covers the recent Origin Energy data breach in Australia, highlighting the conflicting narratives between the company's reassurances and the hacker's claims. It emphasizes the complex and multi-faceted nature of modern security incidents as they unfold in the news.",
+      "summary_zh": "本篇更新討論了近期發生在澳洲的 Origin Energy 資料外洩事件，重點指出公司方的聲明與駭客說法之間的矛盾。文章強調了現代資安事件在媒體報導中呈現出的多面向與複雜性。",
+      "keywords": [
+        "data breach",
+        "Origin Energy",
+        "cybersecurity",
+        "information security",
+        "Troy Hunt"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a news report and analysis of a specific real-world security incident.",
+      "pacer_reason_zh": "本文內容作為對特定真實資安事件的報導與分析。"
+    },
+    {
+      "id": "8711f52ba5e95611",
+      "title": "Permutation roots",
+      "url": "https://www.johndcook.com/blog/2026/07/26/permutation-roots/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-26T20:32:02.000Z",
+      "summary_en": "This article explores the concept of permutation roots, specifically defining what it means for a permutation to be the square root of another. It examines the mathematical conditions required for a permutation to have a square root based on its cycle decomposition.",
+      "summary_zh": "本文探討了置換根的概念，具體定義了置換作為另一個置換的平方根的含義。文章分析了基於循環分解，置換必須滿足哪些數學條件才能擁有平方根。",
+      "keywords": [
+        "permutation",
+        "mathematics",
+        "square root",
+        "cycle decomposition",
+        "combinatorics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and provides theoretical context on how permutation roots are defined and analyzed.",
+      "pacer_reason_zh": "本文解釋了一個數學概念，並針對置換根的定義與分析提供了理論背景。"
+    },
+    {
+      "id": "23512ef2fa145305",
+      "title": "exp_q",
+      "url": "https://www.johndcook.com/blog/2026/07/26/exp-q/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-26T18:20:36.000Z",
+      "summary_en": "This article explores the mathematical function exp_q(x), which is derived by selecting only terms from the exponential power series whose indices are multiples of q. It highlights how specific cases, such as exp_2(x), result in familiar functions like cosh(x).",
+      "summary_zh": "本文探討了 exp_q(x) 函數，該函數是通過保留指數冪級數中索引為 q 的倍數之項所定義。文章說明了特定情況（如 exp_2(x)）會如何產生如 cosh(x) 等常見函數。",
+      "keywords": [
+        "mathematics",
+        "power series",
+        "exponential function",
+        "exp_q",
+        "analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its theoretical definition.",
+      "pacer_reason_zh": "本文解釋了一個數學概念及其理論定義。"
+    },
+    {
+      "id": "1d7fc2e431df528a",
+      "title": "Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆",
+      "url": "https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-26T11:34:33.000Z",
+      "summary_en": "This review of 'Dungeon Crawler Carl' critiques the book as a derivative work that thrives on rehashing popular media tropes. It highlights the narrative's absurdist blend of bureaucratic sci-fi and battle royale mechanics typical of the LitRPG genre.",
+      "summary_zh": "這篇對《Dungeon Crawler Carl》的書評指出，該作品透過重組大眾流行文化元素來構建故事，具有高度的衍生性。內容結合了荒誕的科幻背景與大逃殺機制，展現了典型的遊戲文學 (LitRPG) 風格。",
+      "keywords": [
+        "Dungeon Crawler Carl",
+        "Book Review",
+        "LitRPG",
+        "Genre Fiction",
+        "Matt Dinniman"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical critique and conceptual overview of the book's genre and narrative style.",
+      "pacer_reason_zh": "本文針對該書的類型與敘事風格進行了分析性評論與概念上的概述。"
+    },
+    {
+      "id": "52e503c950666858",
+      "title": "Some Quick Thoughts on EMF Camp 2026",
+      "url": "https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-25T11:34:01.000Z",
+      "summary_en": "The author shares their experience attending EMF Camp 2026 as a pure attendee rather than a speaker. They highlight how avoiding the stress of preparations and presentations made the event significantly more relaxing and enjoyable.",
+      "summary_zh": "作者分享了以純遊客身份參加 EMF Camp 2026 的心得，而非擔任講者。他強調放棄準備演講與公開發言的壓力，讓整個參與過程變得更加輕鬆愉快。",
+      "keywords": [
+        "EMF Camp",
+        "event experience",
+        "stress management",
+        "tech festival",
+        "personal reflection"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the contrast between the stress of a speaker and the relaxation of a tourist to reflect on personal experience.",
+      "pacer_reason_zh": "文章透過對比講者的壓力與遊客的放鬆，來反思個人的活動體驗。"
+    },
+    {
+      "id": "ad03ccdd603c7dcc",
+      "title": "Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-24T11:34:07.000Z",
+      "summary_en": "The reviewer critiques 'Foreign Fruit' by Katie Goh, noting that it fails to effectively balance botanical history with personal memoir. The book is described as a disjointed blend of poetic language and uninspired factual recitations.",
+      "summary_zh": "評論者認為凱蒂·高（Katie Goh）的《Foreign Fruit》未能有效地將植物學歷史與個人回憶錄融合。書中充斥著生硬的事實陳述與詩意描述，整體表現不盡如人意。",
+      "keywords": [
+        "Book Review",
+        "Foreign Fruit",
+        "Katie Goh",
+        "Non-fiction",
+        "Literary Criticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a subjective critical review evaluating the thematic and conceptual execution of a book.",
+      "pacer_reason_zh": "本文屬於主觀評論，旨在探討並評估書籍在概念與主題呈現上的缺失。"
+    },
+    {
+      "id": "5264b10ddf146188",
+      "title": "Why $550 Million Medical Debt only Cost $5.5 Million ",
+      "url": "https://idiallo.com/byte-size/550-million-only-cost-5-million",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-26T19:03:04.000Z",
+      "summary_en": "The author investigates why media reports inflated a donation to medical debt, highlighting that the actual contribution was only one percent of the widely cited $550 million figure. This piece examines the PR strategy behind such headlines and critiques the sensationalism in how financial news is reported.",
+      "summary_zh": "作者探討為何媒體將一筆醫療債務捐款誇大報導，指出實際捐款金額僅為所稱 5.5 億美元的百分之一。本文分析了這類標題背後的公關策略，並批評了新聞報導中存在的誇大渲染現象。",
+      "keywords": [
+        "media literacy",
+        "medical debt",
+        "PR",
+        "data analysis",
+        "critical thinking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific case study to analyze and debunk the discrepancy between reported news figures and actual financial data.",
+      "pacer_reason_zh": "本文透過特定案例分析，揭露並駁斥了新聞報導數據與實際財務數據之間的差異。"
+    },
+    {
+      "id": "2ca540797f84b65a",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-26T19:30:54.000Z",
+      "summary_en": "This article explores a growing black-market ecosystem where resellers profit from discounted LLM tokens by exploiting API proxies and stolen credentials. The author highlights the risks this poses to developers and calls for stricter API spending caps from LLM providers.",
+      "summary_zh": "本文探討了一個新興的黑市生態系統，不肖業者透過濫用 API 代理和竊取的憑證來販售低價的 LLM Token。作者強調這對開發者構成的潛在威脅，並呼籲模型廠商應提供更嚴格的 API 支出上限機制。",
+      "keywords": [
+        "LLM",
+        "API security",
+        "token reselling",
+        "proxy",
+        "AI security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical explanation and overview of an emerging market phenomenon and its implications for software security.",
+      "pacer_reason_zh": "本文對一個新興的市場現象及其對軟體安全的影響提供了分析性的解釋與概述。"
+    },
+    {
+      "id": "76441278750caacb",
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-25T22:44:05.000Z",
+      "summary_en": "Ruff v0.16.0 introduces a significant update, increasing the default rule set from 59 to 413 checks to catch more syntax and runtime errors. The post highlights the author's experience using the new version to identify and automatically fix hundreds of issues across their Python projects.",
+      "summary_zh": "Ruff v0.16.0 發布了重大更新，將預設檢查規則從 59 項大幅增加至 413 項，以捕捉更多語法及執行時期錯誤。作者分享了將新版本應用於專案的經驗，並展示了如何透過指令自動修復大量程式碼問題。",
+      "keywords": [
+        "Ruff",
+        "Python",
+        "Linting",
+        "CI",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical commands for upgrading and fixing code using the latest tool version.",
+      "pacer_reason_zh": "本文提供了使用最新工具版本進行升級與修復程式碼的實務指令。"
+    },
     {
       "id": "b77bd88ff48cfc58",
       "title": "Reading List 07/25/26",
