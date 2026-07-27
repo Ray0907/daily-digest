@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-26T22:46:18.807Z",
+  "last_updated": "2026-07-27T22:47:23.686Z",
   "articles": [
+    {
+      "id": "25cb3753ac011939",
+      "title": "cancelling-my-hey",
+      "url": "https://chadnauseam.com/random/cancelling-my-hey",
+      "source": "Chad Nauseam Home",
+      "source_url": "https://chadnauseam.com/",
+      "published": "2026-07-27T22:46:49.805Z",
+      "summary_en": "This article discusses the author's decision to discontinue their use of the Hey email service. It explores the reasoning behind the transition and the user experience factors that led to this cancellation.",
+      "summary_zh": "本文探討了作者決定停止使用 Hey 電子郵件服務的決策過程。文章分析了導致此決定的原因以及相關的使用者體驗因素。",
+      "keywords": [
+        "email",
+        "Hey",
+        "productivity",
+        "software",
+        "cancellation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a personal reflection explaining the 'what' and 'why' behind a specific product choice.",
+      "pacer_reason_zh": "本文屬於個人心得分享，旨在說明選擇放棄該產品背後的概念與原因。"
+    },
+    {
+      "id": "aa430d9150b0bcea",
+      "title": "Can the Tide of AI Investment Lift All Boats on the Web?",
+      "url": "https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-27T19:00:00.000Z",
+      "summary_en": "This article discusses the debate surrounding AI agents on the web, arguing that developers should focus on enhancing existing platform standards rather than creating bespoke solutions for AI. By prioritizing general web accessibility and universal user needs, the author suggests that AI investment can improve the experience for all users rather than just serving autonomous agents.",
+      "summary_zh": "本文探討了網路上 AI 代理的相關爭議，主張開發者應致力於強化現有的網路標準，而非為 AI 建立專屬的特殊解決方案。作者強調應優先考量一般使用者的需求，並利用 AI 投資帶動整體網路體驗的提升，讓所有使用者與技術皆能受益。",
+      "keywords": [
+        "AI agents",
+        "web standards",
+        "accessibility",
+        "web platform",
+        "UX"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual debate on how AI agents should interact with the web and proposes a philosophy for prioritizing universal web standards over bespoke AI solutions.",
+      "pacer_reason_zh": "本文探討了關於 AI 代理應如何與網路互動的概念性辯論，並提出了一種將通用網路標準置於客製化 AI 解決方案之上的哲學觀點。"
+    },
+    {
+      "id": "73e3b9b749333986",
+      "title": "Digital circuit simulator in Haskell (SICP 3.3)",
+      "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-07-26T22:00:00.000Z",
+      "summary_en": "The author explores implementing a digital circuit simulator from SICP section 3.3 using Haskell. By comparing SICP's object-oriented approach involving mutable state with Haskell's functional paradigms, the post demonstrates how to replicate complex stateful simulations.",
+      "summary_zh": "作者探討了如何使用 Haskell 實作 SICP 3.3 章節中的數位電路模擬器。透過比較 SICP 中基於隱式可變狀態的物件導向設計與 Haskell 的函數式編程，展示了如何實現類似的模擬機制。",
+      "keywords": [
+        "SICP",
+        "Haskell",
+        "Digital circuit",
+        "Simulation",
+        "Mutable state"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a technical walkthrough of implementing a specific project (circuit simulator) from a textbook using a different programming language.",
+      "pacer_reason_zh": "本文是將教科書中的特定專案（電路模擬器）透過另一種程式語言進行實作的技術導覽。"
+    },
+    {
+      "id": "b3e7abaf9ae8fddd",
+      "title": "Fa Fa",
+      "url": "https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-07-27T17:45:21.000Z",
+      "summary_en": "The author addresses their involuntary Facebook addiction caused by muscle memory and the browser's URL autocomplete feature. By neutralizing the habit through technical workarounds like hosts file blocking and redirecting the habit to a different site, they successfully break the cycle of unintentional browsing.",
+      "summary_zh": "作者探討了因肌肉記憶與瀏覽器自動完成功能所導致的非自願性 Facebook 成癮問題。透過修改 hosts 檔案或將該網址引導至其他頁面，作者成功地以技術手段化解了這種無意識的瀏覽習慣。",
+      "keywords": [
+        "Facebook",
+        "addiction",
+        "habit-breaking",
+        "dark patterns",
+        "browser habits"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes a specific, actionable method for breaking a digital habit through technical configuration.",
+      "pacer_reason_zh": "文章描述了一種具體且可執行的技術設定方法，用來打破數位習慣。"
+    },
+    {
+      "id": "04ccf544c7ec9664",
+      "title": "Counting permutations with roots",
+      "url": "https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-27T16:03:44.000Z",
+      "summary_en": "This post discusses the mathematical method for calculating the probability that a permutation of n elements has a kth root. The author demonstrates how to implement the required generating functions using Mathematica and explores translating this approach into SymPy.",
+      "summary_zh": "本文探討了計算 n 個元素置換具有 k 次根機率的數學方法。作者展示了如何使用 Mathematica 編寫生成函數，並進一步探討了如何在 SymPy 中實現相同的程式碼。",
+      "keywords": [
+        "permutations",
+        "roots",
+        "generating functions",
+        "mathematica",
+        "sympy"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the implementation of code and the step-by-step process of using specific mathematical tools to solve a permutation problem.",
+      "pacer_reason_zh": "文章重點在於程式碼的實現，以及使用特定數學工具解決置換問題的逐步過程。"
+    },
+    {
+      "id": "e3a247e3293af16f",
+      "title": "Printing floating point numbers in binary",
+      "url": "https://www.johndcook.com/blog/2026/07/27/float-binary/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-27T15:34:05.000Z",
+      "summary_en": "This article explains that floating-point numbers can be converted to binary by processing individual hexadecimal digits, similar to how integers are converted. It highlights that while this method is common for integers, it is a less widely known technique for floating-point representation.",
+      "summary_zh": "本文介紹了將浮點數轉換為二進位的方法，其原理與整數類似，透過將每個十六進位位數直接轉換即可達成。文章指出這種轉換浮點數的技巧在業界較少人知曉。",
+      "keywords": [
+        "floating point",
+        "binary",
+        "hexadecimal",
+        "computer science",
+        "number systems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept and mechanism behind representing floating-point numbers in binary format.",
+      "pacer_reason_zh": "本文解釋了將浮點數以二進位表示的理論概念與運作機制。"
+    },
+    {
+      "id": "66d38550109f48be",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-27T14:00:00.000Z",
+      "summary_en": "This article is the sixth part of a series exploring the creation of an agile Windows Runtime delegate using C++/WinRT. It focuses specifically on the critical importance of exception safety and identifying hidden bugs within this programming context.",
+      "summary_zh": "本文是探討在 C++/WinRT 中建立敏捷 Windows Runtime 委派系列的第六部分。文章重點在於說明異常安全性的重要性，並分析該程式設計環境中隱蔽錯誤的成因。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Delegate",
+        "Exception Safety",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is part of a technical series providing step-by-step guidance on implementing specific C++/WinRT features.",
+      "pacer_reason_zh": "這是技術系列文章的一部分，提供有關實作特定 C++/WinRT 功能的逐步指南。"
+    },
+    {
+      "id": "83c448d49b9a6e0e",
+      "title": "Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/27/eucd-6/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-27T10:52:03.000Z",
+      "summary_en": "This article discusses the European Union's regulatory strategy for reining in Big Tech companies through the Digital Markets Act and Digital Services Act. It highlights how the EU's antitrust efforts serve as a global model for enforcement, regardless of changes in U.S. political leadership.",
+      "summary_zh": "本文探討歐盟如何透過《數位市場法》和《數位服務法》來制衡大型科技公司。文章強調，即便美國政治環境發生變化，歐盟的反壟斷執法行動依然是全球科技監管的重要參考基準。",
+      "keywords": [
+        "EU",
+        "Big Tech",
+        "antitrust",
+        "Digital Markets Act",
+        "regulation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach behind the EU's regulatory framework and its strategic influence on global antitrust policy.",
+      "pacer_reason_zh": "本文闡述了歐盟監管框架背後的概念，以及其對全球反壟斷政策的策略影響。"
+    },
+    {
+      "id": "e6f02996d1193634",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-27T21:55:53.000Z",
+      "summary_en": "This post discusses the evolution of AI tools from simple chatbots to agentic systems capable of autonomous computer tasks. It highlights the confusing naming conventions between ChatGPT and Claude's desktop and mobile agent modes.",
+      "summary_zh": "本文探討了 AI 工具從單純聊天機器人演進為可執行自主任務的代理系統，並指出 ChatGPT 與 Claude 在桌面版與行動版介面中令人困惑的命名規範。",
+      "keywords": [
+        "AI Agents",
+        "ChatGPT",
+        "Claude",
+        "Productivity",
+        "Tech Trends"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on how to navigate and utilize the agentic modes (Work/Cowork) within specific AI applications.",
+      "pacer_reason_zh": "本文作為操作指南，指導使用者如何辨識並運用特定 AI 應用程式中的代理模式（Work/Cowork）。"
+    },
     {
       "id": "a0984562780e0fab",
       "title": "Weekly Update 514: This Week in Data Breaches",
