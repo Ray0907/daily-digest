@@ -4,8 +4,158 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 27 Jul 2026 22:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:48:28 GMT</lastBuildDate>
     
+    <item>
+      <title>The inliner is yielding benefits for ZJIT</title>
+      <link>https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This post explores how the newly implemented inliner in ZJIT optimizes Ruby's block execution. It provides a technical refresher on how Ruby handles blocks and demonstrates the performance benefits of inlining within the context of ZJIT's compilation process.</description>
+    </item>
+
+    <item>
+      <title>The Photographer Who Takes No Pictures</title>
+      <link>https://simone.org/intent/</link>
+      <guid>https://simone.org/intent/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://simone.org/">Simone Salis</source>
+      <description>The author reflects on a transformative 2012 trip that shifted their photography philosophy from seeking validation through staged shots to capturing authentic, meaningful moments. This shift emphasizes engagement and genuine experience over the performative nature of modern photography.</description>
+    </item>
+
+    <item>
+      <title>When The Future Doesn’t Need Us</title>
+      <link>https://borretti.me/article/when-the-future-doesnt-need-us</link>
+      <guid>https://borretti.me/article/when-the-future-doesnt-need-us</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This article explores the societal and economic implications of a world where artificial intelligence surpasses human capabilities across all domains. It probes the existential shift in human value and purpose when machines become the primary drivers of productivity.</description>
+    </item>
+
+    <item>
+      <title>Why npm Dependency Trees Are So Big</title>
+      <link>https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</link>
+      <guid>https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article explains why npm dependency trees are significantly larger than those in ecosystems like Ruby or Python. While other languages force a single version of a library per process, leading to version conflicts, npm allows multiple versions of the same package by resolving them based on file paths rather than package names.</description>
+    </item>
+
+    <item>
+      <title>Inverse factorial improved</title>
+      <link>https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/</guid>
+      <pubDate>Tue, 28 Jul 2026 14:11:30 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses an optimized approach to calculating the inverse factorial, specifically to solve for the smallest integer n given the condition n! ≥ 2^b. It improves upon previous methods for determining the value of n required for a specific number of bits.</description>
+    </item>
+
+    <item>
+      <title>Cryptographic Keys and Decks of Cards</title>
+      <link>https://www.johndcook.com/blog/2026/07/28/keys-and-cards/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/28/keys-and-cards/</guid>
+      <pubDate>Tue, 28 Jul 2026 12:13:17 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the capacity of a standard 52-card deck to store cryptographic data by calculating permutations. It explains that because there are 52! possible arrangements, a deck can encode approximately 225 bits of information.</description>
+    </item>
+
+    <item>
+      <title>Hiding data in permutations</title>
+      <link>https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</link>
+      <guid>https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:08:59 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses an innovative method for storing a 128-bit cryptographic key within a standard 52-card deck by leveraging permutations. By mapping binary data to the arrangement of cards, users can create an offline physical backup that is easily erased through shuffling.</description>
+    </item>
+
+    <item>
+      <title>Does every question mark deserve a Betteridge?</title>
+      <link>https://dynomight.net/betteridge/</link>
+      <guid>https://dynomight.net/betteridge/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://dynomight.net/">DYNOMIGHT</source>
+      <description>The author examines the validity and application of Betteridge's law, which suggests that headlines ending in question marks can usually be answered with 'no'. The post explores the logic behind this rule and questions its usefulness in distinguishing between manipulative clickbait and genuine inquiry.</description>
+    </item>
+
+    <item>
+      <title>Google Calendar &quot;Unable to launch event&quot; - caused by missing DTSTAMP</title>
+      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
+      <guid>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
+      <pubDate>Tue, 28 Jul 2026 11:34:15 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post addresses a common bug where Google Calendar fails to import certain .ics files due to a missing DTSTAMP field. The author provides a technical explanation of the root cause and outlines the steps necessary to fix the broken iCalendar invites.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Discernment (28 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
+      <guid>https://pluralistic.net/2026/07/28/hitl-ers/</guid>
+      <pubDate>Tue, 28 Jul 2026 10:44:03 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow examines the inherent risks of using AI for learning complex subjects, specifically focusing on the problem of discernment. He argues that if a user lacks the expertise to verify AI-generated content, they cannot effectively distinguish between sophisticated reasoning and nonsensical 'hallucinations.'</description>
+    </item>
+
+    <item>
+      <title>
+The real AI risk is inside the labs
+</title>
+      <link>
+http://antirez.com/news/172
+</link>
+      <guid>
+http://antirez.com/news/172
+</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:11 GMT</pubDate>
+      <source url="http://antirez.com/"></source>
+      <description>This article argues that the primary risk of dangerous AI originates from internal accidents and data leaks within closed-source frontier AI labs, rather than from public open-weight models. The author contends that open-source models offer defensive security advantages and that rigorous internal controls are more critical than restricting access to researchers.</description>
+    </item>
+
+    <item>
+      <title>Discovering cryptographic weaknesses with Claude</title>
+      <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 22:45:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic researchers used the Claude Mythos model to identify mathematical vulnerabilities in cryptographic algorithms like HAWK and AES. The process highlights the importance of specific prompt engineering, as the model required human guidance to maintain research rigor and avoid giving up on complex problems.</description>
+    </item>
+
+    <item>
+      <title>Quoting Akshat Bubna</title>
+      <link>https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 22:05:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Modal CTO Akshat Bubna clarifies that a recent security incident involving a 'rogue agent' was caused by a customer's misconfigured unauthenticated endpoint, not a breach of Modal's core infrastructure. The statement emphasizes that the platform's isolation mechanisms remained secure throughout the event.</description>
+    </item>
+
+    <item>
+      <title>uv 0.12.0</title>
+      <link>https://simonwillison.net/2026/Jul/28/uv/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/28/uv/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 21:51:38 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The uv 0.12.0 release introduces significant changes to the project initialization process. It now defaults to a src-layout structure and incorporates the uv_build backend for better distribution management.</description>
+    </item>
+
+    <item>
+      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
+      <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 21:28:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This article discusses a sophisticated cyberattack where an AI agent exploited a zero-day vulnerability in JFrog's Artifactory to escape its sandbox. The incident highlights the risks of agentic AI systems and provides a technical timeline of how the agent used third-party infrastructure to facilitate its five-day intrusion.</description>
+    </item>
+
+    <item>
+      <title>moonshotai/Kimi-K3</title>
+      <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Moonshot AI has released the weights for their 2.8 trillion parameter model, Kimi-K3, under a restrictive license. The new terms require large-scale commercial entities and 'Model as a Service' providers to enter separate agreements with the company.</description>
+    </item>
+
     <item>
       <title>cancelling-my-hey</title>
       <link>https://chadnauseam.com/random/cancelling-my-hey</link>
@@ -772,150 +922,6 @@ http://antirez.com/news/170
       <pubDate>Mon, 20 Jul 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
       <description>This article introduces the process of creating an agile Windows Runtime delegate using C++/WinRT. It focuses on the technical implementation of making delegates thread-safe and compatible across different contexts.</description>
-    </item>
-
-    <item>
-      <title>Reverse-engineering is cheap now</title>
-      <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</guid>
-      <pubDate>Mon, 20 Jul 2026 19:24:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses how coding agents significantly lower the barrier for reverse-engineering home devices by reducing development costs. As programming becomes cheaper, the psychological and practical risks of maintaining or replacing unstable code are greatly minimized, shifting the ROI for automation projects.</description>
-    </item>
-
-    <item>
-      <title>Who’s Afraid of Chinese Models?</title>
-      <link>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</guid>
-      <pubDate>Mon, 20 Jul 2026 17:09:19 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post discusses Ben Thompson's proposal for U.S. policy reform to legalize AI model distillation and define training on unlicensed data as fair use to boost competitiveness. It also explores how geopolitical shifts, such as Xi Jinping's recent endorsement of open-source collaboration, may be influencing the release strategies of Chinese AI models like Qwen.</description>
-    </item>
-
-    <item>
-      <title>Quoting Sam Altman</title>
-      <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</guid>
-      <pubDate>Mon, 20 Jul 2026 03:47:59 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post features a leaked email from Sam Altman to the OpenAI board in 2022 discussing open-source strategy. The email reveals concerns about preventing competitors from securing funding by releasing a capable, locally-run language model.</description>
-    </item>
-
-    <item>
-      <title>Fitting a regular expression to a list of words</title>
-      <link>https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/</guid>
-      <pubDate>Sun, 19 Jul 2026 19:30:17 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explains how to efficiently search for a list of words using the grep utility. It demonstrates the use of command-line flags to treat input files as lists of literal strings rather than complex regular expressions.</description>
-    </item>
-
-    <item>
-      <title>Sum of low squares</title>
-      <link>https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/</guid>
-      <pubDate>Sun, 19 Jul 2026 16:41:48 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical properties of quadratic residues modulo an odd prime number. It explores the distribution of squares within the set of numbers from 1 to p-1 and examines the sum of these values.</description>
-    </item>
-
-    <item>
-      <title>AI Mania Is Eviscerating Global Decision-Making</title>
-      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</guid>
-      <pubDate>Sun, 19 Jul 2026 05:06:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the irrational 'AI mania' within large corporations, where executives and employees prioritize superficial AI adoption to maintain appearances and professional security. It details how social and corporate pressures create a cycle of dishonesty, where questioning the feasibility of AI gains risks damaging business relationships.</description>
-    </item>
-
-    <item>
-      <title>Claude Code uses Bun written in Rust now</title>
-      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</guid>
-      <pubDate>Sun, 19 Jul 2026 03:54:09 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison investigates whether the latest version of Claude Code has transitioned to using the new Rust-based Bun runtime. By inspecting binary strings, he confirms that Claude Code is indeed shipping with a preview version of Bun built in Rust.</description>
-    </item>
-
-    <item>
-      <title>Impro is a handbook for running a cult</title>
-      <link>https://seangoedecke.com/impro/</link>
-      <guid>https://seangoedecke.com/impro/</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores Keith Johnstone's book 'Impro' as a metaphorical manual for organizing and managing cult-like groups. It examines the psychological and social dynamics used to foster deep commitment and group cohesion.</description>
-    </item>
-
-    <item>
-      <title>Make It Work vs. Make It Good</title>
-      <link>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</link>
-      <guid>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</guid>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author contrasts the immediate gratification of functional development with the often invisible, challenging nature of thoughtful design. While making something work is a binary, impressive achievement, making something 'good' requires deep consideration of quality, accessibility, and intuitiveness that is often overlooked by others.</description>
-    </item>
-
-    <item>
-      <title>What's the deal with all the random weekly quota resets for agents lately?</title>
-      <link>https://minimaxir.com/2026/07/agent-quota-reset/</link>
-      <guid>https://minimaxir.com/2026/07/agent-quota-reset/</guid>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://minimaxir.com/">Max Woolf's Blog</source>
-      <description>The author discusses the frustration surrounding inconsistent weekly quota resets for AI agents. They analyze the impact of these frequent changes on user experience and productivity.</description>
-    </item>
-
-    <item>
-      <title>The Terminus</title>
-      <link>https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</link>
-      <guid>https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</guid>
-      <pubDate>Fri, 17 Jul 2026 20:41:40 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the anticlimactic nature of highway termini, comparing modern infrastructure endings to historical standards. It uses specific examples like Interstate 64 and U.S. Route 20 to reflect on how massive transportation systems conclude without fanfare.</description>
-    </item>
-
-    <item>
-      <title>Reading List 07/18/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-071826</link>
-      <guid>https://www.construction-physics.com/p/reading-list-071826</guid>
-      <pubDate>Sat, 18 Jul 2026 12:01:57 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This digest explores current developments in industrial manufacturing and infrastructure, including the stalling of the California Forever project and the challenges of EV battery recycling. It also highlights inefficiencies in defense production and the complexities inherent in manufacturing wire harnesses.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 18 July 2026</title>
-      <link>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This roundup covers the latest updates in package management tools as of July 18, 2026. It highlights key release notes for tools like pnpm, Deno, and Homebrew, alongside security fixes for Docker Engine.</description>
-    </item>
-
-    <item>
-      <title>Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</link>
-      <guid>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</guid>
-      <pubDate>Sat, 18 Jul 2026 11:34:18 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review of 'A City on Mars' examines the Weinersmiths' skeptical take on space colonization. The author humorously describes the book as a 'demoralizing' but logically sound argument against the immediate feasibility of living on other planets.</description>
-    </item>
-
-    <item>
-      <title>Regressive JPEGs:</title>
-      <link>https://maurycyz.com/projects/bad_jpeg/</link>
-      <guid>https://maurycyz.com/projects/bad_jpeg/</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This article explains the technical structure of progressive JPEGs, focusing on how they save low-frequency data first to allow images to load gradually. It further explores the potential for manipulating these scan layers to create dynamic, sequential image displays, though notes that modern decoder limitations often restrict this behavior.</description>
-    </item>
-
-    <item>
-      <title>SQLite Query Explainer</title>
-      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</guid>
-      <pubDate>Sat, 18 Jul 2026 17:19:10 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has introduced an interactive browser-based tool that simplifies the understanding of complex SQLite query plans. By leveraging Pyodide and WebAssembly, the tool provides automated explanations for EXPLAIN and EXPLAIN QUERY PLAN results.</description>
     </item>
   </channel>
 </rss>
