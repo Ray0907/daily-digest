@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-07-28T22:48:28.499Z",
+  "last_updated": "2026-07-29T22:45:38.472Z",
   "articles": [
+    {
+      "id": "6d58c8e21149ded0",
+      "title": "AI: Overwegingen voor wie erover gaat",
+      "url": "https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-29T13:20:00.000Z",
+      "summary_en": "This article shares key insights on AI policy-making derived from recent presentations to public sector advisory boards. It aims to provide decision-makers with a practical framework for navigating the complexities of AI implementation.",
+      "summary_zh": "本文彙整了作者近期向公共服務網絡及科技創新諮詢委員會進行的演講觀點。旨在為負責 AI 政策決策的人員提供關鍵洞察，協助其掌握決策的核心考量。",
+      "keywords": [
+        "AI",
+        "policy",
+        "governance",
+        "public sector",
+        "decision-making"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual insights and considerations for AI policy, focusing on the 'what' and 'why' of decision-making rather than specific steps or data.",
+      "pacer_reason_zh": "本文提供關於人工智慧政策的概念性見解與考量，側重於決策的本質與思維，而非具體步驟或數據。"
+    },
+    {
+      "id": "2a335d49ad2d9861",
+      "title": "Why compute might get 10x+ more expensive in coming years",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-07-29T15:01:35.000Z",
+      "summary_en": "The article explores the potential economic shift in computing costs by comparing the market value of human software engineers to AI hardware capacity. It argues that if AI models achieve human-level engineering productivity, the rental price of high-end GPUs like the H100 could surge to over $250k annually.",
+      "summary_zh": "本文探討了未來運算成本可能大幅上升的原因，並將 AI 的生產力與人類軟體工程師的市場價值進行了對比。作者認為，若 AI 模型達到人類工程師的水準，H100 等高階 GPU 的年租金價值可能會飆升至 25 萬美元以上。",
+      "keywords": [
+        "AI",
+        "Compute costs",
+        "H100",
+        "Software engineering",
+        "Economics"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses an analogy between the economic output of human software engineers and AI hardware capabilities to project future pricing.",
+      "pacer_reason_zh": "內容透過類比人類軟體工程師的經濟產出與 AI 硬體能力，進而推論未來的硬體定價趨勢。"
+    },
+    {
+      "id": "903bd3239261574e",
+      "title": "Logic for Programmers is Done",
+      "url": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-07-29T15:43:52.000Z",
+      "summary_en": "The author announces the completion of their book, 'Logic for Programmers,' marking the end of a five-year development project. The 1.0 version is now available in both print and digital formats for readers.",
+      "summary_zh": "作者宣布其著作《Logic for Programmers》正式完成，歷時五年的開發項目終於迎來 1.0 版本。目前該書已同步推出印刷版與電子版供讀者選購。",
+      "keywords": [
+        "Logic for Programmers",
+        "self-publishing",
+        "book launch",
+        "programming",
+        "announcement"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a product announcement and reference point for readers to locate the book.",
+      "pacer_reason_zh": "這篇文章作為產品發布公告，為讀者提供獲取書籍的參考資訊。"
+    },
+    {
+      "id": "47b7b3ad5b3eff0f",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-29T14:00:00.000Z",
+      "summary_en": "This article discusses the subtle issue of exceptions being hidden within lambda captures when implementing an agile Windows Runtime delegate in C++/WinRT. It highlights how improper capture handling can lead to unexpected behavior in asynchronous Windows development.",
+      "summary_zh": "本文探討在 C++/WinRT 中實作敏捷 Windows Runtime 委派時，Lambda 擷取（capture）中隱藏例外狀況的問題。文章強調了處理不當的擷取方式如何導致非同步 Windows 開發中出現預期之外的錯誤。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Lambda",
+        "Exceptions",
+        "Agile Delegate"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a technical series providing specific guidance and implementation details for a programming task.",
+      "pacer_reason_zh": "本文屬於技術系列文章的一部分，針對特定的程式設計任務提供具體的指導與實作細節。"
+    },
+    {
+      "id": "3488715d6d434621",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-28T14:00:00.000Z",
+      "summary_en": "This post continues a technical series on implementing an agile version of a Windows Runtime delegate using C++/WinRT. It focuses specifically on ensuring exception safety within the delegate's implementation.",
+      "summary_zh": "這篇文章延續了關於使用 C++/WinRT 實作 agile Windows Runtime delegate 的技術系列。重點探討了如何在 delegate 的實作過程中確保例外安全性 (exception safety)。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Delegate",
+        "Exception Safety",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a tutorial series explaining technical implementation steps for software development.",
+      "pacer_reason_zh": "本文屬於技術教學系列的一部分，旨在說明軟體開發的實作步驟。"
+    },
+    {
+      "id": "a883c0208eb7dd5e",
+      "title": "Superlogical",
+      "url": "https://mitchellh.com/writing/superlogical",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary_en": "This article discusses the concept of Superlogical, a framework or philosophy related to systems engineering and automation. It explores the logic behind building robust, scalable infrastructure tools.",
+      "summary_zh": "本文探討了「Superlogical」的概念，這是一種與系統工程和自動化相關的框架或哲學。文章深入分析了構建強大且可擴展的基礎設施工具背後的邏輯。",
+      "keywords": [
+        "Superlogical",
+        "Infrastructure",
+        "Automation",
+        "Systems Engineering",
+        "Mitchell Hashimoto"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on defining and explaining high-level conceptual frameworks in software engineering.",
+      "pacer_reason_zh": "內容主要側重於定義和解釋軟體工程中的高階概念框架。"
+    },
+    {
+      "id": "ea65c594d6ffeccd",
+      "title": "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/29/la-la-la-la-la/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-29T08:09:34.000Z",
+      "summary_en": "Cory Doctorow shares updates on the international success of his recent books, 'Enshittification' and 'Reverse Centaur.' He highlights their broad resonance within the technopolitics community and confirms that various translations are currently published or in development for global readers.",
+      "summary_zh": "柯利·多克托羅（Cory Doctorow）分享了他近期著作《Enshittification》與《Reverse Centaur》的國際市場成功與書評榮譽。他強調這些作品在科技政治領域引起廣泛共鳴，並確認多國語言譯本正陸續出版中。",
+      "keywords": [
+        "Cory Doctorow",
+        "Enshittification",
+        "Reverse Centaur",
+        "technopolitics",
+        "publishing"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a status update and a reference guide regarding the author's books and their availability in translation.",
+      "pacer_reason_zh": "此文章主要作為作者著作的近況更新，並為讀者提供有關書籍出版與翻譯版本的參考資訊。"
+    },
+    {
+      "id": "b772d898ee876d6d",
+      "title": "Quoting D. Richard Hipp",
+      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-29T21:15:21.000Z",
+      "summary_en": "D. Richard Hipp reflects on how the advent of SQL transformed the role of programmers, shifting tasks away from manual COBOL coding. He argues that technological shifts don't eliminate programming jobs, but rather evolve them into new forms.",
+      "summary_zh": "D. Richard Hipp 回顧了 SQL 的出現如何改變了程式設計師的角色，將工作內容從繁瑣的 COBOL 編碼中解放出來。他認為技術變革並不會導致程式設計職位消失，而是促使職位形態不斷演進。",
+      "keywords": [
+        "SQL",
+        "COBOL",
+        "D. Richard Hipp",
+        "programming",
+        "technology trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the evolution of software development roles through a conceptual historical lens.",
+      "pacer_reason_zh": "內容透過概念性的歷史視角，解釋了軟體開發職位的演變過程。"
+    },
+    {
+      "id": "dc6dd2ecfc18702f",
+      "title": "AI Worming through Word",
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-29T18:43:03.000Z",
+      "summary_en": "Security researcher Håkon Måløy has identified a new prompt injection technique where hidden instructions in Microsoft Word documents allow Copilot to create self-replicating AI worms. These instructions propagate through document workflows, potentially embedding malicious commands into subsequent files without requiring the original carrier document.",
+      "summary_zh": "安全研究員 Håkon Måløy 發現了一種新型提示詞注入攻擊，駭客可在 Microsoft Word 文件中植入隱藏指令，使 Copilot 自動生成自我複製的 AI 蠕蟲。這些指令會在文件工作流程中傳播，將惡意指令嵌入後續生成的檔案中，即使原始感染源不在場也能持續擴散。",
+      "keywords": [
+        "AI Security",
+        "Prompt Injection",
+        "Copilot",
+        "Cybersecurity",
+        "Self-replicating"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical mechanism and conceptual framework behind a specific security vulnerability involving LLMs.",
+      "pacer_reason_zh": "本文解釋了涉及大型語言模型（LLM）之特定安全漏洞背後的理論機制與概念框架。"
+    },
+    {
+      "id": "4930bf7708b02209",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-29T18:18:15.000Z",
+      "summary_en": "This post highlights Matthew Green's insights on the intersection of AI and cryptography during a critical transition to post-quantum algorithms. It suggests that AI's growing cryptanalysis capabilities could either help validate existing security standards or pose a risk if models successfully undermine current mathematical foundations.",
+      "summary_zh": "本文引述了 Matthew Green 對於人工智慧與密碼學交匯的見解，特別是在過渡至後量子密碼演算法的關鍵時期。文章探討了 AI 的加密分析能力如何能幫助驗證現有標準，或是若 AI 成功破解現有數學難題時所帶來的潛在風險。",
+      "keywords": [
+        "cryptography",
+        "AI",
+        "post-quantum",
+        "cryptanalysis",
+        "Matthew Green"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides conceptual analysis and expert perspective on the theoretical impact of AI on the future of cryptographic standards.",
+      "pacer_reason_zh": "內容提供了關於人工智慧對密碼學標準未來影響的理論性分析與專家觀點。"
+    },
+    {
+      "id": "3e4076026a5b7063",
+      "title": "Adding a custom MCP server to Claude and ChatGPT",
+      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-29T00:13:18.000Z",
+      "summary_en": "This post explains the process of integrating a custom Model Context Protocol (MCP) server into the chat interfaces of Claude and ChatGPT. It highlights the technical steps required to bridge custom tools with these generative AI platforms.",
+      "summary_zh": "本文介紹了如何將自定義的 MCP (Model Context Protocol) 伺服器整合至 Claude 和 ChatGPT 的對話界面中。文章說明了連接自定義工具與這些生成式 AI 平台所需的技術步驟。",
+      "keywords": [
+        "MCP",
+        "Claude",
+        "ChatGPT",
+        "LLMs",
+        "AI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a 'Today I Learned' (TIL) style guide that provides instructions on how to connect a custom server to AI interfaces.",
+      "pacer_reason_zh": "本文屬於「今日我學到」(TIL) 類型的指南，提供了將自定義伺服器連接到 AI 介面的操作說明。"
+    },
+    {
+      "id": "71592c101a461f7e",
+      "title": "You don't have to be smart if you can think clearly",
+      "url": "https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-29T00:00:00.000Z",
+      "summary_en": "This article explores the idea that clear thinking is more valuable than raw intelligence. It suggests that effective mental models and logical frameworks can allow individuals to overcome cognitive limitations.",
+      "summary_zh": "本文探討了清晰的思考能力比純粹的聰明才智更為重要的觀點。作者認為，掌握有效的思維模型和邏輯框架，能幫助個人超越認知局限。",
+      "keywords": [
+        "critical thinking",
+        "mental models",
+        "intelligence",
+        "logic",
+        "decision making"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a concept or mental framework regarding cognitive ability.",
+      "pacer_reason_zh": "本文旨在解釋關於認知能力的觀念或思維框架。"
+    },
     {
       "id": "ba1750a1f41d2dc6",
       "title": "The inliner is yielding benefits for ZJIT",

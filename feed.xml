@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 28 Jul 2026 22:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:45:38 GMT</lastBuildDate>
     
+    <item>
+      <title>AI: Overwegingen voor wie erover gaat</title>
+      <link>https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/</link>
+      <guid>https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/</guid>
+      <pubDate>Wed, 29 Jul 2026 13:20:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>This article shares key insights on AI policy-making derived from recent presentations to public sector advisory boards. It aims to provide decision-makers with a practical framework for navigating the complexities of AI implementation.</description>
+    </item>
+
+    <item>
+      <title>Why compute might get 10x+ more expensive in coming years</title>
+      <link>https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive</link>
+      <guid>https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive</guid>
+      <pubDate>Wed, 29 Jul 2026 15:01:35 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The article explores the potential economic shift in computing costs by comparing the market value of human software engineers to AI hardware capacity. It argues that if AI models achieve human-level engineering productivity, the rental price of high-end GPUs like the H100 could surge to over $250k annually.</description>
+    </item>
+
+    <item>
+      <title>Logic for Programmers is Done</title>
+      <link>https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/</guid>
+      <pubDate>Wed, 29 Jul 2026 15:43:52 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author announces the completion of their book, 'Logic for Programmers,' marking the end of a five-year development project. The 1.0 version is now available in both print and digital formats for readers.</description>
+    </item>
+
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570</guid>
+      <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses the subtle issue of exceptions being hidden within lambda captures when implementing an agile Windows Runtime delegate in C++/WinRT. It highlights how improper capture handling can lead to unexpected behavior in asynchronous Windows development.</description>
+    </item>
+
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568</guid>
+      <pubDate>Tue, 28 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post continues a technical series on implementing an agile version of a Windows Runtime delegate using C++/WinRT. It focuses specifically on ensuring exception safety within the delegate's implementation.</description>
+    </item>
+
+    <item>
+      <title>Superlogical</title>
+      <link>https://mitchellh.com/writing/superlogical</link>
+      <guid>https://mitchellh.com/writing/superlogical</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
+      <description>This article discusses the concept of Superlogical, a framework or philosophy related to systems engineering and automation. It explores the logic behind building robust, scalable infrastructure tools.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/29/la-la-la-la-la/</link>
+      <guid>https://pluralistic.net/2026/07/29/la-la-la-la-la/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:09:34 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow shares updates on the international success of his recent books, 'Enshittification' and 'Reverse Centaur.' He highlights their broad resonance within the technopolitics community and confirms that various translations are currently published or in development for global readers.</description>
+    </item>
+
+    <item>
+      <title>Quoting D. Richard Hipp</title>
+      <link>https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</guid>
+      <pubDate>Wed, 29 Jul 2026 21:15:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>D. Richard Hipp reflects on how the advent of SQL transformed the role of programmers, shifting tasks away from manual COBOL coding. He argues that technological shifts don't eliminate programming jobs, but rather evolve them into new forms.</description>
+    </item>
+
+    <item>
+      <title>AI Worming through Word</title>
+      <link>https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything</guid>
+      <pubDate>Wed, 29 Jul 2026 18:43:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Security researcher Håkon Måløy has identified a new prompt injection technique where hidden instructions in Microsoft Word documents allow Copilot to create self-replicating AI worms. These instructions propagate through document workflows, potentially embedding malicious commands into subsequent files without requiring the original carrier document.</description>
+    </item>
+
+    <item>
+      <title>Quoting Matthew Green</title>
+      <link>https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything</guid>
+      <pubDate>Wed, 29 Jul 2026 18:18:15 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights Matthew Green's insights on the intersection of AI and cryptography during a critical transition to post-quantum algorithms. It suggests that AI's growing cryptanalysis capabilities could either help validate existing security standards or pose a risk if models successfully undermine current mathematical foundations.</description>
+    </item>
+
+    <item>
+      <title>Adding a custom MCP server to Claude and ChatGPT</title>
+      <link>https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything</guid>
+      <pubDate>Wed, 29 Jul 2026 00:13:18 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post explains the process of integrating a custom Model Context Protocol (MCP) server into the chat interfaces of Claude and ChatGPT. It highlights the technical steps required to bridge custom tools with these generative AI platforms.</description>
+    </item>
+
+    <item>
+      <title>You don't have to be smart if you can think clearly</title>
+      <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
+      <guid>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the idea that clear thinking is more valuable than raw intelligence. It suggests that effective mental models and logical frameworks can allow individuals to overcome cognitive limitations.</description>
+    </item>
+
     <item>
       <title>The inliner is yielding benefits for ZJIT</title>
       <link>https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss</link>
@@ -814,114 +922,6 @@ http://antirez.com/news/170
       <pubDate>Tue, 21 Jul 2026 12:14:03 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
       <description>The article discusses the recent discovery of a counterexample to the Jacobian conjecture using AI tools. It explores the history of mathematician consensus regarding the conjecture and reflects on the broader philosophical implication that local properties do not necessarily guarantee global truths.</description>
-    </item>
-
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post continues the technical discussion on creating agile versions of Windows Runtime delegates in C++/WinRT. It specifically explores how to optimize the process by short-circuiting the simplest use cases.</description>
-    </item>
-
-    <item>
-      <title>Public Transport - Don't Make Me Think!</title>
-      <link>https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</link>
-      <guid>https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</guid>
-      <pubDate>Mon, 20 Jul 2026 11:34:23 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author examines the inconsistent and often frustrating user experience of public transport ticketing systems across various global cities. By applying design principles to urban transit, the post highlights how complex bureaucracy creates unnecessary cognitive load for travelers.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers</title>
-      <link>https://pluralistic.net/2026/07/21/dickovers/</link>
-      <guid>https://pluralistic.net/2026/07/21/dickovers/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:49:18 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post discusses 'dickovers,' a term coined by John Gruber for intrusive pop-ups and panels that obscure content to force user interactions like newsletter sign-ups or cookie consent. The author criticizes websites for using these modals as malicious compliance with GDPR and highlights the irony of sites that punish users for using privacy-preserving tools like Global Privacy Control.</description>
-    </item>
-
-    <item>
-      <title>Expensive Is Just a Brand Now </title>
-      <link>https://idiallo.com/blog/expensive-is-just-branding</link>
-      <guid>https://idiallo.com/blog/expensive-is-just-branding</guid>
-      <pubDate>Mon, 20 Jul 2026 23:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The article explores the decoupling of product quality and price, arguing that high prices are increasingly driven by branding rather than manufacturing excellence. It highlights that many luxury and budget goods now share the same supply chains, shifting the focus from tangible build quality to perceived brand value.</description>
-    </item>
-
-    <item>
-      <title>Nativ: Run AI models locally on your Mac</title>
-      <link>https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</guid>
-      <pubDate>Tue, 21 Jul 2026 14:22:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Nativ is a new macOS desktop application that allows users to run vision-LLMs locally using the MLX framework. Developed by Prince Canuma, the app offers both a chat interface and a localhost API server, seamlessly integrating with existing Hugging Face model caches.</description>
-    </item>
-
-    <item>
-      <title>A Fireside Chat with Cat and Thariq from the Claude Code team</title>
-      <link>https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything</guid>
-      <pubDate>Tue, 21 Jul 2026 12:54:02 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison hosts a discussion with Anthropic's Claude Code team about the evolution of their AI coding tools and internal development processes. The conversation highlights successful strategies like internal dogfooding and shifts in system prompt engineering for modern LLMs.</description>
-    </item>
-
-    <item>
-      <title>Why I Stopped &quot;Creating Content&quot;</title>
-      <link>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</link>
-      <guid>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://refactoringenglish.com/">Refactoring English</source>
-      <description>The author reflects on the enduring power of Michelangelo’s David, arguing that high-quality, meaningful work transcends the fleeting nature of modern digital content. They suggest that true artistic impact lies in craftsmanship that captures attention naturally, rather than the relentless pursuit of volume.</description>
-    </item>
-
-    <item>
-      <title>OpenTK: nu ook met Internetconsultaties &amp; notificaties</title>
-      <link>https://berthub.eu/articles/posts/opentk-internetconsultaties/</link>
-      <guid>https://berthub.eu/articles/posts/opentk-internetconsultaties/</guid>
-      <pubDate>Mon, 20 Jul 2026 11:37:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>OpenTK is a platform developed by Bert Hubert to increase transparency in the Dutch House of Representatives by tracking legislative activities. The service provides timely email notifications to help citizens and professionals stay informed about relevant legal developments.</description>
-    </item>
-
-    <item>
-      <title>Memory Safety's Hardest Problem</title>
-      <link>https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</link>
-      <guid>https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The article explores the challenge of type confusion in memory-safe programming, illustrating how tagged unions can lead to undefined behavior when pointers are misused. It argues that while niche theoretical issues exist, the industry should prioritize fixing common, exploitable errors like buffer overflows through language-level bounds checking.</description>
-    </item>
-
-    <item>
-      <title>Volume to Area ratio for Regular Solids</title>
-      <link>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</guid>
-      <pubDate>Mon, 20 Jul 2026 14:35:21 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the geometric relationship between the volume and surface area of spheres and regular solids. It demonstrates that the ratio of volume to area remains consistent across different regular polyhedra when using the radius of an inscribed sphere.</description>
-    </item>
-
-    <item>
-      <title>Solving a chess puzzle with Grok 4.5</title>
-      <link>https://www.johndcook.com/blog/2026/07/20/grok-chess/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/20/grok-chess/</guid>
-      <pubDate>Mon, 20 Jul 2026 14:33:31 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>John D. Cook explores the performance of Grok 4.5 in solving chess puzzles by generating code. The article demonstrates that Grok 4.5 is surprisingly capable of handling these logical tasks, matching the performance of other leading AI models.</description>
-    </item>
-
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</guid>
-      <pubDate>Mon, 20 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article introduces the process of creating an agile Windows Runtime delegate using C++/WinRT. It focuses on the technical implementation of making delegates thread-safe and compatible across different contexts.</description>
     </item>
   </channel>
 </rss>
