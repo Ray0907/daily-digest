@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "4aec8be12cee6023",
+      "title": "Quoting Bruce Schneier",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "ai-ethics",
+        "critical-thinking",
+        "generative-ai",
+        "education",
+        "bruce-schneier"
+      ],
+      "published": "2026-07-30T18:25:26.000Z"
+    },
+    {
+      "id": "f62495d075184976",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "pacer": "E",
+      "keywords": [
+        "streaming devices",
+        "ad fraud",
+        "cybersecurity",
+        "Krebs on Security",
+        "malware"
+      ],
+      "published": "2026-07-30T16:49:00.000Z"
+    },
+    {
+      "id": "437af91ee558771c",
+      "title": "Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/07/30/pay-for-privacy/",
+      "pacer": "C",
+      "keywords": [
+        "surveillance pricing",
+        "AI",
+        "privacy law",
+        "data brokers",
+        "consumer exploitation"
+      ],
+      "published": "2026-07-30T12:51:03.000Z"
+    },
+    {
+      "id": "abeae2d27bc60a17",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "pacer": "C",
+      "keywords": [
+        "solid-state battery",
+        "lithium-ion",
+        "battery technology",
+        "electrolyte",
+        "energy storage"
+      ],
+      "published": "2026-07-30T12:04:25.000Z"
+    },
+    {
+      "id": "73434824bcce4415",
+      "title": "Are political journalists always wrong?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/",
+      "pacer": "C",
+      "keywords": [
+        "political journalism",
+        "media criticism",
+        "news consumption",
+        "UK politics",
+        "media bias"
+      ],
+      "published": "2026-07-30T11:34:31.000Z"
+    },
+    {
+      "id": "f967f8b49c156532",
+      "title": "Wheels, Bottles and Images",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/07/30/wheels-bottles-images.html",
+      "pacer": "C",
+      "keywords": [
+        "binary distribution",
+        "Python wheels",
+        "Homebrew",
+        "OCI images",
+        "package management"
+      ],
+      "published": "2026-07-30T10:00:00.000Z"
+    },
+    {
+      "id": "efc3790543667ac3",
+      "title": "So you want to use plants to reduce indoor CO₂",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "url": "https://dynomight.net/plants/",
+      "pacer": "E",
+      "keywords": [
+        "CO2",
+        "houseplants",
+        "photosynthesis",
+        "thermodynamics",
+        "indoor air quality"
+      ],
+      "published": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "a3a3fb8e9a24acb4",
+      "title": "You have been mislead about lightbulbs",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "pacer": "C",
+      "keywords": [
+        "lightbulbs",
+        "physics",
+        "tungsten",
+        "filament",
+        "efficiency"
+      ],
+      "published": "2026-07-30T00:00:00.000Z"
+    },
+    {
       "id": "b772d898ee876d6d",
       "title": "Quoting D. Richard Hipp",
       "source": "Simon Willison's Weblog",
@@ -15,6 +143,22 @@
         "technology trends"
       ],
       "published": "2026-07-29T21:15:21.000Z"
+    },
+    {
+      "id": "ddeb701e6e6df198",
+      "title": "The AI Aesthetic",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "design patterns",
+        "UI/UX",
+        "software interaction",
+        "aesthetics"
+      ],
+      "published": "2026-07-29T19:00:00.000Z"
     },
     {
       "id": "dc6dd2ecfc18702f",
@@ -175,22 +319,6 @@
         "decision making"
       ],
       "published": "2026-07-29T00:00:00.000Z"
-    },
-    {
-      "id": "76714d4a34b5d359",
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "Claude Mythos",
-        "cryptography",
-        "AI research",
-        "prompt engineering",
-        "Anthropic"
-      ],
-      "published": "2026-07-28T22:45:37.000Z"
     },
     {
       "id": "3e59a7b43cfb4cfb",
@@ -703,22 +831,6 @@
       "published": "2026-07-24T11:34:07.000Z"
     },
     {
-      "id": "10721a30d460cb9f",
-      "title": "Pluralistic: AI solipsists and AI cynics (24 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/24/supplemental-income/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "bubble",
-        "economics",
-        "monopoly",
-        "labor"
-      ],
-      "published": "2026-07-24T10:21:03.000Z"
-    },
-    {
       "id": "195556de59524f3e",
       "title": "Interview with a Maintainer",
       "source": "Andrew Nesbitt",
@@ -974,22 +1086,6 @@
       "published": "2026-07-22T14:00:00.000Z"
     },
     {
-      "id": "18e314366551ad0e",
-      "title": "Scattered thoughts on social geolocation",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/",
-      "pacer": "C",
-      "keywords": [
-        "geolocation",
-        "ActivityPub",
-        "AT Protocol",
-        "social media",
-        "decentralization"
-      ],
-      "published": "2026-07-22T11:34:12.000Z"
-    },
-    {
       "id": "ed0f7cc755791df1",
       "title": "Announcing the Portal open beta",
       "source": "Keygen Blog",
@@ -1116,22 +1212,6 @@
         "Value Creation"
       ],
       "published": "2026-07-21T13:00:00.000Z"
-    },
-    {
-      "id": "76e7fa8386702efe",
-      "title": "–end-of-options",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "pacer": "C",
-      "keywords": [
-        "git",
-        "command-line",
-        "security",
-        "software-engineering",
-        "devops"
-      ],
-      "published": "2026-07-21T10:00:00.000Z"
     },
     {
       "id": "c8fa033bc62ef040",
@@ -1709,22 +1789,6 @@
       "published": "2026-07-13T00:00:00.000Z"
     },
     {
-      "id": "d3c12d141e69bc75",
-      "title": "What’s an Icon in 2026?",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/icons-as-software/",
-      "pacer": "C",
-      "keywords": [
-        "Apple",
-        "Icon design",
-        "UI/UX",
-        "Icon Composer",
-        "Software engineering"
-      ],
-      "published": "2026-07-12T19:00:00.000Z"
-    },
-    {
       "id": "bccddf2bab1ba522",
       "title": "I love LLMs, I hate hype",
       "source": "the singularity is nearer",
@@ -1771,22 +1835,6 @@
         "wearable"
       ],
       "published": "2026-07-12T00:00:00.000Z"
-    },
-    {
-      "id": "a0325e90ab2ea5b4",
-      "title": "Reading List 07/11/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-071126",
-      "pacer": "R",
-      "keywords": [
-        "current events",
-        "curated list",
-        "socioeconomics",
-        "infrastructure",
-        "global news"
-      ],
-      "published": "2026-07-11T12:01:33.000Z"
     },
     {
       "id": "c3547331e720b325",
@@ -2029,22 +2077,6 @@
       "published": "2026-07-08T12:31:39.000Z"
     },
     {
-      "id": "91520bc5ff2b898f",
-      "title": "Arp 90",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/astro/arp90/",
-      "pacer": "E",
-      "keywords": [
-        "Arp 90",
-        "Astro-photography",
-        "Galaxy",
-        "Image processing",
-        "Deep sky"
-      ],
-      "published": "2026-07-08T00:00:00.000Z"
-    },
-    {
       "id": "a88760ecaf482a97",
       "title": "Agents are monads (but not that kind)",
       "source": "Xe Iaso's blog",
@@ -2187,22 +2219,6 @@
         "online security"
       ],
       "published": "2026-07-03T06:52:41.000Z"
-    },
-    {
-      "id": "417bdaa0c3e139ab",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "pacer": "E",
-      "keywords": [
-        "FBI",
-        "NetNut",
-        "Popa botnet",
-        "cybersecurity",
-        "Alarum Technologies"
-      ],
-      "published": "2026-07-02T19:27:33.000Z"
     },
     {
       "id": "bb2bfd9ad0dd14b7",
@@ -2427,22 +2443,6 @@
         "dynamic range"
       ],
       "published": "2026-06-26T02:23:00.000Z"
-    },
-    {
-      "id": "e65a8977c98f04e9",
-      "title": "Blink if you’re human",
-      "source": "DYNOMIGHT",
-      "source_url": "https://dynomight.net/",
-      "url": "https://dynomight.net/blink/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "blogging",
-        "authenticity",
-        "writing",
-        "human-generated"
-      ],
-      "published": "2026-06-26T00:00:00.000Z"
     },
     {
       "id": "ac393a525ad42784",

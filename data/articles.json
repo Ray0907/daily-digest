@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-29T22:45:38.472Z",
+  "last_updated": "2026-07-30T22:54:32.514Z",
   "articles": [
+    {
+      "id": "ddeb701e6e6df198",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-07-29T19:00:00.000Z",
+      "summary_en": "This article explores how AI-driven design patterns, such as specific iconography and interface animations, are beginning to influence broader software interaction paradigms. The author examines whether these emerging visual cues will become lasting standards or remain niche trends within the AI ecosystem.",
+      "summary_zh": "這篇文章探討了人工智慧驅動的設計模式（如特定的圖標風格與介面動畫）如何開始影響更廣泛的軟體互動典範。作者分析這些新興的視覺符號是會成為長久的設計標準，還是僅僅停留在 AI 生態圈內的利基趨勢。",
+      "keywords": [
+        "AI",
+        "design patterns",
+        "UI/UX",
+        "software interaction",
+        "aesthetics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual analysis of how design trends evolve and how AI is shaping the visual language of modern software.",
+      "pacer_reason_zh": "本文屬於概念性分析，探討設計趨勢的演變以及人工智慧如何塑造現代軟體的視覺語言。"
+    },
+    {
+      "id": "abeae2d27bc60a17",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-07-30T12:04:25.000Z",
+      "summary_en": "This article explores the growing interest in solid-state battery technology. It explains the core technical transition from traditional liquid electrolytes to solid materials in lithium-ion batteries.",
+      "summary_zh": "本文探討了固態電池技術為何備受矚目。文中說明了其核心技術變革，即將鋰離子電池中的液態電解質替換為固態材料的原理。",
+      "keywords": [
+        "solid-state battery",
+        "lithium-ion",
+        "battery technology",
+        "electrolyte",
+        "energy storage"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the fundamental concepts and definitions behind solid-state battery technology.",
+      "pacer_reason_zh": "本文旨在解釋固態電池技術背後的基礎概念與定義。"
+    },
+    {
+      "id": "f967f8b49c156532",
+      "title": "Wheels, Bottles and Images",
+      "url": "https://nesbitt.io/2026/07/30/wheels-bottles-images.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-30T10:00:00.000Z",
+      "summary_en": "The article explores how Python wheels, Homebrew bottles, and OCI images function as self-service binary distribution systems. It highlights that despite originating in different ecosystems, these formats share underlying architectural similarities in how they leverage immutable, checksummed archives for efficient distribution.",
+      "summary_zh": "本文探討了 Python wheels、Homebrew bottles 與 OCI images 作為自助式二進位分發系統的機制。文章指出，儘管這些格式源自不同生態系統，但它們在利用不可變的校驗碼封存檔來實現高效分發方面，具有共同的架構特性。",
+      "keywords": [
+        "binary distribution",
+        "Python wheels",
+        "Homebrew",
+        "OCI images",
+        "package management"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explains the shared architecture and underlying principles of different binary distribution systems.",
+      "pacer_reason_zh": "本文從概念層面解釋了不同二進位分發系統的共同架構與底層運作原理。"
+    },
+    {
+      "id": "efc3790543667ac3",
+      "title": "So you want to use plants to reduce indoor CO₂",
+      "url": "https://dynomight.net/plants/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-07-30T00:00:00.000Z",
+      "summary_en": "This article evaluates the feasibility of using houseplants to offset human CO₂ production. It utilizes chemical calculations and thermodynamics to demonstrate that while theoretically possible, the energy requirements for plants to neutralize indoor carbon dioxide are practically prohibitive for typical home setups.",
+      "summary_zh": "本文探討了利用室內盆栽來抵銷人類排放二氧化碳的可行性。作者透過化學計算與熱力學分析指出，雖然在理論上可行，但要讓植物成功中和室內二氧化碳所需的能量遠超一般居家環境的負荷，實作難度極高。",
+      "keywords": [
+        "CO2",
+        "houseplants",
+        "photosynthesis",
+        "thermodynamics",
+        "indoor air quality"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses scientific data, chemical reaction constants, and energy calculations to provide evidence-based analysis of a hypothesis.",
+      "pacer_reason_zh": "文章運用科學數據、化學反應常數與能量計算，為一個假設提供基於證據的分析。"
+    },
+    {
+      "id": "73434824bcce4415",
+      "title": "Are political journalists always wrong?",
+      "url": "https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-07-30T11:34:31.000Z",
+      "summary_en": "The author reflects on the disconnect between political journalism and public interest, critiquing the sensationalism surrounding political transitions. They argue that media coverage often prioritizes breathless reporting over substantive analysis, leading to a general disillusionment with news consumption.",
+      "summary_zh": "作者反思了政治新聞報導與大眾興趣之間的脫節，批評了媒體在政權更迭期間的煽動性報導。文中指出，媒體往往過分強調聳動的報導而缺乏實質分析，這導致大眾對新聞內容感到疏離與幻滅。",
+      "keywords": [
+        "political journalism",
+        "media criticism",
+        "news consumption",
+        "UK politics",
+        "media bias"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique of political media behavior and the nature of news reporting.",
+      "pacer_reason_zh": "這篇文章對政治媒體的行為及其新聞報導本質進行了概念性的批判。"
+    },
+    {
+      "id": "a3a3fb8e9a24acb4",
+      "title": "You have been mislead about lightbulbs",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-07-30T00:00:00.000Z",
+      "summary_en": "This article debunks the myth that long-lasting lightbulbs are inherently superior, explaining the fundamental trade-off between a filament's temperature and its lifespan. It details how the laws of physics dictate that higher efficiency and better color require higher temperatures, which inevitably leads to faster material degradation.",
+      "summary_zh": "本文駁斥了長壽命燈泡優於普通燈泡的迷思，解釋了燈絲溫度與使用壽命之間的基本權衡。文章詳細說明了物理定律如何決定更高的效率與更好的光色需要更高的溫度，而這必然會導致材料加速損耗。",
+      "keywords": [
+        "lightbulbs",
+        "physics",
+        "tungsten",
+        "filament",
+        "efficiency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical trade-offs and physical constraints behind lightbulb technology and lifespan.",
+      "pacer_reason_zh": "本文解釋了燈泡技術與使用壽命背後的理論權衡及物理限制。"
+    },
+    {
+      "id": "437af91ee558771c",
+      "title": "Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/30/pay-for-privacy/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-30T12:51:03.000Z",
+      "summary_en": "Cory Doctorow critiques 'surveillance pricing,' a practice where AI utilizes vast consumer data dossiers to implement personalized price gouging. He argues that the lack of updated privacy laws enables companies to use AI-driven statistical analysis to exploit vulnerable consumers without explicit discriminatory instructions.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）批評了「監控定價」行為，即企業利用龐大的消費者數據檔案，透過 AI 進行個性化的價格歧視。他指出，由於缺乏更新的隱私法規，企業能利用 AI 的統計分析能力，在無需明確歧視指令的情況下，自動對弱勢消費者進行剝削。",
+      "keywords": [
+        "surveillance pricing",
+        "AI",
+        "privacy law",
+        "data brokers",
+        "consumer exploitation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how AI enables surveillance pricing and the systemic issues allowing it to occur.",
+      "pacer_reason_zh": "本文提供了關於 AI 如何實現監控定價的概念性解釋，並探討了導致此現象發生的系統性問題。"
+    },
+    {
+      "id": "f62495d075184976",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-07-30T16:49:00.000Z",
+      "summary_en": "Security researchers have exposed a massive fraud network involving generic TV streaming devices that secretly use compromised internet connections to click on AI-generated ads. These devices effectively turn unsuspecting users into participants in a global advertising fraud scheme.",
+      "summary_zh": "資安專家揭露一項大規模詐騙計畫，指出廉價串流機上盒會在用戶不知情下，秘密租用其網路頻寬並自動點擊 AI 生成廣告。這類裝置正被惡意利用，將使用者轉變為參與詐騙廣告聯播網的工具。",
+      "keywords": [
+        "streaming devices",
+        "ad fraud",
+        "cybersecurity",
+        "Krebs on Security",
+        "malware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific findings from a groundbreaking analysis and investigation into an active fraud operation.",
+      "pacer_reason_zh": "本文報導了針對一項活躍詐騙運作的開創性分析結果與調查發現。"
+    },
+    {
+      "id": "4aec8be12cee6023",
+      "title": "Quoting Bruce Schneier",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T18:25:26.000Z",
+      "summary_en": "Bruce Schneier argues that writing tasks in education serve as essential cognitive exercises for developing critical thinking skills rather than just producing output. He warns that over-reliance on AI for these tasks risks causing these vital skills to atrophy, a trend employers are already observing.",
+      "summary_zh": "Bruce Schneier 指出，教育中的寫作任務是培養批判性思考能力的關鍵認知鍛煉，而不僅僅是產出結果。他警告說，過度依賴 AI 進行寫作可能會導致這些重要技能萎縮，而雇主們已經開始注意到這種現象。",
+      "keywords": [
+        "ai-ethics",
+        "critical-thinking",
+        "generative-ai",
+        "education",
+        "bruce-schneier"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual argument regarding the impact of AI on cognitive development and the purpose of academic writing.",
+      "pacer_reason_zh": "該內容針對 AI 對認知發展的影響以及學術寫作的目的提供了概念性的論點。"
+    },
     {
       "id": "6d58c8e21149ded0",
       "title": "AI: Overwegingen voor wie erover gaat",
