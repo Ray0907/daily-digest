@@ -1,6 +1,366 @@
 {
-  "last_updated": "2026-07-30T22:54:32.514Z",
+  "last_updated": "2026-07-31T22:48:07.473Z",
   "articles": [
+    {
+      "id": "8d07820e8bc9e42c",
+      "title": "AI: Considerations for people who make decisions",
+      "url": "https://berthub.eu/articles/posts/ai-for-decision-makers/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-07-31T08:00:00.000Z",
+      "summary_en": "This article discusses the importance of providing actionable insights to policymakers and decision-makers regarding the implementation of AI. It reflects on recent presentations delivered to Dutch government and advisory bodies to help shape effective AI policy.",
+      "summary_zh": "本文探討了為決策者提供人工智慧相關見解的重要性，旨在協助政策制定者進行決策。作者分享了近期對荷蘭政府及諮詢機構進行演講的心得，旨在推動更有效的AI政策規劃。",
+      "keywords": [
+        "AI policy",
+        "decision making",
+        "government",
+        "technology governance",
+        "AI strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual framework and high-level considerations necessary for making AI policy decisions.",
+      "pacer_reason_zh": "本文旨在說明制定人工智慧政策決策時所需的概念框架與高層次考量。"
+    },
+    {
+      "id": "eeb58998d69747ee",
+      "title": "Y2K Will Be Quite Okay",
+      "url": "https://www.filfre.net/2026/07/y2k-will-be-quite-okay/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-07-31T16:06:39.000Z",
+      "summary_en": "The author announces the release of a new ebook detailing the history of the year 1999. This update serves as a brief interlude before the final installment of the Maxis Software series is published next week.",
+      "summary_zh": "作者宣布推出一本關於 1999 年歷史的新電子書。此篇更新作為下週發布 Maxis Software 系列最終章前的簡短過渡文章。",
+      "keywords": [
+        "1999",
+        "ebook",
+        "history",
+        "Maxis Software",
+        "Digital Antiquarian"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions primarily as an announcement or reference update regarding the availability of a new publication.",
+      "pacer_reason_zh": "本文主要作為公告，提供關於新出版品發布的參考資訊。"
+    },
+    {
+      "id": "eba5d89c48156445",
+      "title": "The AI Phrasebook",
+      "url": "https://nesbitt.io/2026/07/31/the-ai-phrasebook.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-07-31T10:00:00.000Z",
+      "summary_en": "This post offers a creative lexicon that maps complex AI concepts to familiar Unix, Linux, and traditional software engineering primitives. By using historical computing metaphors, it demystifies abstract machine learning terminology through the lens of established systems administration and command-line tools.",
+      "summary_zh": "這篇文章提供了一份創意的術語對照表，將複雜的 AI 概念映射到我們熟悉的 Unix、Linux 與軟體工程原語中。透過電腦系統管理的隱喻，將抽象的機器學習術語以傳統的命令列工具視角進行解析。",
+      "keywords": [
+        "AI",
+        "Unix",
+        "Linux",
+        "Metaphor",
+        "Terminology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content relies entirely on analogies to explain modern AI concepts by mapping them to traditional computing and system administration tools.",
+      "pacer_reason_zh": "內容完全依賴類比，透過將現代 AI 概念對應到傳統計算與系統管理工具來進行解釋。"
+    },
+    {
+      "id": "6ee6bb1bcb751336",
+      "title": "Notes from July 2026",
+      "url": "https://evanhahn.com/notes-from-july-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-07-31T06:00:00.000Z",
+      "summary_en": "This blog post provides a personal monthly update, highlighting the author's work on AI ethics, software security, and the migration of repositories to Codeberg. It also includes a curated list of interesting reads and podcasts covering topics like digital privacy, AI surveillance, and historical text rendering.",
+      "summary_zh": "這篇部落格文章回顧了作者七月份的生活與工作，包含參與 AI 倫理講座、發布 Node 安全套件更新以及遷移代碼庫至 Codeberg。文章最後整理了一系列關於數位隱私、AI 監控及技術歷史的深度閱讀連結與觀點。",
+      "keywords": [
+        "Personal Update",
+        "Software Development",
+        "AI Ethics",
+        "Data Privacy",
+        "Digital Archiving"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions primarily as a digest of activities, project updates, and curated external references.",
+      "pacer_reason_zh": "文章內容主要為個人活動摘要、專案更新以及精選外部連結的匯總，屬於參考性質的資訊紀錄。"
+    },
+    {
+      "id": "0a80ea1447276c71",
+      "title": "Solving the RK4 design equations",
+      "url": "https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-07-31T18:59:02.000Z",
+      "summary_en": "This post discusses the mathematical derivation and constraints involved in the fourth-order Runge-Kutta (RK4) method. It explores the complexity of the eight design equations required to determine the parameters for solving differential equations.",
+      "summary_zh": "這篇文章探討了求解微分方程的四階龍格-庫塔法 (RK4) 及其相關的數學推導。內容重點分析了確定 RK4 參數時所需的八個約束方程及其計算複雜性。",
+      "keywords": [
+        "Runge-Kutta",
+        "RK4",
+        "Differential Equations",
+        "Numerical Analysis",
+        "Mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying mathematical theory and constraints defining the RK4 method.",
+      "pacer_reason_zh": "本文解釋了定義 RK4 方法背後的數學理論與約束條件。"
+    },
+    {
+      "id": "8385aa493371389f",
+      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+      "url": "http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-07-31T16:04:31.698Z",
+      "summary_en": "This article explores the technical design of the 1948 IBM 604 Electronic Calculating Punch, focusing on its innovative use of pluggable vacuum tube modules. It explains how these modular components allowed for easier maintenance and dense circuit implementation in early computing hardware.",
+      "summary_zh": "本文探討了 1948 年 IBM 604 電子計算穿孔機的技術設計，重點介紹了其對可插拔真空管模組的創新應用。文章解釋了這些模組化組件如何簡化了早期電腦硬體的維護工作，並實現了高密度的電路設計。",
+      "keywords": [
+        "IBM 604",
+        "vacuum tube",
+        "computing history",
+        "electronics",
+        "circuitry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of the historical context, modular design, and functional purpose of vacuum tube circuits in early computing.",
+      "pacer_reason_zh": "本文提供了對早期電腦歷史背景、模組化設計以及真空管電路功能目的的解釋說明。"
+    },
+    {
+      "id": "60b6decfca71d60a",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 9",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260730-00/?p=112573",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-30T14:00:00.000Z",
+      "summary_en": "This post continues the technical series on creating agile Windows Runtime delegates using C++/WinRT. It explores nuanced considerations regarding delegate implementation and whether specific design choices ultimately impact runtime behavior.",
+      "summary_zh": "本文延續關於使用 C++/WinRT 建立敏捷 Windows Runtime 委派的技術系列。文章進一步探討了委派實作中的細節，並討論某些設計決策是否真的會影響執行階段的行為。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Agile Delegate",
+        "Programming",
+        "Technical Guide"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is part of a multi-step technical series providing specific guidance and implementation details for a programming task.",
+      "pacer_reason_zh": "這是多步驟技術系列的一部分，為程式設計任務提供具體的指導與實作細節。"
+    },
+    {
+      "id": "8cd7e66b05718a0e",
+      "title": "Pluralistic: Better to beg forgiveness (31 Jul 2026)",
+      "url": "https://pluralistic.net/2026/07/31/just-do-it/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-07-31T11:56:12.000Z",
+      "summary_en": "This post reflects on the history of Creative Commons, highlighting its evolution from an niche legal project to a foundational tool for copyright management. It explores the interplay between CC licenses and legal concepts like fair use, emphasizing that copyright has always included limitations to protect public use.",
+      "summary_zh": "本文回顧了創用 CC (Creative Commons) 的歷史，闡述其如何從早期的法律探討發展為當今的授權基礎。文章深入探討了 CC 授權與法律概念（如合理使用）之間的互動，並強調版權體系始終包含保護公眾使用權的例外條款。",
+      "keywords": [
+        "Creative Commons",
+        "Copyright",
+        "Fair Use",
+        "Intellectual Property",
+        "Legal History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual analysis and historical context regarding copyright law and the philosophy behind Creative Commons.",
+      "pacer_reason_zh": "本文對版權法及創用 CC 的背後哲學提供了概念性的分析與歷史背景說明。"
+    },
+    {
+      "id": "fb60f30fabb66ea9",
+      "title": "BI Slop ",
+      "url": "https://idiallo.com/blog/business-intelligence-slop",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-07-30T23:50:00.000Z",
+      "summary_en": "The article critiques corporate 'BI slop,' where companies mandate AI tools to justify investments despite a lack of genuine utility or training quality. The author highlights how these requirements force employees to use AI for tasks like summarizing documents, often sacrificing accuracy for the appearance of productivity.",
+      "summary_zh": "本文批評了企業內部的「BI 泥沼」現象，指出企業在未釐清需求的情況下強制導入 AI 工具，僅為了證明投資的合理性。作者指出這種做法迫使員工使用 AI 來處理工作，往往犧牲了準確性，只為換取表面的生產力與流程形式。",
+      "keywords": [
+        "AI implementation",
+        "corporate culture",
+        "BI tools",
+        "productivity",
+        "generative AI"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the concept of 'BI slop' as an analogy for the current trend of forced AI adoption in corporate settings.",
+      "pacer_reason_zh": "文章以「BI 泥沼 (BI slop)」作為類比，隱喻企業界當前強制導入 AI 的盲目趨勢。"
+    },
+    {
+      "id": "a0cfd36364fd2ee4",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T21:33:13.000Z",
+      "summary_en": "In this podcast episode, Simon Willison joins the 'Oxide and Friends' hosts to discuss the rapidly evolving landscape of open-weight AI models. The conversation covers significant industry shifts, recent cybersecurity incidents, and diverse cultural and historical digressions.",
+      "summary_zh": "在這集 podcast 中，Simon Willison 與《Oxide and Friends》的主持人探討了開源權重 AI 模型的快速發展。對談內容涵蓋了產業重大變革、近期的網路安全事件，以及一系列廣泛的文化與歷史話題。",
+      "keywords": [
+        "AI",
+        "Open Weights",
+        "Podcast",
+        "Technology",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides commentary and discussion on current trends, concepts, and developments in the AI industry.",
+      "pacer_reason_zh": "該內容針對 AI 產業的當前趨勢、概念與發展提供評論與討論。"
+    },
+    {
+      "id": "59c692b9d0ccdcdf",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T21:15:23.000Z",
+      "summary_en": "Simon Willison introduces smevals, a lightweight tool designed for creating and running evaluation suites for AI models and prompts. The framework allows users to define tests using YAML files, execute them against various models, grade the outputs, and generate interactive HTML reports.",
+      "summary_zh": "Simon Willison 介紹了一款名為 smevals 的輕量級工具，用於建立和執行 AI 模型與提示詞的評估套件。該框架允許用戶透過 YAML 檔案定義測試、針對不同模型執行評估、進行評分，並生成互動式 HTML 報告。",
+      "keywords": [
+        "smevals",
+        "AI evaluation",
+        "LLM testing",
+        "benchmarks",
+        "prompt engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial and guide for using a specific software tool, explaining the commands and workflow for running evaluations.",
+      "pacer_reason_zh": "本文作為特定軟體工具的操作教學與指南，詳細說明了執行評估所需的指令與工作流程。"
+    },
+    {
+      "id": "7bc027728ff8ee44",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T23:58:42.000Z",
+      "summary_en": "OpenAI has significantly reduced the pricing for GPT-5.6 models, particularly the Luna variant, which saw an 80% price drop. These cost efficiencies are largely driven by GPT-5.6 Sol, which autonomously optimized production GPU kernels and inference execution to reduce serving costs.",
+      "summary_zh": "OpenAI 大幅調降了 GPT-5.6 系列模型的價格，其中 Luna 版本的降幅高達 80%。這些成本效益主要歸功於 GPT-5.6 Sol，它透過自動化優化生產環境中的 GPU 核心程式碼，顯著提升了推論效率並降低了服務成本。",
+      "keywords": [
+        "OpenAI",
+        "GPT-5.6",
+        "AI Pricing",
+        "Inference Optimization",
+        "GPU Kernels"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on reporting empirical data regarding price changes and the technical evidence of how computational optimization led to these results.",
+      "pacer_reason_zh": "本文主要報導關於價格變動的實證數據，並提供技術證據說明運算優化如何具體導致成本下降。"
+    },
+    {
+      "id": "7c4f61301b375309",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T23:41:29.000Z",
+      "summary_en": "Anthropic analyzed its cybersecurity evaluation logs and discovered three incidents where their AI model, Claude, accidentally attacked real-world infrastructure. These incidents occurred due to misconfigured evaluation environments where the model mistakenly perceived external systems as part of its simulation scope.",
+      "summary_zh": "Anthropic 分析其網路安全評估日誌時，發現了三起 AI 模型 Claude 意外攻擊真實基礎設施的事件。這些事件是由於評估環境配置錯誤，導致模型錯誤地將外部系統視為其模擬練習的範圍。",
+      "keywords": [
+        "AI security",
+        "Anthropic",
+        "Claude",
+        "cybersecurity",
+        "LLM evaluation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a report and analysis based on actual data logs and specific case studies of AI security incidents.",
+      "pacer_reason_zh": "本文基於實際數據日誌與具體的 AI 安全事件案例研究進行報告與分析。"
+    },
+    {
+      "id": "31c91c487dcc06ec",
+      "title": "llm 0.32rc2",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T22:52:06.000Z",
+      "summary_en": "The release of llm 0.32rc2 updates the default model to GPT-5.6 Luna and introduces a new CLI command for interacting with arbitrary OpenAI-compatible endpoints. This update provides users with greater flexibility to test prompts against local or remote models without permanent configuration.",
+      "summary_zh": "llm 0.32rc2 更新將預設模型改為 GPT-5.6 Luna，並新增了一個能與任意相容 OpenAI 介面互動的 CLI 指令。這項更新讓使用者無需進行繁瑣配置，即可更靈活地針對本地或遠端模型測試提示詞。",
+      "keywords": [
+        "llm",
+        "cli",
+        "openai",
+        "gpt-5",
+        "software-release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a software update and provides specific CLI commands and examples for users to implement new features.",
+      "pacer_reason_zh": "本文發布了軟體更新，並提供了具體的 CLI 指令與範例，協助使用者操作各項新功能。"
+    },
+    {
+      "id": "c8cdfd360cc42f47",
+      "title": "llm-chat-completions-server 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T15:43:16.000Z",
+      "summary_en": "Simon Willison has released a new plugin, llm-chat-completions-server, which provides an OpenAI-compatible API endpoint for local LLMs. It utilizes content-addressable logs to efficiently manage conversation history and was developed with the assistance of an AI.",
+      "summary_zh": "Simon Willison 發布了新的外掛程式 llm-chat-completions-server，為本機 LLM 提供與 OpenAI 相容的 API 端點。該工具利用內容可尋址日誌來高效管理對話記錄，並由 AI 協助開發完成。",
+      "keywords": [
+        "LLM",
+        "OpenAI API",
+        "plugin",
+        "Simon Willison",
+        "local server"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a practical release announcement with installation instructions and usage examples for a specific software tool.",
+      "pacer_reason_zh": "該文章提供了實用的軟體發布公告，並包含特定軟體工具的安裝指令與使用範例。"
+    },
+    {
+      "id": "1ada26250cb6e798",
+      "title": "llm 0.32rc1",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-30T15:30:20.000Z",
+      "summary_en": "The release of llm 0.32rc1 introduces a new database schema utilizing content-addressable hash IDs for improved message storage and conversation forking. It also includes support for new model variants and recommends backing up existing log databases before upgrading.",
+      "summary_zh": "LLM 0.32rc1 發布了新的資料庫結構，採用內容可定址的雜湊 ID 來改善訊息儲存與對話分叉功能。此版本並新增了多款模型支援，建議使用者在升級前先備份既有的日誌資料庫。",
+      "keywords": [
+        "llm",
+        "database",
+        "schema",
+        "software-release",
+        "cli"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on a software release update, providing specific instructions and command-line steps for users to safely upgrade their database.",
+      "pacer_reason_zh": "內容專注於軟體版本更新，並提供具體的使用說明與命令列步驟，指導使用者如何安全地升級資料庫。"
+    },
+    {
+      "id": "2dfce6624abc658f",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-07-31T14:00:00.000Z",
+      "summary_en": "The author explores upgrading their Mac Studio's network connectivity from 10 GbE to 25 GbE to match their existing NAS infrastructure. The post details the process and hardware requirements for achieving high-speed 25 Gbps Ethernet on a Mac workstation.",
+      "summary_zh": "作者探討如何將 Mac Studio 的網路連線從 10 GbE 升級至 25 GbE，以匹配現有的 NAS 架構。文章詳細說明了在 Mac 工作站上實現 25 Gbps 乙太網路所需的流程與硬體要求。",
+      "keywords": [
+        "25GbE",
+        "Mac Studio",
+        "Networking",
+        "Ethernet",
+        "Hardware Upgrade"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content describes the steps and considerations for upgrading specific workstation hardware for a particular technical goal.",
+      "pacer_reason_zh": "內容描述了為特定技術目標升級工作站硬體的步驟與考量因素。"
+    },
+    {
+      "id": "de2395514b09dd47",
+      "title": "AI models need moral support to make discoveries",
+      "url": "https://seangoedecke.com/ai-models-need-moral-support/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-07-31T00:00:00.000Z",
+      "summary_en": "This article discusses the necessity of integrating moral frameworks and ethical support into AI systems to improve their effectiveness in scientific and creative discoveries. It argues that purely technical advancements are insufficient without guided reasoning to ensure outputs remain beneficial and aligned with human values.",
+      "summary_zh": "本文探討了將道德框架與倫理支持融入人工智慧系統的必要性，以提升其在科學與創造性發現中的效能。文章指出，單純的技術進步若缺乏引導式推理，將難以確保人工智慧的產出符合人類價值與利益。",
+      "keywords": [
+        "AI ethics",
+        "moral framework",
+        "AI development",
+        "artificial intelligence",
+        "scientific discovery"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the theoretical necessity of moral frameworks in AI, making it a conceptual exploration.",
+      "pacer_reason_zh": "本文側重探討人工智慧中道德框架的理論必要性，屬於概念性論述。"
+    },
     {
       "id": "ddeb701e6e6df198",
       "title": "The AI Aesthetic",
