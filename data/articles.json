@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026-07-31T22:48:07.473Z",
+  "last_updated": "2026-08-01T22:42:32.694Z",
   "articles": [
+    {
+      "id": "ab2fa5b72db71c1b",
+      "title": "Put A Tag On It",
+      "url": "https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-08-01T20:18:00.000Z",
+      "summary_en": "This article explores the historical resistance to barcode technology and draws parallels to modern concerns regarding electronic shelf labels. It examines how legislative fears and labor unions once fought barcode adoption, mirroring current anxieties about dynamic pricing and personalized data.",
+      "summary_zh": "本文探討了過去對條碼技術的抵制，並將其與當前對電子標籤的疑慮進行了對照。文章回顧了立法機構與工會曾如何抗拒條碼普及，反映出人們對現代動態定價與個人化數據運用的相似擔憂。",
+      "keywords": [
+        "pricing gun",
+        "barcodes",
+        "electronic shelf labels",
+        "dynamic pricing",
+        "retail technology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the history of the pricing gun and barcode adoption as an analogy to explain current debates surrounding modern electronic retail technologies.",
+      "pacer_reason_zh": "文章以價格標籤槍與條碼普及的歷史作為類比，用以解釋當前圍繞電子零售技術的爭議。"
+    },
+    {
+      "id": "8ffa86af98dabfce",
+      "title": "Reading List 08/01/26",
+      "url": "https://www.construction-physics.com/p/reading-list-080126",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-01T12:04:01.000Z",
+      "summary_en": "This digest covers a diverse range of current affairs and industrial developments, including technological innovations in drone security, semiconductor advancements in China, and significant energy sector funding. It also touches on large-scale infrastructure planning with a focus on airport renovation projects.",
+      "summary_zh": "本篇摘要涵蓋了多元的時事與產業發展，包括無人機維安技術、中國晶片產業的發展，以及核融合能源領域的資金籌集。此外，內容也探討了包括杜勒斯機場翻新在內的大型基礎設施規劃案。",
+      "keywords": [
+        "科技趨勢",
+        "半導體",
+        "核融合",
+        "基礎建設",
+        "時事觀察"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and topics, serving as reference material for current industry events.",
+      "pacer_reason_zh": "本文屬於精選連結與議題的匯編，作為關注當前產業動態的參考資料。"
+    },
+    {
+      "id": "333d7e4161423d35",
+      "title": "This Week in Package Management: 1 August 2026",
+      "url": "https://nesbitt.io/2026/08/01/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-01T10:00:00.000Z",
+      "summary_en": "This weekly digest highlights recent updates across major package management tools, including security improvements in mise, Verdaccio, and uv. It covers version releases, dependency management changes, and infrastructure adjustments aimed at improving workflow safety and performance.",
+      "summary_zh": "本週摘要整理了多款套件管理工具的最新更新，包括 mise、Verdaccio 與 uv 的安全性改進與版本變動。內容涵蓋了依賴管理優化及提升工作流程安全性與效能的相關調整。",
+      "keywords": [
+        "package management",
+        "mise",
+        "Verdaccio",
+        "uv",
+        "software updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software release notes and updates.",
+      "pacer_reason_zh": "本文作為定期更新的參考清單，總結了軟體發布說明與相關變更。"
+    },
+    {
+      "id": "dc76422ea904c145",
+      "title": "Why polynomial coefficients?",
+      "url": "https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-01T20:18:41.000Z",
+      "summary_en": "This article explores the significance of second-order linear differential equations with polynomial coefficients in applied mathematics. It examines why this specific class of equations, despite appearing narrow, is a foundational and essential subject in various scientific applications.",
+      "summary_zh": "本文探討了多項式係數的二階線性微分方程在應用數學中的重要性。儘管這類方程看似範圍狹窄，但它們在各類科學應用中卻扮演著基礎且關鍵的角色。",
+      "keywords": [
+        "differential equations",
+        "polynomial coefficients",
+        "applied mathematics",
+        "mathematical physics",
+        "analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical significance and nature of a specific mathematical concept rather than providing a tutorial or experimental data.",
+      "pacer_reason_zh": "本文旨在解釋特定數學概念的理論重要性與本質，而非提供教學指南或實驗數據。"
+    },
+    {
+      "id": "154a58d8eec18b1e",
+      "title": "Counting rooted trees",
+      "url": "https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-01T16:15:53.000Z",
+      "summary_en": "This article explores the combinatorial challenge of counting unlabeled rooted trees and highlights its surprising relevance to solving differential equations. It emphasizes the value of connecting abstract mathematical problems to practical applications in other fields.",
+      "summary_zh": "本文探討了計算無標記有根樹的組合學挑戰，並強調了其與解微分方程等實際應用之間的意外連結。文章指出，將抽象數學問題與其他領域相結合具有重要的價值。",
+      "keywords": [
+        "combinatorics",
+        "rooted trees",
+        "mathematics",
+        "differential equations",
+        "numerical methods"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the conceptual relationship between pure combinatorial theory and its application in numerical analysis.",
+      "pacer_reason_zh": "內容重點在於解釋純組合學理論與其在數值分析應用之間的觀念性關聯。"
+    },
+    {
+      "id": "f9304ca678b0c015",
+      "title": "Runge-Kutta order versus stages",
+      "url": "https://www.johndcook.com/blog/2026/08/01/butcher-barrier/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-01T15:58:15.000Z",
+      "summary_en": "This article explains the relationship between the number of stages and the order of error in Runge-Kutta methods. It highlights that while stages and order are equal for lower-order methods, higher-order methods require significantly more stages.",
+      "summary_zh": "本文探討了龍格-庫塔法（Runge-Kutta methods）中運算階段數與誤差階數之間的關係。文章指出，雖然在低階方法中階段數與誤差階數相等，但若要達到五階或更高的誤差精度，則需要更多的階段數。",
+      "keywords": [
+        "Runge-Kutta",
+        "differential equations",
+        "numerical analysis",
+        "mathematics",
+        "error order"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the relationship between stages and order in numerical integration methods.",
+      "pacer_reason_zh": "本文針對數值積分法中階段數與階數的關係提供了概念性的解釋。"
+    },
+    {
+      "id": "a83360e2f32ed11a",
+      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-07-31T14:00:00.000Z",
+      "summary_en": "This article is the tenth installment in a series exploring the creation of agile Windows Runtime delegates using C++/WinRT. It focuses on diagnosing and understanding the implications of failures within context callbacks.",
+      "summary_zh": "本文是探討如何使用 C++/WinRT 建立靈活 Windows Runtime 委派系列的第十篇。文章重點在於分析當內容回呼（context callback）失敗時所代表的意義及其影響。",
+      "keywords": [
+        "C++/WinRT",
+        "Windows Runtime",
+        "Delegate",
+        "Context Callback",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a technical step-by-step series providing guidance on implementing specific C++/WinRT features.",
+      "pacer_reason_zh": "本文屬於技術性教學系列的一部分，提供了關於實作特定 C++/WinRT 功能的逐步指導。"
+    },
+    {
+      "id": "25bab37e97397e96",
+      "title": "Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-01T11:34:43.000Z",
+      "summary_en": "This review evaluates the HIKMICRO D02 thermal camera, highlighting its affordability and impressive feature set despite its simple design. The device is praised for its accessibility and Linux compatibility, making it a strong option for home use.",
+      "summary_zh": "這篇評論介紹了 HIKMICRO D02 紅外線熱顯像儀，強調其平價親民且功能豐富的優勢。儘管外觀簡潔，該設備仍展現出色的易用性與 Linux 兼容性，非常適合作為居家用途。",
+      "keywords": [
+        "HIKMICRO",
+        "thermal camera",
+        "gadget review",
+        "infrared",
+        "Linux"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is a hands-on review evaluating the performance and features of a specific product.",
+      "pacer_reason_zh": "本文為針對特定產品的實際評測，旨在評估其性能與功能表現。"
+    },
+    {
+      "id": "dace034990b5c76e",
+      "title": "Pluralistic: Why businesses lie about AI (01 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/01/dare-snot/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-01T12:29:28.000Z",
+      "summary_en": "Cory Doctorow argues that corporate hype surrounding AI is driven by a flawed assumption that corporate leadership's wealth equates to superior intelligence. He contends that AI's current impact is overstated, contrasting it with critical digital infrastructure like operating systems and hardware, which would cause actual societal collapse if disabled.",
+      "summary_zh": "Cory Doctorow 認為企業對人工智慧的炒作源於一種錯誤的假設，即認為企業高層的財富等於其智慧過人。他指出 AI 目前的影響力被過度誇大，並將其與作業系統和硬體等關鍵數位基礎設施進行對比，說明若後者失效將導致社會癱瘓，而 AI 則非如此。",
+      "keywords": [
+        "AI",
+        "corporate-hype",
+        "digital-sovereignty",
+        "cory-doctorow",
+        "economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the economic and logical fallacies behind current AI business trends.",
+      "pacer_reason_zh": "本文針對當前 AI 商業趨勢背後的經濟與邏輯謬誤提供了概念性的批判分析。"
+    },
+    {
+      "id": "9d04b3a9a2417e2b",
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-01T22:29:44.000Z",
+      "summary_en": "Greg Brockman reflects on how OpenAI employees dislike receiving AI-generated requests, highlighting a preference for direct human interaction. The post suggests that people value AI as a tool to save time rather than as a filter that disrupts personal connection.",
+      "summary_zh": "Greg Brockman 分享了 OpenAI 員工對於收到 AI 自動發送的任務請求感到反感，強調人們更重視真實的人際互動。這反映出人們希望 AI 能節省時間或增進連結，而非成為阻隔人際關係的屏障。",
+      "keywords": [
+        "AI ethics",
+        "human connection",
+        "OpenAI",
+        "Generative AI",
+        "workplace culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores a conceptual reflection on human psychology and the role of AI in professional relationships.",
+      "pacer_reason_zh": "內容探討了關於人類心理以及 AI 在職場關係中定位的概念性反思。"
+    },
+    {
+      "id": "453d766c216078df",
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-01T21:23:56.000Z",
+      "summary_en": "Datasette Apps 0.2a0 introduces new debugging and management tools designed for Datasette Agent. Key features include an invisible iframe-based testing mechanism that allows agents to perform smoke tests and UI measurements via JavaScript.",
+      "summary_zh": "Datasette Apps 0.2a0 推出了專為 Datasette Agent 設計的全新除錯與管理工具。主要功能包含一種基於隱形 iframe 的測試機制，讓代理程式能夠透過 JavaScript 執行自動化測試與 UI 測量。",
+      "keywords": [
+        "datasette",
+        "datasette-apps",
+        "datasette-agent",
+        "testing",
+        "iframes"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is a release announcement documenting new tools and functional additions to a software package.",
+      "pacer_reason_zh": "這是軟體發布公告，記錄了該套件的新增工具與功能更新。"
+    },
+    {
+      "id": "518c46c1375437aa",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-01T20:34:49.000Z",
+      "summary_en": "OpenAI recently used an advanced AI model to solve ten long-standing mathematical problems, documenting their success through Lean 4 formalizations and research papers. The post highlights the significance of this milestone, comparing the community reaction to the historical Deep Blue event and the shift toward 'big mathematics'.",
+      "summary_zh": "OpenAI 近期利用先進人工智慧模型解決了十個懸宕已久的數學難題，並透過 Lean 4 形式化驗證與研究論文公開了成果。本文討論了數學界對此類成就的關注，並將其與「深藍」事件及數學研究邁向「大數學」的轉變進行了對比。",
+      "keywords": [
+        "OpenAI",
+        "Mathematics",
+        "AI",
+        "Lean 4",
+        "Big Mathematics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on reporting a specific technological achievement, empirical results, and the evidence (papers and formal proofs) provided by OpenAI.",
+      "pacer_reason_zh": "本文重點在於報導特定的技術成就、實證結果，以及 OpenAI 所提供的研究論文與形式化證明等證據。"
+    },
+    {
+      "id": "95185cf91586e5d4",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T23:59:44.000Z",
+      "summary_en": "DeepSeek-V4-Flash-0731 is a new 304B parameter model that offers exceptional performance-to-cost efficiency. Analysis shows it outperforms larger models like MiniMax M3 while maintaining significantly lower operational costs.",
+      "summary_zh": "DeepSeek-V4-Flash-0731 是一款擁有 304B 參數的新型模型，在效能與成本之間取得了極佳的平衡。分析顯示，該模型在維持低廉成本的同時，表現超越了如 MiniMax M3 等規模更大的競爭對手。",
+      "keywords": [
+        "DeepSeek",
+        "AI Models",
+        "LLM",
+        "Artificial Analysis",
+        "Cost-Efficiency"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article relies on benchmark data and performance-to-cost charts from Artificial Analysis to evaluate the model.",
+      "pacer_reason_zh": "本文主要依賴來自 Artificial Analysis 的基準測試數據及效能成本對比圖表來評估該模型。"
+    },
+    {
+      "id": "6663cb7fa838dda5",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T23:13:22.000Z",
+      "summary_en": "The article discusses the release of the stateless Model Context Protocol (MCP) 2.0 and its renewed appeal for AI developers. The author explains that stateless MCP offers a more secure and simpler alternative to raw shell access, making it highly effective for smaller, local LLMs.",
+      "summary_zh": "本文探討了無狀態模型上下文協議 (MCP) 2.0 的發布及其對開發者重燃的吸引力。作者指出，相較於直接提供終端機存取權，無狀態 MCP 提供了更安全、更簡便的替代方案，特別適合由小型本地運作的 LLM 驅動。",
+      "keywords": [
+        "MCP",
+        "LLM",
+        "Stateless",
+        "AI Agents",
+        "Anthropic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview and justification for a new technical specification, explaining why it is superior to previous methods.",
+      "pacer_reason_zh": "本文針對一項新的技術規範提供了概念性概述與理由，解釋了為何它比過往的方法更具優勢。"
+    },
+    {
+      "id": "07b8466a242f0fb1",
+      "title": "llm-mcp-client 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T23:03:47.000Z",
+      "summary_en": "Simon Willison has released version 0.1a0 of llm-mcp-client, a tool designed to interact with the Model Context Protocol. This release announcement serves as a reference for developers tracking updates to his LLM ecosystem tools.",
+      "summary_zh": "Simon Willison 發布了 llm-mcp-client 0.1a0 版本，這是一款用於與模型上下文協議（Model Context Protocol）互動的工具。此發布公告為追蹤其 LLM 生態系統工具更新的開發者提供了參考。",
+      "keywords": [
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "simon-willison",
+        "software-release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions primarily as a release notification and reference link for a specific software version.",
+      "pacer_reason_zh": "這篇文章主要作為特定軟體版本的發布通知及參考連結。"
+    },
+    {
+      "id": "b940b64d997f8620",
+      "title": "Slack Emoji Maker",
+      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T20:18:05.000Z",
+      "summary_en": "Simon Willison introduces a simple web-based image editor designed to help users create custom Slack emojis. The tool automatically enforces the required 128x128 pixel dimensions and transparent background settings for Slack uploads.",
+      "summary_zh": "Simon Willison 推出了一款簡單的網頁圖像編輯器，旨在協助使用者製作自訂的 Slack 表情符號。該工具會自動確保圖片符合 Slack 上傳所需的 128x128 像素規格及透明背景要求。",
+      "keywords": [
+        "Slack",
+        "emoji",
+        "web tools",
+        "image editor",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content introduces a specific tool designed to perform a task (creating Slack emojis), functioning as a functional utility or how-to resource.",
+      "pacer_reason_zh": "該內容介紹了一款專門用於執行特定任務（製作 Slack 表情符號）的工具，屬於功能性實用程式或操作指南類型。"
+    },
+    {
+      "id": "a2271f06d37ea936",
+      "title": "datasette-agent 0.4a0",
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-07-31T14:14:23.000Z",
+      "summary_en": "Datasette-agent 0.4a0 introduces a new 'browser_task' mechanism, enabling agent tools to execute custom JavaScript directly within the user's browser. This update enhances plugin capabilities and has been applied to implement a debug loop for Datasette Apps.",
+      "summary_zh": "Datasette-agent 0.4a0 引入了全新的 'browser_task' 機制，讓代理工具能夠直接在使用者瀏覽器中執行自訂 JavaScript。此更新增強了外掛程式的功能，並已應用於 Datasette Apps 的偵錯迴圈功能中。",
+      "keywords": [
+        "datasette",
+        "datasette-agent",
+        "javascript",
+        "llm",
+        "browser-automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a new technical release and provides a specific mechanism (function) for developers to utilize in their projects.",
+      "pacer_reason_zh": "這篇文章發布了新的技術版本，並為開發者提供了一個可在專案中使用的具體功能機制。"
+    },
     {
       "id": "8d07820e8bc9e42c",
       "title": "AI: Considerations for people who make decisions",
