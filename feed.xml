@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 01 Aug 2026 22:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 22:43:03 GMT</lastBuildDate>
     
+    <item>
+      <title>I'm (mostly) picking models on speed now, not intelligence</title>
+      <link>https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The author discusses a shift in preference for AI models, prioritizing high-speed inference (tokens per second) over pure intelligence for daily tasks. The piece explores the optimal speed thresholds for user experience and predicts the impact of an emerging price war in the model market.</description>
+    </item>
+
+    <item>
+      <title>MkLinux and the pimped-out Apple Workgroup Server 9150</title>
+      <link>https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</link>
+      <guid>https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</guid>
+      <pubDate>Sun, 02 Aug 2026 02:54:02 GMT</pubDate>
+      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
+      <description>This article explores the historical context behind Apple's early 1990s server strategy, specifically focusing on the Workgroup Server line and its origins in the failed Macintosh Office concept. The author chronicles the process of restoring an Apple Workgroup Server 9150 and details the evolution of Apple's attempt to enter the server market.</description>
+    </item>
+
+    <item>
+      <title>Mathematics Without Mathematicians</title>
+      <link>https://borretti.me/article/mathematics-without-mathematicians</link>
+      <guid>https://borretti.me/article/mathematics-without-mathematicians</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>The article contemplates the limits of human knowledge in mathematics, drawing from David Hilbert's famous motto. It reflects on the philosophical tension between the desire to understand all truths and the possibility that some remain permanently beyond our reach.</description>
+    </item>
+
+    <item>
+      <title>Holonomic functions</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</guid>
+      <pubDate>Sun, 02 Aug 2026 20:47:53 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post defines holonomic functions as solutions to linear differential equations with polynomial coefficients. It explains that these functions generalize many of the special functions typically encountered in mathematical physics.</description>
+    </item>
+
+    <item>
+      <title>Estimating a cumulative sum</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
+      <pubDate>Sun, 02 Aug 2026 17:57:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the relationship between the sequence of unlabeled rooted trees and its cumulative sum. The author highlights how these sequences relate to mathematical constraints in Runge-Kutta methods.</description>
+    </item>
+
+    <item>
+      <title>Open letters about AI development</title>
+      <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</guid>
+      <pubDate>Sun, 02 Aug 2026 04:16:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison summarizes recent open letters from major tech companies advocating for open-weight AI models. The post highlights the industry's pushback against government regulations that could restrict open weights in the name of safety.</description>
+    </item>
+
+    <item>
+      <title>July 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</guid>
+      <pubDate>Sun, 02 Aug 2026 04:12:41 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison announces the release of his July 2026 sponsors-only newsletter. The edition covers recent AI model updates, industry developments, and updates on his personal projects and development tools.</description>
+    </item>
+
+    <item>
+      <title>Giving and taking credit in big tech companies</title>
+      <link>https://seangoedecke.com/giving-and-taking-credit/</link>
+      <guid>https://seangoedecke.com/giving-and-taking-credit/</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the nuances of attributing credit within large technology organizations. It examines how employees can effectively navigate team dynamics to ensure their contributions are recognized.</description>
+    </item>
+
     <item>
       <title>Put A Tag On It</title>
       <link>https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history</link>
@@ -838,84 +910,6 @@ http://antirez.com/news/172
       <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>This roundup highlights key updates in package management tools, including performance improvements for opam and pnpm, and new functionality for RubyGems, uv, and mise. The report covers a series of bug fixes, security enhancements, and feature releases from late July 2026.</description>
-    </item>
-
-    <item>
-      <title>Excel column numbering</title>
-      <link>https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</link>
-      <guid>https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</guid>
-      <pubDate>Sat, 25 Jul 2026 13:37:30 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article explores the logic behind Excel's column labeling system, which uses letters to represent column numbers. It clarifies that the system is not a standard base-26 numeral system and explains the underlying mathematical structure.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Apple's robo-repo (25 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/</link>
-      <guid>https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/</guid>
-      <pubDate>Sat, 25 Jul 2026 10:41:10 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article examines the predatory nature of the 'risk premium' in lending, where financial institutions charge poor borrowers exorbitant interest rates. It critiques how companies exploit vulnerable populations by socializing risk while prioritizing high-interest returns.</description>
-    </item>
-
-    <item>
-      <title>
-Being Linux Torvalds
-</title>
-      <link>
-http://antirez.com/news/171
-</link>
-      <guid>
-http://antirez.com/news/171
-</guid>
-      <pubDate>Sat, 25 Jul 2026 11:20:55 GMT</pubDate>
-      <source url="http://antirez.com/"></source>
-      <description>The article explores the distinction between Linus Torvalds' technical skill and his true legacy as a leader. It argues that while many programmers can write a kernel, Torvalds' unique impact stemmed from his early transition from active coder to project coordinator and visionary leader.</description>
-    </item>
-
-    <item>
-      <title>Quoting Boris Cherny</title>
-      <link>https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</guid>
-      <pubDate>Sat, 25 Jul 2026 00:42:59 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights findings from the Claude Opus 5 system card regarding its improved resistance to prompt injection. It emphasizes that the model is significantly harder to manipulate than its predecessors according to recent red teaming evaluations.</description>
-    </item>
-
-    <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
-      <pubDate>Fri, 24 Jul 2026 23:48:50 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has released Claude Opus 5, a new model that leads current AI leaderboards while maintaining the same pricing as its predecessor. The model demonstrates advanced proactive problem-solving capabilities and improved vulnerability detection without being explicitly trained on exploit execution.</description>
-    </item>
-
-    <item>
-      <title>Becoming Skilled at Making Documents</title>
-      <link>https://anildash.com/2026/07/24/make-better-documents-skill/</link>
-      <guid>https://anildash.com/2026/07/24/make-better-documents-skill/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash introduces a new 'skills.md' file designed to help LLMs generate more effective business documents. By providing specific prompts and testing criteria, the tool helps users improve clarity, structure, and audience consideration in their writing.</description>
-    </item>
-
-    <item>
-      <title>Matrox</title>
-      <link>https://www.abortretry.fail/p/matrox</link>
-      <guid>https://www.abortretry.fail/p/matrox</guid>
-      <pubDate>Fri, 24 Jul 2026 14:37:24 GMT</pubDate>
-      <source url="https://www.abortretry.fail/">Abort Retry Fail</source>
-      <description>This brief post highlights Matrox as a provider of specialized graphics solutions. It positions the company as a key player in hardware intended for professional-grade computing environments.</description>
-    </item>
-
-    <item>
-      <title>Podcast Notes: Ed Catmull on David Senra</title>
-      <link>https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/</link>
-      <guid>https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/</guid>
-      <pubDate>Fri, 24 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post highlights insights from Ed Catmull on managing creative teams, emphasizing the importance of team dynamics over traditional metrics. Catmull argues that the health of a project should be gauged by the collective spirit and collaboration of the team rather than purely analytical or financial data.</description>
     </item>
   </channel>
 </rss>

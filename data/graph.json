@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "09b08e47fbd0c6b3",
+      "title": "Holonomic functions",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/02/holonomic-functions/",
+      "pacer": "C",
+      "keywords": [
+        "holonomic functions",
+        "mathematical physics",
+        "differential equations",
+        "special functions",
+        "John D. Cook"
+      ],
+      "published": "2026-08-02T20:47:53.000Z"
+    },
+    {
+      "id": "8f361f4d618587ef",
+      "title": "Estimating a cumulative sum",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/",
+      "pacer": "C",
+      "keywords": [
+        "Runge-Kutta",
+        "combinatorics",
+        "mathematics",
+        "cumulative sum",
+        "rooted trees"
+      ],
+      "published": "2026-08-02T17:57:31.000Z"
+    },
+    {
+      "id": "fe470f21b2646aa3",
+      "title": "Open letters about AI development",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Open Weights",
+        "Microsoft",
+        "Regulation",
+        "Open Source"
+      ],
+      "published": "2026-08-02T04:16:52.000Z"
+    },
+    {
+      "id": "eb2b47d50db42393",
+      "title": "July 2026 newsletter",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "newsletter",
+        "AI",
+        "Simon Willison",
+        "OpenAI",
+        "Claude"
+      ],
+      "published": "2026-08-02T04:12:41.000Z"
+    },
+    {
+      "id": "4ef5b8e1afa8a9c6",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "url": "https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "pacer": "C",
+      "keywords": [
+        "Apple",
+        "Workgroup Server",
+        "MkLinux",
+        "Macintosh Office",
+        "Vintage Computing"
+      ],
+      "published": "2026-08-02T02:54:02.560Z"
+    },
+    {
+      "id": "e6cc8e26a06cd23d",
+      "title": "I'm (mostly) picking models on speed now, not intelligence",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI models",
+        "inference speed",
+        "LLM",
+        "tokens per second",
+        "artificial intelligence"
+      ],
+      "published": "2026-08-02T00:00:00.000Z"
+    },
+    {
+      "id": "681d60cb1f52f6e8",
+      "title": "Mathematics Without Mathematicians",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/mathematics-without-mathematicians",
+      "pacer": "C",
+      "keywords": [
+        "Mathematics",
+        "Philosophy",
+        "Hilbert",
+        "Epistemology",
+        "Knowledge"
+      ],
+      "published": "2026-08-02T00:00:00.000Z"
+    },
+    {
+      "id": "08335c8dfd8f76e3",
+      "title": "Giving and taking credit in big tech companies",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/giving-and-taking-credit/",
+      "pacer": "C",
+      "keywords": [
+        "tech culture",
+        "career growth",
+        "credit",
+        "collaboration",
+        "workplace dynamics"
+      ],
+      "published": "2026-08-02T00:00:00.000Z"
+    },
+    {
       "id": "9d04b3a9a2417e2b",
       "title": "Quoting Greg Brockman",
       "source": "Simon Willison's Weblog",
@@ -175,54 +303,6 @@
         "software updates"
       ],
       "published": "2026-08-01T10:00:00.000Z"
-    },
-    {
-      "id": "95185cf91586e5d4",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-      "pacer": "E",
-      "keywords": [
-        "DeepSeek",
-        "AI Models",
-        "LLM",
-        "Artificial Analysis",
-        "Cost-Efficiency"
-      ],
-      "published": "2026-07-31T23:59:44.000Z"
-    },
-    {
-      "id": "6663cb7fa838dda5",
-      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "MCP",
-        "LLM",
-        "Stateless",
-        "AI Agents",
-        "Anthropic"
-      ],
-      "published": "2026-07-31T23:13:22.000Z"
-    },
-    {
-      "id": "0a80ea1447276c71",
-      "title": "Solving the RK4 design equations",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/",
-      "pacer": "C",
-      "keywords": [
-        "Runge-Kutta",
-        "RK4",
-        "Differential Equations",
-        "Numerical Analysis",
-        "Mathematics"
-      ],
-      "published": "2026-07-31T18:59:02.000Z"
     },
     {
       "id": "eeb58998d69747ee",
@@ -639,22 +719,6 @@
         "decision making"
       ],
       "published": "2026-07-29T00:00:00.000Z"
-    },
-    {
-      "id": "3e59a7b43cfb4cfb",
-      "title": "Inverse factorial improved",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/",
-      "pacer": "P",
-      "keywords": [
-        "factorial",
-        "inverse factorial",
-        "mathematics",
-        "algorithm",
-        "bit complexity"
-      ],
-      "published": "2026-07-28T14:11:30.000Z"
     },
     {
       "id": "3488715d6d434621",
@@ -1468,22 +1532,6 @@
         "programming language design"
       ],
       "published": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "ea5ddfd54530efb6",
-      "title": "Impro is a handbook for running a cult",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/impro/",
-      "pacer": "A",
-      "keywords": [
-        "Impro",
-        "Keith Johnstone",
-        "cult dynamics",
-        "social psychology",
-        "group behavior"
-      ],
-      "published": "2026-07-19T00:00:00.000Z"
     },
     {
       "id": "eb444adef644f31b",
@@ -2845,22 +2893,6 @@
       "published": "2026-06-15T00:00:00.000Z"
     },
     {
-      "id": "93513cf15a708b77",
-      "title": "A brief history of KV cache compression developments",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "KV cache",
-        "LLM",
-        "GQA",
-        "MLA",
-        "context window"
-      ],
-      "published": "2026-06-15T00:00:00.000Z"
-    },
-    {
       "id": "a6d95547cc6b0583",
       "title": "Things that made me think: Open Source trust relationships, knowledge without provenance, and theory building",
       "source": "Tom Renner on My place to put things",
@@ -3196,22 +3228,6 @@
       "published": "2026-06-05T04:06:59.000Z"
     },
     {
-      "id": "6b795e6d8d608d53",
-      "title": "How To Read More",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/how-to-read-more",
-      "pacer": "P",
-      "keywords": [
-        "reading",
-        "literacy",
-        "focus",
-        "deep work",
-        "books"
-      ],
-      "published": "2026-06-04T00:00:00.000Z"
-    },
-    {
       "id": "fcdf880821825495",
       "title": "\"Sixteenth of a year\", a 1.8 KiB art piece",
       "source": "Evan Hahn (dot com)",
@@ -3338,22 +3354,6 @@
         "crowd behavior"
       ],
       "published": "2026-05-31T23:21:45.000Z"
-    },
-    {
-      "id": "751691f73cc47591",
-      "title": "Ahoy, DECmate II! the little PDP-8 that could",
-      "source": "Old Vintage Computing Research",
-      "source_url": "https://oldvcr.blogspot.com/",
-      "url": "https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "pacer": "P",
-      "keywords": [
-        "DECmate II",
-        "PDP-8",
-        "Vintage Computing",
-        "Minicomputer",
-        "Hardware History"
-      ],
-      "published": "2026-05-31T02:19:49.552Z"
     },
     {
       "id": "b3546c57608ea650",
@@ -4553,6 +4553,26 @@
     }
   ],
   "links": [
+    {
+      "source": "8f361f4d618587ef",
+      "target": "154a58d8eec18b1e",
+      "shared_keywords": [
+        "combinatorics",
+        "rooted trees",
+        "mathematics"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "e6cc8e26a06cd23d",
+      "target": "9fb9b6ad9f40388b",
+      "shared_keywords": [
+        "LLM",
+        "artificial intelligence",
+        "AI models"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "a83360e2f32ed11a",
       "target": "60b6decfca71d60a",

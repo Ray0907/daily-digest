@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-08-01T22:42:32.694Z",
+  "last_updated": "2026-08-02T22:43:02.870Z",
   "articles": [
+    {
+      "id": "e6cc8e26a06cd23d",
+      "title": "I'm (mostly) picking models on speed now, not intelligence",
+      "url": "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-02T00:00:00.000Z",
+      "summary_en": "The author discusses a shift in preference for AI models, prioritizing high-speed inference (tokens per second) over pure intelligence for daily tasks. The piece explores the optimal speed thresholds for user experience and predicts the impact of an emerging price war in the model market.",
+      "summary_zh": "作者探討了選擇 AI 模型時的轉變，即在日常任務中，比起純粹的智慧程度，他更傾向於優先考慮高推論速度（每秒生成 tokens 數）。文中分析了使用者體驗的最佳速度門檻，並預測了模型市場即將到來的價格戰趨勢。",
+      "keywords": [
+        "AI models",
+        "inference speed",
+        "LLM",
+        "tokens per second",
+        "artificial intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual shift in how AI models are evaluated, moving from intelligence to speed-centric metrics.",
+      "pacer_reason_zh": "本文解釋了評估 AI 模型時的概念性轉變，即從關注智慧轉向以速度為核心的衡量標準。"
+    },
+    {
+      "id": "4ef5b8e1afa8a9c6",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-08-02T02:54:02.560Z",
+      "summary_en": "This article explores the historical context behind Apple's early 1990s server strategy, specifically focusing on the Workgroup Server line and its origins in the failed Macintosh Office concept. The author chronicles the process of restoring an Apple Workgroup Server 9150 and details the evolution of Apple's attempt to enter the server market.",
+      "summary_zh": "本文探討了蘋果 1990 年代初期伺服器策略的歷史背景，特別是針對 Workgroup Server 產品線及其與失敗的 Macintosh Office 概念之間的淵源。作者記錄了修復 Apple Workgroup Server 9150 的過程，並詳細敘述了蘋果進軍伺服器市場的發展歷程。",
+      "keywords": [
+        "Apple",
+        "Workgroup Server",
+        "MkLinux",
+        "Macintosh Office",
+        "Vintage Computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the historical conceptualization and strategic context of Apple's early server product lines.",
+      "pacer_reason_zh": "本文側重於蘋果早期伺服器產品線的歷史概念建構與策略背景分析。"
+    },
+    {
+      "id": "681d60cb1f52f6e8",
+      "title": "Mathematics Without Mathematicians",
+      "url": "https://borretti.me/article/mathematics-without-mathematicians",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-02T00:00:00.000Z",
+      "summary_en": "The article contemplates the limits of human knowledge in mathematics, drawing from David Hilbert's famous motto. It reflects on the philosophical tension between the desire to understand all truths and the possibility that some remain permanently beyond our reach.",
+      "summary_zh": "這篇文章探討了人類數學知識的極限，引用了大衛·希爾伯特的名言。它反思了人類渴望理解所有真理的願望與某些真理可能永遠無法被獲知的哲學張力。",
+      "keywords": [
+        "Mathematics",
+        "Philosophy",
+        "Hilbert",
+        "Epistemology",
+        "Knowledge"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily a conceptual exploration of mathematical philosophy and the limits of knowledge.",
+      "pacer_reason_zh": "該內容主要對數學哲學與知識極限進行概念性探討。"
+    },
+    {
+      "id": "09b08e47fbd0c6b3",
+      "title": "Holonomic functions",
+      "url": "https://www.johndcook.com/blog/2026/08/02/holonomic-functions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-02T20:47:53.000Z",
+      "summary_en": "This post defines holonomic functions as solutions to linear differential equations with polynomial coefficients. It explains that these functions generalize many of the special functions typically encountered in mathematical physics.",
+      "summary_zh": "本文定義了完整函數（holonomic functions）為具有多項式係數的線性微分方程的解。作者說明這類函數推廣了許多在數學物理中常見的特殊函數。",
+      "keywords": [
+        "holonomic functions",
+        "mathematical physics",
+        "differential equations",
+        "special functions",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual definition and explanation of what holonomic functions are in mathematics.",
+      "pacer_reason_zh": "該文章提供了數學中完整函數的概念定義與解釋。"
+    },
+    {
+      "id": "8f361f4d618587ef",
+      "title": "Estimating a cumulative sum",
+      "url": "https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-02T17:57:31.000Z",
+      "summary_en": "This article explores the relationship between the sequence of unlabeled rooted trees and its cumulative sum. The author highlights how these sequences relate to mathematical constraints in Runge-Kutta methods.",
+      "summary_zh": "本文探討了未標記有根樹數列與其累積和之間的關係。作者說明了這些數列如何與龍格庫塔法（Runge-Kutta methods）中的數學約束條件產生關聯。",
+      "keywords": [
+        "Runge-Kutta",
+        "combinatorics",
+        "mathematics",
+        "cumulative sum",
+        "rooted trees"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of a mathematical sequence and its application in numerical methods.",
+      "pacer_reason_zh": "該文章針對數學數列及其在數值方法中的應用提供了概念性解釋。"
+    },
+    {
+      "id": "fe470f21b2646aa3",
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-02T04:16:52.000Z",
+      "summary_en": "Simon Willison summarizes recent open letters from major tech companies advocating for open-weight AI models. The post highlights the industry's pushback against government regulations that could restrict open weights in the name of safety.",
+      "summary_zh": "Simon Willison 總結了近期大型科技公司針對 AI 開放權重模型發表的公開信。文中強調了科技界對於政府以安全為由限制開放權重模型的抵制立場，並重申了開放開發模式的價值。",
+      "keywords": [
+        "AI",
+        "Open Weights",
+        "Microsoft",
+        "Regulation",
+        "Open Source"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains and summarizes the theoretical and policy-driven arguments surrounding the AI open-weights debate.",
+      "pacer_reason_zh": "文章針對 AI 開放權重爭議中的理論觀點與政策論述進行了說明與總結。"
+    },
+    {
+      "id": "eb2b47d50db42393",
+      "title": "July 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-02T04:12:41.000Z",
+      "summary_en": "Simon Willison announces the release of his July 2026 sponsors-only newsletter. The edition covers recent AI model updates, industry developments, and updates on his personal projects and development tools.",
+      "summary_zh": "Simon Willison 宣布發佈 2026 年 7 月份的贊助者專屬通訊。本期內容涵蓋了最新的 AI 模型動態、產業發展，以及他個人專案與開發工具的更新。",
+      "keywords": [
+        "newsletter",
+        "AI",
+        "Simon Willison",
+        "OpenAI",
+        "Claude"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a reference and announcement for a newsletter edition, listing the topics covered.",
+      "pacer_reason_zh": "此文章作為通訊內容的參考與發布公告，並列出了涵蓋的主題。"
+    },
+    {
+      "id": "08335c8dfd8f76e3",
+      "title": "Giving and taking credit in big tech companies",
+      "url": "https://seangoedecke.com/giving-and-taking-credit/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-02T00:00:00.000Z",
+      "summary_en": "This article explores the nuances of attributing credit within large technology organizations. It examines how employees can effectively navigate team dynamics to ensure their contributions are recognized.",
+      "summary_zh": "本文探討了大型科技公司中功勞歸屬的細微差別。文章分析了員工如何有效地應對團隊動態，以確保其貢獻獲得適當的認可。",
+      "keywords": [
+        "tech culture",
+        "career growth",
+        "credit",
+        "collaboration",
+        "workplace dynamics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual dynamics and behavioral theories regarding professional recognition in corporate settings.",
+      "pacer_reason_zh": "本文側重於解釋企業環境中關於專業認可的動態機制與行為理論。"
+    },
     {
       "id": "ab2fa5b72db71c1b",
       "title": "Put A Tag On It",
