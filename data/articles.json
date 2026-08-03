@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-08-02T22:43:02.870Z",
+  "last_updated": "2026-08-03T22:48:40.993Z",
   "articles": [
+    {
+      "id": "e1c7bd53489331ba",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-03T06:38:05.000Z",
+      "summary_en": "The Nepalese government has joined the Have I Been Pwned (HIBP) free government service, becoming the 47th nation to do so. Their National Cyber Security Centre can now monitor government domains to detect and respond to data breaches involving official email addresses.",
+      "summary_zh": "尼泊爾政府正式加入 Have I Been Pwned (HIBP) 的免費政府服務計劃，成為第 47 個參與的國家。該國的國家網路安全中心現在可以監控政府網域，以識別並應對涉及官方電子郵件地址的資料外洩事件。",
+      "keywords": [
+        "HIBP",
+        "Nepal",
+        "cybersecurity",
+        "government",
+        "data breach"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as an announcement and evidence of a real-world implementation of the HIBP service by a government entity.",
+      "pacer_reason_zh": "本文主要發佈一項實際應用案例，證明政府機構採用 HIBP 服務的實務成效。"
+    },
+    {
+      "id": "82bb46a1118ff8c9",
+      "title": "Weekly Update 515",
+      "url": "https://www.troyhunt.com/weekly-update-515/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-03T00:07:14.000Z",
+      "summary_en": "Troy Hunt shares personal reflections on Australian coffee culture compared to Italy in his latest weekly update. The post touches on his travels and regional differences in coffee appreciation.",
+      "summary_zh": "Troy Hunt 在最新的每週更新中，分享了他對澳洲咖啡文化與義大利的觀察與個人心得。文中提到他對兩地咖啡文化的比較，並以此作為他個人生活動態的開場。",
+      "keywords": [
+        "coffee",
+        "Australia",
+        "Italy",
+        "Troy Hunt",
+        "culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily anecdotal and observational, focusing on a conceptual discussion of cultural preferences rather than a guide or data analysis.",
+      "pacer_reason_zh": "內容主要為個人隨筆與觀察，重點在於文化偏好的概念性探討，而非操作指南或數據分析。"
+    },
+    {
+      "id": "186b54ce2c9c32d0",
+      "title": "Review: Job-Less Utopia",
+      "url": "https://borretti.me/article/review-job-less-utopia",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-03T00:00:00.000Z",
+      "summary_en": "This piece reviews Marcus Hutter's 'Job-Less Utopia,' an exploration of how artificial intelligence might reshape labor and economic structures. The author examines Hutter's vision of a future where human labor is no longer a necessity for societal functioning.",
+      "summary_zh": "本文評論了 Marcus Hutter 的《Job-Less Utopia》，探討人工智慧如何重塑勞動力與經濟結構。作者分析了 Hutter 對未來人類勞動不再是社會運作必要條件的願景。",
+      "keywords": [
+        "AI",
+        "labor",
+        "economics",
+        "future of work",
+        "Utopia"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a review discussing the conceptual framework of a future society defined by the absence of traditional employment.",
+      "pacer_reason_zh": "本文是一篇書評，討論關於未來社會在無傳統就業情況下的概念框架。"
+    },
+    {
+      "id": "f3e70de4d4ad042f",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-03T17:32:13.000Z",
+      "summary_en": "This article explores the economic implications of advancing AI capabilities on computational costs. It suggests that as models become smarter and more sophisticated, the demand for compute could lead to a significant tenfold increase in prices.",
+      "summary_zh": "本文探討了人工智慧能力進步對運算成本的經濟影響。文章指出，隨著模型變得更聰明、更複雜，對運算資源的需求可能會導致價格大幅飆升至十倍。",
+      "keywords": [
+        "AI",
+        "compute",
+        "economics",
+        "artificial intelligence",
+        "tech costs"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying relationship and theoretical economic trends between AI development and compute resource pricing.",
+      "pacer_reason_zh": "內容解釋了人工智慧發展與運算資源定價之間的潛在關係與經濟理論趨勢。"
+    },
+    {
+      "id": "bddd978c30eea8a7",
+      "title": "Agentic coding techniques",
+      "url": "https://micahflee.com/agentic-coding-techniques/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-08-03T16:05:25.000Z",
+      "summary_en": "The article explores the practical application of agentic coding using LLMs, emphasizing that it is a genuinely useful tool when managed by knowledgeable developers. It advocates for a balanced approach where AI agents assist in the development process while remaining subject to human oversight and review.",
+      "summary_zh": "本文探討了利用大型語言模型進行代理式編碼（Agentic coding）的實際應用，強調當由具備專業知識的開發者操作時，這是一項極具價值的技術。作者主張應將人工智慧代理作為開發輔助工具，並始終保持人類的審核與監督。",
+      "keywords": [
+        "agentic coding",
+        "LLM",
+        "AI agents",
+        "software development",
+        "human-in-the-loop"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual definition and practical philosophy of agentic coding rather than a technical tutorial.",
+      "pacer_reason_zh": "本文內容側重於代理式編碼的概念定義與實踐哲學，而非技術操作教學。"
+    },
+    {
+      "id": "6bf66ff9bbabdd7e",
+      "title": "Indirect lessons from human alignment",
+      "url": "https://dynomight.net/human-alignment/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-08-02T00:00:00.000Z",
+      "summary_en": "The article explores the challenge of AI alignment by analyzing how evolution created human sub-goals rather than direct fitness maximization. It highlights that since humans prioritize proximal goals over biological imperatives when environments change, it suggests that aligning future intelligent systems may be inherently unstable.",
+      "summary_zh": "本文透過分析演化如何為人類設定子目標而非直接最大化繁殖適應度，探討了 AI 對齊的挑戰。文中指出，由於人類在環境改變時會優先考慮近端目標而非生物本能，這暗示了未來人工智慧系統的對齊可能存在本質上的不穩定性。",
+      "keywords": [
+        "AI alignment",
+        "evolutionary biology",
+        "inner alignment",
+        "human behavior",
+        "sub-goals"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration and theoretical analysis of the alignment problem using human evolution as a framework.",
+      "pacer_reason_zh": "本文運用人類演化的框架，對對齊問題進行了概念性的探討與理論分析。"
+    },
+    {
+      "id": "4222109f49fa91c7",
+      "title": "Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-03T11:34:02.000Z",
+      "summary_en": "This book review argues that systemic flaws and misaligned incentives, rather than individual human error, are the primary drivers of catastrophes. It challenges the conventional view of human fallibility, suggesting that systems are often inherently unsafe regardless of human intervention.",
+      "summary_zh": "這篇書評探討了「人為錯誤」的迷思，強調大多數災難其實源於系統性缺失與激勵機制失調，而非個人疏失。作者指出，我們不應將系統視為完美，並應重新審視人與系統之間的互動關係。",
+      "keywords": [
+        "Book Review",
+        "Human Error",
+        "Sidney Dekker",
+        "System Design",
+        "Safety Engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual shift in understanding accidents by questioning the theory of human error and explaining systemic causality.",
+      "pacer_reason_zh": "這篇文章透過質疑「人為錯誤」理論並解釋系統性因果關係，提出了對事故認知的觀念性轉變。"
+    },
+    {
+      "id": "42b038b9f975ba13",
+      "title": "Pluralistic: Dualism (03 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/03/andor/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-03T08:25:53.000Z",
+      "summary_en": "Cory Doctorow explores the concept of 'dualism' by examining how different processes leading to the same outcome often hide critical functional differences. He argues that ignoring the journey in favor of the destination can leave users vulnerable when systems inevitably fail, specifically touching on debates surrounding AI consciousness.",
+      "summary_zh": "Cory Doctorow 探討了「二元論」的概念，剖析了為何通往相同結果的不同過程往往掩蓋了關鍵的功能性差異。他認為，如果只重視結果而忽視過程，當系統不可避免地發生故障時，使用者將面臨隱患，文中並提及關於人工智慧意識的辯論。",
+      "keywords": [
+        "Dualism",
+        "Cory Doctorow",
+        "Systems Thinking",
+        "AI Consciousness",
+        "Process Analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of systemic function and the philosophical implications of how different inputs/processes can produce identical outputs.",
+      "pacer_reason_zh": "本文是對系統功能以及不同輸入或過程如何產生相同輸出之哲學意義的概念性探討。"
+    },
+    {
+      "id": "77b040de93c609fb",
+      "title": "Invisible Problems ",
+      "url": "https://idiallo.com/blog/invisible-problems",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-03T07:00:00.000Z",
+      "summary_en": "The author reflects on how personal biases and lack of awareness can lead to overlooking accessibility needs in technology design. Through personal anecdotes like a colorblind colleague and web accessibility, the article advocates for greater empathy and inclusivity in creating software solutions.",
+      "summary_zh": "作者透過自身經歷，反思了個人偏見與缺乏意識如何導致在科技設計中忽視無障礙需求。文中藉由色盲同事與網頁無障礙設計的例子，強調在開發軟體時應具備更多的同理心與包容性。",
+      "keywords": [
+        "accessibility",
+        "inclusivity",
+        "ux-design",
+        "empathy",
+        "tech-culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece focusing on the importance of empathy and awareness in design, rather than specific how-to steps or data sets.",
+      "pacer_reason_zh": "這是一篇概念性文章，探討設計中同理心與意識的重要性，而非具體的技術操作指南或數據研究。"
+    },
+    {
+      "id": "9fe0fd997118bc21",
+      "title": "Quoting David Crawshaw's prompt",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-03T16:15:27.000Z",
+      "summary_en": "This post highlights a prompt by David Crawshaw that suggests automating the maintenance of local software versions via nightly rebasing. The approach leverages AI agents to keep local forks synchronized with upstream repositories.",
+      "summary_zh": "這篇文章引用了 David Crawshaw 的一段提示詞，建議透過每日執行自動化腳本來維持本地軟體版本的更新。此方法利用 AI 代理程式自動將本地修改變更與上游儲存庫進行變更重定（rebase）。",
+      "keywords": [
+        "prompt-engineering",
+        "coding-agents",
+        "generative-ai",
+        "automation",
+        "open-source"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content provides a specific prompt for a procedural task involving automated maintenance and rebasing.",
+      "pacer_reason_zh": "內容提供了一段用於執行自動化維護與變更重定（rebase）的具體程序性提示詞。"
+    },
+    {
+      "id": "dcbb8b19832cad60",
+      "title": "Devtools must be open source (exe.dev)",
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-03T15:30:38.000Z",
+      "summary_en": "The author argues that LLMs are transforming the value of open source software by drastically reducing the friction required to inspect and compile code. While users previously relied on others to modify tools, AI now enables individuals to easily explore and potentially customize software they depend on.",
+      "summary_zh": "作者認為大型語言模型 (LLM) 透過大幅降低檢視與編譯程式碼的門檻，正徹底改變開放原始碼軟體的價值。過去使用者多仰賴他人協助，現在 AI 讓個人能輕易探索甚至自行修改所依賴的軟體工具。",
+      "keywords": [
+        "open source",
+        "LLM",
+        "ai-assisted programming",
+        "software development",
+        "transparency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument on how AI shifts the accessibility and utility of open source software.",
+      "pacer_reason_zh": "本文提出了一個概念性觀點，探討 AI 如何改變開放原始碼軟體的可近性與實用價值。"
+    },
+    {
+      "id": "76a4c194005a7e61",
+      "title": "condense-json 1.0",
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-02T22:19:59.000Z",
+      "summary_en": "Simon Willison has released version 1.0 of condense-json, a utility library designed to shrink JSON size by replacing recurring strings with references. The post explains the library's purpose and provides a functional example of how it compresses nested JSON data structures.",
+      "summary_zh": "Simon Willison 發布了 condense-json 1.0 版本，這是一個旨在透過將重複字串替換為參考內容來縮減 JSON 檔案大小的工具庫。文中說明了該庫的用途，並透過範例展示了如何壓縮巢狀的 JSON 資料結構。",
+      "keywords": [
+        "condense-json",
+        "JSON",
+        "data-compression",
+        "software-release",
+        "Simon-Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post serves as a release announcement for a utility tool, demonstrating its functionality through code examples.",
+      "pacer_reason_zh": "該文章為工具軟體的發布公告，並透過程式碼範例展示其功能。"
+    },
     {
       "id": "e6cc8e26a06cd23d",
       "title": "I'm (mostly) picking models on speed now, not intelligence",
