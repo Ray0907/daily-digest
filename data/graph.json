@@ -1,6 +1,518 @@
 {
   "nodes": [
     {
+      "id": "a199262af024bde4",
+      "title": "The Contracting Circle",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/the-contracting-circle",
+      "pacer": "C",
+      "keywords": [
+        "LLMs",
+        "Personhood",
+        "AI Philosophy",
+        "Cognition",
+        "Artificial Intelligence"
+      ],
+      "published": "2026-08-07T00:00:00.000Z"
+    },
+    {
+      "id": "f0184da42a584a16",
+      "title": "datasette 1.0a38",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "sql-injection",
+        "security",
+        "database",
+        "update"
+      ],
+      "published": "2026-08-06T18:24:34.000Z"
+    },
+    {
+      "id": "c8e6264a025a631e",
+      "title": "datasette 0.65.3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "security update",
+        "SQL injection",
+        "software release",
+        "patch"
+      ],
+      "published": "2026-08-06T18:22:07.000Z"
+    },
+    {
+      "id": "35f521916bec6a1c",
+      "title": "The Earnest Era Ends",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17404612/glen-hansard-passing-reflection",
+      "pacer": "A",
+      "keywords": [
+        "indie-folk",
+        "2000s culture",
+        "fashion evolution",
+        "earnestness",
+        "music history"
+      ],
+      "published": "2026-08-06T18:19:21.000Z"
+    },
+    {
+      "id": "eed6e820946eed1a",
+      "title": "Simon Willison on Technical Blogging",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+      "pacer": "P",
+      "keywords": [
+        "blogging",
+        "writing advice",
+        "Simon Willison",
+        "content creation",
+        "productivity"
+      ],
+      "published": "2026-08-06T18:04:39.000Z"
+    },
+    {
+      "id": "58eb3ce5569a189e",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "pacer": "E",
+      "keywords": [
+        "cybercrime",
+        "Snowflake",
+        "data breach",
+        "AT&T",
+        "Connor Riley Moucka"
+      ],
+      "published": "2026-08-06T17:00:56.000Z"
+    },
+    {
+      "id": "499f78c9871eac35",
+      "title": "Calculating log(1000!)",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/06/log1000/",
+      "pacer": "C",
+      "keywords": [
+        "Python",
+        "logarithm",
+        "factorial",
+        "NumPy",
+        "floating point"
+      ],
+      "published": "2026-08-06T13:23:43.000Z"
+    },
+    {
+      "id": "a434044cc9e34d2d",
+      "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
+      "pacer": "C",
+      "keywords": [
+        "Housing Act",
+        "Housing Supply",
+        "Legislation",
+        "Construction",
+        "Policy"
+      ],
+      "published": "2026-08-06T12:02:32.000Z"
+    },
+    {
+      "id": "5d33edebf0f276e8",
+      "title": "Pluralistic: Eternal Sloptember (06 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/06/sin-is-when/",
+      "pacer": "C",
+      "keywords": [
+        "Facebook",
+        "Mark Zuckerberg",
+        "social media",
+        "ethics",
+        "tech criticism"
+      ],
+      "published": "2026-08-06T10:07:06.000Z"
+    },
+    {
+      "id": "d29e9aa50122b7be",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "pacer": "E",
+      "keywords": [
+        "Meta",
+        "AI Security",
+        "Cybersecurity",
+        "LLMs",
+        "Generative AI"
+      ],
+      "published": "2026-08-06T00:25:27.000Z"
+    },
+    {
+      "id": "db7dcb84133ff4a3",
+      "title": "A year of AI disclosure in critical packages",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html",
+      "pacer": "E",
+      "keywords": [
+        "AI",
+        "open source",
+        "git metadata",
+        "software development",
+        "data analysis"
+      ],
+      "published": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "302b070bde7906b9",
+      "title": "Zig's Io.Threaded is Neat",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "pacer": "C",
+      "keywords": [
+        "Zig",
+        "Io.Threaded",
+        "Concurrency",
+        "Parallelism",
+        "Cancelation"
+      ],
+      "published": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "3da91da155e326ce",
+      "title": "SigV4 authentication is surprisingly complicated",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://www.tigrisdata.com/blog/sigv4/",
+      "pacer": "C",
+      "keywords": [
+        "AWS",
+        "SigV4",
+        "Authentication",
+        "Security",
+        "Development"
+      ],
+      "published": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "46fcc09b2b723efe",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "pacer": "C",
+      "keywords": [
+        "Meta",
+        "Muse Spark 1.2",
+        "AI coding",
+        "agentic tools",
+        "software development"
+      ],
+      "published": "2026-08-05T23:58:35.000Z"
+    },
+    {
+      "id": "4c1427c181d85ea1",
+      "title": "The code that didn’t break",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/05/math-log/",
+      "pacer": "E",
+      "keywords": [
+        "programming",
+        "floating-point",
+        "logarithms",
+        "numerical analysis",
+        "software development"
+      ],
+      "published": "2026-08-05T18:26:25.000Z"
+    },
+    {
+      "id": "e5dbbd144bcd236f",
+      "title": "Proxmox officially supports Arm, with some caveats",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
+      "pacer": "E",
+      "keywords": [
+        "Proxmox",
+        "ARM",
+        "Virtualization",
+        "Ampere Altra",
+        "UEFI"
+      ],
+      "published": "2026-08-05T16:50:00.000Z"
+    },
+    {
+      "id": "e995e6985543f236",
+      "title": "A Bad HDMI Cable Broke My Mouse",
+      "source": "Jayden’s Blog",
+      "source_url": "https://jayd.ml/",
+      "url": "https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html",
+      "pacer": "E",
+      "keywords": [
+        "troubleshooting",
+        "PC hardware",
+        "HDMI interference",
+        "USB bus",
+        "Linux"
+      ],
+      "published": "2026-08-05T16:35:00.000Z"
+    },
+    {
+      "id": "34a46059d63e1869",
+      "title": "How Compiler Explorer Runs on AWS in 2026",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "url": "http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&utm_medium=rss",
+      "pacer": "P",
+      "keywords": [
+        "AWS",
+        "Compiler Explorer",
+        "Infrastructure",
+        "CloudFront",
+        "Terraform"
+      ],
+      "published": "2026-08-05T15:19:00.000Z"
+    },
+    {
+      "id": "a01041fffb6e0b27",
+      "title": "Incentives are for losers",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "pacer": "C",
+      "keywords": [
+        "incentives",
+        "motivation",
+        "behavioral science",
+        "intrinsic motivation",
+        "experimental history"
+      ],
+      "published": "2026-08-05T14:54:40.000Z"
+    },
+    {
+      "id": "71db375cfa8b1761",
+      "title": "Enumerating trees and circles",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/",
+      "pacer": "C",
+      "keywords": [
+        "enumerating",
+        "rooted trees",
+        "mathematics",
+        "sequences",
+        "combinatorics"
+      ],
+      "published": "2026-08-05T14:49:35.000Z"
+    },
+    {
+      "id": "8b948d6c2ee3ddf8",
+      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 3",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591",
+      "pacer": "P",
+      "keywords": [
+        "COM",
+        "Agile Wrapper",
+        "Global Interface Table",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "published": "2026-08-05T14:00:00.000Z"
+    },
+    {
+      "id": "68027a5a413c7ff8",
+      "title": "Committing to creativity",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "url": "https://herman.bearblog.dev/creativity/",
+      "pacer": "C",
+      "keywords": [
+        "creativity",
+        "commitment",
+        "discipline",
+        "motivation",
+        "habit"
+      ],
+      "published": "2026-08-05T12:04:00.000Z"
+    },
+    {
+      "id": "c1a4b70c6d7942c5",
+      "title": "Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/",
+      "pacer": "E",
+      "keywords": [
+        "Thermal Camera",
+        "T2 Max",
+        "Gadget Review",
+        "USB-C",
+        "Thermal Master"
+      ],
+      "published": "2026-08-05T11:34:17.000Z"
+    },
+    {
+      "id": "3b2dad8dbff09b28",
+      "title": "Pluralistic: Google is a scammer's paradise (05 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/05/absentee-landlord/",
+      "pacer": "C",
+      "keywords": [
+        "Google",
+        "Antitrust",
+        "Monopoly",
+        "Cory Doctorow",
+        "Digital Rights"
+      ],
+      "published": "2026-08-05T10:50:43.000Z"
+    },
+    {
+      "id": "c9e721ca413e008c",
+      "title": "Purely functional digital circuit simulator (SICP 3.3)",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/sicp-3-3-pure-digital-circuit-simulator",
+      "pacer": "P",
+      "keywords": [
+        "SICP",
+        "Haskell",
+        "functional programming",
+        "digital circuit simulation",
+        "mutable state"
+      ],
+      "published": "2026-08-04T22:00:00.000Z"
+    },
+    {
+      "id": "072ad14c8649e5a2",
+      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 2",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260804-00/?p=112586",
+      "pacer": "P",
+      "keywords": [
+        "COM",
+        "Agile wrapper",
+        "Global Interface Table",
+        "Programming",
+        "Windows API"
+      ],
+      "published": "2026-08-04T14:00:00.000Z"
+    },
+    {
+      "id": "52d0625ebab5b1f8",
+      "title": "Mathematical alchemy",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/",
+      "pacer": "A",
+      "keywords": [
+        "mathematics",
+        "metallic ratios",
+        "golden ratio",
+        "analogy",
+        "number theory"
+      ],
+      "published": "2026-08-04T13:18:58.000Z"
+    },
+    {
+      "id": "4ae8d4a91ba338d7",
+      "title": "Ratio of metallic ratios",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/",
+      "pacer": "C",
+      "keywords": [
+        "metallic ratios",
+        "golden ratio",
+        "continued fractions",
+        "mathematics",
+        "number theory"
+      ],
+      "published": "2026-08-04T11:41:49.000Z"
+    },
+    {
+      "id": "2c1595cd23939cdc",
+      "title": "Gig Review: Belle & Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/",
+      "pacer": "A",
+      "keywords": [
+        "Belle & Sebastian",
+        "Concert Review",
+        "Music",
+        "Nostalgia",
+        "Margate Dreamland"
+      ],
+      "published": "2026-08-04T11:34:22.000Z"
+    },
+    {
+      "id": "fe72546ba2c75073",
+      "title": "Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/04/technology-freedom-cooperative/",
+      "pacer": "C",
+      "keywords": [
+        "digital sovereignty",
+        "tech monopolies",
+        "infrastructure",
+        "decentralization",
+        "political influence"
+      ],
+      "published": "2026-08-04T11:14:27.000Z"
+    },
+    {
+      "id": "d16f6e4ef7bb9cff",
+      "title": "brew install actions/checkout",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html",
+      "pacer": "A",
+      "keywords": [
+        "GitHub Actions",
+        "Homebrew",
+        "OCI",
+        "Security",
+        "Package Management"
+      ],
+      "published": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "0a7af4de6caa0831",
+      "title": "Relative velocity and closing speed",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/",
+      "pacer": "P",
+      "keywords": [
+        "relative velocity",
+        "closing speed",
+        "vector projection",
+        "physics simulation",
+        "game development"
+      ],
+      "published": "2026-08-04T03:01:00.000Z"
+    },
+    {
       "id": "f3e70de4d4ad042f",
       "title": "Why smarter AI models could drive up compute prices 10x",
       "source": "Dwarkesh Podcast",
@@ -17,22 +529,6 @@
       "published": "2026-08-03T17:32:13.000Z"
     },
     {
-      "id": "9fe0fd997118bc21",
-      "title": "Quoting David Crawshaw's prompt",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "prompt-engineering",
-        "coding-agents",
-        "generative-ai",
-        "automation",
-        "open-source"
-      ],
-      "published": "2026-08-03T16:15:27.000Z"
-    },
-    {
       "id": "bddd978c30eea8a7",
       "title": "Agentic coding techniques",
       "source": "micahflee",
@@ -47,22 +543,6 @@
         "human-in-the-loop"
       ],
       "published": "2026-08-03T16:05:25.000Z"
-    },
-    {
-      "id": "dcbb8b19832cad60",
-      "title": "Devtools must be open source (exe.dev)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "open source",
-        "LLM",
-        "ai-assisted programming",
-        "software development",
-        "transparency"
-      ],
-      "published": "2026-08-03T15:30:38.000Z"
     },
     {
       "id": "4222109f49fa91c7",
@@ -161,86 +641,6 @@
       "published": "2026-08-03T00:00:00.000Z"
     },
     {
-      "id": "76a4c194005a7e61",
-      "title": "condense-json 1.0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-      "pacer": "P",
-      "keywords": [
-        "condense-json",
-        "JSON",
-        "data-compression",
-        "software-release",
-        "Simon-Willison"
-      ],
-      "published": "2026-08-02T22:19:59.000Z"
-    },
-    {
-      "id": "09b08e47fbd0c6b3",
-      "title": "Holonomic functions",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/02/holonomic-functions/",
-      "pacer": "C",
-      "keywords": [
-        "holonomic functions",
-        "mathematical physics",
-        "differential equations",
-        "special functions",
-        "John D. Cook"
-      ],
-      "published": "2026-08-02T20:47:53.000Z"
-    },
-    {
-      "id": "8f361f4d618587ef",
-      "title": "Estimating a cumulative sum",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/",
-      "pacer": "C",
-      "keywords": [
-        "Runge-Kutta",
-        "combinatorics",
-        "mathematics",
-        "cumulative sum",
-        "rooted trees"
-      ],
-      "published": "2026-08-02T17:57:31.000Z"
-    },
-    {
-      "id": "fe470f21b2646aa3",
-      "title": "Open letters about AI development",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Open Weights",
-        "Microsoft",
-        "Regulation",
-        "Open Source"
-      ],
-      "published": "2026-08-02T04:16:52.000Z"
-    },
-    {
-      "id": "eb2b47d50db42393",
-      "title": "July 2026 newsletter",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-      "pacer": "R",
-      "keywords": [
-        "newsletter",
-        "AI",
-        "Simon Willison",
-        "OpenAI",
-        "Claude"
-      ],
-      "published": "2026-08-02T04:12:41.000Z"
-    },
-    {
       "id": "4ef5b8e1afa8a9c6",
       "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "source": "Old Vintage Computing Research",
@@ -321,22 +721,6 @@
       "published": "2026-08-02T00:00:00.000Z"
     },
     {
-      "id": "dc76422ea904c145",
-      "title": "Why polynomial coefficients?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/",
-      "pacer": "C",
-      "keywords": [
-        "differential equations",
-        "polynomial coefficients",
-        "applied mathematics",
-        "mathematical physics",
-        "analysis"
-      ],
-      "published": "2026-08-01T20:18:41.000Z"
-    },
-    {
       "id": "ab2fa5b72db71c1b",
       "title": "Put A Tag On It",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -351,38 +735,6 @@
         "retail technology"
       ],
       "published": "2026-08-01T20:18:00.000Z"
-    },
-    {
-      "id": "154a58d8eec18b1e",
-      "title": "Counting rooted trees",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/",
-      "pacer": "C",
-      "keywords": [
-        "combinatorics",
-        "rooted trees",
-        "mathematics",
-        "differential equations",
-        "numerical methods"
-      ],
-      "published": "2026-08-01T16:15:53.000Z"
-    },
-    {
-      "id": "f9304ca678b0c015",
-      "title": "Runge-Kutta order versus stages",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/01/butcher-barrier/",
-      "pacer": "C",
-      "keywords": [
-        "Runge-Kutta",
-        "differential equations",
-        "numerical analysis",
-        "mathematics",
-        "error order"
-      ],
-      "published": "2026-08-01T15:58:15.000Z"
     },
     {
       "id": "dace034990b5c76e",
@@ -513,22 +865,6 @@
       "published": "2026-07-31T14:00:00.000Z"
     },
     {
-      "id": "8cd7e66b05718a0e",
-      "title": "Pluralistic: Better to beg forgiveness (31 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/31/just-do-it/",
-      "pacer": "C",
-      "keywords": [
-        "Creative Commons",
-        "Copyright",
-        "Fair Use",
-        "Intellectual Property",
-        "Legal History"
-      ],
-      "published": "2026-07-31T11:56:12.000Z"
-    },
-    {
       "id": "eba5d89c48156445",
       "title": "The AI Phrasebook",
       "source": "Andrew Nesbitt",
@@ -639,22 +975,6 @@
         "Technical Guide"
       ],
       "published": "2026-07-30T14:00:00.000Z"
-    },
-    {
-      "id": "437af91ee558771c",
-      "title": "Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/30/pay-for-privacy/",
-      "pacer": "C",
-      "keywords": [
-        "surveillance pricing",
-        "AI",
-        "privacy law",
-        "data brokers",
-        "consumer exploitation"
-      ],
-      "published": "2026-07-30T12:51:03.000Z"
     },
     {
       "id": "abeae2d27bc60a17",
@@ -817,22 +1137,6 @@
       "published": "2026-07-29T13:20:00.000Z"
     },
     {
-      "id": "ea65c594d6ffeccd",
-      "title": "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/07/29/la-la-la-la-la/",
-      "pacer": "R",
-      "keywords": [
-        "Cory Doctorow",
-        "Enshittification",
-        "Reverse Centaur",
-        "technopolitics",
-        "publishing"
-      ],
-      "published": "2026-07-29T08:09:34.000Z"
-    },
-    {
       "id": "a883c0208eb7dd5e",
       "title": "Superlogical",
       "source": "Mitchell Hashimoto",
@@ -865,22 +1169,6 @@
       "published": "2026-07-29T00:00:00.000Z"
     },
     {
-      "id": "3488715d6d434621",
-      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568",
-      "pacer": "P",
-      "keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Delegate",
-        "Exception Safety",
-        "Programming"
-      ],
-      "published": "2026-07-28T14:00:00.000Z"
-    },
-    {
       "id": "767e431fafeb6952",
       "title": "The Photographer Who Takes No Pictures",
       "source": "Simone Salis",
@@ -895,38 +1183,6 @@
         "self-reflection"
       ],
       "published": "2026-07-28T13:00:00.000Z"
-    },
-    {
-      "id": "3d9cdbb049fd4907",
-      "title": "Google Calendar \"Unable to launch event\" - caused by missing DTSTAMP",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/",
-      "pacer": "P",
-      "keywords": [
-        "Google Calendar",
-        "iCal",
-        "DTSTAMP",
-        "Troubleshooting",
-        "File formats"
-      ],
-      "published": "2026-07-28T11:34:15.000Z"
-    },
-    {
-      "id": "1f2462a7b637e8c7",
-      "title": "Why npm Dependency Trees Are So Big",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html",
-      "pacer": "C",
-      "keywords": [
-        "npm",
-        "dependency tree",
-        "package manager",
-        "node.js",
-        "software engineering"
-      ],
-      "published": "2026-07-28T10:00:00.000Z"
     },
     {
       "id": "9680336bf23cecc2",
@@ -1040,22 +1296,6 @@
       "published": "2026-07-27T17:45:21.000Z"
     },
     {
-      "id": "66d38550109f48be",
-      "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566",
-      "pacer": "P",
-      "keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Delegate",
-        "Exception Safety",
-        "Programming"
-      ],
-      "published": "2026-07-27T14:00:00.000Z"
-    },
-    {
       "id": "73e3b9b749333986",
       "title": "Digital circuit simulator in Haskell (SICP 3.3)",
       "source": "Entropic Thoughts",
@@ -1086,22 +1326,6 @@
         "critical thinking"
       ],
       "published": "2026-07-26T19:03:04.000Z"
-    },
-    {
-      "id": "1d7fc2e431df528a",
-      "title": "Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/",
-      "pacer": "C",
-      "keywords": [
-        "Dungeon Crawler Carl",
-        "Book Review",
-        "LitRPG",
-        "Genre Fiction",
-        "Matt Dinniman"
-      ],
-      "published": "2026-07-26T11:34:33.000Z"
     },
     {
       "id": "a0984562780e0fab",
@@ -1149,22 +1373,6 @@
         "Kernel Development"
       ],
       "published": "2026-07-25T11:20:55.000Z"
-    },
-    {
-      "id": "51c15f2d9fa2f5ac",
-      "title": "This Week in Package Management: 25 July 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/07/25/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "package management",
-        "RubyGems",
-        "uv",
-        "opam",
-        "pnpm"
-      ],
-      "published": "2026-07-25T10:00:00.000Z"
     },
     {
       "id": "bc94d9bebdb36b33",
@@ -1678,22 +1886,6 @@
       "published": "2026-07-18T19:00:00.000Z"
     },
     {
-      "id": "3a2d072bb61c4d95",
-      "title": "Reading List 07/18/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-071826",
-      "pacer": "R",
-      "keywords": [
-        "infrastructure",
-        "manufacturing",
-        "EV batteries",
-        "California Forever",
-        "industrial policy"
-      ],
-      "published": "2026-07-18T12:01:57.000Z"
-    },
-    {
       "id": "b197700303c4284c",
       "title": "The Terminus",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -2189,22 +2381,6 @@
       "published": "2026-07-10T00:00:00.000Z"
     },
     {
-      "id": "8e3025fcf50e7800",
-      "title": "Boxed In",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints",
-      "pacer": "A",
-      "keywords": [
-        "ALF",
-        "Paul Fusco",
-        "Creativity",
-        "Creative limitations",
-        "Pop culture"
-      ],
-      "published": "2026-07-09T17:20:00.000Z"
-    },
-    {
       "id": "4dab36fa03c0f874",
       "title": "The Tadpole galaxy:",
       "source": "Maurycy's Blog",
@@ -2251,38 +2427,6 @@
         "sociology"
       ],
       "published": "2026-07-08T16:10:54.000Z"
-    },
-    {
-      "id": "411c5d492b1439e6",
-      "title": "The Special Value Pi 4 was extremely short-lived",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/",
-      "pacer": "E",
-      "keywords": [
-        "Raspberry Pi",
-        "Jeff Geerling",
-        "hardware",
-        "rare",
-        "tech news"
-      ],
-      "published": "2026-07-08T14:00:00.000Z"
-    },
-    {
-      "id": "11d2003407b798e6",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "pacer": "E",
-      "keywords": [
-        "Cybersecurity",
-        "Zero-day",
-        "Fraud",
-        "Krebs on Security",
-        "Investigation"
-      ],
-      "published": "2026-07-08T12:31:39.000Z"
     },
     {
       "id": "a88760ecaf482a97",
@@ -2493,22 +2637,6 @@
       "published": "2026-06-30T00:00:00.000Z"
     },
     {
-      "id": "996e0ef5227274d3",
-      "title": "Data-directed programming in Haskell (SICP 2.4.3)",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
-      "pacer": "P",
-      "keywords": [
-        "Haskell",
-        "SICP",
-        "Data-directed programming",
-        "Functional Programming",
-        "Complex Numbers"
-      ],
-      "published": "2026-06-29T22:00:00.000Z"
-    },
-    {
       "id": "3de6e566c817d104",
       "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
       "source": "Ken Shirriff's blog",
@@ -2585,22 +2713,6 @@
         "disempowerment",
         "socio-economics",
         "inequality"
-      ],
-      "published": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "7cbd68057c546935",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/",
-      "pacer": "C",
-      "keywords": [
-        "programming",
-        "software engineering",
-        "satire",
-        "debugging",
-        "tech culture"
       ],
       "published": "2026-06-25T00:00:00.000Z"
     },
@@ -2745,22 +2857,6 @@
         "Mitchell Hashimoto",
         "Open Source",
         "Funding"
-      ],
-      "published": "2026-06-21T00:00:00.000Z"
-    },
-    {
-      "id": "23535f545ad1591e",
-      "title": "On Vulgar Materialism",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/on-vulgar-materialism",
-      "pacer": "C",
-      "keywords": [
-        "materialism",
-        "cynicism",
-        "philosophy",
-        "naivety",
-        "cultural criticism"
       ],
       "published": "2026-06-21T00:00:00.000Z"
     },
@@ -3164,22 +3260,6 @@
       "published": "2026-06-07T09:46:06.000Z"
     },
     {
-      "id": "8a836974b2f14044",
-      "title": "Thoughts on starting new projects with LLM agents",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
-      "pacer": "P",
-      "keywords": [
-        "LLM agents",
-        "software development",
-        "Go language",
-        "productivity",
-        "AI coding"
-      ],
-      "published": "2026-06-07T00:38:00.000Z"
-    },
-    {
       "id": "e2cf33ed0bc9f2a7",
       "title": "In pursuit of desirable difficulties",
       "source": "Westenberg.",
@@ -3496,16 +3576,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-05-27T06:45:00.000Z"
-    },
-    {
-      "id": "792a205e68b99382",
-      "title": "Only insane people use the internet",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/only-insane-people-use-the-internet",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-26T16:02:14.000Z"
     },
     {
       "id": "7346742db1280348",
@@ -3908,22 +3978,6 @@
       "published": "2026-05-13T00:00:00.000Z"
     },
     {
-      "id": "36e95b8758c3e999",
-      "title": "Learning Software Architecture",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "pacer": "C",
-      "keywords": [
-        "software architecture",
-        "software design",
-        "Conway's Law",
-        "engineering",
-        "skill acquisition"
-      ],
-      "published": "2026-05-12T00:00:00.000Z"
-    },
-    {
       "id": "e5065dae171b33ef",
       "title": "The Problem of Pedagogy in Advanced Mathematics",
       "source": "Susam Pal",
@@ -4308,16 +4362,6 @@
       "published": "2026-03-23T00:14:27.000Z"
     },
     {
-      "id": "0fe1832d16446e7a",
-      "title": "On becoming a day person",
-      "source": "Herman's blog",
-      "source_url": "https://herman.bearblog.dev/",
-      "url": "https://herman.bearblog.dev/becoming-a-day-person/",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-19T09:17:00.000Z"
-    },
-    {
       "id": "064b5bd367ed773a",
       "title": "Related UI elements should not appear unrelated",
       "source": "Rakhim's blog",
@@ -4570,14 +4614,25 @@
   ],
   "links": [
     {
-      "source": "8f361f4d618587ef",
-      "target": "154a58d8eec18b1e",
+      "source": "8b948d6c2ee3ddf8",
+      "target": "072ad14c8649e5a2",
       "shared_keywords": [
-        "combinatorics",
-        "rooted trees",
-        "mathematics"
+        "COM",
+        "Global Interface Table",
+        "Programming"
       ],
       "strength": 0.6
+    },
+    {
+      "source": "52d0625ebab5b1f8",
+      "target": "4ae8d4a91ba338d7",
+      "shared_keywords": [
+        "metallic ratios",
+        "golden ratio",
+        "mathematics",
+        "number theory"
+      ],
+      "strength": 0.8
     },
     {
       "source": "e6cc8e26a06cd23d",
@@ -4600,28 +4655,6 @@
       "strength": 0.6
     },
     {
-      "source": "a83360e2f32ed11a",
-      "target": "3488715d6d434621",
-      "shared_keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Delegate",
-        "Programming"
-      ],
-      "strength": 0.8
-    },
-    {
-      "source": "a83360e2f32ed11a",
-      "target": "66d38550109f48be",
-      "shared_keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Delegate",
-        "Programming"
-      ],
-      "strength": 0.8
-    },
-    {
       "source": "60b6decfca71d60a",
       "target": "47b7b3ad5b3eff0f",
       "shared_keywords": [
@@ -4630,38 +4663,6 @@
         "Agile Delegate"
       ],
       "strength": 0.6
-    },
-    {
-      "source": "60b6decfca71d60a",
-      "target": "3488715d6d434621",
-      "shared_keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Programming"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "60b6decfca71d60a",
-      "target": "66d38550109f48be",
-      "shared_keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Programming"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "3488715d6d434621",
-      "target": "66d38550109f48be",
-      "shared_keywords": [
-        "C++/WinRT",
-        "Windows Runtime",
-        "Delegate",
-        "Exception Safety",
-        "Programming"
-      ],
-      "strength": 1
     },
     {
       "source": "46c259d1bfa61566",
