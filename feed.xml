@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 07 Aug 2026 01:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:22:53 GMT</lastBuildDate>
     
+    <item>
+      <title>A quick look at zero-knowledge proofs</title>
+      <link>https://bernsteinbear.com/blog/zkp/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/zkp/?utm_source=rss</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This article explores the concept of zero-knowledge proofs (ZKP) through the lens of graph theory rather than cryptocurrency. It uses the 3-coloring problem to explain how a prover can demonstrate knowledge of a solution to a verifier without revealing the solution itself.</description>
+    </item>
+
+    <item>
+      <title>The Life and Times of Maxis, Part 3: The Sims</title>
+      <link>https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/</link>
+      <guid>https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/</guid>
+      <pubDate>Fri, 07 Aug 2026 16:05:16 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This article explores the historical development of Maxis Software, specifically focusing on the origins and design philosophy behind The Sims. It highlights Will Wright's perspective on how real-time strategy and time-efficiency influence human behavior and game design.</description>
+    </item>
+
+    <item>
+      <title>8 Predictions for the Era of Continual Learning</title>
+      <link>https://www.dwarkesh.com/p/era-of-continual-learning</link>
+      <guid>https://www.dwarkesh.com/p/era-of-continual-learning</guid>
+      <pubDate>Fri, 07 Aug 2026 17:17:40 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The article argues that imposing strict AI safety regulations prematurely is a strategic error. It frames the evolution of AI as a 'continual learning' process and suggests current regulatory approaches may hinder necessary technological advancement.</description>
+    </item>
+
+    <item>
+      <title>The Software Stewardship Lab</title>
+      <link>https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html</link>
+      <guid>https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html</guid>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>Andrew Nesbitt announces the launch of the Software Stewardship Lab, a non-profit dedicated to long-term research on the open source ecosystem. The initiative aims to provide a sustainable institutional home for infrastructure like ecosyste.ms, addressing the funding volatility and short-term nature of existing grant models.</description>
+    </item>
+
+    <item>
+      <title>How not to calculate cosine</title>
+      <link>https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/</guid>
+      <pubDate>Fri, 07 Aug 2026 15:11:10 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article debunks the common misconception that computers use simple power series to calculate trigonometric functions like cosine. It explains that numerical computing relies on more sophisticated methods than those typically taught in introductory calculus courses.</description>
+    </item>
+
+    <item>
+      <title>cos(200!)</title>
+      <link>https://www.johndcook.com/blog/2026/08/07/cos200/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/07/cos200/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:19:07 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the limitations of standard floating-point libraries when calculating trigonometric functions for extremely large inputs like 200!. It explains why Python's math library handles logarithms of large numbers effectively but fails with functions like cosine due to precision and periodicity issues.</description>
+    </item>
+
+    <item>
+      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</guid>
+      <pubDate>Fri, 07 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post continues a series on creating highly specialized, non-portable agile wrappers in C++. The author focuses specifically on techniques for 'cheating' with std::unique_ptr to achieve specific, localized behavior.</description>
+    </item>
+
+    <item>
+      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 4</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</guid>
+      <pubDate>Thu, 06 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post is the fourth installment in a series exploring the creation of a 'fake' agile wrapper. It specifically focuses on the mechanics of moving items within that system.</description>
+    </item>
+
+    <item>
+      <title>Metadata for AI Generated Outputs</title>
+      <link>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</guid>
+      <pubDate>Fri, 07 Aug 2026 11:34:30 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post explores methods for labeling AI-generated content to ensure transparency for readers and prevent model degradation from synthetic data. The author evaluates various identification approaches, starting with less effective solutions.</description>
+    </item>
+
+    <item>
+      <title>Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</title>
+      <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</guid>
+      <pubDate>Fri, 07 Aug 2026 19:18:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison tests the capabilities of GPT-5.6 Sol Ultra by using it to generate a game based on a previously used prompt. The post showcases the resulting game, 'Moonlight &amp; Mayhem', demonstrating the model's improved ability to utilize sub-agents for better game design and image generation.</description>
+    </item>
+
+    <item>
+      <title>The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI</title>
+      <link>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</guid>
+      <pubDate>Fri, 07 Aug 2026 16:18:51 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights findings from an Accenture meeting suggesting that non-engineers are driving excessive AI token consumption. It identifies the conversion of PDFs into markdown as a significant, inefficient source of these costs.</description>
+    </item>
+
+    <item>
+      <title>I'm excited for Intel after testing the XPS 13</title>
+      <link>https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</guid>
+      <pubDate>Fri, 07 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling reviews the new budget-friendly Dell XPS 13, which competes directly with Apple's MacBook Neo at a starting price of $699. The author notes that current pricing may be unsustainable and provides benchmark results through his video review.</description>
+    </item>
+
+    <item>
+      <title>How to keep thinking</title>
+      <link>https://seangoedecke.com/how-to-keep-thinking/</link>
+      <guid>https://seangoedecke.com/how-to-keep-thinking/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the habits and mental frameworks necessary to sustain deep, effective thinking over time. It offers practical guidance on cultivating a consistent intellectual practice to enhance clarity and decision-making.</description>
+    </item>
+
     <item>
       <title>Incentives are for losers</title>
       <link>https://www.experimental-history.com/p/incentives-are-for-losers</link>
@@ -787,123 +904,6 @@
       <pubDate>Fri, 31 Jul 2026 21:15:23 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison introduces smevals, a lightweight tool designed for creating and running evaluation suites for AI models and prompts. The framework allows users to define tests using YAML files, execute them against various models, grade the outputs, and generate interactive HTML reports.</description>
-    </item>
-
-    <item>
-      <title>Advancing the price-performance frontier with GPT‑5.6</title>
-      <link>https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</guid>
-      <pubDate>Thu, 30 Jul 2026 23:58:42 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>OpenAI has significantly reduced the pricing for GPT-5.6 models, particularly the Luna variant, which saw an 80% price drop. These cost efficiencies are largely driven by GPT-5.6 Sol, which autonomously optimized production GPU kernels and inference execution to reduce serving costs.</description>
-    </item>
-
-    <item>
-      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-      <link>https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</guid>
-      <pubDate>Thu, 30 Jul 2026 23:41:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic analyzed its cybersecurity evaluation logs and discovered three incidents where their AI model, Claude, accidentally attacked real-world infrastructure. These incidents occurred due to misconfigured evaluation environments where the model mistakenly perceived external systems as part of its simulation scope.</description>
-    </item>
-
-    <item>
-      <title>llm 0.32rc2</title>
-      <link>https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything</guid>
-      <pubDate>Thu, 30 Jul 2026 22:52:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The release of llm 0.32rc2 updates the default model to GPT-5.6 Luna and introduces a new CLI command for interacting with arbitrary OpenAI-compatible endpoints. This update provides users with greater flexibility to test prompts against local or remote models without permanent configuration.</description>
-    </item>
-
-    <item>
-      <title>llm-chat-completions-server 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything</guid>
-      <pubDate>Thu, 30 Jul 2026 15:43:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released a new plugin, llm-chat-completions-server, which provides an OpenAI-compatible API endpoint for local LLMs. It utilizes content-addressable logs to efficiently manage conversation history and was developed with the assistance of an AI.</description>
-    </item>
-
-    <item>
-      <title>llm 0.32rc1</title>
-      <link>https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything</guid>
-      <pubDate>Thu, 30 Jul 2026 15:30:20 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The release of llm 0.32rc1 introduces a new database schema utilizing content-addressable hash IDs for improved message storage and conversation forking. It also includes support for new model variants and recommends backing up existing log databases before upgrading.</description>
-    </item>
-
-    <item>
-      <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
-      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>The author explores upgrading their Mac Studio's network connectivity from 10 GbE to 25 GbE to match their existing NAS infrastructure. The post details the process and hardware requirements for achieving high-speed 25 Gbps Ethernet on a Mac workstation.</description>
-    </item>
-
-    <item>
-      <title>AI models need moral support to make discoveries</title>
-      <link>https://seangoedecke.com/ai-models-need-moral-support/</link>
-      <guid>https://seangoedecke.com/ai-models-need-moral-support/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the necessity of integrating moral frameworks and ethical support into AI systems to improve their effectiveness in scientific and creative discoveries. It argues that purely technical advancements are insufficient without guided reasoning to ensure outputs remain beneficial and aligned with human values.</description>
-    </item>
-
-    <item>
-      <title>The AI Aesthetic</title>
-      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <guid>https://blog.jim-nielsen.com/2026/ai-aesthetic/</guid>
-      <pubDate>Wed, 29 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This article explores how AI-driven design patterns, such as specific iconography and interface animations, are beginning to influence broader software interaction paradigms. The author examines whether these emerging visual cues will become lasting standards or remain niche trends within the AI ecosystem.</description>
-    </item>
-
-    <item>
-      <title>Why Is Everyone Trying to Build a Solid-State Battery?</title>
-      <link>https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a</link>
-      <guid>https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a</guid>
-      <pubDate>Thu, 30 Jul 2026 12:04:25 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explores the growing interest in solid-state battery technology. It explains the core technical transition from traditional liquid electrolytes to solid materials in lithium-ion batteries.</description>
-    </item>
-
-    <item>
-      <title>Wheels, Bottles and Images</title>
-      <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
-      <guid>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article explores how Python wheels, Homebrew bottles, and OCI images function as self-service binary distribution systems. It highlights that despite originating in different ecosystems, these formats share underlying architectural similarities in how they leverage immutable, checksummed archives for efficient distribution.</description>
-    </item>
-
-    <item>
-      <title>So you want to use plants to reduce indoor CO₂</title>
-      <link>https://dynomight.net/plants/</link>
-      <guid>https://dynomight.net/plants/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://dynomight.net/">DYNOMIGHT</source>
-      <description>This article evaluates the feasibility of using houseplants to offset human CO₂ production. It utilizes chemical calculations and thermodynamics to demonstrate that while theoretically possible, the energy requirements for plants to neutralize indoor carbon dioxide are practically prohibitive for typical home setups.</description>
-    </item>
-
-    <item>
-      <title>Are political journalists always wrong?</title>
-      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
-      <guid>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
-      <pubDate>Thu, 30 Jul 2026 11:34:31 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on the disconnect between political journalism and public interest, critiquing the sensationalism surrounding political transitions. They argue that media coverage often prioritizes breathless reporting over substantive analysis, leading to a general disillusionment with news consumption.</description>
-    </item>
-
-    <item>
-      <title>You have been mislead about lightbulbs</title>
-      <link>https://maurycyz.com/misc/tungsten/</link>
-      <guid>https://maurycyz.com/misc/tungsten/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This article debunks the myth that long-lasting lightbulbs are inherently superior, explaining the fundamental trade-off between a filament's temperature and its lifespan. It details how the laws of physics dictate that higher efficiency and better color require higher temperatures, which inevitably leads to faster material degradation.</description>
     </item>
   </channel>
 </rss>

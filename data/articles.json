@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-08-07T01:28:34.377Z",
+  "last_updated": "2026-08-07T22:22:53.365Z",
   "articles": [
+    {
+      "id": "7626bd897898339c",
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-08-07T00:00:00.000Z",
+      "summary_en": "This article explores the concept of zero-knowledge proofs (ZKP) through the lens of graph theory rather than cryptocurrency. It uses the 3-coloring problem to explain how a prover can demonstrate knowledge of a solution to a verifier without revealing the solution itself.",
+      "summary_zh": "本文跳脫加密貨幣的框架，改以圖論的角度介紹零知識證明（ZKP）。文章透過 3-著色問題（3-coloring problem）為例，說明證明者如何在不洩露具體解法的前提下，向驗證者證明其掌握了問題的解答。",
+      "keywords": [
+        "zero-knowledge proofs",
+        "graph theory",
+        "3-coloring",
+        "cryptography",
+        "prover-verifier"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the core concept and theoretical foundations of zero-knowledge proofs using the 3-coloring problem as an illustrative model.",
+      "pacer_reason_zh": "本文側重於闡述零知識證明的核心概念與理論基礎，並使用 3-著色問題作為具體的解釋模型。"
+    },
+    {
+      "id": "2de49d0a37ee501d",
+      "title": "The Life and Times of Maxis, Part 3: The Sims",
+      "url": "https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-08-07T16:05:16.000Z",
+      "summary_en": "This article explores the historical development of Maxis Software, specifically focusing on the origins and design philosophy behind The Sims. It highlights Will Wright's perspective on how real-time strategy and time-efficiency influence human behavior and game design.",
+      "summary_zh": "本文探討 Maxis Software 的發展歷程，重點介紹《模擬市民》(The Sims) 的起源與設計理念。文章引用威爾·萊特 (Will Wright) 的觀點，分析即時戰略思維與時間效率如何影響日常生活與遊戲設計。",
+      "keywords": [
+        "Maxis",
+        "The Sims",
+        "Will Wright",
+        "Game History",
+        "Game Design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a historical and conceptual overview of the origins and design philosophies behind a major video game franchise.",
+      "pacer_reason_zh": "本文對知名遊戲系列的起源及其背後的設計哲學進行了歷史性與概念性的概述。"
+    },
+    {
+      "id": "3e41a0ddd2213952",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-07T17:17:40.000Z",
+      "summary_en": "The article argues that imposing strict AI safety regulations prematurely is a strategic error. It frames the evolution of AI as a 'continual learning' process and suggests current regulatory approaches may hinder necessary technological advancement.",
+      "summary_zh": "本文主張在現階段過早實施人工智慧安全法規是一個錯誤的策略。作者將 AI 的發展視為一個「持續學習」的過程，並指出目前的監管方式可能會阻礙必要的技術進步。",
+      "keywords": [
+        "AI safety",
+        "regulation",
+        "continual learning",
+        "AI policy",
+        "technological evolution"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a theoretical argument and perspective on AI regulation policy.",
+      "pacer_reason_zh": "該內容針對 AI 監管政策提出了理論性的論點與觀點。"
+    },
+    {
+      "id": "0c83e0c636897dde",
+      "title": "The Software Stewardship Lab",
+      "url": "https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-07T10:00:00.000Z",
+      "summary_en": "Andrew Nesbitt announces the launch of the Software Stewardship Lab, a non-profit dedicated to long-term research on the open source ecosystem. The initiative aims to provide a sustainable institutional home for infrastructure like ecosyste.ms, addressing the funding volatility and short-term nature of existing grant models.",
+      "summary_zh": "Andrew Nesbitt 宣布成立「軟體管理實驗室」（Software Stewardship Lab），這是一家致力於對開源生態系統進行長期研究的非營利組織。該組織旨在為像 ecosyste.ms 這樣的基礎建設提供穩定的機構支持，以解決目前研究經費不穩定與專案壽命過短的問題。",
+      "keywords": [
+        "open source",
+        "sustainability",
+        "research",
+        "non-profit",
+        "funding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of software stewardship, the systemic funding issues in open source research, and the organization's mission to address these challenges.",
+      "pacer_reason_zh": "本文旨在闡述軟體管理的理念，分析開源研究在資金結構上存在的系統性問題，並說明該組織如何透過此概念解決相關挑戰。"
+    },
+    {
+      "id": "a7701001486c67e8",
+      "title": "How not to calculate cosine",
+      "url": "https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-07T15:11:10.000Z",
+      "summary_en": "This article debunks the common misconception that computers use simple power series to calculate trigonometric functions like cosine. It explains that numerical computing relies on more sophisticated methods than those typically taught in introductory calculus courses.",
+      "summary_zh": "本文反駁了電腦使用簡單冪級數來計算餘弦等三角函數的常見誤解。文章說明在數值運算中，電腦所採用的方法比微積分入門課程中教授的理論要複雜得多。",
+      "keywords": [
+        "cosine",
+        "numerical computing",
+        "trigonometric functions",
+        "power series",
+        "floating point"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical reality of how hardware implements mathematical functions, correcting common conceptual misconceptions.",
+      "pacer_reason_zh": "本文解釋了硬體如何實現數學函數的理論真相，修正了常見的概念性誤解。"
+    },
+    {
+      "id": "336cf62f66a6857b",
+      "title": "cos(200!)",
+      "url": "https://www.johndcook.com/blog/2026/08/07/cos200/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-07T13:19:07.000Z",
+      "summary_en": "This article discusses the limitations of standard floating-point libraries when calculating trigonometric functions for extremely large inputs like 200!. It explains why Python's math library handles logarithms of large numbers effectively but fails with functions like cosine due to precision and periodicity issues.",
+      "summary_zh": "本文探討了標準浮點數庫在處理極大數值（如 200!）進行三角函數計算時的限制。文章解釋了為何 Python 的數學庫可以有效處理大數的對數，但在計算餘弦函數時會因精度與週期性問題而失效。",
+      "keywords": [
+        "Python",
+        "floating-point",
+        "mathematics",
+        "cosine",
+        "computation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical concepts and technical reasons behind why calculating trigonometric functions for massive factorials is computationally problematic.",
+      "pacer_reason_zh": "本文解釋了為何對巨大階乘進行三角函數計算在數學概念與技術層面上會產生困難的原因。"
+    },
+    {
+      "id": "12775fec3d1e6b73",
+      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-07T14:00:00.000Z",
+      "summary_en": "This post continues a series on creating highly specialized, non-portable agile wrappers in C++. The author focuses specifically on techniques for 'cheating' with std::unique_ptr to achieve specific, localized behavior.",
+      "summary_zh": "本篇文章延續了關於開發高度特定且不具備可移植性的 C++ Agile 封裝系列。作者在此部分重點探討了如何利用 std::unique_ptr 進行「作弊」技巧，以達成特定情境下的功能需求。",
+      "keywords": [
+        "C++",
+        "std::unique_ptr",
+        "Agile wrapper",
+        "programming",
+        "The Old New Thing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is part of a series providing specific technical guidance and code-based steps for implementing a programming pattern.",
+      "pacer_reason_zh": "本文屬於一系列技術指南的一部分，提供了實作特定程式設計模式的技術指導與操作步驟。"
+    },
+    {
+      "id": "4059d06212108e84",
+      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 4",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-06T14:00:00.000Z",
+      "summary_en": "This post is the fourth installment in a series exploring the creation of a 'fake' agile wrapper. It specifically focuses on the mechanics of moving items within that system.",
+      "summary_zh": "這是探討建立「偽」敏捷封裝系列的第四篇文章。文中具體說明了在該系統中移動項目的技術細節。",
+      "keywords": [
+        "Agile",
+        "Software Development",
+        "The Old New Thing",
+        "Project Management",
+        "Technical Design"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as part of a multi-step series describing the construction of a specific system wrapper.",
+      "pacer_reason_zh": "這篇文章屬於系列教學的一部分，詳細說明了如何構建特定系統封裝的步驟。"
+    },
+    {
+      "id": "d2a77e4b29196ecd",
+      "title": "Metadata for AI Generated Outputs",
+      "url": "https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-07T11:34:30.000Z",
+      "summary_en": "This post explores methods for labeling AI-generated content to ensure transparency for readers and prevent model degradation from synthetic data. The author evaluates various identification approaches, starting with less effective solutions.",
+      "summary_zh": "本文探討了標記 AI 生成內容的各種方法，旨在為讀者提供透明度，並防止模型因攝入自身的合成數據而退化。作者在文中評估了多種標記方案，並從探討不理想的做法開始。",
+      "keywords": [
+        "AI",
+        "Metadata",
+        "LLM",
+        "Synthetic Content",
+        "Transparency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework and theoretical importance of labeling AI outputs, rather than a step-by-step tutorial or raw data analysis.",
+      "pacer_reason_zh": "本文側重於探討標記 AI 輸出內容的概念框架與理論重要性，而非步驟教學或原始數據分析。"
+    },
+    {
+      "id": "68b0d8364869d824",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-07T19:18:09.000Z",
+      "summary_en": "Simon Willison tests the capabilities of GPT-5.6 Sol Ultra by using it to generate a game based on a previously used prompt. The post showcases the resulting game, 'Moonlight & Mayhem', demonstrating the model's improved ability to utilize sub-agents for better game design and image generation.",
+      "summary_zh": "Simon Willison 測試了 GPT-5.6 Sol Ultra 的能力，使用相同的提示詞來生成遊戲。該文章展示了最終成果《Moonlight & Mayhem》，體現了該模型利用子代理（sub-agents）進行更佳遊戲設計與圖像生成的進步。",
+      "keywords": [
+        "GPT-5.6",
+        "AI Game Development",
+        "LLM",
+        "Generative AI",
+        "Coding"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as a benchmark and experiment comparing the output quality of different AI models on the same task.",
+      "pacer_reason_zh": "本文作為基準測試與實驗，比較不同 AI 模型在執行相同任務時的輸出品質。"
+    },
+    {
+      "id": "6b58e467eab504f4",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-07T16:18:51.000Z",
+      "summary_en": "This post highlights findings from an Accenture meeting suggesting that non-engineers are driving excessive AI token consumption. It identifies the conversion of PDFs into markdown as a significant, inefficient source of these costs.",
+      "summary_zh": "這篇文章引用 Accenture 內部會議記錄，指出 AI 代幣消耗過高並非由工程師所致，而是來自非工程人員的操作。其中，將 PDF 檔案轉換為 Markdown 格式被證實是造成大量代幣浪費的主因之一。",
+      "keywords": [
+        "AI",
+        "tokens",
+        "PDF",
+        "markdown",
+        "cost-efficiency"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides specific anecdotal data from a corporate internal report to evidence the cause of excessive AI token consumption.",
+      "pacer_reason_zh": "本文引用企業內部報告的具體案例數據，作為 AI 代幣過度消耗原因的證據。"
+    },
+    {
+      "id": "0d8c5f00f9b44c78",
+      "title": "I'm excited for Intel after testing the XPS 13",
+      "url": "https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-07T14:00:00.000Z",
+      "summary_en": "Jeff Geerling reviews the new budget-friendly Dell XPS 13, which competes directly with Apple's MacBook Neo at a starting price of $699. The author notes that current pricing may be unsustainable and provides benchmark results through his video review.",
+      "summary_zh": "Jeff Geerling 評測了新款入門級 Dell XPS 13，該產品以 699 美元的定價與 Apple 的 MacBook Neo 展開競爭。作者指出目前的定價可能難以維持，並透過 YouTube 頻道提供了相關的基準測試結果。",
+      "keywords": [
+        "Dell XPS 13",
+        "MacBook Neo",
+        "laptops",
+        "benchmarks",
+        "tech review"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on hardware benchmarking and product review data.",
+      "pacer_reason_zh": "本文主要聚焦於硬體基準測試與產品評測數據。"
+    },
+    {
+      "id": "355524d2cc909192",
+      "title": "How to keep thinking",
+      "url": "https://seangoedecke.com/how-to-keep-thinking/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-07T00:00:00.000Z",
+      "summary_en": "This article explores the habits and mental frameworks necessary to sustain deep, effective thinking over time. It offers practical guidance on cultivating a consistent intellectual practice to enhance clarity and decision-making.",
+      "summary_zh": "本文探討了長期保持深入且高效思考所需的習慣與思維框架。文中提供了培養持續性智力實踐的實用指南，旨在提升思考的清晰度與決策能力。",
+      "keywords": [
+        "thinking",
+        "habits",
+        "intellectual practice",
+        "mental models",
+        "productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on how to develop and maintain thinking habits, fitting the procedural category.",
+      "pacer_reason_zh": "本文作為如何建立並維持思考習慣的指南，屬於程序性內容。"
+    },
     {
       "id": "a01041fffb6e0b27",
       "title": "Incentives are for losers",
