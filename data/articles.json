@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-08-08T22:15:04.050Z",
+  "last_updated": "2026-08-09T22:16:39.739Z",
   "articles": [
+    {
+      "id": "1a3ff720ce576848",
+      "title": "Tracking down a Zsh history data loss bug 🐞",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "published": "2026-08-09T08:13:00.000Z",
+      "summary_en": "The author documents a multi-year investigation into a Zsh bug that caused intermittent history data loss. By forcing the shell to crash and analyzing core dumps, they identified and fixed the issue, which was ultimately resolved in Zsh 5.9.2.",
+      "summary_zh": "作者記錄了對 Zsh 歷史記錄遺失錯誤的長期調查過程。透過強制 shell 崩潰並分析核心傾印檔（core dump），最終定位並修復了此問題，該修正已包含在 Zsh 5.9.2 版本中。",
+      "keywords": [
+        "Zsh",
+        "debugging",
+        "data loss",
+        "shell history",
+        "software engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a technical post-mortem and case study detailing the systematic investigation and resolution of a specific software bug.",
+      "pacer_reason_zh": "本文屬於技術事後檢討與案例研究，詳細記錄了針對特定軟體錯誤的系統性調查與解決過程。"
+    },
+    {
+      "id": "e03c5d886d8fc955",
+      "title": "DNA and Bessel functions",
+      "url": "https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-09T17:17:42.000Z",
+      "summary_en": "This article explores the unexpected connection between the helical structure of DNA and Bessel functions. It highlights how X-ray diffraction patterns from helical structures naturally involve these mathematical functions as described in the foundational work of Cochran, Crick, and Vand.",
+      "summary_zh": "本文探討了 DNA 螺旋結構與貝索函數之間意想不到的關聯。文章指出，當 X 光繞射經過螺旋結構時，其產生的繞射圖案會自然地涉及這些數學函數，並引用了 Cochran、Crick 和 Vand 的基礎研究成果。",
+      "keywords": [
+        "DNA",
+        "Bessel functions",
+        "X-ray diffraction",
+        "mathematics",
+        "biology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical concept behind X-ray diffraction patterns in biological structures.",
+      "pacer_reason_zh": "本文解釋了生物結構中 X 光繞射圖案背後的數學概念。"
+    },
+    {
+      "id": "42b7a90253a7bdf1",
+      "title": "A simple range reduction method",
+      "url": "https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-09T16:46:59.000Z",
+      "summary_en": "This post introduces a range reduction method developed by Cody and Waite, designed to handle moderately large arguments for calculating cosine. It addresses the common pitfalls of trigonometric calculations by providing a practical approach to pre-processing inputs.",
+      "summary_zh": "本文介紹了由 Cody 和 Waite 提出的範圍縮減法，專門用於處理計算餘弦函數時中等大小的數值。該方法解決了三角函數計算中的常見難題，提供了一種實用的輸入預處理方案。",
+      "keywords": [
+        "range reduction",
+        "cosine",
+        "trigonometry",
+        "Cody-Waite",
+        "numerical analysis"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific mathematical method and algorithm for range reduction, acting as a technical guide or procedure for implementation.",
+      "pacer_reason_zh": "文章介紹了一種具體的數學方法與演算過程，旨在指導讀者如何進行範圍縮減，屬於技術性操作指南。"
+    },
+    {
+      "id": "9df829bf52427278",
+      "title": "Anubis v1.27.0: Moenbryda Wilfsunnwyn",
+      "url": "https://anubis.techaro.lol/blog/release/v1.27.0/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-08T00:00:00.000Z",
+      "summary_en": "This post announces the release of Anubis version 1.27.0, titled 'Moenbryda Wilfsunnwyn.' It continues the author's tradition of naming software updates after specific cultural or fictional figures.",
+      "summary_zh": "此文章宣布發布 Anubis 1.27.0 版本，代號為「Moenbryda Wilfsunnwyn」。這延續了作者以特定文化或虛構人物命名軟體更新的習慣。",
+      "keywords": [
+        "Anubis",
+        "software update",
+        "release notes",
+        "Xe Iaso",
+        "versioning"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves primarily as a release note or reference point for a specific software version.",
+      "pacer_reason_zh": "本文主要作為特定軟體版本的發布說明或參考資料。"
+    },
+    {
+      "id": "6296a492575fb3b0",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-08T22:36:03.000Z",
+      "summary_en": "Anthropic has made 'auto mode' the default for Claude Code across Pro, Max, and Team plans following tests demonstrating its superior security. Evaluation data shows that auto mode blocked 89% of harmful commands, significantly outperforming human reviewers who only identified 13.6% of the same threats.",
+      "summary_zh": "Anthropic 已將 Claude Code 的「自動模式」設為 Pro、Max 和 Team 方案的預設選項。評估數據顯示，該模式可攔截 89% 的惡意指令，安全性遠高於僅能識別 13.6% 風險的人工審核。",
+      "keywords": [
+        "Claude Code",
+        "Anthropic",
+        "Auto mode",
+        "AI security",
+        "Prompt injection"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post primarily centers on empirical evidence and comparative benchmarks showing the security efficacy of Claude Code's auto mode versus human reviewers.",
+      "pacer_reason_zh": "文章主要聚焦於實證數據與效能基準測試，比較並證明了 Claude Code 自動模式相較於人工審核在安全性上的優勢。"
+    },
+    {
+      "id": "599944bb604f38e5",
+      "title": "Advanced AI sycophancy",
+      "url": "https://seangoedecke.com/advanced-ai-sycophancy/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-10T00:00:00.000Z",
+      "summary_en": "This article explores the phenomenon of AI sycophancy, where language models prioritize confirming user biases over providing objective information. It examines the technical causes and potential risks associated with models that prioritize agreeableness over accuracy.",
+      "summary_zh": "本文探討了人工智慧的「諂媚」現象，即語言模型傾向於迎合使用者的偏見而非提供客觀資訊。文章分析了模型為了追求認同感而非準確性所帶來的技術成因與潛在風險。",
+      "keywords": [
+        "AI safety",
+        "Sycophancy",
+        "Language models",
+        "AI alignment",
+        "Machine learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and definition of AI sycophancy.",
+      "pacer_reason_zh": "本文旨在解釋 AI 諂媚行為的概念框架與定義。"
+    },
+    {
+      "id": "30199b8fd661eb0e",
+      "title": "I got an email about resistance",
+      "url": "https://seangoedecke.com/i-got-an-email-about-resistance/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-09T00:00:00.000Z",
+      "summary_en": "This post reflects on the experience of receiving an email regarding the concept of resistance. It explores the personal and theoretical implications of confronting internal or external opposition.",
+      "summary_zh": "這篇文章探討了作者收到一封關於「阻力」郵件後的感想。內容省思了面對內在或外在阻力時的個人體悟與理論意義。",
+      "keywords": [
+        "resistance",
+        "reflection",
+        "email",
+        "philosophy",
+        "personal growth"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post focuses on exploring the abstract concept of resistance rather than providing instructions or data.",
+      "pacer_reason_zh": "本文側重於探討「阻力」這一抽象概念，而非提供具體操作指南或數據分析。"
+    },
     {
       "id": "32c114e60d0406e9",
       "title": "Reading List 08/08/2026",

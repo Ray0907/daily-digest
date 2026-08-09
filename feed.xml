@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 08 Aug 2026 22:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:16:39 GMT</lastBuildDate>
     
+    <item>
+      <title>Tracking down a Zsh history data loss bug 🐞</title>
+      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
+      <guid>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</guid>
+      <pubDate>Sun, 09 Aug 2026 08:13:00 GMT</pubDate>
+      <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
+      <description>The author documents a multi-year investigation into a Zsh bug that caused intermittent history data loss. By forcing the shell to crash and analyzing core dumps, they identified and fixed the issue, which was ultimately resolved in Zsh 5.9.2.</description>
+    </item>
+
+    <item>
+      <title>DNA and Bessel functions</title>
+      <link>https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</guid>
+      <pubDate>Sun, 09 Aug 2026 17:17:42 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the unexpected connection between the helical structure of DNA and Bessel functions. It highlights how X-ray diffraction patterns from helical structures naturally involve these mathematical functions as described in the foundational work of Cochran, Crick, and Vand.</description>
+    </item>
+
+    <item>
+      <title>A simple range reduction method</title>
+      <link>https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</guid>
+      <pubDate>Sun, 09 Aug 2026 16:46:59 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post introduces a range reduction method developed by Cody and Waite, designed to handle moderately large arguments for calculating cosine. It addresses the common pitfalls of trigonometric calculations by providing a practical approach to pre-processing inputs.</description>
+    </item>
+
+    <item>
+      <title>Anubis v1.27.0: Moenbryda Wilfsunnwyn</title>
+      <link>https://anubis.techaro.lol/blog/release/v1.27.0/</link>
+      <guid>https://anubis.techaro.lol/blog/release/v1.27.0/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post announces the release of Anubis version 1.27.0, titled 'Moenbryda Wilfsunnwyn.' It continues the author's tradition of naming software updates after specific cultural or fictional figures.</description>
+    </item>
+
+    <item>
+      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
+      <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
+      <guid>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</guid>
+      <pubDate>Sat, 08 Aug 2026 22:36:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has made 'auto mode' the default for Claude Code across Pro, Max, and Team plans following tests demonstrating its superior security. Evaluation data shows that auto mode blocked 89% of harmful commands, significantly outperforming human reviewers who only identified 13.6% of the same threats.</description>
+    </item>
+
+    <item>
+      <title>Advanced AI sycophancy</title>
+      <link>https://seangoedecke.com/advanced-ai-sycophancy/</link>
+      <guid>https://seangoedecke.com/advanced-ai-sycophancy/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the phenomenon of AI sycophancy, where language models prioritize confirming user biases over providing objective information. It examines the technical causes and potential risks associated with models that prioritize agreeableness over accuracy.</description>
+    </item>
+
+    <item>
+      <title>I got an email about resistance</title>
+      <link>https://seangoedecke.com/i-got-an-email-about-resistance/</link>
+      <guid>https://seangoedecke.com/i-got-an-email-about-resistance/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This post reflects on the experience of receiving an email regarding the concept of resistance. It explores the personal and theoretical implications of confronting internal or external opposition.</description>
+    </item>
+
     <item>
       <title>Reading List 08/08/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-08082026</link>
@@ -841,69 +904,6 @@
       <pubDate>Fri, 31 Jul 2026 23:59:44 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>DeepSeek-V4-Flash-0731 is a new 304B parameter model that offers exceptional performance-to-cost efficiency. Analysis shows it outperforms larger models like MiniMax M3 while maintaining significantly lower operational costs.</description>
-    </item>
-
-    <item>
-      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
-      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</guid>
-      <pubDate>Fri, 31 Jul 2026 23:13:22 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses the release of the stateless Model Context Protocol (MCP) 2.0 and its renewed appeal for AI developers. The author explains that stateless MCP offers a more secure and simpler alternative to raw shell access, making it highly effective for smaller, local LLMs.</description>
-    </item>
-
-    <item>
-      <title>llm-mcp-client 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</guid>
-      <pubDate>Fri, 31 Jul 2026 23:03:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a0 of llm-mcp-client, a tool designed to interact with the Model Context Protocol. This release announcement serves as a reference for developers tracking updates to his LLM ecosystem tools.</description>
-    </item>
-
-    <item>
-      <title>Slack Emoji Maker</title>
-      <link>https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything</guid>
-      <pubDate>Fri, 31 Jul 2026 20:18:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces a simple web-based image editor designed to help users create custom Slack emojis. The tool automatically enforces the required 128x128 pixel dimensions and transparent background settings for Slack uploads.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent 0.4a0</title>
-      <link>https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything</guid>
-      <pubDate>Fri, 31 Jul 2026 14:14:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette-agent 0.4a0 introduces a new 'browser_task' mechanism, enabling agent tools to execute custom JavaScript directly within the user's browser. This update enhances plugin capabilities and has been applied to implement a debug loop for Datasette Apps.</description>
-    </item>
-
-    <item>
-      <title>AI: Considerations for people who make decisions</title>
-      <link>https://berthub.eu/articles/posts/ai-for-decision-makers/</link>
-      <guid>https://berthub.eu/articles/posts/ai-for-decision-makers/</guid>
-      <pubDate>Fri, 31 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>This article discusses the importance of providing actionable insights to policymakers and decision-makers regarding the implementation of AI. It reflects on recent presentations delivered to Dutch government and advisory bodies to help shape effective AI policy.</description>
-    </item>
-
-    <item>
-      <title>Y2K Will Be Quite Okay</title>
-      <link>https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</link>
-      <guid>https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</guid>
-      <pubDate>Fri, 31 Jul 2026 16:06:39 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>The author announces the release of a new ebook detailing the history of the year 1999. This update serves as a brief interlude before the final installment of the Maxis Software series is published next week.</description>
-    </item>
-
-    <item>
-      <title>The AI Phrasebook</title>
-      <link>https://nesbitt.io/2026/07/31/the-ai-phrasebook.html</link>
-      <guid>https://nesbitt.io/2026/07/31/the-ai-phrasebook.html</guid>
-      <pubDate>Fri, 31 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This post offers a creative lexicon that maps complex AI concepts to familiar Unix, Linux, and traditional software engineering primitives. By using historical computing metaphors, it demystifies abstract machine learning terminology through the lens of established systems administration and command-line tools.</description>
     </item>
   </channel>
 </rss>
