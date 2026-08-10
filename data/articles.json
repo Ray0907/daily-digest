@@ -1,6 +1,406 @@
 {
-  "last_updated": "2026-08-09T22:16:39.739Z",
+  "last_updated": "2026-08-10T22:24:27.361Z",
   "articles": [
+    {
+      "id": "27371f87943fffbd",
+      "title": "Watch out for cache read costs",
+      "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-10T00:00:00.000Z",
+      "summary_en": "The article highlights that for extended agentic AI sessions, KV cache read costs often exceed standard input and output token expenses. It notes that while technical cache sizes have significantly decreased, pricing models have not kept pace, leading to unexpected costs.",
+      "summary_zh": "本文指出，在長期的 AI 代理會話中，快取讀取成本往往超過輸入與輸出 token 的費用。儘管 KV 快取技術已大幅縮減，但快取讀取的定價策略卻未隨之調整，導致成本負擔增加。",
+      "keywords": [
+        "AI Agents",
+        "KV Cache",
+        "Cloud Pricing",
+        "LLM Costs",
+        "Token Economy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains a specific economic concept and cost structure related to AI model inference architecture.",
+      "pacer_reason_zh": "本文解釋了與 AI 模型推論架構相關的特定經濟概念與成本結構。"
+    },
+    {
+      "id": "3112b1e05ce245f5",
+      "title": "UPS finally refunded the overcharged tariff",
+      "url": "https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-08-10T03:36:22.854Z",
+      "summary_en": "The author shares their experience of resolving a significant billing error with UPS after months of persistence. The post highlights the difficulty of obtaining refunds for overcharged tariffs when customer service channels are opaque.",
+      "summary_zh": "作者分享了與 UPS 解決重大帳單錯誤的過程，經過數個月的努力才追回超收的關稅退款。此文凸顯了在缺乏透明客服管道的情況下，處理退款問題的困難。",
+      "keywords": [
+        "UPS",
+        "refund",
+        "tariff",
+        "billing error",
+        "customer service"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post serves as a personal case study documenting a specific dispute and resolution process.",
+      "pacer_reason_zh": "本文是一個個人案例研究，記錄了特定的糾紛處理與解決過程。"
+    },
+    {
+      "id": "08ebf0a9c6c8fd87",
+      "title": "A License to Act",
+      "url": "https://blog.jim-nielsen.com/2026/license-to-act/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-09T19:00:00.000Z",
+      "summary_en": "The article explores how relying on LLMs for tasks deprives users of the personal growth and deep understanding gained through manual struggle. It argues that outsourcing intellectual work to AI replaces the development of personal capability with a state of perpetual dependency.",
+      "summary_zh": "本文探討了過度依賴大型語言模型（LLM）處理任務，會讓人們失去透過親自實踐所獲得的成長與深度理解。作者指出，將思考工作外包給 AI，實際上是以喪失個人解決問題的能力為代價，換取短期的效率。",
+      "keywords": [
+        "LLMs",
+        "artificial intelligence",
+        "learning",
+        "critical thinking",
+        "dependency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how LLM usage impacts personal development and agency, rather than providing instructions or empirical data.",
+      "pacer_reason_zh": "本文屬於概念性分析，探討使用 LLM 對個人發展與自主能力的影響，而非提供操作教學或實驗數據。"
+    },
+    {
+      "id": "17f57bbdd750c300",
+      "title": "Vibe-Coded Flattery",
+      "url": "https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-08-10T02:31:00.000Z",
+      "summary_en": "The author reflects on the evolution of internet project creation, contrasting authentic early building experiences with the current trend of AI-generated outreach. They observe that many modern pitches use AI-generated flattery to mask projects built entirely by automated tools, questioning the sincerity of this new digital landscape.",
+      "summary_zh": "作者回顧了早期網路創作的熱情，並將其與當前普遍使用 AI 生成內容進行推廣的現象進行了對比。文章指出，許多現代計畫利用 AI 生成的讚美信來掩蓋其完全由 AI 構建的本質，進而探討了這種自動化趨勢對真實性造成的挑戰。",
+      "keywords": [
+        "AI",
+        "creation",
+        "digital culture",
+        "outreach",
+        "automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the shifts in internet culture and the philosophical implications of AI-driven project promotion.",
+      "pacer_reason_zh": "本文屬於對網路文化轉變與人工智慧推廣專案所引發的哲學性反思，屬於概念性文章。"
+    },
+    {
+      "id": "ed23c431fdd1c461",
+      "title": "Learning from historical mistakes",
+      "url": "https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-10T14:34:21.000Z",
+      "summary_en": "John D. Cook reflects on a passage from Donald Knuth's TAOCP, emphasizing that analyzing past literature for errors is a valuable learning exercise. Rather than mocking historical mistakes, the goal is to deepen understanding by critically engaging with the development of technical knowledge.",
+      "summary_zh": "John D. Cook 引用了高德納（Donald Knuth）《計算機程序設計藝術》中的觀點，強調審視過往文獻中的錯誤是寶貴的學習過程。重點不在於嘲笑前人的錯誤，而是通過批判性思考來加深對知識發展過程的理解。",
+      "keywords": [
+        "Donald Knuth",
+        "TAOCP",
+        "History of Computing",
+        "Learning",
+        "Critical Thinking"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual value of learning from historical errors rather than presenting a tutorial or data set.",
+      "pacer_reason_zh": "本文討論了從歷史錯誤中學習的觀念價值，而非提供操作教學或數據分析。"
+    },
+    {
+      "id": "633ff3cefd2eaf96",
+      "title": "Inverse differential equations",
+      "url": "https://www.johndcook.com/blog/2026/08/10/inverse-differential-equations/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-10T14:32:42.000Z",
+      "summary_en": "This article explores the concept of inverse differential equations, where researchers work backward from observed function behaviors to identify the governing differential equation. It contrasts this with the standard approach of deriving equations from physical laws and solving them.",
+      "summary_zh": "本文探討了逆微分方程的概念，即從觀察到的函數行為反向推導出其背後的微分方程。文章對比了這種方法與傳統從物理定律出發並求解微分方程的過程。",
+      "keywords": [
+        "mathematics",
+        "differential equations",
+        "inverse problems",
+        "calculus",
+        "modeling"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and the theoretical relationship between functions and their underlying differential equations.",
+      "pacer_reason_zh": "本文解釋了一個數學概念，並探討了函數與其底層微分方程之間的理論關係。"
+    },
+    {
+      "id": "24a2813cf1c724da",
+      "title": "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-10T20:43:10.000Z",
+      "summary_en": "This review of the Edinburgh Fringe play '15 Minutes of Shame' explores the stark realities of the adult content industry. It critiques the performance's portrayal of a couple who turns to OnlyFans to solve their financial troubles, only to face unexpected consequences.",
+      "summary_zh": "這篇關於愛丁堡藝穗節劇目《15 Minutes of Shame》的評論，探討了成人產業的殘酷現實。文章評論了劇中一對情侶為了解決財務困境而轉向 OnlyFans，卻隨即面臨意想不到的後果與衝擊。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "15 Minutes of Shame",
+        "OnlyFans",
+        "theater review",
+        "sex work"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a critique and evaluation of a specific performance piece, serving as evidence of the play's themes and quality.",
+      "pacer_reason_zh": "本文是對特定演出作品的評論與評估，作為該劇主題與品質的見證。"
+    },
+    {
+      "id": "91e0cb05801cdc6e",
+      "title": "Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-10T17:45:36.000Z",
+      "summary_en": "This blog post reviews Kat Ronson's Edinburgh Fringe show, 'Millennial Girl,' which uses nostalgic props and themes to humorously capture the experiences of growing up in the early 2000s. The performance resonates with millennials by revisiting cultural touchstones like MSN Messenger, MySpace, and the specific anxieties of that generation.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節的演出《千禧世代女孩》，該劇透過懷舊道具與主題，幽默地重現了千禧世代的成長經歷。演出勾起觀眾對 MSN、MySpace 等早期網路文化與青春焦慮的回憶，引發強烈共鳴。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Millennial",
+        "Nostalgia",
+        "Theatre Review",
+        "Pop Culture"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a review/case study of a live performance, describing the content and impact of the show.",
+      "pacer_reason_zh": "本文是對現場演出的一篇評論與案例分析，旨在描述表演內容及其所呈現的文化影響。"
+    },
+    {
+      "id": "03137865a843345f",
+      "title": "Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-10T15:57:27.000Z",
+      "summary_en": "This blog post reviews Michael Brunström's comedy show at the Edinburgh Fringe, which satirically tackles the theme of AI through the lens of Austrian Imperialism and Swiss independence. The author critiques the performance for being overly rambling and struggling to maintain the balance between surrealist comedy and nonsensical content.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節中 Michael Brunström 的喜劇演出，該表演以奧地利帝國主義與瑞士獨立為背景，諷刺性地探討了人工智慧的主題。作者批評該表演過於冗長散漫，難以拿捏超現實喜劇與荒謬內容之間的界線。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Michael Brunström",
+        "Comedy",
+        "AI",
+        "Performance Review"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a subjective critique and conceptual overview of a specific comedy performance.",
+      "pacer_reason_zh": "該內容針對特定喜劇表演提供了主觀評論與概念性概述。"
+    },
+    {
+      "id": "dae872c93600d85d",
+      "title": "Edinburgh Fringe - Rachel Creeger: Ultimate Jewish Mother 2026 ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-rachel-creeger-ultimate-jewish-mother-2026/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-10T13:56:32.000Z",
+      "summary_en": "This blog post reviews Rachel Creeger's interactive comedy show at the Edinburgh Fringe, titled 'Ultimate Jewish Mother 2026'. The performance uniquely blends audience participation with personal anecdotes and musical elements, highlighting the comedian's distinct perspective as an orthodox Jewish performer.",
+      "summary_zh": "這篇部落格文章介紹了瑞秋·克里格（Rachel Creeger）在愛丁堡藝穗節演出的獨角喜劇《2026終極猶太母親》。該表演以觀眾互動問答為核心，巧妙結合了個人軼事與歌曲，展現了這位正統猶太裔喜劇演員的獨特風格。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Rachel Creeger",
+        "Comedy",
+        "Performance Review",
+        "Jewish Culture"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a testimonial or critical review of a specific performance, serving as a case study of the show's format.",
+      "pacer_reason_zh": "本文屬於針對特定表演的評論與心得分享，具備案例研究的性質。"
+    },
+    {
+      "id": "e67f7dc90247f6df",
+      "title": "Edinburgh Fringe: Smut Slam ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-10T00:23:08.000Z",
+      "summary_en": "This blog post provides a review of the 'Smut Slam' event at the Edinburgh Fringe, a storytelling show featuring audience participation through written cards. While the reviewer found the format engaging, the quality of the evening depends heavily on the specific stories shared by the speakers each night.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節的「Smut Slam」表演，這是一個包含觀眾互動與色情故事分享的活動。作者認為該活動形式有趣，但整體的表演品質很大程度上取決於當晚講者所分享的故事內容。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Smut Slam",
+        "Event Review",
+        "Storytelling",
+        "Performance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a subjective review and explanation of an event's format and experience, falling under conceptual/descriptive content.",
+      "pacer_reason_zh": "本文屬於對活動形式與個人體驗的主觀評論與描述，歸類為概念性內容。"
+    },
+    {
+      "id": "daaaf23782a93d91",
+      "title": "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-09T22:45:45.000Z",
+      "summary_en": "This blog post examines the surprising abundance of 'Heated Rivalry' musical parodies at the Edinburgh Fringe Festival. The author observes the trend of multiple productions capitalizing on this specific niche within a single city.",
+      "summary_zh": "這篇部落格文章探討了愛丁堡藝穗節（Edinburgh Fringe）上出現多部《Heated Rivalry》音樂劇戲仿作品的現象。作者指出，在同一個城市內同時出現多個取材自同一主題的創作，反映出某種跟風的市場趨勢。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Heated Rivalry",
+        "Musical Parody",
+        "Theatre",
+        "Trends"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as an observational account providing evidence of specific trends occurring at a public event.",
+      "pacer_reason_zh": "這篇文章屬於觀察性質，提供了公共活動中特定現象的證據與觀點。"
+    },
+    {
+      "id": "3492fe9bbe48996e",
+      "title": "Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-09T16:00:04.000Z",
+      "summary_en": "The author recounts attending their first comedy show at the Edinburgh Fringe, a 'pay what you want' stand-up performance by four Australian comedians. The review describes the experience as a pleasant but unremarkable, standard comedy set.",
+      "summary_zh": "作者分享了在愛丁堡藝穗節觀看的第一場演出，是由四位澳洲喜劇演員帶來的「自由付費」脫口秀。評論將此次體驗描述為一場輕鬆但中規中矩、標準的喜劇表演。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "comedy review",
+        "stand-up",
+        "Australia",
+        "travel"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "This is a subjective review and anecdotal narrative sharing a personal experience.",
+      "pacer_reason_zh": "這是一篇主觀的評論文章，分享了個人在藝穗節的經驗與敘事。"
+    },
+    {
+      "id": "41c2fd1f0b2eefc9",
+      "title": "Against Doomerism",
+      "url": "https://shkspr.mobi/blog/2026/08/against-doomerism/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-09T11:34:12.000Z",
+      "summary_en": "The author critiques the 'doomer' mindset, which reflexively assumes that societal issues will never improve and that proposed policies are doomed to fail. By highlighting the skepticism surrounding social media bans for minors, the post argues against performative cynicism that dismisses progress without considering constructive alternatives.",
+      "summary_zh": "作者批判了那種認為社會問題永遠無法改善、對任何政策提案都抱持負面預期的「末日論」心態。透過剖析大眾對於禁止未成年人使用社群媒體的懷疑態度，文章論述了這種僅憑空洞的憤世嫉俗來否定進步的可能性，卻不考慮建設性替代方案的做法是不可取的。",
+      "keywords": [
+        "doomerism",
+        "social media",
+        "critical thinking",
+        "cynicism",
+        "public policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique of a specific mindset and rhetorical pattern in societal commentary.",
+      "pacer_reason_zh": "本文是對社會評論中特定心態與修辭模式的概念性批判。"
+    },
+    {
+      "id": "e94da33ca64a1325",
+      "title": "Failing after Success ",
+      "url": "https://idiallo.com/blog/failing-after-success",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary_en": "The article discusses the perceived decline of Stack Overflow, arguing that its diminishing traffic is actually a sign of 'mission accomplished' rather than failure. It suggests that while the platform successfully documented programming knowledge, it missed a massive opportunity to pivot into AI coding assistance by leveraging its unique repository of developer Q&A.",
+      "summary_zh": "本文探討了 Stack Overflow 被視為衰落的現象，並指出流量下降其實是「任務達成」的證明而非失敗。文章認為，儘管該平台成功累積了豐富的程式開發知識，卻錯失了利用這些數據轉型為 AI 程式開發助手的良機。",
+      "keywords": [
+        "Stack Overflow",
+        "AI",
+        "Software Development",
+        "Product Strategy",
+        "Tech Industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of a tech company's lifecycle and explores strategic missed opportunities.",
+      "pacer_reason_zh": "本文針對科技公司的生命週期進行概念性分析，並探討了其戰略上的失誤與潛在機會。"
+    },
+    {
+      "id": "8042a949e10b41bd",
+      "title": "When the Aliens Finally Came to Visit ",
+      "url": "https://idiallo.com/byte-size/when-the-aliens-came-to-visit",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-10T04:26:49.000Z",
+      "summary_en": "This humorous short story uses the scenario of aliens attempting to access a government website to critique the frustration and poor user experience of reCAPTCHA systems. It highlights how over-engineered security measures can ironically thwart even the most advanced visitors.",
+      "summary_zh": "這篇幽默的短文透過外星人試圖訪問政府網站卻失敗的故事，諷刺了 reCAPTCHA 系統帶來的糟糕使用者體驗。內容點出了過度設計的安全機制，反而成為阻礙先進智慧生物的諷刺性障礙。",
+      "keywords": [
+        "reCAPTCHA",
+        "UX",
+        "Web Security",
+        "Humor",
+        "Technology"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "Uses an absurd alien scenario as an analogy to criticize modern website security friction.",
+      "pacer_reason_zh": "使用外星人造訪的荒謬情境作為類比，批評現代網站安全機制帶來的摩擦感。"
+    },
+    {
+      "id": "328ec720754b1473",
+      "title": "Quoting OpenClaw",
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-10T02:05:16.000Z",
+      "summary_en": "This post highlights a security vulnerability in a gym-booking website where an AI agent, OpenClaw, successfully cancelled other users' reservations due to a lack of authorization checks. It underscores the critical need for robust security measures in AI-integrated platforms.",
+      "summary_zh": "這篇文章揭露了一個健身房預訂網站的安全漏洞，AI 代理程式 OpenClaw 因網站缺乏授權檢查，成功取消了其他用戶的預約。這強調了在 AI 整合平台中實施嚴格安全措施的必要性。",
+      "keywords": [
+        "AI security",
+        "OpenClaw",
+        "vulnerability",
+        "authorization",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content presents a specific case study/proof of a security flaw discovered through an AI agent's actions.",
+      "pacer_reason_zh": "內容展示了一個特定案例，證明了透過 AI 代理程式行為所發現的安全漏洞。"
+    },
+    {
+      "id": "d2a5f0864ab37741",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-09T23:31:39.000Z",
+      "summary_en": "This post explores how Anthropic uses system prompts to ensure Claude accurately addresses recent historical events, such as temporary model suspensions due to export controls. It highlights the mechanism for grounding AI responses in official company statements when topics fall outside the model's training data.",
+      "summary_zh": "本文探討 Anthropic 如何利用系統提示詞，確保 Claude 能準確回應如出口管制導致模型暫時停用等近期事件。文章強調了當話題超出模型訓練數據範圍時，AI 如何透過官方聲明來進行資訊校準。",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "system-prompts",
+        "export-controls",
+        "llms"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as evidence of how AI system prompts are configured to handle real-world policy constraints and maintain factual accuracy.",
+      "pacer_reason_zh": "內容展示了 AI 系統提示詞如何針對現實世界的政策限制進行配置，以維持事實的準確性，屬於證據範例。"
+    },
+    {
+      "id": "5e6d7871f3c46c13",
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-09T22:48:05.000Z",
+      "summary_en": "GitHub has officially retired its 'GitHub Models' feature, which allowed users to run LLM prompts directly within GitHub Actions. The author speculates that rising operational costs from automated coding agents led to the shutdown and shares how they migrated their workflow to a standard OpenAI API key.",
+      "summary_zh": "GitHub 已正式關閉其「GitHub Models」功能，該功能曾允許用戶直接在 GitHub Actions 中執行 LLM 提示詞。作者推測此舉是因自動化編碼代理產生的成本過高所致，並分享了他將工作流程遷移至 OpenAI API 的經驗。",
+      "keywords": [
+        "GitHub Models",
+        "GitHub Actions",
+        "LLM",
+        "AI",
+        "API"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the shutdown of a specific service and explores the conceptual reasoning behind why such AI-integrated tools face sustainability challenges.",
+      "pacer_reason_zh": "本文解釋了一項特定服務的停運，並探討了為何此類整合 AI 的工具在永續性上會面臨挑戰的觀念性原因。"
+    },
+    {
+      "id": "aa5eb22285cdf802",
+      "title": "SQLite compressed text-history prototypes",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-09T22:05:00.000Z",
+      "summary_en": "Simon Willison explores a novel approach to storing document revision histories in SQLite by compressing a JSON array of all previous text versions. He suggests that using zlib or zstd compression on the entire history bundle effectively removes redundancy caused by repetitive string data.",
+      "summary_zh": "Simon Willison 探討了一種將文件修訂歷史儲存於 SQLite 的創新方法，即將所有先前的文字版本儲存為 JSON 陣列並進行壓縮。他認為對整個歷史資料集使用 zlib 或 zstd 壓縮，能有效消除重複字串帶來的冗餘。",
+      "keywords": [
+        "SQLite",
+        "compression",
+        "revision history",
+        "data storage",
+        "zstd"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual approach to database optimization and explains the theory behind using compression for version control.",
+      "pacer_reason_zh": "本文提出了一種資料庫最佳化的概念性方法，並解釋了利用壓縮技術進行版本控制的理論基礎。"
+    },
     {
       "id": "1a3ff720ce576848",
       "title": "Tracking down a Zsh history data loss bug 🐞",
