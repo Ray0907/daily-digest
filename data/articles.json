@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-08-10T22:24:27.361Z",
+  "last_updated": "2026-08-11T22:29:20.905Z",
   "articles": [
+    {
+      "id": "d21c6a3092e4c4a6",
+      "title": "The Fruits of AI",
+      "url": "https://blog.jim-nielsen.com/2026/fruit-of-ai/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-11T19:00:00.000Z",
+      "summary_en": "This post argues that AI naturally encourages carelessness and poor output by default. The author uses the analogy of fruit cultivation to explain that high-quality results from AI require active, deliberate human intervention rather than passive reliance.",
+      "summary_zh": "這篇文章指出，AI 的本質傾向於助長草率的產出。作者使用果樹栽培作為類比，強調要獲得高品質的 AI 成果，必須經過人類積極且刻意的參與，而非僅僅被動依賴工具。",
+      "keywords": [
+        "AI",
+        "productivity",
+        "carelessness",
+        "analogy",
+        "critical thinking"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author primarily uses an extended analogy comparing AI usage to fruit cultivation to explain the necessity of human effort.",
+      "pacer_reason_zh": "作者主要運用了將 AI 使用比作果樹栽培的延伸類比，以解釋人類投入心力的必要性。"
+    },
+    {
+      "id": "ac4c4eb6f0c418cd",
+      "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
+      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-11T16:31:23.000Z",
+      "summary_en": "This discussion explores the potential for human-level AI to initiate recursive self-improvement, leading to runaway superintelligence. The conversation evaluates timelines and risks associated with such advancements by 2032.",
+      "summary_zh": "本討論探討了人類水平人工智慧啟動遞迴自我改進並導致超級智慧失控的可能性。對話評估了到 2032 年實現此類進展的時間表與相關風險。",
+      "keywords": [
+        "AI safety",
+        "superintelligence",
+        "recursive self-improvement",
+        "AI timeline",
+        "existential risk"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on theoretical explanations and conceptual analysis of AI development trajectories.",
+      "pacer_reason_zh": "內容側重於對人工智慧發展軌跡的理論解釋與概念性分析。"
+    },
+    {
+      "id": "20cd5b07f3d8cf62",
+      "title": "A noob learns FFT",
+      "url": "https://entropicthoughts.com/fft",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-08-10T22:00:00.000Z",
+      "summary_en": "The author documents their first experience learning and implementing the Fast Fourier Transform (FFT). By starting with a basic 5 Hz sine wave example, they bridge the gap between theoretical understanding and practical signal processing application.",
+      "summary_zh": "作者記錄了首次學習與實作快速傅立葉轉換（FFT）的過程。透過分析 5 Hz 正弦波的基礎範例，作者填補了理論知識與實際訊號處理應用之間的落差。",
+      "keywords": [
+        "FFT",
+        "signal processing",
+        "time-frequency transformation",
+        "tutorial",
+        "learning"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post serves as a personal tutorial or 'learning by doing' guide for beginners exploring FFT implementation.",
+      "pacer_reason_zh": "這篇文章作為初學者探索 FFT 實作的個人教學或「實作學習」指南。"
+    },
+    {
+      "id": "bfcd0ff9fa820219",
+      "title": "Shared Code Between Package Managers",
+      "url": "https://nesbitt.io/2026/08/11/package-manager-library-reuse.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-11T10:00:00.000Z",
+      "summary_en": "This article analyzes the extent of code reuse among twenty popular package managers by examining their direct dependencies and vendored libraries. It highlights how tools like npm, Yarn, pnpm, and various Python managers frequently share core logic for specifications and solving, often managed by the same governing organizations.",
+      "summary_zh": "本文分析了二十種熱門套件管理工具之間的程式碼共用程度，並檢視了它們的直接依賴項目與 vendored 函式庫。研究顯示，npm、Yarn、pnpm 以及多種 Python 套件管理工具經常共用處理規格與解析的核心邏輯，且這些共用函式庫通常由相同的組織維護。",
+      "keywords": [
+        "package managers",
+        "code reuse",
+        "dependencies",
+        "software engineering",
+        "open source"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents data-driven observations and findings regarding dependency patterns across twenty different software tools.",
+      "pacer_reason_zh": "本文針對二十種不同的軟體工具進行依賴模式的觀察，並提出基於數據的研究結果。"
+    },
+    {
+      "id": "79ac2d853198e93f",
+      "title": "Dogs and fat tails",
+      "url": "https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-11T14:09:46.000Z",
+      "summary_en": "The author analyzes a dataset of NYC dog names, noting that their distribution follows a fat-tailed pattern rather than a simple normal distribution. This observation highlights how common names dominate, while a vast number of unique, rarely-used names persist in the tail.",
+      "summary_zh": "作者分析了紐約市寵物狗名字的數據集，發現這些名字的分布呈現出「肥尾效應」而非簡單的正態分布。這顯示了少數常見名字佔據主導地位，同時存在大量僅被使用過一次的稀有名字。",
+      "keywords": [
+        "data analysis",
+        "fat tails",
+        "NYC dog names",
+        "statistics",
+        "distribution"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes a specific dataset to draw statistical conclusions about distribution patterns.",
+      "pacer_reason_zh": "本文透過分析特定數據集，得出關於數據分布模式的統計結論。"
+    },
+    {
+      "id": "14f93ef46e9e4c52",
+      "title": "Manually unbreakable cryptography",
+      "url": "https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-11T12:04:24.000Z",
+      "summary_en": "This article explores the feasibility of implementing modern cryptographic methods in a pre-computer era. It highlights the practical challenge that complex algorithms like RSA require computing power for both the attacker and the legitimate user, making manual execution impossible.",
+      "summary_zh": "本文探討了在電腦時代之前實施現代加密方法的可能性。文章指出，像 RSA 這樣的加密演算法需要運算能力，這使得攻擊者與合法用戶在沒有電腦的情況下均無法手動執行這些加密技術。",
+      "keywords": [
+        "cryptography",
+        "RSA",
+        "history of technology",
+        "encryption",
+        "manual computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of the limitations of applying modern cryptographic theory to historical, pre-computer environments.",
+      "pacer_reason_zh": "本文對將現代加密理論應用於歷史前電腦環境的局限性進行了概念性的探討。"
+    },
+    {
+      "id": "5d3b83cb8e811652",
+      "title": "How can I perform a Copy­File in unbuffered mode?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-10T14:00:00.000Z",
+      "summary_en": "This article discusses alternative methods for performing file copying operations in Windows when unbuffered I/O is required. It suggests exploring advanced API alternatives beyond the standard CopyFile function to achieve this behavior.",
+      "summary_zh": "本文探討了在 Windows 中執行需要非緩衝（unbuffered）I/O 的檔案複製操作時的可行方案。文章建議開發者應尋求標準 CopyFile 函式以外的進階 API 替代方案來達成此需求。",
+      "keywords": [
+        "Windows API",
+        "CopyFile",
+        "Unbuffered I/O",
+        "File I/O",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides guidance on how to achieve a specific technical programming task by suggesting alternative implementation methods.",
+      "pacer_reason_zh": "該文章透過建議替代的實作方法，為如何執行特定的程式開發任務提供了指導。"
+    },
+    {
+      "id": "0103ae5a32baf6d9",
+      "title": "Extending immutability: deletion without losing data",
+      "url": "https://www.tigrisdata.com/blog/soft-delete-deep-dive/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-11T00:00:00.000Z",
+      "summary_en": "This article explores the technical implementation and design patterns for achieving data deletion while maintaining immutability. It discusses strategies to handle historical data integrity in systems where records are meant to be append-only.",
+      "summary_zh": "本文探討了在保持數據不可變性的前提下，實現數據刪除的技術實現與設計模式。文中討論了在僅能追加的系統中，處理歷史數據完整性的策略。",
+      "keywords": [
+        "immutability",
+        "data deletion",
+        "system design",
+        "data integrity",
+        "append-only"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concepts and architectural patterns behind managing data lifecycle in immutable systems.",
+      "pacer_reason_zh": "本文解釋了在不可變系統中管理數據生命週期的理論概念與架構模式。"
+    },
+    {
+      "id": "bd1f8daf92b93dc8",
+      "title": "Thoughts I had while reading your comment",
+      "url": "https://dynomight.net/comment/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-08-11T00:00:00.000Z",
+      "summary_en": "This post examines the internal monologue and social anxieties experienced when deciding how to respond to internet comments. It categorizes various typical reactions, ranging from feeling intimidated by flawless arguments to navigating disagreements and misunderstandings.",
+      "summary_zh": "這篇文章探討了在回應網路評論時，人們內心常有的獨白與社交焦慮。作者將各種常見的反應進行了分類，從面對完美論點時的不知所措，到處理意見分歧與誤解的微妙心境。",
+      "keywords": [
+        "internet culture",
+        "communication",
+        "commenting",
+        "social psychology",
+        "discourse"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post uses a series of archetypal scenarios as analogies to explain the complex psychological landscape of online interactions.",
+      "pacer_reason_zh": "文章透過一系列典型情境作為類比，解釋了網路互動中複雜的心理狀態。"
+    },
+    {
+      "id": "489a5077b3f1400b",
+      "title": "Pluralistic: Surveillance vs guillotines (11 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-11T11:19:13.000Z",
+      "summary_en": "Cory Doctorow argues that Edward Snowden's surveillance revelations and Thomas Piketty's analysis of capital inequality are intrinsically linked. He posits that the rise of global digital surveillance and the inevitable accumulation of wealth by the oligarchy are two sides of the same systemic phenomenon.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）認為，愛德華·史諾登揭露的全球監控系統與湯瑪斯·皮凱提對資本不平等的分析有著內在聯繫。他指出，全球數位監控的崛起與寡頭財富的必然積累，其實是同一體系現象的兩個面向。",
+      "keywords": [
+        "Surveillance",
+        "Capitalism",
+        "Inequality",
+        "Snowden",
+        "Piketty"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework for understanding the relationship between digital surveillance and economic inequality.",
+      "pacer_reason_zh": "本文提供了一個概念性框架，用以理解數位監控與經濟不平等之間的關聯。"
+    },
+    {
+      "id": "8d482f9ec5349018",
+      "title": "Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/10/deep-state-wopr/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-10T07:01:46.000Z",
+      "summary_en": "Cory Doctorow critiques the notion that AI will overwhelm bureaucratic systems with high-quality legal filings, arguing that AI is prone to hallucinations and lacks the discernment of skilled practitioners. He warns against 'automation blindness,' where reliance on faulty AI tools fails to catch critical errors.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）批評了關於人工智慧將以高品質法律文件淹沒官僚體系的觀點，認為人工智慧容易產生幻覺且缺乏專業從業者的判斷力。他進一步警告「自動化盲點」的風險，即過度依賴不可靠的 AI 工具反而導致關鍵錯誤被忽視。",
+      "keywords": [
+        "AI",
+        "bureaucracy",
+        "automation",
+        "hallucinations",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the limitations of AI in legal and bureaucratic settings, challenging common assumptions about its capabilities.",
+      "pacer_reason_zh": "本文對人工智慧在法律與官僚環境中的侷限性進行了概念性的批判，挑戰了關於其能力的常見假設。"
+    },
+    {
+      "id": "215b91448d4dcac6",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-08-11T21:28:35.000Z",
+      "summary_en": "Microsoft has released a massive security patch addressing 398 vulnerabilities across its software ecosystem. The update includes fixes for three critical flaws that were either already being exploited or publicly disclosed.",
+      "summary_zh": "微軟發布了大規模安全更新，修復了其軟體生態系統中的 398 個漏洞。此次更新包含針對三個已遭駭客利用或已公開披露之關鍵漏洞的修補程式。",
+      "keywords": [
+        "Microsoft",
+        "cybersecurity",
+        "vulnerabilities",
+        "patch",
+        "Windows"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific data regarding the number of security patches and the status of exploited vulnerabilities.",
+      "pacer_reason_zh": "本文報導了關於安全修補數量及已遭利用漏洞狀態的具體數據。"
+    },
+    {
+      "id": "04251f3749e76802",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-10T23:56:03.000Z",
+      "summary_en": "Simon Willison introduces Meta's new Muse Glimmer 30B model, an open-weights model optimized for agentic task completion, tool use, and multi-step reasoning. The post highlights the model's performance on technical benchmarks and demonstrates its practical application in coding assistance workflows.",
+      "summary_zh": "Simon Willison 介紹了 Meta 推出的全新 Muse Glimmer 30B 開放權重模型，該模型專為代理任務執行、工具調用及多步驟推理而優化。文章強調了該模型在技術基準測試中的表現，並展示了其在程式碼協助工作流程中的實際應用。",
+      "keywords": [
+        "Muse Glimmer",
+        "Meta",
+        "AI Agents",
+        "Large Language Models",
+        "Code Generation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on presenting a new model, its performance benchmarks, and practical evidence of its capabilities through real-world experimentation.",
+      "pacer_reason_zh": "文章重點介紹了新模型及其效能基準測試，並透過實際實驗提供了該模型能力證據。"
+    },
+    {
+      "id": "27c9f41da56bfbf6",
+      "title": "No, local models will not win",
+      "url": "https://seangoedecke.com/local-models-will-not-win/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-11T00:00:00.000Z",
+      "summary_en": "The article challenges the prevailing trend of local AI deployment, arguing that centralized, large-scale cloud models will maintain their dominance. It explores the practical and technical limitations of running high-performance models on consumer hardware.",
+      "summary_zh": "本文反駁了當前偏向本地 AI 部署的趨勢，認為雲端的大型模型將繼續保持其主導地位。文中探討了在一般消費級硬體上運行高效能模型所面臨的實際與技術限制。",
+      "keywords": [
+        "AI",
+        "Cloud Computing",
+        "Local LLM",
+        "Tech Trends",
+        "Model Deployment"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument and analysis regarding the future direction of AI model architecture and deployment.",
+      "pacer_reason_zh": "本文針對 AI 模型架構與部署的未來發展趨勢，提供了概念性的論點與分析。"
+    },
     {
       "id": "27371f87943fffbd",
       "title": "Watch out for cache read costs",
