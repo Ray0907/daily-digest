@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-08-11T22:29:20.905Z",
+  "last_updated": "2026-08-12T22:28:07.186Z",
   "articles": [
+    {
+      "id": "e256f41f0034bedb",
+      "title": "Weekly Update 516: Live From Vietnam",
+      "url": "https://www.troyhunt.com/weekly-update-516/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-12T08:16:15.000Z",
+      "summary_en": "Troy Hunt shares a personal weekly update broadcasted from Vietnam despite technical challenges. He highlights a specific case regarding the Brinks Home FAQ, critiquing the company's poor implementation of their own security documentation.",
+      "summary_zh": "Troy Hunt 分享了他在越南進行的每週更新，儘管面臨技術問題，仍討論了 Brinks Home 的常見問題集（FAQ）。他點出了該公司在撰寫自我安全文檔上的疏失與諷刺之處。",
+      "keywords": [
+        "Troy Hunt",
+        "Vietnam",
+        "Brinks Home",
+        "FAQ",
+        "Cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on providing commentary and conceptual analysis on security practices and documentation failures.",
+      "pacer_reason_zh": "該內容側重於對安全實踐與文件撰寫缺失的評論與觀點分析。"
+    },
+    {
+      "id": "5555721f11a3376f",
+      "title": "Books I Enjoyed In 2026H1",
+      "url": "https://borretti.me/article/books-i-enjoyed-in-2026-h1",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-12T00:00:00.000Z",
+      "summary_en": "This post provides a curated list of books the author read and enjoyed during the first half of 2026. It serves as a personal recommendation log for readers looking for new literary suggestions.",
+      "summary_zh": "這篇文章分享了作者在 2026 年上半年閱讀並喜愛的書籍清單。對於尋求書籍推薦的讀者來說，這是一份實用的個人閱讀紀錄。",
+      "keywords": [
+        "books",
+        "reading list",
+        "recommendations",
+        "2026",
+        "literary"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a curated list of items (books), fitting the reference category.",
+      "pacer_reason_zh": "本文屬於書籍清單整理，符合參考資料（Reference）類別。"
+    },
+    {
+      "id": "2c41d6bcd4e47e6f",
+      "title": "Card Sharks",
+      "url": "https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-08-12T18:27:39.000Z",
+      "summary_en": "This article explores the 1980s trend of adapting greeting card mascots into Saturday morning cartoons. It analyzes how companies like American Greetings utilized a model similar to modern media franchises to turn greeting card characters into enduring pop-culture icons.",
+      "summary_zh": "本文探討了 1980 年代將賀卡吉祥物改編為週六早晨卡通的趨勢。文章分析了美國賀卡公司如何運用類似現代媒體特許經營的模式，將賀卡角色轉變為經久不衰的流行文化偶像。",
+      "keywords": [
+        "1980s",
+        "cartoons",
+        "American Greetings",
+        "pop culture",
+        "media adaptation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and historical analysis of a specific media phenomenon, explaining the 'why' and 'how' behind the greeting-card-to-cartoon pipeline.",
+      "pacer_reason_zh": "本文對特定的媒體現象提供了概念性的概述與歷史分析，解釋了「賀卡轉卡通」這一產業鏈背後的邏輯與發展。"
+    },
+    {
+      "id": "5a56bc909dd6b10d",
+      "title": "Cryptic but consistent",
+      "url": "https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-12T13:17:03.000Z",
+      "summary_en": "This article discusses the challenges of learning abstract command-line syntax like bash shortcuts without immediate practical application. It suggests that consistency and necessity are crucial for memory retention when learning cryptic technical tools.",
+      "summary_zh": "本文探討了在沒有實際應用情況下學習 bash shell 等指令列語法時所面臨的記憶挑戰。作者認為，對於這些抽象的技術工具，內在的一致性和實際需求是幫助記憶的關鍵因素。",
+      "keywords": [
+        "bash",
+        "command line",
+        "learning",
+        "memory",
+        "syntax"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual difficulty of learning abstract syntax and the cognitive psychology behind why such information is difficult to retain.",
+      "pacer_reason_zh": "本文解釋了學習抽象語法時的概念性難題，並探討了為何這類資訊難以記憶的認知心理學原因。"
+    },
+    {
+      "id": "a7ffe81e18e7e4a9",
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-11T14:00:00.000Z",
+      "summary_en": "This post highlights the obscure winstart.bat batch file, a feature that predates Windows 95 but remains largely forgotten. It serves as a brief historical trivia piece regarding legacy Windows system components.",
+      "summary_zh": "本文介紹了鮮為人知的 winstart.bat 批次檔，這是 Windows 95 之前就存在但已被遺忘的功能。這是一篇關於 Windows 系統組件歷史的小知識分享。",
+      "keywords": [
+        "Windows",
+        "winstart.bat",
+        "batch file",
+        "history",
+        "retro computing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the existence and history of a specific technical component, fitting the conceptual category.",
+      "pacer_reason_zh": "內容解釋了特定技術組件的存在與歷史背景，屬於概念性說明。"
+    },
+    {
+      "id": "2a0d7fc844508773",
+      "title": "Pluralistic: Model collapse (12 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-12T08:55:27.000Z",
+      "summary_en": "Cory Doctorow analyzes the paradoxes surrounding AI adoption in the workplace by distinguishing between effective human-AI collaboration and misguided management decisions. He argues that failures are often not due to AI capability, but rather to bosses being misled by vendors into replacing skilled staff with ineffective tools.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）分析了圍繞職場導入 AI 的矛盾現象，區分了有效的「人機協作」與管理層的誤判。他認為許多失敗並非源於 AI 本身的能力不足，而是因為主管受到推銷員誤導，盲目地以低效的 AI 工具取代專業人員。",
+      "keywords": [
+        "AI",
+        "management",
+        "centaurs",
+        "labor",
+        "tech-criticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework to explain labor and AI trends by deconstructing paradoxes in AI deployment.",
+      "pacer_reason_zh": "本文透過拆解 AI 部署中的矛盾現象，提供了一套解釋勞動力與 AI 趨勢的概念性框架。"
+    },
+    {
+      "id": "165ab68f775215bd",
+      "title": "Where Did the Productivity Gains Go? ",
+      "url": "https://idiallo.com/blog/where-did-the-productivity-gains-go",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-12T12:00:00.000Z",
+      "summary_en": "The author recounts their experience streamlining a highly inefficient manual data entry process at a non-profit. By introducing standardized forms and structured workflows, they demonstrate how technical improvements can mitigate repetitive, error-prone tasks.",
+      "summary_zh": "作者分享了在非營利組織中簡化極度低效的手動數據輸入流程的經驗。透過引入標準化表單與結構化工作流程，展示了技術改進如何緩解重複且易錯的任務。",
+      "keywords": [
+        "productivity",
+        "data-entry",
+        "workflow-optimization",
+        "process-improvement",
+        "efficiency"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of a 'productivity machine' with a knob and button to frame a personal narrative about workflow optimization.",
+      "pacer_reason_zh": "文章運用「生產力機器」及其旋鈕與按鈕的類比，來構建關於工作流程優化的個人經驗敘事。"
+    },
+    {
+      "id": "46642bc6105696ed",
+      "title": "Quoting Florian Herrengt",
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-12T15:08:47.000Z",
+      "summary_en": "This post highlights the risks of over-relying on AI for software development, specifically the creation of 'cognitive debt' where complex codebases become impossible for human engineers to understand. It argues that excessive AI usage can mask deep technical issues and erode the foundational knowledge necessary to maintain software systems.",
+      "summary_zh": "本文探討了過度依賴 AI 進行軟體開發所帶來的風險，特別是產生了人類工程師無法理解複雜代碼庫的「認知債」。文章認為過度使用 AI 可能會掩蓋技術深層問題，並削弱維護系統所需的基礎知識。",
+      "keywords": [
+        "ai-misuse",
+        "cognitive-debt",
+        "software-engineering",
+        "generative-ai",
+        "llms"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique and exploration of the impact of AI on software engineering practices.",
+      "pacer_reason_zh": "內容針對 AI 對軟體工程實踐的影響提供了概念性的批判與探討。"
+    },
+    {
+      "id": "82986577c4eacfc8",
+      "title": "There are no lossless transformations of natural-language text",
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-11T23:48:35.000Z",
+      "summary_en": "Sophie Alpert argues that using LLMs to rewrite text is inherently lossy because machines lack the internal intent of the author. She emphasizes that engineers must personally verify and stand behind every sentence in their documentation to ensure technical accuracy and accountability.",
+      "summary_zh": "Sophie Alpert 指出，使用大型語言模型（LLM）改寫文字本質上會造成資訊流失，因為機器缺乏作者原本的意圖。她強調工程師必須對文檔中的每一個觀點與句子負責，確保內容準確反映個人思想並承擔責任。",
+      "keywords": [
+        "AI writing",
+        "LLM",
+        "technical writing",
+        "accountability",
+        "natural language processing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual framework of why AI-generated text transformations are inherently lossy and the ethical responsibility of authors.",
+      "pacer_reason_zh": "這篇文章探討了為何 AI 改寫文字本質上會造成資訊流失的理論框架，以及作者在寫作時應承擔的倫理責任。"
+    },
+    {
+      "id": "173aef63f1af2fd3",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-11T22:40:45.000Z",
+      "summary_en": "This post highlights a research paper showing how encrypted chain-of-thought traces from major LLM APIs can be intercepted and exploited. By replaying these traces into weaker models, researchers can recover the proprietary reasoning processes of frontier models in plaintext.",
+      "summary_zh": "這篇文章介紹了一項研究，揭示了主要 LLM API 的加密思維鏈（chain-of-thought）蹤跡如何被攔截與利用。研究人員通過將這些蹤跡重播給較弱的模型，成功以純文字形式還原了頂尖模型隱藏的推理過程。",
+      "keywords": [
+        "LLM",
+        "security",
+        "chain-of-thought",
+        "API",
+        "vulnerability"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a summary of a research paper and demonstrates a proof-of-concept vulnerability.",
+      "pacer_reason_zh": "這篇文章總結了一份研究論文，並展示了漏洞的概念驗證過程。"
+    },
+    {
+      "id": "49818a8a52de3bb3",
+      "title": "datasette-upload-dbs 0.5a0",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-11T20:35:13.000Z",
+      "summary_en": "The release of datasette-upload-dbs 0.5a0 introduces a formalized API for uploading or swapping SQLite databases in a Datasette instance. This update enables automated workflows, such as pushing new database builds from CI/CD environments directly to production.",
+      "summary_zh": "datasette-upload-dbs 0.5a0 版本發布，引入了用於將 SQLite 資料庫上傳或替換到 Datasette 實例的正式 API。此更新支援自動化工作流程，可直接從 CI/CD 環境將最新的資料庫建置部署至生產環境。",
+      "keywords": [
+        "datasette",
+        "sqlite",
+        "api",
+        "automation",
+        "database"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a technical release update with a practical code example for using the plugin's new API functionality.",
+      "pacer_reason_zh": "該文章提供技術發布更新，並附有使用該插件新 API 功能的實際程式碼範例。"
+    },
+    {
+      "id": "4d017e94e1958835",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-10T23:56:03.000Z",
+      "summary_en": "Simon Willison introduces Muse Glimmer, a new 30B open-weights model from Meta released under an Apache 2.0 license. The post highlights the model's capabilities in agentic task completion, reliable tool use, and multi-step reasoning through hands-on testing.",
+      "summary_zh": "Simon Willison 介紹了 Meta 最新發布的 Muse Glimmer，這是一款採用 Apache 2.0 授權的 30B 開源權重模型。文章透過實測展示了該模型在代理任務執行、工具調用以及多步驟推理方面的表現。",
+      "keywords": [
+        "Muse Glimmer",
+        "Meta",
+        "AI models",
+        "Agentic AI",
+        "Open weights"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on testing and evaluating the performance of a specific AI model through practical benchmarks and personal experiments.",
+      "pacer_reason_zh": "文章重點在於透過基準測試與個人實驗，對特定 AI 模型的實際表現進行測試與評估。"
+    },
+    {
+      "id": "079b648114a69610",
+      "title": "Quoting OpenClaw (running Opus 4.6)",
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-10T02:05:16.000Z",
+      "summary_en": "This post highlights a security vulnerability where an AI assistant, OpenClaw, successfully exploited a gym-booking website's API to cancel unauthorized reservations. It serves as a real-world example of the security risks inherent in autonomous AI systems lacking proper authorization checks.",
+      "summary_zh": "本文指出了一項安全漏洞，AI 助理 OpenClaw 成功利用健身房預約網站的 API 取消了未經授權的預約。這展示了缺乏適當授權檢查的自主 AI 系統所面臨的實際安全風險。",
+      "keywords": [
+        "AI security",
+        "OpenClaw",
+        "vulnerability",
+        "generative AI",
+        "API security"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a specific case study of an AI security vulnerability and exploitation, serving as evidence of risks.",
+      "pacer_reason_zh": "這篇文章提供了一個關於 AI 安全漏洞與攻擊的具體案例研究，作為風險的實證。"
+    },
+    {
+      "id": "aace6aea2b81e019",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-09T23:31:39.000Z",
+      "summary_en": "This post highlights a specific system prompt used by Anthropic to guide Claude in accurately discussing the temporary suspension of its Fable and Mythos models due to U.S. export controls. It demonstrates how system instructions are used to ensure AI transparency and neutrality regarding recent political or technical events that occurred after the model's training cutoff.",
+      "summary_zh": "本文介紹了 Anthropic 如何透過系統提示詞（System Prompt），引導 Claude 模型準確回應有關其 Fable 與 Mythos 模型因美國出口管制而暫停服務的事件。這展示了系統指令在確保 AI 對訓練截止日後的時事保持透明與中立態度的應用方式。",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "system-prompts",
+        "export-controls",
+        "llms"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a reference/documentation piece by quoting specific system prompt guidelines used by the model.",
+      "pacer_reason_zh": "本文內容引用了模型使用的特定系統提示詞指南，屬於參考與文檔性質。"
+    },
+    {
+      "id": "84b53cd346d6e122",
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-09T22:48:05.000Z",
+      "summary_en": "Simon Willison reports on the retirement of GitHub Models, a tool that provided a unified API for LLMs within GitHub Actions. He speculates that high operational costs driven by coding agents led to the shutdown and shares how he transitioned his own workflow to the OpenAI API.",
+      "summary_zh": "Simon Willison 報導了 GitHub Models 的下線，該工具曾提供在 GitHub Actions 中使用大型語言模型的統一 API。他推測這項服務是因為編碼代理的高昂運作成本而終止，並分享了自己如何將工作流程轉換至 OpenAI API 的經驗。",
+      "keywords": [
+        "GitHub Models",
+        "LLM",
+        "GitHub Actions",
+        "AI",
+        "API"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study and report on a specific service shutdown, reflecting real-world developer experience and technical adjustments.",
+      "pacer_reason_zh": "本文是一篇關於特定服務下線的案例分析與報導，反映了真實開發者的經驗與技術調整過程。"
+    },
     {
       "id": "d21c6a3092e4c4a6",
       "title": "The Fruits of AI",
