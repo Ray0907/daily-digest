@@ -1,6 +1,466 @@
 {
-  "last_updated": "2026-08-12T22:28:07.186Z",
+  "last_updated": "2026-08-13T22:29:14.246Z",
   "articles": [
+    {
+      "id": "ceca0891005e72e4",
+      "title": "Another partial SSI trick with canonicalize",
+      "url": "https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-08-13T00:00:00.000Z",
+      "summary_en": "This post discusses the implementation of a canonicalize function in ZJIT to optimize compiler IR by eliminating redundant type guards. The author highlights the progression from a block-local implementation to a more robust global version, emphasizing the value of starting with simple, verifiable code before optimizing.",
+      "summary_zh": "本文介紹了 ZJIT 中 canonicalize 函數的實作，旨在透過消除冗餘的型別檢查（GuardType）來優化編譯器中間表示（IR）。作者分享了從區塊局部優化進階至全域優化的過程，並強調了先以簡單、易於驗證的程式碼為基礎，再進行效能優化的開發策略。",
+      "keywords": [
+        "ZJIT",
+        "compiler",
+        "SSA",
+        "canonicalize",
+        "optimization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article documents specific code changes, implementation steps, and logic for an optimization pass in a compiler.",
+      "pacer_reason_zh": "本文記錄了編譯器優化過程中具體的程式碼變更、實作步驟及邏輯。"
+    },
+    {
+      "id": "4ba9a7cddfd1303e",
+      "title": "Supplier Security Questionnaire",
+      "url": "https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-13T17:00:00.000Z",
+      "summary_en": "The article presents a template for a rigorous third-party security questionnaire designed for software component suppliers. It outlines specific requirements, including vulnerability disclosure policies, compliance certifications, and secure development practices, to ensure supply chain integrity.",
+      "summary_zh": "本文提供了一份針對軟體供應商的嚴格第三方安全問卷範本。該文件列出了包括漏洞揭露政策、合規性認證及安全開發實踐在內的具體要求，旨在確保供應鏈的安全性。",
+      "keywords": [
+        "Supplier Security",
+        "Third-Party Risk",
+        "Software Supply Chain",
+        "Compliance",
+        "Security Questionnaire"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a reference document providing a template/list of standard security questions for procurement and risk management.",
+      "pacer_reason_zh": "本文內容作為參考文件，提供了一份用於採購與風險管理的標準安全問卷範本與清單。"
+    },
+    {
+      "id": "eeff0dee1b7e5a14",
+      "title": "Constructing Hadamard matrices",
+      "url": "https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-13T15:02:41.000Z",
+      "summary_en": "This article explains the definition of Hadamard matrices, which are orthogonal matrices containing only 1s and -1s. It also introduces Sylvester's method for constructing larger Hadamard matrices from smaller ones.",
+      "summary_zh": "本文介紹了 Hadamard 矩陣的定義，即僅由 1 和 -1 組成的正交矩陣。同時也介紹了 Sylvester 如何利用遞迴方式，從較小的矩陣構建出更高階的 Hadamard 矩陣。",
+      "keywords": [
+        "Hadamard matrix",
+        "Mathematics",
+        "Sylvester",
+        "Orthogonal matrix",
+        "Linear algebra"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining a mathematical concept and explaining the theoretical framework behind its construction.",
+      "pacer_reason_zh": "本文側重於定義數學概念，並解釋其構建背後的理論框架。"
+    },
+    {
+      "id": "cdbfd0caf99ec5e4",
+      "title": "The comments that go into code versus those that go into the pull request description",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-12T14:00:00.000Z",
+      "summary_en": "This post discusses the distinction between documentation placed directly within source code versus information that belongs in a pull request description. It emphasizes the importance of temporal relevance in deciding where to document specific technical details.",
+      "summary_zh": "本文探討了原始碼註解與 Pull Request 描述之間的分工差異。文章強調應根據資訊的「時間相關性」來決定將技術細節記錄在程式碼內還是 PR 描述中。",
+      "keywords": [
+        "documentation",
+        "code comments",
+        "pull request",
+        "software engineering",
+        "best practices"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains the conceptual framework and reasoning behind where to place documentation based on temporal relevance.",
+      "pacer_reason_zh": "文章闡述了關於根據時間相關性來規劃文件位置的概念框架與邏輯。"
+    },
+    {
+      "id": "dd09bb92d59e0121",
+      "title": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T22:23:25.000Z",
+      "summary_en": "This review highlights the production quality and performances in the Edinburgh Fringe show 'Doris, Dolly and the Dressing Room Divas.' The author praises the lavish costumes and live musical accompaniment, noting it stands out among other Fringe productions.",
+      "summary_zh": "這篇評論介紹了愛丁堡藝穗節劇目《Doris, Dolly and the Dressing Room Divas》的製作水準與演出品質。作者稱讚了該劇華麗的戲服與出色的現場鋼琴伴奏，認為其在藝穗節眾多演出中脫穎而出。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "theatre review",
+        "performance art",
+        "live music",
+        "costume design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a critical review that provides an impressionistic evaluation and description of a theatrical performance.",
+      "pacer_reason_zh": "本文屬於藝評，旨在針對戲劇演出提供主觀印象的評析與敘述。"
+    },
+    {
+      "id": "daa3ed7c75b86c7a",
+      "title": "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T20:21:53.000Z",
+      "summary_en": "The author shares a delightful, spontaneous encounter at the Edinburgh Fringe Festival involving a surprise phone call from a mysterious street booth. This brief interaction turned into a personalized, improvised musical performance, highlighting the unique charm of the festival's small-scale street theater.",
+      "summary_zh": "作者分享了在愛丁堡藝穗節期間，偶然接聽街頭電話亭傳來神祕來電的有趣經歷。這次隨機的互動演變成一場即興的個人化音樂表演，展現了藝穗節街頭藝術獨特的魅力。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Street Performance",
+        "Improvised Music",
+        "Festival Experience",
+        "Art"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the narrative of a personal anecdote to illustrate the broader, magical essence and serendipitous nature of the Edinburgh Fringe festival.",
+      "pacer_reason_zh": "文章透過個人的軼事敘述，類比並傳達了愛丁堡藝穗節那種隨機且充滿魔力的核心精神。"
+    },
+    {
+      "id": "8ea70237ed6a9270",
+      "title": "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T18:45:15.000Z",
+      "summary_en": "This blog post offers a critical review of a 'Miscast Sondheim' performance at the Edinburgh Fringe. The author expresses disappointment regarding the performers' vocal projection and the show's overall execution despite its interesting concept.",
+      "summary_zh": "這篇部落格文章針對愛丁堡藝穗節的《Miscast Sondheim》演出進行了負面評論。作者對演員的聲音表現與整體執行效果感到失望，認為即使概念有趣，技術水準仍不足。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "theatre review",
+        "Sondheim",
+        "performance",
+        "critique"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content is an evidence-based personal account and critique of a specific live performance.",
+      "pacer_reason_zh": "該內容是針對特定現場演出所進行的經驗性評論與分析。"
+    },
+    {
+      "id": "9a79c10dea971153",
+      "title": "Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T16:45:02.000Z",
+      "summary_en": "This blog post reviews 'Hot Flush,' an Edinburgh Fringe burlesque show that challenges ageist stereotypes by featuring performers over 40. The author praises the show for its inclusive approach to sexuality and aging, contrasting it with typical industry trends.",
+      "summary_zh": "這篇文章評論了愛丁堡藝穗節的滑稽表演《Hot Flush》，該節目透過展現 40 歲以上的表演者，挑戰了業界對年齡的刻板印象。作者讚賞該節目在探討性與衰老議題上的包容性，與主流表演形成鮮明對比。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Hot Flush",
+        "burlesque",
+        "menopause",
+        "ageism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a critical review that conceptually explores themes of aging and representation in performance art.",
+      "pacer_reason_zh": "這是一篇評論文章，概念性地探討了表演藝術中關於年齡與代表性的主題。"
+    },
+    {
+      "id": "62a45d6b1ab7a62d",
+      "title": "Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T14:55:59.000Z",
+      "summary_en": "This review highlights Eleanor Morton's live show 'The Mermaid' at the Edinburgh Fringe, praising her transition from short-form viral comedy to stage storytelling. The performance is described as a delightful and clever mix of gentle narrative and humor.",
+      "summary_zh": "這篇評論介紹了愛丁堡藝穗節中 Eleanor Morton 的演出《人魚》，稱讚她從短影音創作者成功轉型為舞台敘事者。該表演以輕鬆愉快的敘事風格與巧妙的幽默感獲得了好評。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Eleanor Morton",
+        "Comedy",
+        "Review",
+        "Storytelling"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a subjective evaluation and descriptive explanation of a live performance, fitting a conceptual overview of an event.",
+      "pacer_reason_zh": "內容是對現場演出進行主觀評價與描述性說明，屬於對活動的概念性概述。"
+    },
+    {
+      "id": "cd031ba0cc85ac4d",
+      "title": "Book Review: Coding Literacy by Annette Vee ★★⯪☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-13T11:34:09.000Z",
+      "summary_en": "This review expresses disappointment with Annette Vee's 'Coding Literacy,' noting that it fails to address how programming changes writing. Instead, the author argues the book focuses too heavily on historical definitions of literacy and illiteracy rather than its promised subject.",
+      "summary_zh": "這篇評論對 Annette Vee 所著的《編程素養》（Coding Literacy）感到失望，指出該書未能探討編程如何改變寫作的實質內容。作者認為本書過於側重歷史上對於「讀寫能力」與「文盲」的定義，而非其書名所承諾的主題。",
+      "keywords": [
+        "book review",
+        "coding literacy",
+        "Annette Vee",
+        "literacy",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a critical analysis of a book's conceptual framework and its failure to address the core topic it claims to cover.",
+      "pacer_reason_zh": "本文是對書籍概念框架的批判性分析，討論了該書未能涵蓋其宣稱的核心主題。"
+    },
+    {
+      "id": "15fd48e9fd2f34ce",
+      "title": "Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-12T21:22:09.000Z",
+      "summary_en": "The author discusses the confusion caused by multiple shows titled 'Heated Rivalry' at the Edinburgh Fringe Festival. They share their experience attending the 'unauthorized musical parody' version hosted at the Udderbelly venue.",
+      "summary_zh": "作者討論了愛丁堡藝穗節中多個名為「Heated Rivalry」的演出所造成的混淆。他們分享了觀看在 Udderbelly 場館舉行的「未經授權音樂惡搞版」演出的個人體驗。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Heated Rivalry",
+        "Musical Parody",
+        "Theater Review",
+        "Udderbelly"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a personal review and observation based on the author's specific attendance at a live event.",
+      "pacer_reason_zh": "內容基於作者親自參與現場演出的觀察，屬於個人評論與體驗分享。"
+    },
+    {
+      "id": "c1f5162cea24399f",
+      "title": "Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-12T19:20:01.000Z",
+      "summary_en": "This review evaluates James Rowland's 'Team Viking' at the Edinburgh Fringe, acknowledging the performer's talent while criticizing the show's predictable narrative structure. The critic finds the performance technically proficient yet repetitive, ultimately failing to resonate on an emotional level.",
+      "summary_zh": "這篇評論探討了愛丁堡藝穗節中 James Rowland 的表演《Team Viking》，肯定了表演者的才華，但也批評其敘事結構過於平淡且可預測。評論者認為該表演雖然技術精準，但節奏單調，未能引起情感上的深刻共鳴。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "James Rowland",
+        "Team Viking",
+        "Theater Review",
+        "Performance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content is an evaluative review based on the author's subjective experience, serving as a critical assessment or 'case study' of a specific performance.",
+      "pacer_reason_zh": "本文內容為基於作者主觀體驗的評論文章，是對特定表演的評估與分析。"
+    },
+    {
+      "id": "e776c2a11d139eac",
+      "title": "Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-12T17:55:57.000Z",
+      "summary_en": "This review critiques Garrett Millerick’s Edinburgh Fringe show, which features an AI trained on his stand-up comedy routines. The author finds the performance both dull and offensive, noting unprofessional behavior towards audience members and repetitive, tired subject matter.",
+      "summary_zh": "這篇評論批評了 Garrett Millerick 在愛丁堡藝穗節的演出，該演出展示了以其個人喜劇風格訓練出的 AI。作者認為這場表演既沉悶又令人反感，並指出表演者對觀眾的不禮貌行為以及內容陳舊乏味。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Garrett Millerick",
+        "AI comedy",
+        "review",
+        "stand-up"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a qualitative case study or performance review of a specific event.",
+      "pacer_reason_zh": "本文屬於針對特定活動的定性案例分析或演出評論。"
+    },
+    {
+      "id": "55172dec49985295",
+      "title": "Edinburgh Fringe: When Vincent Met John ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-12T15:30:12.000Z",
+      "summary_en": "This blog post reviews the Edinburgh Fringe play 'When Vincent Met John,' which imagines a fictional conversation between Vincent van Gogh and John Lennon. The author praises the production for its unique non-musical format and extended duration compared to standard Fringe performances.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節的舞台劇《當梵谷遇見約翰》，該劇構思了梵谷與約翰·藍儂之間的虛構對話。作者讚賞該劇有別於一般的音樂劇形式，並以超過藝穗節標準時長的獨特呈現方式脫穎而出。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Vincent van Gogh",
+        "John Lennon",
+        "Theater Review",
+        "Beatles"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a personal review and anecdotal evaluation of a specific artistic performance.",
+      "pacer_reason_zh": "該內容為對特定藝術表演的個人評論與體驗分享。"
+    },
+    {
+      "id": "9aecf6640a8e3d1b",
+      "title": "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T22:23:14.000Z",
+      "summary_en": "This blog post recounts a spontaneous and delightful experience watching Lithuanian comedian Justina Seselskaite at the Edinburgh Fringe festival. The author praises the performance, highlighting the surprise and joy of discovering high-quality comedy through a random choice.",
+      "summary_zh": "這篇部落格文章分享了作者在愛丁堡藝穗節期間，隨機選擇觀賞立陶宛喜劇演員 Justina Seselskaite 表演的愉快經歷。作者對該表演給予高度評價，強調了在旅途中意外發現優質喜劇的驚喜與樂趣。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Justina Seselskaite",
+        "Comedy",
+        "Stand-up",
+        "Performance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a personal review and anecdotal case study of a specific performance at the festival.",
+      "pacer_reason_zh": "該文章為個人評論，可視為針對特定表演活動的體驗式案例分享。"
+    },
+    {
+      "id": "22f77e4e72a50ddc",
+      "title": "Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T20:21:05.000Z",
+      "summary_en": "The author reflects on the value of seeking diverse cultural experiences at the Edinburgh Fringe Festival beyond mainstream comedy. They describe the experience of attending a classical music performance of Handel's Nine German Arias in a church setting.",
+      "summary_zh": "作者反思了在愛丁堡藝穗節中探索主流喜劇以外多樣化藝術形式的價值。文中分享了在教堂聆聽韓德爾《九首德語詠嘆調》古典音樂表演的深刻體驗。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Handel",
+        "Classical Music",
+        "Arts",
+        "Cultural Experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a reflective piece sharing a personal experience and perspective on the value of diverse art forms.",
+      "pacer_reason_zh": "本文屬於反思性文章，分享了個人對於多元藝術形式價值的主觀體驗與觀點。"
+    },
+    {
+      "id": "a583b2345efc353b",
+      "title": "Edinburgh Fringe: Hamlet The Musical ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T18:19:16.000Z",
+      "summary_en": "This blog post provides a brief, mixed review of the Edinburgh Fringe production 'Hamlet The Musical.' The author highlights that while the show features clever lyrics and a strong performance by KT Ihnatyszyn, it ultimately suffers from pacing issues and fails to fully capitalize on its comedic potential.",
+      "summary_zh": "這篇文章針對愛丁堡藝穗節的音樂劇《哈姆雷特》進行了簡短的負評，給予兩星評價。作者認為該劇雖然具備幽默的歌詞與演員精湛的表演，但整體節奏鬆散，未能完全發揮其喜劇創意。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Hamlet The Musical",
+        "Theater Review",
+        "Comedy",
+        "Performance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a critical review or evaluation of a specific event, functioning similarly to a case study of a performance.",
+      "pacer_reason_zh": "本文屬於針對特定表演的評論與評估，性質上類似於個案分析。"
+    },
+    {
+      "id": "708a5994b23201de",
+      "title": "Edinburgh Fringe: Afronauts ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T16:17:12.000Z",
+      "summary_en": "This blog post reviews 'Afronauts', an acrobatic show at the Edinburgh Fringe that reimagines the true story of the Zambia Space Academy's space race ambitions. The performance blends Afrofuturist themes with impressive circus skills to create a delightful experience for all ages.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節的雜技表演「Afronauts」，該劇以讚比亞太空學院的真實太空競賽歷史為藍本，融入非洲未來主義元素。表演結合了雜技藝術，為各年齡層觀眾帶來了一場迷人的視聽盛宴。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Afronauts",
+        "Afrofuturism",
+        "Circus",
+        "Review"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a review/evaluation of a specific performance (case study).",
+      "pacer_reason_zh": "此內容是對特定表演的評論與評估（案例研究）。"
+    },
+    {
+      "id": "55784ff0c06e5c9a",
+      "title": "Edinburgh Fringe: Noted ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T12:45:28.000Z",
+      "summary_en": "This blog post offers a review of a unique, technically impressive children's show at the Edinburgh Fringe. The author likens the performance to a live-action XKCD cartoon, noting its blend of hand-drawn aesthetics and high-energy staging.",
+      "summary_zh": "這篇部落格文章對愛丁堡藝穗節上一場獨特且技術精湛的兒童劇進行了評論。作者將該表演比作真人版的 XKCD 卡通，並指出其融合了手繪美學與充滿活力的舞台表現。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "theatre review",
+        "performance art",
+        "XKCD",
+        "live-action"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a critical review that explains the concept and artistic style of a specific performance.",
+      "pacer_reason_zh": "本文是一篇評論文章，旨在闡述特定表演的概念與藝術風格。"
+    },
+    {
+      "id": "4a8b7a82177a0ee7",
+      "title": "Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-11T11:34:37.000Z",
+      "summary_en": "This blog post provides a hands-on review of the new Soundpeats UU2 POP Clip2 earphones, comparing them to the previous generation model. The author evaluates the updated design and addresses common performance concerns found in the earlier Clip1 version.",
+      "summary_zh": "這篇部落格文章針對新款 Soundpeats UU2 POP Clip2 耳機進行實測開箱，並與上一代產品進行比較。作者深入分析了該耳機的設計更新，並針對前代 Clip1 的常見問題進行了評測與反饋。",
+      "keywords": [
+        "Soundpeats",
+        "Earphones",
+        "Gadget Review",
+        "Audio",
+        "Tech"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content is a gadget review based on the author's firsthand testing and experience with a specific product.",
+      "pacer_reason_zh": "內容為基於作者對特定產品親身體驗與測試所撰寫的科技產品評測。"
+    },
+    {
+      "id": "d533dcdb090fc9d9",
+      "title": "alchemy-utils 0.1a1",
+      "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-13T03:03:17.000Z",
+      "summary_en": "Simon Willison has released alchemy-utils 0.1a1, a new tool designed to enhance performance for DuckDB exports and CSV imports. The release introduces optimizations for handling data files more efficiently.",
+      "summary_zh": "Simon Willison 發布了 alchemy-utils 0.1a1，這是一個旨在提升 DuckDB 匯出與 CSV 匯入效能的新工具。此版本針對數據檔案處理進行了優化。",
+      "keywords": [
+        "alchemy-utils",
+        "DuckDB",
+        "CSV",
+        "data processing",
+        "performance"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for a new utility tool.",
+      "pacer_reason_zh": "這是關於新工具的軟體發布公告，屬於參考性質的資訊。"
+    },
+    {
+      "id": "8d31cb94ef58321a",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-12T23:59:23.000Z",
+      "summary_en": "Simon Willison covers the release of the DeepSeek V4 Pro 0813 model, which is available via OpenRouter and Hugging Face. The post highlights the model's significant 1.7T parameter size and notes distinct variations in image generation quality across different reasoning levels.",
+      "summary_zh": "Simon Willison 介紹了透過 OpenRouter 和 Hugging Face 發布的 DeepSeek V4 Pro 0813 模型。該模型擁有 1.7 兆參數，文章並指出其在不同推理層級下，圖像生成效果呈現出明顯的差異。",
+      "keywords": [
+        "DeepSeek",
+        "AI Models",
+        "OpenRouter",
+        "Hugging Face",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a practical observation and empirical evidence of the model's output quality across different configurations.",
+      "pacer_reason_zh": "文章提供了實務觀察，並展示了該模型在不同設定下輸出品質的實證結果。"
+    },
+    {
+      "id": "3302bba97b91540c",
+      "title": "alchemy-utils 0.1a0",
+      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-12T19:51:30.000Z",
+      "summary_en": "Simon Willison released alchemy-utils 0.1a0, a new Python library designed to provide database-agnostic utility functions similar to sqlite-utils. The project was prototyped using AI-assisted coding to bridge core API methods with SQLAlchemy support for PostgreSQL, SQLite, and DuckDB.",
+      "summary_zh": "Simon Willison 發布了 alchemy-utils 0.1a0，這是一個旨在提供類似 sqlite-utils 功能，但支援多種資料庫引擎的 Python 函式庫。該專案透過 AI 輔助開發，利用 SQLAlchemy 將核心 API 擴展至 PostgreSQL、SQLite 和 DuckDB。",
+      "keywords": [
+        "alchemy-utils",
+        "Python",
+        "SQLAlchemy",
+        "sqlite-utils",
+        "CLI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a software release and demonstrates how to use the new CLI utility with a code snippet.",
+      "pacer_reason_zh": "該文章宣布了軟體發布，並通過程式碼片段展示了如何使用該 CLI 工具。"
+    },
     {
       "id": "e256f41f0034bedb",
       "title": "Weekly Update 516: Live From Vietnam",

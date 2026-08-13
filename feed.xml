@@ -4,8 +4,215 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 12 Aug 2026 22:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:29:14 GMT</lastBuildDate>
     
+    <item>
+      <title>Another partial SSI trick with canonicalize</title>
+      <link>https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This post discusses the implementation of a canonicalize function in ZJIT to optimize compiler IR by eliminating redundant type guards. The author highlights the progression from a block-local implementation to a more robust global version, emphasizing the value of starting with simple, verifiable code before optimizing.</description>
+    </item>
+
+    <item>
+      <title>Supplier Security Questionnaire</title>
+      <link>https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</link>
+      <guid>https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</guid>
+      <pubDate>Thu, 13 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article presents a template for a rigorous third-party security questionnaire designed for software component suppliers. It outlines specific requirements, including vulnerability disclosure policies, compliance certifications, and secure development practices, to ensure supply chain integrity.</description>
+    </item>
+
+    <item>
+      <title>Constructing Hadamard matrices</title>
+      <link>https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/</guid>
+      <pubDate>Thu, 13 Aug 2026 15:02:41 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explains the definition of Hadamard matrices, which are orthogonal matrices containing only 1s and -1s. It also introduces Sylvester's method for constructing larger Hadamard matrices from smaller ones.</description>
+    </item>
+
+    <item>
+      <title>The comments that go into code versus those that go into the pull request description</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the distinction between documentation placed directly within source code versus information that belongs in a pull request description. It emphasizes the importance of temporal relevance in deciding where to document specific technical details.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</guid>
+      <pubDate>Thu, 13 Aug 2026 22:23:25 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review highlights the production quality and performances in the Edinburgh Fringe show 'Doris, Dolly and the Dressing Room Divas.' The author praises the lavish costumes and live musical accompaniment, noting it stands out among other Fringe productions.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: The Musical Mystery Caller ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</guid>
+      <pubDate>Thu, 13 Aug 2026 20:21:53 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares a delightful, spontaneous encounter at the Edinburgh Fringe Festival involving a surprise phone call from a mysterious street booth. This brief interaction turned into a personalized, improvised musical performance, highlighting the unique charm of the festival's small-scale street theater.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</guid>
+      <pubDate>Thu, 13 Aug 2026 18:45:15 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post offers a critical review of a 'Miscast Sondheim' performance at the Edinburgh Fringe. The author expresses disappointment regarding the performers' vocal projection and the show's overall execution despite its interesting concept.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</guid>
+      <pubDate>Thu, 13 Aug 2026 16:45:02 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews 'Hot Flush,' an Edinburgh Fringe burlesque show that challenges ageist stereotypes by featuring performers over 40. The author praises the show for its inclusive approach to sexuality and aging, contrasting it with typical industry trends.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</guid>
+      <pubDate>Thu, 13 Aug 2026 14:55:59 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review highlights Eleanor Morton's live show 'The Mermaid' at the Edinburgh Fringe, praising her transition from short-form viral comedy to stage storytelling. The performance is described as a delightful and clever mix of gentle narrative and humor.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Coding Literacy by Annette Vee ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</guid>
+      <pubDate>Thu, 13 Aug 2026 11:34:09 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review expresses disappointment with Annette Vee's 'Coding Literacy,' noting that it fails to address how programming changes writing. Instead, the author argues the book focuses too heavily on historical definitions of literacy and illiteracy rather than its promised subject.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</guid>
+      <pubDate>Wed, 12 Aug 2026 21:22:09 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author discusses the confusion caused by multiple shows titled 'Heated Rivalry' at the Edinburgh Fringe Festival. They share their experience attending the 'unauthorized musical parody' version hosted at the Udderbelly venue.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</guid>
+      <pubDate>Wed, 12 Aug 2026 19:20:01 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review evaluates James Rowland's 'Team Viking' at the Edinburgh Fringe, acknowledging the performer's talent while criticizing the show's predictable narrative structure. The critic finds the performance technically proficient yet repetitive, ultimately failing to resonate on an emotional level.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</guid>
+      <pubDate>Wed, 12 Aug 2026 17:55:57 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review critiques Garrett Millerick’s Edinburgh Fringe show, which features an AI trained on his stand-up comedy routines. The author finds the performance both dull and offensive, noting unprofessional behavior towards audience members and repetitive, tired subject matter.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: When Vincent Met John ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</guid>
+      <pubDate>Wed, 12 Aug 2026 15:30:12 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews the Edinburgh Fringe play 'When Vincent Met John,' which imagines a fictional conversation between Vincent van Gogh and John Lennon. The author praises the production for its unique non-musical format and extended duration compared to standard Fringe performances.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</guid>
+      <pubDate>Tue, 11 Aug 2026 22:23:14 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post recounts a spontaneous and delightful experience watching Lithuanian comedian Justina Seselskaite at the Edinburgh Fringe festival. The author praises the performance, highlighting the surprise and joy of discovering high-quality comedy through a random choice.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
+      <pubDate>Tue, 11 Aug 2026 20:21:05 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author reflects on the value of seeking diverse cultural experiences at the Edinburgh Fringe Festival beyond mainstream comedy. They describe the experience of attending a classical music performance of Handel's Nine German Arias in a church setting.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Hamlet The Musical ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</guid>
+      <pubDate>Tue, 11 Aug 2026 18:19:16 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post provides a brief, mixed review of the Edinburgh Fringe production 'Hamlet The Musical.' The author highlights that while the show features clever lyrics and a strong performance by KT Ihnatyszyn, it ultimately suffers from pacing issues and fails to fully capitalize on its comedic potential.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Afronauts ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</guid>
+      <pubDate>Tue, 11 Aug 2026 16:17:12 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews 'Afronauts', an acrobatic show at the Edinburgh Fringe that reimagines the true story of the Zambia Space Academy's space race ambitions. The performance blends Afrofuturist themes with impressive circus skills to create a delightful experience for all ages.</description>
+    </item>
+
+    <item>
+      <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:45:28 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post offers a review of a unique, technically impressive children's show at the Edinburgh Fringe. The author likens the performance to a live-action XKCD cartoon, noting its blend of hand-drawn aesthetics and high-energy staging.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</guid>
+      <pubDate>Tue, 11 Aug 2026 11:34:37 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post provides a hands-on review of the new Soundpeats UU2 POP Clip2 earphones, comparing them to the previous generation model. The author evaluates the updated design and addresses common performance concerns found in the earlier Clip1 version.</description>
+    </item>
+
+    <item>
+      <title>alchemy-utils 0.1a1</title>
+      <link>https://simonwillison.net/2026/Aug/13/alchemy-utils/</link>
+      <guid>https://simonwillison.net/2026/Aug/13/alchemy-utils/</guid>
+      <pubDate>Thu, 13 Aug 2026 03:03:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released alchemy-utils 0.1a1, a new tool designed to enhance performance for DuckDB exports and CSV imports. The release introduces optimizations for handling data files more efficiently.</description>
+    </item>
+
+    <item>
+      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
+      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
+      <guid>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</guid>
+      <pubDate>Wed, 12 Aug 2026 23:59:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison covers the release of the DeepSeek V4 Pro 0813 model, which is available via OpenRouter and Hugging Face. The post highlights the model's significant 1.7T parameter size and notes distinct variations in image generation quality across different reasoning levels.</description>
+    </item>
+
+    <item>
+      <title>alchemy-utils 0.1a0</title>
+      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
+      <guid>https://simonwillison.net/2026/Aug/12/alchemy-utils/</guid>
+      <pubDate>Wed, 12 Aug 2026 19:51:30 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released alchemy-utils 0.1a0, a new Python library designed to provide database-agnostic utility functions similar to sqlite-utils. The project was prototyped using AI-assisted coding to bridge core API methods with SQLAlchemy support for PostgreSQL, SQLite, and DuckDB.</description>
+    </item>
+
     <item>
       <title>Weekly Update 516: Live From Vietnam</title>
       <link>https://www.troyhunt.com/weekly-update-516/</link>
@@ -697,213 +904,6 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article explores the habits and mental frameworks necessary to sustain deep, effective thinking over time. It offers practical guidance on cultivating a consistent intellectual practice to enhance clarity and decision-making.</description>
-    </item>
-
-    <item>
-      <title>Incentives are for losers</title>
-      <link>https://www.experimental-history.com/p/incentives-are-for-losers</link>
-      <guid>https://www.experimental-history.com/p/incentives-are-for-losers</guid>
-      <pubDate>Wed, 05 Aug 2026 14:54:40 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>The article challenges the conventional wisdom regarding the use of incentives to motivate human behavior. It argues that relying on rewards often undermines intrinsic motivation and fails to achieve genuine commitment.</description>
-    </item>
-
-    <item>
-      <title>Committing to creativity</title>
-      <link>https://herman.bearblog.dev/creativity/</link>
-      <guid>https://herman.bearblog.dev/creativity/</guid>
-      <pubDate>Wed, 05 Aug 2026 12:04:00 GMT</pubDate>
-      <source url="https://herman.bearblog.dev/">Herman's blog</source>
-      <description>The author argues that creativity and success should not rely on fleeting inspiration or natural talent, but rather on persistent commitment. By contrasting motivation with the discipline of decision-making, the post illustrates how consistent practice makes challenging habits easier over time.</description>
-    </item>
-
-    <item>
-      <title>Relative velocity and closing speed</title>
-      <link>https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/</link>
-      <guid>https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/</guid>
-      <pubDate>Tue, 04 Aug 2026 03:01:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This post explains the physics of calculating closing speed between two objects in a simulation or game engine environment. It demonstrates how to determine the normal component of relative velocity using vector projection and dot products.</description>
-    </item>
-
-    <item>
-      <title>The Contracting Circle</title>
-      <link>https://borretti.me/article/the-contracting-circle</link>
-      <guid>https://borretti.me/article/the-contracting-circle</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article explores the philosophical and psychological barriers that prevent us from attributing personhood to Large Language Models. It examines how our cognitive frameworks struggle to reconcile the human-like linguistic output of AI with the underlying mechanical reality.</description>
-    </item>
-
-    <item>
-      <title>A Bad HDMI Cable Broke My Mouse</title>
-      <link>https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html</link>
-      <guid>https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html</guid>
-      <pubDate>Wed, 05 Aug 2026 16:35:00 GMT</pubDate>
-      <source url="https://jayd.ml/">Jayden’s Blog</source>
-      <description>The author details a troubleshooting journey involving a malfunctioning PC mouse that initially appeared to be a RAM issue. After extensive software and hardware testing, the root cause was discovered to be a faulty HDMI cable causing interference with the USB bus.</description>
-    </item>
-
-    <item>
-      <title>Purely functional digital circuit simulator (SICP 3.3)</title>
-      <link>https://entropicthoughts.com/sicp-3-3-pure-digital-circuit-simulator</link>
-      <guid>https://entropicthoughts.com/sicp-3-3-pure-digital-circuit-simulator</guid>
-      <pubDate>Tue, 04 Aug 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author explores implementing a digital circuit simulator from SICP using pure functional programming in Haskell. The post focuses on the challenge of maintaining object identity and state in a simulation that traditionally relies on mutable state.</description>
-    </item>
-
-    <item>
-      <title>The Earnest Era Ends</title>
-      <link>https://feed.tedium.co/link/15204/17404612/glen-hansard-passing-reflection</link>
-      <guid>https://feed.tedium.co/link/15204/17404612/glen-hansard-passing-reflection</guid>
-      <pubDate>Thu, 06 Aug 2026 18:19:21 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This piece explores how cultural aesthetics, particularly fashion and the 'earnest' indie-folk singer-songwriter movement of the 2000s, have evolved or plateaued over time. The author uses personal observations and musical history to argue that while some eras feel static, the subtle shift in artistic sincerity marks a distinct change in the modern landscape.</description>
-    </item>
-
-    <item>
-      <title>What Will the 21st Century ROAD to Housing Act Do for Housing Supply?</title>
-      <link>https://www.construction-physics.com/p/what-will-the-21st-century-road-to</link>
-      <guid>https://www.construction-physics.com/p/what-will-the-21st-century-road-to</guid>
-      <pubDate>Thu, 06 Aug 2026 12:02:32 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>The 21st Century ROAD to Housing Act has recently been signed into law, aiming to address the national housing supply crisis. This article examines the significance of this major legislative effort and its expected impact on the U.S. housing market.</description>
-    </item>
-
-    <item>
-      <title>A year of AI disclosure in critical packages</title>
-      <link>https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html</link>
-      <guid>https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article analyzes the prevalence of AI-generated code in open-source projects by examining commit metadata across 5,682 critical repositories. The study shows that the rate of explicitly disclosed AI involvement rose from 0.48% to 5.32% over a one-year period, indicating a steady increase in AI-assisted development.</description>
-    </item>
-
-    <item>
-      <title>brew install actions/checkout</title>
-      <link>https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html</link>
-      <guid>https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html</guid>
-      <pubDate>Tue, 04 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article explores the potential of using Homebrew's infrastructure and OCI manifest patterns to improve the security and integrity of GitHub Actions. By comparing GitHub’s immutable action registry to Homebrew’s package management, the author highlights how curated indices can provide better dependency tracking, integrity hashes, and version security.</description>
-    </item>
-
-    <item>
-      <title>How Compiler Explorer Runs on AWS in 2026</title>
-      <link>http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</link>
-      <guid>http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</guid>
-      <pubDate>Wed, 05 Aug 2026 15:19:00 GMT</pubDate>
-      <source url="http://xania.org/?utm_source=feed&amp;utm_medium=rss">Matt Godbolt’s blog</source>
-      <description>This article provides a technical overview of how the Compiler Explorer infrastructure is currently architected on AWS. It tracks a user request from CloudFront and S3 storage through to load balancing and rate limiting mechanisms.</description>
-    </item>
-
-    <item>
-      <title>Zig's Io.Threaded is Neat</title>
-      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
-      <guid>https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The article explores Zig's Io.Threaded implementation, highlighting its unique ability to support thread cancelation while using blocking syscalls. It distinguishes between parallelism as deterministic partitioning and concurrency as a model that necessitates active task cancelation.</description>
-    </item>
-
-    <item>
-      <title>Calculating log(1000!)</title>
-      <link>https://www.johndcook.com/blog/2026/08/06/log1000/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/06/log1000/</guid>
-      <pubDate>Thu, 06 Aug 2026 13:23:43 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article examines the unexpected behavior of calculating the logarithm of a large factorial in Python. It highlights the difference between standard math libraries and numerical computing libraries like NumPy when handling large numbers.</description>
-    </item>
-
-    <item>
-      <title>The code that didn’t break</title>
-      <link>https://www.johndcook.com/blog/2026/08/05/math-log/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/05/math-log/</guid>
-      <pubDate>Wed, 05 Aug 2026 18:26:25 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author discusses a surprising programming discovery where code designed to compute logarithms for integers exceeding the maximum representable float value unexpectedly functioned correctly. This article explores the underlying numerical mechanics that allowed the code to bypass typical floating-point limitations.</description>
-    </item>
-
-    <item>
-      <title>Enumerating trees and circles</title>
-      <link>https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</guid>
-      <pubDate>Wed, 05 Aug 2026 14:49:35 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical enumeration of rooted trees and circles. It explores sequences related to counting nodes and the structural properties that distinguish different types of trees.</description>
-    </item>
-
-    <item>
-      <title>Mathematical alchemy</title>
-      <link>https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/</guid>
-      <pubDate>Tue, 04 Aug 2026 13:18:58 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the concept of 'mathematical alchemy' by drawing parallels between historical alchemical quests and the transformation of different metallic ratios. The author investigates the conditions under which one metallic ratio can be derived from another, using a blend of mathematical theory and conceptual metaphor.</description>
-    </item>
-
-    <item>
-      <title>Ratio of metallic ratios</title>
-      <link>https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/</guid>
-      <pubDate>Tue, 04 Aug 2026 11:41:49 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the concept of metallic ratios, identifying the golden, silver, and bronze ratios as the most prominent examples. It explains that while these common ratios have specific names, higher-order metallic ratios are defined mathematically via continued fractions.</description>
-    </item>
-
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591</guid>
-      <pubDate>Wed, 05 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post continues a series on creating a 'fake' agile wrapper for COM objects. It specifically discusses the technical process of forcing an object into the global interface table.</description>
-    </item>
-
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260804-00/?p=112586</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260804-00/?p=112586</guid>
-      <pubDate>Tue, 04 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post continues the technical exploration of creating a 'fake' agile wrapper, specifically focusing on the implementation details of storing references within the global interface table. It examines the intricacies of COM object management and the limitations of such implementations in specific contexts.</description>
-    </item>
-
-    <item>
-      <title>SigV4 authentication is surprisingly complicated</title>
-      <link>https://www.tigrisdata.com/blog/sigv4/</link>
-      <guid>https://www.tigrisdata.com/blog/sigv4/</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This article explores the technical intricacies and frustrations of implementing AWS Signature Version 4 authentication. It highlights why this security protocol is notoriously complex for developers to integrate correctly.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</guid>
-      <pubDate>Wed, 05 Aug 2026 11:34:17 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post reviews the Thermal Master T2 Max, a compact, USB-C plug-in thermal camera for smartphones. The author highlights its portable design and notes that the connector is thoughtfully sized to accommodate phone cases.</description>
-    </item>
-
-    <item>
-      <title>Gig Review: Belle &amp; Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</guid>
-      <pubDate>Tue, 04 Aug 2026 11:34:22 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post recounts a nostalgic concert review of Belle &amp; Sebastian performing their classic album 'If You’re Feeling Sinister' at Margate Dreamland. The author reflects on his initial discovery of the band during his student years, blending personal history with a high-rated critique of the live performance.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Eternal Sloptember (06 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/06/sin-is-when/</link>
-      <guid>https://pluralistic.net/2026/08/06/sin-is-when/</guid>
-      <pubDate>Thu, 06 Aug 2026 10:07:06 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes Mark Zuckerberg's worldview, arguing that Facebook was built on a fundamental lack of belief in the humanity of others. The post traces this attitude from the platform's origins as a non-consensual rating site to its current state of mass-scale social manipulation.</description>
     </item>
   </channel>
 </rss>
