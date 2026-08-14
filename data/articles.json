@@ -1,6 +1,366 @@
 {
-  "last_updated": "2026-08-13T22:29:14.246Z",
+  "last_updated": "2026-08-14T22:10:34.770Z",
   "articles": [
+    {
+      "id": "7c5648cc4313a15e",
+      "title": "Oh Hey, It’s Not Just Me",
+      "url": "https://blog.jim-nielsen.com/2026/its-not-just-me/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-14T19:00:00.000Z",
+      "summary_en": "The author reflects on experiencing age-related vision changes and finding comfort in realizing that others share the same experience. The piece celebrates how the internet serves as a tool for connection and humanizing shared experiences in a polarized world.",
+      "summary_zh": "作者分享了對視力隨年齡變化的觀察，並透過網路發現許多人有相同的經歷，感到不再孤單。文章強調網際網路連結彼此、展現人性共鳴的正面力量。",
+      "keywords": [
+        "aging",
+        "eyesight",
+        "internet",
+        "community",
+        "connection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a personal, conceptual reflection on the nature of shared human experiences and the connective potential of the internet.",
+      "pacer_reason_zh": "這是一篇關於共同經驗與網路連結性質的個人概念性省思。"
+    },
+    {
+      "id": "2972744b0c54596d",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-08-14T16:05:50.000Z",
+      "summary_en": "This post from The Digital Antiquarian explores the intersection of early computer history and cinema. It examines how Richard Garriott's projects and personal interests were influenced by and reflected in the films of the era.",
+      "summary_zh": "這篇來自《數位古物學家》的文章探討了早期電腦歷史與電影之間的連結。文中分析了理查·蓋瑞特（Richard Garriott）的專案與個人興趣如何受到該時代電影的影響並反映其中。",
+      "keywords": [
+        "Richard Garriott",
+        "The Digital Antiquarian",
+        "computer history",
+        "cinema",
+        "gaming history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual history and narrative context behind software development and cultural influences.",
+      "pacer_reason_zh": "內容側重於軟體開發背後的概念歷史與文化背景敘事。"
+    },
+    {
+      "id": "24aaa782ab15e436",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-14T12:03:37.000Z",
+      "summary_en": "This article provides an in-depth analysis of the 21st Century ROAD to Housing Act, evaluating the practical impact of its provisions on housing supply. It continues a series focused on deconstructing legislation to determine how specific policy changes influence construction and availability.",
+      "summary_zh": "本文深入分析了《21世紀道路住宅法案》(21st Century ROAD to Housing Act)，評估了其各項條款對住宅供應的實際影響。這是該系列文章的第二篇，旨在剖析立法細節，探討特定政策變動如何左右建築發展與房屋供給。",
+      "keywords": [
+        "Housing Act",
+        "Housing Supply",
+        "Public Policy",
+        "Construction",
+        "Legislation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the potential conceptual impact of legislative provisions on the housing market.",
+      "pacer_reason_zh": "本文重點在於闡述立法條款對住宅市場可能產生的概念性影響與政策分析。"
+    },
+    {
+      "id": "02ac37d97e00048a",
+      "title": "How This Blog Is Built",
+      "url": "https://nesbitt.io/2026/08/14/how-this-blog-is-built.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-14T10:00:00.000Z",
+      "summary_en": "This article outlines the technical infrastructure behind the blog. It specifies that the site is built using Jekyll and hosted on GitHub Pages.",
+      "summary_zh": "本文簡要介紹了該部落格的技術架構。作者說明該網站是使用 Jekyll 建立並託管於 GitHub Pages 上。",
+      "keywords": [
+        "Jekyll",
+        "GitHub Pages",
+        "Blog Infrastructure",
+        "Web Development",
+        "Hosting"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a quick reference or specification list for the site's technical stack.",
+      "pacer_reason_zh": "內容僅作為網站技術架構的快速參考或規格清單。"
+    },
+    {
+      "id": "40e5150f2b2926c0",
+      "title": "Printing Lists",
+      "url": "https://matklad.github.io/2026/08/14/printing-lists.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-08-14T00:00:00.000Z",
+      "summary_en": "This post explains a concise idiomatic approach for printing comma-separated lists in the Zig programming language. It demonstrates using an index-based loop to conditionally prefix elements with a comma, except for the first item.",
+      "summary_zh": "這篇文章介紹了在 Zig 程式語言中列印逗號分隔列表的簡潔慣用語。透過索引迴圈的條件判斷，確保僅在第一個元素之後才輸出逗號，從而優雅地處理分隔符。",
+      "keywords": [
+        "Zig",
+        "programming",
+        "idioms",
+        "formatting",
+        "lists"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, practical code snippet and tutorial-style advice for solving a common formatting problem.",
+      "pacer_reason_zh": "本文提供了具體且實用的程式碼片段，屬於針對特定程式設計問題的教學指南。"
+    },
+    {
+      "id": "34be69bcc9e5a7a6",
+      "title": "Hadamard Codes and Sphere Packing",
+      "url": "https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-14T01:35:05.000Z",
+      "summary_en": "This post discusses the construction and application of Hadamard matrices, specifically referencing a recent discovery using AI. It explores their connection to error-correcting codes and their practical use in NASA's communication systems.",
+      "summary_zh": "本文探討 Hadamard 矩陣的構造及其應用，並提及近期利用 AI 輔助發現新矩陣的案例。文章進一步說明了這些矩陣在錯誤更正碼以及 NASA 通訊系統中的實際用途。",
+      "keywords": [
+        "Hadamard matrices",
+        "Claude AI",
+        "NASA",
+        "error-correcting codes",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the concepts behind Hadamard matrices and their historical and practical significance in various fields.",
+      "pacer_reason_zh": "內容解釋了 Hadamard 矩陣背後的概念，以及它們在各領域的歷史意義與實際應用價值。"
+    },
+    {
+      "id": "ddeb81d1c55b4c0e",
+      "title": "How NASA’s Mariner 9 probe encoded images",
+      "url": "https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-13T23:54:21.000Z",
+      "summary_en": "This article explores how NASA used Hadamard matrices, specifically a (32, 6, 16) error-correcting code, to transmit clear images of Mars during the 1971 Mariner 9 mission. It explains the technical necessity of using these codes to prevent data corruption during deep-space signal transmission.",
+      "summary_zh": "本文探討了 NASA 如何在 1971 年水手 9 號任務中使用 Hadamard 矩陣（特別是 (32, 6, 16) 糾錯碼）來傳輸火星影像。文章解釋了使用這些編碼技術以防止深空訊號傳輸過程中數據損壞的必要性。",
+      "keywords": [
+        "NASA",
+        "Mariner 9",
+        "Hadamard matrix",
+        "error-correcting code",
+        "data transmission"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying mathematical concepts and technical logic behind error-correcting codes used in deep-space communication.",
+      "pacer_reason_zh": "本文解釋了深空通訊中所使用糾錯碼背後的數學概念與技術邏輯。"
+    },
+    {
+      "id": "6e8fc372f4619d08",
+      "title": "Forcing an ARM64X executable to run as a specific architecture",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-14T14:00:00.000Z",
+      "summary_en": "This article discusses the mechanism for specifying a target machine architecture when running an ARM64X executable. It explains the method for forcing the system to interpret the binary as a particular architecture.",
+      "summary_zh": "本文探討了執行 ARM64X 可執行檔時，如何指定目標機器架構的機制。文中說明了強制系統將二進位檔案視為特定架構來執行的方法。",
+      "keywords": [
+        "ARM64X",
+        "Windows",
+        "Architecture",
+        "Executable",
+        "System Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific method or technical instruction on how to influence the execution behavior of an ARM64X binary.",
+      "pacer_reason_zh": "本文提供了關於如何影響 ARM64X 二進位檔案執行行為的具體方法或技術指導。"
+    },
+    {
+      "id": "8954d7971816d1dc",
+      "title": "A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-13T14:00:00.000Z",
+      "summary_en": "This post introduces a C++ RAII-style helper class designed to simplify the management of LPPROC_THREAD_ATTRIBUTE_LIST structures. It provides a safer and more convenient way to handle these complex attribute lists in Windows programming.",
+      "summary_zh": "這篇文章介紹了一個 C++ RAII 風格的輔助類，旨在簡化 LPPROC_THREAD_ATTRIBUTE_LIST 結構的管理。它為在 Windows 程式設計中處理這些複雜的屬性列表提供了一種更安全且更方便的方法。",
+      "keywords": [
+        "C++",
+        "RAII",
+        "Windows API",
+        "LPPROC_THREAD_ATTRIBUTE_LIST",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical code helper class for a specific technical task, functioning as a utility tutorial.",
+      "pacer_reason_zh": "本文提供了一個針對特定技術任務的實用輔助類別代碼，屬於工具教學性質。"
+    },
+    {
+      "id": "e23d443e9e9c0dc3",
+      "title": "Edinburgh Fringe: Target Audience ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-14T18:45:41.000Z",
+      "summary_en": "This review highly praises the Edinburgh Fringe show 'Target Audience' for its sharp humor and exceptional cast performances. The play is described as a fast-paced, witty satire about a literary genius tasked with creating a pro-weapons sitcom.",
+      "summary_zh": "這篇評論高度讚揚了愛丁堡藝穗節的演出《目標受眾》，稱其幽默犀利且演員表現出色。劇作巧妙結合了情境喜劇風格，講述一位文學天才被要求創作一部「支持武器」喜劇的諷刺故事。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Target Audience",
+        "Theater Review",
+        "Comedy",
+        "Performance"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses analogies to other sitcoms (2012, Episodes) to describe the style and tone of the show.",
+      "pacer_reason_zh": "作者透過類比其他情境喜劇（如《2012》和《Episodes》）來描述該劇的風格與語氣。"
+    },
+    {
+      "id": "49d50fa867932d81",
+      "title": "Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-14T15:16:26.000Z",
+      "summary_en": "This blog post reviews 'Stand-up Philosophy,' a pay-what-you-want show at the Edinburgh Fringe Festival. The author highlights the unique combination of comedy sets and audience-led philosophical Q&A, noting it as an entertaining but experimental format.",
+      "summary_zh": "這篇部落格文章評論了愛丁堡藝穗節的「站立哲學」表演。作者對這種結合喜劇表演與觀眾問答的哲學探討形式給予好評，並分享了對於該節目獨特體驗與演出亮點的看法。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Stand-up comedy",
+        "Philosophy",
+        "Event review",
+        "Performance art"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of a 'gimmick' to describe how the show blends the distinct domains of comedy and philosophy.",
+      "pacer_reason_zh": "文章以「噱頭」（gimmick）作為類比，描述該表演如何將喜劇與哲學這兩個截然不同的領域結合在一起。"
+    },
+    {
+      "id": "4d83e22044870509",
+      "title": "Edinburgh Fringe: Waiting for Wonka ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-14T12:31:07.000Z",
+      "summary_en": "This review explores the play 'Waiting for Wonka,' which depicts the adult lives of the children from Charlie and the Chocolate Factory living together in a reality-show-style environment. The author praises the brilliant concept but notes that condensing the play into a 60-minute Fringe format leaves it feeling somewhat rushed.",
+      "summary_zh": "這篇評論介紹了舞台劇《Waiting for Wonka》，講述《巧克力冒險工廠》中的孩子們長大後被困在一起的心理掙扎。作者讚賞其構思巧妙，但也指出將劇目壓縮至60分鐘的愛丁堡藝穗節標準長度後，節奏顯得有些倉促。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Waiting for Wonka",
+        "Theater Review",
+        "Charlie and the Chocolate Factory",
+        "Half Trick"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content serves as a subjective review/critique of a specific performance (case study).",
+      "pacer_reason_zh": "內容是對特定演出作品的評論與觀點分享（案例研究）。"
+    },
+    {
+      "id": "1c010bc8fe840f58",
+      "title": "Pluralistic: Capital formation (14 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/14/one-chokable-throat/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-14T11:10:41.000Z",
+      "summary_en": "Cory Doctorow examines the necessity of competition for both pro-market and anti-market perspectives. He argues that competition is essential to prevent corporate stagnation and regulatory capture by oligarchic cartels.",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）探討了親市場與反市場觀點對競爭的需求。他指出競爭對於防止企業停滯以及避免大型企業集團透過遊說進行監管俘獲至關重要。",
+      "keywords": [
+        "competition",
+        "market theory",
+        "antitrust",
+        "regulatory capture",
+        "monopoly"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of market competition and its role in preventing corporate malfeasance and regulatory capture.",
+      "pacer_reason_zh": "本文針對市場競爭及其在防止企業弊端與監管俘獲中的作用進行了概念性分析。"
+    },
+    {
+      "id": "669791ec854cd4e3",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-08-14T11:24:35.000Z",
+      "summary_en": "The article introduces DecryptAds, a new free service that simplifies the process of identifying companies and advertising platforms tracking user data. By scraping and correlating complex adtech data, the tool makes previously obscured information accessible to everyday internet users.",
+      "summary_zh": "本文介紹了一項名為 DecryptAds 的全新免費服務，旨在協助使用者識別追蹤個人資料的廣告技術公司與平台。該工具透過抓取並整合複雜的廣告數據，讓一般網際網路使用者能輕易查詢這些隱藏的資訊。",
+      "keywords": [
+        "DecryptAds",
+        "adtech",
+        "data tracking",
+        "online privacy",
+        "Krebs on Security"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on how to use a specific new service to achieve a practical goal, which is tracking data privacy.",
+      "pacer_reason_zh": "本文介紹了一項具體的新服務及其操作目的，指導使用者如何透過該工具達成保護隱私與查詢數據追蹤的需求。"
+    },
+    {
+      "id": "65448e9eb8b57102",
+      "title": "Don't classify. Hallucinate!",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-14T21:54:35.000Z",
+      "summary_en": "Simon Willison shares a clever technique by Doug Turnbull for managing large-scale classification tasks. Instead of forcing an LLM to choose from a massive existing list of tags, you allow the model to hallucinate relevant categories and then use vector embeddings to map them to your existing vocabulary.",
+      "summary_zh": "Simon Willison 分享了 Doug Turnbull 提出的分類管理技巧，解決了現有標籤數量過多導致模型難以處理的問題。方法是讓 LLM 生成概念性的分類，再透過向量嵌入（Vector Embeddings）將其映射至現有的標籤清單中。",
+      "keywords": [
+        "LLM",
+        "Classification",
+        "Vector Embeddings",
+        "Data Organization",
+        "AI Prompting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step methodology for solving a specific technical problem using LLMs and vector embeddings.",
+      "pacer_reason_zh": "文章提供了一種實用的操作方法，說明如何運用 LLM 與向量嵌入技術來解決特定的技術問題。"
+    },
+    {
+      "id": "481e2b039322f78c",
+      "title": "sqlite-utils 4.2.1",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-13T23:53:47.000Z",
+      "summary_en": "sqlite-utils 4.2.1 is a patch release that fixes a crashing bug caused by a missing dependency on typing-extensions. The post also highlights a new smoke testing method using 'uv run' to ensure the CLI functions correctly in isolated environments.",
+      "summary_zh": "sqlite-utils 4.2.1 是一個修復版本，解決了因缺少 typing-extensions 依賴項而導致的崩潰問題。作者同時介紹了一種使用 'uv run' 進行煙霧測試的新方法，以確保 CLI 工具在隔離環境中能正常運作。",
+      "keywords": [
+        "sqlite-utils",
+        "python",
+        "packaging",
+        "uv",
+        "dependency"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a technical fix and provides a specific command-line workflow for verifying package dependencies.",
+      "pacer_reason_zh": "本文解釋了技術修復，並提供了用於驗證軟體包依賴關係的具體命令行工作流程。"
+    },
+    {
+      "id": "21611efaa3a8bc40",
+      "title": "sqlite-utils 4.2",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-13T20:11:29.000Z",
+      "summary_en": "sqlite-utils 4.2 introduces significant improvements to the table.transform() feature, allowing for better preservation of schema definitions like constraints and comments. The release also adds new introspection properties for check constraints and includes various community contributions.",
+      "summary_zh": "sqlite-utils 4.2 版本大幅改進了 table.transform() 功能，增強了對檢查約束、唯一約束及欄位註解等架構定義的保留能力。此外，該版本還新增了檢查約束的內省屬性，並整合了多項來自社群的貢獻。",
+      "keywords": [
+        "sqlite-utils",
+        "sqlite",
+        "software release",
+        "database",
+        "schema"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release note and reference for the new features and updates in a specific software version.",
+      "pacer_reason_zh": "本文作為發布說明，用於記錄特定軟體版本的新功能與更新資訊，屬於參考性質內容。"
+    },
+    {
+      "id": "2024bc366264733d",
+      "title": "llm-gemini 0.33",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-13T19:37:34.000Z",
+      "summary_en": "The llm-gemini plugin has been updated to version 0.33, adding support for the new Gemini 3.7 Flash model and various embedding models. It also introduces compatibility with LLM 0.32, enabling new features like reasoning traces and server-side tool execution.",
+      "summary_zh": "llm-gemini 外掛程式更新至 0.33 版本，正式支援最新的 Gemini 3.7 Flash 模型與多項嵌入模型。同時相容於 LLM 0.32，新增了推理追蹤（reasoning traces）與伺服器端工具執行功能。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.7 Flash",
+        "LLM",
+        "plugin",
+        "AI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content serves as a release note and tutorial, showing how to use new plugin features with command-line examples.",
+      "pacer_reason_zh": "內容為軟體發布公告並包含操作指引，透過指令範例展示如何使用插件的新功能。"
+    },
     {
       "id": "ceca0891005e72e4",
       "title": "Another partial SSI trick with canonicalize",

@@ -1,6 +1,246 @@
 {
   "nodes": [
     {
+      "id": "65448e9eb8b57102",
+      "title": "Don't classify. Hallucinate!",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "Classification",
+        "Vector Embeddings",
+        "Data Organization",
+        "AI Prompting"
+      ],
+      "published": "2026-08-14T21:54:35.000Z"
+    },
+    {
+      "id": "7c5648cc4313a15e",
+      "title": "Oh Hey, It’s Not Just Me",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/its-not-just-me/",
+      "pacer": "C",
+      "keywords": [
+        "aging",
+        "eyesight",
+        "internet",
+        "community",
+        "connection"
+      ],
+      "published": "2026-08-14T19:00:00.000Z"
+    },
+    {
+      "id": "e23d443e9e9c0dc3",
+      "title": "Edinburgh Fringe: Target Audience ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/",
+      "pacer": "A",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Target Audience",
+        "Theater Review",
+        "Comedy",
+        "Performance"
+      ],
+      "published": "2026-08-14T18:45:41.000Z"
+    },
+    {
+      "id": "2972744b0c54596d",
+      "title": "This Week on The Analog Antiquarian",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/",
+      "pacer": "C",
+      "keywords": [
+        "Richard Garriott",
+        "The Digital Antiquarian",
+        "computer history",
+        "cinema",
+        "gaming history"
+      ],
+      "published": "2026-08-14T16:05:50.000Z"
+    },
+    {
+      "id": "49d50fa867932d81",
+      "title": "Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/",
+      "pacer": "A",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Stand-up comedy",
+        "Philosophy",
+        "Event review",
+        "Performance art"
+      ],
+      "published": "2026-08-14T15:16:26.000Z"
+    },
+    {
+      "id": "6e8fc372f4619d08",
+      "title": "Forcing an ARM64X executable to run as a specific architecture",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613",
+      "pacer": "P",
+      "keywords": [
+        "ARM64X",
+        "Windows",
+        "Architecture",
+        "Executable",
+        "System Programming"
+      ],
+      "published": "2026-08-14T14:00:00.000Z"
+    },
+    {
+      "id": "4d83e22044870509",
+      "title": "Edinburgh Fringe: Waiting for Wonka ★★★⯪☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/",
+      "pacer": "E",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Waiting for Wonka",
+        "Theater Review",
+        "Charlie and the Chocolate Factory",
+        "Half Trick"
+      ],
+      "published": "2026-08-14T12:31:07.000Z"
+    },
+    {
+      "id": "24aaa782ab15e436",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+      "pacer": "C",
+      "keywords": [
+        "Housing Act",
+        "Housing Supply",
+        "Public Policy",
+        "Construction",
+        "Legislation"
+      ],
+      "published": "2026-08-14T12:03:37.000Z"
+    },
+    {
+      "id": "669791ec854cd4e3",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "pacer": "P",
+      "keywords": [
+        "DecryptAds",
+        "adtech",
+        "data tracking",
+        "online privacy",
+        "Krebs on Security"
+      ],
+      "published": "2026-08-14T11:24:35.000Z"
+    },
+    {
+      "id": "1c010bc8fe840f58",
+      "title": "Pluralistic: Capital formation (14 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/14/one-chokable-throat/",
+      "pacer": "C",
+      "keywords": [
+        "competition",
+        "market theory",
+        "antitrust",
+        "regulatory capture",
+        "monopoly"
+      ],
+      "published": "2026-08-14T11:10:41.000Z"
+    },
+    {
+      "id": "02ac37d97e00048a",
+      "title": "How This Blog Is Built",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/14/how-this-blog-is-built.html",
+      "pacer": "R",
+      "keywords": [
+        "Jekyll",
+        "GitHub Pages",
+        "Blog Infrastructure",
+        "Web Development",
+        "Hosting"
+      ],
+      "published": "2026-08-14T10:00:00.000Z"
+    },
+    {
+      "id": "34be69bcc9e5a7a6",
+      "title": "Hadamard Codes and Sphere Packing",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/",
+      "pacer": "C",
+      "keywords": [
+        "Hadamard matrices",
+        "Claude AI",
+        "NASA",
+        "error-correcting codes",
+        "mathematics"
+      ],
+      "published": "2026-08-14T01:35:05.000Z"
+    },
+    {
+      "id": "40e5150f2b2926c0",
+      "title": "Printing Lists",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/08/14/printing-lists.html",
+      "pacer": "P",
+      "keywords": [
+        "Zig",
+        "programming",
+        "idioms",
+        "formatting",
+        "lists"
+      ],
+      "published": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "id": "ddeb81d1c55b4c0e",
+      "title": "How NASA’s Mariner 9 probe encoded images",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/",
+      "pacer": "C",
+      "keywords": [
+        "NASA",
+        "Mariner 9",
+        "Hadamard matrix",
+        "error-correcting code",
+        "data transmission"
+      ],
+      "published": "2026-08-13T23:54:21.000Z"
+    },
+    {
+      "id": "481e2b039322f78c",
+      "title": "sqlite-utils 4.2.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "pacer": "P",
+      "keywords": [
+        "sqlite-utils",
+        "python",
+        "packaging",
+        "uv",
+        "dependency"
+      ],
+      "published": "2026-08-13T23:53:47.000Z"
+    },
+    {
       "id": "dd09bb92d59e0121",
       "title": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
       "source": "Terence Eden’s Blog",
@@ -33,20 +273,36 @@
       "published": "2026-08-13T20:21:53.000Z"
     },
     {
-      "id": "8ea70237ed6a9270",
-      "title": "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/",
-      "pacer": "E",
+      "id": "21611efaa3a8bc40",
+      "title": "sqlite-utils 4.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "pacer": "R",
       "keywords": [
-        "Edinburgh Fringe",
-        "theatre review",
-        "Sondheim",
-        "performance",
-        "critique"
+        "sqlite-utils",
+        "sqlite",
+        "software release",
+        "database",
+        "schema"
       ],
-      "published": "2026-08-13T18:45:15.000Z"
+      "published": "2026-08-13T20:11:29.000Z"
+    },
+    {
+      "id": "2024bc366264733d",
+      "title": "llm-gemini 0.33",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "pacer": "P",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.7 Flash",
+        "LLM",
+        "plugin",
+        "AI"
+      ],
+      "published": "2026-08-13T19:37:34.000Z"
     },
     {
       "id": "4ba9a7cddfd1303e",
@@ -65,22 +321,6 @@
       "published": "2026-08-13T17:00:00.000Z"
     },
     {
-      "id": "9a79c10dea971153",
-      "title": "Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/",
-      "pacer": "C",
-      "keywords": [
-        "Edinburgh Fringe",
-        "Hot Flush",
-        "burlesque",
-        "menopause",
-        "ageism"
-      ],
-      "published": "2026-08-13T16:45:02.000Z"
-    },
-    {
       "id": "eeff0dee1b7e5a14",
       "title": "Constructing Hadamard matrices",
       "source": "John D. Cook",
@@ -97,20 +337,20 @@
       "published": "2026-08-13T15:02:41.000Z"
     },
     {
-      "id": "62a45d6b1ab7a62d",
-      "title": "Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/",
-      "pacer": "C",
+      "id": "8954d7971816d1dc",
+      "title": "A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611",
+      "pacer": "P",
       "keywords": [
-        "Edinburgh Fringe",
-        "Eleanor Morton",
-        "Comedy",
-        "Review",
-        "Storytelling"
+        "C++",
+        "RAII",
+        "Windows API",
+        "LPPROC_THREAD_ATTRIBUTE_LIST",
+        "programming"
       ],
-      "published": "2026-08-13T14:55:59.000Z"
+      "published": "2026-08-13T14:00:00.000Z"
     },
     {
       "id": "d533dcdb090fc9d9",
@@ -145,38 +385,6 @@
       "published": "2026-08-13T00:00:00.000Z"
     },
     {
-      "id": "8d31cb94ef58321a",
-      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-      "pacer": "E",
-      "keywords": [
-        "DeepSeek",
-        "AI Models",
-        "OpenRouter",
-        "Hugging Face",
-        "LLM"
-      ],
-      "published": "2026-08-12T23:59:23.000Z"
-    },
-    {
-      "id": "3302bba97b91540c",
-      "title": "alchemy-utils 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
-      "pacer": "P",
-      "keywords": [
-        "alchemy-utils",
-        "Python",
-        "SQLAlchemy",
-        "sqlite-utils",
-        "CLI"
-      ],
-      "published": "2026-08-12T19:51:30.000Z"
-    },
-    {
       "id": "2c41d6bcd4e47e6f",
       "title": "Card Sharks",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -191,22 +399,6 @@
         "media adaptation"
       ],
       "published": "2026-08-12T18:27:39.000Z"
-    },
-    {
-      "id": "46642bc6105696ed",
-      "title": "Quoting Florian Herrengt",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
-      "pacer": "C",
-      "keywords": [
-        "ai-misuse",
-        "cognitive-debt",
-        "software-engineering",
-        "generative-ai",
-        "llms"
-      ],
-      "published": "2026-08-12T15:08:47.000Z"
     },
     {
       "id": "cdbfd0caf99ec5e4",
@@ -305,22 +497,6 @@
       "published": "2026-08-12T00:00:00.000Z"
     },
     {
-      "id": "82986577c4eacfc8",
-      "title": "There are no lossless transformations of natural-language text",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-      "pacer": "C",
-      "keywords": [
-        "AI writing",
-        "LLM",
-        "technical writing",
-        "accountability",
-        "natural language processing"
-      ],
-      "published": "2026-08-11T23:48:35.000Z"
-    },
-    {
       "id": "215b91448d4dcac6",
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "source": "Krebs on Security",
@@ -399,22 +575,6 @@
         "retro computing"
       ],
       "published": "2026-08-11T14:00:00.000Z"
-    },
-    {
-      "id": "14f93ef46e9e4c52",
-      "title": "Manually unbreakable cryptography",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/",
-      "pacer": "C",
-      "keywords": [
-        "cryptography",
-        "RSA",
-        "history of technology",
-        "encryption",
-        "manual computing"
-      ],
-      "published": "2026-08-11T12:04:24.000Z"
     },
     {
       "id": "489a5077b3f1400b",
@@ -511,22 +671,6 @@
         "learning"
       ],
       "published": "2026-08-10T22:00:00.000Z"
-    },
-    {
-      "id": "ed23c431fdd1c461",
-      "title": "Learning from historical mistakes",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/",
-      "pacer": "C",
-      "keywords": [
-        "Donald Knuth",
-        "TAOCP",
-        "History of Computing",
-        "Learning",
-        "Critical Thinking"
-      ],
-      "published": "2026-08-10T14:34:21.000Z"
     },
     {
       "id": "5d3b83cb8e811652",
@@ -801,22 +945,6 @@
       "published": "2026-08-07T16:05:16.000Z"
     },
     {
-      "id": "12775fec3d1e6b73",
-      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597",
-      "pacer": "P",
-      "keywords": [
-        "C++",
-        "std::unique_ptr",
-        "Agile wrapper",
-        "programming",
-        "The Old New Thing"
-      ],
-      "published": "2026-08-07T14:00:00.000Z"
-    },
-    {
       "id": "0d8c5f00f9b44c78",
       "title": "I'm excited for Intel after testing the XPS 13",
       "source": "Jeff Geerling",
@@ -929,22 +1057,6 @@
       "published": "2026-08-06T17:00:56.000Z"
     },
     {
-      "id": "4059d06212108e84",
-      "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 4",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595",
-      "pacer": "P",
-      "keywords": [
-        "Agile",
-        "Software Development",
-        "The Old New Thing",
-        "Project Management",
-        "Technical Design"
-      ],
-      "published": "2026-08-06T14:00:00.000Z"
-    },
-    {
       "id": "a434044cc9e34d2d",
       "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
       "source": "Construction Physics",
@@ -959,38 +1071,6 @@
         "Policy"
       ],
       "published": "2026-08-06T12:02:32.000Z"
-    },
-    {
-      "id": "5d33edebf0f276e8",
-      "title": "Pluralistic: Eternal Sloptember (06 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/06/sin-is-when/",
-      "pacer": "C",
-      "keywords": [
-        "Facebook",
-        "Mark Zuckerberg",
-        "social media",
-        "ethics",
-        "tech criticism"
-      ],
-      "published": "2026-08-06T10:07:06.000Z"
-    },
-    {
-      "id": "db7dcb84133ff4a3",
-      "title": "A year of AI disclosure in critical packages",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html",
-      "pacer": "E",
-      "keywords": [
-        "AI",
-        "open source",
-        "git metadata",
-        "software development",
-        "data analysis"
-      ],
-      "published": "2026-08-06T00:00:00.000Z"
     },
     {
       "id": "302b070bde7906b9",
@@ -1744,22 +1824,6 @@
       "published": "2026-07-26T09:14:51.000Z"
     },
     {
-      "id": "b77bd88ff48cfc58",
-      "title": "Reading List 07/25/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-072526",
-      "pacer": "R",
-      "keywords": [
-        "EV subsidies",
-        "gas turbines",
-        "infrastructure",
-        "geopolitics",
-        "Construction Physics"
-      ],
-      "published": "2026-07-25T14:01:08.000Z"
-    },
-    {
       "id": "f2c8b8dcceb1e560",
       "title": "\nBeing Linux Torvalds\n",
       "source_url": "http://antirez.com/",
@@ -1773,22 +1837,6 @@
         "Kernel Development"
       ],
       "published": "2026-07-25T11:20:55.000Z"
-    },
-    {
-      "id": "bc94d9bebdb36b33",
-      "title": "Podcast Notes: Ed Catmull on David Senra",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/",
-      "pacer": "C",
-      "keywords": [
-        "Ed Catmull",
-        "Pixar",
-        "Leadership",
-        "Team Dynamics",
-        "Creative Process"
-      ],
-      "published": "2026-07-24T19:00:00.000Z"
     },
     {
       "id": "1eb9fb784b9d5dd8",
@@ -2270,22 +2318,6 @@
       "published": "2026-07-15T03:04:00.000Z"
     },
     {
-      "id": "b49a657379e32ffb",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "pacer": "E",
-      "keywords": [
-        "Microsoft",
-        "Security",
-        "Patch Tuesday",
-        "Vulnerabilities",
-        "Artificial Intelligence"
-      ],
-      "published": "2026-07-14T19:22:42.000Z"
-    },
-    {
       "id": "713d5c4af8a89517",
       "title": "I'm still alive",
       "source": "Computer Things",
@@ -2667,22 +2699,6 @@
         "API"
       ],
       "published": "2026-07-04T00:00:00.000Z"
-    },
-    {
-      "id": "f8174579ba56b310",
-      "title": "The Life and Times of Maxis, Part 1: SimEverything",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
-      "pacer": "C",
-      "keywords": [
-        "Maxis",
-        "Will Wright",
-        "SimCity",
-        "Game History",
-        "Simulation"
-      ],
-      "published": "2026-07-03T15:46:04.000Z"
     },
     {
       "id": "bb2bfd9ad0dd14b7",
@@ -3946,22 +3962,6 @@
       "published": "2026-05-16T00:00:00.000Z"
     },
     {
-      "id": "2f2191e67af30070",
-      "title": "Catch Flakes On Main",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/05/14/catch-flakes-on-main.html",
-      "pacer": "P",
-      "keywords": [
-        "flaky tests",
-        "merge queue",
-        "CI/CD",
-        "software engineering",
-        "testing"
-      ],
-      "published": "2026-05-14T00:00:00.000Z"
-    },
-    {
       "id": "b0750490cc5d8b33",
       "title": "Commenting Guidelines",
       "source": "Susam Pal",
@@ -4630,6 +4630,17 @@
   ],
   "links": [
     {
+      "source": "24aaa782ab15e436",
+      "target": "a434044cc9e34d2d",
+      "shared_keywords": [
+        "Housing Act",
+        "Housing Supply",
+        "Legislation",
+        "Construction"
+      ],
+      "strength": 0.8
+    },
+    {
       "source": "79ac2d853198e93f",
       "target": "46c259d1bfa61566",
       "shared_keywords": [
@@ -4646,16 +4657,6 @@
         "distribution",
         "statistics",
         "data analysis"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "2de49d0a37ee501d",
-      "target": "f8174579ba56b310",
-      "shared_keywords": [
-        "Maxis",
-        "Will Wright",
-        "Game History"
       ],
       "strength": 0.6
     },
