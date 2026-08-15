@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-08-14T22:10:34.770Z",
+  "last_updated": "2026-08-15T08:51:11.751Z",
   "articles": [
+    {
+      "id": "9f09be02135bd573",
+      "title": "Training a Reinforcement Learning Model to Play Bonk.io",
+      "url": "https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/",
+      "source": "Cats with power tools",
+      "source_url": "https://blog.pixelmelt.dev/",
+      "published": "2026-08-15T02:50:29.000Z",
+      "summary_en": "This article explores the technical process of reverse-engineering the web game Bonk.io to reconstruct its physics engine. It further details the implementation of a reinforcement learning neural network trained to master the game's mechanics.",
+      "summary_zh": "本文探討了逆向工程網頁遊戲 Bonk.io 並重建其物理引擎的技術過程。作者進一步詳細說明了如何實作強化學習神經網路，並透過訓練讓模型掌握遊戲機制。",
+      "keywords": [
+        "Reinforcement Learning",
+        "Bonk.io",
+        "Game Physics",
+        "Neural Networks",
+        "Reverse Engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on the practical, step-by-step process of dissecting a game and training a model, functioning as a technical tutorial.",
+      "pacer_reason_zh": "內容側重於剖析遊戲與訓練模型的實作步驟，屬於技術導向的實作教學。"
+    },
+    {
+      "id": "ee5307265f0f6d79",
+      "title": "Northern Gannet",
+      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-15T03:22:00.000Z",
+      "summary_en": "This post introduces 'Morris', a rare Northern Gannet living in Pillar Point Harbor, California. As the only known individual of his species in the Pacific Ocean, he has become a local wildlife celebrity since his arrival 14 years ago.",
+      "summary_zh": "這篇文章介紹了居住在加州半月灣的北方塘鵝「莫里斯」（Morris）。作為目前太平洋中唯一已知的北方塘鵝，牠自十四年前抵達後，便成為當地著名的野生動物明星。",
+      "keywords": [
+        "Northern Gannet",
+        "Wildlife",
+        "Pillar Point",
+        "Morris",
+        "Nature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a conceptual introduction or profile of a specific subject (the bird).",
+      "pacer_reason_zh": "內容主要針對特定主題（鳥類個體）進行介紹與說明，屬於概念性敘述。"
+    },
     {
       "id": "7c5648cc4313a15e",
       "title": "Oh Hey, It’s Not Just Me",
