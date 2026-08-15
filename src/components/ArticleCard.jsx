@@ -1,72 +1,78 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { PacerBadge } from './PacerBadge'
-import { useToast } from './Toast'
+import { useToast } from './toast-context'
 import { articleToMarkdown, copyToClipboard } from '../lib/export'
 import { getTimeAgo } from '../lib/time'
-import { getFaviconUrl } from '../lib/favicon'
 
-export function ArticleCard({ article, compact = false, is_read, onRead, onPacerToggle, onKeywordSearch }) {
+export function ArticleCard({
+	article,
+	compact = false,
+	is_read,
+	onRead,
+	onPacerToggle,
+	onKeywordSearch,
+}) {
 	const { t, i18n } = useTranslation()
 	const [is_expanded, setIsExpanded] = useState(false)
-	const toast = useToast()
-
+	const showToast = useToast()
 	const summary = i18n.language === 'zh' ? article.summary_zh : article.summary_en
-	const time_ago = getTimeAgo(article.published)
 
 	const handleCopy = async () => {
 		await copyToClipboard(articleToMarkdown(article, i18n.language))
-		toast('Copied to clipboard')
+		showToast(t('home.copied'))
 	}
 
 	return (
-		<article className={`bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl p-5 transition-all hover:shadow-md hover:border-accent/30 cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none ${is_read ? 'opacity-60' : ''}`}>
-			<div className="flex items-center justify-between gap-2 mb-2">
-				<div className="flex items-center gap-2 text-sm text-text-muted dark:text-slate-400 min-w-0">
-					{getFaviconUrl(article) && <img
-						src={getFaviconUrl(article)}
-						alt=""
-						className="w-4 h-4 shrink-0"
-					/>}
-					<span className="truncate">{article.source}</span>
-					<span className="shrink-0">-</span>
-					<span className="shrink-0">{time_ago}</span>
+		<article
+			className={[
+				'article-card',
+				compact ? 'article-card--compact' : '',
+				is_read ? 'is-read' : '',
+			].filter(Boolean).join(' ')}
+		>
+			<div className="article-meta">
+				<div>
+					<span>{article.source}</span>
+					<span aria-hidden="true">·</span>
+					<time dateTime={article.published}>{getTimeAgo(article.published)}</time>
 				</div>
-				<PacerBadge pacer={article.pacer} compact={compact} onClick={onPacerToggle} />
+				<PacerBadge
+					pacer={article.pacer}
+					compact={compact}
+					onClick={onPacerToggle}
+				/>
 			</div>
 
-			<h3 className="font-serif text-lg font-semibold mb-2 text-text-primary dark:text-slate-200">
-				{article.title}
-			</h3>
+			<h3>{article.title}</h3>
 
 			{summary && (
-				<p
-					className={`text-sm text-text-muted dark:text-slate-400 mb-3 ${is_expanded ? '' : compact ? 'line-clamp-2' : 'line-clamp-3'}`}
-					onClick={() => setIsExpanded(prev => !prev)}
+				<button
+					type="button"
+					className={`article-summary${is_expanded ? ' is-expanded' : ''}`}
+					onClick={() => setIsExpanded(current => !current)}
+					aria-expanded={is_expanded}
 				>
 					{summary}
-				</p>
+				</button>
 			)}
 
 			{article.keywords?.length > 0 && (
-				<div className="flex flex-wrap gap-1.5 mb-3">
-					{(compact ? article.keywords.slice(0, 3) : article.keywords).map(kw => (
+				<div className="keyword-list" aria-label="Keywords">
+					{(compact ? article.keywords.slice(0, 3) : article.keywords).map(keyword => (
 						<button
-							key={kw}
-							onClick={() => onKeywordSearch?.(kw)}
-							className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded cursor-pointer hover:bg-accent/20 transition-colors"
+							type="button"
+							key={keyword}
+							onClick={() => onKeywordSearch?.(keyword)}
 						>
-							#{kw}
+							#{keyword}
 						</button>
 					))}
 				</div>
 			)}
 
-			<div className="flex items-center justify-between">
-				<button
-					onClick={handleCopy}
-					className="text-xs text-text-muted hover:text-accent transition-colors cursor-pointer min-h-[44px] focus:ring-2 focus:ring-accent focus:outline-none rounded"
-				>
+			<div className="article-actions">
+				<button type="button" onClick={handleCopy}>
 					{t('home.copy_md')}
 				</button>
 				<a
@@ -74,9 +80,8 @@ export function ArticleCard({ article, compact = false, is_read, onRead, onPacer
 					target="_blank"
 					rel="noopener noreferrer"
 					onClick={() => onRead?.(article.id)}
-					className="text-xs text-accent hover:underline cursor-pointer min-h-[44px] flex items-center focus:ring-2 focus:ring-accent focus:outline-none rounded"
 				>
-					{t('home.read')} &rarr;
+					{t('home.read')} <span aria-hidden="true">↗</span>
 				</a>
 			</div>
 		</article>

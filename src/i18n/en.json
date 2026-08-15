@@ -3,32 +3,62 @@
 		"home": "Home",
 		"graph": "Graph",
 		"archive": "Archive",
+		"switch_language": "Switch language",
 		"subtitle": "Inspired by Andrej Karpathy's reading list + Justin Sung's PACER system"
 	},
 	"home": {
+		"hero_eyebrow": "Independent research journal / Updated daily",
+		"hero_title": "Ideas worth keeping, before the day moves on.",
+		"hero_intro": "A quiet reading desk for technology, design, and research — selected from independent voices and mapped for later recall.",
+		"articles_selected": "Articles selected",
+		"sources_scanned": "Sources scanned",
+		"featured_observation": "Featured observation",
+		"filter_label": "Filter recent articles",
 		"today": "Today",
 		"yesterday": "Yesterday",
 		"posts": "posts",
 		"ago": "ago",
 		"copy_md": "Copy MD",
+		"copied": "Copied to clipboard",
 		"read": "Read",
 		"download_today": "Download today's MD",
 		"download_week": "Download this week's MD",
 		"search_placeholder": "Search articles...",
 		"all_sources": "All Sources",
-		"no_results": "No articles match your filters."
+		"no_results": "Try a broader keyword, another source, or clear one of the PACER filters.",
+		"no_results_title": "No field notes found",
+		"keep_reading": "Keep the useful parts",
+		"export_title": "Take this edition to your own notebook."
 	},
 	"graph": {
+		"eyebrow": "Relational index / Shared language",
 		"title": "Knowledge Graph",
 		"legend": "PACER Legend",
 		"range_7d": "7d",
 		"range_30d": "30d",
 		"range_all": "All",
-		"hint": "Articles connected by shared keywords. Drag to explore, scroll to zoom."
+		"hint": "Trace how ideas travel between sources. Drag specimens to compare, then scroll to move closer.",
+		"time_range": "Time range",
+		"close": "Close article detail",
+		"loading": "Mapping relationships…"
 	},
 	"archive": {
+		"eyebrow": "Bound editions / Month by month",
 		"title": "Archive",
-		"articles": "articles"
+		"articles": "articles",
+		"intro": "Every edition remains on the shelf — ordered by month, source, and the questions it helped answer.",
+		"jump_to": "Jump to issue",
+		"empty_title": "This issue is still unbound",
+		"empty": "There are no articles filed for this month.",
+		"download": "Download",
+		"pagination": "Archive month navigation",
+		"loading": "Opening the archive…"
+	},
+	"footer": {
+		"statement": "Read widely. Keep the connections that change how you think.",
+		"explore": "Explore",
+		"project": "Project",
+		"crafted": "Curated for patient reading"
 	},
 	"pacer": {
 		"P": "Procedural",

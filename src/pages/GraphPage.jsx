@@ -1,263 +1,268 @@
-import { useRef, useEffect, useState, useMemo, useCallback } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { select } from 'd3-selection'
-import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide } from 'd3-force'
-import { zoom } from 'd3-zoom'
 import { drag } from 'd3-drag'
+import {
+	forceCenter,
+	forceCollide,
+	forceLink,
+	forceManyBody,
+	forceSimulation,
+} from 'd3-force'
+import { select } from 'd3-selection'
+import { zoom } from 'd3-zoom'
+import { PacerBadge } from '../components/PacerBadge'
 import { useGraph } from '../hooks/useGraph'
 
 const PACER_COLORS = {
-	P: '#30D158', A: '#FF9F0A', C: '#0A84FF', E: '#BF5AF2', R: '#8E8E93',
+	P: '#3d3d3a',
+	A: '#87867f',
+	C: '#b0aea5',
+	E: '#cccbc8',
+	R: '#e3dacc',
 }
 
-function truncate(str, max_len) {
-	if (!str || str.length <= max_len) return str
-	return str.slice(0, max_len) + '...'
+function truncateText(value, max_length) {
+	if (!value || value.length <= max_length) return value
+	return `${value.slice(0, max_length)}…`
+}
+
+function filterGraph(graph, time_range, hidden_pacers) {
+	const time_latest = Math.max(...graph.nodes.map(node => (
+		new Date(node.published).getTime()
+	)))
+	const range_days = time_range === '7d' ? 7 : 30
+	const time_cutoff = time_latest - (range_days * 24 * 60 * 60 * 1000)
+	const valid_nodes = graph.nodes.filter(node => {
+		const matches_time = time_range === 'all'
+			|| new Date(node.published).getTime() >= time_cutoff
+		return matches_time && !hidden_pacers.has(node.pacer)
+	})
+	const valid_ids = new Set(valid_nodes.map(node => node.id))
+	const valid_links = graph.links.filter(link => (
+		valid_ids.has(link.source?.id || link.source)
+		&& valid_ids.has(link.target?.id || link.target)
+	))
+
+	return { nodes: [...valid_nodes], links: [...valid_links] }
+}
+
+function renderGraph(svg_element, graph, onNodeClick) {
+	const svg = select(svg_element)
+	svg.selectAll('*').remove()
+	const width = svg_element.clientWidth
+	const height = svg_element.clientHeight
+	const canvas = svg.append('g')
+	const nodes = graph.nodes.map(node => ({ ...node }))
+	const links = graph.links.map(link => ({ ...link }))
+	const link_counts = {}
+
+	links.forEach(link => {
+		const id_source = link.source?.id || link.source
+		const id_target = link.target?.id || link.target
+		link_counts[id_source] = (link_counts[id_source] || 0) + 1
+		link_counts[id_target] = (link_counts[id_target] || 0) + 1
+	})
+
+	const getRadius = node => Math.max(
+		8,
+		Math.min(19, 8 + ((link_counts[node.id] || 0) * 4)),
+	)
+	const bound_x = Math.min(112, width * 0.22)
+	const bound_y = Math.min(58, height * 0.16)
+	const simulation = forceSimulation(nodes)
+		.force('link', forceLink(links).id(node => node.id).distance(150))
+		.force('charge', forceManyBody().strength(-290))
+		.force('center', forceCenter(width / 2, height / 2))
+		.force('collision', forceCollide().radius(node => getRadius(node) + 42))
+
+	svg.call(zoom().scaleExtent([0.35, 4]).on('zoom', event => {
+		canvas.attr('transform', event.transform)
+	}))
+
+	const link = canvas.append('g')
+		.selectAll('line')
+		.data(links)
+		.join('line')
+		.attr('class', 'graph-link')
+		.attr('stroke-width', item => Math.max(1, (item.strength || 0.5) * 3))
+
+	const node_group = canvas.append('g')
+		.selectAll('g')
+		.data(nodes)
+		.join('g')
+		.attr('class', 'graph-node')
+		.attr('role', 'button')
+		.attr('tabindex', 0)
+		.attr('aria-label', node => (
+			`${truncateText(node.title, 28)} ${node.source}`
+		))
+		.on('click', (event, node) => onNodeClick(node))
+		.on('keydown', (event, node) => {
+			if (event.key === 'Enter' || event.key === ' ') onNodeClick(node)
+		})
+		.call(drag()
+			.on('start', (event, node) => {
+				if (!event.active) simulation.alphaTarget(0.3).restart()
+				node.fx = node.x
+				node.fy = node.y
+			})
+			.on('drag', (event, node) => {
+				node.fx = event.x
+				node.fy = event.y
+			})
+			.on('end', (event, node) => {
+				if (!event.active) simulation.alphaTarget(0)
+				node.fx = null
+				node.fy = null
+			}),
+		)
+
+	node_group.append('circle')
+		.attr('class', 'graph-node__ring')
+		.attr('r', node => getRadius(node) + 5)
+	node_group.append('circle')
+		.attr('class', 'graph-node__point')
+		.attr('r', getRadius)
+		.attr('fill', node => PACER_COLORS[node.pacer] || PACER_COLORS.C)
+	node_group.append('text')
+		.attr('class', 'graph-node__title')
+		.attr('dy', node => getRadius(node) + 17)
+		.attr('text-anchor', 'middle')
+		.text(node => truncateText(node.title, 28))
+	node_group.append('text')
+		.attr('class', 'graph-node__source')
+		.attr('dy', node => getRadius(node) + 32)
+		.attr('text-anchor', 'middle')
+		.text(node => node.source)
+
+	simulation.on('tick', () => {
+		nodes.forEach(node => {
+			node.x = Math.max(bound_x, Math.min(width - bound_x, node.x))
+			node.y = Math.max(bound_y, Math.min(height - bound_y, node.y))
+		})
+		link
+			.attr('x1', item => item.source.x)
+			.attr('y1', item => item.source.y)
+			.attr('x2', item => item.target.x)
+			.attr('y2', item => item.target.y)
+		node_group.attr('transform', node => `translate(${node.x},${node.y})`)
+	})
+
+	return simulation
+}
+
+function SelectedNode({ node, onClose }) {
+	const { t } = useTranslation()
+
+	if (!node) return null
+
+	return (
+		<aside className="graph-detail" aria-label={node.title}>
+			<div className="graph-detail__topline">
+				<PacerBadge pacer={node.pacer} />
+				<button type="button" onClick={onClose} aria-label={t('graph.close')}>
+					×
+				</button>
+			</div>
+			<p className="graph-detail__source">{node.source}</p>
+			<h2>{node.title}</h2>
+			{node.keywords?.length > 0 && (
+				<div className="keyword-list graph-detail__keywords">
+					{node.keywords.map(keyword => <span key={keyword}>#{keyword}</span>)}
+				</div>
+			)}
+			<a href={node.url} target="_blank" rel="noopener noreferrer">
+				{t('home.read')} <span aria-hidden="true">↗</span>
+			</a>
+		</aside>
+	)
 }
 
 export function GraphPage() {
 	const { graph, is_loading } = useGraph()
-	const { t, i18n } = useTranslation()
+	const { t } = useTranslation()
 	const svg_ref = useRef(null)
-	const simulation_ref = useRef(null)
 	const [time_range, setTimeRange] = useState('30d')
 	const [selected_node, setSelectedNode] = useState(null)
-	const [hovered_node, setHoveredNode] = useState(null)
 	const [hidden_pacers, setHiddenPacers] = useState(new Set())
-
-	const handlePacerLegendClick = useCallback((pacer) => {
-		setHiddenPacers(prev => {
-			const next = new Set(prev)
-			if (next.has(pacer)) next.delete(pacer)
-			else next.add(pacer)
-			return next
-		})
-	}, [])
-
-	const filtered = useMemo(() => {
-		if (time_range === 'all') {
-			if (hidden_pacers.size === 0) return graph
-			const valid_nodes = graph.nodes.filter(n => !hidden_pacers.has(n.pacer))
-			const valid_ids = new Set(valid_nodes.map(n => n.id))
-			const valid_links = graph.links.filter(l =>
-				valid_ids.has(l.source?.id || l.source) && valid_ids.has(l.target?.id || l.target)
-			)
-			return { nodes: [...valid_nodes], links: [...valid_links] }
-		}
-
-		const days = time_range === '7d' ? 7 : 30
-		const cutoff = Date.now() - days * 24 * 3600 * 1000
-		const valid_nodes = graph.nodes.filter(n => new Date(n.published).getTime() > cutoff && !hidden_pacers.has(n.pacer))
-		const valid_ids = new Set(valid_nodes.map(n => n.id))
-		const valid_links = graph.links.filter(l =>
-			valid_ids.has(l.source?.id || l.source) && valid_ids.has(l.target?.id || l.target)
-		)
-
-		return { nodes: [...valid_nodes], links: [...valid_links] }
-	}, [graph, time_range, hidden_pacers])
-
-	const handleNodeClick = useCallback((d) => {
-		setSelectedNode(prev => prev?.id === d.id ? null : d)
+	const filtered_graph = useMemo(
+		() => filterGraph(graph, time_range, hidden_pacers),
+		[graph, hidden_pacers, time_range],
+	)
+	const handleNodeClick = useCallback(node => {
+		setSelectedNode(current_node => current_node?.id === node.id ? null : node)
 	}, [])
 
 	useEffect(() => {
-		if (!svg_ref.current || filtered.nodes.length === 0) return
-
-		const svg = select(svg_ref.current)
-		svg.selectAll('*').remove()
-
-		const width = svg_ref.current.clientWidth
-		const height = svg_ref.current.clientHeight
-
-		const g = svg.append('g')
-
-		svg.call(zoom().scaleExtent([0.3, 4]).on('zoom', (e) => {
-			g.attr('transform', e.transform)
-		}))
-
-		const nodes_copy = filtered.nodes.map(d => ({ ...d }))
-		const links_copy = filtered.links.map(d => ({ ...d }))
-
-		// Count links per node for sizing
-		const link_counts = {}
-		links_copy.forEach(l => {
-			const s = l.source?.id || l.source
-			const t = l.target?.id || l.target
-			link_counts[s] = (link_counts[s] || 0) + 1
-			link_counts[t] = (link_counts[t] || 0) + 1
-		})
-
-		const getRadius = (d) => Math.max(8, Math.min(20, 8 + (link_counts[d.id] || 0) * 4))
-
-		const simulation = forceSimulation(nodes_copy)
-			.force('link', forceLink(links_copy).id(d => d.id).distance(160))
-			.force('charge', forceManyBody().strength(-300))
-			.force('center', forceCenter(width / 2, height / 2))
-			.force('collision', forceCollide().radius(d => getRadius(d) + 40))
-
-		simulation_ref.current = simulation
-
-		// Links
-		const link = g.append('g')
-			.selectAll('line')
-			.data(links_copy)
-			.join('line')
-			.attr('stroke', 'currentColor')
-			.attr('class', 'text-border-light dark:text-white/20')
-			.attr('stroke-opacity', 0.5)
-			.attr('stroke-width', d => Math.max(1.5, (d.strength || 0.5) * 4))
-
-		// Node groups
-		const node_group = g.append('g')
-			.selectAll('g')
-			.data(nodes_copy)
-			.join('g')
-			.attr('cursor', 'pointer')
-			.on('click', (event, d) => handleNodeClick(d))
-			.on('mouseenter', (event, d) => setHoveredNode(d.id))
-			.on('mouseleave', () => setHoveredNode(null))
-			.call(drag()
-				.on('start', (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y })
-				.on('drag', (e, d) => { d.fx = e.x; d.fy = e.y })
-				.on('end', (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null })
-			)
-
-		// Node glow
-		node_group.append('circle')
-			.attr('r', d => getRadius(d) + 6)
-			.attr('fill', d => PACER_COLORS[d.pacer] || PACER_COLORS.C)
-			.attr('opacity', 0.15)
-
-		// Node circle
-		node_group.append('circle')
-			.attr('r', d => getRadius(d))
-			.attr('fill', d => PACER_COLORS[d.pacer] || PACER_COLORS.C)
-			.attr('stroke', 'white')
-			.attr('stroke-width', 2)
-			.attr('stroke-opacity', 0.3)
-
-		// Node labels
-		node_group.append('text')
-			.attr('dy', d => getRadius(d) + 14)
-			.attr('text-anchor', 'middle')
-			.attr('fill', 'currentColor')
-			.attr('class', 'text-text-primary dark:text-[#F5F5F7]')
-			.attr('font-size', '11px')
-			.attr('font-weight', '500')
-			.text(d => truncate(d.title, 28))
-
-		// Source labels (smaller, below title)
-		node_group.append('text')
-			.attr('dy', d => getRadius(d) + 28)
-			.attr('text-anchor', 'middle')
-			.attr('fill', 'currentColor')
-			.attr('class', 'text-text-muted')
-			.attr('font-size', '9px')
-			.text(d => d.source)
-
-		simulation.on('tick', () => {
-			link
-				.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-				.attr('x2', d => d.target.x).attr('y2', d => d.target.y)
-			node_group
-				.attr('transform', d => `translate(${d.x},${d.y})`)
-		})
-
+		if (!svg_ref.current || filtered_graph.nodes.length === 0) return undefined
+		const simulation = renderGraph(svg_ref.current, filtered_graph, handleNodeClick)
 		return () => simulation.stop()
-	}, [filtered, handleNodeClick])
+	}, [filtered_graph, handleNodeClick])
 
-	if (is_loading) {
-		return <div className="pt-4 max-w-5xl mx-auto px-4 text-text-muted">Loading...</div>
+	const handleLegendClick = key => {
+		setHiddenPacers(current_pacers => {
+			const next_pacers = new Set(current_pacers)
+			if (next_pacers.has(key)) next_pacers.delete(key)
+			else next_pacers.add(key)
+			return next_pacers
+		})
 	}
 
+	if (is_loading) return <div className="page-loading">{t('graph.loading')}</div>
+
 	return (
-		<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
-			<div className="flex items-center justify-between mb-4">
+		<div className="page-shell graph-page">
+			<header className="page-intro">
 				<div>
-					<h1 className="font-serif text-2xl font-semibold">{t('graph.title')}</h1>
-					<p className="text-sm text-text-muted mt-1">{t('graph.hint') || 'Articles connected by shared keywords. Drag to explore, scroll to zoom.'}</p>
+					<p className="eyebrow">{t('graph.eyebrow')}</p>
+					<h1>{t('graph.title')}</h1>
 				</div>
-				<div className="flex gap-1">
-					{['7d', '30d', 'all'].map(range => (
+				<div className="page-intro__aside">
+					<p>{t('graph.hint')}</p>
+					<div className="range-control" aria-label={t('graph.time_range')}>
+						{['7d', '30d', 'all'].map(range => (
+							<button
+								type="button"
+								key={range}
+								className={time_range === range ? 'is-active' : ''}
+								onClick={() => {
+									setTimeRange(range)
+									setSelectedNode(null)
+								}}
+							>
+								{t(`graph.range_${range}`)}
+							</button>
+						))}
+					</div>
+				</div>
+			</header>
+
+			<section className="graph-field" aria-label={t('graph.title')}>
+				<div className="graph-field__coordinates" aria-hidden="true">
+					<span>RELATION MAP / 01</span>
+					<span>{filtered_graph.nodes.length} NODES</span>
+				</div>
+				<svg ref={svg_ref} />
+				<SelectedNode node={selected_node} onClose={() => setSelectedNode(null)} />
+			</section>
+
+			<div className="graph-legend" aria-label={t('graph.legend')}>
+				<p>{t('graph.legend')}</p>
+				<div>
+					{Object.entries(PACER_COLORS).map(([key, color]) => (
 						<button
-							key={range}
-							onClick={() => { setTimeRange(range); setSelectedNode(null) }}
-							className={`px-3 py-1.5 rounded-full text-xs font-medium cursor-pointer transition-all
-								${time_range === range ? 'bg-accent text-white' : 'text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10'}`}
+							type="button"
+							key={key}
+							className={hidden_pacers.has(key) ? 'is-hidden' : ''}
+							onClick={() => handleLegendClick(key)}
+							aria-pressed={!hidden_pacers.has(key)}
 						>
-							{t(`graph.range_${range}`)}
+							<span style={{ backgroundColor: color }} aria-hidden="true" />
+							{key} — {t(`pacer.${key}`)}
 						</button>
 					))}
 				</div>
 			</div>
-
-			<div className="relative bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-2xl overflow-hidden" style={{ height: '420px' }}>
-				<svg ref={svg_ref} className="w-full h-full" />
-
-				{selected_node && (
-					<div className="absolute bottom-4 left-4 right-4 md:left-auto md:right-4 md:w-96 bg-card/95 dark:bg-card-dark/95 backdrop-blur-xl border border-border-light/60 dark:border-white/10 rounded-2xl p-5 shadow-xl">
-						<div className="flex justify-between items-start gap-3">
-							<div className="min-w-0">
-								<div className="flex items-center gap-2 mb-1">
-									<img
-										src={`https://www.google.com/s2/favicons?domain=${(() => { try { return new URL(selected_node.source_url || selected_node.url).hostname } catch { return '' } })()}&sz=16`}
-										alt=""
-										className="w-4 h-4 shrink-0"
-									/>
-									<span className="text-xs text-text-muted truncate">{selected_node.source}</span>
-									<span className={`text-xs px-1.5 py-0.5 rounded font-medium ${getPacerClasses(selected_node.pacer)}`}>
-										{selected_node.pacer}
-									</span>
-								</div>
-								<h3 className="font-serif font-semibold text-sm leading-snug">{selected_node.title}</h3>
-								{selected_node.keywords?.length > 0 && (
-									<div className="flex flex-wrap gap-1 mt-2">
-										{selected_node.keywords.map(kw => (
-											<span key={kw} className="text-xs bg-accent/10 text-accent px-2 py-0.5 rounded">#{kw}</span>
-										))}
-									</div>
-								)}
-							</div>
-							<button onClick={() => setSelectedNode(null)} className="text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7] cursor-pointer shrink-0 w-6 h-6 flex items-center justify-center rounded-full hover:bg-black/5 dark:hover:bg-white/10 transition-colors">
-								<svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-									<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-								</svg>
-							</button>
-						</div>
-						<a href={selected_node.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-xs text-accent hover:underline mt-3 cursor-pointer">
-							{t('home.read')} <span>&rarr;</span>
-						</a>
-					</div>
-				)}
-			</div>
-
-			{/* Interactive Legend */}
-			<div className="flex flex-wrap gap-2 mt-4">
-				{Object.entries(PACER_COLORS).map(([key, color]) => (
-					<button
-						key={key}
-						onClick={() => handlePacerLegendClick(key)}
-						className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border cursor-pointer transition-all
-							${hidden_pacers.has(key)
-								? 'opacity-40 border-border-light/60 dark:border-white/10 text-text-muted line-through'
-								: 'border-border-light/60 dark:border-white/10 text-text-primary dark:text-[#F5F5F7]'}`}
-					>
-						<span className="w-2.5 h-2.5 rounded-full inline-block shrink-0" style={{ backgroundColor: color }} />
-						{key} - {t(`pacer.${key}`)}
-					</button>
-				))}
-			</div>
 		</div>
 	)
-}
-
-function getPacerClasses(pacer) {
-	const map = {
-		P: 'bg-[#30D158]/10 text-[#30D158]',
-		A: 'bg-[#FF9F0A]/10 text-[#FF9F0A]',
-		C: 'bg-[#0A84FF]/10 text-[#0A84FF]',
-		E: 'bg-[#BF5AF2]/10 text-[#BF5AF2]',
-		R: 'bg-[#8E8E93]/10 text-[#8E8E93]',
-	}
-	return map[pacer] || map.C
 }

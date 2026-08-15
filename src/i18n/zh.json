@@ -2,33 +2,63 @@
 	"nav": {
 		"home": "首頁",
 		"graph": "知識圖譜",
-		"archive": "Archive",
+		"archive": "典藏",
+		"switch_language": "切換語言",
 		"subtitle": "靈感來自 Andrej Karpathy 的閱讀清單 + Justin Sung 的 PACER 學習系統"
 	},
 	"home": {
+		"hero_eyebrow": "獨立研究誌／每日更新",
+		"hero_title": "在一天向前推進以前，留下值得記住的想法。",
+		"hero_intro": "一張安靜的科技、設計與研究閱讀桌；從獨立觀點中精選，並整理成日後能重新連結的知識。",
+		"articles_selected": "精選文章",
+		"sources_scanned": "掃描來源",
+		"featured_observation": "本期重點觀察",
+		"filter_label": "篩選近期文章",
 		"today": "今天",
 		"yesterday": "昨天",
 		"posts": "篇文章",
 		"ago": "前",
 		"copy_md": "複製 MD",
+		"copied": "已複製到剪貼簿",
 		"read": "閱讀",
 		"download_today": "下載今日 MD",
 		"download_week": "下載本週 MD",
-		"search_placeholder": "Search articles...",
-		"all_sources": "All Sources",
-		"no_results": "No articles match your filters."
+		"search_placeholder": "搜尋文章、摘要或關鍵字⋯",
+		"all_sources": "所有來源",
+		"no_results": "試試更廣的關鍵字、其他來源，或清除一個 PACER 篩選條件。",
+		"no_results_title": "找不到符合的田野筆記",
+		"keep_reading": "留下真正有用的部分",
+		"export_title": "把這期內容帶進你自己的筆記本。"
 	},
 	"graph": {
+		"eyebrow": "關聯索引／共享語彙",
 		"title": "知識圖譜",
 		"legend": "PACER 圖例",
 		"range_7d": "7天",
 		"range_30d": "30天",
 		"range_all": "全部",
-		"hint": "文章以共享關鍵字連結，拖曳探索、滾輪縮放。"
+		"hint": "循著關鍵字查看想法如何在不同來源間移動；拖曳比較節點，滾動即可拉近觀察。",
+		"time_range": "時間範圍",
+		"close": "關閉文章詳情",
+		"loading": "正在整理關聯⋯"
 	},
 	"archive": {
+		"eyebrow": "裝訂典藏／逐月收錄",
 		"title": "歷史文章",
-		"articles": "篇文章"
+		"articles": "篇文章",
+		"intro": "每一期都留在書架上，依月份、來源，以及它曾協助回答的問題排列。",
+		"jump_to": "跳至期別",
+		"empty_title": "這一期尚未裝訂",
+		"empty": "這個月份還沒有收錄文章。",
+		"download": "下載",
+		"pagination": "典藏月份導覽",
+		"loading": "正在開啟典藏⋯"
+	},
+	"footer": {
+		"statement": "廣泛閱讀，留下真正改變思考方式的連結。",
+		"explore": "探索",
+		"project": "專案",
+		"crafted": "為耐心閱讀而整理"
 	},
 	"pacer": {
 		"P": "程序性",

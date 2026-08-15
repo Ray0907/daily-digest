@@ -1,57 +1,66 @@
 import { useTranslation } from 'react-i18next'
 
-const PACER_FILTERS = [
-	{ key: 'P', color: 'bg-pacer-p/15 text-pacer-p border-pacer-p/30' },
-	{ key: 'A', color: 'bg-pacer-a/15 text-pacer-a border-pacer-a/30' },
-	{ key: 'C', color: 'bg-pacer-c/15 text-pacer-c border-pacer-c/30' },
-	{ key: 'E', color: 'bg-pacer-e/15 text-pacer-e border-pacer-e/30' },
-	{ key: 'R', color: 'bg-pacer-r/15 text-pacer-r border-pacer-r/30' },
-]
+const PACER_FILTERS = ['P', 'A', 'C', 'E', 'R']
 
-export function FilterBar({ search_query, onSearchChange, active_pacers, onPacerToggle, sources, active_source, onSourceChange }) {
+export function FilterBar({
+	search_query,
+	onSearchChange,
+	active_pacers,
+	onPacerToggle,
+	sources,
+	active_source,
+	onSourceChange,
+}) {
 	const { t } = useTranslation()
 
 	return (
-		<div className="mb-6 space-y-3">
-			<div className="relative">
-				<svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-					<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+		<section className="filter-bar" aria-label={t('home.filter_label')}>
+			<label className="search-field" htmlFor="search-input">
+				<svg viewBox="0 0 24 24" aria-hidden="true">
+					<circle cx="11" cy="11" r="6.75" />
+					<path d="m16 16 4.25 4.25" />
 				</svg>
+				<span className="sr-only">{t('home.search_placeholder')}</span>
 				<input
-					type="text"
-					value={search_query}
-					onChange={e => onSearchChange(e.target.value)}
-					placeholder={t('home.search_placeholder') || 'Search articles...'}
-					className="w-full pl-10 pr-4 py-2.5 bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-xl text-sm text-text-primary dark:text-[#F5F5F7] placeholder-text-muted focus:ring-2 focus:ring-accent focus:border-transparent focus:outline-none transition-colors"
 					id="search-input"
+					type="search"
+					value={search_query}
+					onChange={event => onSearchChange(event.target.value)}
+					placeholder={t('home.search_placeholder')}
 				/>
-			</div>
+			</label>
 
-			<div className="flex flex-wrap items-center gap-2">
-				{PACER_FILTERS.map(({ key, color }) => (
-					<button
-						key={key}
-						onClick={() => onPacerToggle(key)}
-						className={`px-3 py-1.5 rounded-full text-xs font-medium border transition-all cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none
-							${active_pacers.has(key) ? color : 'bg-transparent border-border-light/60 dark:border-white/10 text-text-muted hover:text-text-primary dark:hover:text-[#F5F5F7]'}`}
-					>
-						{key} - {t(`pacer.${key}`)}
-					</button>
-				))}
+			<div className="filter-bar__controls">
+				<div className="pacer-filters" aria-label="PACER filters">
+					{PACER_FILTERS.map(key => (
+						<button
+							type="button"
+							key={key}
+							className={active_pacers.has(key) ? 'is-active' : ''}
+							onClick={() => onPacerToggle(key)}
+							aria-pressed={active_pacers.has(key)}
+						>
+							<span>{key}</span> {t(`pacer.${key}`)}
+						</button>
+					))}
+				</div>
 
 				{sources.length > 0 && (
-					<select
-						value={active_source}
-						onChange={e => onSourceChange(e.target.value)}
-						className="ml-auto px-3 py-1.5 bg-card dark:bg-card-dark border border-border-light/60 dark:border-white/10 rounded-xl text-xs text-text-muted cursor-pointer min-h-[36px] focus:ring-2 focus:ring-accent focus:outline-none"
-					>
-						<option value="">{t('home.all_sources') || 'All Sources'}</option>
-						{sources.map(s => (
-							<option key={s} value={s}>{s}</option>
-						))}
-					</select>
+					<label className="source-filter">
+						<span className="sr-only">{t('home.all_sources')}</span>
+						<select
+							value={active_source}
+							onChange={event => onSourceChange(event.target.value)}
+						>
+							<option value="">{t('home.all_sources')}</option>
+							{sources.map(source => (
+								<option key={source} value={source}>{source}</option>
+							))}
+						</select>
+						<span aria-hidden="true">⌄</span>
+					</label>
 				)}
 			</div>
-		</div>
+		</section>
 	)
 }

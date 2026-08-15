@@ -1,121 +1,220 @@
-import { useMemo, useState, useCallback } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { useArticles } from '../hooks/useArticles'
 import { ArticleCard } from '../components/ArticleCard'
 import { FeaturedCard } from '../components/FeaturedCard'
 import { FilterBar } from '../components/FilterBar'
 import { SkeletonCard } from '../components/SkeletonCard'
+import { useArticles } from '../hooks/useArticles'
 import { articleToMarkdown, downloadMarkdown } from '../lib/export'
+
+const DAY_IN_MS = 24 * 60 * 60 * 1000
+
+function getRecentArticles(articles) {
+	const time_latest = Math.max(...articles.map(article => (
+		new Date(article.published).getTime()
+	)))
+	const time_cutoff = time_latest - (6 * DAY_IN_MS)
+
+	return articles.filter(article => (
+		new Date(article.published).getTime() >= time_cutoff
+	))
+}
+
+function filterArticles(articles, search_query, active_pacers, active_source) {
+	return getRecentArticles(articles).filter(article => {
+		const query = search_query.toLowerCase()
+		const matches_search = !query
+			|| (article.title || '').toLowerCase().includes(query)
+			|| (article.summary_en || '').toLowerCase().includes(query)
+			|| (article.summary_zh || '').toLowerCase().includes(query)
+			|| (article.keywords || []).some(keyword => keyword.toLowerCase().includes(query))
+		const matches_pacer = active_pacers.size === 0
+			|| active_pacers.has(article.pacer)
+		const matches_source = !active_source || article.source === active_source
+
+		return matches_search && matches_pacer && matches_source
+	})
+}
+
+function groupArticles(articles) {
+	const groups = new Map()
+
+	articles.forEach(article => {
+		const date_key = article.published.slice(0, 10)
+		const date_articles = groups.get(date_key) || []
+		date_articles.push(article)
+		groups.set(date_key, date_articles)
+	})
+
+	return [...groups.entries()].sort(([date_a], [date_b]) => (
+		date_b.localeCompare(date_a)
+	))
+}
+
+function formatDateLabel(date_key, t, language) {
+	const today_key = new Date().toISOString().slice(0, 10)
+	const yesterday_key = new Date(Date.now() - DAY_IN_MS).toISOString().slice(0, 10)
+
+	if (date_key === today_key) return t('home.today')
+	if (date_key === yesterday_key) return t('home.yesterday')
+
+	return new Date(`${date_key}T12:00:00Z`).toLocaleDateString(
+		language === 'zh' ? 'zh-TW' : 'en-US',
+		{ year: 'numeric', month: 'long', day: 'numeric' },
+	)
+}
+
+function HeroSection({ article_count, source_count }) {
+	const { t } = useTranslation()
+
+	return (
+		<section className="home-hero" aria-labelledby="home-title">
+			<div>
+				<p className="eyebrow">{t('home.hero_eyebrow')}</p>
+				<h1 id="home-title">{t('home.hero_title')}</h1>
+			</div>
+			<div className="home-hero__aside">
+				<p className="home-hero__intro">{t('home.hero_intro')}</p>
+				<dl className="issue-index">
+					<div>
+						<dt>{t('home.articles_selected')}</dt>
+						<dd>{String(article_count).padStart(2, '0')}</dd>
+					</div>
+					<div>
+						<dt>{t('home.sources_scanned')}</dt>
+						<dd>{String(source_count).padStart(2, '0')}</dd>
+					</div>
+				</dl>
+			</div>
+		</section>
+	)
+}
+
+function ArticleGroup({ date_key, articles, is_first, onPacerToggle, onKeywordSearch }) {
+	const { t, i18n } = useTranslation()
+
+	return (
+		<section className="digest-section" aria-labelledby={`date-${date_key}`}>
+			<header className="section-heading">
+				<div>
+					<span className="section-index">{is_first ? '01' : '—'}</span>
+					<h2 id={`date-${date_key}`}>
+						{formatDateLabel(date_key, t, i18n.language)}
+					</h2>
+				</div>
+				<span>{articles.length} {t('home.posts')}</span>
+			</header>
+
+			{is_first && articles.length >= 3 ? (
+				<>
+					<div className="lead-grid">
+						<FeaturedCard
+							article={articles[0]}
+							onPacerToggle={onPacerToggle}
+							onKeywordSearch={onKeywordSearch}
+						/>
+						<div className="lead-grid__rail">
+							{articles.slice(1, 3).map(article => (
+								<ArticleCard
+									key={article.id}
+									article={article}
+									compact
+									onPacerToggle={onPacerToggle}
+									onKeywordSearch={onKeywordSearch}
+								/>
+							))}
+						</div>
+					</div>
+					{articles.length > 3 && (
+						<ArticleGrid
+							articles={articles.slice(3)}
+							onPacerToggle={onPacerToggle}
+							onKeywordSearch={onKeywordSearch}
+						/>
+					)}
+				</>
+			) : (
+				<ArticleGrid
+					articles={articles}
+					onPacerToggle={onPacerToggle}
+					onKeywordSearch={onKeywordSearch}
+				/>
+			)}
+		</section>
+	)
+}
+
+function ArticleGrid({ articles, onPacerToggle, onKeywordSearch }) {
+	return (
+		<div className="article-grid">
+			{articles.map(article => (
+				<ArticleCard
+					key={article.id}
+					article={article}
+					onPacerToggle={onPacerToggle}
+					onKeywordSearch={onKeywordSearch}
+				/>
+			))}
+		</div>
+	)
+}
+
+function LoadingState() {
+	return (
+		<div className="page-shell loading-grid" aria-label="Loading articles">
+			<SkeletonCard size="lg" />
+			<SkeletonCard />
+			<SkeletonCard />
+		</div>
+	)
+}
 
 export function HomePage() {
 	const { articles, is_loading } = useArticles()
 	const { t, i18n } = useTranslation()
-
 	const [search_query, setSearchQuery] = useState('')
 	const [active_pacers, setActivePacers] = useState(new Set())
 	const [active_source, setActiveSource] = useState('')
 
-	const handlePacerToggle = useCallback((pacer, opts) => {
-		setActivePacers(prev => {
-			if (opts?.exclusive) {
-				// From card badge: exclusive toggle (click = only this, click again = clear)
-				if (prev.size === 1 && prev.has(pacer)) return new Set()
+	const sources = useMemo(() => (
+		[...new Set(articles.map(article => article.source))].sort()
+	), [articles])
+	const filtered_articles = useMemo(() => (
+		filterArticles(articles, search_query, active_pacers, active_source)
+	), [active_pacers, active_source, articles, search_query])
+	const article_groups = useMemo(() => (
+		groupArticles(filtered_articles)
+	), [filtered_articles])
+
+	const handlePacerToggle = useCallback((pacer, options) => {
+		setActivePacers(current_pacers => {
+			if (options?.exclusive) {
+				if (current_pacers.size === 1 && current_pacers.has(pacer)) return new Set()
 				return new Set([pacer])
 			}
-			// From FilterBar: multi-select toggle
-			const next = new Set(prev)
-			if (next.has(pacer)) next.delete(pacer)
-			else next.add(pacer)
-			return next
+			const next_pacers = new Set(current_pacers)
+			if (next_pacers.has(pacer)) next_pacers.delete(pacer)
+			else next_pacers.add(pacer)
+			return next_pacers
 		})
 	}, [])
 
-	const three_days_ago = useMemo(() => Date.now() - 3 * 24 * 3600 * 1000, [])
+	const handleDownload = useCallback((range) => {
+		const selected_articles = range === 'today'
+			? (article_groups[0]?.[1] || [])
+			: filtered_articles
+		const content = selected_articles
+			.map(article => articleToMarkdown(article, i18n.language))
+			.join('\n---\n\n')
+		const date_stamp = new Date().toISOString().slice(0, 10)
+		downloadMarkdown(`daily-digest-${range}-${date_stamp}.md`, content)
+	}, [article_groups, filtered_articles, i18n.language])
 
-	const sources = useMemo(() => {
-		const set = new Set(articles.map(a => a.source))
-		return [...set].sort()
-	}, [articles])
-
-	const filtered = useMemo(() => {
-		const matched = articles
-			.filter(a => new Date(a.published).getTime() > three_days_ago)
-			.filter(a => {
-				if (search_query) {
-					const q = search_query.toLowerCase()
-					const matches = (a.title || '').toLowerCase().includes(q)
-						|| (a.summary_en || '').toLowerCase().includes(q)
-						|| (a.summary_zh || '').toLowerCase().includes(q)
-						|| (a.keywords || []).some(k => k.toLowerCase().includes(q))
-					if (!matches) return false
-				}
-				if (active_pacers.size > 0 && !active_pacers.has(a.pacer)) return false
-				if (active_source && a.source !== active_source) return false
-				return true
-			})
-
-		// Group by source, sort each group by date (newest first)
-		const buckets = {}
-		for (const a of matched) {
-			if (!buckets[a.source]) buckets[a.source] = []
-			buckets[a.source].push(a)
-		}
-		for (const key of Object.keys(buckets)) {
-			buckets[key].sort((a, b) => new Date(b.published) - new Date(a.published))
-		}
-
-		// Round-robin interleave: one from each source in turn
-		const source_lists = Object.values(buckets)
-		const result = []
-		const max_len = Math.max(0, ...source_lists.map(s => s.length))
-		for (let i = 0; i < max_len; i++) {
-			for (const list of source_lists) {
-				if (i < list.length) result.push(list[i])
-			}
-		}
-		return result
-	}, [articles, search_query, active_pacers, active_source])
-
-	const grouped = useMemo(() => {
-		const groups = {}
-		for (const article of filtered) {
-			const date_key = new Date(article.published).toLocaleDateString('en-US', {
-				year: 'numeric', month: 'long', day: 'numeric',
-			})
-			if (!groups[date_key]) groups[date_key] = []
-			groups[date_key].push(article)
-		}
-		return groups
-	}, [filtered])
-
-	const handleDownloadToday = () => {
-		const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
-		const today_articles = grouped[today] || []
-		const content = today_articles.map(a => articleToMarkdown(a, i18n.language)).join('\n---\n\n')
-		downloadMarkdown(`daily-digest-${new Date().toISOString().slice(0, 10)}.md`, content)
-	}
-
-	const handleDownloadWeek = () => {
-		const content = filtered.map(a => articleToMarkdown(a, i18n.language)).join('\n---\n\n')
-		downloadMarkdown(`daily-digest-week-${new Date().toISOString().slice(0, 10)}.md`, content)
-	}
-
-	if (is_loading) {
-		return (
-			<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
-				<div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-					<div className="md:col-span-2"><SkeletonCard size="lg" /></div>
-					<div><SkeletonCard size="md" /></div>
-					<div><SkeletonCard size="md" /></div>
-					<div><SkeletonCard size="md" /></div>
-					<div><SkeletonCard size="md" /></div>
-				</div>
-			</div>
-		)
-	}
+	if (is_loading) return <LoadingState />
 
 	return (
-		<div className="pt-4 max-w-5xl mx-auto px-4 pb-16">
+		<div className="page-shell home-page">
+			<HeroSection article_count={filtered_articles.length} source_count={sources.length} />
 			<FilterBar
 				search_query={search_query}
 				onSearchChange={setSearchQuery}
@@ -126,80 +225,45 @@ export function HomePage() {
 				onSourceChange={setActiveSource}
 			/>
 
-			{Object.entries(grouped).map(([date, date_articles], group_idx) => (
-				<section key={date} className="mb-10">
-					<div className="flex items-center justify-between mb-4">
-						<h2 className="font-serif text-lg font-semibold text-text-primary dark:text-slate-200">
-							{formatDateLabel(date, t)}
-						</h2>
-						<span className="text-sm text-text-muted dark:text-slate-400">
-							{date_articles.length} {t('home.posts')}
-						</span>
-					</div>
-
-					{/* Magazine layout: first group gets featured card */}
-					{group_idx === 0 && date_articles.length >= 3 ? (
-						<>
-							<div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
-								<div className="md:col-span-2" style={{ animationDelay: '0ms', animation: 'fadeInUp 0.3s ease-out both' }}>
-									<FeaturedCard article={date_articles[0]} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
-								</div>
-								<div className="space-y-4">
-									{date_articles.slice(1, 3).map((article, i) => (
-										<div key={article.id} style={{ animationDelay: `${(i + 1) * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-											<ArticleCard article={article} compact onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
-										</div>
-									))}
-								</div>
-							</div>
-							{date_articles.length > 3 && (
-								<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-									{date_articles.slice(3).map((article, i) => (
-										<div key={article.id} style={{ animationDelay: `${(i + 3) * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-											<ArticleCard article={article} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
-										</div>
-									))}
-								</div>
-							)}
-						</>
-					) : (
-						<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-							{date_articles.map((article, i) => (
-								<div key={article.id} style={{ animationDelay: `${i * 50}ms`, animation: 'fadeInUp 0.3s ease-out both' }}>
-									<ArticleCard article={article} onPacerToggle={handlePacerToggle} onKeywordSearch={setSearchQuery} />
-								</div>
-							))}
-						</div>
-					)}
-				</section>
+			{article_groups.map(([date_key, date_articles], index) => (
+				<ArticleGroup
+					key={date_key}
+					date_key={date_key}
+					articles={date_articles}
+					is_first={index === 0}
+					onPacerToggle={handlePacerToggle}
+					onKeywordSearch={setSearchQuery}
+				/>
 			))}
 
-			{Object.keys(grouped).length === 0 && (
-				<p className="text-text-muted dark:text-slate-400 text-center py-12">
-					{search_query || active_pacers.size > 0 || active_source
-						? (t('home.no_results') || 'No articles match your filters. Try adjusting your search.')
-						: 'No articles from the last 7 days.'}
-				</p>
+			{article_groups.length === 0 && (
+				<div className="empty-state">
+					<span aria-hidden="true">∅</span>
+					<h2>{t('home.no_results_title')}</h2>
+					<p>{t('home.no_results')}</p>
+				</div>
 			)}
 
-			{filtered.length > 0 && (
-				<div className="flex gap-4 mt-8">
-					<button onClick={handleDownloadToday} className="text-sm text-accent hover:underline cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none rounded px-2 py-1">
-						{t('home.download_today')}
-					</button>
-					<button onClick={handleDownloadWeek} className="text-sm text-accent hover:underline cursor-pointer focus:ring-2 focus:ring-accent focus:outline-none rounded px-2 py-1">
-						{t('home.download_week')}
-					</button>
+			{filtered_articles.length > 0 && (
+				<div className="download-panel">
+					<div>
+						<p className="eyebrow">{t('home.keep_reading')}</p>
+						<h2>{t('home.export_title')}</h2>
+					</div>
+					<div className="download-panel__actions">
+						<button type="button" onClick={() => handleDownload('today')}>
+							{t('home.download_today')}
+						</button>
+						<button
+							type="button"
+							className="clay-button"
+							onClick={() => handleDownload('week')}
+						>
+							{t('home.download_week')}
+						</button>
+					</div>
 				</div>
 			)}
 		</div>
 	)
-}
-
-function formatDateLabel(date_str, t) {
-	const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
-	const yesterday = new Date(Date.now() - 86400000).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
-	if (date_str === today) return t('home.today')
-	if (date_str === yesterday) return t('home.yesterday')
-	return date_str
 }
