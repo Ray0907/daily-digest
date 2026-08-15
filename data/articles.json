@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-08-15T08:51:11.751Z",
+  "last_updated": "2026-08-15T22:07:27.547Z",
   "articles": [
+    {
+      "id": "dac893e2eede1aaf",
+      "title": "Concurrent Servers: Part 7 - Rust",
+      "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-08-15T16:41:00.000Z",
+      "summary_en": "This article is the seventh installment in a series on building concurrent network servers, specifically focusing on implementation within the Rust programming language. It explores how Rust handles state machine protocols and concurrency compared to previously discussed methods.",
+      "summary_zh": "本文是建構並發網路伺服器系列文章的第七篇，重點探討如何使用 Rust 程式語言實作網路伺服器。文中展示了 Rust 如何處理狀態機協定，並與該系列先前討論的並發模型進行比較。",
+      "keywords": [
+        "Rust",
+        "concurrency",
+        "network server",
+        "state machine",
+        "async"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical guide providing code implementation and walkthroughs for building a server in Rust.",
+      "pacer_reason_zh": "本文為技術指南，提供了使用 Rust 建構伺服器的程式碼實作與逐步說明。"
+    },
+    {
+      "id": "a2f8fa6219fb39a3",
+      "title": "Reading List — 08/15/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-08152026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-15T12:02:38.000Z",
+      "summary_en": "This reading list covers a diverse range of topics, including trends in home price declines and updates on the Strategic Petroleum Reserve. It also highlights recent business developments such as fundraising efforts by The Boring Company.",
+      "summary_zh": "本期閱讀清單涵蓋了多項議題，包括房價下跌趨勢以及戰略石油儲備的最新動態。同時也整理了諸如無聊公司（The Boring Company）融資等產業相關的商業發展資訊。",
+      "keywords": [
+        "real estate",
+        "energy",
+        "business",
+        "The Boring Company",
+        "market trends"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a curated list of links and topics serving as reference material for readers.",
+      "pacer_reason_zh": "該文章為精選連結與主題的彙編，主要作為讀者的參考資料使用。"
+    },
+    {
+      "id": "3bf6f3f056aea655",
+      "title": "This Week in Package Management: 15 August 2026",
+      "url": "https://nesbitt.io/2026/08/15/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-15T10:00:00.000Z",
+      "summary_en": "This weekly digest highlights recent updates in package management tools, including major releases like pnpm 12, Hatch 1.18.0, and Renovate 44.x. It also covers DNF5 feature additions and critical security patches for Flatpak alongside a comprehensive list of version updates for various ecosystem tools.",
+      "summary_zh": "本週軟體套件管理摘要整理了 pnpm 12、Hatch 1.18.0 與 Renovate 等工具的最新更新。內容涵蓋了 DNF5 的功能改進、Flatpak 的安全性修復，以及多款常用套件管理工具的最新版本清單。",
+      "keywords": [
+        "package management",
+        "pnpm",
+        "Hatch",
+        "Renovate",
+        "software updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list of software releases, updates, and security advisories for various package management tools.",
+      "pacer_reason_zh": "本文作為各種套件管理工具發布、更新與安全性建議的週期性參考清單。"
+    },
+    {
+      "id": "a6e41c0e0e3fe382",
+      "title": "Probability of correcting errors",
+      "url": "https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-15T16:33:56.000Z",
+      "summary_en": "This post discusses the mathematical principles behind error-correcting codes, using the Mariner 9 probe's Hadamard code as a practical example. It explains how these codes are designed to recover original data even when a specific number of bits are corrupted during transmission.",
+      "summary_zh": "本文探討錯誤修正碼的數學原理，並以水手9號探測器使用的 Hadamard 碼作為實際案例。文中說明了這些代碼如何設計，確保在傳輸過程中即便有特定數量的位元損壞，原始資料仍能被正確復原。",
+      "keywords": [
+        "error-correcting codes",
+        "Hadamard code",
+        "data integrity",
+        "mathematics",
+        "Mariner 9"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the fundamental concepts and theoretical mechanics behind error-correcting codes.",
+      "pacer_reason_zh": "本文旨在解釋錯誤修正碼背後的基本概念與理論運作機制。"
+    },
+    {
+      "id": "6bc08f2dc52e4612",
+      "title": "Compressing a Hadamard matrix",
+      "url": "https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-15T15:40:43.000Z",
+      "summary_en": "This article discusses the mathematical properties and practical applications of Hadamard matrices, including their use in error-correcting codes and sphere packings. It focuses on the technical challenge and methodology of compressing these specific orthogonal matrices.",
+      "summary_zh": "本文探討了 Hadamard 矩陣的數學特性及其應用，包括在錯誤更正碼與球體填充中的實例。文章重點介紹了壓縮這類正交矩陣的技術挑戰與方法。",
+      "keywords": [
+        "Hadamard matrix",
+        "mathematics",
+        "data compression",
+        "orthogonal matrix",
+        "error correction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical concept of Hadamard matrices and their functional characteristics.",
+      "pacer_reason_zh": "本文旨在解釋 Hadamard 矩陣的數學概念及其功能特性。"
+    },
+    {
+      "id": "6989e085a6c9a468",
+      "title": "Site update: a few posts have been removed",
+      "url": "https://xeiaso.net/notes/2026/blogposts-removed/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-15T00:00:00.000Z",
+      "summary_en": "The author provides a brief update stating that several blog posts have been removed from the site. The primary reason cited for this purge is the author's negative personal experience with hospital medication.",
+      "summary_zh": "作者發布了一則網站更新公告，說明網站已刪除部分文章。文中簡短提到移除的原因與作者對醫院藥物的負面親身經歷有關。",
+      "keywords": [
+        "blog update",
+        "site maintenance",
+        "personal update",
+        "Xe Iaso",
+        "content removal"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post functions as a brief status update providing the 'what' and 'why' regarding site content changes.",
+      "pacer_reason_zh": "此貼文作為簡短的狀態更新，說明了網站內容變動的現況與原因。"
+    },
+    {
+      "id": "83aa9a01db13c26c",
+      "title": "Book Review: Slags by Emma Jane Unsworth ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-15T11:34:42.000Z",
+      "summary_en": "This blog post serves as a personal reflection and review of Emma Jane Unsworth's book, 'Slags.' The author praises the realistic characterization of 1990s youth culture while questioning the tonal balance between tragedy and comedy.",
+      "summary_zh": "這篇部落格文章對 Emma Jane Unsworth 的小說《Slags》進行了個人書評。作者讚揚了書中對 90 年代青少年文化的寫實刻畫，同時也對書中悲喜劇的基調平衡提出了個人的反思。",
+      "keywords": [
+        "book review",
+        "Emma Jane Unsworth",
+        "Slags",
+        "1990s culture",
+        "literature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily a conceptual exploration and subjective reflection on a work of literature.",
+      "pacer_reason_zh": "內容主要為對文學作品的概念性探討與主觀反思。"
+    },
     {
       "id": "9f09be02135bd573",
       "title": "Training a Reinforcement Learning Model to Play Bonk.io",

@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 15 Aug 2026 08:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:07:27 GMT</lastBuildDate>
     
+    <item>
+      <title>Concurrent Servers: Part 7 - Rust</title>
+      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
+      <guid>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</guid>
+      <pubDate>Sat, 15 Aug 2026 16:41:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article is the seventh installment in a series on building concurrent network servers, specifically focusing on implementation within the Rust programming language. It explores how Rust handles state machine protocols and concurrency compared to previously discussed methods.</description>
+    </item>
+
+    <item>
+      <title>Reading List — 08/15/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-08152026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-08152026</guid>
+      <pubDate>Sat, 15 Aug 2026 12:02:38 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This reading list covers a diverse range of topics, including trends in home price declines and updates on the Strategic Petroleum Reserve. It also highlights recent business developments such as fundraising efforts by The Boring Company.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 15 August 2026</title>
+      <link>https://nesbitt.io/2026/08/15/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/08/15/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 15 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This weekly digest highlights recent updates in package management tools, including major releases like pnpm 12, Hatch 1.18.0, and Renovate 44.x. It also covers DNF5 feature additions and critical security patches for Flatpak alongside a comprehensive list of version updates for various ecosystem tools.</description>
+    </item>
+
+    <item>
+      <title>Probability of correcting errors</title>
+      <link>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</guid>
+      <pubDate>Sat, 15 Aug 2026 16:33:56 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the mathematical principles behind error-correcting codes, using the Mariner 9 probe's Hadamard code as a practical example. It explains how these codes are designed to recover original data even when a specific number of bits are corrupted during transmission.</description>
+    </item>
+
+    <item>
+      <title>Compressing a Hadamard matrix</title>
+      <link>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
+      <pubDate>Sat, 15 Aug 2026 15:40:43 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the mathematical properties and practical applications of Hadamard matrices, including their use in error-correcting codes and sphere packings. It focuses on the technical challenge and methodology of compressing these specific orthogonal matrices.</description>
+    </item>
+
+    <item>
+      <title>Site update: a few posts have been removed</title>
+      <link>https://xeiaso.net/notes/2026/blogposts-removed/</link>
+      <guid>https://xeiaso.net/notes/2026/blogposts-removed/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>The author provides a brief update stating that several blog posts have been removed from the site. The primary reason cited for this purge is the author's negative personal experience with hospital medication.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Slags by Emma Jane Unsworth ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</guid>
+      <pubDate>Sat, 15 Aug 2026 11:34:42 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post serves as a personal reflection and review of Emma Jane Unsworth's book, 'Slags.' The author praises the realistic characterization of 1990s youth culture while questioning the tonal balance between tragedy and comedy.</description>
+    </item>
+
     <item>
       <title>Training a Reinforcement Learning Model to Play Bonk.io</title>
       <link>https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</link>
@@ -841,69 +904,6 @@
       <pubDate>Sun, 09 Aug 2026 08:13:00 GMT</pubDate>
       <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
       <description>The author documents a multi-year investigation into a Zsh bug that caused intermittent history data loss. By forcing the shell to crash and analyzing core dumps, they identified and fixed the issue, which was ultimately resolved in Zsh 5.9.2.</description>
-    </item>
-
-    <item>
-      <title>DNA and Bessel functions</title>
-      <link>https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</guid>
-      <pubDate>Sun, 09 Aug 2026 17:17:42 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the unexpected connection between the helical structure of DNA and Bessel functions. It highlights how X-ray diffraction patterns from helical structures naturally involve these mathematical functions as described in the foundational work of Cochran, Crick, and Vand.</description>
-    </item>
-
-    <item>
-      <title>A simple range reduction method</title>
-      <link>https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</guid>
-      <pubDate>Sun, 09 Aug 2026 16:46:59 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post introduces a range reduction method developed by Cody and Waite, designed to handle moderately large arguments for calculating cosine. It addresses the common pitfalls of trigonometric calculations by providing a practical approach to pre-processing inputs.</description>
-    </item>
-
-    <item>
-      <title>Anubis v1.27.0: Moenbryda Wilfsunnwyn</title>
-      <link>https://anubis.techaro.lol/blog/release/v1.27.0/</link>
-      <guid>https://anubis.techaro.lol/blog/release/v1.27.0/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This post announces the release of Anubis version 1.27.0, titled 'Moenbryda Wilfsunnwyn.' It continues the author's tradition of naming software updates after specific cultural or fictional figures.</description>
-    </item>
-
-    <item>
-      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
-      <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</guid>
-      <pubDate>Sat, 08 Aug 2026 22:36:03 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has made 'auto mode' the default for Claude Code across Pro, Max, and Team plans following tests demonstrating its superior security. Evaluation data shows that auto mode blocked 89% of harmful commands, significantly outperforming human reviewers who only identified 13.6% of the same threats.</description>
-    </item>
-
-    <item>
-      <title>Advanced AI sycophancy</title>
-      <link>https://seangoedecke.com/advanced-ai-sycophancy/</link>
-      <guid>https://seangoedecke.com/advanced-ai-sycophancy/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the phenomenon of AI sycophancy, where language models prioritize confirming user biases over providing objective information. It examines the technical causes and potential risks associated with models that prioritize agreeableness over accuracy.</description>
-    </item>
-
-    <item>
-      <title>I got an email about resistance</title>
-      <link>https://seangoedecke.com/i-got-an-email-about-resistance/</link>
-      <guid>https://seangoedecke.com/i-got-an-email-about-resistance/</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This post reflects on the experience of receiving an email regarding the concept of resistance. It explores the personal and theoretical implications of confronting internal or external opposition.</description>
-    </item>
-
-    <item>
-      <title>Reading List 08/08/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-08082026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-08082026</guid>
-      <pubDate>Sat, 08 Aug 2026 12:01:03 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This reading list explores diverse industry challenges, including the impact of the Endangered Species Act on housing and the manufacturing hurdles facing LEGO's 3D printing. It also covers technical advancements in robotic welding for shipbuilding and the evolution of modular data center design.</description>
     </item>
   </channel>
 </rss>
