@@ -1,6 +1,70 @@
 {
   "nodes": [
     {
+      "id": "79efbb054d4af9fc",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "pacer": "E",
+      "keywords": [
+        "Qwen 3.8",
+        "LLM",
+        "AI Benchmarks",
+        "Reasoning Effort",
+        "Local LLM"
+      ],
+      "published": "2026-08-16T22:00:39.000Z"
+    },
+    {
+      "id": "e27bba9b0711b6a2",
+      "title": "Quoting Dario Amodei",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "pacer": "C",
+      "keywords": [
+        "Dario Amodei",
+        "Anthropic",
+        "AI Trust",
+        "Public Perception",
+        "Tech Ethics"
+      ],
+      "published": "2026-08-16T15:05:36.000Z"
+    },
+    {
+      "id": "4acdb195eb67acda",
+      "title": "Thoughts on visiting the Edinburgh Fringe as a newbie",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/",
+      "pacer": "A",
+      "keywords": [
+        "Edinburgh Fringe",
+        "festival",
+        "travel",
+        "arts",
+        "experience"
+      ],
+      "published": "2026-08-16T11:34:21.000Z"
+    },
+    {
+      "id": "1c6d0128edddf4b1",
+      "title": "AI text watermarking is not a big deal",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "watermarking",
+        "text generation",
+        "technology policy",
+        "digital security"
+      ],
+      "published": "2026-08-16T00:00:00.000Z"
+    },
+    {
       "id": "dac893e2eede1aaf",
       "title": "Concurrent Servers: Part 7 - Rust",
       "source": "Eli Bendersky's website",
@@ -47,6 +111,22 @@
         "error correction"
       ],
       "published": "2026-08-15T15:40:43.000Z"
+    },
+    {
+      "id": "a22cf7dd149bd8e0",
+      "title": "CORS Chat",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "pacer": "P",
+      "keywords": [
+        "CORS",
+        "LLM",
+        "Web Tool",
+        "SVG",
+        "Generative AI"
+      ],
+      "published": "2026-08-15T14:49:54.000Z"
     },
     {
       "id": "a2f8fa6219fb39a3",
@@ -367,70 +447,6 @@
         "data transmission"
       ],
       "published": "2026-08-13T23:54:21.000Z"
-    },
-    {
-      "id": "481e2b039322f78c",
-      "title": "sqlite-utils 4.2.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
-      "pacer": "P",
-      "keywords": [
-        "sqlite-utils",
-        "python",
-        "packaging",
-        "uv",
-        "dependency"
-      ],
-      "published": "2026-08-13T23:53:47.000Z"
-    },
-    {
-      "id": "dd09bb92d59e0121",
-      "title": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/",
-      "pacer": "C",
-      "keywords": [
-        "Edinburgh Fringe",
-        "theatre review",
-        "performance art",
-        "live music",
-        "costume design"
-      ],
-      "published": "2026-08-13T22:23:25.000Z"
-    },
-    {
-      "id": "21611efaa3a8bc40",
-      "title": "sqlite-utils 4.2",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-      "pacer": "R",
-      "keywords": [
-        "sqlite-utils",
-        "sqlite",
-        "software release",
-        "database",
-        "schema"
-      ],
-      "published": "2026-08-13T20:11:29.000Z"
-    },
-    {
-      "id": "2024bc366264733d",
-      "title": "llm-gemini 0.33",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-      "pacer": "P",
-      "keywords": [
-        "llm-gemini",
-        "Gemini 3.7 Flash",
-        "LLM",
-        "plugin",
-        "AI"
-      ],
-      "published": "2026-08-13T19:37:34.000Z"
     },
     {
       "id": "4ba9a7cddfd1303e",
@@ -1437,22 +1453,6 @@
         "Hilbert",
         "Epistemology",
         "Knowledge"
-      ],
-      "published": "2026-08-02T00:00:00.000Z"
-    },
-    {
-      "id": "08335c8dfd8f76e3",
-      "title": "Giving and taking credit in big tech companies",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/giving-and-taking-credit/",
-      "pacer": "C",
-      "keywords": [
-        "tech culture",
-        "career growth",
-        "credit",
-        "collaboration",
-        "workplace dynamics"
       ],
       "published": "2026-08-02T00:00:00.000Z"
     },

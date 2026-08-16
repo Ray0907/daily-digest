@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-08-15T22:07:27.547Z",
+  "last_updated": "2026-08-16T22:07:27.670Z",
   "articles": [
+    {
+      "id": "4acdb195eb67acda",
+      "title": "Thoughts on visiting the Edinburgh Fringe as a newbie",
+      "url": "https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-16T11:34:21.000Z",
+      "summary_en": "This blog post shares a newcomer's perspective on attending the Edinburgh Fringe festival. The author evaluates the pros and cons of the experience after seeing 25 shows, highlighting the difficulty of navigating such a massive event.",
+      "summary_zh": "本文分享了一位新手首次參加愛丁堡藝穗節（Edinburgh Fringe）的心得。作者在觀賞了 25 場表演後，分析了這場盛大藝術節的優缺點，並點出在眾多選擇中挑選節目的挑戰。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "festival",
+        "travel",
+        "arts",
+        "experience"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post provides a subjective, narrative account of personal experience, effectively using the author's journey as an analogy for how a first-timer navigates a complex environment.",
+      "pacer_reason_zh": "文章以個人敘事的方式分享主觀體驗，透過作者的初次參與經驗，具體呈現了新手如何在複雜的活動環境中摸索。"
+    },
+    {
+      "id": "79efbb054d4af9fc",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-16T22:00:39.000Z",
+      "summary_en": "Simon Willison explores the newly released Qwen 3.8 27B vision-capable LLM, noting its impressive benchmark results and accessibility for local hardware. He highlights that the model's default 'xhigh' reasoning effort setting causes it to overthink simple tasks, suggesting users adjust this parameter for better efficiency.",
+      "summary_zh": "Simon Willison 介紹了新發布的 Qwen 3.8 27B 視覺模型，指出其基準測試表現亮眼且適合在本機端運行。他同時提醒，該模型預設的「xhigh」推理強度容易導致在處理簡單任務時過度思考，建議使用者調整此參數以提升執行效率。",
+      "keywords": [
+        "Qwen 3.8",
+        "LLM",
+        "AI Benchmarks",
+        "Reasoning Effort",
+        "Local LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on the author's hands-on experience and performance observations while running the model on specific hardware.",
+      "pacer_reason_zh": "本文基於作者在特定硬體上運行模型的實測經驗與效能觀察。"
+    },
+    {
+      "id": "e27bba9b0711b6a2",
+      "title": "Quoting Dario Amodei",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-16T15:05:36.000Z",
+      "summary_en": "Anthropic CEO Dario Amodei argues that public distrust of AI stems from a broader societal crisis of confidence in institutions rather than warnings about AI risks. He asserts that marketing campaigns are ineffective and that the industry must regain public trust by delivering tangible, beneficial results.",
+      "summary_zh": "Anthropic 執行長 Dario Amodei 認為，大眾對人工智慧的不信任源於對體制的廣泛不信任，而非對於 AI 風險的警告。他主張行銷活動無濟於事，業界必須透過提供實質且具益處的成果，才能贏回大眾的信任。",
+      "keywords": [
+        "Dario Amodei",
+        "Anthropic",
+        "AI Trust",
+        "Public Perception",
+        "Tech Ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of the root causes of public distrust in AI and the necessary strategic shifts for the industry.",
+      "pacer_reason_zh": "內容提供了關於大眾對 AI 不信任之根本原因的概念性分析，以及產業所需進行的策略轉變。"
+    },
+    {
+      "id": "a22cf7dd149bd8e0",
+      "title": "CORS Chat",
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-15T14:49:54.000Z",
+      "summary_en": "Simon Willison introduces 'CORS Chat,' a web-based interface for testing OpenAI-compatible chat endpoints like LM Studio and OpenRouter. The tool features browser-based conversation persistence, JSON export, and unique real-time SVG rendering of AI-generated code.",
+      "summary_zh": "Simon Willison 介紹了「CORS Chat」，這是一個用於測試 OpenAI 兼容聊天端點（如 LM Studio 和 OpenRouter）的網頁介面。該工具支援瀏覽器端對話儲存、JSON 匯出，並具備即時渲染 AI 生成 SVG 的特色功能。",
+      "keywords": [
+        "CORS",
+        "LLM",
+        "Web Tool",
+        "SVG",
+        "Generative AI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as an announcement and introduction to a practical tool built to solve a specific technical testing problem.",
+      "pacer_reason_zh": "此文章介紹並宣傳了一個為解決特定技術測試問題而開發的實用工具。"
+    },
+    {
+      "id": "1c6d0128edddf4b1",
+      "title": "AI text watermarking is not a big deal",
+      "url": "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-16T00:00:00.000Z",
+      "summary_en": "This article discusses the limitations and practical implications of AI text watermarking technology. It argues that such mechanisms are not as significant or transformative as often portrayed in industry discourse.",
+      "summary_zh": "本文探討了人工智慧文字浮水印技術的侷限性與實際影響。作者認為該技術在產業討論中常被過度渲染，其實際重要性並不如預期。",
+      "keywords": [
+        "AI",
+        "watermarking",
+        "text generation",
+        "technology policy",
+        "digital security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on providing a conceptual argument and critical perspective on the nature and significance of AI watermarking.",
+      "pacer_reason_zh": "本文側重於對 AI 浮水印的本質及其重要性進行概念性分析與批判性探討。"
+    },
     {
       "id": "dac893e2eede1aaf",
       "title": "Concurrent Servers: Part 7 - Rust",

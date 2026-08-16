@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 15 Aug 2026 22:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 22:07:27 GMT</lastBuildDate>
     
+    <item>
+      <title>Thoughts on visiting the Edinburgh Fringe as a newbie</title>
+      <link>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</guid>
+      <pubDate>Sun, 16 Aug 2026 11:34:21 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post shares a newcomer's perspective on attending the Edinburgh Fringe festival. The author evaluates the pros and cons of the experience after seeing 25 shows, highlighting the difficulty of navigating such a massive event.</description>
+    </item>
+
+    <item>
+      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
+      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
+      <guid>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
+      <pubDate>Sun, 16 Aug 2026 22:00:39 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison explores the newly released Qwen 3.8 27B vision-capable LLM, noting its impressive benchmark results and accessibility for local hardware. He highlights that the model's default 'xhigh' reasoning effort setting causes it to overthink simple tasks, suggesting users adjust this parameter for better efficiency.</description>
+    </item>
+
+    <item>
+      <title>Quoting Dario Amodei</title>
+      <link>https://simonwillison.net/2026/Aug/16/dario-amodei/</link>
+      <guid>https://simonwillison.net/2026/Aug/16/dario-amodei/</guid>
+      <pubDate>Sun, 16 Aug 2026 15:05:36 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic CEO Dario Amodei argues that public distrust of AI stems from a broader societal crisis of confidence in institutions rather than warnings about AI risks. He asserts that marketing campaigns are ineffective and that the industry must regain public trust by delivering tangible, beneficial results.</description>
+    </item>
+
+    <item>
+      <title>CORS Chat</title>
+      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
+      <guid>https://simonwillison.net/2026/Aug/15/cors-chat/</guid>
+      <pubDate>Sat, 15 Aug 2026 14:49:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces 'CORS Chat,' a web-based interface for testing OpenAI-compatible chat endpoints like LM Studio and OpenRouter. The tool features browser-based conversation persistence, JSON export, and unique real-time SVG rendering of AI-generated code.</description>
+    </item>
+
+    <item>
+      <title>AI text watermarking is not a big deal</title>
+      <link>https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</link>
+      <guid>https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article discusses the limitations and practical implications of AI text watermarking technology. It argues that such mechanisms are not as significant or transformative as often portrayed in industry discourse.</description>
+    </item>
+
     <item>
       <title>Concurrent Servers: Part 7 - Rust</title>
       <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
@@ -859,51 +904,6 @@
       <pubDate>Mon, 10 Aug 2026 04:26:49 GMT</pubDate>
       <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
       <description>This humorous short story uses the scenario of aliens attempting to access a government website to critique the frustration and poor user experience of reCAPTCHA systems. It highlights how over-engineered security measures can ironically thwart even the most advanced visitors.</description>
-    </item>
-
-    <item>
-      <title>Quoting OpenClaw</title>
-      <link>https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</guid>
-      <pubDate>Mon, 10 Aug 2026 02:05:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a security vulnerability in a gym-booking website where an AI agent, OpenClaw, successfully cancelled other users' reservations due to a lack of authorization checks. It underscores the critical need for robust security measures in AI-integrated platforms.</description>
-    </item>
-
-    <item>
-      <title>Quoting Claude Opus 5 system prompt</title>
-      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</guid>
-      <pubDate>Sun, 09 Aug 2026 23:31:39 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post explores how Anthropic uses system prompts to ensure Claude accurately addresses recent historical events, such as temporary model suspensions due to export controls. It highlights the mechanism for grounding AI responses in official company statements when topics fall outside the model's training data.</description>
-    </item>
-
-    <item>
-      <title>GitHub Models is now retired</title>
-      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</guid>
-      <pubDate>Sun, 09 Aug 2026 22:48:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>GitHub has officially retired its 'GitHub Models' feature, which allowed users to run LLM prompts directly within GitHub Actions. The author speculates that rising operational costs from automated coding agents led to the shutdown and shares how they migrated their workflow to a standard OpenAI API key.</description>
-    </item>
-
-    <item>
-      <title>SQLite compressed text-history prototypes</title>
-      <link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
-      <guid>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</guid>
-      <pubDate>Sun, 09 Aug 2026 22:05:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison explores a novel approach to storing document revision histories in SQLite by compressing a JSON array of all previous text versions. He suggests that using zlib or zstd compression on the entire history bundle effectively removes redundancy caused by repetitive string data.</description>
-    </item>
-
-    <item>
-      <title>Tracking down a Zsh history data loss bug 🐞</title>
-      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
-      <guid>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</guid>
-      <pubDate>Sun, 09 Aug 2026 08:13:00 GMT</pubDate>
-      <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
-      <description>The author documents a multi-year investigation into a Zsh bug that caused intermittent history data loss. By forcing the shell to crash and analyzing core dumps, they identified and fixed the issue, which was ultimately resolved in Zsh 5.9.2.</description>
     </item>
   </channel>
 </rss>
