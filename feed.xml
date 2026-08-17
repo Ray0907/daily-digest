@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 16 Aug 2026 22:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:11:08 GMT</lastBuildDate>
     
+    <item>
+      <title>How I think about reducing AI costs</title>
+      <link>https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article outlines a practical framework for optimizing AI expenditures by auditing token usage and eliminating legacy models. It emphasizes shifting to open-weights providers and resolving inefficiencies within agentic workflows to reduce operational costs.</description>
+    </item>
+
+    <item>
+      <title>Quake Shareware, a CD-ROM just a little too full</title>
+      <link>https://fabiensanglard.net/quake_shareware_cd/index.html</link>
+      <guid>https://fabiensanglard.net/quake_shareware_cd/index.html</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
+      <description>This article explores the historical release of the Quake shareware CD-ROM, highlighting how the distribution medium was pushed to its storage limits. It examines the technical challenges and design decisions behind packing early PC game content onto physical media.</description>
+    </item>
+
+    <item>
+      <title>Oops, Should’ve Thought of That</title>
+      <link>https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</link>
+      <guid>https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</guid>
+      <pubDate>Sun, 16 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The article explores how Large Language Models shift computing from rigid, exact instructions to intent-based extrapolation. This transition requires developers to practice greater foresight, as the ability of LLMs to guess user intent introduces new risks of unintended consequences.</description>
+    </item>
+
+    <item>
+      <title>Proportion of 1s in a Hadamard matrix</title>
+      <link>https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</guid>
+      <pubDate>Mon, 17 Aug 2026 01:16:39 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the mathematical construction of Hadamard matrices using the Kronecker product. It specifically explores how to generate sequences of these matrices and analyzes the resulting proportion of 1s within them.</description>
+    </item>
+
+    <item>
+      <title>How do functions like alloca allocate memory from the stack?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</guid>
+      <pubDate>Mon, 17 Aug 2026 15:54:40 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses the technical implementation of the alloca function and how it dynamically allocates memory on the stack. It explains the underlying mechanism used by the compiler and operating system to adjust the stack pointer during runtime.</description>
+    </item>
+
+    <item>
+      <title>And then the men with guns tell you to do it anyway</title>
+      <link>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:34:24 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post recounts the 2011 Egyptian revolution, focusing on how the government used mobile networks to send forced, pro-regime propaganda messages to citizens. It highlights the vulnerability of telecommunications infrastructure to state-mandated political manipulation.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/17/great-sousas-ghost/</link>
+      <guid>https://pluralistic.net/2026/08/17/great-sousas-ghost/</guid>
+      <pubDate>Mon, 17 Aug 2026 07:00:08 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post highlights Jennifer Jenkins' work, specifically her textbook 'Music Copyright, Creativity, and Culture,' which simplifies complex legal concepts surrounding copyright. It serves as a curated digest of links, emphasizing Jenkins' unique ability to make intellectual property law accessible and engaging through clear explanations and illustrative comics.</description>
+    </item>
+
+    <item>
+      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
+      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
+      <guid>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</guid>
+      <pubDate>Mon, 17 Aug 2026 15:21:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>404 Media used an AirTag to track a large shipment of books, revealing that they were delivered to an Amazon facility in Las Vegas known for destructive scanning. This investigation provides concrete evidence that Amazon is acquiring physical books to scan for their AI training processes.</description>
+    </item>
+
+    <item>
+      <title>Markdown SVG upgrades</title>
+      <link>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</link>
+      <guid>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</guid>
+      <pubDate>Sun, 16 Aug 2026 23:59:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces updates to his Markdown-to-SVG renderer tool, designed for seamlessly embedding and sharing SVG documents within Markdown. The tool allows users to render content by pasting Markdown directly or by linking to a CORS-friendly URL or GitHub Gist.</description>
+    </item>
+
     <item>
       <title>Thoughts on visiting the Edinburgh Fringe as a newbie</title>
       <link>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</link>
@@ -823,87 +904,6 @@
       <pubDate>Mon, 10 Aug 2026 20:43:10 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>This review of the Edinburgh Fringe play '15 Minutes of Shame' explores the stark realities of the adult content industry. It critiques the performance's portrayal of a couple who turns to OnlyFans to solve their financial troubles, only to face unexpected consequences.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/</guid>
-      <pubDate>Mon, 10 Aug 2026 17:45:36 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews Kat Ronson's Edinburgh Fringe show, 'Millennial Girl,' which uses nostalgic props and themes to humorously capture the experiences of growing up in the early 2000s. The performance resonates with millennials by revisiting cultural touchstones like MSN Messenger, MySpace, and the specific anxieties of that generation.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:57:27 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews Michael Brunström's comedy show at the Edinburgh Fringe, which satirically tackles the theme of AI through the lens of Austrian Imperialism and Swiss independence. The author critiques the performance for being overly rambling and struggling to maintain the balance between surrealist comedy and nonsensical content.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Rachel Creeger: Ultimate Jewish Mother 2026 ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-rachel-creeger-ultimate-jewish-mother-2026/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-rachel-creeger-ultimate-jewish-mother-2026/</guid>
-      <pubDate>Mon, 10 Aug 2026 13:56:32 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews Rachel Creeger's interactive comedy show at the Edinburgh Fringe, titled 'Ultimate Jewish Mother 2026'. The performance uniquely blends audience participation with personal anecdotes and musical elements, highlighting the comedian's distinct perspective as an orthodox Jewish performer.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Smut Slam ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:23:08 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post provides a review of the 'Smut Slam' event at the Edinburgh Fringe, a storytelling show featuring audience participation through written cards. While the reviewer found the format engaging, the quality of the evening depends heavily on the specific stories shared by the speakers each night.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:45:45 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post examines the surprising abundance of 'Heated Rivalry' musical parodies at the Edinburgh Fringe Festival. The author observes the trend of multiple productions capitalizing on this specific niche within a single city.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/</guid>
-      <pubDate>Sun, 09 Aug 2026 16:00:04 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author recounts attending their first comedy show at the Edinburgh Fringe, a 'pay what you want' stand-up performance by four Australian comedians. The review describes the experience as a pleasant but unremarkable, standard comedy set.</description>
-    </item>
-
-    <item>
-      <title>Against Doomerism</title>
-      <link>https://shkspr.mobi/blog/2026/08/against-doomerism/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/against-doomerism/</guid>
-      <pubDate>Sun, 09 Aug 2026 11:34:12 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author critiques the 'doomer' mindset, which reflexively assumes that societal issues will never improve and that proposed policies are doomed to fail. By highlighting the skepticism surrounding social media bans for minors, the post argues against performative cynicism that dismisses progress without considering constructive alternatives.</description>
-    </item>
-
-    <item>
-      <title>Failing after Success </title>
-      <link>https://idiallo.com/blog/failing-after-success</link>
-      <guid>https://idiallo.com/blog/failing-after-success</guid>
-      <pubDate>Mon, 10 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The article discusses the perceived decline of Stack Overflow, arguing that its diminishing traffic is actually a sign of 'mission accomplished' rather than failure. It suggests that while the platform successfully documented programming knowledge, it missed a massive opportunity to pivot into AI coding assistance by leveraging its unique repository of developer Q&amp;A.</description>
-    </item>
-
-    <item>
-      <title>When the Aliens Finally Came to Visit </title>
-      <link>https://idiallo.com/byte-size/when-the-aliens-came-to-visit</link>
-      <guid>https://idiallo.com/byte-size/when-the-aliens-came-to-visit</guid>
-      <pubDate>Mon, 10 Aug 2026 04:26:49 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>This humorous short story uses the scenario of aliens attempting to access a government website to critique the frustration and poor user experience of reCAPTCHA systems. It highlights how over-engineered security measures can ironically thwart even the most advanced visitors.</description>
     </item>
   </channel>
 </rss>

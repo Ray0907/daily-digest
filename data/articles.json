@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-08-16T22:07:27.670Z",
+  "last_updated": "2026-08-17T22:11:08.060Z",
   "articles": [
+    {
+      "id": "0a3f561add1fce28",
+      "title": "How I think about reducing AI costs",
+      "url": "https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-16T00:00:00.000Z",
+      "summary_en": "This article outlines a practical framework for optimizing AI expenditures by auditing token usage and eliminating legacy models. It emphasizes shifting to open-weights providers and resolving inefficiencies within agentic workflows to reduce operational costs.",
+      "summary_zh": "本文提出了一套優化人工智慧支出的實用框架，包括審計 Token 使用量以及淘汰舊型模型。重點在於轉向開源模型提供商，並解決代理工作流程中的低效率問題，以降低營運成本。",
+      "keywords": [
+        "AI cost optimization",
+        "token spend",
+        "open weights",
+        "AI agents",
+        "operational efficiency"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step framework for reducing costs, making it a procedural guide.",
+      "pacer_reason_zh": "本文提供了一套實用的步驟化框架來降低成本，屬於程序性指南。"
+    },
+    {
+      "id": "b961931d546f10f9",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-08-17T00:00:00.000Z",
+      "summary_en": "This article explores the historical release of the Quake shareware CD-ROM, highlighting how the distribution medium was pushed to its storage limits. It examines the technical challenges and design decisions behind packing early PC game content onto physical media.",
+      "summary_zh": "這篇文章探討了《Quake》共享軟體光碟的發行歷史，並強調了當時儲存媒體容量受限的困境。文章剖析了將早期電腦遊戲內容打包到實體光碟中的技術挑戰與設計決策。",
+      "keywords": [
+        "Quake",
+        "Shareware",
+        "CD-ROM",
+        "Retro Gaming",
+        "Fabien Sanglard"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the historical context and conceptual constraints of early software distribution.",
+      "pacer_reason_zh": "本文重點在於解釋早期軟體發行的歷史背景與概念性的技術限制。"
+    },
+    {
+      "id": "2a3a22cb8fbb8a4a",
+      "title": "Oops, Should’ve Thought of That",
+      "url": "https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-16T19:00:00.000Z",
+      "summary_en": "The article explores how Large Language Models shift computing from rigid, exact instructions to intent-based extrapolation. This transition requires developers to practice greater foresight, as the ability of LLMs to guess user intent introduces new risks of unintended consequences.",
+      "summary_zh": "本文探討了大型語言模型如何將運算方式從嚴格的指令導向轉變為意圖推論。這種轉變要求開發者具備更強的遠見，因為 LLM 猜測使用者意圖的能力，同時也帶來了更多不可預期的後果。",
+      "keywords": [
+        "LLM",
+        "software development",
+        "intent",
+        "coding",
+        "AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in software development caused by the integration of LLMs.",
+      "pacer_reason_zh": "本文探討了由大型語言模型整合所帶來的軟體開發範式概念轉移。"
+    },
+    {
+      "id": "67add3439a4ab48c",
+      "title": "Proportion of 1s in a Hadamard matrix",
+      "url": "https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-17T01:16:39.000Z",
+      "summary_en": "This article discusses the mathematical construction of Hadamard matrices using the Kronecker product. It specifically explores how to generate sequences of these matrices and analyzes the resulting proportion of 1s within them.",
+      "summary_zh": "本文探討如何利用克羅內克積（Kronecker product）來構建哈達瑪矩陣（Hadamard matrices）。文章進一步說明如何產生一系列矩陣，並分析其中 1 的比例分佈。",
+      "keywords": [
+        "Hadamard matrix",
+        "Kronecker product",
+        "Mathematics",
+        "Linear algebra",
+        "Matrix construction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and the theoretical process of constructing matrices.",
+      "pacer_reason_zh": "本文解釋了數學概念以及矩陣構建的理論過程。"
+    },
+    {
+      "id": "9776cb0e654a7960",
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-17T15:54:40.000Z",
+      "summary_en": "This article discusses the technical implementation of the alloca function and how it dynamically allocates memory on the stack. It explains the underlying mechanism used by the compiler and operating system to adjust the stack pointer during runtime.",
+      "summary_zh": "本文探討了 alloca 函式如何從堆疊中動態分配記憶體。文中說明了編譯器與作業系統在執行期間調整堆疊指標的技術機制。",
+      "keywords": [
+        "alloca",
+        "stack allocation",
+        "memory management",
+        "compiler",
+        "C programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying conceptual mechanism of how stack-based memory allocation functions work.",
+      "pacer_reason_zh": "本文解釋了堆疊記憶體分配函式運作背後的概念性機制。"
+    },
+    {
+      "id": "eafa5f066671af13",
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-17T11:34:24.000Z",
+      "summary_en": "This post recounts the 2011 Egyptian revolution, focusing on how the government used mobile networks to send forced, pro-regime propaganda messages to citizens. It highlights the vulnerability of telecommunications infrastructure to state-mandated political manipulation.",
+      "summary_zh": "本文回顧了 2011 年埃及革命期間，政府如何利用電信網路向公民發送強制性的親政權宣傳簡訊。文章強調了電信基礎設施在面對國家政治操弄時的脆弱性。",
+      "keywords": [
+        "Egypt",
+        "revolution",
+        "Vodafone",
+        "propaganda",
+        "telecommunications"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a historical case study documenting specific events during the Egyptian revolution.",
+      "pacer_reason_zh": "本文作為一個歷史案例研究，記錄了埃及革命期間發生的具體事件。"
+    },
+    {
+      "id": "6c22ae094f4ebe42",
+      "title": "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/17/great-sousas-ghost/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-17T07:00:08.000Z",
+      "summary_en": "This post highlights Jennifer Jenkins' work, specifically her textbook 'Music Copyright, Creativity, and Culture,' which simplifies complex legal concepts surrounding copyright. It serves as a curated digest of links, emphasizing Jenkins' unique ability to make intellectual property law accessible and engaging through clear explanations and illustrative comics.",
+      "summary_zh": "這篇文章介紹了 Jennifer Jenkins 的著作《音樂版權、創意與文化》，該書以通俗易懂的方式解析了複雜的版權法律概念。本文透過連結彙整的方式，強調了 Jenkins 如何運用圖表與簡明的解說，將艱澀的智慧財產權議題變得生動且易於理解。",
+      "keywords": [
+        "copyright",
+        "Jennifer Jenkins",
+        "public domain",
+        "intellectual property",
+        "law"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a curated reference list of links and resources, directing readers to expert commentary and academic materials.",
+      "pacer_reason_zh": "本文主要作為連結與資源的參考清單，引導讀者獲取專家評論與相關學術資料。"
+    },
+    {
+      "id": "8282daa933f2b919",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-17T15:21:29.000Z",
+      "summary_en": "404 Media used an AirTag to track a large shipment of books, revealing that they were delivered to an Amazon facility in Las Vegas known for destructive scanning. This investigation provides concrete evidence that Amazon is acquiring physical books to scan for their AI training processes.",
+      "summary_zh": "404 Media 利用 AirTag 追蹤一批大量書籍的運送過程，發現其最終送達了亞馬遜位於拉斯維加斯、以進行破壞性掃描聞名的設施。這項調查提供了具體證據，證實亞馬遜正透過收購實體書籍來進行人工智慧模型訓練。",
+      "keywords": [
+        "Amazon",
+        "AI training",
+        "404 Media",
+        "data harvesting",
+        "books"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses investigative reporting and tracking data (AirTag) to provide evidence of AI companies' practices regarding book acquisition.",
+      "pacer_reason_zh": "本文透過調查報導與追蹤數據（AirTag）作為證據，證實 AI 公司在取得書籍進行訓練方面的實作做法。"
+    },
+    {
+      "id": "b2b654098c8b61bd",
+      "title": "Markdown SVG upgrades",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-16T23:59:37.000Z",
+      "summary_en": "Simon Willison introduces updates to his Markdown-to-SVG renderer tool, designed for seamlessly embedding and sharing SVG documents within Markdown. The tool allows users to render content by pasting Markdown directly or by linking to a CORS-friendly URL or GitHub Gist.",
+      "summary_zh": "Simon Willison 介紹了他所開發的 Markdown 轉 SVG 渲染工具的更新，該工具旨在將 SVG 文件無縫嵌入並分享於 Markdown 中。使用者可以直接貼上 Markdown 文字或連結到 GitHub Gist 來進行渲染。",
+      "keywords": [
+        "Markdown",
+        "SVG",
+        "web tools",
+        "rendering",
+        "GitHub Gist"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains how to use a specific tool for rendering Markdown and SVG files.",
+      "pacer_reason_zh": "本文介紹瞭如何使用特定的工具來渲染 Markdown 和 SVG 文件。"
+    },
     {
       "id": "4acdb195eb67acda",
       "title": "Thoughts on visiting the Edinburgh Fringe as a newbie",
