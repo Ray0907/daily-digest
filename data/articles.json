@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-08-17T22:11:08.060Z",
+  "last_updated": "2026-08-18T22:09:54.639Z",
   "articles": [
+    {
+      "id": "db9a50f435d725c6",
+      "title": "I like 'em thick",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-08-18T15:02:15.000Z",
+      "summary_en": "The author reflects on their evolving relationship with writing, moving from an obsession with conciseness to a newfound appreciation for density and length. They argue that verbose prose can offer deeper engagement and stylistic richness, challenging the conventional academic emphasis on brevity.",
+      "summary_zh": "作者反思了自己對寫作態度的轉變，從過去執著於簡潔轉向欣賞豐富且厚重的文字。文章主張冗長的文風能帶來更深層次的互動與風格表現，並挑戰了學術界對精簡寫作的傳統要求。",
+      "keywords": [
+        "writing style",
+        "prose",
+        "composition",
+        "brevity",
+        "experimental history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual philosophy of writing styles, contrasting the value of brevity against density.",
+      "pacer_reason_zh": "本文探討了寫作風格的哲學概念，對比了簡潔與厚重文字各自的價值。"
+    },
+    {
+      "id": "5d774b9bbdf07599",
+      "title": "Weekly Update 517: Cyber Ransoms",
+      "url": "https://www.troyhunt.com/weekly-update-517/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-18T03:44:58.000Z",
+      "summary_en": "This update explores the evolving landscape of ransomware, highlighting that much of the activity is driven by extortion rather than traditional software-based locking. It discusses the challenges young cybercriminals face when attempting to launder and spend their illicit gains.",
+      "summary_zh": "本篇更新探討了勒索軟體當前的演變趨勢，指出許多攻擊實際上是單純的勒索行為，而非傳統的惡意軟體鎖定。文章並討論了年輕網路犯罪分子在試圖洗錢並使用非法獲利時所面臨的挑戰。",
+      "keywords": [
+        "ransomware",
+        "extortion",
+        "cybercrime",
+        "money laundering",
+        "security"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the current nature and conceptual shift of modern ransomware attacks.",
+      "pacer_reason_zh": "內容解釋了現代勒索軟體攻擊的本質及其概念上的轉變。"
+    },
+    {
+      "id": "35b019a4d87351a7",
+      "title": "my-personsal-agi",
+      "url": "https://chadnauseam.com/random/my-personsal-agi",
+      "source": "Chad Nauseam Home",
+      "source_url": "https://chadnauseam.com/",
+      "published": "2026-08-18T22:09:05.731Z",
+      "summary_en": "This article discusses the concept of personal AGI, exploring what it means to develop or utilize artificial general intelligence at an individual level. It examines the potential implications and personal applications of such technology.",
+      "summary_zh": "本文探討了個人通用人工智慧（Personal AGI）的概念，探討在個人層面上開發或運用通用人工智慧的意義。同時也檢視了此類技術的潛在影響與個人應用。",
+      "keywords": [
+        "AGI",
+        "Personal AI",
+        "Artificial Intelligence",
+        "Technology",
+        "Future"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and conceptualizing the idea of personal AGI.",
+      "pacer_reason_zh": "本文重點在於定義並探討個人通用人工智慧的概念。"
+    },
+    {
+      "id": "a910541c08348759",
+      "title": "AI Alignment as a Thought-Terminating Cliche",
+      "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-18T00:00:00.000Z",
+      "summary_en": "This piece critiques the term 'AI alignment' as a thought-terminating cliché that simplifies complex sociotechnical problems. It argues that the phrase is often used rhetorically to bypass critical inquiry into the actual mechanics and implications of AI safety.",
+      "summary_zh": "本文批評「AI 對齊」（AI alignment）一詞已成為一種終結思考的陳腔濫調，過度簡化了複雜的社會技術問題。作者認為該詞彙常被用作修辭手段，以迴避對 AI 安全實際運作機制與深層影響的批判性探討。",
+      "keywords": [
+        "AI alignment",
+        "rhetoric",
+        "critical thinking",
+        "AI safety",
+        "sociotechnical"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual framing of AI terminology and its philosophical implications.",
+      "pacer_reason_zh": "本文探討了 AI 術語的觀念架構及其背後的哲學意涵。"
+    },
+    {
+      "id": "291a9ed2b4c6aaaa",
+      "title": "Vim wants you to control, VSCode wants you to consume",
+      "url": "https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-08-18T16:26:05.000Z",
+      "summary_en": "The author compares the configuration philosophies of VSCode and Neovim, highlighting how VSCode focuses on consuming predefined commands while Neovim emphasizes controlling editor state through executable code. This reflection is sparked by the author's transition to a new role at Antithesis, where they are adopting NixOS and reconsidering their complex editor setup.",
+      "summary_zh": "作者比較了 VSCode 與 Neovim 在配置哲學上的差異，指出 VSCode 傾向於使用預定義的指令，而 Neovim 則強調透過可執行程式碼來控制編輯器狀態。這番反思源於作者加入新公司 Antithesis 並開始使用 NixOS，促使他重新審視自己複雜的編輯器設定。",
+      "keywords": [
+        "Neovim",
+        "VSCode",
+        "Editor Configuration",
+        "NixOS",
+        "Software Development"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the contrast between VSCode and Neovim as an analogy to explain fundamentally different software design philosophies: consumer-oriented versus control-oriented tools.",
+      "pacer_reason_zh": "本文透過對比 VSCode 與 Neovim 的差異，作為解釋「消費導向」與「控制導向」軟體設計哲學的類比。"
+    },
+    {
+      "id": "8539464d41907090",
+      "title": "Snakes and Ladders",
+      "url": "https://entropicthoughts.com/snakes-and-ladders",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-08-17T22:00:00.000Z",
+      "summary_en": "The article discusses the common use of themed 'Snakes and Ladders' board games in promotional material for children. It reflects on why these games are effective marketing tools by tapping into a child's imagination as they navigate the board.",
+      "summary_zh": "本文探討了將主題式「蛇梯棋」遊戲應用於兒童宣傳手冊的常見現象。作者分析了這種手法如何透過激發兒童的想像力，讓他們在遊戲過程中與品牌進行互動，進而達到有效的宣傳效果。",
+      "keywords": [
+        "Snakes and Ladders",
+        "Marketing",
+        "Children",
+        "Gamification",
+        "Promotion"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an observation and conceptual explanation of how promotional games function in the context of childhood engagement.",
+      "pacer_reason_zh": "本文屬於概念性文章，探討並解釋了促銷遊戲在兒童參與方面的功能與邏輯。"
+    },
+    {
+      "id": "7d779f0643d05f54",
+      "title": "Two-Factor Authentication Across Package Registries",
+      "url": "https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-18T10:00:00.000Z",
+      "summary_en": "This article examines the progress of two-factor authentication (2FA) implementation across major package registries. It highlights how different registries, such as npm and PyPI, are navigating the transition to mandatory security measures to close account-bypass vulnerabilities.",
+      "summary_zh": "本文探討了各大套件註冊中心在導入雙重驗證 (2FA) 的進度。文章分析了如 npm 與 PyPI 等平台如何透過逐步強制執行 2FA 政策，以修補帳戶安全漏洞並降低繞過授權的風險。",
+      "keywords": [
+        "2FA",
+        "package registries",
+        "npm",
+        "PyPI",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses data and registry-specific benchmarks to evaluate the current state of security adoption across various package ecosystems.",
+      "pacer_reason_zh": "本文透過實際數據與各套件生態系的現況評估，分析了安全機制採用的基準與進展。"
+    },
+    {
+      "id": "e05a4576fb58c3ba",
+      "title": "The imbalance theorem",
+      "url": "https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-18T15:54:57.000Z",
+      "summary_en": "The long-standing imbalance conjecture in graph theory has officially been proven by James Alexander Schreib and Yousof Yavari. The theorem establishes specific mathematical properties concerning the degrees of nodes connected by edges in graphs where no two adjacent nodes share the same degree.",
+      "summary_zh": "圖論中長久以來的「不平衡猜想」現已被證明為定理。數學家 James Alexander Schreib 和 Yousof Yavari 發表了相關證明，闡述了在相鄰節點度數均不相同的圖中，節點度數之間的數學關係。",
+      "keywords": [
+        "graph theory",
+        "imbalance theorem",
+        "mathematics",
+        "James Alexander Schreib",
+        "Yousof Yavari"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new mathematical theorem, focusing on the conceptual definition and background of the theory.",
+      "pacer_reason_zh": "本文旨在解釋一項新的數學定理，重點在於該理論的概念定義與背景說明。"
+    },
+    {
+      "id": "7fdfb77c65e1401b",
+      "title": "Mean distance to the sun",
+      "url": "https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-18T13:42:06.000Z",
+      "summary_en": "This article explores the mathematical definition of the average distance between a planet and a star in an elliptical orbit. It clarifies the relationship between orbital mechanics and the distinction between semi-major axes and time-averaged distances.",
+      "summary_zh": "本文探討了行星在橢圓軌道上與恆星之間的平均距離的數學定義。文章釐清了軌道力學中半長軸與時間平均距離之間的差異與關係。",
+      "keywords": [
+        "orbital mechanics",
+        "elliptical orbit",
+        "astronomy",
+        "mathematics",
+        "mean distance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the mathematics behind orbital distances.",
+      "pacer_reason_zh": "本文針對軌道距離背後的數學原理提供了概念性的解釋。"
+    },
+    {
+      "id": "3aa3e8b93c367b89",
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-17T14:00:00.000Z",
+      "summary_en": "This article discusses the low-level mechanics of how the alloca function dynamically allocates memory on the stack. It explains the specific CPU and compiler interactions required to adjust the stack pointer during runtime.",
+      "summary_zh": "這篇文章探討了 alloca 函式如何在堆疊（stack）上動態分配記憶體的底層機制。文中解釋了編譯器與 CPU 如何在執行期間調整堆疊指標以實現此功能。",
+      "keywords": [
+        "alloca",
+        "stack memory",
+        "memory allocation",
+        "C programming",
+        "compiler"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual mechanism behind stack-based memory allocation.",
+      "pacer_reason_zh": "該文章解釋了堆疊記憶體分配背後的概念性運作機制。"
+    },
+    {
+      "id": "0c38f7cf6e0576f1",
+      "title": "Pluralistic: IP can't save you from AI (18 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-18T14:48:19.000Z",
+      "summary_en": "Cory Doctorow argues that attempting to combat AI displacement through stricter intellectual property and anti-scraping laws is a flawed strategy. He asserts that workers should focus on labor and privacy rights instead, as copyright-based restrictions would cause widespread collateral damage to beneficial digital services.",
+      "summary_zh": "Cory Doctorow 主張，試圖透過更嚴格的智慧財產權法與禁止爬蟲技術來對抗 AI 取代人力是錯誤的策略。他認為創作者應關注勞工與隱私權，因為過度擴張著作權限制將對數位搜尋與網際網路檔案館等有益服務造成嚴重的連帶損害。",
+      "keywords": [
+        "AI",
+        "copyright",
+        "labor rights",
+        "scraping",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the limitations of intellectual property law in the context of labor rights and AI development.",
+      "pacer_reason_zh": "本文針對智慧財產權法在勞工權益與人工智慧發展背景下的侷限性，提出了概念性的分析與論點。"
+    },
+    {
+      "id": "d82f5875badeb539",
+      "title": "Mojo🔥 is now open source",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-18T21:39:20.000Z",
+      "summary_en": "Mojo has officially released its compiler and toolchain under an Apache 2 license, fulfilling a long-standing promise. The language has shifted its strategy from becoming a strict Python superset to focusing on GPU programming optimization while leveraging Python-inspired syntax.",
+      "summary_zh": "Mojo 已正式將其編譯器與工具鏈以 Apache 2 授權開源，履行了先前的承諾。該語言的發展策略已從追求成為 Python 的完全超集，轉向專注於優化 GPU 編程，並保留 Python 風格的語法。",
+      "keywords": [
+        "Mojo",
+        "open-source",
+        "Python",
+        "GPU",
+        "programming-language"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the evolution and current status of the Mojo programming language, providing a conceptual overview of its shift in development strategy.",
+      "pacer_reason_zh": "本文介紹了 Mojo 程式語言的演進與現況，提供了該語言發展策略轉變的概念性說明。"
+    },
+    {
+      "id": "e31db42fd1ba6c48",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-17T23:58:14.000Z",
+      "summary_en": "The Qwen 3.8 27B model has achieved a score of 52 on the Artificial Analysis Intelligence Index. Despite its smaller size, it performs competitively with much larger models like DeepSeek V4 Pro and GLM-5.2.",
+      "summary_zh": "Qwen 3.8 27B 模型在 Artificial Analysis 智慧指數中獲得了 52 分。儘管模型參數規模較小，其表現卻能與 DeepSeek V4 Pro 和 GLM-5.2 等超大型模型相媲美。",
+      "keywords": [
+        "Qwen",
+        "LLM",
+        "AI",
+        "Benchmark",
+        "Artificial Analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on presenting a specific benchmark score and comparing the performance of AI models based on empirical data.",
+      "pacer_reason_zh": "本文重點在於呈現具體的評測基準分數，並基於實驗數據比較不同 AI 模型的性能。"
+    },
+    {
+      "id": "88a121239d40a9ba",
+      "title": "Help peer",
+      "url": "https://seangoedecke.com/help-peer/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-18T00:00:00.000Z",
+      "summary_en": "The article is currently unavailable for analysis as the content snippet is empty. It is identified by the title 'Help peer', suggesting a potential focus on interpersonal assistance or professional collaboration.",
+      "summary_zh": "由於文章內容摘要為空，目前無法進行具體分析。根據標題「Help peer」，該文章可能涉及同儕協助或專業協作相關主題。",
+      "keywords": [
+        "peer support",
+        "collaboration",
+        "assistance",
+        "professional development",
+        "help"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "Insufficient content provided; classification is based on the title, which implies a conceptual discussion on helping peers.",
+      "pacer_reason_zh": "提供的內容不足；分類基於標題，推測其為關於協助同儕的概念性討論。"
+    },
     {
       "id": "0a3f561add1fce28",
       "title": "How I think about reducing AI costs",
