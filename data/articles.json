@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-08-18T22:09:54.639Z",
+  "last_updated": "2026-08-19T22:11:57.998Z",
   "articles": [
+    {
+      "id": "ca8e8971b4140b95",
+      "title": "Big little hexagon",
+      "url": "https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-19T00:22:36.000Z",
+      "summary_en": "This article discusses a recent research paper regarding the maximum-area polygon problem for a given number of sides and a diameter of one. It highlights the surprising geometric findings, noting that while regular polygons are optimal for odd numbers of sides, the pattern for even sides is more complex.",
+      "summary_zh": "本文討論了一篇關於在給定直徑為一的情況下，尋找具有最大面積的多邊形的研究報告。文章指出，雖然正多邊形在邊數為奇數時是最佳解，但邊數為偶數時的情況則更為複雜且出人意料。",
+      "keywords": [
+        "geometry",
+        "polygon",
+        "mathematics",
+        "maximum-area",
+        "research"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains a mathematical concept and discusses theoretical findings from a research paper.",
+      "pacer_reason_zh": "該文章解釋了數學概念並探討了研究論文中的理論發現。"
+    },
+    {
+      "id": "5719d0e304ccccdf",
+      "title": "What Is Reasoning",
+      "url": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-08-19T00:00:00.000Z",
+      "summary_en": "This article explores the technical nature of AI 'reasoning traces,' explaining that they are simply text generated in a scratchpad area rather than a mysterious internal process. It clarifies that these traces are managed through specific response formats and system prompts rather than being fundamental properties of the sampling process.",
+      "summary_zh": "本文探討了人工智慧「推理軌跡」（reasoning traces）的技術本質，說明這些軌跡本質上只是模型在暫存區生成的文字，而非神秘的內部過程。文章釐清了這些軌跡是透過特定的回應格式和系統提示詞來管理，而非抽樣過程中的基本屬性。",
+      "keywords": [
+        "AI Reasoning",
+        "LLM",
+        "Chain-of-Thought",
+        "Open-weight Models",
+        "System Prompt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how AI reasoning traces function and demystifies the technical mechanism behind them.",
+      "pacer_reason_zh": "本文針對 AI 推理軌跡的運作方式提供了概念性的解釋，並解構其背後的技術機制。"
+    },
+    {
+      "id": "67c149b3ed4ff832",
+      "title": "Why did the Microsoft Entertainment Pack for Windows have a special sticker announcing that it also had Tetris?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-18T14:00:00.000Z",
+      "summary_en": "This post explains the historical reason behind a special sticker on the Microsoft Entertainment Pack for Windows. It reveals that the prominent inclusion of Tetris was a contingency plan to ensure the package's market appeal.",
+      "summary_zh": "這篇文章解釋了 Microsoft Entertainment Pack for Windows 包裝上出現特殊 Tetris 貼紙的歷史原因。文中揭露了這項突出的標示其實是一種應變計畫，旨在確保該軟體包的市場吸引力。",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "Tetris",
+        "Entertainment Pack",
+        "Software history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying reason or 'why' behind a specific historical business decision.",
+      "pacer_reason_zh": "內容解釋了特定歷史商業決策背後的緣由與概念。"
+    },
+    {
+      "id": "9e672fc65cc14bb9",
+      "title": "Anubis continues to expose new ways people configure webservers",
+      "url": "https://xeiaso.net/notes/2026/anubis-csp-worker-hell/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-19T00:00:00.000Z",
+      "summary_en": "This post highlights how web server administrators often unintentionally break website functionality by disabling browser features. It emphasizes the importance of understanding the side effects of configuration changes to avoid difficult debugging scenarios.",
+      "summary_zh": "這篇文章指出網站管理員常因關閉瀏覽器功能而導致網頁出現難以偵錯的故障。文章強調深入理解配置更改的副作用，對於避免不必要的技術問題至關重要。",
+      "keywords": [
+        "web servers",
+        "browser features",
+        "debugging",
+        "configuration",
+        "system administration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual relationship between configuration choices and resulting system behaviors.",
+      "pacer_reason_zh": "本文解釋了系統配置選項與最終系統行為之間的觀念性關聯。"
+    },
+    {
+      "id": "5835dd7c3ff26566",
+      "title": "Asymmetric Agents",
+      "url": "https://shkspr.mobi/blog/2026/08/asymmetric-agents/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-19T11:34:52.000Z",
+      "summary_en": "The post explores the concept of 'asymmetric agents' in AI, critiquing the long-standing industry trope of autonomous personal digital servants. It highlights the practical difficulties and underlying power dynamics involved in delegating complex negotiations and tasks to AI agents.",
+      "summary_zh": "這篇文章探討了人工智慧領域中「非對稱代理人」的概念，並反思了長期以來關於個人自主代理人的業界願景。作者分析了將複雜談判與任務委託給人工智慧代理人在實際操作與權力架構上面臨的挑戰。",
+      "keywords": [
+        "AI agents",
+        "automation",
+        "asymmetry",
+        "digital assistant",
+        "artificial intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique and exploration of the theoretical promises vs. realities of autonomous AI agents.",
+      "pacer_reason_zh": "該文章旨在批判性探討自主人工智慧代理人的理論願景與現實落差，屬於概念性內容。"
+    },
+    {
+      "id": "b735594b3c42b099",
+      "title": "Pluralistic: The ordinariness of evil (19 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/19/banaility/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-19T07:36:27.000Z",
+      "summary_en": "Cory Doctorow argues that the exaggerated 'existential risk' narratives surrounding AI are marketing strategies meant to boost the perceived potential of products that currently function only as niche tools. He positions AI as a mundane technology, suggesting its actual utility is marginal and often overshadowed by the hype surrounding its development.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）認為，圍繞人工智慧的「生存風險」誇大敘事，實質上是為了推高產品感知價值的行銷策略，而這些產品目前僅具備有限的利基功能。他將人工智慧視為一種平凡的技術，指出其實際效用相當邊緣，往往被圍繞其發展的過度炒作所掩蓋。",
+      "keywords": [
+        "AI",
+        "tech-criticism",
+        "Cory-Doctorow",
+        "marketing-hype",
+        "technology-policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of AI's current industry status, deconstructing the rhetorical strategies used to inflate its perceived capabilities.",
+      "pacer_reason_zh": "本文對人工智慧當前的產業地位進行了概念性分析，拆解了用於膨脹其感知能力的修辭策略。"
+    },
+    {
+      "id": "a3d396c8308ccd72",
+      "title": "Hands-on with Raspberry Pi's CM5 Programming Jig",
+      "url": "https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-19T07:13:00.000Z",
+      "summary_en": "Jeff Geerling explores the Raspberry Pi CM5 Programming Jig as a solution for streamlining the tedious process of flashing multiple Compute Modules. The post highlights the difficulty of managing mass deployments and how specialized hardware can simplify device configuration.",
+      "summary_zh": "Jeff Geerling 探討了 Raspberry Pi CM5 編程夾具，以此解決大量燒錄運算模組時的繁瑣過程。文章強調了管理多設備部署的挑戰，並說明了專業硬體如何簡化設備設定。",
+      "keywords": [
+        "Raspberry Pi",
+        "CM5",
+        "Compute Module",
+        "Hardware",
+        "Automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on a specific tool and process for managing and configuring hardware, functioning as a hands-on guide or review.",
+      "pacer_reason_zh": "內容側重於管理與設定硬體的特定工具與流程，屬於實作教學或評測性質。"
+    },
     {
       "id": "db9a50f435d725c6",
       "title": "I like 'em thick",

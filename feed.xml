@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 18 Aug 2026 22:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:11:58 GMT</lastBuildDate>
     
+    <item>
+      <title>Big little hexagon</title>
+      <link>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:22:36 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses a recent research paper regarding the maximum-area polygon problem for a given number of sides and a diameter of one. It highlights the surprising geometric findings, noting that while regular polygons are optimal for odd numbers of sides, the pattern for even sides is more complex.</description>
+    </item>
+
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>This article explores the technical nature of AI 'reasoning traces,' explaining that they are simply text generated in a scratchpad area rather than a mysterious internal process. It clarifies that these traces are managed through specific response formats and system prompts rather than being fundamental properties of the sampling process.</description>
+    </item>
+
+    <item>
+      <title>Why did the Microsoft Entertainment Pack for Windows have a special sticker announcing that it also had Tetris?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</guid>
+      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains the historical reason behind a special sticker on the Microsoft Entertainment Pack for Windows. It reveals that the prominent inclusion of Tetris was a contingency plan to ensure the package's market appeal.</description>
+    </item>
+
+    <item>
+      <title>Anubis continues to expose new ways people configure webservers</title>
+      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
+      <guid>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post highlights how web server administrators often unintentionally break website functionality by disabling browser features. It emphasizes the importance of understanding the side effects of configuration changes to avoid difficult debugging scenarios.</description>
+    </item>
+
+    <item>
+      <title>Asymmetric Agents</title>
+      <link>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</guid>
+      <pubDate>Wed, 19 Aug 2026 11:34:52 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The post explores the concept of 'asymmetric agents' in AI, critiquing the long-standing industry trope of autonomous personal digital servants. It highlights the practical difficulties and underlying power dynamics involved in delegating complex negotiations and tasks to AI agents.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The ordinariness of evil (19 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/19/banaility/</link>
+      <guid>https://pluralistic.net/2026/08/19/banaility/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:36:27 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that the exaggerated 'existential risk' narratives surrounding AI are marketing strategies meant to boost the perceived potential of products that currently function only as niche tools. He positions AI as a mundane technology, suggesting its actual utility is marginal and often overshadowed by the hype surrounding its development.</description>
+    </item>
+
+    <item>
+      <title>Hands-on with Raspberry Pi's CM5 Programming Jig</title>
+      <link>https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:13:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling explores the Raspberry Pi CM5 Programming Jig as a solution for streamlining the tedious process of flashing multiple Compute Modules. The post highlights the difficulty of managing mass deployments and how specialized hardware can simplify device configuration.</description>
+    </item>
+
     <item>
       <title>I like 'em thick</title>
       <link>https://www.experimental-history.com/p/i-like-em-thick</link>
@@ -841,69 +904,6 @@
       <pubDate>Sun, 09 Aug 2026 22:48:05 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison reports on the retirement of GitHub Models, a tool that provided a unified API for LLMs within GitHub Actions. He speculates that high operational costs driven by coding agents led to the shutdown and shares how he transitioned his own workflow to the OpenAI API.</description>
-    </item>
-
-    <item>
-      <title>The Fruits of AI</title>
-      <link>https://blog.jim-nielsen.com/2026/fruit-of-ai/</link>
-      <guid>https://blog.jim-nielsen.com/2026/fruit-of-ai/</guid>
-      <pubDate>Tue, 11 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post argues that AI naturally encourages carelessness and poor output by default. The author uses the analogy of fruit cultivation to explain that high-quality results from AI require active, deliberate human intervention rather than passive reliance.</description>
-    </item>
-
-    <item>
-      <title>Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032</title>
-      <link>https://www.dwarkesh.com/p/ryan-greenblatt</link>
-      <guid>https://www.dwarkesh.com/p/ryan-greenblatt</guid>
-      <pubDate>Tue, 11 Aug 2026 16:31:23 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>This discussion explores the potential for human-level AI to initiate recursive self-improvement, leading to runaway superintelligence. The conversation evaluates timelines and risks associated with such advancements by 2032.</description>
-    </item>
-
-    <item>
-      <title>A noob learns FFT</title>
-      <link>https://entropicthoughts.com/fft</link>
-      <guid>https://entropicthoughts.com/fft</guid>
-      <pubDate>Mon, 10 Aug 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author documents their first experience learning and implementing the Fast Fourier Transform (FFT). By starting with a basic 5 Hz sine wave example, they bridge the gap between theoretical understanding and practical signal processing application.</description>
-    </item>
-
-    <item>
-      <title>Shared Code Between Package Managers</title>
-      <link>https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</link>
-      <guid>https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article analyzes the extent of code reuse among twenty popular package managers by examining their direct dependencies and vendored libraries. It highlights how tools like npm, Yarn, pnpm, and various Python managers frequently share core logic for specifications and solving, often managed by the same governing organizations.</description>
-    </item>
-
-    <item>
-      <title>Dogs and fat tails</title>
-      <link>https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</guid>
-      <pubDate>Tue, 11 Aug 2026 14:09:46 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author analyzes a dataset of NYC dog names, noting that their distribution follows a fat-tailed pattern rather than a simple normal distribution. This observation highlights how common names dominate, while a vast number of unique, rarely-used names persist in the tail.</description>
-    </item>
-
-    <item>
-      <title>Manually unbreakable cryptography</title>
-      <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:04:24 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the feasibility of implementing modern cryptographic methods in a pre-computer era. It highlights the practical challenge that complex algorithms like RSA require computing power for both the attacker and the legitimate user, making manual execution impossible.</description>
-    </item>
-
-    <item>
-      <title>How can I perform a Copy­File in unbuffered mode?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</guid>
-      <pubDate>Mon, 10 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article discusses alternative methods for performing file copying operations in Windows when unbuffered I/O is required. It suggests exploring advanced API alternatives beyond the standard CopyFile function to achieve this behavior.</description>
     </item>
   </channel>
 </rss>
