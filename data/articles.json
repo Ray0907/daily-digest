@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-08-19T22:11:57.998Z",
+  "last_updated": "2026-08-20T22:14:02.055Z",
   "articles": [
+    {
+      "id": "e58566872dc2d934",
+      "title": "Introducing Dashboard Touch, a build-your-own version of Touch ID",
+      "url": "https://anildash.com/2026/08/20/introducing-dashboard-touch/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-08-20T00:00:00.000Z",
+      "summary_en": "Anil Dash introduces Dashboard Touch, an open-source project that allows users to build a custom external fingerprint sensor for Mac. By utilizing low-cost hardware and a user-friendly web interface, the project provides a functional alternative to Apple's integrated Touch ID.",
+      "summary_zh": "Anil Dash 推出了 Dashboard Touch 開源專案，讓使用者能自行打造適用於 Mac 的外接指紋辨識器。該專案利用低成本硬體與直覺的網頁介面，為 Apple 原廠 Touch ID 提供了一種實用的替代方案。",
+      "keywords": [
+        "Dashboard Touch",
+        "Touch ID",
+        "Open Source",
+        "DIY",
+        "Mac"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the creation of a DIY hardware project, outlining the process and components used to build a custom fingerprint sensor.",
+      "pacer_reason_zh": "本文介紹了一個 DIY 硬體專案的製作方式，概述了組建自訂指紋感應器所需的流程與零件。"
+    },
+    {
+      "id": "eca7c15f998fb59b",
+      "title": "A Sloppy Interface Is a Security Liability ￼",
+      "url": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-20T19:00:00.000Z",
+      "summary_en": "This post argues that high-quality, professional interface design serves as a vital security control against phishing and brand impersonation. As AI makes it trivial to replicate low-effort interfaces, the author warns that maintaining sloppy design habits creates vulnerabilities that bad actors can easily exploit.",
+      "summary_zh": "本文探討了高水準的介面設計如何作為防範釣魚攻擊與品牌偽造的重要安全機制。作者指出，隨著 AI 輕易地降低了仿造門檻，粗糙的設計風格不僅影響品牌形象，更成為駭客攻擊的潛在載體。",
+      "keywords": [
+        "UI design",
+        "cybersecurity",
+        "phishing",
+        "AI safety",
+        "digital literacy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the relationship between interface design quality and security vulnerabilities.",
+      "pacer_reason_zh": "本文提出關於介面設計品質與安全漏洞之間關係的概念性觀點。"
+    },
+    {
+      "id": "2ea4a754559e5f1a",
+      "title": "Our Servants Will Do That For Us",
+      "url": "https://borretti.me/article/our-servants-will-do-that-for-us",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-20T00:00:00.000Z",
+      "summary_en": "This article explores the skepticism surrounding the realization of a post-scarcity utopia. It argues that societal and economic structures make such a vision unlikely, challenging the optimistic assumptions often associated with technological abundance.",
+      "summary_zh": "這篇文章探討了對實現後稀缺烏托邦的懷疑態度。作者認為社會與經濟結構使得這類願景難以實現，並對伴隨技術富足而來的樂觀假設提出了挑戰。",
+      "keywords": [
+        "post-scarcity",
+        "utopia",
+        "economics",
+        "societal structure",
+        "future"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the feasibility of a post-scarcity society, focusing on theoretical limitations rather than practical guides or data.",
+      "pacer_reason_zh": "本文對後稀缺社會的可行性進行了概念性分析，側重於理論上的局限性，而非實作指南或數據分析。"
+    },
+    {
+      "id": "4ff813bd10c90754",
+      "title": "Issues in the Repo",
+      "url": "https://nesbitt.io/2026/08/20/issues-in-the-repo.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-20T09:00:00.000Z",
+      "summary_en": "This article discusses the fragility of relying solely on GitHub for project issue tracking and review data. It explores various decentralized alternatives that store issue data directly within the git repository, analyzing their different approaches to data modeling and synchronization.",
+      "summary_zh": "本文探討了僅依賴 GitHub 進行專案問題追蹤與評論數據的風險。作者介紹了多種將問題數據直接儲存在 Git 儲存庫中的去中心化方案，並分析了這些工具在資料建模與同步機制上的不同處理方式。",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Issue Tracking",
+        "Decentralization",
+        "Version Control"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of decentralized issue tracking and explores the theoretical and architectural approaches to storing project data within git.",
+      "pacer_reason_zh": "本文解釋了去中心化問題追蹤的概念，並探討了將專案數據儲存在 git 內的理論與架構方法。"
+    },
+    {
+      "id": "cf340a2b28bbd7f9",
+      "title": "Better Batteries",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-08-20T00:00:00.000Z",
+      "summary_en": "The author argues that the quality of a programming language's standard library depends on social and institutional architecture rather than its size. Comparing Python, Go, and Rust, the post highlights how organizational capacity dictates the long-term success and consistency of standard libraries.",
+      "summary_zh": "作者認為程式語言標準庫的品質取決於社會與組織架構，而非規模大小。透過比較 Python、Go 與 Rust，本文指出組織運作能力決定了標準庫的長期發展與設計一致性。",
+      "keywords": [
+        "programming languages",
+        "standard library",
+        "software architecture",
+        "Python",
+        "Rust"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual framework of how organizational structure impacts software design and library maintenance.",
+      "pacer_reason_zh": "本文探討了組織結構如何影響軟體設計與函式庫維護的理論架構。"
+    },
+    {
+      "id": "d9a6027558b34648",
+      "title": "AI-generated ASCII diagrams",
+      "url": "https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-20T13:48:43.000Z",
+      "summary_en": "The article explores the unexpected use of modern AI models to generate retro 1970s-style ASCII diagrams. It highlights the aesthetic appeal of this incongruity while noting practical benefits, such as significantly smaller file sizes compared to traditional image formats.",
+      "summary_zh": "本文探討了利用現代人工智慧生成 1970 年代風格 ASCII 圖表的獨特現象。作者認為這種現代技術與復古形式的衝突感極具魅力，並指出 ASCII 圖表在檔案體積上遠小於傳統圖片，具備實際應用價值。",
+      "keywords": [
+        "AI",
+        "ASCII",
+        "Artificial Intelligence",
+        "Diagrams",
+        "Data Visualization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article serves as an explanatory piece discussing the conceptual intrigue and practical utility of using AI for ASCII art.",
+      "pacer_reason_zh": "本文為解釋性內容，探討了使用人工智慧製作 ASCII 藝術的概念趣味性與實用性。"
+    },
+    {
+      "id": "eb01a5f2a6784b62",
+      "title": "On wrapping a callable in a lambda that just calls it with the same parameters",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-19T14:00:00.000Z",
+      "summary_en": "This post advises against wrapping a callable in a lambda when the lambda simply passes the same arguments to the original function. It recommends using the callable directly to keep code cleaner and more efficient.",
+      "summary_zh": "本文建議開發者不要將可呼叫物件包裝在僅傳遞相同參數的 Lambda 表達式中。文章強調直接使用該可呼叫物件能使程式碼更簡潔且有效率。",
+      "keywords": [
+        "programming",
+        "C++",
+        "lambda",
+        "refactoring",
+        "best practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a direct instruction on how to write cleaner code by avoiding unnecessary wrapping.",
+      "pacer_reason_zh": "本文針對如何透過避免不必要的包裝來撰寫更簡潔的程式碼提供了直接的操作建議。"
+    },
+    {
+      "id": "606747c020460cc9",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-19T23:16:00.000Z",
+      "summary_en": "Simon Willison documents an experiment using Claude Code to evaluate 'smolmachines' as a secure sandbox for untrusted code execution. Since the environment lacked nested virtualization, the process shifted to using GitHub Actions to perform real-world testing of resource-constrained Python and JavaScript execution.",
+      "summary_zh": "Simon Willison 記錄了一項使用 Claude Code 評估「smolmachines」作為不受信任程式碼沙盒的實驗。由於運作環境缺乏巢狀虛擬化功能，該研究轉向利用 GitHub Actions 來執行真實測試，以驗證在資源受限下執行 Python 與 JavaScript 的可行性。",
+      "keywords": [
+        "smolmachines",
+        "sandbox",
+        "security",
+        "Claude Code",
+        "virtualization"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article describes an experimental test battery and report on the feasibility of a specific technology (smolvm) for security sandboxing.",
+      "pacer_reason_zh": "本文描述了一項實驗性測試過程，並報告了特定技術（smolvm）在安全性沙盒應用上的可行性。"
+    },
+    {
+      "id": "430ba0c7a24894d4",
+      "title": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-19T22:56:31.000Z",
+      "summary_en": "Jeremy Morrell proposes that Large Language Models and modern sandboxing technologies make it easier and safer to build extensible software. By using LLMs to generate extensions, developers can create core applications that users can safely customize and enhance.",
+      "summary_zh": "Jeremy Morrell 提出，大型語言模型與現代沙盒技術的結合，使得開發可擴展軟體變得更加容易且安全。透過利用 LLM 生成擴充功能，開發者能構建出核心穩固且允許使用者安全自訂的應用程式。",
+      "keywords": [
+        "LLMs",
+        "extensible software",
+        "sandboxing",
+        "software architecture",
+        "generative AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a conceptual hypothesis about the future of software development using LLMs.",
+      "pacer_reason_zh": "內容提出了一項關於利用大型語言模型進行軟體開發未來的概念性假說。"
+    },
+    {
+      "id": "e0c0c7d06c2b5539",
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-19T22:46:07.000Z",
+      "summary_en": "Simon Willison discusses how AI agents challenge traditional software development metrics by enabling significantly higher code output. He argues that while lines of code can now be a valid productivity indicator, the true constraint for development has shifted from raw coding speed to human cognitive capacity.",
+      "summary_zh": "Simon Willison 探討了 AI 代理如何挑戰傳統軟體開發指標，並指出儘管程式碼行數現已成為生產力的有效指標，但開發的真正瓶頸已從編碼速度轉變為人類的認知能力。",
+      "keywords": [
+        "AI",
+        "software engineering",
+        "productivity",
+        "lines of code",
+        "cognitive capacity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual framework for evaluating developer productivity and the role of AI in an evolving software development landscape.",
+      "pacer_reason_zh": "本文提出了一個評估開發者生產力的概念框架，並探討了人工智慧在不斷變化的軟體開發環境中所扮演的角色。"
+    },
+    {
+      "id": "33b73044ac51d749",
+      "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-20T14:00:00.000Z",
+      "summary_en": "Jeff Geerling explores using the affordable Steam Deck LCD screen for Raspberry Pi projects. By utilizing a new Linux kernel driver developed by Scandent, this higher-resolution screen becomes a superior alternative to the official Raspberry Pi display.",
+      "summary_zh": "Jeff Geerling 探討了如何將平價的 Steam Deck LCD 螢幕應用於 Raspberry Pi 專案。透過 Scandent 開發的新 Linux 核心驅動程式，這款高解析度螢幕成為了官方 Raspberry Pi 顯示器更優質的替代方案。",
+      "keywords": [
+        "Steam Deck",
+        "Raspberry Pi",
+        "Linux",
+        "Driver",
+        "Display"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article details the process and solution for integrating specific hardware (Steam Deck LCD) with a Raspberry Pi.",
+      "pacer_reason_zh": "本文詳細介紹了將特定硬體（Steam Deck LCD）整合至 Raspberry Pi 的過程與解決方案。"
+    },
+    {
+      "id": "b1c20749f219a90b",
+      "title": "Good writing is obvious, not original",
+      "url": "https://seangoedecke.com/good-writing-is-obvious-not-original/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-19T00:00:00.000Z",
+      "summary_en": "This article argues that effective writing prioritizes clarity and accessibility over the pursuit of radical originality. It suggests that clear communication of existing ideas is more valuable than striving for novelty.",
+      "summary_zh": "這篇文章主張優質的寫作應將清晰度與易讀性置於追求原創性之上。作者認為，將既有的觀念以清晰的方式表達出來，遠比刻意追求創新更有價值。",
+      "keywords": [
+        "writing",
+        "clarity",
+        "originality",
+        "communication",
+        "style"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual definition and philosophy of what constitutes good writing.",
+      "pacer_reason_zh": "該文章側重於探討「優質寫作」的定義與哲學概念。"
+    },
     {
       "id": "ca8e8971b4140b95",
       "title": "Big little hexagon",

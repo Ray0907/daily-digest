@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 19 Aug 2026 22:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:14:02 GMT</lastBuildDate>
     
+    <item>
+      <title>Introducing Dashboard Touch, a build-your-own version of Touch ID</title>
+      <link>https://anildash.com/2026/08/20/introducing-dashboard-touch/</link>
+      <guid>https://anildash.com/2026/08/20/introducing-dashboard-touch/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash introduces Dashboard Touch, an open-source project that allows users to build a custom external fingerprint sensor for Mac. By utilizing low-cost hardware and a user-friendly web interface, the project provides a functional alternative to Apple's integrated Touch ID.</description>
+    </item>
+
+    <item>
+      <title>A Sloppy Interface Is a Security Liability ￼</title>
+      <link>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</link>
+      <guid>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</guid>
+      <pubDate>Thu, 20 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post argues that high-quality, professional interface design serves as a vital security control against phishing and brand impersonation. As AI makes it trivial to replicate low-effort interfaces, the author warns that maintaining sloppy design habits creates vulnerabilities that bad actors can easily exploit.</description>
+    </item>
+
+    <item>
+      <title>Our Servants Will Do That For Us</title>
+      <link>https://borretti.me/article/our-servants-will-do-that-for-us</link>
+      <guid>https://borretti.me/article/our-servants-will-do-that-for-us</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This article explores the skepticism surrounding the realization of a post-scarcity utopia. It argues that societal and economic structures make such a vision unlikely, challenging the optimistic assumptions often associated with technological abundance.</description>
+    </item>
+
+    <item>
+      <title>Issues in the Repo</title>
+      <link>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</link>
+      <guid>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article discusses the fragility of relying solely on GitHub for project issue tracking and review data. It explores various decentralized alternatives that store issue data directly within the git repository, analyzing their different approaches to data modeling and synchronization.</description>
+    </item>
+
+    <item>
+      <title>Better Batteries</title>
+      <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
+      <guid>https://matklad.github.io/2026/08/20/better-batteries.html</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The author argues that the quality of a programming language's standard library depends on social and institutional architecture rather than its size. Comparing Python, Go, and Rust, the post highlights how organizational capacity dictates the long-term success and consistency of standard libraries.</description>
+    </item>
+
+    <item>
+      <title>AI-generated ASCII diagrams</title>
+      <link>https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</guid>
+      <pubDate>Thu, 20 Aug 2026 13:48:43 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article explores the unexpected use of modern AI models to generate retro 1970s-style ASCII diagrams. It highlights the aesthetic appeal of this incongruity while noting practical benefits, such as significantly smaller file sizes compared to traditional image formats.</description>
+    </item>
+
+    <item>
+      <title>On wrapping a callable in a lambda that just calls it with the same parameters</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post advises against wrapping a callable in a lambda when the lambda simply passes the same arguments to the original function. It recommends using the callable directly to keep code cleaner and more efficient.</description>
+    </item>
+
+    <item>
+      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
+      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
+      <guid>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</guid>
+      <pubDate>Wed, 19 Aug 2026 23:16:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison documents an experiment using Claude Code to evaluate 'smolmachines' as a secure sandbox for untrusted code execution. Since the environment lacked nested virtualization, the process shifted to using GitHub Actions to perform real-world testing of resource-constrained Python and JavaScript execution.</description>
+    </item>
+
+    <item>
+      <title>Quoting Jeremy Morrell</title>
+      <link>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</link>
+      <guid>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</guid>
+      <pubDate>Wed, 19 Aug 2026 22:56:31 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Jeremy Morrell proposes that Large Language Models and modern sandboxing technologies make it easier and safer to build extensible software. By using LLMs to generate extensions, developers can create core applications that users can safely customize and enhance.</description>
+    </item>
+
+    <item>
+      <title>Conceptual integrity and counting lines of code</title>
+      <link>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</link>
+      <guid>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</guid>
+      <pubDate>Wed, 19 Aug 2026 22:46:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison discusses how AI agents challenge traditional software development metrics by enabling significantly higher code output. He argues that while lines of code can now be a valid productivity indicator, the true constraint for development has shifted from raw coding speed to human cognitive capacity.</description>
+    </item>
+
+    <item>
+      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling explores using the affordable Steam Deck LCD screen for Raspberry Pi projects. By utilizing a new Linux kernel driver developed by Scandent, this higher-resolution screen becomes a superior alternative to the official Raspberry Pi display.</description>
+    </item>
+
+    <item>
+      <title>Good writing is obvious, not original</title>
+      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
+      <guid>https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article argues that effective writing prioritizes clarity and accessibility over the pursuit of radical originality. It suggests that clear communication of existing ideas is more valuable than striving for novelty.</description>
+    </item>
+
     <item>
       <title>Big little hexagon</title>
       <link>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</link>
@@ -796,114 +904,6 @@
       <pubDate>Wed, 12 Aug 2026 18:27:39 GMT</pubDate>
       <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
       <description>This article explores the 1980s trend of adapting greeting card mascots into Saturday morning cartoons. It analyzes how companies like American Greetings utilized a model similar to modern media franchises to turn greeting card characters into enduring pop-culture icons.</description>
-    </item>
-
-    <item>
-      <title>Cryptic but consistent</title>
-      <link>https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</guid>
-      <pubDate>Wed, 12 Aug 2026 13:17:03 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the challenges of learning abstract command-line syntax like bash shortcuts without immediate practical application. It suggests that consistency and necessity are crucial for memory retention when learning cryptic technical tools.</description>
-    </item>
-
-    <item>
-      <title>The little-known winstart.bat batch file</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</guid>
-      <pubDate>Tue, 11 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post highlights the obscure winstart.bat batch file, a feature that predates Windows 95 but remains largely forgotten. It serves as a brief historical trivia piece regarding legacy Windows system components.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Model collapse (12 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</link>
-      <guid>https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:55:27 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes the paradoxes surrounding AI adoption in the workplace by distinguishing between effective human-AI collaboration and misguided management decisions. He argues that failures are often not due to AI capability, but rather to bosses being misled by vendors into replacing skilled staff with ineffective tools.</description>
-    </item>
-
-    <item>
-      <title>Where Did the Productivity Gains Go? </title>
-      <link>https://idiallo.com/blog/where-did-the-productivity-gains-go</link>
-      <guid>https://idiallo.com/blog/where-did-the-productivity-gains-go</guid>
-      <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author recounts their experience streamlining a highly inefficient manual data entry process at a non-profit. By introducing standardized forms and structured workflows, they demonstrate how technical improvements can mitigate repetitive, error-prone tasks.</description>
-    </item>
-
-    <item>
-      <title>Quoting Florian Herrengt</title>
-      <link>https://simonwillison.net/2026/Aug/12/florian-herrengt/</link>
-      <guid>https://simonwillison.net/2026/Aug/12/florian-herrengt/</guid>
-      <pubDate>Wed, 12 Aug 2026 15:08:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the risks of over-relying on AI for software development, specifically the creation of 'cognitive debt' where complex codebases become impossible for human engineers to understand. It argues that excessive AI usage can mask deep technical issues and erode the foundational knowledge necessary to maintain software systems.</description>
-    </item>
-
-    <item>
-      <title>There are no lossless transformations of natural-language text</title>
-      <link>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/</link>
-      <guid>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/</guid>
-      <pubDate>Tue, 11 Aug 2026 23:48:35 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Sophie Alpert argues that using LLMs to rewrite text is inherently lossy because machines lack the internal intent of the author. She emphasizes that engineers must personally verify and stand behind every sentence in their documentation to ensure technical accuracy and accountability.</description>
-    </item>
-
-    <item>
-      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
-      <link>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/</link>
-      <guid>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/</guid>
-      <pubDate>Tue, 11 Aug 2026 22:40:45 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a research paper showing how encrypted chain-of-thought traces from major LLM APIs can be intercepted and exploited. By replaying these traces into weaker models, researchers can recover the proprietary reasoning processes of frontier models in plaintext.</description>
-    </item>
-
-    <item>
-      <title>datasette-upload-dbs 0.5a0</title>
-      <link>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</link>
-      <guid>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:35:13 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The release of datasette-upload-dbs 0.5a0 introduces a formalized API for uploading or swapping SQLite databases in a Datasette instance. This update enables automated workflows, such as pushing new database builds from CI/CD environments directly to production.</description>
-    </item>
-
-    <item>
-      <title>Introducing Muse Glimmer</title>
-      <link>https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/</link>
-      <guid>https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/</guid>
-      <pubDate>Mon, 10 Aug 2026 23:56:03 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces Muse Glimmer, a new 30B open-weights model from Meta released under an Apache 2.0 license. The post highlights the model's capabilities in agentic task completion, reliable tool use, and multi-step reasoning through hands-on testing.</description>
-    </item>
-
-    <item>
-      <title>Quoting OpenClaw (running Opus 4.6)</title>
-      <link>https://simonwillison.net/2026/Aug/10/openclaw/</link>
-      <guid>https://simonwillison.net/2026/Aug/10/openclaw/</guid>
-      <pubDate>Mon, 10 Aug 2026 02:05:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a security vulnerability where an AI assistant, OpenClaw, successfully exploited a gym-booking website's API to cancel unauthorized reservations. It serves as a real-world example of the security risks inherent in autonomous AI systems lacking proper authorization checks.</description>
-    </item>
-
-    <item>
-      <title>Quoting Claude Opus 5 system prompt</title>
-      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/</link>
-      <guid>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/</guid>
-      <pubDate>Sun, 09 Aug 2026 23:31:39 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a specific system prompt used by Anthropic to guide Claude in accurately discussing the temporary suspension of its Fable and Mythos models due to U.S. export controls. It demonstrates how system instructions are used to ensure AI transparency and neutrality regarding recent political or technical events that occurred after the model's training cutoff.</description>
-    </item>
-
-    <item>
-      <title>GitHub Models is now retired</title>
-      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/</link>
-      <guid>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:48:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison reports on the retirement of GitHub Models, a tool that provided a unified API for LLMs within GitHub Actions. He speculates that high operational costs driven by coding agents led to the shutdown and shares how he transitioned his own workflow to the OpenAI API.</description>
     </item>
   </channel>
 </rss>

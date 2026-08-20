@@ -1,6 +1,182 @@
 {
   "nodes": [
     {
+      "id": "eca7c15f998fb59b",
+      "title": "A Sloppy Interface Is a Security Liability ￼",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/",
+      "pacer": "C",
+      "keywords": [
+        "UI design",
+        "cybersecurity",
+        "phishing",
+        "AI safety",
+        "digital literacy"
+      ],
+      "published": "2026-08-20T19:00:00.000Z"
+    },
+    {
+      "id": "33b73044ac51d749",
+      "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/",
+      "pacer": "P",
+      "keywords": [
+        "Steam Deck",
+        "Raspberry Pi",
+        "Linux",
+        "Driver",
+        "Display"
+      ],
+      "published": "2026-08-20T14:00:00.000Z"
+    },
+    {
+      "id": "d9a6027558b34648",
+      "title": "AI-generated ASCII diagrams",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "ASCII",
+        "Artificial Intelligence",
+        "Diagrams",
+        "Data Visualization"
+      ],
+      "published": "2026-08-20T13:48:43.000Z"
+    },
+    {
+      "id": "4ff813bd10c90754",
+      "title": "Issues in the Repo",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/20/issues-in-the-repo.html",
+      "pacer": "C",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Issue Tracking",
+        "Decentralization",
+        "Version Control"
+      ],
+      "published": "2026-08-20T09:00:00.000Z"
+    },
+    {
+      "id": "e58566872dc2d934",
+      "title": "Introducing Dashboard Touch, a build-your-own version of Touch ID",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "url": "https://anildash.com/2026/08/20/introducing-dashboard-touch/",
+      "pacer": "P",
+      "keywords": [
+        "Dashboard Touch",
+        "Touch ID",
+        "Open Source",
+        "DIY",
+        "Mac"
+      ],
+      "published": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "2ea4a754559e5f1a",
+      "title": "Our Servants Will Do That For Us",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/our-servants-will-do-that-for-us",
+      "pacer": "C",
+      "keywords": [
+        "post-scarcity",
+        "utopia",
+        "economics",
+        "societal structure",
+        "future"
+      ],
+      "published": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "cf340a2b28bbd7f9",
+      "title": "Better Batteries",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "pacer": "C",
+      "keywords": [
+        "programming languages",
+        "standard library",
+        "software architecture",
+        "Python",
+        "Rust"
+      ],
+      "published": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "606747c020460cc9",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "pacer": "E",
+      "keywords": [
+        "smolmachines",
+        "sandbox",
+        "security",
+        "Claude Code",
+        "virtualization"
+      ],
+      "published": "2026-08-19T23:16:00.000Z"
+    },
+    {
+      "id": "430ba0c7a24894d4",
+      "title": "Quoting Jeremy Morrell",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "pacer": "C",
+      "keywords": [
+        "LLMs",
+        "extensible software",
+        "sandboxing",
+        "software architecture",
+        "generative AI"
+      ],
+      "published": "2026-08-19T22:56:31.000Z"
+    },
+    {
+      "id": "e0c0c7d06c2b5539",
+      "title": "Conceptual integrity and counting lines of code",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "software engineering",
+        "productivity",
+        "lines of code",
+        "cognitive capacity"
+      ],
+      "published": "2026-08-19T22:46:07.000Z"
+    },
+    {
+      "id": "eb01a5f2a6784b62",
+      "title": "On wrapping a callable in a lambda that just calls it with the same parameters",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624",
+      "pacer": "P",
+      "keywords": [
+        "programming",
+        "C++",
+        "lambda",
+        "refactoring",
+        "best practices"
+      ],
+      "published": "2026-08-19T14:00:00.000Z"
+    },
+    {
       "id": "5835dd7c3ff26566",
       "title": "Asymmetric Agents",
       "source": "Terence Eden’s Blog",
@@ -63,6 +239,22 @@
         "research"
       ],
       "published": "2026-08-19T00:22:36.000Z"
+    },
+    {
+      "id": "b1c20749f219a90b",
+      "title": "Good writing is obvious, not original",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/good-writing-is-obvious-not-original/",
+      "pacer": "C",
+      "keywords": [
+        "writing",
+        "clarity",
+        "originality",
+        "communication",
+        "style"
+      ],
+      "published": "2026-08-19T00:00:00.000Z"
     },
     {
       "id": "5719d0e304ccccdf",
@@ -337,22 +529,6 @@
       "published": "2026-08-17T15:54:40.000Z"
     },
     {
-      "id": "8282daa933f2b919",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-      "pacer": "E",
-      "keywords": [
-        "Amazon",
-        "AI training",
-        "404 Media",
-        "data harvesting",
-        "books"
-      ],
-      "published": "2026-08-17T15:21:29.000Z"
-    },
-    {
       "id": "3aa3e8b93c367b89",
       "title": "How do functions like alloca allocate memory from the stack?",
       "source": "The Old New Thing",
@@ -433,38 +609,6 @@
       "published": "2026-08-17T00:00:00.000Z"
     },
     {
-      "id": "b2b654098c8b61bd",
-      "title": "Markdown SVG upgrades",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-      "pacer": "P",
-      "keywords": [
-        "Markdown",
-        "SVG",
-        "web tools",
-        "rendering",
-        "GitHub Gist"
-      ],
-      "published": "2026-08-16T23:59:37.000Z"
-    },
-    {
-      "id": "79efbb054d4af9fc",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "pacer": "E",
-      "keywords": [
-        "Qwen 3.8",
-        "LLM",
-        "AI Benchmarks",
-        "Reasoning Effort",
-        "Local LLM"
-      ],
-      "published": "2026-08-16T22:00:39.000Z"
-    },
-    {
       "id": "2a3a22cb8fbb8a4a",
       "title": "Oops, Should’ve Thought of That",
       "source": "Jim Nielsen’s Blog",
@@ -543,22 +687,6 @@
         "async"
       ],
       "published": "2026-08-15T16:41:00.000Z"
-    },
-    {
-      "id": "a6e41c0e0e3fe382",
-      "title": "Probability of correcting errors",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/",
-      "pacer": "C",
-      "keywords": [
-        "error-correcting codes",
-        "Hadamard code",
-        "data integrity",
-        "mathematics",
-        "Mariner 9"
-      ],
-      "published": "2026-08-15T16:33:56.000Z"
     },
     {
       "id": "a2f8fa6219fb39a3",
@@ -801,22 +929,6 @@
       "published": "2026-08-13T17:00:00.000Z"
     },
     {
-      "id": "8954d7971816d1dc",
-      "title": "A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611",
-      "pacer": "P",
-      "keywords": [
-        "C++",
-        "RAII",
-        "Windows API",
-        "LPPROC_THREAD_ATTRIBUTE_LIST",
-        "programming"
-      ],
-      "published": "2026-08-13T14:00:00.000Z"
-    },
-    {
       "id": "ceca0891005e72e4",
       "title": "Another partial SSI trick with canonicalize",
       "source": "Max Bernstein's Blog",
@@ -959,22 +1071,6 @@
         "existential risk"
       ],
       "published": "2026-08-11T16:31:23.000Z"
-    },
-    {
-      "id": "bfcd0ff9fa820219",
-      "title": "Shared Code Between Package Managers",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/08/11/package-manager-library-reuse.html",
-      "pacer": "E",
-      "keywords": [
-        "package managers",
-        "code reuse",
-        "dependencies",
-        "software engineering",
-        "open source"
-      ],
-      "published": "2026-08-11T10:00:00.000Z"
     },
     {
       "id": "0103ae5a32baf6d9",
@@ -1167,22 +1263,6 @@
         "software engineering"
       ],
       "published": "2026-08-09T08:13:00.000Z"
-    },
-    {
-      "id": "30199b8fd661eb0e",
-      "title": "I got an email about resistance",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/i-got-an-email-about-resistance/",
-      "pacer": "C",
-      "keywords": [
-        "resistance",
-        "reflection",
-        "email",
-        "philosophy",
-        "personal growth"
-      ],
-      "published": "2026-08-09T00:00:00.000Z"
     },
     {
       "id": "32c114e60d0406e9",
@@ -1633,22 +1713,6 @@
       "published": "2026-08-02T00:00:00.000Z"
     },
     {
-      "id": "681d60cb1f52f6e8",
-      "title": "Mathematics Without Mathematicians",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/mathematics-without-mathematicians",
-      "pacer": "C",
-      "keywords": [
-        "Mathematics",
-        "Philosophy",
-        "Hilbert",
-        "Epistemology",
-        "Knowledge"
-      ],
-      "published": "2026-08-02T00:00:00.000Z"
-    },
-    {
       "id": "ab2fa5b72db71c1b",
       "title": "Put A Tag On It",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -1823,22 +1887,6 @@
         "efficiency"
       ],
       "published": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "ddeb701e6e6df198",
-      "title": "The AI Aesthetic",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "design patterns",
-        "UI/UX",
-        "software interaction",
-        "aesthetics"
-      ],
-      "published": "2026-07-29T19:00:00.000Z"
     },
     {
       "id": "903bd3239261574e",
@@ -2109,22 +2157,6 @@
         "Eric Migicovsky"
       ],
       "published": "2026-07-24T00:00:00.000Z"
-    },
-    {
-      "id": "a0be85798b52341d",
-      "title": "Adding a backup Internet WAN on my OPNsense Router",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/",
-      "pacer": "P",
-      "keywords": [
-        "OPNsense",
-        "WAN",
-        "Failover",
-        "5G",
-        "Networking"
-      ],
-      "published": "2026-07-23T21:00:00.000Z"
     },
     {
       "id": "d61dc707800f96c7",
@@ -3914,22 +3946,6 @@
       "published": "2026-05-18T09:44:00.000Z"
     },
     {
-      "id": "b7e45b85c59dfc3e",
-      "title": "Always Be Blaming",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/05/18/always-be-blaming.html",
-      "pacer": "C",
-      "keywords": [
-        "code comprehension",
-        "theory of mind",
-        "software engineering",
-        "refactoring",
-        "technical reading"
-      ],
-      "published": "2026-05-18T00:00:00.000Z"
-    },
-    {
       "id": "6a324559fa5c7d25",
       "title": "How I Use My Index 01 + Production Update",
       "source": "Eric Migicovsky's Blog RSS Feed",
@@ -4136,22 +4152,6 @@
         "Tech Policy"
       ],
       "published": "2026-04-28T13:00:48.000Z"
-    },
-    {
-      "id": "30dd8b350b87e1f8",
-      "title": "(One) Good AI Is Here",
-      "source": "Anil Dash",
-      "source_url": "https://anildash.com/",
-      "url": "https://anildash.com/2026/04/28/one-good-ai-is-here/",
-      "pacer": "C",
-      "keywords": [
-        "AI ethics",
-        "LLM",
-        "tech criticism",
-        "responsible AI",
-        "digital society"
-      ],
-      "published": "2026-04-28T00:00:00.000Z"
     },
     {
       "id": "434fee2b0869a15a",
