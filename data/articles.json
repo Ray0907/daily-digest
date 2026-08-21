@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-08-20T22:14:02.055Z",
+  "last_updated": "2026-08-21T22:10:57.888Z",
   "articles": [
+    {
+      "id": "a92d76d22be0519e",
+      "title": "Why shaming people about AI slop isn’t enough to stop Big AI",
+      "url": "https://anildash.com/2026/08/21/ai-slop-and-shame/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary_en": "Anil Dash argues that shaming AI usage is insufficient to counter the influence of Big AI corporations. He suggests that the current binary narrative, which frames the choice as either using exploitative AI tools or nothing at all, ignores viable alternatives and fails to challenge the systemic power of tech giants.",
+      "summary_zh": "Anil Dash 認為單靠羞辱 AI 使用者不足以對抗大型科技公司的壟斷影響。他指出，目前的二元敘事強迫大眾在「使用剝削性 AI 工具」與「完全不用」之間二選一，忽略了其他替代方案，也未能挑戰科技巨頭的系統性權力。",
+      "keywords": [
+        "AI",
+        "Anil Dash",
+        "Big Tech",
+        "Ethics",
+        "Creative Culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the current discourse surrounding AI, power dynamics, and the limitations of social shaming as a tool for change.",
+      "pacer_reason_zh": "本文針對圍繞 AI 的當前論述、權力動態，以及將社會羞辱作為改變手段的局限性進行了概念性分析。"
+    },
+    {
+      "id": "83a226a56873b5f9",
+      "title": "A Need for Speed",
+      "url": "https://www.filfre.net/2026/08/a-need-for-speed/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-08-21T15:36:02.000Z",
+      "summary_en": "The author reflects on their youth as a car enthusiast, sharing personal anecdotes about their first vehicle, a 1966 Volkswagen Beetle. This nostalgic piece serves as a reflective introduction to the author's history with mechanical interests.",
+      "summary_zh": "作者回顧了自己年輕時對汽車的熱愛，並分享了關於第一輛車——1966年福斯金龜車的個人趣事。這篇文章作為作者個人經歷的回顧，展現了其對機械興趣的起源。",
+      "keywords": [
+        "car enthusiast",
+        "Volkswagen Beetle",
+        "nostalgia",
+        "personal history",
+        "automotive"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses personal narrative and reflection to draw parallels between the author's past interests and their current perspective.",
+      "pacer_reason_zh": "文章透過個人敘事與反思，將作者過去的興趣與現在的視角進行了類比與連結。"
+    },
+    {
+      "id": "7adc2413bdf79b6c",
+      "title": "Rust Glancer",
+      "url": "https://matklad.github.io/2026/08/21/rust-glancer.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary_en": "The author discusses Rust Glancer, a memory-efficient LSP server for Rust, while critiquing current syntax tree approaches in tools like rust-analyzer. The post highlights the challenges of indexing large workspaces and suggests potential optimizations for function analysis and proc macro handling.",
+      "summary_zh": "本文介紹了高效能的 Rust 語言伺服器 Rust Glancer，並對目前如 rust-analyzer 等工具所採用的語法樹結構提出反思。作者探討了大型專案索引的挑戰，並針對函式分析與處理程序巨集（proc macro）提出了最佳化建議。",
+      "keywords": [
+        "Rust",
+        "LSP",
+        "rust-analyzer",
+        "memory management",
+        "AST"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptual explanations and technical opinions regarding language server architecture and memory efficiency.",
+      "pacer_reason_zh": "內容主要聚焦於語言伺服器架構與記憶體效率的概念性解釋與技術觀點。"
+    },
+    {
+      "id": "7c08525c7d647a17",
+      "title": "How would you know whether an ancient culture had zero?",
+      "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-21T13:14:28.000Z",
+      "summary_en": "The article explores the mathematical requirements for a number system to include a concept of zero, using spreadsheet column labels as a comparative example. It highlights the distinction between positional notation systems with and without a zero placeholder.",
+      "summary_zh": "本文透過試算表欄位標記作為比較案例，探討數字系統中「零」的概念及其數學必要性。文章進一步剖析了具備與不具備零的位值記數法之間的本質差異。",
+      "keywords": [
+        "zero",
+        "number systems",
+        "base 26",
+        "mathematics",
+        "positional notation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how number systems function and the specific role that zero plays within positional notation.",
+      "pacer_reason_zh": "本文旨在解釋數字系統的運作邏輯，並針對位值記數法中「零」的角色提供概念性說明。"
+    },
+    {
+      "id": "e75a00f380844c1c",
+      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-21T14:00:00.000Z",
+      "summary_en": "This article discusses practical strategies for reducing C++ template bloat by identifying and isolating type-dependent code. It emphasizes refactoring techniques that minimize binary size while maintaining template functionality.",
+      "summary_zh": "本文探討減少 C++ 模板膨脹的實作策略，重點在於識別並分離與型別相關的程式碼。文章強調透過重構技術來最小化二進位檔案大小，同時維持模板的功能性。",
+      "keywords": [
+        "C++",
+        "template bloat",
+        "code optimization",
+        "refactoring",
+        "binary size"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides practical examples and a methodological approach for refactoring code to solve a specific technical problem.",
+      "pacer_reason_zh": "本文提供了實作範例與方法論，指導開發者如何透過重構程式碼來解決特定的技術問題。"
+    },
+    {
+      "id": "4c457758ac4f37b1",
+      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-20T14:00:00.000Z",
+      "summary_en": "This post discusses techniques for optimizing C++ code by minimizing template bloat. It recommends identifying and separating type-dependent code to consolidate function implementations.",
+      "summary_zh": "本文探討了如何透過減少 C++ 模板膨脹來優化程式碼。建議識別並分離與類型相關的程式碼區塊，以整合函式實作並提升效率。",
+      "keywords": [
+        "C++",
+        "template bloat",
+        "optimization",
+        "coding",
+        "software engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific technical approach/methodology for solving a common coding problem.",
+      "pacer_reason_zh": "這篇文章針對常見的程式設計問題，提供了具體的技術解決方案與實作方法。"
+    },
+    {
+      "id": "d3d721a5993c18e6",
+      "title": "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-21T11:34:36.000Z",
+      "summary_en": "This book review explores Ed Yong's 'An Immense World,' which examines the diverse and often alien sensory perceptions of the animal kingdom. The author highlights how the book moves beyond simple comparisons to provide a deeper understanding of how different species experience their environments.",
+      "summary_zh": "這篇書評介紹了艾德·楊的《大自然小宇宙》，探討了動物界多樣且奇特的感官知覺。作者強調本書超越了單純的物種比較，深入剖析了不同生物如何感知並體驗其周圍的環境。",
+      "keywords": [
+        "Book Review",
+        "Ed Yong",
+        "Animal Senses",
+        "Biology",
+        "Nature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an overview and conceptual explanation of the themes and subject matter presented in the book.",
+      "pacer_reason_zh": "這篇文章對書中的主題和核心內容進行了概述與概念性解釋。"
+    },
+    {
+      "id": "d6574b372d67d813",
+      "title": "Pluralistic: The actual epistemic crisis (20 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/20/epistemic-void/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-20T23:41:21.000Z",
+      "summary_en": "Cory Doctorow argues that AI is fueling an 'epistemic crisis' by democratizing the creation of realistic deepfakes, making it impossible to discern truth from fabrication. He compares this phenomenon to Vladislav Surkov’s strategy of sowing universal doubt, which erodes trust in reality itself.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）指出，人工智慧透過普及製作逼真的深偽技術（deepfakes），導致人們難以分辨真偽，從而引發「知識論危機」。他將此現象比擬為弗拉季斯拉夫·蘇爾科夫（Vladislav Surkov）的策略，即透過散播普遍的懷疑來摧毀公眾對事實的信任。",
+      "keywords": [
+        "AI",
+        "epistemic crisis",
+        "deepfakes",
+        "misinformation",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual nature of how AI-driven disinformation challenges our perception of truth and reality.",
+      "pacer_reason_zh": "本文旨在闡述人工智慧驅動的虛假資訊如何從概念上挑戰我們對真相與現實的認知。"
+    },
+    {
+      "id": "cf6af109a0ee1fd2",
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-21T17:16:13.000Z",
+      "summary_en": "Simon Willison released version 0.32.1 of the LLM tool to resolve a dependency issue caused by changes in the OpenAI Python library. The update pins the library version to ensure stability while preparing for a migration to httpx2 in the next release.",
+      "summary_zh": "Simon Willison 發布了 LLM 工具的 0.32.1 版本，以解決因 OpenAI Python 函式庫變更所導致的依賴性問題。此更新將版本鎖定以確保穩定性，並為下一個版本遷移至 httpx2 做準備。",
+      "keywords": [
+        "llm",
+        "openai",
+        "httpx",
+        "software release",
+        "python"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a release note and reference for a software update and its specific dependency fixes.",
+      "pacer_reason_zh": "本文作為軟體更新的發布說明，屬於參考性質的技術變更記錄。"
+    },
+    {
+      "id": "866d80edbe878622",
+      "title": "llm-openrouter 0.7",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-21T16:58:19.000Z",
+      "summary_en": "Simon Willison has released llm-openrouter 0.7, featuring compatibility with LLM 0.32 and support for OpenRouter's Responses API. The update also introduces three new server-side tools: Shell, WebFetch, and WebSearch.",
+      "summary_zh": "Simon Willison 發布了 llm-openrouter 0.7 版本，支援 LLM 0.32 與 OpenRouter 的 Responses API。此外，此更新還新增了 Shell、WebFetch 與 WebSearch 三項伺服器端工具。",
+      "keywords": [
+        "llm-openrouter",
+        "OpenRouter",
+        "LLM",
+        "plugin",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a release note detailing software updates and new feature specifications.",
+      "pacer_reason_zh": "該文章為軟體發布說明，詳細列出了軟體更新內容與新功能的規格說明。"
+    },
+    {
+      "id": "51b0cf062317357a",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-21T16:07:32.000Z",
+      "summary_en": "Thomas Ptacek argues that developers should stop relying solely on command-line interfaces for personal projects, as coding agents now make creating native GUIs trivial. Simon Willison supports this perspective, noting that leveraging AI tools like LLMs can quickly turn throwaway scripts into functional desktop applications.",
+      "summary_zh": "Thomas Ptacek 主張開發者應停止僅依賴命令列介面，因為現代 AI 編碼工具已大幅降低開發原生 GUI 的門檻。Simon Willison 對此表示贊同，並分享了利用 AI 將簡單腳本轉化為實用原生應用程式的正面經驗。",
+      "keywords": [
+        "TUI",
+        "GUI",
+        "Coding Agents",
+        "LLMs",
+        "Native Apps"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the shifting landscape of software development and the changing utility of GUIs versus TUIs in the age of AI.",
+      "pacer_reason_zh": "本文提出了一個關於軟體開發趨勢的概念性觀點，討論了在人工智慧時代下，原生 GUI 相較於 TUI 的價值轉變。"
+    },
+    {
+      "id": "21b220d0ec1ebd80",
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-21T15:06:26.000Z",
+      "summary_en": "Matt Webb discusses using ChatGPT as an interactive tutor to master complex mathematical concepts like quaternions for app development. He emphasizes that AI does not replace human learning but rather serves as a catalyst for deeper understanding and skill acquisition.",
+      "summary_zh": "Matt Webb 分享了如何運用 ChatGPT 作為互動式導師，克服學習四元數等複雜數學概念的障礙以進行應用程式開發。他強調人工智慧並未取代人類學習，反而成為推動更深層理解與技能提升的催化劑。",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "learning",
+        "quaternions",
+        "education"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's experience to draw an analogy between AI and a personal tutor, shifting the focus from 'AI as a tool' to 'AI as an educational partner'.",
+      "pacer_reason_zh": "本文透過作者的經驗，將 AI 比擬為私人導師，將焦點從「AI 作為工具」轉向「AI 作為學習夥伴」。"
+    },
+    {
+      "id": "c8cbe369112d07d9",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-20T23:57:32.000Z",
+      "summary_en": "Promptwatch data reveals that ChatGPT has significantly increased its use of site-specific search operators, likely tied to recent updates in its underlying search engine technology. The analysis highlights the emergence of Generative Engine Optimization (GEO) as a critical practice for brands to track visibility in AI chatbot responses.",
+      "summary_zh": "Promptwatch 的數據顯示 ChatGPT 大幅增加了對特定站點搜尋運算子的使用，這可能與其搜尋引擎技術的近期更新有關。該分析強調了生成式引擎優化（GEO）作為品牌追蹤其在 AI 聊天機器人回答中可見度的關鍵實務的重要性。",
+      "keywords": [
+        "ChatGPT",
+        "GEO",
+        "SEO",
+        "Promptwatch",
+        "Search Engine"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses data-backed observations from Promptwatch to identify and evidence a specific change in ChatGPT's search behavior.",
+      "pacer_reason_zh": "本文利用 Promptwatch 的數據觀察，證實並提出了 ChatGPT 搜尋行為發生特定變化的證據。"
+    },
+    {
+      "id": "2da3f824e886c5fc",
+      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-20T15:37:00.000Z",
+      "summary_en": "Simon Willison explores the new Bun.WebView feature released in Bun 1.4, which enables native browser automation. He demonstrates how to leverage this capability to build a JSON API similar to his shot-scraper tool.",
+      "summary_zh": "Simon Willison 介紹了 Bun 1.4 版本中新推出的 Bun.WebView 功能，該功能實現了原生的瀏覽器自動化。他展示了如何利用此功能構建類似於其 shot-scraper 工具的 JSON API。",
+      "keywords": [
+        "Bun",
+        "Bun.WebView",
+        "Browser Automation",
+        "Web Scraping",
+        "JavaScript"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on demonstrating how to implement a specific technical feature (JSON API) using a new library tool, serving as a practical guide.",
+      "pacer_reason_zh": "文章重點示範如何利用新工具庫實現特定功能（JSON API），具有實作教學的性質。"
+    },
+    {
+      "id": "4ff8dc26e1c51de9",
+      "title": "Readers can't identify watermarked AI text",
+      "url": "https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary_en": "This article explores the limitations of watermarking technology in identifying AI-generated text. It highlights that current methods often fail to reliably detect machine-written content, raising concerns about the efficacy of AI labeling.",
+      "summary_zh": "本文探討了浮水印技術在識別 AI 生成文本方面的侷限性。內容指出，現有的檢測方法往往無法可靠地識別機器生成的內容，引發了人們對 AI 標記有效性的擔憂。",
+      "keywords": [
+        "AI",
+        "watermarking",
+        "artificial intelligence",
+        "text detection",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of the limitations and challenges surrounding a specific technical concept.",
+      "pacer_reason_zh": "本文針對特定技術概念的侷限性與挑戰進行了說明與探討。"
+    },
     {
       "id": "e58566872dc2d934",
       "title": "Introducing Dashboard Touch, a build-your-own version of Touch ID",

@@ -1,6 +1,214 @@
 {
   "nodes": [
     {
+      "id": "cf6af109a0ee1fd2",
+      "title": "llm 0.32.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "pacer": "R",
+      "keywords": [
+        "llm",
+        "openai",
+        "httpx",
+        "software release",
+        "python"
+      ],
+      "published": "2026-08-21T17:16:13.000Z"
+    },
+    {
+      "id": "866d80edbe878622",
+      "title": "llm-openrouter 0.7",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "pacer": "R",
+      "keywords": [
+        "llm-openrouter",
+        "OpenRouter",
+        "LLM",
+        "plugin",
+        "Simon Willison"
+      ],
+      "published": "2026-08-21T16:58:19.000Z"
+    },
+    {
+      "id": "51b0cf062317357a",
+      "title": "Stop Making TUIs",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "pacer": "C",
+      "keywords": [
+        "TUI",
+        "GUI",
+        "Coding Agents",
+        "LLMs",
+        "Native Apps"
+      ],
+      "published": "2026-08-21T16:07:32.000Z"
+    },
+    {
+      "id": "83a226a56873b5f9",
+      "title": "A Need for Speed",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/08/a-need-for-speed/",
+      "pacer": "A",
+      "keywords": [
+        "car enthusiast",
+        "Volkswagen Beetle",
+        "nostalgia",
+        "personal history",
+        "automotive"
+      ],
+      "published": "2026-08-21T15:36:02.000Z"
+    },
+    {
+      "id": "21b220d0ec1ebd80",
+      "title": "Quoting Matt Webb",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "learning",
+        "quaternions",
+        "education"
+      ],
+      "published": "2026-08-21T15:06:26.000Z"
+    },
+    {
+      "id": "e75a00f380844c1c",
+      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "template bloat",
+        "code optimization",
+        "refactoring",
+        "binary size"
+      ],
+      "published": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "id": "7c08525c7d647a17",
+      "title": "How would you know whether an ancient culture had zero?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
+      "pacer": "C",
+      "keywords": [
+        "zero",
+        "number systems",
+        "base 26",
+        "mathematics",
+        "positional notation"
+      ],
+      "published": "2026-08-21T13:14:28.000Z"
+    },
+    {
+      "id": "d3d721a5993c18e6",
+      "title": "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Ed Yong",
+        "Animal Senses",
+        "Biology",
+        "Nature"
+      ],
+      "published": "2026-08-21T11:34:36.000Z"
+    },
+    {
+      "id": "a92d76d22be0519e",
+      "title": "Why shaming people about AI slop isn’t enough to stop Big AI",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "url": "https://anildash.com/2026/08/21/ai-slop-and-shame/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Anil Dash",
+        "Big Tech",
+        "Ethics",
+        "Creative Culture"
+      ],
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "7adc2413bdf79b6c",
+      "title": "Rust Glancer",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/08/21/rust-glancer.html",
+      "pacer": "C",
+      "keywords": [
+        "Rust",
+        "LSP",
+        "rust-analyzer",
+        "memory management",
+        "AST"
+      ],
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "4ff8dc26e1c51de9",
+      "title": "Readers can't identify watermarked AI text",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "watermarking",
+        "artificial intelligence",
+        "text detection",
+        "technology"
+      ],
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "c8cbe369112d07d9",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "pacer": "E",
+      "keywords": [
+        "ChatGPT",
+        "GEO",
+        "SEO",
+        "Promptwatch",
+        "Search Engine"
+      ],
+      "published": "2026-08-20T23:57:32.000Z"
+    },
+    {
+      "id": "d6574b372d67d813",
+      "title": "Pluralistic: The actual epistemic crisis (20 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/20/epistemic-void/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "epistemic crisis",
+        "deepfakes",
+        "misinformation",
+        "Cory Doctorow"
+      ],
+      "published": "2026-08-20T23:41:21.000Z"
+    },
+    {
       "id": "eca7c15f998fb59b",
       "title": "A Sloppy Interface Is a Security Liability ￼",
       "source": "Jim Nielsen’s Blog",
@@ -15,6 +223,22 @@
         "digital literacy"
       ],
       "published": "2026-08-20T19:00:00.000Z"
+    },
+    {
+      "id": "4c457758ac4f37b1",
+      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "template bloat",
+        "optimization",
+        "coding",
+        "software engineering"
+      ],
+      "published": "2026-08-20T14:00:00.000Z"
     },
     {
       "id": "33b73044ac51d749",
@@ -111,54 +335,6 @@
         "Rust"
       ],
       "published": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "id": "606747c020460cc9",
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "pacer": "E",
-      "keywords": [
-        "smolmachines",
-        "sandbox",
-        "security",
-        "Claude Code",
-        "virtualization"
-      ],
-      "published": "2026-08-19T23:16:00.000Z"
-    },
-    {
-      "id": "430ba0c7a24894d4",
-      "title": "Quoting Jeremy Morrell",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-      "pacer": "C",
-      "keywords": [
-        "LLMs",
-        "extensible software",
-        "sandboxing",
-        "software architecture",
-        "generative AI"
-      ],
-      "published": "2026-08-19T22:56:31.000Z"
-    },
-    {
-      "id": "e0c0c7d06c2b5539",
-      "title": "Conceptual integrity and counting lines of code",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "software engineering",
-        "productivity",
-        "lines of code",
-        "cognitive capacity"
-      ],
-      "published": "2026-08-19T22:46:07.000Z"
     },
     {
       "id": "eb01a5f2a6784b62",
@@ -303,22 +479,6 @@
         "Future"
       ],
       "published": "2026-08-18T22:09:05.731Z"
-    },
-    {
-      "id": "d82f5875badeb539",
-      "title": "Mojo🔥 is now open source",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-      "pacer": "C",
-      "keywords": [
-        "Mojo",
-        "open-source",
-        "Python",
-        "GPU",
-        "programming-language"
-      ],
-      "published": "2026-08-18T21:39:20.000Z"
     },
     {
       "id": "291a9ed2b4c6aaaa",
@@ -481,22 +641,6 @@
       "published": "2026-08-18T00:00:00.000Z"
     },
     {
-      "id": "e31db42fd1ba6c48",
-      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-      "pacer": "E",
-      "keywords": [
-        "Qwen",
-        "LLM",
-        "AI",
-        "Benchmark",
-        "Artificial Analysis"
-      ],
-      "published": "2026-08-17T23:58:14.000Z"
-    },
-    {
       "id": "8539464d41907090",
       "title": "Snakes and Ladders",
       "source": "Entropic Thoughts",
@@ -529,22 +673,6 @@
       "published": "2026-08-17T15:54:40.000Z"
     },
     {
-      "id": "3aa3e8b93c367b89",
-      "title": "How do functions like alloca allocate memory from the stack?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617",
-      "pacer": "C",
-      "keywords": [
-        "alloca",
-        "stack memory",
-        "memory allocation",
-        "C programming",
-        "compiler"
-      ],
-      "published": "2026-08-17T14:00:00.000Z"
-    },
-    {
       "id": "eafa5f066671af13",
       "title": "And then the men with guns tell you to do it anyway",
       "source": "Terence Eden’s Blog",
@@ -575,22 +703,6 @@
         "law"
       ],
       "published": "2026-08-17T07:00:08.000Z"
-    },
-    {
-      "id": "67add3439a4ab48c",
-      "title": "Proportion of 1s in a Hadamard matrix",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/",
-      "pacer": "C",
-      "keywords": [
-        "Hadamard matrix",
-        "Kronecker product",
-        "Mathematics",
-        "Linear algebra",
-        "Matrix construction"
-      ],
-      "published": "2026-08-17T01:16:39.000Z"
     },
     {
       "id": "b961931d546f10f9",
@@ -785,22 +897,6 @@
       "published": "2026-08-14T19:00:00.000Z"
     },
     {
-      "id": "e23d443e9e9c0dc3",
-      "title": "Edinburgh Fringe: Target Audience ★★★★★",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/",
-      "pacer": "A",
-      "keywords": [
-        "Edinburgh Fringe",
-        "Target Audience",
-        "Theater Review",
-        "Comedy",
-        "Performance"
-      ],
-      "published": "2026-08-14T18:45:41.000Z"
-    },
-    {
       "id": "2972744b0c54596d",
       "title": "This Week on The Analog Antiquarian",
       "source": "The Digital Antiquarian",
@@ -815,22 +911,6 @@
         "gaming history"
       ],
       "published": "2026-08-14T16:05:50.000Z"
-    },
-    {
-      "id": "6e8fc372f4619d08",
-      "title": "Forcing an ARM64X executable to run as a specific architecture",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613",
-      "pacer": "P",
-      "keywords": [
-        "ARM64X",
-        "Windows",
-        "Architecture",
-        "Executable",
-        "System Programming"
-      ],
-      "published": "2026-08-14T14:00:00.000Z"
     },
     {
       "id": "24aaa782ab15e436",
@@ -975,22 +1055,6 @@
         "efficiency"
       ],
       "published": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "id": "2a0d7fc844508773",
-      "title": "Pluralistic: Model collapse (12 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "management",
-        "centaurs",
-        "labor",
-        "tech-criticism"
-      ],
-      "published": "2026-08-12T08:55:27.000Z"
     },
     {
       "id": "e256f41f0034bedb",
@@ -1213,22 +1277,6 @@
         "Cloud Pricing",
         "LLM Costs",
         "Token Economy"
-      ],
-      "published": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "id": "599944bb604f38e5",
-      "title": "Advanced AI sycophancy",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/advanced-ai-sycophancy/",
-      "pacer": "C",
-      "keywords": [
-        "AI safety",
-        "Sycophancy",
-        "Language models",
-        "AI alignment",
-        "Machine learning"
       ],
       "published": "2026-08-10T00:00:00.000Z"
     },
@@ -2733,22 +2781,6 @@
       "published": "2026-07-10T16:23:56.000Z"
     },
     {
-      "id": "de462961452317c0",
-      "title": "This Week on The Analog Antiquarian",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/",
-      "pacer": "C",
-      "keywords": [
-        "Digital Antiquarian",
-        "Henry VI Part 3",
-        "Software History",
-        "Retrogaming",
-        "Game Development"
-      ],
-      "published": "2026-07-10T16:20:37.000Z"
-    },
-    {
       "id": "bdfb1ef18e23afea",
       "title": "Don't you mean extinct?",
       "source": "Fabien Sanglard",
@@ -3866,22 +3898,6 @@
       "published": "2026-05-22T19:00:00.000Z"
     },
     {
-      "id": "9330e690b35abdf8",
-      "title": "TIL: Symlinking NixOS Dotfiles",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html",
-      "pacer": "P",
-      "keywords": [
-        "NixOS",
-        "dotfiles",
-        "symlink",
-        "systemd-tmpfiles",
-        "configuration"
-      ],
-      "published": "2026-05-21T00:00:00.000Z"
-    },
-    {
       "id": "b301f5477712d130",
       "title": "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
       "source": "micahflee",
@@ -4120,22 +4136,6 @@
         "code quality"
       ],
       "published": "2026-05-03T00:00:00.000Z"
-    },
-    {
-      "id": "1e8a7cc7e02f2683",
-      "title": "Why are the Artemis II photos on Flickr?",
-      "source": "Anil Dash",
-      "source_url": "https://anildash.com/",
-      "url": "https://anildash.com/2026/04/30/artemis-photos-flickr/",
-      "pacer": "C",
-      "keywords": [
-        "NASA",
-        "Flickr",
-        "Artemis II",
-        "Web 2.0",
-        "Digital Archiving"
-      ],
-      "published": "2026-04-30T00:00:00.000Z"
     },
     {
       "id": "a1db390df188cc3d",
@@ -4645,16 +4645,6 @@
     }
   ],
   "links": [
-    {
-      "source": "9776cb0e654a7960",
-      "target": "3aa3e8b93c367b89",
-      "shared_keywords": [
-        "alloca",
-        "C programming",
-        "compiler"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "24aaa782ab15e436",
       "target": "a434044cc9e34d2d",

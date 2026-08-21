@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 20 Aug 2026 22:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:10:58 GMT</lastBuildDate>
     
+    <item>
+      <title>Why shaming people about AI slop isn’t enough to stop Big AI</title>
+      <link>https://anildash.com/2026/08/21/ai-slop-and-shame/</link>
+      <guid>https://anildash.com/2026/08/21/ai-slop-and-shame/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash argues that shaming AI usage is insufficient to counter the influence of Big AI corporations. He suggests that the current binary narrative, which frames the choice as either using exploitative AI tools or nothing at all, ignores viable alternatives and fails to challenge the systemic power of tech giants.</description>
+    </item>
+
+    <item>
+      <title>A Need for Speed</title>
+      <link>https://www.filfre.net/2026/08/a-need-for-speed/</link>
+      <guid>https://www.filfre.net/2026/08/a-need-for-speed/</guid>
+      <pubDate>Fri, 21 Aug 2026 15:36:02 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>The author reflects on their youth as a car enthusiast, sharing personal anecdotes about their first vehicle, a 1966 Volkswagen Beetle. This nostalgic piece serves as a reflective introduction to the author's history with mechanical interests.</description>
+    </item>
+
+    <item>
+      <title>Rust Glancer</title>
+      <link>https://matklad.github.io/2026/08/21/rust-glancer.html</link>
+      <guid>https://matklad.github.io/2026/08/21/rust-glancer.html</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The author discusses Rust Glancer, a memory-efficient LSP server for Rust, while critiquing current syntax tree approaches in tools like rust-analyzer. The post highlights the challenges of indexing large workspaces and suggests potential optimizations for function analysis and proc macro handling.</description>
+    </item>
+
+    <item>
+      <title>How would you know whether an ancient culture had zero?</title>
+      <link>https://www.johndcook.com/blog/2026/08/21/ancient-number-system/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/21/ancient-number-system/</guid>
+      <pubDate>Fri, 21 Aug 2026 13:14:28 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article explores the mathematical requirements for a number system to include a concept of zero, using spreadsheet column labels as a comparative example. It highlights the distinction between positional notation systems with and without a zero placeholder.</description>
+    </item>
+
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632</guid>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses practical strategies for reducing C++ template bloat by identifying and isolating type-dependent code. It emphasizes refactoring techniques that minimize binary size while maintaining template functionality.</description>
+    </item>
+
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses techniques for optimizing C++ code by minimizing template bloat. It recommends identifying and separating type-dependent code to consolidate function implementations.</description>
+    </item>
+
+    <item>
+      <title>Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/</guid>
+      <pubDate>Fri, 21 Aug 2026 11:34:36 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This book review explores Ed Yong's 'An Immense World,' which examines the diverse and often alien sensory perceptions of the animal kingdom. The author highlights how the book moves beyond simple comparisons to provide a deeper understanding of how different species experience their environments.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The actual epistemic crisis (20 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/20/epistemic-void/</link>
+      <guid>https://pluralistic.net/2026/08/20/epistemic-void/</guid>
+      <pubDate>Thu, 20 Aug 2026 23:41:21 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that AI is fueling an 'epistemic crisis' by democratizing the creation of realistic deepfakes, making it impossible to discern truth from fabrication. He compares this phenomenon to Vladislav Surkov’s strategy of sowing universal doubt, which erodes trust in reality itself.</description>
+    </item>
+
+    <item>
+      <title>llm 0.32.1</title>
+      <link>https://simonwillison.net/2026/Aug/21/llm/</link>
+      <guid>https://simonwillison.net/2026/Aug/21/llm/</guid>
+      <pubDate>Fri, 21 Aug 2026 17:16:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.32.1 of the LLM tool to resolve a dependency issue caused by changes in the OpenAI Python library. The update pins the library version to ensure stability while preparing for a migration to httpx2 in the next release.</description>
+    </item>
+
+    <item>
+      <title>llm-openrouter 0.7</title>
+      <link>https://simonwillison.net/2026/Aug/21/llm-openrouter/</link>
+      <guid>https://simonwillison.net/2026/Aug/21/llm-openrouter/</guid>
+      <pubDate>Fri, 21 Aug 2026 16:58:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released llm-openrouter 0.7, featuring compatibility with LLM 0.32 and support for OpenRouter's Responses API. The update also introduces three new server-side tools: Shell, WebFetch, and WebSearch.</description>
+    </item>
+
+    <item>
+      <title>Stop Making TUIs</title>
+      <link>https://simonwillison.net/2026/Aug/21/stop-making-tuis/</link>
+      <guid>https://simonwillison.net/2026/Aug/21/stop-making-tuis/</guid>
+      <pubDate>Fri, 21 Aug 2026 16:07:32 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Thomas Ptacek argues that developers should stop relying solely on command-line interfaces for personal projects, as coding agents now make creating native GUIs trivial. Simon Willison supports this perspective, noting that leveraging AI tools like LLMs can quickly turn throwaway scripts into functional desktop applications.</description>
+    </item>
+
+    <item>
+      <title>Quoting Matt Webb</title>
+      <link>https://simonwillison.net/2026/Aug/21/matt-webb/</link>
+      <guid>https://simonwillison.net/2026/Aug/21/matt-webb/</guid>
+      <pubDate>Fri, 21 Aug 2026 15:06:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Matt Webb discusses using ChatGPT as an interactive tutor to master complex mathematical concepts like quaternions for app development. He emphasizes that AI does not replace human learning but rather serves as a catalyst for deeper understanding and skill acquisition.</description>
+    </item>
+
+    <item>
+      <title>ChatGPT search now uses the site:operator at scale</title>
+      <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
+      <guid>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</guid>
+      <pubDate>Thu, 20 Aug 2026 23:57:32 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Promptwatch data reveals that ChatGPT has significantly increased its use of site-specific search operators, likely tied to recent updates in its underlying search engine technology. The analysis highlights the emergence of Generative Engine Optimization (GEO) as a critical practice for brands to track visibility in AI chatbot responses.</description>
+    </item>
+
+    <item>
+      <title>A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView</title>
+      <link>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</link>
+      <guid>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:37:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison explores the new Bun.WebView feature released in Bun 1.4, which enables native browser automation. He demonstrates how to leverage this capability to build a JSON API similar to his shot-scraper tool.</description>
+    </item>
+
+    <item>
+      <title>Readers can't identify watermarked AI text</title>
+      <link>https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</link>
+      <guid>https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the limitations of watermarking technology in identifying AI-generated text. It highlights that current methods often fail to reliably detect machine-written content, raising concerns about the efficacy of AI labeling.</description>
+    </item>
+
     <item>
       <title>Introducing Dashboard Touch, a build-your-own version of Touch ID</title>
       <link>https://anildash.com/2026/08/20/introducing-dashboard-touch/</link>
@@ -769,141 +904,6 @@
       <pubDate>Wed, 12 Aug 2026 21:22:09 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>The author discusses the confusion caused by multiple shows titled 'Heated Rivalry' at the Edinburgh Fringe Festival. They share their experience attending the 'unauthorized musical parody' version hosted at the Udderbelly venue.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</guid>
-      <pubDate>Wed, 12 Aug 2026 19:20:01 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review evaluates James Rowland's 'Team Viking' at the Edinburgh Fringe, acknowledging the performer's talent while criticizing the show's predictable narrative structure. The critic finds the performance technically proficient yet repetitive, ultimately failing to resonate on an emotional level.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</guid>
-      <pubDate>Wed, 12 Aug 2026 17:55:57 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review critiques Garrett Millerick’s Edinburgh Fringe show, which features an AI trained on his stand-up comedy routines. The author finds the performance both dull and offensive, noting unprofessional behavior towards audience members and repetitive, tired subject matter.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: When Vincent Met John ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</guid>
-      <pubDate>Wed, 12 Aug 2026 15:30:12 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews the Edinburgh Fringe play 'When Vincent Met John,' which imagines a fictional conversation between Vincent van Gogh and John Lennon. The author praises the production for its unique non-musical format and extended duration compared to standard Fringe performances.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</guid>
-      <pubDate>Tue, 11 Aug 2026 22:23:14 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post recounts a spontaneous and delightful experience watching Lithuanian comedian Justina Seselskaite at the Edinburgh Fringe festival. The author praises the performance, highlighting the surprise and joy of discovering high-quality comedy through a random choice.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:21:05 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on the value of seeking diverse cultural experiences at the Edinburgh Fringe Festival beyond mainstream comedy. They describe the experience of attending a classical music performance of Handel's Nine German Arias in a church setting.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Hamlet The Musical ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:19:16 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post provides a brief, mixed review of the Edinburgh Fringe production 'Hamlet The Musical.' The author highlights that while the show features clever lyrics and a strong performance by KT Ihnatyszyn, it ultimately suffers from pacing issues and fails to fully capitalize on its comedic potential.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Afronauts ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</guid>
-      <pubDate>Tue, 11 Aug 2026 16:17:12 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews 'Afronauts', an acrobatic show at the Edinburgh Fringe that reimagines the true story of the Zambia Space Academy's space race ambitions. The performance blends Afrofuturist themes with impressive circus skills to create a delightful experience for all ages.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:45:28 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post offers a review of a unique, technically impressive children's show at the Edinburgh Fringe. The author likens the performance to a live-action XKCD cartoon, noting its blend of hand-drawn aesthetics and high-energy staging.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</guid>
-      <pubDate>Tue, 11 Aug 2026 11:34:37 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post provides a hands-on review of the new Soundpeats UU2 POP Clip2 earphones, comparing them to the previous generation model. The author evaluates the updated design and addresses common performance concerns found in the earlier Clip1 version.</description>
-    </item>
-
-    <item>
-      <title>alchemy-utils 0.1a1</title>
-      <link>https://simonwillison.net/2026/Aug/13/alchemy-utils/</link>
-      <guid>https://simonwillison.net/2026/Aug/13/alchemy-utils/</guid>
-      <pubDate>Thu, 13 Aug 2026 03:03:17 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released alchemy-utils 0.1a1, a new tool designed to enhance performance for DuckDB exports and CSV imports. The release introduces optimizations for handling data files more efficiently.</description>
-    </item>
-
-    <item>
-      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
-      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
-      <guid>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</guid>
-      <pubDate>Wed, 12 Aug 2026 23:59:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison covers the release of the DeepSeek V4 Pro 0813 model, which is available via OpenRouter and Hugging Face. The post highlights the model's significant 1.7T parameter size and notes distinct variations in image generation quality across different reasoning levels.</description>
-    </item>
-
-    <item>
-      <title>alchemy-utils 0.1a0</title>
-      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
-      <guid>https://simonwillison.net/2026/Aug/12/alchemy-utils/</guid>
-      <pubDate>Wed, 12 Aug 2026 19:51:30 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released alchemy-utils 0.1a0, a new Python library designed to provide database-agnostic utility functions similar to sqlite-utils. The project was prototyped using AI-assisted coding to bridge core API methods with SQLAlchemy support for PostgreSQL, SQLite, and DuckDB.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 516: Live From Vietnam</title>
-      <link>https://www.troyhunt.com/weekly-update-516/</link>
-      <guid>https://www.troyhunt.com/weekly-update-516/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:16:15 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt shares a personal weekly update broadcasted from Vietnam despite technical challenges. He highlights a specific case regarding the Brinks Home FAQ, critiquing the company's poor implementation of their own security documentation.</description>
-    </item>
-
-    <item>
-      <title>Books I Enjoyed In 2026H1</title>
-      <link>https://borretti.me/article/books-i-enjoyed-in-2026-h1</link>
-      <guid>https://borretti.me/article/books-i-enjoyed-in-2026-h1</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This post provides a curated list of books the author read and enjoyed during the first half of 2026. It serves as a personal recommendation log for readers looking for new literary suggestions.</description>
-    </item>
-
-    <item>
-      <title>Card Sharks</title>
-      <link>https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</link>
-      <guid>https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</guid>
-      <pubDate>Wed, 12 Aug 2026 18:27:39 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the 1980s trend of adapting greeting card mascots into Saturday morning cartoons. It analyzes how companies like American Greetings utilized a model similar to modern media franchises to turn greeting card characters into enduring pop-culture icons.</description>
     </item>
   </channel>
 </rss>
