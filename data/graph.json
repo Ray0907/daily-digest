@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "0eccfa5da2ee777f",
+      "title": "Quoting Linus Torvalds",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "pacer": "E",
+      "keywords": [
+        "Linus Torvalds",
+        "Linux",
+        "AI",
+        "debugging",
+        "programming"
+      ],
+      "published": "2026-08-22T21:04:26.000Z"
+    },
+    {
+      "id": "2948ba53feffa8c3",
+      "title": "llm 0.33",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "pacer": "P",
+      "keywords": [
+        "llm",
+        "cli",
+        "openai",
+        "python",
+        "embedding"
+      ],
+      "published": "2026-08-22T17:01:16.000Z"
+    },
+    {
+      "id": "d548c978bd4efd13",
+      "title": "More than just code review",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "pacer": "C",
+      "keywords": [
+        "coding-agents",
+        "code-review",
+        "generative-ai",
+        "llms",
+        "software-engineering"
+      ],
+      "published": "2026-08-22T15:56:54.000Z"
+    },
+    {
+      "id": "d0881d96e29b4d9f",
+      "title": "Coming soon",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/22/coming-soon/",
+      "pacer": "A",
+      "keywords": [
+        "mathematical modeling",
+        "probability",
+        "estimation",
+        "wait time",
+        "statistics"
+      ],
+      "published": "2026-08-22T15:34:11.000Z"
+    },
+    {
+      "id": "cc961a63e817b6ab",
+      "title": "Concurrent Servers: Part 8 - Go",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/",
+      "pacer": "P",
+      "keywords": [
+        "Go",
+        "concurrent servers",
+        "network programming",
+        "TCP",
+        "state machine"
+      ],
+      "published": "2026-08-22T14:52:00.000Z"
+    },
+    {
+      "id": "eb39733466324e8d",
+      "title": "Reading List 08/22/26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-082226",
+      "pacer": "R",
+      "keywords": [
+        "ADU",
+        "infrastructure",
+        "energy",
+        "construction",
+        "water-resources"
+      ],
+      "published": "2026-08-22T12:02:58.000Z"
+    },
+    {
+      "id": "9a28a09ec70e9336",
+      "title": "This Week in Package Management: 22 August 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/22/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "Go",
+        "Rust",
+        "Bun",
+        "pnpm"
+      ],
+      "published": "2026-08-22T10:00:00.000Z"
+    },
+    {
+      "id": "727ddd34ec59e124",
+      "title": "Pluralistic: Born on technology's third base (21 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/21/world-historic-forces/",
+      "pacer": "C",
+      "keywords": [
+        "tech career",
+        "privilege",
+        "socioeconomics",
+        "meritocracy",
+        "Cory Doctorow"
+      ],
+      "published": "2026-08-22T01:19:10.000Z"
+    },
+    {
+      "id": "602915b7f62b1060",
+      "title": "Fast and Hard Code",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "pacer": "C",
+      "keywords": [
+        "LLM",
+        "Rust",
+        "Zig",
+        "Programming",
+        "Performance"
+      ],
+      "published": "2026-08-22T00:00:00.000Z"
+    },
+    {
+      "id": "231986ec84d3ed21",
+      "title": "You should never be angry at work",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/you-should-never-be-angry-at-work/",
+      "pacer": "C",
+      "keywords": [
+        "workplace",
+        "emotional intelligence",
+        "anger management",
+        "professionalism",
+        "career development"
+      ],
+      "published": "2026-08-22T00:00:00.000Z"
+    },
+    {
       "id": "cf6af109a0ee1fd2",
       "title": "llm 0.32.1",
       "source": "Simon Willison's Weblog",
@@ -33,22 +193,6 @@
       "published": "2026-08-21T16:58:19.000Z"
     },
     {
-      "id": "51b0cf062317357a",
-      "title": "Stop Making TUIs",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-      "pacer": "C",
-      "keywords": [
-        "TUI",
-        "GUI",
-        "Coding Agents",
-        "LLMs",
-        "Native Apps"
-      ],
-      "published": "2026-08-21T16:07:32.000Z"
-    },
-    {
       "id": "83a226a56873b5f9",
       "title": "A Need for Speed",
       "source": "The Digital Antiquarian",
@@ -63,22 +207,6 @@
         "automotive"
       ],
       "published": "2026-08-21T15:36:02.000Z"
-    },
-    {
-      "id": "21b220d0ec1ebd80",
-      "title": "Quoting Matt Webb",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "learning",
-        "quaternions",
-        "education"
-      ],
-      "published": "2026-08-21T15:06:26.000Z"
     },
     {
       "id": "e75a00f380844c1c",
@@ -129,6 +257,22 @@
       "published": "2026-08-21T11:34:36.000Z"
     },
     {
+      "id": "d9678b8041f918c4",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "agent.md",
+        "code quality",
+        "prompt engineering",
+        "developer tools"
+      ],
+      "published": "2026-08-21T00:00:00.000Z"
+    },
+    {
       "id": "a92d76d22be0519e",
       "title": "Why shaming people about AI slop isn’t enough to stop Big AI",
       "source": "Anil Dash",
@@ -175,22 +319,6 @@
         "technology"
       ],
       "published": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "c8cbe369112d07d9",
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "pacer": "E",
-      "keywords": [
-        "ChatGPT",
-        "GEO",
-        "SEO",
-        "Promptwatch",
-        "Search Engine"
-      ],
-      "published": "2026-08-20T23:57:32.000Z"
     },
     {
       "id": "d6574b372d67d813",
@@ -561,22 +689,6 @@
       "published": "2026-08-18T14:00:00.000Z"
     },
     {
-      "id": "7fdfb77c65e1401b",
-      "title": "Mean distance to the sun",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/",
-      "pacer": "C",
-      "keywords": [
-        "orbital mechanics",
-        "elliptical orbit",
-        "astronomy",
-        "mathematics",
-        "mean distance"
-      ],
-      "published": "2026-08-18T13:42:06.000Z"
-    },
-    {
       "id": "7d779f0643d05f54",
       "title": "Two-Factor Authentication Across Package Registries",
       "source": "Andrew Nesbitt",
@@ -945,22 +1057,6 @@
       "published": "2026-08-14T11:24:35.000Z"
     },
     {
-      "id": "1c010bc8fe840f58",
-      "title": "Pluralistic: Capital formation (14 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/14/one-chokable-throat/",
-      "pacer": "C",
-      "keywords": [
-        "competition",
-        "market theory",
-        "antitrust",
-        "regulatory capture",
-        "monopoly"
-      ],
-      "published": "2026-08-14T11:10:41.000Z"
-    },
-    {
       "id": "02ac37d97e00048a",
       "title": "How This Blog Is Built",
       "source": "Andrew Nesbitt",
@@ -991,22 +1087,6 @@
         "lists"
       ],
       "published": "2026-08-14T00:00:00.000Z"
-    },
-    {
-      "id": "4ba9a7cddfd1303e",
-      "title": "Supplier Security Questionnaire",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html",
-      "pacer": "R",
-      "keywords": [
-        "Supplier Security",
-        "Third-Party Risk",
-        "Software Supply Chain",
-        "Compliance",
-        "Security Questionnaire"
-      ],
-      "published": "2026-08-13T17:00:00.000Z"
     },
     {
       "id": "ceca0891005e72e4",
@@ -1165,22 +1245,6 @@
         "commenting",
         "social psychology",
         "discourse"
-      ],
-      "published": "2026-08-11T00:00:00.000Z"
-    },
-    {
-      "id": "27c9f41da56bfbf6",
-      "title": "No, local models will not win",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/local-models-will-not-win/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Cloud Computing",
-        "Local LLM",
-        "Tech Trends",
-        "Model Deployment"
       ],
       "published": "2026-08-11T00:00:00.000Z"
     },
@@ -1775,22 +1839,6 @@
         "retail technology"
       ],
       "published": "2026-08-01T20:18:00.000Z"
-    },
-    {
-      "id": "8ffa86af98dabfce",
-      "title": "Reading List 08/01/26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-080126",
-      "pacer": "R",
-      "keywords": [
-        "科技趨勢",
-        "半導體",
-        "核融合",
-        "基礎建設",
-        "時事觀察"
-      ],
-      "published": "2026-08-01T12:04:01.000Z"
     },
     {
       "id": "eeb58998d69747ee",
@@ -2893,22 +2941,6 @@
       "published": "2026-07-02T10:00:00.000Z"
     },
     {
-      "id": "af4ee6c875c4118b",
-      "title": "Summary of reading: April - June 2026",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/",
-      "pacer": "R",
-      "keywords": [
-        "book reviews",
-        "reading list",
-        "literature",
-        "non-fiction",
-        "Eli Bendersky"
-      ],
-      "published": "2026-07-01T01:52:00.000Z"
-    },
-    {
       "id": "2c635c8dad9b7082",
       "title": "explaining myself through stories",
       "source": "the website of jyn",
@@ -2971,22 +3003,6 @@
         "Vintage Computing"
       ],
       "published": "2026-06-28T03:08:45.674Z"
-    },
-    {
-      "id": "2b1f3c7dcbfb4dee",
-      "title": "My favorite keyboards",
-      "source": "Fabien Sanglard",
-      "source_url": "https://fabiensanglard.net/",
-      "url": "https://fabiensanglard.net/keyboards/index.html",
-      "pacer": "A",
-      "keywords": [
-        "keyboards",
-        "typing",
-        "hardware",
-        "reviews",
-        "peripherals"
-      ],
-      "published": "2026-06-28T00:00:00.000Z"
     },
     {
       "id": "382bd97bc975abfb",
@@ -3081,22 +3097,6 @@
         "energy consumption",
         "parliamentary inquiry",
         "public oversight"
-      ],
-      "published": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "2eece697b1d063df",
-      "title": "The Coming Loop",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "pacer": "C",
-      "keywords": [
-        "coding agents",
-        "AI engineering",
-        "automation",
-        "software development",
-        "loop architecture"
       ],
       "published": "2026-06-23T00:00:00.000Z"
     },
@@ -4645,6 +4645,16 @@
     }
   ],
   "links": [
+    {
+      "source": "2948ba53feffa8c3",
+      "target": "cf6af109a0ee1fd2",
+      "shared_keywords": [
+        "llm",
+        "openai",
+        "python"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "24aaa782ab15e436",
       "target": "a434044cc9e34d2d",

@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-08-21T22:10:57.888Z",
+  "last_updated": "2026-08-22T22:09:07.004Z",
   "articles": [
+    {
+      "id": "d9678b8041f918c4",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "source": "Fabien Sanglard",
+      "source_url": "https://fabiensanglard.net/",
+      "published": "2026-08-21T00:00:00.000Z",
+      "summary_en": "This article discusses the use of an 'agent.md' file as a structured approach to enhance code quality when working with Large Language Models. It likely provides a framework for guiding LLM interactions to ensure better output consistency and maintainability.",
+      "summary_zh": "本文探討如何透過使用 'agent.md' 檔案，建立結構化的溝通方式來提升 AI 輔助程式碼的品質。文中分享了一套引導大型語言模型的框架，旨在確保產出程式碼的一致性與可維護性。",
+      "keywords": [
+        "LLM",
+        "agent.md",
+        "code quality",
+        "prompt engineering",
+        "developer tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a tutorial or guide on implementing a specific file-based workflow for better AI-assisted development.",
+      "pacer_reason_zh": "本文作為一種教學或指南，介紹如何實作特定的檔案工作流程以改善 AI 輔助開發的效果。"
+    },
+    {
+      "id": "cc961a63e817b6ab",
+      "title": "Concurrent Servers: Part 8 - Go",
+      "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-08-22T14:52:00.000Z",
+      "summary_en": "This article is the eighth installment in a series exploring concurrent network server implementations, focusing specifically on the Go programming language. It demonstrates how to build a sequential state-machine server in Go, providing code examples to illustrate the process.",
+      "summary_zh": "本文是探討並行網路伺服器實作系列的第八篇，重點介紹 Go 語言的應用方式。文中展示了如何以 Go 語言編寫一個循序狀態機伺服器，並提供程式碼範例進行說明。",
+      "keywords": [
+        "Go",
+        "concurrent servers",
+        "network programming",
+        "TCP",
+        "state machine"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step implementation guide for building a specific type of network server in Go.",
+      "pacer_reason_zh": "本文提供了使用 Go 語言實作特定網路伺服器的逐步開發指南。"
+    },
+    {
+      "id": "eb39733466324e8d",
+      "title": "Reading List 08/22/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082226",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-22T12:02:58.000Z",
+      "summary_en": "This post provides a curated list of readings covering diverse infrastructure and housing topics, including Los Angeles' ADU trends, electrical manufacturing, and energy production. It also touches on water resource management in the Colorado River basin.",
+      "summary_zh": "本文彙整了關於基礎設施與住宅趨勢的閱讀清單，涵蓋洛杉磯附屬居住單元（ADU）、電力變壓器製造、燃氣渦輪發電廠，以及科羅拉多河的水資源分配等主題。",
+      "keywords": [
+        "ADU",
+        "infrastructure",
+        "energy",
+        "construction",
+        "water-resources"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of resources and topics for further reading.",
+      "pacer_reason_zh": "本文是一份精選閱讀清單，旨在提供進一步研究的參考資源。"
+    },
+    {
+      "id": "9a28a09ec70e9336",
+      "title": "This Week in Package Management: 22 August 2026",
+      "url": "https://nesbitt.io/2026/08/22/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-22T10:00:00.000Z",
+      "summary_en": "This roundup highlights key updates in package management for the week, including Go 1.27's refined module handling and Rust 1.98's new crate publishing filters. It also covers the release of Bun 1.4, which features a transition to a Rust-based codebase, and updates to pnpm's installation and lockfile performance.",
+      "summary_zh": "本週摘要重點報導了套件管理的最新發展，包括 Go 1.27 的模組優化、Rust 1.98 新增的 crate 發佈過濾器。此外，Bun 1.4 迎來了重大的 Rust 重寫版本，pnpm 則針對安裝流程與鎖定檔效能進行了多項改進。",
+      "keywords": [
+        "package management",
+        "Go",
+        "Rust",
+        "Bun",
+        "pnpm"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a curated list and reference digest for software release updates.",
+      "pacer_reason_zh": "本文彙整了軟體更新資訊，屬於提供參考性質的摘要列表。"
+    },
+    {
+      "id": "d0881d96e29b4d9f",
+      "title": "Coming soon",
+      "url": "https://www.johndcook.com/blog/2026/08/22/coming-soon/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-22T15:34:11.000Z",
+      "summary_en": "The author uses a local 'Coming Soon' pizza shop sign to explore the mathematical modeling of wait times for future events. He discusses how to estimate the time until a specific event occurs based on observation intervals.",
+      "summary_zh": "作者透過社區披薩店「即將開幕」的招牌，探討如何利用數學模型來預測未來事件發生的等待時間。文章討論了基於觀測間隔來估算特定事件發生日期的邏輯與方法。",
+      "keywords": [
+        "mathematical modeling",
+        "probability",
+        "estimation",
+        "wait time",
+        "statistics"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a common real-world scenario as an analogy to explain a mathematical modeling concept.",
+      "pacer_reason_zh": "文章使用常見的現實生活場景作為類比，來解釋數學建模的概念。"
+    },
+    {
+      "id": "602915b7f62b1060",
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-08-22T00:00:00.000Z",
+      "summary_en": "The rise of LLMs has reduced the friction of learning new programming languages, leading developers to prioritize performance and marketing over language familiarity. This trend is fueling the adoption of high-performance, complex languages like Rust and Zig, even when developers lack deep expertise in them.",
+      "summary_zh": "大型語言模型的普及降低了學習程式語言的門檻，使得開發者在選擇語言時更傾向於效能與市場趨勢，而非個人熟悉度。這股趨勢推動了 Rust 與 Zig 等高效能但學習曲線較陡的語言被廣泛採用，即使開發者本身並不精通這些語言。",
+      "keywords": [
+        "LLM",
+        "Rust",
+        "Zig",
+        "Programming",
+        "Performance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in software development caused by AI, analyzing how LLMs change the prioritization of language choice and performance.",
+      "pacer_reason_zh": "本文探討了人工智慧對軟體開發領域帶來的觀念轉變，分析大型語言模型如何改變程式語言選擇與效能優先級的邏輯。"
+    },
+    {
+      "id": "727ddd34ec59e124",
+      "title": "Pluralistic: Born on technology's third base (21 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/21/world-historic-forces/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-22T01:19:10.000Z",
+      "summary_en": "Cory Doctorow reflects on the societal and historical advantages that shaped his tech career, emphasizing how being born in 1971 to supportive parents provided a unique head start. He argues that individual success is often the result of favorable structural conditions rather than personal merit alone.",
+      "summary_zh": "Cory Doctorow 反思了塑造他科技職涯的社會與歷史優勢，強調他在 1971 年出生並擁有支持型家庭的背景，為他提供了獨特的起跑點。他認為個人的成功往往是優越結構條件的結果，而不僅僅是個人努力的成就。",
+      "keywords": [
+        "tech career",
+        "privilege",
+        "socioeconomics",
+        "meritocracy",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how structural forces and timing influence individual achievement, rather than offering a guide or data-heavy report.",
+      "pacer_reason_zh": "本文針對結構性力量與時代背景如何影響個人成就提供了概念性分析，而非提供操作指南或數據報告。"
+    },
+    {
+      "id": "0eccfa5da2ee777f",
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-22T21:04:26.000Z",
+      "summary_en": "Linus Torvalds recounts using AI to assist in a difficult Linux kernel debugging session. While the AI provided significant help with grunt work, it frequently suggested giving up, highlighting the necessity of human persistence in complex problem-solving.",
+      "summary_zh": "Linux 核心開發者 Linus Torvalds 分享了利用 AI 協助進行艱難除錯工作的經驗。儘管 AI 在處理繁瑣工作上提供了很大幫助，但它多次建議放棄，凸顯了人類在面對複雜問題時，堅持不懈的精神仍然不可或缺。",
+      "keywords": [
+        "Linus Torvalds",
+        "Linux",
+        "AI",
+        "debugging",
+        "programming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a first-hand anecdotal case study of using AI in a real-world high-stakes technical environment.",
+      "pacer_reason_zh": "該文章提供了一個真實的高技術環境下使用 AI 的第一手軼事案例研究。"
+    },
+    {
+      "id": "2948ba53feffa8c3",
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-22T17:01:16.000Z",
+      "summary_en": "Simon Willison released version 0.33 of his LLM CLI tool, featuring an upgrade to the OpenAI Python library and support for per-call keys in embedding methods. Additionally, the update enables the chaining of multiple templates to combine model configurations and prompt instructions.",
+      "summary_zh": "Simon Willison 發布了 LLM 工具的 0.33 版本，主要升級了 OpenAI Python 函式庫並為嵌入方法加入了每呼叫金鑰（per-call keys）支援。此外，更新後的使用者可以串聯多個模板，從而靈活組合模型設定與提示指令。",
+      "keywords": [
+        "llm",
+        "cli",
+        "openai",
+        "python",
+        "embedding"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as release notes for a software tool, detailing specific features and how to use the new command-line template chaining capabilities.",
+      "pacer_reason_zh": "本文作為軟體工具的發布說明，詳細介紹了新功能並展示如何使用新的命令列模板串聯功能。"
+    },
+    {
+      "id": "d548c978bd4efd13",
+      "title": "More than just code review",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-22T15:56:54.000Z",
+      "summary_en": "The author argues that effectively using coding agents requires more than just traditional line-by-line code review. He suggests that developers should shift their focus toward better verification methods to ensure AI-generated changes are accurate and reliable.",
+      "summary_zh": "作者認為，有效利用 AI 程式編寫代理程式不僅僅是進行傳統的程式碼審查。他建議開發人員應將重點轉向更有效的驗證方法，以確保 AI 產出的程式碼變更既準確又可靠。",
+      "keywords": [
+        "coding-agents",
+        "code-review",
+        "generative-ai",
+        "llms",
+        "software-engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual framework for shifting the philosophy of software development and validation in the age of AI agents.",
+      "pacer_reason_zh": "本文提出了在 AI 代理程式時代，關於軟體開發與驗證哲學轉變的概念性觀點。"
+    },
+    {
+      "id": "231986ec84d3ed21",
+      "title": "You should never be angry at work",
+      "url": "https://seangoedecke.com/you-should-never-be-angry-at-work/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-22T00:00:00.000Z",
+      "summary_en": "This article discusses the professional and personal drawbacks of expressing anger in the workplace. It advocates for emotional regulation and maintaining composure to preserve one's reputation and long-term career success.",
+      "summary_zh": "這篇文章探討了在職場中表達憤怒對個人專業形象與職涯發展的負面影響。作者主張透過情緒調節與保持冷靜，以維護工作關係與長期的職業成就。",
+      "keywords": [
+        "workplace",
+        "emotional intelligence",
+        "anger management",
+        "professionalism",
+        "career development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of workplace behavior and the philosophy behind emotional management.",
+      "pacer_reason_zh": "本文側重於職場行為的觀念架構以及情緒管理的理論與準則。"
+    },
     {
       "id": "a92d76d22be0519e",
       "title": "Why shaming people about AI slop isn’t enough to stop Big AI",

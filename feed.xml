@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 21 Aug 2026 22:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:09:07 GMT</lastBuildDate>
     
+    <item>
+      <title>My agent.md to improve LLM-assisted code quality</title>
+      <link>https://fabiensanglard.net/agent.md/index.html</link>
+      <guid>https://fabiensanglard.net/agent.md/index.html</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://fabiensanglard.net/">Fabien Sanglard</source>
+      <description>This article discusses the use of an 'agent.md' file as a structured approach to enhance code quality when working with Large Language Models. It likely provides a framework for guiding LLM interactions to ensure better output consistency and maintainability.</description>
+    </item>
+
+    <item>
+      <title>Concurrent Servers: Part 8 - Go</title>
+      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</link>
+      <guid>https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:52:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article is the eighth installment in a series exploring concurrent network server implementations, focusing specifically on the Go programming language. It demonstrates how to build a sequential state-machine server in Go, providing code examples to illustrate the process.</description>
+    </item>
+
+    <item>
+      <title>Reading List 08/22/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-082226</link>
+      <guid>https://www.construction-physics.com/p/reading-list-082226</guid>
+      <pubDate>Sat, 22 Aug 2026 12:02:58 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post provides a curated list of readings covering diverse infrastructure and housing topics, including Los Angeles' ADU trends, electrical manufacturing, and energy production. It also touches on water resource management in the Colorado River basin.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 22 August 2026</title>
+      <link>https://nesbitt.io/2026/08/22/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/08/22/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 22 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This roundup highlights key updates in package management for the week, including Go 1.27's refined module handling and Rust 1.98's new crate publishing filters. It also covers the release of Bun 1.4, which features a transition to a Rust-based codebase, and updates to pnpm's installation and lockfile performance.</description>
+    </item>
+
+    <item>
+      <title>Coming soon</title>
+      <link>https://www.johndcook.com/blog/2026/08/22/coming-soon/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/22/coming-soon/</guid>
+      <pubDate>Sat, 22 Aug 2026 15:34:11 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author uses a local 'Coming Soon' pizza shop sign to explore the mathematical modeling of wait times for future events. He discusses how to estimate the time until a specific event occurs based on observation intervals.</description>
+    </item>
+
+    <item>
+      <title>Fast and Hard Code</title>
+      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
+      <guid>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The rise of LLMs has reduced the friction of learning new programming languages, leading developers to prioritize performance and marketing over language familiarity. This trend is fueling the adoption of high-performance, complex languages like Rust and Zig, even when developers lack deep expertise in them.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Born on technology's third base (21 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/21/world-historic-forces/</link>
+      <guid>https://pluralistic.net/2026/08/21/world-historic-forces/</guid>
+      <pubDate>Sat, 22 Aug 2026 01:19:10 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow reflects on the societal and historical advantages that shaped his tech career, emphasizing how being born in 1971 to supportive parents provided a unique head start. He argues that individual success is often the result of favorable structural conditions rather than personal merit alone.</description>
+    </item>
+
+    <item>
+      <title>Quoting Linus Torvalds</title>
+      <link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
+      <guid>https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
+      <pubDate>Sat, 22 Aug 2026 21:04:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Linus Torvalds recounts using AI to assist in a difficult Linux kernel debugging session. While the AI provided significant help with grunt work, it frequently suggested giving up, highlighting the necessity of human persistence in complex problem-solving.</description>
+    </item>
+
+    <item>
+      <title>llm 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/22/llm/</link>
+      <guid>https://simonwillison.net/2026/Aug/22/llm/</guid>
+      <pubDate>Sat, 22 Aug 2026 17:01:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.33 of his LLM CLI tool, featuring an upgrade to the OpenAI Python library and support for per-call keys in embedding methods. Additionally, the update enables the chaining of multiple templates to combine model configurations and prompt instructions.</description>
+    </item>
+
+    <item>
+      <title>More than just code review</title>
+      <link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
+      <guid>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</guid>
+      <pubDate>Sat, 22 Aug 2026 15:56:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The author argues that effectively using coding agents requires more than just traditional line-by-line code review. He suggests that developers should shift their focus toward better verification methods to ensure AI-generated changes are accurate and reliable.</description>
+    </item>
+
+    <item>
+      <title>You should never be angry at work</title>
+      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
+      <guid>https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article discusses the professional and personal drawbacks of expressing anger in the workplace. It advocates for emotional regulation and maintaining composure to preserve one's reputation and long-term career success.</description>
+    </item>
+
     <item>
       <title>Why shaming people about AI slop isn’t enough to stop Big AI</title>
       <link>https://anildash.com/2026/08/21/ai-slop-and-shame/</link>
@@ -805,105 +904,6 @@
       <pubDate>Thu, 13 Aug 2026 19:37:34 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>The llm-gemini plugin has been updated to version 0.33, adding support for the new Gemini 3.7 Flash model and various embedding models. It also introduces compatibility with LLM 0.32, enabling new features like reasoning traces and server-side tool execution.</description>
-    </item>
-
-    <item>
-      <title>Another partial SSI trick with canonicalize</title>
-      <link>https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss</link>
-      <guid>https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
-      <description>This post discusses the implementation of a canonicalize function in ZJIT to optimize compiler IR by eliminating redundant type guards. The author highlights the progression from a block-local implementation to a more robust global version, emphasizing the value of starting with simple, verifiable code before optimizing.</description>
-    </item>
-
-    <item>
-      <title>Supplier Security Questionnaire</title>
-      <link>https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</link>
-      <guid>https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</guid>
-      <pubDate>Thu, 13 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article presents a template for a rigorous third-party security questionnaire designed for software component suppliers. It outlines specific requirements, including vulnerability disclosure policies, compliance certifications, and secure development practices, to ensure supply chain integrity.</description>
-    </item>
-
-    <item>
-      <title>Constructing Hadamard matrices</title>
-      <link>https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:02:41 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explains the definition of Hadamard matrices, which are orthogonal matrices containing only 1s and -1s. It also introduces Sylvester's method for constructing larger Hadamard matrices from smaller ones.</description>
-    </item>
-
-    <item>
-      <title>The comments that go into code versus those that go into the pull request description</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the distinction between documentation placed directly within source code versus information that belongs in a pull request description. It emphasizes the importance of temporal relevance in deciding where to document specific technical details.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</guid>
-      <pubDate>Thu, 13 Aug 2026 22:23:25 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review highlights the production quality and performances in the Edinburgh Fringe show 'Doris, Dolly and the Dressing Room Divas.' The author praises the lavish costumes and live musical accompaniment, noting it stands out among other Fringe productions.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: The Musical Mystery Caller ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</guid>
-      <pubDate>Thu, 13 Aug 2026 20:21:53 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares a delightful, spontaneous encounter at the Edinburgh Fringe Festival involving a surprise phone call from a mysterious street booth. This brief interaction turned into a personalized, improvised musical performance, highlighting the unique charm of the festival's small-scale street theater.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:45:15 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post offers a critical review of a 'Miscast Sondheim' performance at the Edinburgh Fringe. The author expresses disappointment regarding the performers' vocal projection and the show's overall execution despite its interesting concept.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:45:02 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews 'Hot Flush,' an Edinburgh Fringe burlesque show that challenges ageist stereotypes by featuring performers over 40. The author praises the show for its inclusive approach to sexuality and aging, contrasting it with typical industry trends.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</guid>
-      <pubDate>Thu, 13 Aug 2026 14:55:59 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review highlights Eleanor Morton's live show 'The Mermaid' at the Edinburgh Fringe, praising her transition from short-form viral comedy to stage storytelling. The performance is described as a delightful and clever mix of gentle narrative and humor.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Coding Literacy by Annette Vee ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</guid>
-      <pubDate>Thu, 13 Aug 2026 11:34:09 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review expresses disappointment with Annette Vee's 'Coding Literacy,' noting that it fails to address how programming changes writing. Instead, the author argues the book focuses too heavily on historical definitions of literacy and illiteracy rather than its promised subject.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</guid>
-      <pubDate>Wed, 12 Aug 2026 21:22:09 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author discusses the confusion caused by multiple shows titled 'Heated Rivalry' at the Edinburgh Fringe Festival. They share their experience attending the 'unauthorized musical parody' version hosted at the Udderbelly venue.</description>
     </item>
   </channel>
 </rss>
