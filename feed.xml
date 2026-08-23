@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 22 Aug 2026 22:09:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:09:29 GMT</lastBuildDate>
     
+    <item>
+      <title>The summer of open weights</title>
+      <link>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article highlights the rapid advancement of open-weight models in 2026, marking a shift in the AI landscape. It argues that compute availability, rather than model performance, has become the primary driver of market pricing.</description>
+    </item>
+
+    <item>
+      <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
+      <guid>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:39:45 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>The Sri Lankan government has become the 48th nation to join Have I Been Pwned's free service for government agencies. By integrating with Sri Lanka CERT, the platform enables the government to monitor and respond to data breaches involving official domains.</description>
+    </item>
+
+    <item>
+      <title>Fixing an eMachines EL1200 BIOS bug with Claude</title>
+      <link>https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/</link>
+      <guid>https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/</guid>
+      <pubDate>Sun, 23 Aug 2026 19:28:10 GMT</pubDate>
+      <source url="https://www.downtowndougbrown.com/">Downtown Doug Brown</source>
+      <description>The author shares their experience using AI to resolve a BIOS bug on an eMachines EL1200, building on their history of hacking legacy hardware. The piece highlights how modern LLMs can assist in troubleshooting complex firmware and technical configuration issues.</description>
+    </item>
+
+    <item>
+      <title>A Syncthing and SQLite Gotcha</title>
+      <link>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</link>
+      <guid>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</guid>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This post explains the technical risks associated with using Syncthing to synchronize SQLite databases. It highlights how the 'rename' system call can lead to data corruption when file synchronization conflicts with database write operations.</description>
+    </item>
+
+    <item>
+      <title>Vim's UserGettingBored autocmd</title>
+      <link>https://evanhahn.com/usergettingbored-vim/</link>
+      <guid>https://evanhahn.com/usergettingbored-vim/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This article explores the history and function of Vim's 'UserGettingBored' autocmd, a long-standing joke hidden within the text editor's documentation. While the event itself does not perform any native function, it has persisted for over two decades and eventually inspired a third-party plugin.</description>
+    </item>
+
+    <item>
+      <title>What exactly is modified about a modified Bessel function?</title>
+      <link>https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/</guid>
+      <pubDate>Sun, 23 Aug 2026 18:40:57 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the naming conventions of mathematical functions, specifically focusing on why certain Bessel functions are labeled as &quot;modified.&quot; It aims to provide context and motivation behind these terms to help readers better understand their mathematical purpose.</description>
+    </item>
+
+    <item>
+      <title>Why special function terminology is arcane</title>
+      <link>https://www.johndcook.com/blog/2026/08/23/arcane-terminology/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/23/arcane-terminology/</guid>
+      <pubDate>Sun, 23 Aug 2026 17:56:03 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>Special function terminology remains arcane largely due to multiple independent discoveries of the same functions throughout history. This leads to inconsistent notations and definitions as different researchers developed their own conventions for widely useful mathematical tools.</description>
+    </item>
+
+    <item>
+      <title>The difference orbit inclination makes</title>
+      <link>https://www.johndcook.com/blog/2026/08/22/inclination/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/22/inclination/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:01:10 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the importance of accounting for orbital inclination when calculating the distance between planets like Earth and Mars. It explains that while simplified planar models are often used, incorporating the 1.85° tilt of Mars's orbit significantly improves the accuracy of spatial distance measurements.</description>
+    </item>
+
+    <item>
+      <title>Death to px, long live ch!</title>
+      <link>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</guid>
+      <pubDate>Sun, 23 Aug 2026 11:34:52 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The article explains why 'pixels' in CSS are an abstract unit rather than a reflection of physical display hardware. It advocates for using relative units like 'ch' to create more flexible and responsive web layouts.</description>
+    </item>
+
+    <item>
+      <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
+      <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
+      <guid>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</guid>
+      <pubDate>Sun, 23 Aug 2026 20:24:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post analyzes current financial and adoption trends for Anthropic and OpenAI based on recent reports and billing data. It highlights that while Anthropic is seeing revenue growth, its most expensive models are struggling to gain traction compared to more cost-effective alternatives.</description>
+    </item>
+
+    <item>
+      <title>Quoting Drew Breunig</title>
+      <link>https://simonwillison.net/2026/Aug/23/drew-breunig/</link>
+      <guid>https://simonwillison.net/2026/Aug/23/drew-breunig/</guid>
+      <pubDate>Sun, 23 Aug 2026 19:55:30 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Drew Breunig reflects on how the arrival of expensive, high-performance models like Fable signals the end of relying on constantly improving, cheap AI to fix coding inefficiencies. This shift forces developers to be more strategic about which model is used for specific tasks to optimize costs.</description>
+    </item>
+
     <item>
       <title>My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
@@ -805,105 +904,6 @@
       <pubDate>Thu, 13 Aug 2026 23:54:21 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
       <description>This article explores how NASA used Hadamard matrices, specifically a (32, 6, 16) error-correcting code, to transmit clear images of Mars during the 1971 Mariner 9 mission. It explains the technical necessity of using these codes to prevent data corruption during deep-space signal transmission.</description>
-    </item>
-
-    <item>
-      <title>Forcing an ARM64X executable to run as a specific architecture</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</guid>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article discusses the mechanism for specifying a target machine architecture when running an ARM64X executable. It explains the method for forcing the system to interpret the binary as a particular architecture.</description>
-    </item>
-
-    <item>
-      <title>A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</guid>
-      <pubDate>Thu, 13 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post introduces a C++ RAII-style helper class designed to simplify the management of LPPROC_THREAD_ATTRIBUTE_LIST structures. It provides a safer and more convenient way to handle these complex attribute lists in Windows programming.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Target Audience ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:45:41 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review highly praises the Edinburgh Fringe show 'Target Audience' for its sharp humor and exceptional cast performances. The play is described as a fast-paced, witty satire about a literary genius tasked with creating a pro-weapons sitcom.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:16:26 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews 'Stand-up Philosophy,' a pay-what-you-want show at the Edinburgh Fringe Festival. The author highlights the unique combination of comedy sets and audience-led philosophical Q&amp;A, noting it as an entertaining but experimental format.</description>
-    </item>
-
-    <item>
-      <title>Edinburgh Fringe: Waiting for Wonka ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:31:07 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review explores the play 'Waiting for Wonka,' which depicts the adult lives of the children from Charlie and the Chocolate Factory living together in a reality-show-style environment. The author praises the brilliant concept but notes that condensing the play into a 60-minute Fringe format leaves it feeling somewhat rushed.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Capital formation (14 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/14/one-chokable-throat/</link>
-      <guid>https://pluralistic.net/2026/08/14/one-chokable-throat/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:10:41 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow examines the necessity of competition for both pro-market and anti-market perspectives. He argues that competition is essential to prevent corporate stagnation and regulatory capture by oligarchic cartels.</description>
-    </item>
-
-    <item>
-      <title>Who’s Tracking You? Use This New Service to Find Out</title>
-      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
-      <guid>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:24:35 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>The article introduces DecryptAds, a new free service that simplifies the process of identifying companies and advertising platforms tracking user data. By scraping and correlating complex adtech data, the tool makes previously obscured information accessible to everyday internet users.</description>
-    </item>
-
-    <item>
-      <title>Don't classify. Hallucinate!</title>
-      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
-      <guid>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</guid>
-      <pubDate>Fri, 14 Aug 2026 21:54:35 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a clever technique by Doug Turnbull for managing large-scale classification tasks. Instead of forcing an LLM to choose from a massive existing list of tags, you allow the model to hallucinate relevant categories and then use vector embeddings to map them to your existing vocabulary.</description>
-    </item>
-
-    <item>
-      <title>sqlite-utils 4.2.1</title>
-      <link>https://simonwillison.net/2026/Aug/13/sqlite-utils-2/</link>
-      <guid>https://simonwillison.net/2026/Aug/13/sqlite-utils-2/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:53:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>sqlite-utils 4.2.1 is a patch release that fixes a crashing bug caused by a missing dependency on typing-extensions. The post also highlights a new smoke testing method using 'uv run' to ensure the CLI functions correctly in isolated environments.</description>
-    </item>
-
-    <item>
-      <title>sqlite-utils 4.2</title>
-      <link>https://simonwillison.net/2026/Aug/13/sqlite-utils/</link>
-      <guid>https://simonwillison.net/2026/Aug/13/sqlite-utils/</guid>
-      <pubDate>Thu, 13 Aug 2026 20:11:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>sqlite-utils 4.2 introduces significant improvements to the table.transform() feature, allowing for better preservation of schema definitions like constraints and comments. The release also adds new introspection properties for check constraints and includes various community contributions.</description>
-    </item>
-
-    <item>
-      <title>llm-gemini 0.33</title>
-      <link>https://simonwillison.net/2026/Aug/13/llm-gemini/</link>
-      <guid>https://simonwillison.net/2026/Aug/13/llm-gemini/</guid>
-      <pubDate>Thu, 13 Aug 2026 19:37:34 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The llm-gemini plugin has been updated to version 0.33, adding support for the new Gemini 3.7 Flash model and various embedding models. It also introduces compatibility with LLM 0.32, enabling new features like reasoning traces and server-side tool execution.</description>
     </item>
   </channel>
 </rss>

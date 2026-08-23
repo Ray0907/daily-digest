@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "99acd73254864f62",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "OpenAI",
+        "AI Revenue",
+        "Model Adoption",
+        "Ramp AI Index"
+      ],
+      "published": "2026-08-23T20:24:52.000Z"
+    },
+    {
+      "id": "71343321c7660b7a",
+      "title": "Quoting Drew Breunig",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Fable",
+        "Coding",
+        "Model Optimization"
+      ],
+      "published": "2026-08-23T19:55:30.000Z"
+    },
+    {
+      "id": "b5d51ff959b1b626",
+      "title": "Fixing an eMachines EL1200 BIOS bug with Claude",
+      "source": "Downtown Doug Brown",
+      "source_url": "https://www.downtowndougbrown.com/",
+      "url": "https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/",
+      "pacer": "E",
+      "keywords": [
+        "BIOS",
+        "eMachines",
+        "Claude",
+        "hardware hacking",
+        "firmware"
+      ],
+      "published": "2026-08-23T19:28:10.000Z"
+    },
+    {
+      "id": "ee0d3ad7745ba72f",
+      "title": "What exactly is modified about a modified Bessel function?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/",
+      "pacer": "C",
+      "keywords": [
+        "Bessel function",
+        "modified Bessel function",
+        "mathematics",
+        "special functions",
+        "etymology"
+      ],
+      "published": "2026-08-23T18:40:57.000Z"
+    },
+    {
+      "id": "94c1f859d56f9742",
+      "title": "Why special function terminology is arcane",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/23/arcane-terminology/",
+      "pacer": "C",
+      "keywords": [
+        "Special functions",
+        "Mathematics",
+        "Terminology",
+        "Notation",
+        "History of science"
+      ],
+      "published": "2026-08-23T17:56:03.000Z"
+    },
+    {
+      "id": "869ec081dde61063",
+      "title": "Death to px, long live ch!",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "pacer": "C",
+      "keywords": [
+        "CSS",
+        "pixels",
+        "web development",
+        "responsive design",
+        "typography"
+      ],
+      "published": "2026-08-23T11:34:52.000Z"
+    },
+    {
+      "id": "501f5be74babcf23",
+      "title": "Welcoming the Sri Lankan Government to Have I Been Pwned",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/",
+      "pacer": "E",
+      "keywords": [
+        "Have I Been Pwned",
+        "Sri Lanka",
+        "Data Breach",
+        "Cybersecurity",
+        "Government"
+      ],
+      "published": "2026-08-23T06:39:45.000Z"
+    },
+    {
+      "id": "b33f2afcc82e9de7",
+      "title": "The difference orbit inclination makes",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/22/inclination/",
+      "pacer": "C",
+      "keywords": [
+        "orbital mechanics",
+        "inclination",
+        "astronomy",
+        "Mars",
+        "Earth"
+      ],
+      "published": "2026-08-23T00:01:10.000Z"
+    },
+    {
+      "id": "c6df960fd7613b3c",
+      "title": "The summer of open weights",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Open weights",
+        "Compute",
+        "Tech trends",
+        "Market dynamics"
+      ],
+      "published": "2026-08-23T00:00:00.000Z"
+    },
+    {
       "id": "0eccfa5da2ee777f",
       "title": "Quoting Linus Torvalds",
       "source": "Simon Willison's Weblog",
@@ -81,6 +225,22 @@
       "published": "2026-08-22T14:52:00.000Z"
     },
     {
+      "id": "31902f57afd211df",
+      "title": "A Syncthing and SQLite Gotcha",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/a-syncthing-and-sqlite-gotcha",
+      "pacer": "C",
+      "keywords": [
+        "Syncthing",
+        "SQLite",
+        "rename",
+        "data corruption",
+        "file synchronization"
+      ],
+      "published": "2026-08-22T14:00:00.000Z"
+    },
+    {
       "id": "eb39733466324e8d",
       "title": "Reading List 08/22/26",
       "source": "Construction Physics",
@@ -129,6 +289,22 @@
       "published": "2026-08-22T01:19:10.000Z"
     },
     {
+      "id": "0a9bc09bd3a11c6d",
+      "title": "Vim's UserGettingBored autocmd",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/usergettingbored-vim/",
+      "pacer": "C",
+      "keywords": [
+        "Vim",
+        "autocmd",
+        "Easter egg",
+        "text editor",
+        "Bram Moolenaar"
+      ],
+      "published": "2026-08-22T00:00:00.000Z"
+    },
+    {
       "id": "602915b7f62b1060",
       "title": "Fast and Hard Code",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -159,38 +335,6 @@
         "career development"
       ],
       "published": "2026-08-22T00:00:00.000Z"
-    },
-    {
-      "id": "cf6af109a0ee1fd2",
-      "title": "llm 0.32.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/21/llm/",
-      "pacer": "R",
-      "keywords": [
-        "llm",
-        "openai",
-        "httpx",
-        "software release",
-        "python"
-      ],
-      "published": "2026-08-21T17:16:13.000Z"
-    },
-    {
-      "id": "866d80edbe878622",
-      "title": "llm-openrouter 0.7",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "pacer": "R",
-      "keywords": [
-        "llm-openrouter",
-        "OpenRouter",
-        "LLM",
-        "plugin",
-        "Simon Willison"
-      ],
-      "published": "2026-08-21T16:58:19.000Z"
     },
     {
       "id": "83a226a56873b5f9",
@@ -385,22 +529,6 @@
       "published": "2026-08-20T14:00:00.000Z"
     },
     {
-      "id": "d9a6027558b34648",
-      "title": "AI-generated ASCII diagrams",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "ASCII",
-        "Artificial Intelligence",
-        "Diagrams",
-        "Data Visualization"
-      ],
-      "published": "2026-08-20T13:48:43.000Z"
-    },
-    {
       "id": "4ff813bd10c90754",
       "title": "Issues in the Repo",
       "source": "Andrew Nesbitt",
@@ -529,22 +657,6 @@
       "published": "2026-08-19T07:13:00.000Z"
     },
     {
-      "id": "ca8e8971b4140b95",
-      "title": "Big little hexagon",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/",
-      "pacer": "C",
-      "keywords": [
-        "geometry",
-        "polygon",
-        "mathematics",
-        "maximum-area",
-        "research"
-      ],
-      "published": "2026-08-19T00:22:36.000Z"
-    },
-    {
       "id": "b1c20749f219a90b",
       "title": "Good writing is obvious, not original",
       "source": "seangoedecke.com RSS feed",
@@ -623,22 +735,6 @@
         "Software Development"
       ],
       "published": "2026-08-18T16:26:05.000Z"
-    },
-    {
-      "id": "e05a4576fb58c3ba",
-      "title": "The imbalance theorem",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/",
-      "pacer": "C",
-      "keywords": [
-        "graph theory",
-        "imbalance theorem",
-        "mathematics",
-        "James Alexander Schreib",
-        "Yousof Yavari"
-      ],
-      "published": "2026-08-18T15:54:57.000Z"
     },
     {
       "id": "db9a50f435d725c6",
@@ -927,22 +1023,6 @@
         "market trends"
       ],
       "published": "2026-08-15T12:02:38.000Z"
-    },
-    {
-      "id": "83aa9a01db13c26c",
-      "title": "Book Review: Slags by Emma Jane Unsworth ★★★⯪☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/",
-      "pacer": "C",
-      "keywords": [
-        "book review",
-        "Emma Jane Unsworth",
-        "Slags",
-        "1990s culture",
-        "literature"
-      ],
-      "published": "2026-08-15T11:34:42.000Z"
     },
     {
       "id": "3bf6f3f056aea655",
@@ -1761,22 +1841,6 @@
       "published": "2026-08-03T00:07:14.000Z"
     },
     {
-      "id": "186b54ce2c9c32d0",
-      "title": "Review: Job-Less Utopia",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/review-job-less-utopia",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "labor",
-        "economics",
-        "future of work",
-        "Utopia"
-      ],
-      "published": "2026-08-03T00:00:00.000Z"
-    },
-    {
       "id": "4ef5b8e1afa8a9c6",
       "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "source": "Old Vintage Computing Research",
@@ -2158,22 +2222,6 @@
         "Mutable state"
       ],
       "published": "2026-07-26T22:00:00.000Z"
-    },
-    {
-      "id": "a0984562780e0fab",
-      "title": "Weekly Update 514: This Week in Data Breaches",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-514/",
-      "pacer": "E",
-      "keywords": [
-        "data breach",
-        "Origin Energy",
-        "cybersecurity",
-        "information security",
-        "Troy Hunt"
-      ],
-      "published": "2026-07-26T09:14:51.000Z"
     },
     {
       "id": "f2c8b8dcceb1e560",
@@ -2715,22 +2763,6 @@
         "open source"
       ],
       "published": "2026-07-12T07:00:00.000Z"
-    },
-    {
-      "id": "c627459e3c2e1bb6",
-      "title": "Winners and losers in the coming AI margin collapse (part 2)",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI inference",
-        "margin collapse",
-        "hardware",
-        "frontier labs",
-        "value capture"
-      ],
-      "published": "2026-07-12T00:00:00.000Z"
     },
     {
       "id": "ba5e0405d90487d0",
@@ -3626,22 +3658,6 @@
         "CPU architecture"
       ],
       "published": "2026-05-30T17:09:35.056Z"
-    },
-    {
-      "id": "03f02bae4ff49e30",
-      "title": "Notes from May 2026",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/notes-from-may-2026/",
-      "pacer": "R",
-      "keywords": [
-        "web development",
-        "open source",
-        "tech ethics",
-        "software tools",
-        "blogging"
-      ],
-      "published": "2026-05-30T00:00:00.000Z"
     },
     {
       "id": "e7a5c4c4ba8276f8",
@@ -4645,16 +4661,6 @@
     }
   ],
   "links": [
-    {
-      "source": "2948ba53feffa8c3",
-      "target": "cf6af109a0ee1fd2",
-      "shared_keywords": [
-        "llm",
-        "openai",
-        "python"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "24aaa782ab15e436",
       "target": "a434044cc9e34d2d",

@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-08-22T22:09:07.004Z",
+  "last_updated": "2026-08-23T22:09:29.079Z",
   "articles": [
+    {
+      "id": "c6df960fd7613b3c",
+      "title": "The summer of open weights",
+      "url": "https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-23T00:00:00.000Z",
+      "summary_en": "The article highlights the rapid advancement of open-weight models in 2026, marking a shift in the AI landscape. It argues that compute availability, rather than model performance, has become the primary driver of market pricing.",
+      "summary_zh": "本文指出 2026 年夏季標誌著開源權重模型的關鍵轉折點。文章分析認為，目前的市場價格主要由算力供應決定，而非模型本身的效能。",
+      "keywords": [
+        "AI",
+        "Open weights",
+        "Compute",
+        "Tech trends",
+        "Market dynamics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of current market shifts and trends in the AI industry.",
+      "pacer_reason_zh": "內容針對當前人工智慧產業的市場轉變與趨勢進行了概念性分析。"
+    },
+    {
+      "id": "501f5be74babcf23",
+      "title": "Welcoming the Sri Lankan Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-23T06:39:45.000Z",
+      "summary_en": "The Sri Lankan government has become the 48th nation to join Have I Been Pwned's free service for government agencies. By integrating with Sri Lanka CERT, the platform enables the government to monitor and respond to data breaches involving official domains.",
+      "summary_zh": "斯里蘭卡政府正式加入 Have I Been Pwned 的免費政府服務，成為第 48 個簽署的國家。透過與斯里蘭卡電腦緊急應變小組 (CERT) 的合作，政府將能監控官方網域中的資料外洩事件，並在帳號受駭時即時採取行動。",
+      "keywords": [
+        "Have I Been Pwned",
+        "Sri Lanka",
+        "Data Breach",
+        "Cybersecurity",
+        "Government"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as an announcement of a specific real-world case study or integration event involving a new partner.",
+      "pacer_reason_zh": "本文屬於針對特定合作案例與實際整合事件的公告，屬於實證案例類型。"
+    },
+    {
+      "id": "b5d51ff959b1b626",
+      "title": "Fixing an eMachines EL1200 BIOS bug with Claude",
+      "url": "https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/",
+      "source": "Downtown Doug Brown",
+      "source_url": "https://www.downtowndougbrown.com/",
+      "published": "2026-08-23T19:28:10.000Z",
+      "summary_en": "The author shares their experience using AI to resolve a BIOS bug on an eMachines EL1200, building on their history of hacking legacy hardware. The piece highlights how modern LLMs can assist in troubleshooting complex firmware and technical configuration issues.",
+      "summary_zh": "作者分享了利用 AI 修復 eMachines EL1200 BIOS 錯誤的經驗，並回顧了過往對舊硬體進行技術改造的歷程。文章展示了現代大型語言模型在解決複雜韌體與技術設定問題上的輔助價值。",
+      "keywords": [
+        "BIOS",
+        "eMachines",
+        "Claude",
+        "hardware hacking",
+        "firmware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a practical case study documenting the use of AI to solve a specific technical hardware problem.",
+      "pacer_reason_zh": "本文屬於案例研究，記錄了利用 AI 解決特定硬體技術問題的實戰過程。"
+    },
+    {
+      "id": "31902f57afd211df",
+      "title": "A Syncthing and SQLite Gotcha",
+      "url": "https://borretti.me/article/a-syncthing-and-sqlite-gotcha",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-22T14:00:00.000Z",
+      "summary_en": "This post explains the technical risks associated with using Syncthing to synchronize SQLite databases. It highlights how the 'rename' system call can lead to data corruption when file synchronization conflicts with database write operations.",
+      "summary_zh": "本文探討了使用 Syncthing 同步 SQLite 資料庫時所隱藏的技術風險。文章指出「rename」系統呼叫在檔案同步與資料庫寫入操作衝突時，可能會導致資料損毀的問題。",
+      "keywords": [
+        "Syncthing",
+        "SQLite",
+        "rename",
+        "data corruption",
+        "file synchronization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual conflict between how SQLite handles file operations and how synchronization tools like Syncthing function.",
+      "pacer_reason_zh": "本文解釋了 SQLite 處理檔案操作的方式與 Syncthing 等同步工具運作機制之間的概念性衝突。"
+    },
+    {
+      "id": "0a9bc09bd3a11c6d",
+      "title": "Vim's UserGettingBored autocmd",
+      "url": "https://evanhahn.com/usergettingbored-vim/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-08-22T00:00:00.000Z",
+      "summary_en": "This article explores the history and function of Vim's 'UserGettingBored' autocmd, a long-standing joke hidden within the text editor's documentation. While the event itself does not perform any native function, it has persisted for over two decades and eventually inspired a third-party plugin.",
+      "summary_zh": "本文探討了 Vim 編輯器文件中隱藏的一個長期笑話——「UserGettingBored」自動命令。這個功能本身並無實際作用，但它在文件中存在了二十多年，並最終啟發了一個第三方插件的誕生。",
+      "keywords": [
+        "Vim",
+        "autocmd",
+        "Easter egg",
+        "text editor",
+        "Bram Moolenaar"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, explaining the nature and history of a specific internal Vim feature.",
+      "pacer_reason_zh": "本文主要屬於概念性內容，旨在解釋 Vim 內部特定功能的性質與歷史背景。"
+    },
+    {
+      "id": "ee0d3ad7745ba72f",
+      "title": "What exactly is modified about a modified Bessel function?",
+      "url": "https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-23T18:40:57.000Z",
+      "summary_en": "This article explores the naming conventions of mathematical functions, specifically focusing on why certain Bessel functions are labeled as \"modified.\" It aims to provide context and motivation behind these terms to help readers better understand their mathematical purpose.",
+      "summary_zh": "本文探討了數學函數的命名慣例，特別是解釋了為什麼某些貝索函數（Bessel functions）被稱為「修正的」（modified）。文章旨在提供這些術語背後的脈絡與動機，幫助讀者更好地理解其數學意義。",
+      "keywords": [
+        "Bessel function",
+        "modified Bessel function",
+        "mathematics",
+        "special functions",
+        "etymology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is conceptual, focusing on explaining the definitions, naming logic, and motivations behind mathematical functions.",
+      "pacer_reason_zh": "本文屬於概念性內容，旨在解釋數學函數的定義、命名邏輯及其背後的動機。"
+    },
+    {
+      "id": "94c1f859d56f9742",
+      "title": "Why special function terminology is arcane",
+      "url": "https://www.johndcook.com/blog/2026/08/23/arcane-terminology/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-23T17:56:03.000Z",
+      "summary_en": "Special function terminology remains arcane largely due to multiple independent discoveries of the same functions throughout history. This leads to inconsistent notations and definitions as different researchers developed their own conventions for widely useful mathematical tools.",
+      "summary_zh": "特殊函數術語之所以艱澀難懂，主要歸因於許多函數在歷史上曾被多次獨立發現。這種多次發現導致了符號與定義的不一致，因為不同的研究人員針對同一種廣泛應用的數學工具，各自發展出了不同的命名慣例。",
+      "keywords": [
+        "Special functions",
+        "Mathematics",
+        "Terminology",
+        "Notation",
+        "History of science"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the underlying conceptual reasons for historical inconsistencies in mathematical terminology.",
+      "pacer_reason_zh": "本文解釋了數學術語在歷史上出現不一致性的潛在概念性原因。"
+    },
+    {
+      "id": "b33f2afcc82e9de7",
+      "title": "The difference orbit inclination makes",
+      "url": "https://www.johndcook.com/blog/2026/08/22/inclination/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-23T00:01:10.000Z",
+      "summary_en": "This article discusses the importance of accounting for orbital inclination when calculating the distance between planets like Earth and Mars. It explains that while simplified planar models are often used, incorporating the 1.85° tilt of Mars's orbit significantly improves the accuracy of spatial distance measurements.",
+      "summary_zh": "本文探討了在計算地球與火星等行星距離時，考量軌道傾角的重要性。文章指出，雖然常使用簡化的平面模型進行初步估算，但將火星軌道約 1.85 度的傾斜納入考量，能顯著提升空間距離計算的準確度。",
+      "keywords": [
+        "orbital mechanics",
+        "inclination",
+        "astronomy",
+        "Mars",
+        "Earth"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual necessity of accounting for orbital tilt to improve the accuracy of astronomical distance models.",
+      "pacer_reason_zh": "本文解釋了為了提高天文距離模型準確性，必須納入軌道傾角概念的必要性。"
+    },
+    {
+      "id": "869ec081dde61063",
+      "title": "Death to px, long live ch!",
+      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-23T11:34:52.000Z",
+      "summary_en": "The article explains why 'pixels' in CSS are an abstract unit rather than a reflection of physical display hardware. It advocates for using relative units like 'ch' to create more flexible and responsive web layouts.",
+      "summary_zh": "本文解釋了 CSS 中的「像素」其實是一個抽象單位，而非對應真實的硬體顯示像素。作者主張改用「ch」等相對單位，以建立更靈活且具響應式的網頁佈局。",
+      "keywords": [
+        "CSS",
+        "pixels",
+        "web development",
+        "responsive design",
+        "typography"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how CSS units function and why traditional pixel-based thinking is technically inaccurate.",
+      "pacer_reason_zh": "文章針對 CSS 單位如何運作以及為何傳統像素思維在技術上不準確，提供了概念性的解釋。"
+    },
+    {
+      "id": "99acd73254864f62",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-23T20:24:52.000Z",
+      "summary_en": "This post analyzes current financial and adoption trends for Anthropic and OpenAI based on recent reports and billing data. It highlights that while Anthropic is seeing revenue growth, its most expensive models are struggling to gain traction compared to more cost-effective alternatives.",
+      "summary_zh": "本文分析了 Anthropic 與 OpenAI 近期的財務數據及模型使用趨勢。報告指出，儘管 Anthropic 的營收有所成長，但其最高階的 AI 模型在市場普及度上仍面臨挑戰，使用者更傾向於選擇具成本效益的工具。",
+      "keywords": [
+        "Anthropic",
+        "OpenAI",
+        "AI Revenue",
+        "Model Adoption",
+        "Ramp AI Index"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides specific revenue figures, financial data, and model usage statistics to support its analysis of market trends.",
+      "pacer_reason_zh": "文章提供了具體的營收數字、財務數據與模型使用統計，以此支持對市場趨勢的分析。"
+    },
+    {
+      "id": "71343321c7660b7a",
+      "title": "Quoting Drew Breunig",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-23T19:55:30.000Z",
+      "summary_en": "Drew Breunig reflects on how the arrival of expensive, high-performance models like Fable signals the end of relying on constantly improving, cheap AI to fix coding inefficiencies. This shift forces developers to be more strategic about which model is used for specific tasks to optimize costs.",
+      "summary_zh": "Drew Breunig 反思了高效能 AI 模型（如 Fable）的出現，標誌著過去依賴更便宜、更強大的新模型來解決編碼問題的時代已經結束。這種轉變迫使開發者必須更具策略性地根據不同任務選擇合適的模型，以達到成本優化。",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Fable",
+        "Coding",
+        "Model Optimization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual shift in AI development strategy as model cost and performance dynamics evolve.",
+      "pacer_reason_zh": "內容闡述了隨著 AI 模型成本與效能動態的變化，開發策略上所產生的概念性轉變。"
+    },
     {
       "id": "d9678b8041f918c4",
       "title": "My agent.md to improve LLM-assisted code quality",
