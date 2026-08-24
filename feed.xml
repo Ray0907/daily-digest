@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 23 Aug 2026 22:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:12:44 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
+      <link>https://www.troyhunt.com/weekly-update-518/</link>
+      <guid>https://www.troyhunt.com/weekly-update-518/</guid>
+      <pubDate>Mon, 24 Aug 2026 04:19:51 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt shares his successful implementation of an IoT-based door lock system using Ubiquiti's UniFi platform. The post outlines the key design principles, including the importance of a reliable power source, for integrating smart locks into a residential home.</description>
+    </item>
+
+    <item>
+      <title>distributed identity</title>
+      <link>https://jyn.dev/distributed-identity/</link>
+      <guid>https://jyn.dev/distributed-identity/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://jyn.dev/">the website of jyn</source>
+      <description>This article explores the challenges of managing contributor identity in Git when personal details like emails and names change over time. It highlights the limitations of git mailmap and proposes using the AT Protocol as a potential solution for managing distributed identity.</description>
+    </item>
+
+    <item>
+      <title>Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection</title>
+      <link>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</link>
+      <guid>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</guid>
+      <pubDate>Sun, 23 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author outlines a workflow for using an LLM to assist in tagging icon metadata by color. Instead of letting the AI decide, he creates a tool that generates color-based recommendations, allowing him to verify and approve the final categorization manually.</description>
+    </item>
+
+    <item>
+      <title>Three-term recurrences</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:14:55 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores three-term recurrence formulas, which are mathematical sequences where each term is a linear combination of the two preceding terms. It highlights the ubiquity of these formulas across various function families and notes the existence of theorems defining their underlying conditions.</description>
+    </item>
+
+    <item>
+      <title>The von Mises-Fisher distribution</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:14:25 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the von Mises-Fisher distribution, focusing on the importance of identifying the kernel of a probability density function by ignoring the normalizing constant. It provides insight into the mathematical structure of probability distributions and how they are normalized to integrate to one.</description>
+    </item>
+
+    <item>
+      <title>Anger, Anxiety and Agency</title>
+      <link>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</link>
+      <guid>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author discusses the distinction between anger and anxiety within the tech industry, particularly regarding the rapid evolution of AI. He argues that while anxiety is a natural response to uncertainty, misplaced anger at work is unproductive and suggests focusing on individual agency instead.</description>
+    </item>
+
+    <item>
+      <title>Why do audience members choose specific shows at the Edinburgh Fringe?</title>
+      <link>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</guid>
+      <pubDate>Mon, 24 Aug 2026 11:34:45 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post examines the lack of audience research conducted by performers at the Edinburgh Fringe despite the significant financial investment required to participate. The author argues that performers are failing to understand their target market, which is crucial for recouping the high costs of staging a production.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/24/elbows-really-up/</link>
+      <guid>https://pluralistic.net/2026/08/24/elbows-really-up/</guid>
+      <pubDate>Mon, 24 Aug 2026 21:29:38 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article examines the volatile nature of US-Canada trade relations under Donald Trump, highlighting the repetitive cycle of ripping up trade deals and imposing tariffs. Doctorow argues that Trump's approach centers on reneging on established agreements, which ultimately harms both Canadian exporters and American consumers.</description>
+    </item>
+
+    <item>
+      <title>llm-anthropic 0.27</title>
+      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
+      <guid>https://simonwillison.net/2026/Aug/24/llm-anthropic/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:27:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released llm-anthropic 0.27 to ensure compatibility with the updated Anthropic Python SDK v1.0.0. The update highlights the shift to httpx2 and demonstrates the use of AI tools to automate library migration tasks.</description>
+    </item>
+
+    <item>
+      <title>Your executable is a SQLite database</title>
+      <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
+      <guid>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</guid>
+      <pubDate>Mon, 24 Aug 2026 11:38:15 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Farid Zakaria explores a novel Linux technique that allows a SQLite database file to function as an executable binary. By utilizing the SQLite application ID and specific schema mappings, the file can be interpreted as an ELF executable via a custom loader and binfmt_misc registration.</description>
+    </item>
+
     <item>
       <title>The summer of open weights</title>
       <link>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -814,96 +904,6 @@
       <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://xeiaso.net/">Xe Iaso's blog</source>
       <description>The author provides a brief update stating that several blog posts have been removed from the site. The primary reason cited for this purge is the author's negative personal experience with hospital medication.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Slags by Emma Jane Unsworth ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</guid>
-      <pubDate>Sat, 15 Aug 2026 11:34:42 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post serves as a personal reflection and review of Emma Jane Unsworth's book, 'Slags.' The author praises the realistic characterization of 1990s youth culture while questioning the tonal balance between tragedy and comedy.</description>
-    </item>
-
-    <item>
-      <title>Training a Reinforcement Learning Model to Play Bonk.io</title>
-      <link>https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</link>
-      <guid>https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</guid>
-      <pubDate>Sat, 15 Aug 2026 02:50:29 GMT</pubDate>
-      <source url="https://blog.pixelmelt.dev/">Cats with power tools</source>
-      <description>This article explores the technical process of reverse-engineering the web game Bonk.io to reconstruct its physics engine. It further details the implementation of a reinforcement learning neural network trained to master the game's mechanics.</description>
-    </item>
-
-    <item>
-      <title>Northern Gannet</title>
-      <link>https://simonwillison.net/2026/Aug/15/sighting-391300422/</link>
-      <guid>https://simonwillison.net/2026/Aug/15/sighting-391300422/</guid>
-      <pubDate>Sat, 15 Aug 2026 03:22:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post introduces 'Morris', a rare Northern Gannet living in Pillar Point Harbor, California. As the only known individual of his species in the Pacific Ocean, he has become a local wildlife celebrity since his arrival 14 years ago.</description>
-    </item>
-
-    <item>
-      <title>Oh Hey, It’s Not Just Me</title>
-      <link>https://blog.jim-nielsen.com/2026/its-not-just-me/</link>
-      <guid>https://blog.jim-nielsen.com/2026/its-not-just-me/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on experiencing age-related vision changes and finding comfort in realizing that others share the same experience. The piece celebrates how the internet serves as a tool for connection and humanizing shared experiences in a polarized world.</description>
-    </item>
-
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</link>
-      <guid>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 14 Aug 2026 16:05:50 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>This post from The Digital Antiquarian explores the intersection of early computer history and cinema. It examines how Richard Garriott's projects and personal interests were influenced by and reflected in the films of the era.</description>
-    </item>
-
-    <item>
-      <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II</title>
-      <link>https://www.construction-physics.com/p/how-will-the-21st-century-road-to</link>
-      <guid>https://www.construction-physics.com/p/how-will-the-21st-century-road-to</guid>
-      <pubDate>Fri, 14 Aug 2026 12:03:37 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article provides an in-depth analysis of the 21st Century ROAD to Housing Act, evaluating the practical impact of its provisions on housing supply. It continues a series focused on deconstructing legislation to determine how specific policy changes influence construction and availability.</description>
-    </item>
-
-    <item>
-      <title>How This Blog Is Built</title>
-      <link>https://nesbitt.io/2026/08/14/how-this-blog-is-built.html</link>
-      <guid>https://nesbitt.io/2026/08/14/how-this-blog-is-built.html</guid>
-      <pubDate>Fri, 14 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article outlines the technical infrastructure behind the blog. It specifies that the site is built using Jekyll and hosted on GitHub Pages.</description>
-    </item>
-
-    <item>
-      <title>Printing Lists</title>
-      <link>https://matklad.github.io/2026/08/14/printing-lists.html</link>
-      <guid>https://matklad.github.io/2026/08/14/printing-lists.html</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>This post explains a concise idiomatic approach for printing comma-separated lists in the Zig programming language. It demonstrates using an index-based loop to conditionally prefix elements with a comma, except for the first item.</description>
-    </item>
-
-    <item>
-      <title>Hadamard Codes and Sphere Packing</title>
-      <link>https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</guid>
-      <pubDate>Fri, 14 Aug 2026 01:35:05 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the construction and application of Hadamard matrices, specifically referencing a recent discovery using AI. It explores their connection to error-correcting codes and their practical use in NASA's communication systems.</description>
-    </item>
-
-    <item>
-      <title>How NASA’s Mariner 9 probe encoded images</title>
-      <link>https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:54:21 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores how NASA used Hadamard matrices, specifically a (32, 6, 16) error-correcting code, to transmit clear images of Mars during the 1971 Mariner 9 mission. It explains the technical necessity of using these codes to prevent data corruption during deep-space signal transmission.</description>
     </item>
   </channel>
 </rss>

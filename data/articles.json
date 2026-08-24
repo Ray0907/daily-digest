@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-08-23T22:09:29.079Z",
+  "last_updated": "2026-08-24T22:12:44.539Z",
   "articles": [
+    {
+      "id": "caed6a0b28132789",
+      "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
+      "url": "https://www.troyhunt.com/weekly-update-518/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-24T04:19:51.000Z",
+      "summary_en": "Troy Hunt shares his successful implementation of an IoT-based door lock system using Ubiquiti's UniFi platform. The post outlines the key design principles, including the importance of a reliable power source, for integrating smart locks into a residential home.",
+      "summary_zh": "Troy Hunt 分享了他成功將 Ubiquiti UniFi 平台應用於物聯網門鎖系統的經驗。文章概述了將智慧門鎖整合至住宅中的關鍵設計原則，其中強調了電源穩定性的重要性。",
+      "keywords": [
+        "IoT",
+        "UniFi",
+        "Smart Lock",
+        "Home Automation",
+        "Ubiquiti"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the practical application and configuration of an IoT device in a residential setting.",
+      "pacer_reason_zh": "本文側重於物聯網設備在住宅環境中的實際應用與配置流程。"
+    },
+    {
+      "id": "cba375c4d3a5d71c",
+      "title": "distributed identity",
+      "url": "https://jyn.dev/distributed-identity/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-08-24T00:00:00.000Z",
+      "summary_en": "This article explores the challenges of managing contributor identity in Git when personal details like emails and names change over time. It highlights the limitations of git mailmap and proposes using the AT Protocol as a potential solution for managing distributed identity.",
+      "summary_zh": "本文探討了在貢獻者更換電子郵件或姓名時，Git 管理身分識別所面臨的技術挑戰。文章指出了 git mailmap 的侷限性，並提出了利用 AT Protocol 作為處理分散式身分管理的潛在方案。",
+      "keywords": [
+        "git",
+        "identity",
+        "atproto",
+        "mailmap",
+        "version control"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific hypothetical scenario (a contributor changing names and emails) as a case study to illustrate the technical limitations of current version control systems.",
+      "pacer_reason_zh": "文章透過一個具體的假設情境（貢獻者更換姓名與信箱）作為案例研究，藉此闡述現有版本控制系統的技術侷限性。"
+    },
+    {
+      "id": "5b62a533385cbeab",
+      "title": "Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection",
+      "url": "https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-23T19:00:00.000Z",
+      "summary_en": "The author outlines a workflow for using an LLM to assist in tagging icon metadata by color. Instead of letting the AI decide, he creates a tool that generates color-based recommendations, allowing him to verify and approve the final categorization manually.",
+      "summary_zh": "作者分享了如何利用大型語言模型（LLM）協助圖示顏色分類的構想。他設計了一套工具流程，讓 AI 先進行初步的顏色推薦，再由他親自審核與確認標籤，確保數據品質。",
+      "keywords": [
+        "LLM",
+        "metadata",
+        "automation",
+        "ux design",
+        "workflow"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes a step-by-step process and system design for building a tool to improve an existing workflow.",
+      "pacer_reason_zh": "文章描述了構建一個改進現有工作流程的工具及其具體的執行步驟。"
+    },
+    {
+      "id": "cb1f091ba5e1c815",
+      "title": "Three-term recurrences",
+      "url": "https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-24T14:14:55.000Z",
+      "summary_en": "This article explores three-term recurrence formulas, which are mathematical sequences where each term is a linear combination of the two preceding terms. It highlights the ubiquity of these formulas across various function families and notes the existence of theorems defining their underlying conditions.",
+      "summary_zh": "本文探討了三項遞迴公式，這是一種每個項均可由前兩項的線性組合計算得出的數學數列。文章指出此類公式在各種函數族中極為常見，並提到有相關定理能定義其運作條件。",
+      "keywords": [
+        "mathematics",
+        "recurrence relation",
+        "functions",
+        "calculus",
+        "theorems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept and mathematical definition of three-term recurrence formulas.",
+      "pacer_reason_zh": "文章主要解釋了三項遞迴公式的概念與數學定義。"
+    },
+    {
+      "id": "63b7bb7efc50b589",
+      "title": "The von Mises-Fisher distribution",
+      "url": "https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-24T14:14:25.000Z",
+      "summary_en": "This article discusses the von Mises-Fisher distribution, focusing on the importance of identifying the kernel of a probability density function by ignoring the normalizing constant. It provides insight into the mathematical structure of probability distributions and how they are normalized to integrate to one.",
+      "summary_zh": "本文介紹了馮·米塞斯-費雪分佈（von Mises-Fisher distribution），強調在分析機率密度函數時，應忽略歸一化常數以專注於函數的核心部分。文章探討了如何透過數學結構來理解與處理機率分佈的歸一化問題。",
+      "keywords": [
+        "von Mises-Fisher distribution",
+        "probability density function",
+        "normalizing constant",
+        "statistics",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach of analyzing probability density functions by focusing on kernels rather than constants.",
+      "pacer_reason_zh": "文章解釋了透過關注函數核心而非歸一化常數來分析機率密度函數的觀念方法。"
+    },
+    {
+      "id": "d867f30dbc362160",
+      "title": "Anger, Anxiety and Agency",
+      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-08-24T00:00:00.000Z",
+      "summary_en": "The author discusses the distinction between anger and anxiety within the tech industry, particularly regarding the rapid evolution of AI. He argues that while anxiety is a natural response to uncertainty, misplaced anger at work is unproductive and suggests focusing on individual agency instead.",
+      "summary_zh": "作者探討了科技業中針對 AI 快速發展所產生的憤怒與焦慮之間的區別。他認為，面對不確定性的未來，焦慮是一種自然的反應，但職場上的憤怒往往無助於解決問題，並建議應將重心轉向個人能動性。",
+      "keywords": [
+        "AI",
+        "Tech Industry",
+        "Anger",
+        "Anxiety",
+        "Agency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual differences between emotions like anger and anxiety in a professional context.",
+      "pacer_reason_zh": "這篇文章在職場背景下探討了憤怒與焦慮等情緒之間的觀念差異。"
+    },
+    {
+      "id": "9a23136c1fa59329",
+      "title": "Why do audience members choose specific shows at the Edinburgh Fringe?",
+      "url": "https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-24T11:34:45.000Z",
+      "summary_en": "This post examines the lack of audience research conducted by performers at the Edinburgh Fringe despite the significant financial investment required to participate. The author argues that performers are failing to understand their target market, which is crucial for recouping the high costs of staging a production.",
+      "summary_zh": "本文探討了愛丁堡藝穗節的表演者在投入高額製作成本後，卻鮮少研究觀眾選擇節目的動機。作者指出，理解觀眾行為對於表演者回收成本與經營演出至關重要。",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Audience Research",
+        "Performance Marketing",
+        "Event Management",
+        "Arts Economy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on the author's personal observations and analysis of performers' behavior at a specific event.",
+      "pacer_reason_zh": "本文是基於作者在特定活動中對表演者行為的觀察與分析。"
+    },
+    {
+      "id": "091bb079ee74e575",
+      "title": "Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/24/elbows-really-up/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-24T21:29:38.000Z",
+      "summary_en": "This article examines the volatile nature of US-Canada trade relations under Donald Trump, highlighting the repetitive cycle of ripping up trade deals and imposing tariffs. Doctorow argues that Trump's approach centers on reneging on established agreements, which ultimately harms both Canadian exporters and American consumers.",
+      "summary_zh": "本文探討了唐納·川普執政下美加貿易關係的動盪，強調了廢除貿易協定與加徵關稅的惡性循環。多克托羅指出，川普的策略核心在於毀棄既有協議，這最終損害了加拿大出口商與美國消費者的利益。",
+      "keywords": [
+        "trade policy",
+        "US-Canada relations",
+        "tariffs",
+        "NAFTA",
+        "CUSMA"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a complex political and economic phenomenon using specific historical examples to define the concept of trade 'reneging'.",
+      "pacer_reason_zh": "本文透過具體的歷史案例，解釋了複雜的政治與經濟現象，藉此定義貿易「毀約」的概念。"
+    },
+    {
+      "id": "49fca70a70651d4f",
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-24T16:27:04.000Z",
+      "summary_en": "Simon Willison has released llm-anthropic 0.27 to ensure compatibility with the updated Anthropic Python SDK v1.0.0. The update highlights the shift to httpx2 and demonstrates the use of AI tools to automate library migration tasks.",
+      "summary_zh": "Simon Willison 發布了 llm-anthropic 0.27 版本，以確保與更新後的 Anthropic Python SDK v1.0.0 相容。此次更新反映了該套件轉向使用 httpx2，並展示了如何利用 AI 工具自動執行程式庫遷移任務。",
+      "keywords": [
+        "python",
+        "llm",
+        "anthropic",
+        "httpx2",
+        "software-update"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post documents a software release and the process of migrating to a new SDK version, functioning as a practical update note.",
+      "pacer_reason_zh": "這篇文章記錄了軟體版本更新以及遷移至新版 SDK 的過程，具有實務更新說明的功能。"
+    },
+    {
+      "id": "8ccf6a718866a13d",
+      "title": "Your executable is a SQLite database",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-24T11:38:15.000Z",
+      "summary_en": "Farid Zakaria explores a novel Linux technique that allows a SQLite database file to function as an executable binary. By utilizing the SQLite application ID and specific schema mappings, the file can be interpreted as an ELF executable via a custom loader and binfmt_misc registration.",
+      "summary_zh": "Farid Zakaria 介紹了一種創新的 Linux 技術，將 SQLite 資料庫檔案偽裝並執行為二進位可執行檔。透過設定 SQLite 應用程式 ID 並使用特定的架構映射，該檔案可透過自訂載入器與 binfmt_misc 機制直接由核心執行。",
+      "keywords": [
+        "SQLite",
+        "Linux",
+        "ELF",
+        "binfmt_misc",
+        "executable"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a technical guide and example code for creating a self-executing SQLite database file.",
+      "pacer_reason_zh": "本文提供了建立可自我執行 SQLite 資料庫檔案的技術指南與範例程式碼。"
+    },
     {
       "id": "c6df960fd7613b3c",
       "title": "The summer of open weights",

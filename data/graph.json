@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "091bb079ee74e575",
+      "title": "Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/08/24/elbows-really-up/",
+      "pacer": "C",
+      "keywords": [
+        "trade policy",
+        "US-Canada relations",
+        "tariffs",
+        "NAFTA",
+        "CUSMA"
+      ],
+      "published": "2026-08-24T21:29:38.000Z"
+    },
+    {
+      "id": "49fca70a70651d4f",
+      "title": "llm-anthropic 0.27",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "pacer": "P",
+      "keywords": [
+        "python",
+        "llm",
+        "anthropic",
+        "httpx2",
+        "software-update"
+      ],
+      "published": "2026-08-24T16:27:04.000Z"
+    },
+    {
+      "id": "cb1f091ba5e1c815",
+      "title": "Three-term recurrences",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/",
+      "pacer": "C",
+      "keywords": [
+        "mathematics",
+        "recurrence relation",
+        "functions",
+        "calculus",
+        "theorems"
+      ],
+      "published": "2026-08-24T14:14:55.000Z"
+    },
+    {
+      "id": "63b7bb7efc50b589",
+      "title": "The von Mises-Fisher distribution",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/",
+      "pacer": "C",
+      "keywords": [
+        "von Mises-Fisher distribution",
+        "probability density function",
+        "normalizing constant",
+        "statistics",
+        "mathematics"
+      ],
+      "published": "2026-08-24T14:14:25.000Z"
+    },
+    {
+      "id": "8ccf6a718866a13d",
+      "title": "Your executable is a SQLite database",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "pacer": "P",
+      "keywords": [
+        "SQLite",
+        "Linux",
+        "ELF",
+        "binfmt_misc",
+        "executable"
+      ],
+      "published": "2026-08-24T11:38:15.000Z"
+    },
+    {
+      "id": "9a23136c1fa59329",
+      "title": "Why do audience members choose specific shows at the Edinburgh Fringe?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/",
+      "pacer": "E",
+      "keywords": [
+        "Edinburgh Fringe",
+        "Audience Research",
+        "Performance Marketing",
+        "Event Management",
+        "Arts Economy"
+      ],
+      "published": "2026-08-24T11:34:45.000Z"
+    },
+    {
+      "id": "caed6a0b28132789",
+      "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-518/",
+      "pacer": "P",
+      "keywords": [
+        "IoT",
+        "UniFi",
+        "Smart Lock",
+        "Home Automation",
+        "Ubiquiti"
+      ],
+      "published": "2026-08-24T04:19:51.000Z"
+    },
+    {
+      "id": "cba375c4d3a5d71c",
+      "title": "distributed identity",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "url": "https://jyn.dev/distributed-identity/",
+      "pacer": "E",
+      "keywords": [
+        "git",
+        "identity",
+        "atproto",
+        "mailmap",
+        "version control"
+      ],
+      "published": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "d867f30dbc362160",
+      "title": "Anger, Anxiety and Agency",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Tech Industry",
+        "Anger",
+        "Anxiety",
+        "Agency"
+      ],
+      "published": "2026-08-24T00:00:00.000Z"
+    },
+    {
       "id": "99acd73254864f62",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "source": "Simon Willison's Weblog",
@@ -47,6 +191,22 @@
         "firmware"
       ],
       "published": "2026-08-23T19:28:10.000Z"
+    },
+    {
+      "id": "5b62a533385cbeab",
+      "title": "Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "metadata",
+        "automation",
+        "ux design",
+        "workflow"
+      ],
+      "published": "2026-08-23T19:00:00.000Z"
     },
     {
       "id": "ee0d3ad7745ba72f",
@@ -159,54 +319,6 @@
         "programming"
       ],
       "published": "2026-08-22T21:04:26.000Z"
-    },
-    {
-      "id": "2948ba53feffa8c3",
-      "title": "llm 0.33",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "pacer": "P",
-      "keywords": [
-        "llm",
-        "cli",
-        "openai",
-        "python",
-        "embedding"
-      ],
-      "published": "2026-08-22T17:01:16.000Z"
-    },
-    {
-      "id": "d548c978bd4efd13",
-      "title": "More than just code review",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "pacer": "C",
-      "keywords": [
-        "coding-agents",
-        "code-review",
-        "generative-ai",
-        "llms",
-        "software-engineering"
-      ],
-      "published": "2026-08-22T15:56:54.000Z"
-    },
-    {
-      "id": "d0881d96e29b4d9f",
-      "title": "Coming soon",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/22/coming-soon/",
-      "pacer": "A",
-      "keywords": [
-        "mathematical modeling",
-        "probability",
-        "estimation",
-        "wait time",
-        "statistics"
-      ],
-      "published": "2026-08-22T15:34:11.000Z"
     },
     {
       "id": "cc961a63e817b6ab",
@@ -367,22 +479,6 @@
         "binary size"
       ],
       "published": "2026-08-21T14:00:00.000Z"
-    },
-    {
-      "id": "7c08525c7d647a17",
-      "title": "How would you know whether an ancient culture had zero?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
-      "pacer": "C",
-      "keywords": [
-        "zero",
-        "number systems",
-        "base 26",
-        "mathematics",
-        "positional notation"
-      ],
-      "published": "2026-08-21T13:14:28.000Z"
     },
     {
       "id": "d3d721a5993c18e6",
@@ -897,22 +993,6 @@
       "published": "2026-08-17T11:34:24.000Z"
     },
     {
-      "id": "6c22ae094f4ebe42",
-      "title": "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/17/great-sousas-ghost/",
-      "pacer": "R",
-      "keywords": [
-        "copyright",
-        "Jennifer Jenkins",
-        "public domain",
-        "intellectual property",
-        "law"
-      ],
-      "published": "2026-08-17T07:00:08.000Z"
-    },
-    {
       "id": "b961931d546f10f9",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "source": "Fabien Sanglard",
@@ -943,22 +1023,6 @@
         "AI"
       ],
       "published": "2026-08-16T19:00:00.000Z"
-    },
-    {
-      "id": "4acdb195eb67acda",
-      "title": "Thoughts on visiting the Edinburgh Fringe as a newbie",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/",
-      "pacer": "A",
-      "keywords": [
-        "Edinburgh Fringe",
-        "festival",
-        "travel",
-        "arts",
-        "experience"
-      ],
-      "published": "2026-08-16T11:34:21.000Z"
     },
     {
       "id": "0a3f561add1fce28",
@@ -1425,22 +1489,6 @@
       "published": "2026-08-10T00:00:00.000Z"
     },
     {
-      "id": "08ebf0a9c6c8fd87",
-      "title": "A License to Act",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/license-to-act/",
-      "pacer": "C",
-      "keywords": [
-        "LLMs",
-        "artificial intelligence",
-        "learning",
-        "critical thinking",
-        "dependency"
-      ],
-      "published": "2026-08-09T19:00:00.000Z"
-    },
-    {
       "id": "1a3ff720ce576848",
       "title": "Tracking down a Zsh history data loss bug 🐞",
       "source": "Michael Stapelbergs Website",
@@ -1823,22 +1871,6 @@
         "data breach"
       ],
       "published": "2026-08-03T06:38:05.000Z"
-    },
-    {
-      "id": "82bb46a1118ff8c9",
-      "title": "Weekly Update 515",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-515/",
-      "pacer": "C",
-      "keywords": [
-        "coffee",
-        "Australia",
-        "Italy",
-        "Troy Hunt",
-        "culture"
-      ],
-      "published": "2026-08-03T00:07:14.000Z"
     },
     {
       "id": "4ef5b8e1afa8a9c6",
@@ -2939,22 +2971,6 @@
         "networking"
       ],
       "published": "2026-07-05T00:00:00.000Z"
-    },
-    {
-      "id": "227d120c90d85e26",
-      "title": "Better Models: Worse Tools",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "pacer": "E",
-      "keywords": [
-        "Claude",
-        "LLM",
-        "Tool Calling",
-        "Anthropic",
-        "API"
-      ],
-      "published": "2026-07-04T00:00:00.000Z"
     },
     {
       "id": "bb2bfd9ad0dd14b7",
