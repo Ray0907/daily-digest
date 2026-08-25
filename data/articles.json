@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-08-24T22:12:44.539Z",
+  "last_updated": "2026-08-25T22:12:55.445Z",
   "articles": [
+    {
+      "id": "899712e34cc65a0d",
+      "title": "Forgejo hack: How to set a starting issue and pull request number",
+      "url": "https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-08-25T13:38:15.000Z",
+      "summary_en": "The author explores a method for migrating GitHub projects to a self-hosted Forgejo instance by manually adjusting issue and pull request numbering. By modifying the database directly, the author ensures new Forgejo issues start at a specific number to avoid collisions with legacy GitHub identifiers.",
+      "summary_zh": "作者分享了將 GitHub 專案遷移至自託管 Forgejo 實例的技巧，透過手動調整資料庫設定來設定 Issue 和 Pull Request 的起始編號。此方法可有效避免新系統與舊 GitHub 上的舊編號產生衝突，確保編號順序的區隔。",
+      "keywords": [
+        "Forgejo",
+        "GitHub",
+        "Migration",
+        "Database",
+        "Issues"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step technical guide on how to configure specific software behavior.",
+      "pacer_reason_zh": "這篇文章提供了具體的技術操作指南，說明如何設定軟體特定的行為。"
+    },
+    {
+      "id": "0c1fd431f660cc89",
+      "title": "Actually good advice",
+      "url": "https://www.experimental-history.com/p/actually-good-advice",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-08-25T14:28:03.000Z",
+      "summary_en": "This article explores the nuances of social feedback, emphasizing that even well-intentioned advice can be destructive if poorly delivered. It advocates for a more thoughtful approach to interpersonal interactions to avoid unnecessary conflict and hurt feelings.",
+      "summary_zh": "本文探討了社交反饋的細微差別，強調即使是善意的建議，如果表達不當也可能造成破壞。文章主張在人際互動中應採取更審慎的態度，以避免不必要的衝突與傷害。",
+      "keywords": [
+        "advice",
+        "communication",
+        "social skills",
+        "interpersonal relationships",
+        "feedback"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework of how interpersonal advice impacts relationships and social dynamics.",
+      "pacer_reason_zh": "本文重點在於解釋人際建議如何影響關係與社交互動的理論框架。"
+    },
+    {
+      "id": "37343599264a44b8",
+      "title": "Extending life perception",
+      "url": "https://herman.bearblog.dev/extending-life-perception/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-08-25T11:59:44.764Z",
+      "summary_en": "The author argues that journaling and seeking novel experiences can extend our perception of life by making years feel longer and more memorable. By actively documenting events and breaking routines, we can combat the sensation that time flies, effectively creating a more vivid and lengthened life experience.",
+      "summary_zh": "作者認為，透過寫日記並主動追求新鮮體驗，可以讓人感覺生命更漫長、記憶更深刻。藉由記錄生活與打破例行公事，我們能對抗「時光飛逝」的錯覺，從而實質上延長對生命長度的感知。",
+      "keywords": [
+        "journaling",
+        "time perception",
+        "novelty",
+        "mindfulness",
+        "life experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a philosophical concept regarding the relationship between memory, novelty, and the subjective perception of time.",
+      "pacer_reason_zh": "本文探討關於記憶、新奇事物與時間主觀感知之間關係的哲學概念。"
+    },
+    {
+      "id": "05c10f8e12f7540d",
+      "title": "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
+      "url": "https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-08-25T21:51:08.000Z",
+      "summary_en": "This article examines the risks of blindly trusting claims made by cybercriminals regarding data breaches. Using a specific incident involving Carhartt as a case study, it highlights the importance of rigorous verification rather than relying on unverified claims.",
+      "summary_zh": "本文探討了盲目相信網路犯罪分子關於資料外洩聲明的風險。透過 Carhartt 的案例研究，強調了進行嚴格驗證的重要性，而非輕信未經證實的說法。",
+      "keywords": [
+        "data breach",
+        "cybersecurity",
+        "verification",
+        "Carhartt",
+        "threat intelligence"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study, using a specific real-world example to demonstrate the dangers of verifying data breach claims.",
+      "pacer_reason_zh": "本文以實際案例進行探討，透過特定的現實事件展示驗證資料外洩聲明的危險性。"
+    },
+    {
+      "id": "b314b841b150c8be",
+      "title": "Have You Heard the Good News About Microlighter?",
+      "url": "https://blog.jim-nielsen.com/2026/shipping-microlighter/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-25T19:00:00.000Z",
+      "summary_en": "The author shares their experience integrating 'microlighter,' a lightweight syntax highlighting tool that utilizes the CSS Custom Highlights API. By moving syntax highlighting from DOM manipulation to a CSS-based styling concern, the author achieves a cleaner, more elegant implementation on their blog.",
+      "summary_zh": "作者分享了使用「microlighter」的經驗，這是一款利用 CSS Custom Highlights API 進行語法高亮的新工具。透過將語法高亮從 DOM 操作轉變為 CSS 樣式處理，作者成功讓部落格的程式碼呈現方式變得更簡潔且優雅。",
+      "keywords": [
+        "microlighter",
+        "CSS Custom Highlights API",
+        "syntax highlighting",
+        "web development",
+        "blogging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes the author's process of implementing a specific tool and removing existing dependencies to improve their blog's functionality.",
+      "pacer_reason_zh": "文章描述了作者實作特定工具並移除舊有依賴套件的開發過程，屬於典型的實務分享與流程記錄。"
+    },
+    {
+      "id": "0b07fafd4cc9952a",
+      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-25T15:32:57.000Z",
+      "summary_en": "Dylan Patel discusses the rapid centralization of computing power within major AI labs like Anthropic and OpenAI. He projects that these companies will control the vast majority of global compute resources by 2028, driven by the massive scale required for frontier model training.",
+      "summary_zh": "Dylan Patel 探討了運算資源正迅速向 Anthropic 和 OpenAI 等大型人工智慧實驗室集中的現象。他預測，由於尖端模型訓練所需的規模極其龐大，到 2028 年，這些公司將掌握全球絕大多數的運算資源。",
+      "keywords": [
+        "AI Compute",
+        "Centralization",
+        "Anthropic",
+        "OpenAI",
+        "Data Centers"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining a high-level conceptual shift and industry theory regarding the future of AI infrastructure.",
+      "pacer_reason_zh": "該內容側重於解釋關於 AI 基礎設施未來發展的高層次概念轉變與產業理論。"
+    },
+    {
+      "id": "a5a39ecb23d58c5e",
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-08-24T22:00:00.000Z",
+      "summary_en": "The author contrasts their traditional, manual coding workflow with the fluid, integrated development experience of Lisp programming. By comparing the two, they highlight the advantages of Lisp's live-coding and hot-swapping capabilities over standard compile-run-debug cycles.",
+      "summary_zh": "作者對比了自己傳統的手動編碼流程與 Lisp 程式設計中流暢的整合開發體驗。通過兩者的類比，文章突顯了 Lisp 的即時編碼和熱替換功能，相較於標準的編譯、執行與除錯循環所具備的優勢。",
+      "keywords": [
+        "Lisp",
+        "programming",
+        "REPL",
+        "development workflow",
+        "hot-swapping"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal workflow as an analogy to explain the distinct development paradigm of Lisp programming.",
+      "pacer_reason_zh": "文章以作者個人的編碼流程作為類比，用以解釋 Lisp 程式設計獨特的開發範式。"
+    },
+    {
+      "id": "dfab1b8ef0bf9a91",
+      "title": "The Negative Option",
+      "url": "https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-08-25T02:45:00.000Z",
+      "summary_en": "This article examines the decline of Columbia House, a once-dominant music distribution service that struggled to adapt to digital disruption. It reflects on the company's historical business model and explores how it eventually faded into obsolescence after failing to pivot successfully in a changing media landscape.",
+      "summary_zh": "本文探討了曾經風靡一時的哥倫比亞唱片俱樂部（Columbia House）如何因無法適應數位轉型而走向沒落。透過回顧其商業模式的歷史，文章分析了該公司在媒體產業劇烈變動下，最終因無法轉型而遭到淘汰的過程。",
+      "keywords": [
+        "Columbia House",
+        "business model",
+        "disruption",
+        "music industry",
+        "e-commerce"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the rise and fall of a specific business model and its broader impact on e-commerce.",
+      "pacer_reason_zh": "本文對特定商業模式的興衰及其對電子商務的影響進行了概念性的解釋與分析。"
+    },
+    {
+      "id": "400696bed6ac98b6",
+      "title": "Hardening the Override Flag",
+      "url": "https://nesbitt.io/2026/08/25/hardening-the-override-flag.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-25T10:00:00.000Z",
+      "summary_en": "This article examines how command-line tools and package managers protect against dangerous operations by hardening override flags. It highlights strategies like using verbose, explicit flag names to serve as intentional warnings during security reviews.",
+      "summary_zh": "本文探討了命令列工具與套件管理器如何透過強化覆寫旗標來防範危險操作。作者分析了諸如使用冗長且明確的旗標名稱等策略，旨在讓這些旗標在安全性審核過程中能作為顯眼的警示。",
+      "keywords": [
+        "security",
+        "command-line",
+        "package-manager",
+        "hardening",
+        "flags"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explains the security philosophy behind designing dangerous command-line flags to prevent accidental or malicious usage.",
+      "pacer_reason_zh": "本文在概念上解釋了設計危險命令列旗標的安全性哲學，旨在防止意外或惡意的濫用。"
+    },
+    {
+      "id": "0f22500ac3052f35",
+      "title": "Numerical (in)stability of recurrence relations",
+      "url": "https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-25T01:47:47.000Z",
+      "summary_en": "This article discusses the numerical stability challenges inherent in using three-term recurrence relations for special functions. It emphasizes that while these relations are computationally useful, they require careful implementation to avoid errors.",
+      "summary_zh": "本文探討了在特殊函數中使用三項遞迴關係時所面臨的數值穩定性挑戰。作者強調，雖然這些關係在計算上很有用，但必須謹慎實施以避免產生錯誤。",
+      "keywords": [
+        "numerical stability",
+        "recurrence relations",
+        "special functions",
+        "computation",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of numerical stability within the context of mathematical recurrence relations.",
+      "pacer_reason_zh": "本文解釋了數學遞迴關係背景下數值穩定性的理論概念。"
+    },
+    {
+      "id": "5744e50272628ea4",
+      "title": "Comparing the two holograms on the Windows 95 box",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-24T14:00:00.000Z",
+      "summary_en": "This post examines the subtle differences between the two holographic stickers found on the original Windows 95 retail packaging. The author invites readers to look closely at the design variations present on these collectible boxes.",
+      "summary_zh": "這篇文章探討了 Windows 95 原版零售包裝上兩張全像雷射標籤之間的細微差異。作者邀請讀者仔細觀察這些收藏級盒裝產品上的設計細節。",
+      "keywords": [
+        "Windows 95",
+        "hologram",
+        "retro computing",
+        "packaging",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual examination and observation of a specific historical design element.",
+      "pacer_reason_zh": "本文針對特定的歷史設計元素進行了概念性的檢視與觀察。"
+    },
+    {
+      "id": "b0f7040ff42fdd1f",
+      "title": "Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-25T11:34:22.000Z",
+      "summary_en": "This review of the 'Cats' production at Regent's Park Open Air Theatre critiques the show as a whimsical, spiritual experience. The author draws an anthropological parallel between the performers' feline portrayals and ancient shamanistic rituals of becoming one with an animal.",
+      "summary_zh": "這篇對攝政公園露天劇場版《貓》的評論，將演出形容為一場異想天開且具有靈性的體驗。作者將演員對貓的詮釋，與古代薩滿透過模仿獵物來與自然連結的儀式進行了人類學式的類比。",
+      "keywords": [
+        "Cats",
+        "Theatre Review",
+        "Regent's Park",
+        "Shamanism",
+        "Performance Art"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The author uses an analogy comparing modern musical theater performance to ancient shamanistic rituals to frame their critique.",
+      "pacer_reason_zh": "作者透過類比手法，將現代音樂劇表演與古代薩滿儀式進行對照，以此建構其評論觀點。"
+    },
+    {
+      "id": "6c109ae6c20355e7",
+      "title": "Uranium from Příbram (Czechia)",
+      "url": "https://maurycyz.com/misc/rocks3/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-08-25T00:00:00.000Z",
+      "summary_en": "This post showcases geological specimens of uraninite collected from Příbram, Czechia, featuring radiation measurements and photographic observations. It includes brief technical details on the mineral's formation age and the geological environment of the deposit.",
+      "summary_zh": "本文展示了來自捷克普日比拉姆（Příbram）的瀝青鈾礦標本，並提供了放射性測量數據與攝影觀察。內容還簡述了該礦床的地質環境以及鈾礦結晶的地質年代背景。",
+      "keywords": [
+        "Uraninite",
+        "Příbram",
+        "Geology",
+        "Radiation",
+        "Mineralogy"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content primarily presents empirical radiation measurements and geological data observations from specific mineral samples.",
+      "pacer_reason_zh": "內容主要呈現特定礦物標本的實證輻射測量數據及地質觀察結果。"
+    },
+    {
+      "id": "9b625c4c6f9d46f3",
+      "title": "Foot Guns for Sale ",
+      "url": "https://idiallo.com/blog/foot-gun-for-sale",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-25T07:15:00.000Z",
+      "summary_en": "The author challenges the narrative that AI will remain centralized under major providers like OpenAI and Anthropic. Instead, they argue that technological advancements will enable developers to run powerful, open-source models locally, disrupting the current corporate ecosystem model.",
+      "summary_zh": "作者挑戰了AI將由 OpenAI 和 Anthropic 等大型供應商壟斷的既定觀點。文章主張，隨著技術持續進步，開發者將能夠在本地運行強大的開源模型，從而打破現有的企業生態封鎖。",
+      "keywords": [
+        "AI",
+        "Open Source",
+        "Decentralization",
+        "Tech Trends",
+        "Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on theoretical arguments and personal analysis regarding the future direction of the AI industry.",
+      "pacer_reason_zh": "本文聚焦於理論探討與個人分析，探討 AI 產業的未來發展趨勢。"
+    },
+    {
+      "id": "49ee2fc9217ccba8",
+      "title": "Debugging Ubiquiti's 5G Backup on AT&T",
+      "url": "https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-25T19:18:00.000Z",
+      "summary_en": "Jeff Geerling explores integrating Ubiquiti networking gear into a portable 5G mini-homelab rack setup. He highlights the benefits of using compact hardware for both on-the-go connectivity and fixed-location internet redundancy.",
+      "summary_zh": "Jeff Geerling 探討如何將 Ubiquiti 網路設備整合至便攜式 5G 迷你家庭實驗室機櫃中。他強調了使用精簡型硬體在隨身連網與固定地點網路備援方面的優勢。",
+      "keywords": [
+        "Ubiquiti",
+        "5G",
+        "Homelab",
+        "Networking",
+        "Rackmount"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content describes the initial steps of building a specific technical project using hardware components.",
+      "pacer_reason_zh": "內容描述了使用硬體組件構建特定技術專案的初步步驟。"
+    },
     {
       "id": "caed6a0b28132789",
       "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",

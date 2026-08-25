@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 24 Aug 2026 22:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:12:55 GMT</lastBuildDate>
     
+    <item>
+      <title>Forgejo hack: How to set a starting issue and pull request number</title>
+      <link>https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</link>
+      <guid>https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</guid>
+      <pubDate>Tue, 25 Aug 2026 13:38:15 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>The author explores a method for migrating GitHub projects to a self-hosted Forgejo instance by manually adjusting issue and pull request numbering. By modifying the database directly, the author ensures new Forgejo issues start at a specific number to avoid collisions with legacy GitHub identifiers.</description>
+    </item>
+
+    <item>
+      <title>Actually good advice</title>
+      <link>https://www.experimental-history.com/p/actually-good-advice</link>
+      <guid>https://www.experimental-history.com/p/actually-good-advice</guid>
+      <pubDate>Tue, 25 Aug 2026 14:28:03 GMT</pubDate>
+      <source url="https://www.experimental-history.com/">Experimental History</source>
+      <description>This article explores the nuances of social feedback, emphasizing that even well-intentioned advice can be destructive if poorly delivered. It advocates for a more thoughtful approach to interpersonal interactions to avoid unnecessary conflict and hurt feelings.</description>
+    </item>
+
+    <item>
+      <title>Extending life perception</title>
+      <link>https://herman.bearblog.dev/extending-life-perception/</link>
+      <guid>https://herman.bearblog.dev/extending-life-perception/</guid>
+      <pubDate>Tue, 25 Aug 2026 11:59:44 GMT</pubDate>
+      <source url="https://herman.bearblog.dev/">Herman's blog</source>
+      <description>The author argues that journaling and seeking novel experiences can extend our perception of life by making years feel longer and more memorable. By actively documenting events and breaking routines, we can combat the sensation that time flies, effectively creating a more vivid and lengthened life experience.</description>
+    </item>
+
+    <item>
+      <title>A Cautionary Tale About Data Breach Claims, Verification and Carhartt</title>
+      <link>https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/</link>
+      <guid>https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/</guid>
+      <pubDate>Tue, 25 Aug 2026 21:51:08 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>This article examines the risks of blindly trusting claims made by cybercriminals regarding data breaches. Using a specific incident involving Carhartt as a case study, it highlights the importance of rigorous verification rather than relying on unverified claims.</description>
+    </item>
+
+    <item>
+      <title>Have You Heard the Good News About Microlighter?</title>
+      <link>https://blog.jim-nielsen.com/2026/shipping-microlighter/</link>
+      <guid>https://blog.jim-nielsen.com/2026/shipping-microlighter/</guid>
+      <pubDate>Tue, 25 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author shares their experience integrating 'microlighter,' a lightweight syntax highlighting tool that utilizes the CSS Custom Highlights API. By moving syntax highlighting from DOM manipulation to a CSS-based styling concern, the author achieves a cleaner, more elegant implementation on their blog.</description>
+    </item>
+
+    <item>
+      <title>Dylan Patel – Anthropic &amp; OpenAI will have most of the world’s compute by 2028</title>
+      <link>https://www.dwarkesh.com/p/dylan-patel-3</link>
+      <guid>https://www.dwarkesh.com/p/dylan-patel-3</guid>
+      <pubDate>Tue, 25 Aug 2026 15:32:57 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>Dylan Patel discusses the rapid centralization of computing power within major AI labs like Anthropic and OpenAI. He projects that these companies will control the vast majority of global compute resources by 2028, driven by the massive scale required for frontier model training.</description>
+    </item>
+
+    <item>
+      <title>A curmudgeon tries a language server</title>
+      <link>https://entropicthoughts.com/curmudgeon-tries-language-server</link>
+      <guid>https://entropicthoughts.com/curmudgeon-tries-language-server</guid>
+      <pubDate>Mon, 24 Aug 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The author contrasts their traditional, manual coding workflow with the fluid, integrated development experience of Lisp programming. By comparing the two, they highlight the advantages of Lisp's live-coding and hot-swapping capabilities over standard compile-run-debug cycles.</description>
+    </item>
+
+    <item>
+      <title>The Negative Option</title>
+      <link>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</link>
+      <guid>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</guid>
+      <pubDate>Tue, 25 Aug 2026 02:45:00 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article examines the decline of Columbia House, a once-dominant music distribution service that struggled to adapt to digital disruption. It reflects on the company's historical business model and explores how it eventually faded into obsolescence after failing to pivot successfully in a changing media landscape.</description>
+    </item>
+
+    <item>
+      <title>Hardening the Override Flag</title>
+      <link>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</link>
+      <guid>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article examines how command-line tools and package managers protect against dangerous operations by hardening override flags. It highlights strategies like using verbose, explicit flag names to serve as intentional warnings during security reviews.</description>
+    </item>
+
+    <item>
+      <title>Numerical (in)stability of recurrence relations</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</guid>
+      <pubDate>Tue, 25 Aug 2026 01:47:47 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the numerical stability challenges inherent in using three-term recurrence relations for special functions. It emphasizes that while these relations are computationally useful, they require careful implementation to avoid errors.</description>
+    </item>
+
+    <item>
+      <title>Comparing the two holograms on the Windows 95 box</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post examines the subtle differences between the two holographic stickers found on the original Windows 95 retail packaging. The author invites readers to look closely at the design variations present on these collectible boxes.</description>
+    </item>
+
+    <item>
+      <title>Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</guid>
+      <pubDate>Tue, 25 Aug 2026 11:34:22 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review of the 'Cats' production at Regent's Park Open Air Theatre critiques the show as a whimsical, spiritual experience. The author draws an anthropological parallel between the performers' feline portrayals and ancient shamanistic rituals of becoming one with an animal.</description>
+    </item>
+
+    <item>
+      <title>Uranium from Příbram (Czechia)</title>
+      <link>https://maurycyz.com/misc/rocks3/</link>
+      <guid>https://maurycyz.com/misc/rocks3/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post showcases geological specimens of uraninite collected from Příbram, Czechia, featuring radiation measurements and photographic observations. It includes brief technical details on the mineral's formation age and the geological environment of the deposit.</description>
+    </item>
+
+    <item>
+      <title>Foot Guns for Sale </title>
+      <link>https://idiallo.com/blog/foot-gun-for-sale</link>
+      <guid>https://idiallo.com/blog/foot-gun-for-sale</guid>
+      <pubDate>Tue, 25 Aug 2026 07:15:00 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The author challenges the narrative that AI will remain centralized under major providers like OpenAI and Anthropic. Instead, they argue that technological advancements will enable developers to run powerful, open-source models locally, disrupting the current corporate ecosystem model.</description>
+    </item>
+
+    <item>
+      <title>Debugging Ubiquiti's 5G Backup on AT&amp;T</title>
+      <link>https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</guid>
+      <pubDate>Tue, 25 Aug 2026 19:18:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling explores integrating Ubiquiti networking gear into a portable 5G mini-homelab rack setup. He highlights the benefits of using compact hardware for both on-the-go connectivity and fixed-location internet redundancy.</description>
+    </item>
+
     <item>
       <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
       <link>https://www.troyhunt.com/weekly-update-518/</link>
@@ -769,141 +904,6 @@
       <pubDate>Mon, 17 Aug 2026 15:54:40 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
       <description>This article discusses the technical implementation of the alloca function and how it dynamically allocates memory on the stack. It explains the underlying mechanism used by the compiler and operating system to adjust the stack pointer during runtime.</description>
-    </item>
-
-    <item>
-      <title>And then the men with guns tell you to do it anyway</title>
-      <link>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</guid>
-      <pubDate>Mon, 17 Aug 2026 11:34:24 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post recounts the 2011 Egyptian revolution, focusing on how the government used mobile networks to send forced, pro-regime propaganda messages to citizens. It highlights the vulnerability of telecommunications infrastructure to state-mandated political manipulation.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/17/great-sousas-ghost/</link>
-      <guid>https://pluralistic.net/2026/08/17/great-sousas-ghost/</guid>
-      <pubDate>Mon, 17 Aug 2026 07:00:08 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post highlights Jennifer Jenkins' work, specifically her textbook 'Music Copyright, Creativity, and Culture,' which simplifies complex legal concepts surrounding copyright. It serves as a curated digest of links, emphasizing Jenkins' unique ability to make intellectual property law accessible and engaging through clear explanations and illustrative comics.</description>
-    </item>
-
-    <item>
-      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
-      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
-      <guid>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</guid>
-      <pubDate>Mon, 17 Aug 2026 15:21:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>404 Media used an AirTag to track a large shipment of books, revealing that they were delivered to an Amazon facility in Las Vegas known for destructive scanning. This investigation provides concrete evidence that Amazon is acquiring physical books to scan for their AI training processes.</description>
-    </item>
-
-    <item>
-      <title>Markdown SVG upgrades</title>
-      <link>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</link>
-      <guid>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</guid>
-      <pubDate>Sun, 16 Aug 2026 23:59:37 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces updates to his Markdown-to-SVG renderer tool, designed for seamlessly embedding and sharing SVG documents within Markdown. The tool allows users to render content by pasting Markdown directly or by linking to a CORS-friendly URL or GitHub Gist.</description>
-    </item>
-
-    <item>
-      <title>Thoughts on visiting the Edinburgh Fringe as a newbie</title>
-      <link>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</guid>
-      <pubDate>Sun, 16 Aug 2026 11:34:21 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post shares a newcomer's perspective on attending the Edinburgh Fringe festival. The author evaluates the pros and cons of the experience after seeing 25 shows, highlighting the difficulty of navigating such a massive event.</description>
-    </item>
-
-    <item>
-      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
-      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
-      <guid>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
-      <pubDate>Sun, 16 Aug 2026 22:00:39 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison explores the newly released Qwen 3.8 27B vision-capable LLM, noting its impressive benchmark results and accessibility for local hardware. He highlights that the model's default 'xhigh' reasoning effort setting causes it to overthink simple tasks, suggesting users adjust this parameter for better efficiency.</description>
-    </item>
-
-    <item>
-      <title>Quoting Dario Amodei</title>
-      <link>https://simonwillison.net/2026/Aug/16/dario-amodei/</link>
-      <guid>https://simonwillison.net/2026/Aug/16/dario-amodei/</guid>
-      <pubDate>Sun, 16 Aug 2026 15:05:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic CEO Dario Amodei argues that public distrust of AI stems from a broader societal crisis of confidence in institutions rather than warnings about AI risks. He asserts that marketing campaigns are ineffective and that the industry must regain public trust by delivering tangible, beneficial results.</description>
-    </item>
-
-    <item>
-      <title>CORS Chat</title>
-      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
-      <guid>https://simonwillison.net/2026/Aug/15/cors-chat/</guid>
-      <pubDate>Sat, 15 Aug 2026 14:49:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces 'CORS Chat,' a web-based interface for testing OpenAI-compatible chat endpoints like LM Studio and OpenRouter. The tool features browser-based conversation persistence, JSON export, and unique real-time SVG rendering of AI-generated code.</description>
-    </item>
-
-    <item>
-      <title>AI text watermarking is not a big deal</title>
-      <link>https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</link>
-      <guid>https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the limitations and practical implications of AI text watermarking technology. It argues that such mechanisms are not as significant or transformative as often portrayed in industry discourse.</description>
-    </item>
-
-    <item>
-      <title>Concurrent Servers: Part 7 - Rust</title>
-      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
-      <guid>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:41:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This article is the seventh installment in a series on building concurrent network servers, specifically focusing on implementation within the Rust programming language. It explores how Rust handles state machine protocols and concurrency compared to previously discussed methods.</description>
-    </item>
-
-    <item>
-      <title>Reading List — 08/15/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-08152026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-08152026</guid>
-      <pubDate>Sat, 15 Aug 2026 12:02:38 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This reading list covers a diverse range of topics, including trends in home price declines and updates on the Strategic Petroleum Reserve. It also highlights recent business developments such as fundraising efforts by The Boring Company.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 15 August 2026</title>
-      <link>https://nesbitt.io/2026/08/15/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/08/15/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 15 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This weekly digest highlights recent updates in package management tools, including major releases like pnpm 12, Hatch 1.18.0, and Renovate 44.x. It also covers DNF5 feature additions and critical security patches for Flatpak alongside a comprehensive list of version updates for various ecosystem tools.</description>
-    </item>
-
-    <item>
-      <title>Probability of correcting errors</title>
-      <link>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:33:56 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the mathematical principles behind error-correcting codes, using the Mariner 9 probe's Hadamard code as a practical example. It explains how these codes are designed to recover original data even when a specific number of bits are corrupted during transmission.</description>
-    </item>
-
-    <item>
-      <title>Compressing a Hadamard matrix</title>
-      <link>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
-      <pubDate>Sat, 15 Aug 2026 15:40:43 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical properties and practical applications of Hadamard matrices, including their use in error-correcting codes and sphere packings. It focuses on the technical challenge and methodology of compressing these specific orthogonal matrices.</description>
-    </item>
-
-    <item>
-      <title>Site update: a few posts have been removed</title>
-      <link>https://xeiaso.net/notes/2026/blogposts-removed/</link>
-      <guid>https://xeiaso.net/notes/2026/blogposts-removed/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The author provides a brief update stating that several blog posts have been removed from the site. The primary reason cited for this purge is the author's negative personal experience with hospital medication.</description>
     </item>
   </channel>
 </rss>
