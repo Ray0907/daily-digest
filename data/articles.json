@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-08-25T22:12:55.445Z",
+  "last_updated": "2026-08-27T02:19:38.716Z",
   "articles": [
+    {
+      "id": "c4a11114f018fe5d",
+      "title": "Futurism Is Always Extreme",
+      "url": "https://borretti.me/article/futurism-is-always-extreme",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-25T14:00:00.000Z",
+      "summary_en": "The article explores the idea that deep, rigorous contemplation of future trends inevitably leads to extreme scenarios. It suggests that moderate visions of the future often fail to capture the radical nature of technological and societal evolution.",
+      "summary_zh": "本文探討了對未來進行嚴謹思考時，往往會得出極端結果的觀點。它指出，溫和的未來願景通常無法捕捉技術與社會演變的激進本質。",
+      "keywords": [
+        "futurism",
+        "future",
+        "long-term thinking",
+        "technological evolution",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the nature of speculative thinking and future-oriented analysis.",
+      "pacer_reason_zh": "本文針對思辨與未來導向分析的本質提出了概念性的論點。"
+    },
+    {
+      "id": "74b2f5c399964f1c",
+      "title": "What is the quality of software that AI writes?",
+      "url": "https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-26T18:51:13.000Z",
+      "summary_en": "This article explores the debate surrounding the quality of AI-generated code and its future role in software development. It contrasts the perspective that source code may become obsolete with the belief that human oversight remains essential for quality assurance.",
+      "summary_zh": "本文探討了關於人工智慧生成代碼品質的辯論及其在軟體開發中的未來角色。文中對比了「原始碼可能變得過時」的觀點與「人類審核對品質保證至關重要」的看法。",
+      "keywords": [
+        "AI",
+        "coding",
+        "software quality",
+        "source code",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses conceptual ideas about the role and future of AI-generated code rather than providing instructions or raw data.",
+      "pacer_reason_zh": "本文探討了關於 AI 生成代碼的角色與未來的概念性想法，而非提供操作指南或原始數據。"
+    },
+    {
+      "id": "283caddf3e5e59d4",
+      "title": "Junk solutions",
+      "url": "https://www.johndcook.com/blog/2026/08/26/junk-solutions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-26T12:16:17.000Z",
+      "summary_en": "This article explores the concept of 'junk solutions' in differential equations, where a mathematical solution lacks physical meaning or relevance. The author discusses how specific families of functions, such as orthogonal polynomials, arise from these equations and notes the importance of distinguishing meaningful results from extraneous mathematical outputs.",
+      "summary_zh": "本文探討了微分方程中「垃圾解」（junk solutions）的概念，即那些在數學上成立但缺乏實際物理意義的解。作者以正交多項式為例，討論了這些函數族如何從方程中產生，並強調區分有效結果與無關數學輸出之重要性。",
+      "keywords": [
+        "differential equations",
+        "orthogonal polynomials",
+        "mathematics",
+        "functional analysis",
+        "junk solutions"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and the nature of differential equation solutions, focusing on theoretical understanding rather than a specific tutorial or data set.",
+      "pacer_reason_zh": "本文解釋了一個數學概念及微分方程解的本質，重點在於理論性理解，而非教學指南或數據分析。"
+    },
+    {
+      "id": "9962a824ae0ac4a3",
+      "title": "Ultraspherical",
+      "url": "https://www.johndcook.com/blog/2026/08/26/ultraspherical/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-26T10:51:32.000Z",
+      "summary_en": "The article discusses the confusing and non-intuitive nature of mathematical terminology, specifically focusing on the term 'ultraspherical polynomials.' It notes that while the prefix 'ultra-' suggests an extreme degree of sphericity, the mathematical definition does not align with this common linguistic interpretation.",
+      "summary_zh": "本文探討了數學術語中令人困惑的命名方式，特別是以「超球多項式」（ultraspherical polynomials）為例。作者指出，儘管「超」（ultra-）字首暗示了極致的球體感，但在數學定義上卻與這種直觀的語言理解並不相符。",
+      "keywords": [
+        "mathematics",
+        "terminology",
+        "ultraspherical",
+        "polynomials",
+        "language"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual exploration of mathematical terminology and explains the disconnect between linguistic intuition and technical definitions.",
+      "pacer_reason_zh": "本文對數學術語進行了概念性探討，解釋了語言直覺與技術定義之間的落差。"
+    },
+    {
+      "id": "2858588dd394548e",
+      "title": "Why didn’t the Windows Entertainment Pack just run the MS-DOS version inside an emulator?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-25T14:00:00.000Z",
+      "summary_en": "This post explains that the Windows Entertainment Pack was intended to be a native Windows product rather than a collection of emulated MS-DOS games. It emphasizes the importance of software fitting the platform's specific user experience requirements.",
+      "summary_zh": "本文解釋了 Windows Entertainment Pack 的設計初衷是為了提供原生 Windows 應用程式體驗，而非僅僅是透過模擬器執行 MS-DOS 遊戲。它強調了軟體必須符合當時平台原生設計規範的重要性。",
+      "keywords": [
+        "Windows Entertainment Pack",
+        "MS-DOS",
+        "Emulation",
+        "Software Design",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation for the historical design decision behind a software product.",
+      "pacer_reason_zh": "本文針對軟體產品背後的歷史設計決策提供了概念性的解釋。"
+    },
+    {
+      "id": "d8cf354b01c3490d",
+      "title": "If your VS Code remotes stopped working, downgrade to v1.124.x",
+      "url": "https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-26T00:00:00.000Z",
+      "summary_en": "The author advises users experiencing issues with VS Code remotes to downgrade to version 1.124.x. This quick technical tip addresses recent software regressions affecting remote development workflows.",
+      "summary_zh": "作者建議 VS Code 遠端開發功能異常的使用者降級至 1.124.x 版本。這項快速的技術建議旨在解決近期軟體更新導致的遠端工作流程問題。",
+      "keywords": [
+        "VS Code",
+        "remote development",
+        "software bug",
+        "troubleshooting",
+        "version control"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable step to fix a software issue, functioning as a technical how-to.",
+      "pacer_reason_zh": "這篇文章提供了一個具體且可操作的步驟來修復軟體問題，屬於技術操作指南。"
+    },
+    {
+      "id": "717077423334c76f",
+      "title": "How to make VS Code go back to the old UI",
+      "url": "https://xeiaso.net/notes/2026/vscode-ui-revert/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-26T00:00:00.000Z",
+      "summary_en": "This article discusses the frustration with recent VS Code interface updates and provides a guide or context on reverting to the legacy UI. It highlights the recurring issue of software developers removing user-preferred customization options in favor of mandated design changes.",
+      "summary_zh": "本文探討了使用者對 VS Code 最新介面更新的不滿，並提供了恢復舊版使用者介面的相關資訊。內容點出了軟體開發商常移除使用者偏好的自訂選項，以強制推行設計變更的現象。",
+      "keywords": [
+        "VS Code",
+        "UI",
+        "UX",
+        "Software Updates",
+        "Customization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on how to revert specific software interface settings, functioning as a technical workaround guide.",
+      "pacer_reason_zh": "本文重點在於如何還原特定的軟體介面設定，屬於技術性的操作指南。"
+    },
+    {
+      "id": "b79c0316938fae25",
+      "title": "Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-26T11:34:52.000Z",
+      "summary_en": "This review evaluates the Thermal Master P3, a unique thermal camera specifically designed for electronics diagnostics. Unlike standard wildlife-focused thermal cameras, the P3 features a manual macro lens that allows users to capture detailed heat maps of microchips and internal components.",
+      "summary_zh": "這篇文章評測了 Thermal Master P3，這是一款專為電子設備診斷而設計的獨特熱像儀。與傳統用於野生動物觀察的機型不同，P3 配備了手動微距鏡頭，讓使用者能拍攝微晶片與內部組件的精密熱分佈圖。",
+      "keywords": [
+        "Thermal Master P3",
+        "Thermal camera",
+        "Electronics diagnostics",
+        "Macro lens",
+        "Gadget review"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content functions as a hands-on product review and evaluation of a specific piece of hardware.",
+      "pacer_reason_zh": "本文內容為針對特定硬體產品的實際測試與評估報告。"
+    },
+    {
+      "id": "649be24b46e001bf",
+      "title": "Pluralistic: The age of disinvention (25 Aug 2026)",
+      "url": "https://pluralistic.net/2026/08/25/gammamax/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-08-26T03:21:38.000Z",
+      "summary_en": "Cory Doctorow examines the historical battle between media corporations and the VCR, arguing that its eventual decline was a result of intentional industry interference rather than simple technological obsolescence. He highlights the significance of the 1984 Betamax decision, which established that technologies with substantial non-infringing uses are legally protected.",
+      "summary_zh": "Cory Doctorow 探討了媒體公司與錄影機 (VCR) 之間的歷史鬥爭，認為 VCR 的衰落並非單純因為技術被淘汰，而是業界蓄意干預的結果。文中強調了 1984 年「Betamax 案」的重要性，該判決確立了若新技術具有實質性的非侵權用途，則受法律保障。",
+      "keywords": [
+        "VCR",
+        "Betamax",
+        "copyright law",
+        "disinvention",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of technological history and the legal principles governing innovation and copyright.",
+      "pacer_reason_zh": "文章針對科技發展史及管理創新與著作權的法律原則進行了概念性的探討。"
+    },
+    {
+      "id": "c66ebdceece6d7fb",
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-26T23:52:58.000Z",
+      "summary_en": "Simon Willison explores Qwen3.8-Flash-Next, a new multimodal mixture-of-experts model that serves as an architectural preview for Qwen4. The post highlights his hands-on experience using quantized versions of the model on a DGX Spark to generate high-quality, complex images.",
+      "summary_zh": "Simon Willison 介紹了新的多模態混合專家模型 Qwen3.8-Flash-Next，該模型作為 Qwen4 架構的預覽版本。作者分享了他在 DGX Spark 上使用量化版本模型進行實測的心得，並展示了其生成的高品質圖像成果。",
+      "keywords": [
+        "Qwen3.8-Flash-Next",
+        "LLM",
+        "Multimodal",
+        "MoE",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is primarily based on the author's hands-on experimentation, testing specific quantized models and showcasing empirical image generation results.",
+      "pacer_reason_zh": "本文主要基於作者的實作測試，透過執行特定量化模型並展示其產出的圖像結果來進行實證分析。"
+    },
+    {
+      "id": "69963c113d8fc5e8",
+      "title": "Quoting Paul Dix",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-26T08:07:55.000Z",
+      "summary_en": "This post highlights Paul Dix's perspective on the transformative power of AI in software development. It argues that with proper verification systems and direction, AI can successfully build and refine highly complex, reliable software.",
+      "summary_zh": "這篇文章引用了 Paul Dix 對 AI 在軟體開發領域變革性力量的見解。文中強調，只要配合適當的驗證系統與指令，AI 完全有能力開發並持續優化複雜且穩定的軟體系統。",
+      "keywords": [
+        "AI",
+        "coding-agents",
+        "software-development",
+        "generative-ai",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual shift in how software is developed using AI agents, reflecting on the nature of AI-driven engineering.",
+      "pacer_reason_zh": "內容探討了 AI 代理改變軟體開發模式的概念，對 AI 驅動工程的本質進行了思考與解釋。"
+    },
+    {
+      "id": "34211482db4916fe",
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-25T22:59:30.000Z",
+      "summary_en": "EVE Online is beginning the massive task of migrating 2.4 million lines of legacy Stackless Python 2.7 code to Python 3. The transition involves automated tools like 'futurize' combined with extensive manual code reviews to address behavioral differences between versions.",
+      "summary_zh": "《EVE Online》即將展開一項巨大的工程，將其 240 萬行傳統的 Stackless Python 2.7 程式碼遷移至 Python 3。此次升級結合了自動化工具與大規模的人工審查，以解決不同版本間的行為差異。",
+      "keywords": [
+        "EVE Online",
+        "Python",
+        "Python 3",
+        "Stackless",
+        "Software Migration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a technical migration project, focusing on the 'what' and 'how' of a large-scale system update.",
+      "pacer_reason_zh": "本文解釋了一項技術遷移專案，重點在於說明大規模系統更新的內容與背景資訊。"
+    },
     {
       "id": "899712e34cc65a0d",
       "title": "Forgejo hack: How to set a starting issue and pull request number",
