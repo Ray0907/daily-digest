@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 27 Aug 2026 02:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:51:45 GMT</lastBuildDate>
     
+    <item>
+      <title>Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor</title>
+      <link>https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/</link>
+      <guid>https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/</guid>
+      <pubDate>Thu, 27 Aug 2026 10:20:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>This post discusses the upcoming changes to the Dutch intelligence services (AIVD and MIVD) legislation, urging for critical scrutiny. The author highlights recent failures, such as wrongful arrests, data mismanagement, and the limited effectiveness of large-scale wiretapping programs.</description>
+    </item>
+
+    <item>
+      <title>How big are factorials?</title>
+      <link>https://eli.thegreenplace.net/2026/how-big-are-factorials/</link>
+      <guid>https://eli.thegreenplace.net/2026/how-big-are-factorials/</guid>
+      <pubDate>Fri, 28 Aug 2026 01:52:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article explores how to estimate the number of digits in large factorials using a simple approximation formula. It further explains the mathematical foundations of this estimation by deriving the relationship between factorials and the Gamma function.</description>
+    </item>
+
+    <item>
+      <title>A Calendar View For My Blog</title>
+      <link>https://blog.jim-nielsen.com/2026/blog-calendar-view/</link>
+      <guid>https://blog.jim-nielsen.com/2026/blog-calendar-view/</guid>
+      <pubDate>Thu, 27 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>Jim Nielsen explores alternative ways to visualize his 14-year archive of blog posts beyond the standard reverse-chronological list. He successfully developed and implemented a calendar view that highlights his posting patterns over time, providing a new way to interact with his writing history.</description>
+    </item>
+
+    <item>
+      <title>Can Self-Hosting Be Simple?</title>
+      <link>https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</link>
+      <guid>https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</guid>
+      <pubDate>Thu, 27 Aug 2026 03:11:28 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores a simplified approach to self-hosting by using a budget-friendly mini-PC for basic tasks like Plex and Syncthing. The author argues for a 'less-is-more' philosophy, testing a modest hardware configuration to demonstrate that high-end specs aren't always necessary for personal servers.</description>
+    </item>
+
+    <item>
+      <title>How the Strategic Petroleum Reserve Works</title>
+      <link>https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</link>
+      <guid>https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</guid>
+      <pubDate>Thu, 27 Aug 2026 12:03:58 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explains the function and scale of the US Strategic Petroleum Reserve, the world's largest crude oil storage facility. It details how the reserve operates as a strategic resource for national energy security.</description>
+    </item>
+
+    <item>
+      <title>Sandboxing coding agents</title>
+      <link>https://micahflee.com/sandboxing-coding-agents/</link>
+      <guid>https://micahflee.com/sandboxing-coding-agents/</guid>
+      <pubDate>Thu, 27 Aug 2026 19:58:21 GMT</pubDate>
+      <source url="https://micahflee.com/">micahflee</source>
+      <description>This post provides a technical guide on setting up isolated sandboxes for coding agents to ensure secure development. The author demonstrates how to restrict an agent's access to a single, isolated GitHub repository to minimize potential risks.</description>
+    </item>
+
+    <item>
+      <title>Bazel Module Versions Aren’t SemVer</title>
+      <link>https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</link>
+      <guid>https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</guid>
+      <pubDate>Thu, 27 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article explains why the packages.ecosyste.ms index misidentifies the latest Bazel module versions due to an overly strict SemVer parser. It highlights that Bazel uses a more flexible versioning format to accommodate various ecosystems and details the specific sorting logic used in Bazel's module system.</description>
+    </item>
+
+    <item>
+      <title>Second solutions</title>
+      <link>https://www.johndcook.com/blog/2026/08/27/second-solutions/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/27/second-solutions/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:14:35 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explores families of polynomials that satisfy both a differential equation and a three-term recurrence relation. It specifically examines 'second solutions' to these differential equations, noting their varying behavior in relation to the variable x and the degree index n.</description>
+    </item>
+
+    <item>
+      <title>In the product end game, every change carries significant risk, episode 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</guid>
+      <pubDate>Wed, 26 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the inherent risks associated with making changes to software products during the final stages of their development cycle. It emphasizes that even the smallest modifications can lead to unforeseen consequences.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This piece critiques the prevalence of recurring software design flaws in a specific programming language by referencing a well-known satirical headline. It highlights the frustration of developers who consistently encounter avoidable technical pitfalls that the language fails to address.</description>
+    </item>
+
+    <item>
+      <title>Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:34:48 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews 'The Infinite Sadness of Small Appliances' by Glenn Dixon, describing it as a charming, zeitgeisty novel. The story explores themes of sentience and grief through the lens of household objects, drawing inspiration from classic anthropomorphic tales.</description>
+    </item>
+
+    <item>
+      <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
+      <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
+      <guid>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:04:15 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>Australian authorities have arrested two men linked to the cybercrime group 'TeamPCP,' which is responsible for a long-running series of global software supply chain attacks. The investigation details how these individuals created malicious open-source software to target businesses and discusses the digital clues that led to their identification.</description>
+    </item>
+
+    <item>
+      <title>Breaking Claude Code Opus 5 Auto Mode</title>
+      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+      <guid>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 22:50:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Security researcher Johann Rehberger has identified a significant vulnerability in Claude Code's auto mode, demonstrating that prompt injection can bypass safety filters and execute malicious code. The author emphasizes that relying on auto-mode is insufficient and strongly advocates for running AI coding agents within strictly isolated sandboxed environments.</description>
+    </item>
+
     <item>
       <title>Futurism Is Always Extreme</title>
       <link>https://borretti.me/article/futurism-is-always-extreme</link>
@@ -787,123 +904,6 @@
       <pubDate>Wed, 19 Aug 2026 00:22:36 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
       <description>This article discusses a recent research paper regarding the maximum-area polygon problem for a given number of sides and a diameter of one. It highlights the surprising geometric findings, noting that while regular polygons are optimal for odd numbers of sides, the pattern for even sides is more complex.</description>
-    </item>
-
-    <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>This article explores the technical nature of AI 'reasoning traces,' explaining that they are simply text generated in a scratchpad area rather than a mysterious internal process. It clarifies that these traces are managed through specific response formats and system prompts rather than being fundamental properties of the sampling process.</description>
-    </item>
-
-    <item>
-      <title>Why did the Microsoft Entertainment Pack for Windows have a special sticker announcing that it also had Tetris?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</guid>
-      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains the historical reason behind a special sticker on the Microsoft Entertainment Pack for Windows. It reveals that the prominent inclusion of Tetris was a contingency plan to ensure the package's market appeal.</description>
-    </item>
-
-    <item>
-      <title>Anubis continues to expose new ways people configure webservers</title>
-      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
-      <guid>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This post highlights how web server administrators often unintentionally break website functionality by disabling browser features. It emphasizes the importance of understanding the side effects of configuration changes to avoid difficult debugging scenarios.</description>
-    </item>
-
-    <item>
-      <title>Asymmetric Agents</title>
-      <link>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</guid>
-      <pubDate>Wed, 19 Aug 2026 11:34:52 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The post explores the concept of 'asymmetric agents' in AI, critiquing the long-standing industry trope of autonomous personal digital servants. It highlights the practical difficulties and underlying power dynamics involved in delegating complex negotiations and tasks to AI agents.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The ordinariness of evil (19 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/19/banaility/</link>
-      <guid>https://pluralistic.net/2026/08/19/banaility/</guid>
-      <pubDate>Wed, 19 Aug 2026 07:36:27 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that the exaggerated 'existential risk' narratives surrounding AI are marketing strategies meant to boost the perceived potential of products that currently function only as niche tools. He positions AI as a mundane technology, suggesting its actual utility is marginal and often overshadowed by the hype surrounding its development.</description>
-    </item>
-
-    <item>
-      <title>Hands-on with Raspberry Pi's CM5 Programming Jig</title>
-      <link>https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</guid>
-      <pubDate>Wed, 19 Aug 2026 07:13:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling explores the Raspberry Pi CM5 Programming Jig as a solution for streamlining the tedious process of flashing multiple Compute Modules. The post highlights the difficulty of managing mass deployments and how specialized hardware can simplify device configuration.</description>
-    </item>
-
-    <item>
-      <title>I like 'em thick</title>
-      <link>https://www.experimental-history.com/p/i-like-em-thick</link>
-      <guid>https://www.experimental-history.com/p/i-like-em-thick</guid>
-      <pubDate>Tue, 18 Aug 2026 15:02:15 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>The author reflects on their evolving relationship with writing, moving from an obsession with conciseness to a newfound appreciation for density and length. They argue that verbose prose can offer deeper engagement and stylistic richness, challenging the conventional academic emphasis on brevity.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 517: Cyber Ransoms</title>
-      <link>https://www.troyhunt.com/weekly-update-517/</link>
-      <guid>https://www.troyhunt.com/weekly-update-517/</guid>
-      <pubDate>Tue, 18 Aug 2026 03:44:58 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>This update explores the evolving landscape of ransomware, highlighting that much of the activity is driven by extortion rather than traditional software-based locking. It discusses the challenges young cybercriminals face when attempting to launder and spend their illicit gains.</description>
-    </item>
-
-    <item>
-      <title>my-personsal-agi</title>
-      <link>https://chadnauseam.com/random/my-personsal-agi</link>
-      <guid>https://chadnauseam.com/random/my-personsal-agi</guid>
-      <pubDate>Tue, 18 Aug 2026 22:09:05 GMT</pubDate>
-      <source url="https://chadnauseam.com/">Chad Nauseam Home</source>
-      <description>This article discusses the concept of personal AGI, exploring what it means to develop or utilize artificial general intelligence at an individual level. It examines the potential implications and personal applications of such technology.</description>
-    </item>
-
-    <item>
-      <title>AI Alignment as a Thought-Terminating Cliche</title>
-      <link>https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</link>
-      <guid>https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This piece critiques the term 'AI alignment' as a thought-terminating cliché that simplifies complex sociotechnical problems. It argues that the phrase is often used rhetorically to bypass critical inquiry into the actual mechanics and implications of AI safety.</description>
-    </item>
-
-    <item>
-      <title>Vim wants you to control, VSCode wants you to consume</title>
-      <link>https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</guid>
-      <pubDate>Tue, 18 Aug 2026 16:26:05 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The author compares the configuration philosophies of VSCode and Neovim, highlighting how VSCode focuses on consuming predefined commands while Neovim emphasizes controlling editor state through executable code. This reflection is sparked by the author's transition to a new role at Antithesis, where they are adopting NixOS and reconsidering their complex editor setup.</description>
-    </item>
-
-    <item>
-      <title>Snakes and Ladders</title>
-      <link>https://entropicthoughts.com/snakes-and-ladders</link>
-      <guid>https://entropicthoughts.com/snakes-and-ladders</guid>
-      <pubDate>Mon, 17 Aug 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The article discusses the common use of themed 'Snakes and Ladders' board games in promotional material for children. It reflects on why these games are effective marketing tools by tapping into a child's imagination as they navigate the board.</description>
-    </item>
-
-    <item>
-      <title>Two-Factor Authentication Across Package Registries</title>
-      <link>https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html</link>
-      <guid>https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html</guid>
-      <pubDate>Tue, 18 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article examines the progress of two-factor authentication (2FA) implementation across major package registries. It highlights how different registries, such as npm and PyPI, are navigating the transition to mandatory security measures to close account-bypass vulnerabilities.</description>
     </item>
   </channel>
 </rss>

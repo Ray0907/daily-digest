@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-08-27T02:19:38.716Z",
+  "last_updated": "2026-08-28T05:51:45.611Z",
   "articles": [
+    {
+      "id": "a1700dc2322a86e7",
+      "title": "Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor",
+      "url": "https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-08-27T10:20:00.000Z",
+      "summary_en": "This post discusses the upcoming changes to the Dutch intelligence services (AIVD and MIVD) legislation, urging for critical scrutiny. The author highlights recent failures, such as wrongful arrests, data mismanagement, and the limited effectiveness of large-scale wiretapping programs.",
+      "summary_zh": "這篇文章探討了荷蘭情報與安全局（AIVD 和 MIVD）即將修訂的法案，並呼籲大眾保持批判性關注。作者強調了近期情報機構在誤捕、數據管理不善以及大規模監聽成效不彰等方面的缺失。",
+      "keywords": [
+        "AIVD",
+        "MIVD",
+        "privacy",
+        "surveillance",
+        "Dutch legislation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis and critical perspective on the role and performance of intelligence services in relation to new legislation.",
+      "pacer_reason_zh": "本文針對情報機關的角色與表現進行了概念性的分析與批判，並探討其與新法規的關聯。"
+    },
+    {
+      "id": "0f260508ae8d825b",
+      "title": "How big are factorials?",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-08-28T01:52:00.000Z",
+      "summary_en": "This article explores how to estimate the number of digits in large factorials using a simple approximation formula. It further explains the mathematical foundations of this estimation by deriving the relationship between factorials and the Gamma function.",
+      "summary_zh": "本文探討如何利用簡單的估算公式來推算大階乘的位數。作者進一步解釋了該估算背後的數學原理，並推導了階乘與伽瑪函數（Gamma function）之間的關係。",
+      "keywords": [
+        "factorial",
+        "mathematics",
+        "approximation",
+        "Gamma function",
+        "estimation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and mathematical theory behind factorial estimation.",
+      "pacer_reason_zh": "文章重點在於解釋階乘估算背後的概念框架與數學理論。"
+    },
+    {
+      "id": "03503c8ad178bb6a",
+      "title": "A Calendar View For My Blog",
+      "url": "https://blog.jim-nielsen.com/2026/blog-calendar-view/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-27T19:00:00.000Z",
+      "summary_en": "Jim Nielsen explores alternative ways to visualize his 14-year archive of blog posts beyond the standard reverse-chronological list. He successfully developed and implemented a calendar view that highlights his posting patterns over time, providing a new way to interact with his writing history.",
+      "summary_zh": "作者 Jim Nielsen 探討了除傳統倒序列表之外，呈現其長達 14 年部落格文章存檔的多元方式。他開發並實作了一個日曆視圖，旨在呈現他歷年來的發文頻率與模式，為閱讀其個人創作提供了嶄新的互動體驗。",
+      "keywords": [
+        "blogging",
+        "calendar-view",
+        "data-visualization",
+        "web-development",
+        "archives"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes the personal journey and implementation process of building a new calendar-based feature for a blog.",
+      "pacer_reason_zh": "該文章描述了作者為其部落格開發新日曆檢視功能的過程與實作經驗。"
+    },
+    {
+      "id": "3bb0b2d60303cbc9",
+      "title": "Can Self-Hosting Be Simple?",
+      "url": "https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-08-27T03:11:28.000Z",
+      "summary_en": "This article explores a simplified approach to self-hosting by using a budget-friendly mini-PC for basic tasks like Plex and Syncthing. The author argues for a 'less-is-more' philosophy, testing a modest hardware configuration to demonstrate that high-end specs aren't always necessary for personal servers.",
+      "summary_zh": "本文探討了利用經濟實惠的迷你電腦進行簡單化自託管（Self-hosting）的可行性，並以 Plex 和 Syncthing 等基礎應用為例。作者提倡「少即是多」的理念，透過實測中階硬體，說明個人伺服器並非一定要追求頂規配置。",
+      "keywords": [
+        "self-hosting",
+        "mini-pc",
+        "homelab",
+        "tech review",
+        "minimalism"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a hands-on review and real-world test case of specific hardware (Acemagic K1) for a self-hosting use case.",
+      "pacer_reason_zh": "本文針對特定硬體（Acemagic K1）在自託管情境下的應用進行了實測評估與案例分析。"
+    },
+    {
+      "id": "1aafb25b64bfeacf",
+      "title": "How the Strategic Petroleum Reserve Works",
+      "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-27T12:03:58.000Z",
+      "summary_en": "This article explains the function and scale of the US Strategic Petroleum Reserve, the world's largest crude oil storage facility. It details how the reserve operates as a strategic resource for national energy security.",
+      "summary_zh": "本文介紹了全球最大的原油儲存設施——美國戰略石油儲備（SPR）的運作方式。內容探討了該儲備庫如何作為維護國家能源安全的戰略性資源。",
+      "keywords": [
+        "Strategic Petroleum Reserve",
+        "Energy Security",
+        "Crude Oil",
+        "Infrastructure",
+        "US Government"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining what the Strategic Petroleum Reserve is and how it functions conceptually.",
+      "pacer_reason_zh": "本文重點在於解釋戰略石油儲備的定義及其運作概念。"
+    },
+    {
+      "id": "538a36ead97a600d",
+      "title": "Sandboxing coding agents",
+      "url": "https://micahflee.com/sandboxing-coding-agents/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-08-27T19:58:21.000Z",
+      "summary_en": "This post provides a technical guide on setting up isolated sandboxes for coding agents to ensure secure development. The author demonstrates how to restrict an agent's access to a single, isolated GitHub repository to minimize potential risks.",
+      "summary_zh": "這篇文章提供了為程式設計代理人（coding agents）設置隔離沙盒的技術指南，以確保開發過程的安全性。作者演示了如何將代理人的權限限制在單一且隔離的 GitHub 儲存庫中，藉此降低潛在風險。",
+      "keywords": [
+        "coding agents",
+        "sandboxing",
+        "cybersecurity",
+        "software development",
+        "GitHub"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a technical how-to guide focusing on the practical steps for setting up isolated environments for coding agents.",
+      "pacer_reason_zh": "這篇文章是一份技術操作指南，專注於為程式設計代理人設置隔離環境的實際步驟。"
+    },
+    {
+      "id": "84522eabfe1802b7",
+      "title": "Bazel Module Versions Aren’t SemVer",
+      "url": "https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-27T10:00:00.000Z",
+      "summary_en": "The article explains why the packages.ecosyste.ms index misidentifies the latest Bazel module versions due to an overly strict SemVer parser. It highlights that Bazel uses a more flexible versioning format to accommodate various ecosystems and details the specific sorting logic used in Bazel's module system.",
+      "summary_zh": "本文探討為何 packages.ecosyste.ms 因解析器過於嚴格，無法正確識別 Bazel 模組的最新版本。文章指出 Bazel 為了兼容不同生態系統，採用了比 SemVer 更靈活的版本格式，並詳細說明了其模組系統內部的排序邏輯。",
+      "keywords": [
+        "Bazel",
+        "SemVer",
+        "versioning",
+        "package management",
+        "bzlmod"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why the current versioning logic fails and details how the Bazel versioning system works.",
+      "pacer_reason_zh": "本文對當前版本邏輯失效的原因進行了概念性說明，並詳細解釋了 Bazel 版本系統的運作方式。"
+    },
+    {
+      "id": "67cae47ddbbdd4c6",
+      "title": "Second solutions",
+      "url": "https://www.johndcook.com/blog/2026/08/27/second-solutions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-27T13:14:35.000Z",
+      "summary_en": "This post explores families of polynomials that satisfy both a differential equation and a three-term recurrence relation. It specifically examines 'second solutions' to these differential equations, noting their varying behavior in relation to the variable x and the degree index n.",
+      "summary_zh": "本文探討了同時滿足微分方程與三項遞迴關係的多項式族。文中特別分析了這些微分方程的「第二解」，並探討了其在變數 x 與度數索引 n 變化下的不同表現。",
+      "keywords": [
+        "polynomials",
+        "differential equations",
+        "recurrence relation",
+        "mathematics",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of mathematical relationships between polynomial families and their differential solutions.",
+      "pacer_reason_zh": "本文對多項式族與其微分方程解之間的數學關係提供了概念性的解釋。"
+    },
+    {
+      "id": "b797a420f6762fbf",
+      "title": "In the product end game, every change carries significant risk, episode 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-26T14:00:00.000Z",
+      "summary_en": "This post discusses the inherent risks associated with making changes to software products during the final stages of their development cycle. It emphasizes that even the smallest modifications can lead to unforeseen consequences.",
+      "summary_zh": "本文探討在產品開發週期的最終階段，對產品進行變更所蘊含的重大風險。作者強調，即使是極小的修改也可能引發無法預見的後果。",
+      "keywords": [
+        "software development",
+        "product lifecycle",
+        "risk management",
+        "debugging",
+        "the old new thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual reflection on software development philosophy and the nature of risk in late-stage product maintenance.",
+      "pacer_reason_zh": "這篇文章針對軟體開發哲學以及產品維護後期的風險本質，提供了觀念性的見解與反思。"
+    },
+    {
+      "id": "a2f0cfaad5772fee",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-08-27T00:00:00.000Z",
+      "summary_en": "This piece critiques the prevalence of recurring software design flaws in a specific programming language by referencing a well-known satirical headline. It highlights the frustration of developers who consistently encounter avoidable technical pitfalls that the language fails to address.",
+      "summary_zh": "本文引用著名的諷刺標題，批評某種程式語言中常見的軟體設計缺陷。文章點出開發者在面對這些不斷重複且本可避免的技術問題時，所產生的無奈與挫折感。",
+      "keywords": [
+        "programming",
+        "software design",
+        "satire",
+        "developer experience",
+        "technical debt"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The title uses an analogy to a satirical headline to critique programming language design flaws.",
+      "pacer_reason_zh": "標題運用了對諷刺性新聞標題的類比，以此批判程式語言的設計缺陷。"
+    },
+    {
+      "id": "ece6e7f16d9051b3",
+      "title": "Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-27T11:34:48.000Z",
+      "summary_en": "This blog post reviews 'The Infinite Sadness of Small Appliances' by Glenn Dixon, describing it as a charming, zeitgeisty novel. The story explores themes of sentience and grief through the lens of household objects, drawing inspiration from classic anthropomorphic tales.",
+      "summary_zh": "這篇部落格文章評論了 Glenn Dixon 的小說《The Infinite Sadness of Small Appliances》，稱其為一部迷人且具時代精神的作品。故事透過擬人化的小家電探討情感與悲傷，並向多部經典作品致敬。",
+      "keywords": [
+        "book review",
+        "Glenn Dixon",
+        "fiction",
+        "literary criticism",
+        "anthropomorphism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and literary analysis of a novel.",
+      "pacer_reason_zh": "本文提供了小說的概念性概述與文學分析。"
+    },
+    {
+      "id": "4448077476edb29e",
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-08-27T11:04:15.000Z",
+      "summary_en": "Australian authorities have arrested two men linked to the cybercrime group 'TeamPCP,' which is responsible for a long-running series of global software supply chain attacks. The investigation details how these individuals created malicious open-source software to target businesses and discusses the digital clues that led to their identification.",
+      "summary_zh": "澳洲警方逮捕了兩名與網路犯罪組織「TeamPCP」相關的男子，該組織被指控進行了長期且大規模的軟體供應鏈攻擊。調查揭露了這些嫌犯如何利用惡意開源軟體攻擊全球企業，並分析了導致其身分曝光的關鍵數位線索。",
+      "keywords": [
+        "TeamPCP",
+        "cybercrime",
+        "Australia",
+        "supply chain attack",
+        "AFP"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative report documenting a specific real-world case study and crime investigation.",
+      "pacer_reason_zh": "本文屬於調查報導，記錄了特定的現實案例研究與犯罪偵辦過程。"
+    },
+    {
+      "id": "bc6639b3f24621f6",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-27T22:50:25.000Z",
+      "summary_en": "Security researcher Johann Rehberger has identified a significant vulnerability in Claude Code's auto mode, demonstrating that prompt injection can bypass safety filters and execute malicious code. The author emphasizes that relying on auto-mode is insufficient and strongly advocates for running AI coding agents within strictly isolated sandboxed environments.",
+      "summary_zh": "安全研究人員 Johann Rehberger 發現 Claude Code 自動模式存在重大漏洞，展示了提示詞注入攻擊如何繞過安全過濾器並執行惡意程式碼。作者強調僅依賴自動模式並不足夠，並強烈建議將 AI 編碼代理程式運行在嚴格隔離的沙盒環境中。",
+      "keywords": [
+        "Claude Code",
+        "prompt injection",
+        "sandboxing",
+        "AI security",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on a case study of a specific vulnerability and evidence-based security testing performed by a researcher.",
+      "pacer_reason_zh": "本文以特定漏洞的案例研究為核心，並引用了研究人員進行的實證安全測試結果。"
+    },
     {
       "id": "c4a11114f018fe5d",
       "title": "Futurism Is Always Extreme",
