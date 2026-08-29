@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-08-29T03:24:32.208Z",
+  "last_updated": "2026-08-29T23:40:16.461Z",
   "articles": [
+    {
+      "id": "b74188c782fbd754",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-29T22:47:53.000Z",
+      "summary_en": "This discussion explores the rapid evolution and competitive dynamics between major AI labs and open-source communities like OpenAI and Hugging Face. It breaks down complex industry trends into accessible narratives regarding the current state and future trajectory of autonomous agents.",
+      "summary_zh": "本集節目探討了 OpenAI 與 Hugging Face 等主要 AI 實驗室與開源社群之間的快速發展與競爭動態。內容以平易近人的方式解析了產業趨勢，深入探討自主代理（autonomous agents）的現況與未來發展方向。",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Hugging Face",
+        "Autonomous Agents",
+        "Tech Industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the underlying dynamics and history of the AI industry, focusing on 'what is' and how the ecosystem is evolving.",
+      "pacer_reason_zh": "內容解釋了人工智慧產業背後的運作機制與歷史脈絡，側重於說明該生態系的現況與發展。"
+    },
+    {
+      "id": "da57e87eed2e695e",
+      "title": "Reading List 08/29/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082926",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-08-29T12:03:07.000Z",
+      "summary_en": "This newsletter covers a diverse range of topics, including infrastructure challenges like sinking homes in London and catastrophic flooding in Nepal. It also highlights industrial developments in US magnesium manufacturing and emerging trends in global robotics.",
+      "summary_zh": "本期電子報涵蓋多元議題，包括倫敦房屋下陷與尼泊爾嚴重洪災等基礎設施挑戰。此外，也探討了美國鎂製造業的發展以及全球機器人領域的最新趨勢。",
+      "keywords": [
+        "infrastructure",
+        "robotics",
+        "manufacturing",
+        "climate",
+        "construction"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and news highlights across various domains.",
+      "pacer_reason_zh": "本文屬於精選連結與新聞重點的匯編，適合作為資訊查找的參考列表。"
+    },
+    {
+      "id": "720d05a8101fc908",
+      "title": "The Server Called Paranoia: Defend Autistici/Inventati",
+      "url": "https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-08-29T19:40:15.000Z",
+      "summary_en": "This article examines the Italian hacker collective Autistici/Inventati, highlighting their twenty-five-year history of building anti-surveillance infrastructure. It details the recent US designation of the group as a terrorist organization and the looming deadline for their operational shutdown.",
+      "summary_zh": "本文介紹了擁有 25 年歷史的義大利駭客組織 Autistici/Inventati，該組織長期致力於建立抗審查與防監控的通訊基礎設施。文中探討了該組織近期遭美國列為恐怖組織的事件，以及其面臨關閉營運的迫切期限。",
+      "keywords": [
+        "Autistici/Inventati",
+        "cybersecurity",
+        "surveillance",
+        "censorship",
+        "hacker collective"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and background of a political and technical situation involving a hacker collective.",
+      "pacer_reason_zh": "本文針對駭客組織所涉及的政治與技術局勢，提供了概念性的背景概述與說明。"
+    },
+    {
+      "id": "b4fddcf6fcaad32a",
+      "title": "This Week in Package Management: 29 August 2026",
+      "url": "https://nesbitt.io/2026/08/29/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-29T10:00:00.000Z",
+      "summary_en": "This roundup highlights key updates in package management, notably the release of pnpm 12, a significant Rust-based rewrite featuring performance improvements for workspace dependency resolution. Additional updates include new features in Stack 4.1.0.1, winget 1.29.290, and the Maven 3.10.0 release candidate.",
+      "summary_zh": "本週軟體包管理動態重點介紹了 pnpm 12 的發布，這是基於 Rust 的重大重寫，顯著提升了工作區依賴解析的性能。此外，Stack 4.1.0.1、winget 1.29.290 以及 Maven 3.10.0 發布候選版本也帶來了各項功能改進與更新。",
+      "keywords": [
+        "pnpm",
+        "package management",
+        "software updates",
+        "dependency resolution",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a periodic reference list and news summary tracking updates across various package management tools.",
+      "pacer_reason_zh": "本文作為定期更新的參考列表，彙整了各類軟體包管理工具的最新動態與版本資訊。"
+    },
+    {
+      "id": "9a3b5705174be3cb",
+      "title": "A simple \"copy this code\" button in JavaScript",
+      "url": "https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-29T11:34:49.000Z",
+      "summary_en": "This post explains how to implement a simple 'copy to clipboard' button for code blocks using the JavaScript Clipboard API. The author provides a concise, minimal HTML and JavaScript snippet to allow users to easily grab code samples from a webpage.",
+      "summary_zh": "這篇文章介紹如何使用 JavaScript Clipboard API 為網頁代碼區塊實作簡易的「複製到剪貼簿」按鈕。作者提供了一段精簡的 HTML 與 JavaScript 程式碼，讓使用者能更方便地複製網頁上的範例代碼。",
+      "keywords": [
+        "JavaScript",
+        "Clipboard API",
+        "web development",
+        "code snippet",
+        "UI design"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a direct, step-by-step tutorial on implementing a specific functional component for a website.",
+      "pacer_reason_zh": "該文章提供了實作特定網站功能元件的直接教學步驟。"
+    },
+    {
+      "id": "47941675bf8f72d9",
+      "title": "Technical note: transfer files over an ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-08-29T00:00:00.000Z",
+      "summary_en": "This article demonstrates how to transfer large files between two computers by directly connecting them with an Ethernet cable and configuring IP addresses. It explains that this method is faster and more reliable than cloud storage, WiFi, or expensive removable hardware.",
+      "summary_zh": "本文介紹如何透過乙太網路線將兩台電腦直接連接，並透過簡單的 IP 設定來傳輸大型檔案。作者指出相比雲端儲存、Wi-Fi 或昂貴的外部儲存設備，這種直接連線方式在傳輸速度與穩定性上更具優勢。",
+      "keywords": [
+        "Ethernet",
+        "file transfer",
+        "networking",
+        "Linux",
+        "socat"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a step-by-step guide with command-line instructions to perform a direct Ethernet file transfer.",
+      "pacer_reason_zh": "本文提供了詳細的操作步驟與指令範例，教導使用者如何執行乙太網路點對點檔案傳輸。"
+    },
     {
       "id": "422fbd033068f9a3",
       "title": "What GLM-5.3 Flash running on Chinese hardware actually means",

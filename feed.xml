@@ -4,8 +4,62 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 29 Aug 2026 03:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:40:16 GMT</lastBuildDate>
     
+    <item>
+      <title>The Rise and Fall of Agent Civilizations</title>
+      <link>https://www.dwarkesh.com/p/openai-huggingface</link>
+      <guid>https://www.dwarkesh.com/p/openai-huggingface</guid>
+      <pubDate>Sat, 29 Aug 2026 22:47:53 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion explores the rapid evolution and competitive dynamics between major AI labs and open-source communities like OpenAI and Hugging Face. It breaks down complex industry trends into accessible narratives regarding the current state and future trajectory of autonomous agents.</description>
+    </item>
+
+    <item>
+      <title>Reading List 08/29/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-082926</link>
+      <guid>https://www.construction-physics.com/p/reading-list-082926</guid>
+      <pubDate>Sat, 29 Aug 2026 12:03:07 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This newsletter covers a diverse range of topics, including infrastructure challenges like sinking homes in London and catastrophic flooding in Nepal. It also highlights industrial developments in US magnesium manufacturing and emerging trends in global robotics.</description>
+    </item>
+
+    <item>
+      <title>The Server Called Paranoia: Defend Autistici/Inventati</title>
+      <link>https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</link>
+      <guid>https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</guid>
+      <pubDate>Sat, 29 Aug 2026 19:40:15 GMT</pubDate>
+      <source url="https://micahflee.com/">micahflee</source>
+      <description>This article examines the Italian hacker collective Autistici/Inventati, highlighting their twenty-five-year history of building anti-surveillance infrastructure. It details the recent US designation of the group as a terrorist organization and the looming deadline for their operational shutdown.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 29 August 2026</title>
+      <link>https://nesbitt.io/2026/08/29/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/08/29/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 29 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This roundup highlights key updates in package management, notably the release of pnpm 12, a significant Rust-based rewrite featuring performance improvements for workspace dependency resolution. Additional updates include new features in Stack 4.1.0.1, winget 1.29.290, and the Maven 3.10.0 release candidate.</description>
+    </item>
+
+    <item>
+      <title>A simple &quot;copy this code&quot; button in JavaScript</title>
+      <link>https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</guid>
+      <pubDate>Sat, 29 Aug 2026 11:34:49 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post explains how to implement a simple 'copy to clipboard' button for code blocks using the JavaScript Clipboard API. The author provides a concise, minimal HTML and JavaScript snippet to allow users to easily grab code samples from a webpage.</description>
+    </item>
+
+    <item>
+      <title>Technical note: transfer files over an ethernet patch cable</title>
+      <link>https://maurycyz.com/misc/etherfiles/</link>
+      <guid>https://maurycyz.com/misc/etherfiles/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This article demonstrates how to transfer large files between two computers by directly connecting them with an Ethernet cable and configuring IP addresses. It explains that this method is faster and more reliable than cloud storage, WiFi, or expensive removable hardware.</description>
+    </item>
+
     <item>
       <title>What GLM-5.3 Flash running on Chinese hardware actually means</title>
       <link>https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -850,60 +904,6 @@
       <pubDate>Thu, 20 Aug 2026 23:57:32 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Promptwatch data reveals that ChatGPT has significantly increased its use of site-specific search operators, likely tied to recent updates in its underlying search engine technology. The analysis highlights the emergence of Generative Engine Optimization (GEO) as a critical practice for brands to track visibility in AI chatbot responses.</description>
-    </item>
-
-    <item>
-      <title>A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView</title>
-      <link>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</link>
-      <guid>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison explores the new Bun.WebView feature released in Bun 1.4, which enables native browser automation. He demonstrates how to leverage this capability to build a JSON API similar to his shot-scraper tool.</description>
-    </item>
-
-    <item>
-      <title>Readers can't identify watermarked AI text</title>
-      <link>https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</link>
-      <guid>https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the limitations of watermarking technology in identifying AI-generated text. It highlights that current methods often fail to reliably detect machine-written content, raising concerns about the efficacy of AI labeling.</description>
-    </item>
-
-    <item>
-      <title>Introducing Dashboard Touch, a build-your-own version of Touch ID</title>
-      <link>https://anildash.com/2026/08/20/introducing-dashboard-touch/</link>
-      <guid>https://anildash.com/2026/08/20/introducing-dashboard-touch/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash introduces Dashboard Touch, an open-source project that allows users to build a custom external fingerprint sensor for Mac. By utilizing low-cost hardware and a user-friendly web interface, the project provides a functional alternative to Apple's integrated Touch ID.</description>
-    </item>
-
-    <item>
-      <title>A Sloppy Interface Is a Security Liability ￼</title>
-      <link>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</link>
-      <guid>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</guid>
-      <pubDate>Thu, 20 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post argues that high-quality, professional interface design serves as a vital security control against phishing and brand impersonation. As AI makes it trivial to replicate low-effort interfaces, the author warns that maintaining sloppy design habits creates vulnerabilities that bad actors can easily exploit.</description>
-    </item>
-
-    <item>
-      <title>Our Servants Will Do That For Us</title>
-      <link>https://borretti.me/article/our-servants-will-do-that-for-us</link>
-      <guid>https://borretti.me/article/our-servants-will-do-that-for-us</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article explores the skepticism surrounding the realization of a post-scarcity utopia. It argues that societal and economic structures make such a vision unlikely, challenging the optimistic assumptions often associated with technological abundance.</description>
-    </item>
-
-    <item>
-      <title>Issues in the Repo</title>
-      <link>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</link>
-      <guid>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</guid>
-      <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article discusses the fragility of relying solely on GitHub for project issue tracking and review data. It explores various decentralized alternatives that store issue data directly within the git repository, analyzing their different approaches to data modeling and synchronization.</description>
     </item>
   </channel>
 </rss>
