@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-08-28T05:51:45.611Z",
+  "last_updated": "2026-08-29T03:24:32.208Z",
   "articles": [
+    {
+      "id": "422fbd033068f9a3",
+      "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+      "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-29T00:00:00.000Z",
+      "summary_en": "The article discusses Z.AI's successful release of the GLM-5.3 Flash model on Chinese-manufactured hardware. It cautions that despite this milestone, the reliance on older lithography technology creates a widening performance gap compared to Western inference hardware.",
+      "summary_zh": "本文探討了 Z.AI 在中國自製晶片上成功運行 GLM-5.3 Flash 模型的成就。然而，文章指出受限於極紫外光微影（EUV）技術的瓶頸，中國與西方在推論硬體上的差距恐將持續擴大。",
+      "keywords": [
+        "GLM-5.3 Flash",
+        "Chinese hardware",
+        "EUV lithography",
+        "AI infrastructure",
+        "semiconductor"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a specific real-world case study and benchmark regarding the performance and constraints of domestic Chinese hardware.",
+      "pacer_reason_zh": "內容聚焦於中國國產硬體在特定模型測試中的實際案例與性能分析。"
+    },
+    {
+      "id": "f00d4bb69ae432e4",
+      "title": "Now Hiring: Senior Open Source Maintainer",
+      "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-08-28T10:00:00.000Z",
+      "summary_en": "This post is a satirical job advertisement for a Senior Open Source Maintainer, highlighting the overwhelming responsibilities and lack of compensation inherent in maintaining widely used software. It humorously outlines the diverse, demanding, and high-impact nature of the role expected from a volunteer maintainer.",
+      "summary_zh": "這篇文章是一則諷刺性質的資深開源維護者招聘廣告，凸顯了維護廣泛使用的軟體時所面臨的沉重責任與無薪酬現狀。它幽默地列出了志願維護者所需承擔的多元、高要求且具影響力的工作內容。",
+      "keywords": [
+        "open source",
+        "maintainer",
+        "software engineering",
+        "satire",
+        "community"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually critiques the state of open source maintenance by framing a demanding job description as a volunteer role.",
+      "pacer_reason_zh": "本文透過將繁重的工作職責包裝為志願者職位，從概念上批判了當前開源軟體維護的現狀。"
+    },
+    {
+      "id": "f5b72c71b06af439",
+      "title": "Making the unnecessary easier",
+      "url": "https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-28T14:35:36.000Z",
+      "summary_en": "The author critiques the modern tendency to use AI to automate trivial tasks that may not be worth the effort in the first place. He suggests that efficiency should be measured by whether a task is truly necessary rather than just how quickly it can be completed.",
+      "summary_zh": "作者批評了現代人傾向利用 AI 自動化瑣碎任務的現象，認為這些任務本身可能並不重要。他指出，評估效率的關鍵在於判斷任務是否真正必要，而非僅僅著重於完成任務的速度。",
+      "keywords": [
+        "AI",
+        "automation",
+        "productivity",
+        "efficiency",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique of contemporary approaches to productivity and AI automation.",
+      "pacer_reason_zh": "這篇文章針對當代生產力與 AI 自動化的趨勢提出了概念性的反思與批判。"
+    },
+    {
+      "id": "2523135abe50b37a",
+      "title": "On forcing all derived classes to implement a specific non-virtual method, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-28T14:00:00.000Z",
+      "summary_en": "This article discusses techniques for enforcing the implementation of non-virtual methods in derived C++ classes. It explores methods to explicitly prevent or mandate specific implementation behaviors within class hierarchies.",
+      "summary_zh": "本文探討了如何強制衍生類別實作特定的非虛擬方法。文中介紹了透過明確宣告來限制或強制要求子類別實作該方法的技術。",
+      "keywords": [
+        "C++",
+        "Programming",
+        "Inheritance",
+        "Software Development",
+        "Coding Techniques"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides technical guidance and coding patterns to solve a specific implementation requirement in class design.",
+      "pacer_reason_zh": "這篇文章提供了技術指導與程式設計模式，以解決類別設計中特定的實作需求。"
+    },
+    {
+      "id": "f401472d62f17f8c",
+      "title": "On forcing all derived classes to implement a specific non-virtual method, part 1",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-08-27T14:00:00.000Z",
+      "summary_en": "This post discusses the technical approach to enforcing the implementation of a specific non-virtual method in derived classes. The author suggests avoiding stub implementations to ensure proper enforcement of the design requirement.",
+      "summary_zh": "本文探討了如何強制衍生類別必須實作特定非虛擬方法的技術方法。作者建議避免使用虛擬實作（stub），以確保設計需求能被嚴格執行。",
+      "keywords": [
+        "C++",
+        "Programming",
+        "Inheritance",
+        "Software Design",
+        "Best Practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific technical technique for implementing class constraints, functioning as a how-to guide for C++ architecture.",
+      "pacer_reason_zh": "這篇文章提供了一種執行類別約束的特定技術手段，屬於 C++ 架構設計的實作指引。"
+    },
+    {
+      "id": "49a125937c6fa9f0",
+      "title": "\"iT woRKs BeTter in THe aPp!!\"",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-28T11:34:46.000Z",
+      "summary_en": "The author expresses frustration with Google's inconsistent software quality, highlighting how basic tasks like subscribing to an events calendar often fail on mobile devices. The post critiques the trend of apps providing a subpar experience compared to web-based alternatives.",
+      "summary_zh": "作者對 Google 軟體品質的不一致表示不滿，強調像訂閱活動行事曆這樣的基本功能在手機上常會失敗。本文批評了應用程式的使用體驗往往不如網頁版完善的現象。",
+      "keywords": [
+        "Google",
+        "UX",
+        "Android",
+        "Software Quality",
+        "Apps"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a conceptual critique regarding software design philosophy and the poor state of modern application development.",
+      "pacer_reason_zh": "這篇文章是對軟體設計哲學與現代應用程式開發品質不佳的概念性評論。"
+    },
+    {
+      "id": "983102b3ea3b4340",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-28T22:12:02.000Z",
+      "summary_en": "Modern AI coding agents are enabling attackers to identify and exploit security vulnerabilities in open-source projects within minutes of patch discussions appearing online. This rapid pace of discovery renders traditional disclosure and embargo practices obsolete, necessitating new security strategies to protect software communities.",
+      "summary_zh": "現代 AI 編碼代理使得攻擊者能夠在修補程式討論公開後的幾分鐘內，發現並利用開源專案中的安全漏洞。這種極快的漏洞發掘速度使得傳統的漏洞披露和禁令流程顯得過時，軟體社群亟需建立新的安全防護機制。",
+      "keywords": [
+        "AI security",
+        "cybersecurity",
+        "open source",
+        "vulnerability disclosure",
+        "coding agents"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses real-world evidence and observations from maintainers to demonstrate the impact of AI-driven exploit discovery.",
+      "pacer_reason_zh": "本文引用了實際案例與維護者的觀察數據，用以說明 AI 驅動的漏洞利用對開源專案造成的衝擊。"
+    },
+    {
+      "id": "21aff4114adc90ab",
+      "title": "Building a mini Homelab that fits in my carry-on",
+      "url": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-28T15:00:00.000Z",
+      "summary_en": "Jeff Geerling introduces a portable, battery-powered homelab designed for travel, featuring 1-10 Gbps networking and multi-WAN support. The system is built to support live demonstrations of vintage hardware and specialized networking protocols at technical conferences.",
+      "summary_zh": "Jeff Geerling 介紹了一款專為旅行設計的攜帶式電池供電家庭實驗室，支援 1-10 Gbps 網路及多重 WAN 連線。該系統旨在為技術會議上的復古硬體展示及特殊網路協定測試提供可靠的運算環境。",
+      "keywords": [
+        "Homelab",
+        "Networking",
+        "Portable Computing",
+        "Jeff Geerling",
+        "VCF Midwest"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the construction and configuration of a portable hardware setup, serving as a practical guide for building a mobile lab.",
+      "pacer_reason_zh": "文章重點介紹了攜帶式硬體設備的建構與配置過程，屬於實作指南類型的內容。"
+    },
+    {
+      "id": "85c7a173410cb7a8",
+      "title": "Selling out",
+      "url": "https://seangoedecke.com/selling-out/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-28T00:00:00.000Z",
+      "summary_en": "The article discusses the trade-offs and personal implications of 'selling out' in a professional or creative context. It explores the tension between maintaining personal integrity and achieving mainstream success.",
+      "summary_zh": "本文探討了在專業或創作領域中「出賣靈魂」（selling out）所帶來的權衡與個人影響。文章分析了維持個人誠信與追求主流成功之間的張力。",
+      "keywords": [
+        "selling out",
+        "integrity",
+        "career",
+        "professionalism",
+        "ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece analyzing the philosophy and social definitions surrounding the concept of selling out.",
+      "pacer_reason_zh": "本文屬於概念性文章，旨在分析與「出賣靈魂」相關的哲學意涵及其社會定義。"
+    },
     {
       "id": "a1700dc2322a86e7",
       "title": "Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor",

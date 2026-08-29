@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 28 Aug 2026 05:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:24:32 GMT</lastBuildDate>
     
+    <item>
+      <title>What GLM-5.3 Flash running on Chinese hardware actually means</title>
+      <link>https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article discusses Z.AI's successful release of the GLM-5.3 Flash model on Chinese-manufactured hardware. It cautions that despite this milestone, the reliance on older lithography technology creates a widening performance gap compared to Western inference hardware.</description>
+    </item>
+
+    <item>
+      <title>Now Hiring: Senior Open Source Maintainer</title>
+      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
+      <guid>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</guid>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This post is a satirical job advertisement for a Senior Open Source Maintainer, highlighting the overwhelming responsibilities and lack of compensation inherent in maintaining widely used software. It humorously outlines the diverse, demanding, and high-impact nature of the role expected from a volunteer maintainer.</description>
+    </item>
+
+    <item>
+      <title>Making the unnecessary easier</title>
+      <link>https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/</guid>
+      <pubDate>Fri, 28 Aug 2026 14:35:36 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author critiques the modern tendency to use AI to automate trivial tasks that may not be worth the effort in the first place. He suggests that efficiency should be measured by whether a task is truly necessary rather than just how quickly it can be completed.</description>
+    </item>
+
+    <item>
+      <title>On forcing all derived classes to implement a specific non-virtual method, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654</guid>
+      <pubDate>Fri, 28 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This article discusses techniques for enforcing the implementation of non-virtual methods in derived C++ classes. It explores methods to explicitly prevent or mandate specific implementation behaviors within class hierarchies.</description>
+    </item>
+
+    <item>
+      <title>On forcing all derived classes to implement a specific non-virtual method, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</guid>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the technical approach to enforcing the implementation of a specific non-virtual method in derived classes. The author suggests avoiding stub implementations to ensure proper enforcement of the design requirement.</description>
+    </item>
+
+    <item>
+      <title>&quot;iT woRKs BeTter in THe aPp!!&quot;</title>
+      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
+      <guid>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</guid>
+      <pubDate>Fri, 28 Aug 2026 11:34:46 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author expresses frustration with Google's inconsistent software quality, highlighting how basic tasks like subscribing to an events calendar often fail on mobile devices. The post critiques the trend of apps providing a subpar experience compared to web-based alternatives.</description>
+    </item>
+
+    <item>
+      <title>Just a rumour of a bug is enough to find a security exploit these days</title>
+      <link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
+      <guid>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</guid>
+      <pubDate>Fri, 28 Aug 2026 22:12:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Modern AI coding agents are enabling attackers to identify and exploit security vulnerabilities in open-source projects within minutes of patch discussions appearing online. This rapid pace of discovery renders traditional disclosure and embargo practices obsolete, necessitating new security strategies to protect software communities.</description>
+    </item>
+
+    <item>
+      <title>Building a mini Homelab that fits in my carry-on</title>
+      <link>https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/</guid>
+      <pubDate>Fri, 28 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling introduces a portable, battery-powered homelab designed for travel, featuring 1-10 Gbps networking and multi-WAN support. The system is built to support live demonstrations of vintage hardware and specialized networking protocols at technical conferences.</description>
+    </item>
+
+    <item>
+      <title>Selling out</title>
+      <link>https://seangoedecke.com/selling-out/</link>
+      <guid>https://seangoedecke.com/selling-out/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>The article discusses the trade-offs and personal implications of 'selling out' in a professional or creative context. It explores the tension between maintaining personal integrity and achieving mainstream success.</description>
+    </item>
+
     <item>
       <title>Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor</title>
       <link>https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/</link>
@@ -823,87 +904,6 @@
       <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>This article discusses the fragility of relying solely on GitHub for project issue tracking and review data. It explores various decentralized alternatives that store issue data directly within the git repository, analyzing their different approaches to data modeling and synchronization.</description>
-    </item>
-
-    <item>
-      <title>Better Batteries</title>
-      <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
-      <guid>https://matklad.github.io/2026/08/20/better-batteries.html</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The author argues that the quality of a programming language's standard library depends on social and institutional architecture rather than its size. Comparing Python, Go, and Rust, the post highlights how organizational capacity dictates the long-term success and consistency of standard libraries.</description>
-    </item>
-
-    <item>
-      <title>AI-generated ASCII diagrams</title>
-      <link>https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</guid>
-      <pubDate>Thu, 20 Aug 2026 13:48:43 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article explores the unexpected use of modern AI models to generate retro 1970s-style ASCII diagrams. It highlights the aesthetic appeal of this incongruity while noting practical benefits, such as significantly smaller file sizes compared to traditional image formats.</description>
-    </item>
-
-    <item>
-      <title>On wrapping a callable in a lambda that just calls it with the same parameters</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post advises against wrapping a callable in a lambda when the lambda simply passes the same arguments to the original function. It recommends using the callable directly to keep code cleaner and more efficient.</description>
-    </item>
-
-    <item>
-      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
-      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
-      <guid>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</guid>
-      <pubDate>Wed, 19 Aug 2026 23:16:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison documents an experiment using Claude Code to evaluate 'smolmachines' as a secure sandbox for untrusted code execution. Since the environment lacked nested virtualization, the process shifted to using GitHub Actions to perform real-world testing of resource-constrained Python and JavaScript execution.</description>
-    </item>
-
-    <item>
-      <title>Quoting Jeremy Morrell</title>
-      <link>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</link>
-      <guid>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</guid>
-      <pubDate>Wed, 19 Aug 2026 22:56:31 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Jeremy Morrell proposes that Large Language Models and modern sandboxing technologies make it easier and safer to build extensible software. By using LLMs to generate extensions, developers can create core applications that users can safely customize and enhance.</description>
-    </item>
-
-    <item>
-      <title>Conceptual integrity and counting lines of code</title>
-      <link>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</link>
-      <guid>https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</guid>
-      <pubDate>Wed, 19 Aug 2026 22:46:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison discusses how AI agents challenge traditional software development metrics by enabling significantly higher code output. He argues that while lines of code can now be a valid productivity indicator, the true constraint for development has shifted from raw coding speed to human cognitive capacity.</description>
-    </item>
-
-    <item>
-      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling explores using the affordable Steam Deck LCD screen for Raspberry Pi projects. By utilizing a new Linux kernel driver developed by Scandent, this higher-resolution screen becomes a superior alternative to the official Raspberry Pi display.</description>
-    </item>
-
-    <item>
-      <title>Good writing is obvious, not original</title>
-      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
-      <guid>https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article argues that effective writing prioritizes clarity and accessibility over the pursuit of radical originality. It suggests that clear communication of existing ideas is more valuable than striving for novelty.</description>
-    </item>
-
-    <item>
-      <title>Big little hexagon</title>
-      <link>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:22:36 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses a recent research paper regarding the maximum-area polygon problem for a given number of sides and a diameter of one. It highlights the surprising geometric findings, noting that while regular polygons are optimal for odd numbers of sides, the pattern for even sides is more complex.</description>
     </item>
   </channel>
 </rss>

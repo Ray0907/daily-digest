@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "422fbd033068f9a3",
+      "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "E",
+      "keywords": [
+        "GLM-5.3 Flash",
+        "Chinese hardware",
+        "EUV lithography",
+        "AI infrastructure",
+        "semiconductor"
+      ],
+      "published": "2026-08-29T00:00:00.000Z"
+    },
+    {
+      "id": "983102b3ea3b4340",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "pacer": "E",
+      "keywords": [
+        "AI security",
+        "cybersecurity",
+        "open source",
+        "vulnerability disclosure",
+        "coding agents"
+      ],
+      "published": "2026-08-28T22:12:02.000Z"
+    },
+    {
+      "id": "21aff4114adc90ab",
+      "title": "Building a mini Homelab that fits in my carry-on",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/",
+      "pacer": "P",
+      "keywords": [
+        "Homelab",
+        "Networking",
+        "Portable Computing",
+        "Jeff Geerling",
+        "VCF Midwest"
+      ],
+      "published": "2026-08-28T15:00:00.000Z"
+    },
+    {
+      "id": "f5b72c71b06af439",
+      "title": "Making the unnecessary easier",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "automation",
+        "productivity",
+        "efficiency",
+        "philosophy"
+      ],
+      "published": "2026-08-28T14:35:36.000Z"
+    },
+    {
+      "id": "2523135abe50b37a",
+      "title": "On forcing all derived classes to implement a specific non-virtual method, part 2",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "Programming",
+        "Inheritance",
+        "Software Development",
+        "Coding Techniques"
+      ],
+      "published": "2026-08-28T14:00:00.000Z"
+    },
+    {
+      "id": "49a125937c6fa9f0",
+      "title": "\"iT woRKs BeTter in THe aPp!!\"",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "pacer": "C",
+      "keywords": [
+        "Google",
+        "UX",
+        "Android",
+        "Software Quality",
+        "Apps"
+      ],
+      "published": "2026-08-28T11:34:46.000Z"
+    },
+    {
+      "id": "f00d4bb69ae432e4",
+      "title": "Now Hiring: Senior Open Source Maintainer",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "maintainer",
+        "software engineering",
+        "satire",
+        "community"
+      ],
+      "published": "2026-08-28T10:00:00.000Z"
+    },
+    {
       "id": "0f260508ae8d825b",
       "title": "How big are factorials?",
       "source": "Eli Bendersky's website",
@@ -15,6 +127,22 @@
         "estimation"
       ],
       "published": "2026-08-28T01:52:00.000Z"
+    },
+    {
+      "id": "85c7a173410cb7a8",
+      "title": "Selling out",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/selling-out/",
+      "pacer": "C",
+      "keywords": [
+        "selling out",
+        "integrity",
+        "career",
+        "professionalism",
+        "ethics"
+      ],
+      "published": "2026-08-28T00:00:00.000Z"
     },
     {
       "id": "bc6639b3f24621f6",
@@ -63,6 +191,22 @@
         "archives"
       ],
       "published": "2026-08-27T19:00:00.000Z"
+    },
+    {
+      "id": "f401472d62f17f8c",
+      "title": "On forcing all derived classes to implement a specific non-virtual method, part 1",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "Programming",
+        "Inheritance",
+        "Software Design",
+        "Best Practices"
+      ],
+      "published": "2026-08-27T14:00:00.000Z"
     },
     {
       "id": "67cae47ddbbdd4c6",
@@ -577,22 +721,6 @@
       "published": "2026-08-25T02:45:00.000Z"
     },
     {
-      "id": "0f22500ac3052f35",
-      "title": "Numerical (in)stability of recurrence relations",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/",
-      "pacer": "C",
-      "keywords": [
-        "numerical stability",
-        "recurrence relations",
-        "special functions",
-        "computation",
-        "mathematics"
-      ],
-      "published": "2026-08-25T01:47:47.000Z"
-    },
-    {
       "id": "6c109ae6c20355e7",
       "title": "Uranium from Příbram (Czechia)",
       "source": "Maurycy's Blog",
@@ -639,22 +767,6 @@
         "CUSMA"
       ],
       "published": "2026-08-24T21:29:38.000Z"
-    },
-    {
-      "id": "49fca70a70651d4f",
-      "title": "llm-anthropic 0.27",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-      "pacer": "P",
-      "keywords": [
-        "python",
-        "llm",
-        "anthropic",
-        "httpx2",
-        "software-update"
-      ],
-      "published": "2026-08-24T16:27:04.000Z"
     },
     {
       "id": "5744e50272628ea4",
@@ -767,22 +879,6 @@
         "workflow"
       ],
       "published": "2026-08-23T19:00:00.000Z"
-    },
-    {
-      "id": "869ec081dde61063",
-      "title": "Death to px, long live ch!",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-      "pacer": "C",
-      "keywords": [
-        "CSS",
-        "pixels",
-        "web development",
-        "responsive design",
-        "typography"
-      ],
-      "published": "2026-08-23T11:34:52.000Z"
     },
     {
       "id": "501f5be74babcf23",
@@ -961,22 +1057,6 @@
       "published": "2026-08-21T15:36:02.000Z"
     },
     {
-      "id": "e75a00f380844c1c",
-      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632",
-      "pacer": "P",
-      "keywords": [
-        "C++",
-        "template bloat",
-        "code optimization",
-        "refactoring",
-        "binary size"
-      ],
-      "published": "2026-08-21T14:00:00.000Z"
-    },
-    {
       "id": "d9678b8041f918c4",
       "title": "My agent.md to improve LLM-assisted code quality",
       "source": "Fabien Sanglard",
@@ -1071,22 +1151,6 @@
         "digital literacy"
       ],
       "published": "2026-08-20T19:00:00.000Z"
-    },
-    {
-      "id": "4c457758ac4f37b1",
-      "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629",
-      "pacer": "P",
-      "keywords": [
-        "C++",
-        "template bloat",
-        "optimization",
-        "coding",
-        "software engineering"
-      ],
-      "published": "2026-08-20T14:00:00.000Z"
     },
     {
       "id": "33b73044ac51d749",
@@ -1297,22 +1361,6 @@
       "published": "2026-08-18T15:02:15.000Z"
     },
     {
-      "id": "7d779f0643d05f54",
-      "title": "Two-Factor Authentication Across Package Registries",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html",
-      "pacer": "E",
-      "keywords": [
-        "2FA",
-        "package registries",
-        "npm",
-        "PyPI",
-        "cybersecurity"
-      ],
-      "published": "2026-08-18T10:00:00.000Z"
-    },
-    {
       "id": "5d774b9bbdf07599",
       "title": "Weekly Update 517: Cyber Ransoms",
       "source": "Troy Hunt",
@@ -1421,22 +1469,6 @@
         "open weights",
         "AI agents",
         "operational efficiency"
-      ],
-      "published": "2026-08-16T00:00:00.000Z"
-    },
-    {
-      "id": "1c6d0128edddf4b1",
-      "title": "AI text watermarking is not a big deal",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "watermarking",
-        "text generation",
-        "technology policy",
-        "digital security"
       ],
       "published": "2026-08-16T00:00:00.000Z"
     },
@@ -1935,22 +1967,6 @@
         "Cancelation"
       ],
       "published": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "e5dbbd144bcd236f",
-      "title": "Proxmox officially supports Arm, with some caveats",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
-      "pacer": "E",
-      "keywords": [
-        "Proxmox",
-        "ARM",
-        "Virtualization",
-        "Ampere Altra",
-        "UEFI"
-      ],
-      "published": "2026-08-05T16:50:00.000Z"
     },
     {
       "id": "e995e6985543f236",
@@ -2572,22 +2588,6 @@
         "software licensing"
       ],
       "published": "2026-07-22T05:00:00.000Z"
-    },
-    {
-      "id": "38b0586710a5ecf2",
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "E",
-      "keywords": [
-        "AI security",
-        "Hugging Face",
-        "OpenAI",
-        "sandbox escape",
-        "AI agents"
-      ],
-      "published": "2026-07-22T00:00:00.000Z"
     },
     {
       "id": "32e514f425621c05",
@@ -4693,6 +4693,16 @@
     }
   ],
   "links": [
+    {
+      "source": "2523135abe50b37a",
+      "target": "f401472d62f17f8c",
+      "shared_keywords": [
+        "C++",
+        "Programming",
+        "Inheritance"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "960debb926861d36",
       "target": "e4662687979abee1",
