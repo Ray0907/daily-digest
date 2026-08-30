@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "81ee1281dae4ed0e",
+      "title": "Before NTP there were Time and Daytime",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/",
+      "pacer": "C",
+      "keywords": [
+        "NTP",
+        "RFC 867",
+        "RFC 868",
+        "Legacy Hardware",
+        "Network Time"
+      ],
+      "published": "2026-08-30T22:09:00.000Z"
+    },
+    {
+      "id": "df1bc345cc86d004",
+      "title": "Recreating a 2010 Experiment",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "url": "http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss",
+      "pacer": "P",
+      "keywords": [
+        "BBC Master",
+        "Retro Computing",
+        "Serial Connection",
+        "Terminal Emulator",
+        "DuckDuckGo"
+      ],
+      "published": "2026-08-30T19:40:00.000Z"
+    },
+    {
+      "id": "17a9a286e9d35b47",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/08/spacelab-core-memory.html",
+      "pacer": "E",
+      "keywords": [
+        "Spacelab",
+        "Core memory",
+        "Mitra 125",
+        "Space Shuttle",
+        "Computer history"
+      ],
+      "published": "2026-08-30T16:42:42.929Z"
+    },
+    {
+      "id": "ca34ed9a0d66324c",
+      "title": "Forgejo hack #2: Integration with Read The Docs",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs",
+      "pacer": "P",
+      "keywords": [
+        "Forgejo",
+        "Read the Docs",
+        "Git",
+        "automation",
+        "documentation"
+      ],
+      "published": "2026-08-30T16:02:08.000Z"
+    },
+    {
+      "id": "956605a603c6554b",
+      "title": "ActivityBot is the recipient of an NLnet grant!",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/",
+      "pacer": "E",
+      "keywords": [
+        "ActivityBot",
+        "NLnet",
+        "ActivityPub",
+        "Fediverse",
+        "Grants"
+      ],
+      "published": "2026-08-30T11:34:55.000Z"
+    },
+    {
+      "id": "dcc1dc4ea24d215b",
+      "title": "New Pebble Weather App + Software Updates",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "url": "https://repebble.com/blog/new-pebble-weather-app-software-updates",
+      "pacer": "R",
+      "keywords": [
+        "Pebble",
+        "Pebble Time 2",
+        "Software Update",
+        "Weather App",
+        "Wearable Technology"
+      ],
+      "published": "2026-08-30T00:00:00.000Z"
+    },
+    {
+      "id": "61104cc52505954e",
+      "title": "You have to beat the models at something",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Human-AI collaboration",
+        "Productivity",
+        "Competitive advantage",
+        "Future of work"
+      ],
+      "published": "2026-08-30T00:00:00.000Z"
+    },
+    {
+      "id": "6ef15d8f5d40cbba",
+      "title": "Introducing Hy4 Preview",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "pacer": "E",
+      "keywords": [
+        "Tencent",
+        "Hy4",
+        "LLM",
+        "Hugging Face",
+        "AI model"
+      ],
+      "published": "2026-08-29T23:53:13.000Z"
+    },
+    {
       "id": "b74188c782fbd754",
       "title": "The Rise and Fall of Agent Civilizations",
       "source": "Dwarkesh Podcast",
@@ -593,22 +721,6 @@
       "published": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "34211482db4916fe",
-      "title": "EVE Online: The Move to Python 3 Begins!",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-      "pacer": "C",
-      "keywords": [
-        "EVE Online",
-        "Python",
-        "Python 3",
-        "Stackless",
-        "Software Migration"
-      ],
-      "published": "2026-08-25T22:59:30.000Z"
-    },
-    {
       "id": "05c10f8e12f7540d",
       "title": "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
       "source": "Troy Hunt",
@@ -751,22 +863,6 @@
         "life experience"
       ],
       "published": "2026-08-25T11:59:44.764Z"
-    },
-    {
-      "id": "b0f7040ff42fdd1f",
-      "title": "Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/",
-      "pacer": "A",
-      "keywords": [
-        "Cats",
-        "Theatre Review",
-        "Regent's Park",
-        "Shamanism",
-        "Performance Art"
-      ],
-      "published": "2026-08-25T11:34:22.000Z"
     },
     {
       "id": "400696bed6ac98b6",
@@ -1457,22 +1553,6 @@
       "published": "2026-08-18T00:00:00.000Z"
     },
     {
-      "id": "88a121239d40a9ba",
-      "title": "Help peer",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/help-peer/",
-      "pacer": "C",
-      "keywords": [
-        "peer support",
-        "collaboration",
-        "assistance",
-        "professional development",
-        "help"
-      ],
-      "published": "2026-08-18T00:00:00.000Z"
-    },
-    {
       "id": "8539464d41907090",
       "title": "Snakes and Ladders",
       "source": "Entropic Thoughts",
@@ -1935,22 +2015,6 @@
         "Game Design"
       ],
       "published": "2026-08-07T16:05:16.000Z"
-    },
-    {
-      "id": "0d8c5f00f9b44c78",
-      "title": "I'm excited for Intel after testing the XPS 13",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/",
-      "pacer": "E",
-      "keywords": [
-        "Dell XPS 13",
-        "MacBook Neo",
-        "laptops",
-        "benchmarks",
-        "tech review"
-      ],
-      "published": "2026-08-07T14:00:00.000Z"
     },
     {
       "id": "7626bd897898339c",
@@ -3724,22 +3788,6 @@
       "published": "2026-05-31T00:00:00.000Z"
     },
     {
-      "id": "e2e54abbb049f840",
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "pacer": "C",
-      "keywords": [
-        "Intel 8087",
-        "microcode",
-        "reverse engineering",
-        "floating-point",
-        "CPU architecture"
-      ],
-      "published": "2026-05-30T17:09:35.056Z"
-    },
-    {
       "id": "e7a5c4c4ba8276f8",
       "title": "Every Enemy Wears Your Face",
       "source": "Simone Salis",
@@ -4202,22 +4250,6 @@
       "published": "2026-05-07T10:45:00.000Z"
     },
     {
-      "id": "6b5da7a47758bb5e",
-      "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy",
-      "pacer": "C",
-      "keywords": [
-        "SQLAlchemy",
-        "asyncio",
-        "FastAPI",
-        "Python",
-        "ORM"
-      ],
-      "published": "2026-05-06T21:49:20.000Z"
-    },
-    {
       "id": "60063bfe0b2c0125",
       "title": "callgraph analysis",
       "source": "the website of jyn",
@@ -4452,16 +4484,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "0a7e9be12937a83d",
-      "title": "Pebble Time 2 Is In Mass Production!",
-      "source": "Eric Migicovsky's Blog RSS Feed",
-      "source_url": "http://github.com/dylang/node-rss",
-      "url": "https://repebble.com/blog/pebble-time-2-is-in-mass-production",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-24T00:00:00.000Z"
     },
     {
       "id": "cbba931e7f685804",
@@ -4726,16 +4748,6 @@
         "Entrepreneurship",
         "Stanford",
         "Lean LaunchPad"
-      ],
-      "strength": 0.6
-    },
-    {
-      "source": "eed2d316b0510025",
-      "target": "6b5da7a47758bb5e",
-      "shared_keywords": [
-        "SQLAlchemy",
-        "FastAPI",
-        "Python"
       ],
       "strength": 0.6
     }

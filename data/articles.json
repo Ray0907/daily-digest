@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-08-29T23:40:16.461Z",
+  "last_updated": "2026-08-30T23:59:07.316Z",
   "articles": [
+    {
+      "id": "ca34ed9a0d66324c",
+      "title": "Forgejo hack #2: Integration with Read The Docs",
+      "url": "https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-08-30T16:02:08.000Z",
+      "summary_en": "This guide details how to integrate a self-hosted Forgejo git repository with Read the Docs. It explains the necessary configuration steps to enable automatic documentation builds triggered by repository commits.",
+      "summary_zh": "本指南介紹如何將自託管的 Forgejo Git 儲存庫與 Read the Docs 進行整合。文章說明了相關配置步驟，以便在儲存庫推送代碼時自動觸發文件建置流程。",
+      "keywords": [
+        "Forgejo",
+        "Read the Docs",
+        "Git",
+        "automation",
+        "documentation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a step-by-step technical guide on how to configure and integrate two specific software platforms.",
+      "pacer_reason_zh": "本文是一篇關於如何配置並整合兩個特定軟體平台的分步技術指南。"
+    },
+    {
+      "id": "df1bc345cc86d004",
+      "title": "Recreating a 2010 Experiment",
+      "url": "http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "published": "2026-08-30T19:40:00.000Z",
+      "summary_en": "Matt Godbolt recreates a 2010 experiment by connecting his vintage BBC Master computer to modern web services via a serial connection. The project involved configuring hardware adapters, terminal emulator software, and custom settings to successfully access DuckDuckGo's lite mode.",
+      "summary_zh": "Matt Godbolt 重現了他 2010 年的實驗，透過序列埠將古董 BBC Master 電腦連接到現代網路服務。他透過配置硬體轉接器、終端模擬軟體及特殊設定，成功在舊電腦上瀏覽 DuckDuckGo 的輕量版頁面。",
+      "keywords": [
+        "BBC Master",
+        "Retro Computing",
+        "Serial Connection",
+        "Terminal Emulator",
+        "DuckDuckGo"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content describes the specific hardware setup, software configurations, and troubleshooting steps taken to achieve the connectivity.",
+      "pacer_reason_zh": "內容詳細描述了為了達成連線所採用的硬體配置、軟體設定以及故障排除步驟。"
+    },
+    {
+      "id": "17a9a286e9d35b47",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "http://www.righto.com/2026/08/spacelab-core-memory.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-08-30T16:42:42.929Z",
+      "summary_en": "This article examines the magnetic core memory module used in the Mitra 125 MS computer of the 1980s Spacelab project. It provides a physical breakdown of the hardware components, explaining how these ferrite-ring-based memory stacks were engineered for the reusable space laboratory.",
+      "summary_zh": "本文介紹了 1980 年代太空實驗室計畫（Spacelab）中 Mitra 125 MS 電腦所使用的磁芯記憶體模組。文中詳細拆解了硬體架構，說明這些以鐵氧體環為基礎的記憶體堆疊是如何為可重複使用的太空實驗室進行設計的。",
+      "keywords": [
+        "Spacelab",
+        "Core memory",
+        "Mitra 125",
+        "Space Shuttle",
+        "Computer history"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an engineering case study, providing a detailed teardown and physical analysis of historical hardware components.",
+      "pacer_reason_zh": "本文屬於工程案例研究，針對歷史硬體組件進行了詳細的拆解與物理結構分析。"
+    },
+    {
+      "id": "956605a603c6554b",
+      "title": "ActivityBot is the recipient of an NLnet grant!",
+      "url": "https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-08-30T11:34:55.000Z",
+      "summary_en": "Terence Eden’s ActivityBot, a single-file ActivityPub server, has been awarded an NLnet grant. This funding supports the Next Generation Zero initiative, which aims to decentralize social media and reclaim the public nature of the internet.",
+      "summary_zh": "Terence Eden 開發的 ActivityBot 是一款單檔案 ActivityPub 伺服器，近期獲得了 NLnet 的 Next Generation Zero 專案資助。該資金旨在推動去中心化社交媒體發展，並致力於重塑網際網路的公共屬性。",
+      "keywords": [
+        "ActivityBot",
+        "NLnet",
+        "ActivityPub",
+        "Fediverse",
+        "Grants"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post serves as an announcement and case study of securing a grant for a specific software project.",
+      "pacer_reason_zh": "這篇文章主要記錄了特定軟體專案獲得補助的公告與案例分享。"
+    },
+    {
+      "id": "dcc1dc4ea24d215b",
+      "title": "New Pebble Weather App + Software Updates",
+      "url": "https://repebble.com/blog/new-pebble-weather-app-software-updates",
+      "source": "Eric Migicovsky's Blog RSS Feed",
+      "source_url": "http://github.com/dylang/node-rss",
+      "published": "2026-08-30T00:00:00.000Z",
+      "summary_en": "Eric Migicovsky announces that all Pebble Time 2 invites have been distributed and the units are now officially in stock. The update also highlights new software enhancements, including a revamped weather application for Pebble users.",
+      "summary_zh": "Eric Migicovsky 宣布所有 Pebble Time 2 的邀請函已發送完畢，目前產品已正式到貨。此次更新同時介紹了軟體方面的改進，包含為 Pebble 用戶推出的全新天氣應用程式。",
+      "keywords": [
+        "Pebble",
+        "Pebble Time 2",
+        "Software Update",
+        "Weather App",
+        "Wearable Technology"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a product status update and reference for customers regarding availability and software availability.",
+      "pacer_reason_zh": "此內容作為產品狀態更新，為客戶提供關於供貨情況與軟體更新的參考資訊。"
+    },
+    {
+      "id": "6ef15d8f5d40cbba",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-29T23:53:13.000Z",
+      "summary_en": "Tencent has released Hy4, a new open-weight LLM featuring 770B total parameters and a 1M token context window. This update represents a significant expansion in scale compared to the previous Hy3 model and includes specific chat template configurations for reasoning control.",
+      "summary_zh": "騰訊發布了全新的開源權重大型語言模型 Hy4，具備 7700 億總參數與 100 萬 token 的上下文窗口。相較於前代 Hy3 模型，該版本在規模上有顯著提升，並針對推理控制引入了特定的聊天模板設定。",
+      "keywords": [
+        "Tencent",
+        "Hy4",
+        "LLM",
+        "Hugging Face",
+        "AI model"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents technical specifications, performance metrics, and comparison data between the new Hy4 model and its predecessor.",
+      "pacer_reason_zh": "文章提供了技術規格、效能指標，並對比了新款 Hy4 模型與其前代產品的數據差異。"
+    },
+    {
+      "id": "81ee1281dae4ed0e",
+      "title": "Before NTP there were Time and Daytime",
+      "url": "https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-08-30T22:09:00.000Z",
+      "summary_en": "This article explores the historical network protocols RFC 867 (Daytime) and RFC 868 (Time), which preceded the widely used NTP. The author reflects on his early experiences with network time synchronization on legacy Apple hardware.",
+      "summary_zh": "本文探討了早於 NTP 協議的歷史網絡協議 RFC 867 (Daytime) 與 RFC 868 (Time)。作者藉由在舊款 Mac 電腦上進行的時間同步實驗，回顧了早期網絡時間服務的發展歷程。",
+      "keywords": [
+        "NTP",
+        "RFC 867",
+        "RFC 868",
+        "Legacy Hardware",
+        "Network Time"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the history and concepts behind early network time protocols.",
+      "pacer_reason_zh": "內容解釋了早期網絡時間協議的歷史背景與基礎概念。"
+    },
+    {
+      "id": "61104cc52505954e",
+      "title": "You have to beat the models at something",
+      "url": "https://seangoedecke.com/you-have-to-beat-the-models-at-something/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-08-30T00:00:00.000Z",
+      "summary_en": "This article argues that as AI models become increasingly capable, humans must find specific domains where they can still outperform machines. It suggests that maintaining human-centric competitive advantages is essential in an era of rapid technological advancement.",
+      "summary_zh": "這篇文章探討隨著人工智慧模型能力的提升，人類必須找出自己仍然能超越機器的領域。它強調在技術快速發展的時代，維持人類核心競爭優勢至關重要。",
+      "keywords": [
+        "AI",
+        "Human-AI collaboration",
+        "Productivity",
+        "Competitive advantage",
+        "Future of work"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on high-level conceptual shifts and theoretical implications of AI growth.",
+      "pacer_reason_zh": "該文章側重於 AI 發展帶來的概念轉變與理論性啟示。"
+    },
     {
       "id": "b74188c782fbd754",
       "title": "The Rise and Fall of Agent Civilizations",
