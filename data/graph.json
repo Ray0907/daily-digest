@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "bf3e1e0703c07305",
+      "title": "Introducing wrapture",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "pacer": "C",
+      "keywords": [
+        "Python",
+        "Wrapture",
+        "Tracing",
+        "OpenTelemetry",
+        "Monkeypatching"
+      ],
+      "published": "2026-08-31T23:59:36.000Z"
+    },
+    {
+      "id": "a8df9ddabffc9582",
+      "title": "Patented application of linear algebra",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/",
+      "pacer": "C",
+      "keywords": [
+        "patent",
+        "linear algebra",
+        "GSI Technology",
+        "John D. Cook",
+        "intellectual property"
+      ],
+      "published": "2026-08-31T23:26:12.000Z"
+    },
+    {
+      "id": "3bbd285f29ae0294",
+      "title": "Quoting Andrew Digby",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "pacer": "E",
+      "keywords": [
+        "kākāpō",
+        "conservation",
+        "wildlife",
+        "endangered species",
+        "biodiversity"
+      ],
+      "published": "2026-08-31T22:25:02.000Z"
+    },
+    {
+      "id": "dcb566ece7cfb788",
+      "title": "The rise and fall of agent civilizations",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "pacer": "C",
+      "keywords": [
+        "AI agents",
+        "OpenAI",
+        "Hugging Face",
+        "AI security",
+        "tech infrastructure"
+      ],
+      "published": "2026-08-31T20:36:53.000Z"
+    },
+    {
+      "id": "29183ed70a4b1039",
+      "title": "My Experience Has Nuance, Yours Is a Data Point",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
+      "pacer": "C",
+      "keywords": [
+        "data-driven",
+        "ux",
+        "human-experience",
+        "metrics",
+        "nuance"
+      ],
+      "published": "2026-08-31T19:00:00.000Z"
+    },
+    {
+      "id": "21a80894ae57fb2c",
+      "title": "Here's a good way to present AI videos ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube",
+      "pacer": "C",
+      "keywords": [
+        "YouTube",
+        "AI-generated",
+        "transparency",
+        "content moderation",
+        "digital literacy"
+      ],
+      "published": "2026-08-31T07:30:00.000Z"
+    },
+    {
+      "id": "9dd350b008cf2b8e",
+      "title": "Notes from August 2026",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/notes-from-august-2026/",
+      "pacer": "R",
+      "keywords": [
+        "Ghost",
+        "software development",
+        "digital privacy",
+        "reading list",
+        "SQLite"
+      ],
+      "published": "2026-08-31T06:00:00.000Z"
+    },
+    {
+      "id": "2de6a5059469c6f3",
+      "title": "Reducing codebase cognitive debt through... quizzes?",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "P",
+      "keywords": [
+        "AI coding agents",
+        "cognitive debt",
+        "software development",
+        "learning techniques",
+        "code maintenance"
+      ],
+      "published": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "56b312e6a7a86529",
+      "title": "Cancelation Terminology",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
+      "pacer": "C",
+      "keywords": [
+        "cancelation",
+        "concurrency",
+        "synchronous",
+        "asynchronous",
+        "software architecture"
+      ],
+      "published": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "ac6e7e3c37d7027f",
+      "title": "Understanding ChatGPT Work",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pacer": "C",
+      "keywords": [
+        "ChatGPT Work",
+        "OpenAI",
+        "Cloud Computing",
+        "Software Review",
+        "AI Tools"
+      ],
+      "published": "2026-08-30T23:59:47.000Z"
+    },
+    {
       "id": "81ee1281dae4ed0e",
       "title": "Before NTP there were Time and Daytime",
       "source": "Jeff Geerling",
@@ -63,6 +223,22 @@
         "documentation"
       ],
       "published": "2026-08-30T16:02:08.000Z"
+    },
+    {
+      "id": "da5175476f69aefd",
+      "title": "On Inevitability",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/on-inevitability",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Technological Determinism",
+        "Future of Tech",
+        "AI Safety"
+      ],
+      "published": "2026-08-30T14:00:00.000Z"
     },
     {
       "id": "956605a603c6554b",
@@ -369,22 +545,6 @@
       "published": "2026-08-28T00:00:00.000Z"
     },
     {
-      "id": "bc6639b3f24621f6",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-      "pacer": "E",
-      "keywords": [
-        "Claude Code",
-        "prompt injection",
-        "sandboxing",
-        "AI security",
-        "cybersecurity"
-      ],
-      "published": "2026-08-27T22:50:25.000Z"
-    },
-    {
       "id": "538a36ead97a600d",
       "title": "Sandboxing coding agents",
       "source": "micahflee",
@@ -561,22 +721,6 @@
       "published": "2026-08-27T00:00:00.000Z"
     },
     {
-      "id": "c66ebdceece6d7fb",
-      "title": "Qwen3.8-Flash-Next",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-      "pacer": "E",
-      "keywords": [
-        "Qwen3.8-Flash-Next",
-        "LLM",
-        "Multimodal",
-        "MoE",
-        "Generative AI"
-      ],
-      "published": "2026-08-26T23:52:58.000Z"
-    },
-    {
       "id": "74b2f5c399964f1c",
       "title": "What is the quality of software that AI writes?",
       "source": "John D. Cook",
@@ -639,38 +783,6 @@
         "Gadget review"
       ],
       "published": "2026-08-26T11:34:52.000Z"
-    },
-    {
-      "id": "9962a824ae0ac4a3",
-      "title": "Ultraspherical",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/26/ultraspherical/",
-      "pacer": "C",
-      "keywords": [
-        "mathematics",
-        "terminology",
-        "ultraspherical",
-        "polynomials",
-        "language"
-      ],
-      "published": "2026-08-26T10:51:32.000Z"
-    },
-    {
-      "id": "69963c113d8fc5e8",
-      "title": "Quoting Paul Dix",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "coding-agents",
-        "software-development",
-        "generative-ai",
-        "LLM"
-      ],
-      "published": "2026-08-26T08:07:55.000Z"
     },
     {
       "id": "649be24b46e001bf",
@@ -1585,22 +1697,6 @@
       "published": "2026-08-17T00:00:00.000Z"
     },
     {
-      "id": "2a3a22cb8fbb8a4a",
-      "title": "Oops, Should’ve Thought of That",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "software development",
-        "intent",
-        "coding",
-        "AI"
-      ],
-      "published": "2026-08-16T19:00:00.000Z"
-    },
-    {
       "id": "0a3f561add1fce28",
       "title": "How I think about reducing AI costs",
       "source": "Martin Alderson",
@@ -1807,22 +1903,6 @@
         "Cybersecurity"
       ],
       "published": "2026-08-12T08:16:15.000Z"
-    },
-    {
-      "id": "5555721f11a3376f",
-      "title": "Books I Enjoyed In 2026H1",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/books-i-enjoyed-in-2026-h1",
-      "pacer": "R",
-      "keywords": [
-        "books",
-        "reading list",
-        "recommendations",
-        "2026",
-        "literary"
-      ],
-      "published": "2026-08-12T00:00:00.000Z"
     },
     {
       "id": "215b91448d4dcac6",
@@ -2177,22 +2257,6 @@
       "published": "2026-08-04T03:01:00.000Z"
     },
     {
-      "id": "f3e70de4d4ad042f",
-      "title": "Why smarter AI models could drive up compute prices 10x",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "compute",
-        "economics",
-        "artificial intelligence",
-        "tech costs"
-      ],
-      "published": "2026-08-03T17:32:13.000Z"
-    },
-    {
       "id": "bddd978c30eea8a7",
       "title": "Agentic coding techniques",
       "source": "micahflee",
@@ -2207,22 +2271,6 @@
         "human-in-the-loop"
       ],
       "published": "2026-08-03T16:05:25.000Z"
-    },
-    {
-      "id": "77b040de93c609fb",
-      "title": "Invisible Problems ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/invisible-problems",
-      "pacer": "C",
-      "keywords": [
-        "accessibility",
-        "inclusivity",
-        "ux-design",
-        "empathy",
-        "tech-culture"
-      ],
-      "published": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "4ef5b8e1afa8a9c6",
@@ -2253,22 +2301,6 @@
         "inner alignment",
         "human behavior",
         "sub-goals"
-      ],
-      "published": "2026-08-02T00:00:00.000Z"
-    },
-    {
-      "id": "e6cc8e26a06cd23d",
-      "title": "I'm (mostly) picking models on speed now, not intelligence",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI models",
-        "inference speed",
-        "LLM",
-        "tokens per second",
-        "artificial intelligence"
       ],
       "published": "2026-08-02T00:00:00.000Z"
     },
@@ -2794,22 +2826,6 @@
         "attention economy",
         "art",
         "minimalism"
-      ],
-      "published": "2026-07-20T00:00:00.000Z"
-    },
-    {
-      "id": "dc73b4948ca90ff7",
-      "title": "Memory Safety's Hardest Problem",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html",
-      "pacer": "C",
-      "keywords": [
-        "memory safety",
-        "type confusion",
-        "zig",
-        "buffer overflow",
-        "programming language design"
       ],
       "published": "2026-07-20T00:00:00.000Z"
     },
@@ -3690,22 +3706,6 @@
         "cognitive paralysis"
       ],
       "published": "2026-06-05T04:06:59.000Z"
-    },
-    {
-      "id": "fcdf880821825495",
-      "title": "\"Sixteenth of a year\", a 1.8 KiB art piece",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/sixteenth-of-a-year/",
-      "pacer": "C",
-      "keywords": [
-        "generative art",
-        "Taper",
-        "programming",
-        "time",
-        "web art"
-      ],
-      "published": "2026-06-03T00:00:00.000Z"
     },
     {
       "id": "999a351dc31c08b4",

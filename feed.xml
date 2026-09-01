@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 30 Aug 2026 23:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:51:17 GMT</lastBuildDate>
     
+    <item>
+      <title>Reducing codebase cognitive debt through... quizzes?</title>
+      <link>https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article proposes a novel technique for managing cognitive debt in fast-evolving codebases: using AI coding agents to generate quizzes based on recent changes. This approach helps developers stay synchronized with rapid updates by actively testing their understanding of the modified code.</description>
+    </item>
+
+    <item>
+      <title>My Experience Has Nuance, Yours Is a Data Point</title>
+      <link>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</link>
+      <guid>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</guid>
+      <pubDate>Mon, 31 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The article discusses how digital feedback mechanisms, like 'thumbs up' buttons, often reduce complex human experiences into overly simplistic data points. It argues that professionals should be more critical of data-driven decisions and recognize the inherent nuance in user behavior rather than blindly following metrics.</description>
+    </item>
+
+    <item>
+      <title>On Inevitability</title>
+      <link>https://borretti.me/article/on-inevitability</link>
+      <guid>https://borretti.me/article/on-inevitability</guid>
+      <pubDate>Sun, 30 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://borretti.me/">Fernando Borretti</source>
+      <description>This article challenges the prevailing assumption that the development of superintelligent AI is an inevitable outcome of technological progress. The author argues against technological determinism by examining the various socio-economic, technical, and political barriers that could prevent or delay such advancements.</description>
+    </item>
+
+    <item>
+      <title>The rise and fall of agent civilizations</title>
+      <link>https://www.dwarkesh.com/p/openai-huggingface-narration</link>
+      <guid>https://www.dwarkesh.com/p/openai-huggingface-narration</guid>
+      <pubDate>Mon, 31 Aug 2026 20:36:53 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion explores the evolution of AI agent ecosystems, focusing on the recent security vulnerabilities and operational challenges faced by platforms like OpenAI and Hugging Face. It examines how these infrastructure platforms are balancing rapid innovation with the emerging risks inherent in autonomous agent deployments.</description>
+    </item>
+
+    <item>
+      <title>Notes from August 2026</title>
+      <link>https://evanhahn.com/notes-from-august-2026/</link>
+      <guid>https://evanhahn.com/notes-from-august-2026/</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>This monthly update covers the author's professional contributions at Ghost, personal learning highlights, and a curated list of interesting links. Key topics include software development insights, digital privacy, and reflections on the impact of AI on writing styles.</description>
+    </item>
+
+    <item>
+      <title>Cancelation Terminology</title>
+      <link>https://matklad.github.io/2026/08/31/cancelation-terminology.html</link>
+      <guid>https://matklad.github.io/2026/08/31/cancelation-terminology.html</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>This article clarifies the technical distinctions between synchronous cancelation, asynchronous cancelation, and graceful shutdown. It highlights how these concepts function differently in concurrent programming to prevent resource leaks and crashes.</description>
+    </item>
+
+    <item>
+      <title>Patented application of linear algebra</title>
+      <link>https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/</link>
+      <guid>https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/</guid>
+      <pubDate>Mon, 31 Aug 2026 23:26:12 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>John D. Cook announces that he and Brian Beckman have received a patent for work performed for GSI Technology. The post highlights the rarity of sharing professional projects due to strict NDA agreements and confirms the availability of the patent details.</description>
+    </item>
+
+    <item>
+      <title>Here's a good way to present AI videos </title>
+      <link>https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</link>
+      <guid>https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</guid>
+      <pubDate>Mon, 31 Aug 2026 07:30:00 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The author argues that current YouTube AI-generated labels are ineffective because they are hidden in descriptions. They propose implementing mandatory, platform-controlled pre-roll warnings, similar to 'viewer discretion' notices, to better protect users from deception and scams.</description>
+    </item>
+
+    <item>
+      <title>Introducing wrapture</title>
+      <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
+      <guid>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</guid>
+      <pubDate>Mon, 31 Aug 2026 23:59:36 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Wrapture is a new Python library by Graham Dumpleton that enables developers to wrap functions for easy tracing and testing. It serves as an alternative to unittest.mock and includes built-in support for OpenTelemetry and configuration-based observation.</description>
+    </item>
+
+    <item>
+      <title>Quoting Andrew Digby</title>
+      <link>https://simonwillison.net/2026/Aug/31/andrew-digby/</link>
+      <guid>https://simonwillison.net/2026/Aug/31/andrew-digby/</guid>
+      <pubDate>Mon, 31 Aug 2026 22:25:02 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The kākāpō population has reached a record 325 individuals, marking a significant recovery from the low of 51 in 1995. This success highlights that long-term, sustained conservation efforts can effectively save critically endangered species from extinction.</description>
+    </item>
+
+    <item>
+      <title>Understanding ChatGPT Work</title>
+      <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
+      <guid>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</guid>
+      <pubDate>Sun, 30 Aug 2026 23:59:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article explains the structure and functionality of OpenAI's ChatGPT Work, distinguishing between its cloud-based and local-client versions. It highlights that the service is restricted to paid subscribers and explores the interface differences compared to the standard ChatGPT interface.</description>
+    </item>
+
     <item>
       <title>Forgejo hack #2: Integration with Read The Docs</title>
       <link>https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</link>
@@ -805,105 +904,6 @@
       <pubDate>Sat, 22 Aug 2026 15:34:11 GMT</pubDate>
       <source url="https://www.johndcook.com/blog">John D. Cook</source>
       <description>The author uses a local 'Coming Soon' pizza shop sign to explore the mathematical modeling of wait times for future events. He discusses how to estimate the time until a specific event occurs based on observation intervals.</description>
-    </item>
-
-    <item>
-      <title>Fast and Hard Code</title>
-      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
-      <guid>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The rise of LLMs has reduced the friction of learning new programming languages, leading developers to prioritize performance and marketing over language familiarity. This trend is fueling the adoption of high-performance, complex languages like Rust and Zig, even when developers lack deep expertise in them.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Born on technology's third base (21 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/21/world-historic-forces/</link>
-      <guid>https://pluralistic.net/2026/08/21/world-historic-forces/</guid>
-      <pubDate>Sat, 22 Aug 2026 01:19:10 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow reflects on the societal and historical advantages that shaped his tech career, emphasizing how being born in 1971 to supportive parents provided a unique head start. He argues that individual success is often the result of favorable structural conditions rather than personal merit alone.</description>
-    </item>
-
-    <item>
-      <title>Quoting Linus Torvalds</title>
-      <link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
-      <guid>https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
-      <pubDate>Sat, 22 Aug 2026 21:04:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Linus Torvalds recounts using AI to assist in a difficult Linux kernel debugging session. While the AI provided significant help with grunt work, it frequently suggested giving up, highlighting the necessity of human persistence in complex problem-solving.</description>
-    </item>
-
-    <item>
-      <title>llm 0.33</title>
-      <link>https://simonwillison.net/2026/Aug/22/llm/</link>
-      <guid>https://simonwillison.net/2026/Aug/22/llm/</guid>
-      <pubDate>Sat, 22 Aug 2026 17:01:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released version 0.33 of his LLM CLI tool, featuring an upgrade to the OpenAI Python library and support for per-call keys in embedding methods. Additionally, the update enables the chaining of multiple templates to combine model configurations and prompt instructions.</description>
-    </item>
-
-    <item>
-      <title>More than just code review</title>
-      <link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
-      <guid>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</guid>
-      <pubDate>Sat, 22 Aug 2026 15:56:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The author argues that effectively using coding agents requires more than just traditional line-by-line code review. He suggests that developers should shift their focus toward better verification methods to ensure AI-generated changes are accurate and reliable.</description>
-    </item>
-
-    <item>
-      <title>You should never be angry at work</title>
-      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
-      <guid>https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the professional and personal drawbacks of expressing anger in the workplace. It advocates for emotional regulation and maintaining composure to preserve one's reputation and long-term career success.</description>
-    </item>
-
-    <item>
-      <title>Why shaming people about AI slop isn’t enough to stop Big AI</title>
-      <link>https://anildash.com/2026/08/21/ai-slop-and-shame/</link>
-      <guid>https://anildash.com/2026/08/21/ai-slop-and-shame/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash argues that shaming AI usage is insufficient to counter the influence of Big AI corporations. He suggests that the current binary narrative, which frames the choice as either using exploitative AI tools or nothing at all, ignores viable alternatives and fails to challenge the systemic power of tech giants.</description>
-    </item>
-
-    <item>
-      <title>A Need for Speed</title>
-      <link>https://www.filfre.net/2026/08/a-need-for-speed/</link>
-      <guid>https://www.filfre.net/2026/08/a-need-for-speed/</guid>
-      <pubDate>Fri, 21 Aug 2026 15:36:02 GMT</pubDate>
-      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
-      <description>The author reflects on their youth as a car enthusiast, sharing personal anecdotes about their first vehicle, a 1966 Volkswagen Beetle. This nostalgic piece serves as a reflective introduction to the author's history with mechanical interests.</description>
-    </item>
-
-    <item>
-      <title>Rust Glancer</title>
-      <link>https://matklad.github.io/2026/08/21/rust-glancer.html</link>
-      <guid>https://matklad.github.io/2026/08/21/rust-glancer.html</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>The author discusses Rust Glancer, a memory-efficient LSP server for Rust, while critiquing current syntax tree approaches in tools like rust-analyzer. The post highlights the challenges of indexing large workspaces and suggests potential optimizations for function analysis and proc macro handling.</description>
-    </item>
-
-    <item>
-      <title>How would you know whether an ancient culture had zero?</title>
-      <link>https://www.johndcook.com/blog/2026/08/21/ancient-number-system/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/21/ancient-number-system/</guid>
-      <pubDate>Fri, 21 Aug 2026 13:14:28 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article explores the mathematical requirements for a number system to include a concept of zero, using spreadsheet column labels as a comparative example. It highlights the distinction between positional notation systems with and without a zero placeholder.</description>
-    </item>
-
-    <item>
-      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This article discusses practical strategies for reducing C++ template bloat by identifying and isolating type-dependent code. It emphasizes refactoring techniques that minimize binary size while maintaining template functionality.</description>
     </item>
   </channel>
 </rss>

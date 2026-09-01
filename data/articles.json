@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-08-30T23:59:07.316Z",
+  "last_updated": "2026-09-01T00:51:17.024Z",
   "articles": [
+    {
+      "id": "2de6a5059469c6f3",
+      "title": "Reducing codebase cognitive debt through... quizzes?",
+      "url": "https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-08-31T00:00:00.000Z",
+      "summary_en": "The article proposes a novel technique for managing cognitive debt in fast-evolving codebases: using AI coding agents to generate quizzes based on recent changes. This approach helps developers stay synchronized with rapid updates by actively testing their understanding of the modified code.",
+      "summary_zh": "本文提出了一種應對程式碼庫認知負債的新策略，即利用 AI 程式編碼代理人針對變更內容進行測驗。這種方法能協助開發者在面對快速更迭的程式碼時，透過主動測試來保持對系統變更的即時掌握。",
+      "keywords": [
+        "AI coding agents",
+        "cognitive debt",
+        "software development",
+        "learning techniques",
+        "code maintenance"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a specific, actionable technique for developers to implement in their workflow.",
+      "pacer_reason_zh": "本文介紹了一種開發者可在工作流程中具體執行與採用的實作技巧。"
+    },
+    {
+      "id": "29183ed70a4b1039",
+      "title": "My Experience Has Nuance, Yours Is a Data Point",
+      "url": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-08-31T19:00:00.000Z",
+      "summary_en": "The article discusses how digital feedback mechanisms, like 'thumbs up' buttons, often reduce complex human experiences into overly simplistic data points. It argues that professionals should be more critical of data-driven decisions and recognize the inherent nuance in user behavior rather than blindly following metrics.",
+      "summary_zh": "這篇文章探討了數位回饋機制（如按讚鈕）如何將複雜的人類體驗簡化為數據點。作者主張專業人士應對數據驅動的決策保持批判性，並認知到用戶行為中固有的細微差別，而非盲目追隨指標。",
+      "keywords": [
+        "data-driven",
+        "ux",
+        "human-experience",
+        "metrics",
+        "nuance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the concept of how data metrics often fail to capture the complexity of human interaction.",
+      "pacer_reason_zh": "本文旨在闡述數據指標往往無法捕捉人類互動複雜性這一概念。"
+    },
+    {
+      "id": "da5175476f69aefd",
+      "title": "On Inevitability",
+      "url": "https://borretti.me/article/on-inevitability",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-08-30T14:00:00.000Z",
+      "summary_en": "This article challenges the prevailing assumption that the development of superintelligent AI is an inevitable outcome of technological progress. The author argues against technological determinism by examining the various socio-economic, technical, and political barriers that could prevent or delay such advancements.",
+      "summary_zh": "本文挑戰了「超智慧 AI 的發展是技術進步必然結果」這一主流觀點。作者透過檢視各種可能阻礙或推遲此類發展的社會經濟、技術與政治障礙，反對技術決定論。",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Technological Determinism",
+        "Future of Tech",
+        "AI Safety"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, focusing on philosophical and theoretical arguments regarding the nature of technological progress rather than providing a tutorial or data-heavy experiment.",
+      "pacer_reason_zh": "本文主要屬於概念性內容，探討關於技術進步本質的哲學與理論論點，而非提供教學指南或數據密集的實驗結果。"
+    },
+    {
+      "id": "dcb566ece7cfb788",
+      "title": "The rise and fall of agent civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-08-31T20:36:53.000Z",
+      "summary_en": "This discussion explores the evolution of AI agent ecosystems, focusing on the recent security vulnerabilities and operational challenges faced by platforms like OpenAI and Hugging Face. It examines how these infrastructure platforms are balancing rapid innovation with the emerging risks inherent in autonomous agent deployments.",
+      "summary_zh": "本文探討了 AI 智能體生態系統的發展，重點分析了 OpenAI 和 Hugging Face 等平台近期面臨的安全漏洞與運營挑戰。文中探討了這些基礎設施平台如何在快速創新與自主智能體部署所帶來的潛在風險之間取得平衡。",
+      "keywords": [
+        "AI agents",
+        "OpenAI",
+        "Hugging Face",
+        "AI security",
+        "tech infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining the phenomenon and theoretical implications of AI agent security challenges within the industry.",
+      "pacer_reason_zh": "內容側重於解釋 AI 智能體在產業中所面臨的安全挑戰及其相關的理論意涵。"
+    },
+    {
+      "id": "9dd350b008cf2b8e",
+      "title": "Notes from August 2026",
+      "url": "https://evanhahn.com/notes-from-august-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-08-31T06:00:00.000Z",
+      "summary_en": "This monthly update covers the author's professional contributions at Ghost, personal learning highlights, and a curated list of interesting links. Key topics include software development insights, digital privacy, and reflections on the impact of AI on writing styles.",
+      "summary_zh": "這篇月度更新概述了作者在 Ghost 的工作進展、個人學習心得以及一系列感興趣的閱讀連結。重點內容包含軟體開發經驗、數位隱私議題，以及對 AI 內容產出如何影響未來寫作風格的反思。",
+      "keywords": [
+        "Ghost",
+        "software development",
+        "digital privacy",
+        "reading list",
+        "SQLite"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is primarily a curated collection of links, project updates, and personal reading notes, serving as a reference of the author's activities.",
+      "pacer_reason_zh": "本文主要是一份連結彙編、專案更新與個人閱讀筆記，屬於作者個人活動紀錄的參考性素材。"
+    },
+    {
+      "id": "56b312e6a7a86529",
+      "title": "Cancelation Terminology",
+      "url": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-08-31T00:00:00.000Z",
+      "summary_en": "This article clarifies the technical distinctions between synchronous cancelation, asynchronous cancelation, and graceful shutdown. It highlights how these concepts function differently in concurrent programming to prevent resource leaks and crashes.",
+      "summary_zh": "本文釐清了同步取消、非同步取消與優雅關閉（graceful shutdown）之間的技術差異。作者強調了這些概念在併發程式設計中如何運作，以避免資源洩漏或程式崩潰。",
+      "keywords": [
+        "cancelation",
+        "concurrency",
+        "synchronous",
+        "asynchronous",
+        "software architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and explaining fundamental software engineering concepts rather than providing a tutorial or experimental data.",
+      "pacer_reason_zh": "本文側重於定義與解釋軟體工程的核心概念，而非提供教學指南或實驗數據。"
+    },
+    {
+      "id": "a8df9ddabffc9582",
+      "title": "Patented application of linear algebra",
+      "url": "https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-08-31T23:26:12.000Z",
+      "summary_en": "John D. Cook announces that he and Brian Beckman have received a patent for work performed for GSI Technology. The post highlights the rarity of sharing professional projects due to strict NDA agreements and confirms the availability of the patent details.",
+      "summary_zh": "John D. Cook 宣布他與 Brian Beckman 共同獲得了一項為 GSI Technology 所開發技術的專利。文中提到由於保密協議（NDA）的限制，這類公開專案的分享相當罕見，目前該專利內容已可對外公開。",
+      "keywords": [
+        "patent",
+        "linear algebra",
+        "GSI Technology",
+        "John D. Cook",
+        "intellectual property"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post serves as an announcement and conceptual overview of a project milestone rather than a technical guide or data-heavy report.",
+      "pacer_reason_zh": "該文章屬於專案里程碑的公告與概念性說明，而非技術指南或數據報告。"
+    },
+    {
+      "id": "21a80894ae57fb2c",
+      "title": "Here's a good way to present AI videos ",
+      "url": "https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-08-31T07:30:00.000Z",
+      "summary_en": "The author argues that current YouTube AI-generated labels are ineffective because they are hidden in descriptions. They propose implementing mandatory, platform-controlled pre-roll warnings, similar to 'viewer discretion' notices, to better protect users from deception and scams.",
+      "summary_zh": "作者認為目前 YouTube 對 AI 生成內容的標記因隱藏在說明欄中而效果不彰。他們建議仿照「分級警語」在影片開始前加入由平台控制的強制性提醒，以更有效地保護用戶免受誤導與詐騙。",
+      "keywords": [
+        "YouTube",
+        "AI-generated",
+        "transparency",
+        "content moderation",
+        "digital literacy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the efficacy of AI labeling policies and proposes a new framework for platform-based warnings.",
+      "pacer_reason_zh": "本文提出了一項關於 AI 標籤政策有效性的概念性論點，並建議了一種基於平台的警示架構。"
+    },
+    {
+      "id": "bf3e1e0703c07305",
+      "title": "Introducing wrapture",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-31T23:59:36.000Z",
+      "summary_en": "Wrapture is a new Python library by Graham Dumpleton that enables developers to wrap functions for easy tracing and testing. It serves as an alternative to unittest.mock and includes built-in support for OpenTelemetry and configuration-based observation.",
+      "summary_zh": "Wrapture 是由 Graham Dumpleton 開發的新 Python 函式庫，旨在簡化函式的封裝、追蹤與測試。它不僅是 unittest.mock 的替代方案，還內建了 OpenTelemetry 支援以及基於設定檔的追蹤機制。",
+      "keywords": [
+        "Python",
+        "Wrapture",
+        "Tracing",
+        "OpenTelemetry",
+        "Monkeypatching"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article introduces and explains the conceptual purpose and functionality of the new Wrapture library.",
+      "pacer_reason_zh": "本文介紹並解釋了新函式庫 Wrapture 的概念用途與功能特性。"
+    },
+    {
+      "id": "3bbd285f29ae0294",
+      "title": "Quoting Andrew Digby",
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-31T22:25:02.000Z",
+      "summary_en": "The kākāpō population has reached a record 325 individuals, marking a significant recovery from the low of 51 in 1995. This success highlights that long-term, sustained conservation efforts can effectively save critically endangered species from extinction.",
+      "summary_zh": "紐西蘭鴞鸚鵡（kākāpō）的族群數量已達到 325 隻的歷史新高，從 1995 年僅剩 51 隻的低谷大幅回升。這項成就證明了透過長期的保育投入，確實能夠成功挽救瀕臨絕種的物種。",
+      "keywords": [
+        "kākāpō",
+        "conservation",
+        "wildlife",
+        "endangered species",
+        "biodiversity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses current population data and historical context to provide evidence of successful wildlife conservation.",
+      "pacer_reason_zh": "文章引用目前的族群數量數據與歷史背景，作為物種保育成功的實證。"
+    },
+    {
+      "id": "ac6e7e3c37d7027f",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-08-30T23:59:47.000Z",
+      "summary_en": "The article explains the structure and functionality of OpenAI's ChatGPT Work, distinguishing between its cloud-based and local-client versions. It highlights that the service is restricted to paid subscribers and explores the interface differences compared to the standard ChatGPT interface.",
+      "summary_zh": "本文探討 OpenAI 推出的 ChatGPT Work，說明其雲端版與本地版的功能差異。作者指出該服務目前僅限付費訂閱者使用，並分析了它與一般 ChatGPT 介面在操作上的不同之處。",
+      "keywords": [
+        "ChatGPT Work",
+        "OpenAI",
+        "Cloud Computing",
+        "Software Review",
+        "AI Tools"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of a new, complex product, breaking down its architecture and clarifying its utility for users.",
+      "pacer_reason_zh": "本文針對一項複雜的新產品提供概念性解釋，剖析其架構並釐清該功能對使用者的實際用途。"
+    },
     {
       "id": "ca34ed9a0d66324c",
       "title": "Forgejo hack #2: Integration with Read The Docs",
