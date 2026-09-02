@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 01 Sep 2026 23:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:39:15 GMT</lastBuildDate>
     
+    <item>
+      <title>VC isn’t VC anymore — understanding the rise of Cancer Capital</title>
+      <link>https://anildash.com/2026/09/02/cancer-capital/</link>
+      <guid>https://anildash.com/2026/09/02/cancer-capital/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash argues that the venture capital industry has fundamentally shifted from fostering innovation to empowering a small group of unaccountable billionaire extremists. He labels this transformation 'Cancer Capital,' suggesting that these actors now influence society, politics, and technology through an oligarchic structure that bypasses traditional market and regulatory accountability.</description>
+    </item>
+
+    <item>
+      <title>Nobody Believes It, Everybody Does It</title>
+      <link>https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</link>
+      <guid>https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This article explores the psychological and systemic tendency of humans to follow flawed institutional practices even when individual experience suggests they are ineffective or harmful. The author argues that when processes scale, they often prioritize convenient metrics over the nuances of human reality, leading to a disconnect between data-driven systems and actual experience.</description>
+    </item>
+
+    <item>
+      <title>Static Allocation, Constant Work</title>
+      <link>https://matklad.github.io/2026/09/02/static-allocation-constant-work.html</link>
+      <guid>https://matklad.github.io/2026/09/02/static-allocation-constant-work.html</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>This article discusses the intersection of memory safety and software correctness, specifically focusing on object pools. The author explores how using object pools shifts memory issues from dangerous physical type confusion to more manageable logical errors.</description>
+    </item>
+
+    <item>
+      <title>Microspeak: Funded / unfunded</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains the corporate usage of the terms 'funded' and 'unfunded' within the context of headcount and budget. It clarifies how these terms signify whether a project or position has the necessary financial backing to proceed.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Unpermissioned research (02 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</link>
+      <guid>https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</guid>
+      <pubDate>Wed, 02 Sep 2026 10:19:10 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that framing privacy as a property right rather than a human right plays into the hands of tech oligarchs. He contends that treating data as a commodity allows companies to justify surveillance and exploitation through 'data dividends' instead of protecting fundamental digital rights.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.34</title>
+      <link>https://simonwillison.net/2026/Sep/2/llm-gemini/</link>
+      <guid>https://simonwillison.net/2026/Sep/2/llm-gemini/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:39:38 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.34 of llm-gemini, which adds support for the new Gemini 3.8 Flash model. The update introduces configurable thinking levels and includes bug fixes for async response handling.</description>
+    </item>
+
+    <item>
+      <title>Claude's new system prompt really doesn't want to reproduce song lyrics</title>
+      <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
+      <guid>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:16:42 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison explores Anthropic's new practice of publishing historic system prompts for Claude models. He highlights how the documentation is structured to be LLM-friendly, allowing for easy comparison and tracking of behavioral changes like copyright restrictions.</description>
+    </item>
+
+    <item>
+      <title>Quoting Rick Brewster</title>
+      <link>https://simonwillison.net/2026/Sep/2/rick-brewster/</link>
+      <guid>https://simonwillison.net/2026/Sep/2/rick-brewster/</guid>
+      <pubDate>Wed, 02 Sep 2026 05:50:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Paint.NET developer Rick Brewster details how he used AI to reverse-engineer a Direct2D implementation for WINE support. The project required extensive oversight to fix architectural flaws and manage resources, highlighting the potential and limitations of using LLMs for large-scale code generation.</description>
+    </item>
+
+    <item>
+      <title>Claude Fable 5.1 made me a really nice animated pelican</title>
+      <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
+      <guid>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 23:57:28 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison evaluates the new Claude Fable 5.1 model, highlighting its significant improvements in scientific benchmarks like Terminal-Bench-Science. He also tests the model's creative output using his own 'pelican benchmark' across different reasoning effort levels.</description>
+    </item>
+
+    <item>
+      <title>GeoJSON Map Viewer</title>
+      <link>https://simonwillison.net/2026/Sep/1/geojson/</link>
+      <guid>https://simonwillison.net/2026/Sep/1/geojson/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:05:45 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces a new web-based GeoJSON Map Viewer tool, created with the assistance of AI to display and export map data as images. The article highlights how LLMs can effectively aggregate and process complex geographical boundary data from government sources.</description>
+    </item>
+
+    <item>
+      <title>datasette-mcp 0.2</title>
+      <link>https://simonwillison.net/2026/Sep/1/datasette-mcp/</link>
+      <guid>https://simonwillison.net/2026/Sep/1/datasette-mcp/</guid>
+      <pubDate>Tue, 01 Sep 2026 15:30:12 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-mcp 0.2 marks the first stable release of the plugin, introducing changes to the 'rows' format from execute_sql for better model compatibility. The update now uses an array of objects instead of arrays to assist LLMs in mapping data to columns.</description>
+    </item>
+
+    <item>
+      <title>How to protect yourself from workslop</title>
+      <link>https://seangoedecke.com/how-to-protect-yourself-from-workslop/</link>
+      <guid>https://seangoedecke.com/how-to-protect-yourself-from-workslop/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article discusses the concept of 'workslop,' which refers to the decline in quality and productivity caused by automated content and excessive busywork. It provides actionable advice on how to identify these distractions and protect your focus and output.</description>
+    </item>
+
     <item>
       <title>Weekly Update 519: Breaches &amp; Data Integrity</title>
       <link>https://www.troyhunt.com/weekly-update-519/</link>
@@ -796,114 +904,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://jyn.dev/">the website of jyn</source>
       <description>This article explores the challenges of managing contributor identity in Git when personal details like emails and names change over time. It highlights the limitations of git mailmap and proposes using the AT Protocol as a potential solution for managing distributed identity.</description>
-    </item>
-
-    <item>
-      <title>Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection</title>
-      <link>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</link>
-      <guid>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</guid>
-      <pubDate>Sun, 23 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author outlines a workflow for using an LLM to assist in tagging icon metadata by color. Instead of letting the AI decide, he creates a tool that generates color-based recommendations, allowing him to verify and approve the final categorization manually.</description>
-    </item>
-
-    <item>
-      <title>Three-term recurrences</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:14:55 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores three-term recurrence formulas, which are mathematical sequences where each term is a linear combination of the two preceding terms. It highlights the ubiquity of these formulas across various function families and notes the existence of theorems defining their underlying conditions.</description>
-    </item>
-
-    <item>
-      <title>The von Mises-Fisher distribution</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:14:25 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the von Mises-Fisher distribution, focusing on the importance of identifying the kernel of a probability density function by ignoring the normalizing constant. It provides insight into the mathematical structure of probability distributions and how they are normalized to integrate to one.</description>
-    </item>
-
-    <item>
-      <title>Anger, Anxiety and Agency</title>
-      <link>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</link>
-      <guid>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author discusses the distinction between anger and anxiety within the tech industry, particularly regarding the rapid evolution of AI. He argues that while anxiety is a natural response to uncertainty, misplaced anger at work is unproductive and suggests focusing on individual agency instead.</description>
-    </item>
-
-    <item>
-      <title>Why do audience members choose specific shows at the Edinburgh Fringe?</title>
-      <link>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</guid>
-      <pubDate>Mon, 24 Aug 2026 11:34:45 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post examines the lack of audience research conducted by performers at the Edinburgh Fringe despite the significant financial investment required to participate. The author argues that performers are failing to understand their target market, which is crucial for recouping the high costs of staging a production.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/24/elbows-really-up/</link>
-      <guid>https://pluralistic.net/2026/08/24/elbows-really-up/</guid>
-      <pubDate>Mon, 24 Aug 2026 21:29:38 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article examines the volatile nature of US-Canada trade relations under Donald Trump, highlighting the repetitive cycle of ripping up trade deals and imposing tariffs. Doctorow argues that Trump's approach centers on reneging on established agreements, which ultimately harms both Canadian exporters and American consumers.</description>
-    </item>
-
-    <item>
-      <title>llm-anthropic 0.27</title>
-      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
-      <guid>https://simonwillison.net/2026/Aug/24/llm-anthropic/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:27:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released llm-anthropic 0.27 to ensure compatibility with the updated Anthropic Python SDK v1.0.0. The update highlights the shift to httpx2 and demonstrates the use of AI tools to automate library migration tasks.</description>
-    </item>
-
-    <item>
-      <title>Your executable is a SQLite database</title>
-      <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
-      <guid>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</guid>
-      <pubDate>Mon, 24 Aug 2026 11:38:15 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Farid Zakaria explores a novel Linux technique that allows a SQLite database file to function as an executable binary. By utilizing the SQLite application ID and specific schema mappings, the file can be interpreted as an ELF executable via a custom loader and binfmt_misc registration.</description>
-    </item>
-
-    <item>
-      <title>The summer of open weights</title>
-      <link>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The article highlights the rapid advancement of open-weight models in 2026, marking a shift in the AI landscape. It argues that compute availability, rather than model performance, has become the primary driver of market pricing.</description>
-    </item>
-
-    <item>
-      <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
-      <guid>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</guid>
-      <pubDate>Sun, 23 Aug 2026 06:39:45 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>The Sri Lankan government has become the 48th nation to join Have I Been Pwned's free service for government agencies. By integrating with Sri Lanka CERT, the platform enables the government to monitor and respond to data breaches involving official domains.</description>
-    </item>
-
-    <item>
-      <title>Fixing an eMachines EL1200 BIOS bug with Claude</title>
-      <link>https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/</link>
-      <guid>https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/</guid>
-      <pubDate>Sun, 23 Aug 2026 19:28:10 GMT</pubDate>
-      <source url="https://www.downtowndougbrown.com/">Downtown Doug Brown</source>
-      <description>The author shares their experience using AI to resolve a BIOS bug on an eMachines EL1200, building on their history of hacking legacy hardware. The piece highlights how modern LLMs can assist in troubleshooting complex firmware and technical configuration issues.</description>
-    </item>
-
-    <item>
-      <title>A Syncthing and SQLite Gotcha</title>
-      <link>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</link>
-      <guid>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</guid>
-      <pubDate>Sat, 22 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This post explains the technical risks associated with using Syncthing to synchronize SQLite databases. It highlights how the 'rename' system call can lead to data corruption when file synchronization conflicts with database write operations.</description>
     </item>
   </channel>
 </rss>

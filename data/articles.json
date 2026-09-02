@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-09-01T23:37:45.217Z",
+  "last_updated": "2026-09-02T23:39:14.934Z",
   "articles": [
+    {
+      "id": "1249691da25afa37",
+      "title": "VC isn’t VC anymore — understanding the rise of Cancer Capital",
+      "url": "https://anildash.com/2026/09/02/cancer-capital/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-09-02T00:00:00.000Z",
+      "summary_en": "Anil Dash argues that the venture capital industry has fundamentally shifted from fostering innovation to empowering a small group of unaccountable billionaire extremists. He labels this transformation 'Cancer Capital,' suggesting that these actors now influence society, politics, and technology through an oligarchic structure that bypasses traditional market and regulatory accountability.",
+      "summary_zh": "Anil Dash 指出風險投資（VC）產業已發生質變，從原本的創新推手轉變為一群不受監管的億萬富翁權貴。他將這種現象稱為「癌症資本」（Cancer Capital），認為這些人利用這種結構扭曲社會與科技發展，使其凌駕於市場機制與公眾意志之上。",
+      "keywords": [
+        "venture capital",
+        "cancer capital",
+        "oligarchy",
+        "innovation",
+        "tech industry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and conceptualizing a new theoretical framework ('Cancer Capital') to explain the structural changes within the venture capital industry.",
+      "pacer_reason_zh": "本文側重於定義並構建一個新的理論框架（「癌症資本」），旨在解釋風險投資產業內部的結構性轉變。"
+    },
+    {
+      "id": "9474e259441dce2f",
+      "title": "Nobody Believes It, Everybody Does It",
+      "url": "https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-01T19:00:00.000Z",
+      "summary_en": "This article explores the psychological and systemic tendency of humans to follow flawed institutional practices even when individual experience suggests they are ineffective or harmful. The author argues that when processes scale, they often prioritize convenient metrics over the nuances of human reality, leading to a disconnect between data-driven systems and actual experience.",
+      "summary_zh": "本文探討了人類傾向於遵循有缺陷的制度慣例，即便個人經驗顯示這些做法無效或有害。作者指出，當流程規模化時，往往會犧牲現實中的細微差別來追求數據指標，導致數據導向的系統與真實體驗脫節。",
+      "keywords": [
+        "behavioral psychology",
+        "metrics",
+        "institutional bias",
+        "human experience",
+        "data-driven"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of a specific sociological and psychological phenomenon rather than a tutorial or data-heavy experiment.",
+      "pacer_reason_zh": "本文對特定的社會學與心理學現象進行了概念性的探討，而非操作指南或數據密集型的實驗報告。"
+    },
+    {
+      "id": "6d917072006432f0",
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-09-02T00:00:00.000Z",
+      "summary_en": "This article discusses the intersection of memory safety and software correctness, specifically focusing on object pools. The author explores how using object pools shifts memory issues from dangerous physical type confusion to more manageable logical errors.",
+      "summary_zh": "本文探討了記憶體安全性與軟體正確性之間的關聯，特別著重於物件池（object pools）的使用。作者分析了物件池如何將記憶體問題從危險的物理型別混淆（type confusion）轉變為更易於管理的邏輯錯誤。",
+      "keywords": [
+        "memory safety",
+        "object pool",
+        "type confusion",
+        "use-after-free",
+        "software engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual relationship between memory safety, type confusion, and the use of object pools in managing memory lifecycles.",
+      "pacer_reason_zh": "本文解釋了記憶體安全性、型別混淆以及物件池在管理記憶體生命週期之間的觀念性關係。"
+    },
+    {
+      "id": "e32d82ca55af1806",
+      "title": "Microspeak: Funded / unfunded",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-01T14:00:00.000Z",
+      "summary_en": "This post explains the corporate usage of the terms 'funded' and 'unfunded' within the context of headcount and budget. It clarifies how these terms signify whether a project or position has the necessary financial backing to proceed.",
+      "summary_zh": "本文解釋了企業在人力編制與預算範疇中，「已獲得資金 (funded)」與「未獲得資金 (unfunded)」這兩個術語的用法。文章闡明了這些詞彙如何用來界定專案或職位是否具備啟動所需的財務支援。",
+      "keywords": [
+        "Microspeak",
+        "The Old New Thing",
+        "corporate terminology",
+        "funded",
+        "unfunded"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual meaning and corporate context of specific industry jargon.",
+      "pacer_reason_zh": "本文旨在解釋特定行業術語的概念含義及其在企業語境中的用法。"
+    },
+    {
+      "id": "7767312ae86a82fc",
+      "title": "Pluralistic: Unpermissioned research (02 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/02/scrape-scrope-scrap/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-02T10:19:10.000Z",
+      "summary_en": "Cory Doctorow argues that framing privacy as a property right rather than a human right plays into the hands of tech oligarchs. He contends that treating data as a commodity allows companies to justify surveillance and exploitation through 'data dividends' instead of protecting fundamental digital rights.",
+      "summary_zh": "Cory Doctorow 認為將隱私權視為財產權而非基本人權，是在為科技巨頭的剝削行為背書。他主張數據不應被視為可買賣的商品，應將其視為不可侵犯的人權，以防止科技公司透過數據分紅等機制合法化大規模的隱私入侵。",
+      "keywords": [
+        "privacy",
+        "human rights",
+        "neoliberalism",
+        "data dividend",
+        "tech monopoly"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique of political and economic frameworks regarding data ownership and digital rights.",
+      "pacer_reason_zh": "內容針對數據所有權與數位權利的政治與經濟框架進行了觀念性的分析與批判。"
+    },
+    {
+      "id": "18c439efc6c9e049",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-02T16:39:38.000Z",
+      "summary_en": "Simon Willison released version 0.34 of llm-gemini, which adds support for the new Gemini 3.8 Flash model. The update introduces configurable thinking levels and includes bug fixes for async response handling.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 0.34 版本，正式支援最新的 Gemini 3.8 Flash 模型。此次更新引入了可配置的思考層級功能，並修復了非同步回應記錄模型版本的錯誤。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 3.8 Flash",
+        "Simon Willison",
+        "AI models",
+        "software update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release announcement documenting new software capabilities, model updates, and bug fixes.",
+      "pacer_reason_zh": "這是一份發布公告，記錄了新軟體功能、模型更新以及錯誤修復內容。"
+    },
+    {
+      "id": "2557b479477d51f3",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-02T14:16:42.000Z",
+      "summary_en": "Simon Willison explores Anthropic's new practice of publishing historic system prompts for Claude models. He highlights how the documentation is structured to be LLM-friendly, allowing for easy comparison and tracking of behavioral changes like copyright restrictions.",
+      "summary_zh": "Simon Willison 探討了 Anthropic 發布 Claude 模型系統提示詞（System Prompts）的作法，包含詳細的歷史版本記錄。他指出這些文檔的設計便於 LLM 讀取，並能輕鬆比較提示詞變化，例如針對歌詞與版權內容的限制調整。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "System Prompts",
+        "LLM",
+        "Prompt Engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article provides reference material and insights into Anthropic's documentation practices for model system prompts.",
+      "pacer_reason_zh": "本文提供了關於 Anthropic 模型系統提示詞文檔實踐的參考資訊與觀點。"
+    },
+    {
+      "id": "b6e93fadaf7ee802",
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-02T05:50:57.000Z",
+      "summary_en": "Paint.NET developer Rick Brewster details how he used AI to reverse-engineer a Direct2D implementation for WINE support. The project required extensive oversight to fix architectural flaws and manage resources, highlighting the potential and limitations of using LLMs for large-scale code generation.",
+      "summary_zh": "Paint.NET 開發者 Rick Brewster 分享了如何利用 AI 逆向工程 Direct2D 以實現 WINE 支援的過程。儘管 AI 大幅加快了開發速度，但仍需開發者進行嚴格的架構審查與資源管理，以修復錯誤並確保程式碼品質。",
+      "keywords": [
+        "Paint.NET",
+        "WINE",
+        "Direct2D",
+        "AI coding",
+        "reverse engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study documenting the real-world experiment of using AI to generate 180,000 lines of complex software code.",
+      "pacer_reason_zh": "本文是一個案例研究，記錄了在現實開發中利用 AI 生成 18 萬行複雜程式碼的實際實驗經驗。"
+    },
+    {
+      "id": "6cb14383ff4a603d",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-01T23:57:28.000Z",
+      "summary_en": "Simon Willison evaluates the new Claude Fable 5.1 model, highlighting its significant improvements in scientific benchmarks like Terminal-Bench-Science. He also tests the model's creative output using his own 'pelican benchmark' across different reasoning effort levels.",
+      "summary_zh": "Simon Willison 評測了全新的 Claude Fable 5.1 模型，強調其在 Terminal-Bench-Science 等科學基準測試中的顯著提升。同時，他透過不同推理級別的「鵜鶘基準測試」來驗證該模型的創意輸出表現。",
+      "keywords": [
+        "Claude Fable 5.1",
+        "LLM",
+        "benchmark",
+        "reasoning",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on performance benchmarks, model testing results, and comparative data analysis.",
+      "pacer_reason_zh": "本文重點在於性能基準測試、模型測試結果以及對比數據分析。"
+    },
+    {
+      "id": "92dade5d3d44ebeb",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-01T18:05:45.000Z",
+      "summary_en": "Simon Willison introduces a new web-based GeoJSON Map Viewer tool, created with the assistance of AI to display and export map data as images. The article highlights how LLMs can effectively aggregate and process complex geographical boundary data from government sources.",
+      "summary_zh": "Simon Willison 介紹了一款利用 AI 輔助開發的 GeoJSON 地圖檢視工具，用於顯示地圖資料並匯出為影像檔。文章強調了大型語言模型在整合與處理各類政府地理邊界數據方面的實用性。",
+      "keywords": [
+        "GeoJSON",
+        "Map Viewer",
+        "AI Tools",
+        "Data Visualization",
+        "Simon Willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a showcase and introduction to a specific utility tool developed by the author for public use.",
+      "pacer_reason_zh": "該文章旨在展示並介紹作者開發的一項可供公眾使用的特定工具。"
+    },
+    {
+      "id": "06c1aea3d44b4ef2",
+      "title": "datasette-mcp 0.2",
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-01T15:30:12.000Z",
+      "summary_en": "Datasette-mcp 0.2 marks the first stable release of the plugin, introducing changes to the 'rows' format from execute_sql for better model compatibility. The update now uses an array of objects instead of arrays to assist LLMs in mapping data to columns.",
+      "summary_zh": "Datasette-mcp 0.2 發布了第一個穩定版本，將 execute_sql 的 rows 格式由陣列改為物件陣列，以提升大型語言模型處理數據時的準確度。此更新同時升級了對 MCP 協定的依賴版本。",
+      "keywords": [
+        "datasette",
+        "mcp",
+        "software-release",
+        "llm",
+        "data-engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release note and technical reference for updating to the latest version of the datasette-mcp software.",
+      "pacer_reason_zh": "此文章作為軟體發布說明，屬於 datasette-mcp 軟體更新的技術參考資料。"
+    },
+    {
+      "id": "88b76ba8be714f34",
+      "title": "How to protect yourself from workslop",
+      "url": "https://seangoedecke.com/how-to-protect-yourself-from-workslop/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-02T00:00:00.000Z",
+      "summary_en": "This article discusses the concept of 'workslop,' which refers to the decline in quality and productivity caused by automated content and excessive busywork. It provides actionable advice on how to identify these distractions and protect your focus and output.",
+      "summary_zh": "本文探討了「工作垃圾」（workslop）的概念，指自動化內容與過多瑣事導致產出品質下降的問題。文章提供了具體建議，教導讀者如何識別這些干擾，並保護個人的專注力與工作品質。",
+      "keywords": [
+        "workslop",
+        "productivity",
+        "focus",
+        "automation",
+        "time management"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The title indicates a guide on 'how to protect' oneself, suggesting a practical, step-by-step approach to solving a specific problem.",
+      "pacer_reason_zh": "標題顯示這是一篇關於「如何保護」自己的指南，暗示其內容為解決特定問題的實用操作步驟。"
+    },
     {
       "id": "910fa5c3a31d443a",
       "title": "Weekly Update 519: Breaches & Data Integrity",
