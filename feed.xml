@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 02 Sep 2026 23:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:36:37 GMT</lastBuildDate>
     
+    <item>
+      <title>You Should be Using Rootless Containers</title>
+      <link>https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers</link>
+      <guid>https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers</guid>
+      <pubDate>Thu, 03 Sep 2026 14:59:54 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This post discusses the inherent security risks of standard Docker configurations, highlighted by a recent vulnerability that allowed unauthorized root privilege escalation. The author advocates for adopting rootless containers as a more secure alternative to traditional container setups.</description>
+    </item>
+
+    <item>
+      <title>De nieuwe AIVD/MIVD wet: een eerste overzicht</title>
+      <link>https://berthub.eu/articles/posts/de-wiv-202x/</link>
+      <guid>https://berthub.eu/articles/posts/de-wiv-202x/</guid>
+      <pubDate>Thu, 03 Sep 2026 11:20:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The article analyzes the new legislative proposal for the Dutch intelligence agencies AIVD and MIVD. The author argues that the proposal seeks to grant the agencies broader surveillance powers while simultaneously reducing oversight, effectively undermining the rule of law.</description>
+    </item>
+
+    <item>
+      <title>Can We Stop With the Uptime Percentages?</title>
+      <link>https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</link>
+      <guid>https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</guid>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author argues that uptime percentages are misleading for the general public, as the non-linear scale obscures the true impact of service outages. He suggests replacing abstract percentages with clear, duration-based metrics to make reliability information more accessible and meaningful to non-technical users.</description>
+    </item>
+
+    <item>
+      <title>Second Quest</title>
+      <link>https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</link>
+      <guid>https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</guid>
+      <pubDate>Thu, 03 Sep 2026 03:24:54 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the unexpected cultural revival of MapQuest, a legacy technology brand that languished under corporate mismanagement for years. After being acquired by System1, the company leveraged its newfound independence to challenge political labeling trends, resulting in a surge of popularity that outperformed tech giants like Google and Apple.</description>
+    </item>
+
+    <item>
+      <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III</title>
+      <link>https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c</link>
+      <guid>https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c</guid>
+      <pubDate>Thu, 03 Sep 2026 19:20:13 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article concludes a three-part series analyzing the potential impact of the 21st Century ROAD to Housing Act on the housing supply. It examines the legislative provisions and explores how they are expected to influence construction and housing market dynamics.</description>
+    </item>
+
+    <item>
+      <title>New RSA number factored</title>
+      <link>https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/</guid>
+      <pubDate>Thu, 03 Sep 2026 17:21:45 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>Eric Lu has successfully factored RSA-260, an 862-bit number used as a security benchmark for RSA encryption. This achievement highlights the ongoing progress in computational factoring and its implications for cryptographic security.</description>
+    </item>
+
+    <item>
+      <title>The perils of binding to value types in XAML</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post highlights the risks of using value types in XAML bindings, specifically focusing on the loss of object identity. It warns developers that binding to value types can lead to unexpected behaviors in data-bound applications.</description>
+    </item>
+
+    <item>
+      <title>A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP</title>
+      <link>https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</guid>
+      <pubDate>Thu, 03 Sep 2026 11:34:12 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This guide provides a practical approach to validating RFC 9421 HTTP signatures for ActivityPub integration in PHP. It addresses the common difficulties developers face when parsing signatures from Fediverse servers like Mastodon.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/03/broken-arrows/</link>
+      <guid>https://pluralistic.net/2026/09/03/broken-arrows/</guid>
+      <pubDate>Thu, 03 Sep 2026 08:45:19 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that Donald Trump is a symptom rather than the sole cause of America's political instability. He suggests that the post-Trump era may be even more chaotic due to the internal conflicts and radicalization of the existing political coalition.</description>
+    </item>
+
+    <item>
+      <title>GPT‑6 Astra</title>
+      <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
+      <guid>https://simonwillison.net/2026/Sep/3/gpt6-astra/</guid>
+      <pubDate>Thu, 03 Sep 2026 20:18:41 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>OpenAI has released GPT-6 Astra, a new model positioned as a competitor to Claude Fable with high performance on benchmarks like ARC-AGI, security tasks, and long-context processing. The model is currently rolling out to paid users and API customers with pricing mirroring its competitor.</description>
+    </item>
+
     <item>
       <title>VC isn’t VC anymore — understanding the rise of Cancer Capital</title>
       <link>https://anildash.com/2026/09/02/cancer-capital/</link>
@@ -814,96 +904,6 @@
       <pubDate>Mon, 24 Aug 2026 22:00:00 GMT</pubDate>
       <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
       <description>The author contrasts their traditional, manual coding workflow with the fluid, integrated development experience of Lisp programming. By comparing the two, they highlight the advantages of Lisp's live-coding and hot-swapping capabilities over standard compile-run-debug cycles.</description>
-    </item>
-
-    <item>
-      <title>The Negative Option</title>
-      <link>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</link>
-      <guid>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</guid>
-      <pubDate>Tue, 25 Aug 2026 02:45:00 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article examines the decline of Columbia House, a once-dominant music distribution service that struggled to adapt to digital disruption. It reflects on the company's historical business model and explores how it eventually faded into obsolescence after failing to pivot successfully in a changing media landscape.</description>
-    </item>
-
-    <item>
-      <title>Hardening the Override Flag</title>
-      <link>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</link>
-      <guid>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</guid>
-      <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article examines how command-line tools and package managers protect against dangerous operations by hardening override flags. It highlights strategies like using verbose, explicit flag names to serve as intentional warnings during security reviews.</description>
-    </item>
-
-    <item>
-      <title>Numerical (in)stability of recurrence relations</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</guid>
-      <pubDate>Tue, 25 Aug 2026 01:47:47 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the numerical stability challenges inherent in using three-term recurrence relations for special functions. It emphasizes that while these relations are computationally useful, they require careful implementation to avoid errors.</description>
-    </item>
-
-    <item>
-      <title>Comparing the two holograms on the Windows 95 box</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post examines the subtle differences between the two holographic stickers found on the original Windows 95 retail packaging. The author invites readers to look closely at the design variations present on these collectible boxes.</description>
-    </item>
-
-    <item>
-      <title>Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</guid>
-      <pubDate>Tue, 25 Aug 2026 11:34:22 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review of the 'Cats' production at Regent's Park Open Air Theatre critiques the show as a whimsical, spiritual experience. The author draws an anthropological parallel between the performers' feline portrayals and ancient shamanistic rituals of becoming one with an animal.</description>
-    </item>
-
-    <item>
-      <title>Uranium from Příbram (Czechia)</title>
-      <link>https://maurycyz.com/misc/rocks3/</link>
-      <guid>https://maurycyz.com/misc/rocks3/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This post showcases geological specimens of uraninite collected from Příbram, Czechia, featuring radiation measurements and photographic observations. It includes brief technical details on the mineral's formation age and the geological environment of the deposit.</description>
-    </item>
-
-    <item>
-      <title>Foot Guns for Sale </title>
-      <link>https://idiallo.com/blog/foot-gun-for-sale</link>
-      <guid>https://idiallo.com/blog/foot-gun-for-sale</guid>
-      <pubDate>Tue, 25 Aug 2026 07:15:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author challenges the narrative that AI will remain centralized under major providers like OpenAI and Anthropic. Instead, they argue that technological advancements will enable developers to run powerful, open-source models locally, disrupting the current corporate ecosystem model.</description>
-    </item>
-
-    <item>
-      <title>Debugging Ubiquiti's 5G Backup on AT&amp;T</title>
-      <link>https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</guid>
-      <pubDate>Tue, 25 Aug 2026 19:18:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling explores integrating Ubiquiti networking gear into a portable 5G mini-homelab rack setup. He highlights the benefits of using compact hardware for both on-the-go connectivity and fixed-location internet redundancy.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
-      <link>https://www.troyhunt.com/weekly-update-518/</link>
-      <guid>https://www.troyhunt.com/weekly-update-518/</guid>
-      <pubDate>Mon, 24 Aug 2026 04:19:51 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt shares his successful implementation of an IoT-based door lock system using Ubiquiti's UniFi platform. The post outlines the key design principles, including the importance of a reliable power source, for integrating smart locks into a residential home.</description>
-    </item>
-
-    <item>
-      <title>distributed identity</title>
-      <link>https://jyn.dev/distributed-identity/</link>
-      <guid>https://jyn.dev/distributed-identity/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://jyn.dev/">the website of jyn</source>
-      <description>This article explores the challenges of managing contributor identity in Git when personal details like emails and names change over time. It highlights the limitations of git mailmap and proposes using the AT Protocol as a potential solution for managing distributed identity.</description>
     </item>
   </channel>
 </rss>

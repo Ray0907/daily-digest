@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-09-02T23:39:14.934Z",
+  "last_updated": "2026-09-03T23:36:37.808Z",
   "articles": [
+    {
+      "id": "9cdc531f1d9ac797",
+      "title": "You Should be Using Rootless Containers",
+      "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-09-03T14:59:54.000Z",
+      "summary_en": "This post discusses the inherent security risks of standard Docker configurations, highlighted by a recent vulnerability that allowed unauthorized root privilege escalation. The author advocates for adopting rootless containers as a more secure alternative to traditional container setups.",
+      "summary_zh": "本文探討了 Docker 標準配置所帶來的安全風險，並以近期導致權限提升的漏洞為例進行說明。作者建議採用 Rootless Containers（無根容器）作為更安全的替代方案，以降低潛在的系統威脅。",
+      "keywords": [
+        "Docker",
+        "Rootless Containers",
+        "Security",
+        "Linux",
+        "Privilege Escalation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual security issues surrounding traditional Docker configurations and why rootless containers are a necessary improvement.",
+      "pacer_reason_zh": "文章解釋了傳統 Docker 配置所面臨的概念性安全問題，並論述為何改用無根容器是必要的改進。"
+    },
+    {
+      "id": "c4efa3c9b63afc9f",
+      "title": "De nieuwe AIVD/MIVD wet: een eerste overzicht",
+      "url": "https://berthub.eu/articles/posts/de-wiv-202x/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-09-03T11:20:00.000Z",
+      "summary_en": "The article analyzes the new legislative proposal for the Dutch intelligence agencies AIVD and MIVD. The author argues that the proposal seeks to grant the agencies broader surveillance powers while simultaneously reducing oversight, effectively undermining the rule of law.",
+      "summary_zh": "本文分析了荷蘭情報機構 AIVD 與 MIVD 的最新立法提案。作者認為，該提案在賦予情報機構更大監控權力的同時，卻大幅削弱了監督機制，這將對法治造成嚴重侵蝕。",
+      "keywords": [
+        "AIVD",
+        "MIVD",
+        "surveillance",
+        "privacy",
+        "Dutch law"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and explanation of the implications of proposed legal changes regarding intelligence agency powers.",
+      "pacer_reason_zh": "本文針對擬議中的情報機構權力法律變更進行了概念性批判與影響分析。"
+    },
+    {
+      "id": "0f70f35142d65541",
+      "title": "Can We Stop With the Uptime Percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-03T19:00:00.000Z",
+      "summary_en": "The author argues that uptime percentages are misleading for the general public, as the non-linear scale obscures the true impact of service outages. He suggests replacing abstract percentages with clear, duration-based metrics to make reliability information more accessible and meaningful to non-technical users.",
+      "summary_zh": "作者指出目前的正常運行時間百分比對大眾而言具有誤導性，因為這種非線性刻度掩蓋了服務中斷的真實影響。他建議將抽象的百分比替換為更直觀的持續時間指標，以便非技術用戶能更清晰地理解服務穩定性。",
+      "keywords": [
+        "uptime",
+        "reliability",
+        "UX",
+        "status pages",
+        "metrics"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of earthquake measurements to explain the non-linear nature of uptime percentages and proposes a new way to frame reliability.",
+      "pacer_reason_zh": "文章運用地震測量數據作為類比，解釋正常運行時間百分比的非線性本質，並提出了一種新的呈現穩定性的方式。"
+    },
+    {
+      "id": "c1e5ce37a034051f",
+      "title": "Second Quest",
+      "url": "https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-09-03T03:24:54.000Z",
+      "summary_en": "This article explores the unexpected cultural revival of MapQuest, a legacy technology brand that languished under corporate mismanagement for years. After being acquired by System1, the company leveraged its newfound independence to challenge political labeling trends, resulting in a surge of popularity that outperformed tech giants like Google and Apple.",
+      "summary_zh": "這篇文章探討了老牌科技公司 MapQuest 在歷經多年企業管理不善後，意外實現文化復興的過程。在被 System1 收購後，該公司利用其獨立性挑戰政治命名趨勢，使其受歡迎程度激增，甚至超越了 Google 和 Apple 等科技巨頭。",
+      "keywords": [
+        "MapQuest",
+        "System1",
+        "Cultural Revival",
+        "Tech History",
+        "Corporate Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a narrative explanation and analysis of why a legacy brand successfully rebranded itself within the current cultural landscape.",
+      "pacer_reason_zh": "這篇文章針對老牌品牌如何在當前的文化環境中成功轉型，提供了敘事性的解釋與分析。"
+    },
+    {
+      "id": "b1c6cc813b9e6f99",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-09-03T19:20:13.000Z",
+      "summary_en": "This article concludes a three-part series analyzing the potential impact of the 21st Century ROAD to Housing Act on the housing supply. It examines the legislative provisions and explores how they are expected to influence construction and housing market dynamics.",
+      "summary_zh": "本文是分析「21 世紀住房道路法案」(21st Century ROAD to Housing Act) 對住房供應影響系列文章的最後一篇。內容探討了該法案的立法條款，並深入評估其對建築業及房地產市場的潛在影響。",
+      "keywords": [
+        "Housing Act",
+        "Housing Supply",
+        "Construction Physics",
+        "Real Estate Policy",
+        "Public Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical explanation and interpretation of legislative content and its theoretical impact on an industry.",
+      "pacer_reason_zh": "本文針對立法內容及其對產業的理論影響提供了分析性的解釋與見解。"
+    },
+    {
+      "id": "a8c8e9cd289f77e0",
+      "title": "New RSA number factored",
+      "url": "https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-03T17:21:45.000Z",
+      "summary_en": "Eric Lu has successfully factored RSA-260, an 862-bit number used as a security benchmark for RSA encryption. This achievement highlights the ongoing progress in computational factoring and its implications for cryptographic security.",
+      "summary_zh": "Eric Lu 成功破解了 RSA-260，這是一個用於測試 RSA 加密安全性的 862 位元數字。此項成果突顯了計算分解技術的進展，以及對密碼學安全性的潛在影響。",
+      "keywords": [
+        "RSA",
+        "cryptography",
+        "factoring",
+        "security",
+        "RSA-260"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific cryptographic benchmark achievement, functioning as evidence of current factoring capabilities.",
+      "pacer_reason_zh": "本文報導了一項具體的密碼學基準測試成果，作為當前數字分解能力的實證。"
+    },
+    {
+      "id": "8cb37681ceb7153e",
+      "title": "The perils of binding to value types in XAML",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-02T14:00:00.000Z",
+      "summary_en": "This post highlights the risks of using value types in XAML bindings, specifically focusing on the loss of object identity. It warns developers that binding to value types can lead to unexpected behaviors in data-bound applications.",
+      "summary_zh": "本文探討在 XAML 綁定中使用值類型的風險，特別是關於物件識別碼丟失的問題。文章提醒開發者，對值類型進行綁定可能會導致資料綁定應用程式出現非預期的行為。",
+      "keywords": [
+        "XAML",
+        "Data Binding",
+        "Value Types",
+        "Programming",
+        "Windows Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains a conceptual limitation regarding object identity and data binding mechanisms.",
+      "pacer_reason_zh": "本文解釋了關於物件識別碼與資料綁定機制的概念性限制。"
+    },
+    {
+      "id": "1fddae3a6365a242",
+      "title": "A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP",
+      "url": "https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-03T11:34:12.000Z",
+      "summary_en": "This guide provides a practical approach to validating RFC 9421 HTTP signatures for ActivityPub integration in PHP. It addresses the common difficulties developers face when parsing signatures from Fediverse servers like Mastodon.",
+      "summary_zh": "本指南提供了在 PHP 中驗證 ActivityPub 的 RFC 9421 HTTP 簽章的實務方法。內容旨在解決開發人員在解析 Mastodon 等聯邦宇宙伺服器簽章時常見的技術困難。",
+      "keywords": [
+        "ActivityPub",
+        "RFC 9421",
+        "HTTP Signatures",
+        "PHP",
+        "Fediverse"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a practical, step-by-step technical guide for developers implementing specific signature validation in PHP.",
+      "pacer_reason_zh": "本文是一篇實務性的技術指南，為開發者提供在 PHP 中實作特定簽章驗證的逐步說明。"
+    },
+    {
+      "id": "8c4957c784575898",
+      "title": "Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/03/broken-arrows/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-03T08:45:19.000Z",
+      "summary_en": "Cory Doctorow argues that Donald Trump is a symptom rather than the sole cause of America's political instability. He suggests that the post-Trump era may be even more chaotic due to the internal conflicts and radicalization of the existing political coalition.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）認為川普與其說是美國政治動盪的根本原因，不如說是一種徵兆。他指出，後川普時代可能會因為現有政治聯盟內部的極端化與惡鬥，導致更加動盪不安的局面。",
+      "keywords": [
+        "politics",
+        "internet",
+        "democracy",
+        "Cory Doctorow",
+        "polarization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of political dynamics and the systemic nature of contemporary American polarization.",
+      "pacer_reason_zh": "文章針對政治動態與當代美國社會極化現象的系統性本質，提供了概念性的觀點分析。"
+    },
+    {
+      "id": "9c15d28a330d5e62",
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-03T20:18:41.000Z",
+      "summary_en": "OpenAI has released GPT-6 Astra, a new model positioned as a competitor to Claude Fable with high performance on benchmarks like ARC-AGI, security tasks, and long-context processing. The model is currently rolling out to paid users and API customers with pricing mirroring its competitor.",
+      "summary_zh": "OpenAI 發布了 GPT-6 Astra，這是一款旨在與 Claude Fable 競爭的新模型，在 ARC-AGI、安全性任務和長文本處理等評測中表現出色。該模型目前正逐步向付費用戶及 API 客戶開放，定價與其競爭對手相當。",
+      "keywords": [
+        "GPT-6 Astra",
+        "OpenAI",
+        "Benchmarks",
+        "ARC-AGI",
+        "AI Models"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post focuses on reporting benchmark results, performance data, and pricing comparisons for the new GPT-6 Astra model.",
+      "pacer_reason_zh": "該文章重點在於報告新模型 GPT-6 Astra 的評測結果、性能數據及定價比較。"
+    },
     {
       "id": "1249691da25afa37",
       "title": "VC isn’t VC anymore — understanding the rise of Cancer Capital",
