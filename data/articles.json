@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-09-04T23:29:22.129Z",
+  "last_updated": "2026-09-05T23:25:43.915Z",
   "articles": [
+    {
+      "id": "feb00cf31bee5460",
+      "title": "Reading List - 09/05/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09052026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-09-05T12:03:33.000Z",
+      "summary_en": "This post provides a curated list of links covering diverse topics, including advancements in SpaceX manufacturing and geothermal energy deals. It also features analysis on urban infrastructure projects in Delhi and critical perspectives on the limitations of modern recycling.",
+      "summary_zh": "本篇摘要彙整了多項產業動態，涵蓋 SpaceX 的渦輪葉片工廠、Fervo 與 Google 的地熱能源協議。此外，文中還探討了德里的地鐵建設以及對回收利用成效的批判性分析。",
+      "keywords": [
+        "SpaceX",
+        "Energy",
+        "Infrastructure",
+        "Recycling",
+        "Technology"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated reading list or index of links, serving primarily as reference material.",
+      "pacer_reason_zh": "該內容為精選閱讀清單，主要作為查找相關主題資訊的參考資料。"
+    },
+    {
+      "id": "605325c087f76106",
+      "title": "This Week in Package Management: 5 September 2026",
+      "url": "https://nesbitt.io/2026/09/05/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-05T10:00:00.000Z",
+      "summary_en": "This roundup highlights key updates in package management for the week of September 5, 2026, including performance improvements in pnpm and rustup. It also covers significant releases for tools like Conan, Renovate, and various language-specific managers, alongside news regarding the EOL of Maven 3.8.x.",
+      "summary_zh": "本篇摘要整理了 2026 年 9 月 5 日當週的套件管理工具更新，包括 pnpm 與 rustup 的效能優化。文中同時涵蓋了 Conan、Renovate 等工具的重要發布，以及 Maven 3.8.x 正式結束維護的相關資訊。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "pnpm",
+        "rustup",
+        "devops"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a curated reference list of recent software releases and project updates within the package management ecosystem.",
+      "pacer_reason_zh": "本文彙整了近期軟體發布與專案更新的清單，屬於提供查找與參考性質的資訊。"
+    },
+    {
+      "id": "704e0f8cfb341440",
+      "title": "Proof of the rank-trace theorem",
+      "url": "https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-05T17:04:13.000Z",
+      "summary_en": "This post provides a formal mathematical proof of the rank-trace theorem for real symmetric matrices. It demonstrates the result by leveraging the diagonalization of the matrix to establish the inequality.",
+      "summary_zh": "這篇文章針對實對稱矩陣的秩-跡定理（rank-trace theorem）提供了正式的數學證明。透過將矩陣進行對角化，詳細說明了該不等式的推導過程。",
+      "keywords": [
+        "rank-trace theorem",
+        "linear algebra",
+        "mathematical proof",
+        "symmetric matrix",
+        "matrix theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining and proving a specific mathematical concept/theorem.",
+      "pacer_reason_zh": "該內容主要旨在解釋並證明特定的數學概念或定理。"
+    },
+    {
+      "id": "6586b479854de53a",
+      "title": "Latent Powers",
+      "url": "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-09-05T00:00:00.000Z",
+      "summary_en": "The author documents the process of hacking a CarPlay dongle to run custom firmware, specifically the Rust-based 'CatPlay' protocol. Despite receiving a different hardware revision than expected, they successfully used LLMs to navigate the technical challenges of flashing and compiling code for the device's specific SoC.",
+      "summary_zh": "作者記錄了駭入 CarPlay 無線轉換器以執行自定義韌體（如 Rust 編寫的 CatPlay）的過程。儘管收到的硬體版本與預期不同，作者仍成功利用人工智慧模型的協助，解決了韌體刷寫與特定晶片編譯的技術難題。",
+      "keywords": [
+        "CarPlay",
+        "firmware",
+        "reverse-engineering",
+        "Rust",
+        "CatPlay"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the author's technical journey and practical process of hacking and reprogramming specific hardware.",
+      "pacer_reason_zh": "文章記錄了作者駭入與重新編寫特定硬體韌體的技術過程與實際操作經驗。"
+    },
+    {
+      "id": "4c6d52d6b311c07f",
+      "title": "What happens if you change a window class’s GCL_CB­WND­EXTRA?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-04T14:00:00.000Z",
+      "summary_en": "This post explains the technical consequence of modifying the GCL_CBWNDEXTRA value of a window class in Windows programming. It clarifies that this change only affects windows created after the modification is applied.",
+      "summary_zh": "本文解釋了在 Windows 程式設計中修改視窗類別的 GCL_CBWNDEXTRA 值會產生什麼影響。文中明確指出，此項變更僅對修改後新建立的視窗有效。",
+      "keywords": [
+        "Windows API",
+        "GCL_CBWNDEXTRA",
+        "Programming",
+        "Win32",
+        "Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how specific Windows API behavior works.",
+      "pacer_reason_zh": "該文章針對特定 Windows API 行為提供了概念性的解釋。"
+    },
+    {
+      "id": "7e614ed2df250a21",
+      "title": "Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-05T11:34:47.000Z",
+      "summary_en": "This blog post offers a positive review of Ken Liu's short story collection, 'The Passing of the Dragon.' The author praises the balance between grounded, realistic narratives and imaginative, fantastical elements, noting that the prose remains highly accessible.",
+      "summary_zh": "這篇部落格文章評論了劉宇昆的短篇小說集《龍的傳人與其他故事》。作者讚賞書中在寫實與奇幻題材之間的靈活切換，並指出其文字優美且比作者以往的作品更易於閱讀。",
+      "keywords": [
+        "Ken Liu",
+        "Book Review",
+        "Science Fiction",
+        "Short Stories",
+        "Literature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a subjective review and thematic analysis of a book, typical of conceptual critiques.",
+      "pacer_reason_zh": "該內容是對書籍的主觀評論與主題分析，屬於典型的概念型內容。"
+    },
+    {
+      "id": "d12689d79314d98a",
+      "title": "Pluralistic: Google skates (05 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/05/divorce-court/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-05T08:04:11.000Z",
+      "summary_en": "Cory Doctorow analyzes the historical difficulty of dismantling entrenched monopolies, drawing parallels between John D. Rockefeller's era and modern tech giants like Google. The piece argues that delayed antitrust enforcement allows oligarchs to consolidate power until they become nearly indistinguishable from the state.",
+      "summary_zh": "科利·多克托羅（Cory Doctorow）分析了拆解根深蒂固的壟斷企業在歷史上的困難，並將約翰·D·洛克斐勒時代與現代科技巨頭（如 Google）進行了對比。文章指出，反壟斷執法的延誤會讓寡頭企業得以鞏固權力，直到其勢力幾乎與國家機器勢均力敵。",
+      "keywords": [
+        "antitrust",
+        "monopoly",
+        "history",
+        "tech policy",
+        "oligarchy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article uses historical economic theory and conceptual analysis to explain the systemic dangers of allowing monopolies to entrench themselves.",
+      "pacer_reason_zh": "本文運用歷史經濟理論與概念分析，解釋了任由壟斷企業坐大的系統性危險。"
+    },
+    {
+      "id": "1a7ad445c458128b",
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-05T15:51:09.000Z",
+      "summary_en": "This post explains how to leverage AI coding agents on macOS to automate 3D rendering in Blender. By providing natural language prompts, users can trigger Blender's Python API to generate complex 3D scenes without manual modeling.",
+      "summary_zh": "本文介紹如何在 macOS 上利用 AI 編碼代理程式來自動化 Blender 的 3D 渲染流程。使用者只需透過自然語言提示詞，即可呼叫 Blender 的 Python API 來生成複雜的 3D 場景。",
+      "keywords": [
+        "Blender",
+        "AI",
+        "macOS",
+        "coding agents",
+        "Python API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step method for integrating AI agents with Blender to achieve specific rendering tasks.",
+      "pacer_reason_zh": "本文提供了將 AI 代理程式與 Blender 結合以執行特定渲染任務的實用步驟說明。"
+    },
+    {
+      "id": "1cfa4c2a073edcd8",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-04T23:59:05.000Z",
+      "summary_en": "Simon Willison tests GPT-6 Astra's SVG generation capabilities by comparing it against GPT-5.6 models through a visual grid of pelicans. He finds that Astra provides significantly higher visual quality at lower token costs, demonstrating better efficiency despite a higher base price.",
+      "summary_zh": "Simon Willison 透過生成鵜鶘騎自行車的 SVG 圖像，比較了 GPT-6 Astra 與 GPT-5.6 系列模型的效能。測試結果顯示，儘管 Astra 的定價較高，但其產出的品質遠優於舊模型，且在生成過程中使用更少的 Token，整體性價比表現更佳。",
+      "keywords": [
+        "GPT-6 Astra",
+        "SVG generation",
+        "AI benchmarking",
+        "Simon Willison",
+        "model comparison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides empirical data, specific pricing comparisons, and a visual benchmark grid to evaluate model performance.",
+      "pacer_reason_zh": "該文章提供了實證數據、具體的價格比較以及視覺化基準測試網格，用以評估模型性能。"
+    },
     {
       "id": "7d96f70a83fdd83a",
       "title": "Cancer Capital: VC didn’t use to work like this",

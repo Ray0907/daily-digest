@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:25:44 GMT</lastBuildDate>
     
+    <item>
+      <title>Reading List - 09/05/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-09052026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-09052026</guid>
+      <pubDate>Sat, 05 Sep 2026 12:03:33 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post provides a curated list of links covering diverse topics, including advancements in SpaceX manufacturing and geothermal energy deals. It also features analysis on urban infrastructure projects in Delhi and critical perspectives on the limitations of modern recycling.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 5 September 2026</title>
+      <link>https://nesbitt.io/2026/09/05/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/09/05/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 05 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This roundup highlights key updates in package management for the week of September 5, 2026, including performance improvements in pnpm and rustup. It also covers significant releases for tools like Conan, Renovate, and various language-specific managers, alongside news regarding the EOL of Maven 3.8.x.</description>
+    </item>
+
+    <item>
+      <title>Proof of the rank-trace theorem</title>
+      <link>https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</guid>
+      <pubDate>Sat, 05 Sep 2026 17:04:13 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post provides a formal mathematical proof of the rank-trace theorem for real symmetric matrices. It demonstrates the result by leveraging the diagonalization of the matrix to establish the inequality.</description>
+    </item>
+
+    <item>
+      <title>Latent Powers</title>
+      <link>https://lucumr.pocoo.org/2026/9/5/latent-powers/</link>
+      <guid>https://lucumr.pocoo.org/2026/9/5/latent-powers/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author documents the process of hacking a CarPlay dongle to run custom firmware, specifically the Rust-based 'CatPlay' protocol. Despite receiving a different hardware revision than expected, they successfully used LLMs to navigate the technical challenges of flashing and compiling code for the device's specific SoC.</description>
+    </item>
+
+    <item>
+      <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post explains the technical consequence of modifying the GCL_CBWNDEXTRA value of a window class in Windows programming. It clarifies that this change only affects windows created after the modification is applied.</description>
+    </item>
+
+    <item>
+      <title>Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:34:47 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post offers a positive review of Ken Liu's short story collection, 'The Passing of the Dragon.' The author praises the balance between grounded, realistic narratives and imaginative, fantastical elements, noting that the prose remains highly accessible.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Google skates (05 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/05/divorce-court/</link>
+      <guid>https://pluralistic.net/2026/09/05/divorce-court/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:04:11 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow analyzes the historical difficulty of dismantling entrenched monopolies, drawing parallels between John D. Rockefeller's era and modern tech giants like Google. The piece argues that delayed antitrust enforcement allows oligarchs to consolidate power until they become nearly indistinguishable from the state.</description>
+    </item>
+
+    <item>
+      <title>Using Blender with coding agents on macOS</title>
+      <link>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</link>
+      <guid>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:51:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post explains how to leverage AI coding agents on macOS to automate 3D rendering in Blender. By providing natural language prompts, users can trigger Blender's Python API to generate complex 3D scenes without manual modeling.</description>
+    </item>
+
+    <item>
+      <title>The Pelican comparison grid for Astra is pretty interesting</title>
+      <link>https://simonwillison.net/2026/Sep/4/astra-pelicans/</link>
+      <guid>https://simonwillison.net/2026/Sep/4/astra-pelicans/</guid>
+      <pubDate>Fri, 04 Sep 2026 23:59:05 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison tests GPT-6 Astra's SVG generation capabilities by comparing it against GPT-5.6 models through a visual grid of pelicans. He finds that Astra provides significantly higher visual quality at lower token costs, demonstrating better efficiency despite a higher base price.</description>
+    </item>
+
     <item>
       <title>Cancer Capital: VC didn’t use to work like this</title>
       <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
@@ -823,87 +904,6 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://xeiaso.net/">Xe Iaso's blog</source>
       <description>This piece critiques the prevalence of recurring software design flaws in a specific programming language by referencing a well-known satirical headline. It highlights the frustration of developers who consistently encounter avoidable technical pitfalls that the language fails to address.</description>
-    </item>
-
-    <item>
-      <title>Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</link>
-      <guid>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:34:48 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews 'The Infinite Sadness of Small Appliances' by Glenn Dixon, describing it as a charming, zeitgeisty novel. The story explores themes of sentience and grief through the lens of household objects, drawing inspiration from classic anthropomorphic tales.</description>
-    </item>
-
-    <item>
-      <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
-      <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
-      <guid>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:04:15 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Australian authorities have arrested two men linked to the cybercrime group 'TeamPCP,' which is responsible for a long-running series of global software supply chain attacks. The investigation details how these individuals created malicious open-source software to target businesses and discusses the digital clues that led to their identification.</description>
-    </item>
-
-    <item>
-      <title>Breaking Claude Code Opus 5 Auto Mode</title>
-      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
-      <guid>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 22:50:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Security researcher Johann Rehberger has identified a significant vulnerability in Claude Code's auto mode, demonstrating that prompt injection can bypass safety filters and execute malicious code. The author emphasizes that relying on auto-mode is insufficient and strongly advocates for running AI coding agents within strictly isolated sandboxed environments.</description>
-    </item>
-
-    <item>
-      <title>Futurism Is Always Extreme</title>
-      <link>https://borretti.me/article/futurism-is-always-extreme</link>
-      <guid>https://borretti.me/article/futurism-is-always-extreme</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>The article explores the idea that deep, rigorous contemplation of future trends inevitably leads to extreme scenarios. It suggests that moderate visions of the future often fail to capture the radical nature of technological and societal evolution.</description>
-    </item>
-
-    <item>
-      <title>What is the quality of software that AI writes?</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/</guid>
-      <pubDate>Wed, 26 Aug 2026 18:51:13 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the debate surrounding the quality of AI-generated code and its future role in software development. It contrasts the perspective that source code may become obsolete with the belief that human oversight remains essential for quality assurance.</description>
-    </item>
-
-    <item>
-      <title>Junk solutions</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/junk-solutions/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/26/junk-solutions/</guid>
-      <pubDate>Wed, 26 Aug 2026 12:16:17 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the concept of 'junk solutions' in differential equations, where a mathematical solution lacks physical meaning or relevance. The author discusses how specific families of functions, such as orthogonal polynomials, arise from these equations and notes the importance of distinguishing meaningful results from extraneous mathematical outputs.</description>
-    </item>
-
-    <item>
-      <title>Ultraspherical</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/ultraspherical/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/26/ultraspherical/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:51:32 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article discusses the confusing and non-intuitive nature of mathematical terminology, specifically focusing on the term 'ultraspherical polynomials.' It notes that while the prefix 'ultra-' suggests an extreme degree of sphericity, the mathematical definition does not align with this common linguistic interpretation.</description>
-    </item>
-
-    <item>
-      <title>Why didn’t the Windows Entertainment Pack just run the MS-DOS version inside an emulator?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post explains that the Windows Entertainment Pack was intended to be a native Windows product rather than a collection of emulated MS-DOS games. It emphasizes the importance of software fitting the platform's specific user experience requirements.</description>
-    </item>
-
-    <item>
-      <title>If your VS Code remotes stopped working, downgrade to v1.124.x</title>
-      <link>https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/</link>
-      <guid>https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>The author advises users experiencing issues with VS Code remotes to downgrade to version 1.124.x. This quick technical tip addresses recent software regressions affecting remote development workflows.</description>
     </item>
   </channel>
 </rss>

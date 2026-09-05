@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "704e0f8cfb341440",
+      "title": "Proof of the rank-trace theorem",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/",
+      "pacer": "C",
+      "keywords": [
+        "rank-trace theorem",
+        "linear algebra",
+        "mathematical proof",
+        "symmetric matrix",
+        "matrix theory"
+      ],
+      "published": "2026-09-05T17:04:13.000Z"
+    },
+    {
+      "id": "1a7ad445c458128b",
+      "title": "Using Blender with coding agents on macOS",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "pacer": "P",
+      "keywords": [
+        "Blender",
+        "AI",
+        "macOS",
+        "coding agents",
+        "Python API"
+      ],
+      "published": "2026-09-05T15:51:09.000Z"
+    },
+    {
+      "id": "feb00cf31bee5460",
+      "title": "Reading List - 09/05/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-09052026",
+      "pacer": "R",
+      "keywords": [
+        "SpaceX",
+        "Energy",
+        "Infrastructure",
+        "Recycling",
+        "Technology"
+      ],
+      "published": "2026-09-05T12:03:33.000Z"
+    },
+    {
+      "id": "7e614ed2df250a21",
+      "title": "Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/",
+      "pacer": "C",
+      "keywords": [
+        "Ken Liu",
+        "Book Review",
+        "Science Fiction",
+        "Short Stories",
+        "Literature"
+      ],
+      "published": "2026-09-05T11:34:47.000Z"
+    },
+    {
+      "id": "605325c087f76106",
+      "title": "This Week in Package Management: 5 September 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/05/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "software releases",
+        "pnpm",
+        "rustup",
+        "devops"
+      ],
+      "published": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "id": "d12689d79314d98a",
+      "title": "Pluralistic: Google skates (05 Sep 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/09/05/divorce-court/",
+      "pacer": "C",
+      "keywords": [
+        "antitrust",
+        "monopoly",
+        "history",
+        "tech policy",
+        "oligarchy"
+      ],
+      "published": "2026-09-05T08:04:11.000Z"
+    },
+    {
+      "id": "6586b479854de53a",
+      "title": "Latent Powers",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
+      "pacer": "P",
+      "keywords": [
+        "CarPlay",
+        "firmware",
+        "reverse-engineering",
+        "Rust",
+        "CatPlay"
+      ],
+      "published": "2026-09-05T00:00:00.000Z"
+    },
+    {
+      "id": "1cfa4c2a073edcd8",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "pacer": "E",
+      "keywords": [
+        "GPT-6 Astra",
+        "SVG generation",
+        "AI benchmarking",
+        "Simon Willison",
+        "model comparison"
+      ],
+      "published": "2026-09-04T23:59:05.000Z"
+    },
+    {
       "id": "41ed31a9044de949",
       "title": "OpenAI's rogue agents were caught communicating via public wikis",
       "source": "Simon Willison's Weblog",
@@ -47,6 +175,22 @@
         "computational mathematics"
       ],
       "published": "2026-09-04T14:16:16.000Z"
+    },
+    {
+      "id": "4c6d52d6b311c07f",
+      "title": "What happens if you change a window class’s GCL_CB­WND­EXTRA?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675",
+      "pacer": "C",
+      "keywords": [
+        "Windows API",
+        "GCL_CBWNDEXTRA",
+        "Programming",
+        "Win32",
+        "Development"
+      ],
+      "published": "2026-09-04T14:00:00.000Z"
     },
     {
       "id": "179a57df66cad684",
@@ -351,38 +495,6 @@
         "Corporate Strategy"
       ],
       "published": "2026-09-03T03:24:54.000Z"
-    },
-    {
-      "id": "18c439efc6c9e049",
-      "title": "llm-gemini 0.34",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "pacer": "R",
-      "keywords": [
-        "llm-gemini",
-        "Gemini 3.8 Flash",
-        "Simon Willison",
-        "AI models",
-        "software update"
-      ],
-      "published": "2026-09-02T16:39:38.000Z"
-    },
-    {
-      "id": "2557b479477d51f3",
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "pacer": "R",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "System Prompts",
-        "LLM",
-        "Prompt Engineering"
-      ],
-      "published": "2026-09-02T14:16:42.000Z"
     },
     {
       "id": "8cb37681ceb7153e",
@@ -929,22 +1041,6 @@
       "published": "2026-08-29T12:03:07.000Z"
     },
     {
-      "id": "9a3b5705174be3cb",
-      "title": "A simple \"copy this code\" button in JavaScript",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/",
-      "pacer": "P",
-      "keywords": [
-        "JavaScript",
-        "Clipboard API",
-        "web development",
-        "code snippet",
-        "UI design"
-      ],
-      "published": "2026-08-29T11:34:49.000Z"
-    },
-    {
       "id": "b4fddcf6fcaad32a",
       "title": "This Week in Package Management: 29 August 2026",
       "source": "Andrew Nesbitt",
@@ -1007,38 +1103,6 @@
         "VCF Midwest"
       ],
       "published": "2026-08-28T15:00:00.000Z"
-    },
-    {
-      "id": "f5b72c71b06af439",
-      "title": "Making the unnecessary easier",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "automation",
-        "productivity",
-        "efficiency",
-        "philosophy"
-      ],
-      "published": "2026-08-28T14:35:36.000Z"
-    },
-    {
-      "id": "2523135abe50b37a",
-      "title": "On forcing all derived classes to implement a specific non-virtual method, part 2",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654",
-      "pacer": "P",
-      "keywords": [
-        "C++",
-        "Programming",
-        "Inheritance",
-        "Software Development",
-        "Coding Techniques"
-      ],
-      "published": "2026-08-28T14:00:00.000Z"
     },
     {
       "id": "f00d4bb69ae432e4",
@@ -1167,22 +1231,6 @@
         "Dutch legislation"
       ],
       "published": "2026-08-27T10:20:00.000Z"
-    },
-    {
-      "id": "84522eabfe1802b7",
-      "title": "Bazel Module Versions Aren’t SemVer",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html",
-      "pacer": "C",
-      "keywords": [
-        "Bazel",
-        "SemVer",
-        "versioning",
-        "package management",
-        "bzlmod"
-      ],
-      "published": "2026-08-27T10:00:00.000Z"
     },
     {
       "id": "3bb0b2d60303cbc9",
@@ -1455,22 +1503,6 @@
         "hot-swapping"
       ],
       "published": "2026-08-24T22:00:00.000Z"
-    },
-    {
-      "id": "091bb079ee74e575",
-      "title": "Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/24/elbows-really-up/",
-      "pacer": "C",
-      "keywords": [
-        "trade policy",
-        "US-Canada relations",
-        "tariffs",
-        "NAFTA",
-        "CUSMA"
-      ],
-      "published": "2026-08-24T21:29:38.000Z"
     },
     {
       "id": "caed6a0b28132789",
@@ -1967,22 +1999,6 @@
         "async"
       ],
       "published": "2026-08-15T16:41:00.000Z"
-    },
-    {
-      "id": "a2f8fa6219fb39a3",
-      "title": "Reading List — 08/15/2026",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-08152026",
-      "pacer": "R",
-      "keywords": [
-        "real estate",
-        "energy",
-        "business",
-        "The Boring Company",
-        "market trends"
-      ],
-      "published": "2026-08-15T12:02:38.000Z"
     },
     {
       "id": "9f09be02135bd573",
@@ -3081,22 +3097,6 @@
         "SGI",
         "film technology",
         "user interface"
-      ],
-      "published": "2026-07-13T00:00:00.000Z"
-    },
-    {
-      "id": "1fe3ab610cc5e155",
-      "title": "The Tower Keeps Rising",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "pacer": "A",
-      "keywords": [
-        "software engineering",
-        "coordination",
-        "Tower of Babel",
-        "AI",
-        "team communication"
       ],
       "published": "2026-07-13T00:00:00.000Z"
     },
