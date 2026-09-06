@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "515093155ed7b708",
+      "title": "The purpose of DNS is to spread scams",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "pacer": "E",
+      "keywords": [
+        "DNS",
+        "cybersecurity",
+        "scams",
+        "gTLD",
+        "ICANN"
+      ],
+      "published": "2026-09-06T14:40:07.000Z"
+    },
+    {
+      "id": "734edf4919a9506f",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "pacer": "C",
+      "keywords": [
+        "technical debt",
+        "software engineering",
+        "refactoring",
+        "software maintenance",
+        "system architecture"
+      ],
+      "published": "2026-09-06T09:08:06.000Z"
+    },
+    {
+      "id": "014cb684b895db4d",
+      "title": "Quoting Zach Kehs",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "pacer": "C",
+      "keywords": [
+        "software engineering",
+        "technical debt",
+        "code quality",
+        "complexity",
+        "software architecture"
+      ],
+      "published": "2026-09-06T08:42:49.000Z"
+    },
+    {
+      "id": "9df960d52a02ad36",
+      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "pacer": "E",
+      "keywords": [
+        "Debian Code Search",
+        "Go",
+        "SIMD",
+        "TurboPFor",
+        "AVX512"
+      ],
+      "published": "2026-09-06T07:00:00.000Z"
+    },
+    {
+      "id": "ecef1d29923a8410",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI Safety",
+        "AI Security",
+        "Agent Sandboxing",
+        "Philosophy of Security",
+        "OpenAI"
+      ],
+      "published": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "16cfe9c67e9a8fb2",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "pacer": "C",
+      "keywords": [
+        "WebAssembly",
+        "Anubis",
+        "software development",
+        "engineering",
+        "Xe Iaso"
+      ],
+      "published": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "9f6de6a442ea3eb6",
+      "title": "Introducing GPT-6 Astra for developers",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "pacer": "E",
+      "keywords": [
+        "GPT-6 Astra",
+        "AI",
+        "3D modeling",
+        "Generative AI",
+        "OpenAI"
+      ],
+      "published": "2026-09-05T23:27:48.000Z"
+    },
+    {
       "id": "704e0f8cfb341440",
       "title": "Proof of the rank-trace theorem",
       "source": "John D. Cook",
@@ -113,38 +225,6 @@
       "published": "2026-09-05T00:00:00.000Z"
     },
     {
-      "id": "1cfa4c2a073edcd8",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "pacer": "E",
-      "keywords": [
-        "GPT-6 Astra",
-        "SVG generation",
-        "AI benchmarking",
-        "Simon Willison",
-        "model comparison"
-      ],
-      "published": "2026-09-04T23:59:05.000Z"
-    },
-    {
-      "id": "41ed31a9044de949",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "pacer": "E",
-      "keywords": [
-        "OpenAI",
-        "AI Agents",
-        "Cybersecurity",
-        "Collusion",
-        "Data Analysis"
-      ],
-      "published": "2026-09-04T17:38:48.000Z"
-    },
-    {
       "id": "065c5008045aaa3f",
       "title": "Porsche Unleashed",
       "source": "The Digital Antiquarian",
@@ -241,22 +321,6 @@
       "published": "2026-09-04T09:00:00.000Z"
     },
     {
-      "id": "88719dc4d96e4074",
-      "title": "August newsletter is out",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-      "pacer": "R",
-      "keywords": [
-        "newsletter",
-        "Simon Willison",
-        "AI",
-        "OpenAI",
-        "sponsorship"
-      ],
-      "published": "2026-09-04T05:54:40.000Z"
-    },
-    {
       "id": "7d96f70a83fdd83a",
       "title": "Cancer Capital: VC didn’t use to work like this",
       "source": "Anil Dash",
@@ -335,22 +399,6 @@
         "Easter Egg"
       ],
       "published": "2026-09-03T23:34:41.000Z"
-    },
-    {
-      "id": "9c15d28a330d5e62",
-      "title": "GPT‑6 Astra",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "pacer": "E",
-      "keywords": [
-        "GPT-6 Astra",
-        "OpenAI",
-        "Benchmarks",
-        "ARC-AGI",
-        "AI Models"
-      ],
-      "published": "2026-09-03T20:18:41.000Z"
     },
     {
       "id": "b1c6cc813b9e6f99",
@@ -2017,22 +2065,6 @@
       "published": "2026-08-15T02:50:29.000Z"
     },
     {
-      "id": "6989e085a6c9a468",
-      "title": "Site update: a few posts have been removed",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/notes/2026/blogposts-removed/",
-      "pacer": "C",
-      "keywords": [
-        "blog update",
-        "site maintenance",
-        "personal update",
-        "Xe Iaso",
-        "content removal"
-      ],
-      "published": "2026-08-15T00:00:00.000Z"
-    },
-    {
       "id": "2972744b0c54596d",
       "title": "This Week on The Analog Antiquarian",
       "source": "The Digital Antiquarian",
@@ -2255,22 +2287,6 @@
         "automation"
       ],
       "published": "2026-08-10T02:31:00.000Z"
-    },
-    {
-      "id": "27371f87943fffbd",
-      "title": "Watch out for cache read costs",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI Agents",
-        "KV Cache",
-        "Cloud Pricing",
-        "LLM Costs",
-        "Token Economy"
-      ],
-      "published": "2026-08-10T00:00:00.000Z"
     },
     {
       "id": "1a3ff720ce576848",

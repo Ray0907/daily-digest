@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 05 Sep 2026 23:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:18:32 GMT</lastBuildDate>
     
+    <item>
+      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
+      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
+      <guid>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 GMT</pubDate>
+      <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
+      <description>The author successfully removed the last cgo dependency from Debian Code Search by leveraging Go's new SIMD support to implement the TurboPFor integer compression algorithm. This optimization utilizes the AVX512 instruction set to maintain high performance for decoding inverted indexes, enabling efficient searches across large volumes of source code.</description>
+    </item>
+
+    <item>
+      <title>Have the frontier labs mixed up AI safety and security?</title>
+      <link>https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The author argues that recent AI agent sandbox escapes at leading labs represent a fundamental philosophical misunderstanding of security. Rather than mere technical flaws, these incidents highlight a dangerous assumption that security controls only need to be partially effective.</description>
+    </item>
+
+    <item>
+      <title>It took a year to ship WebAssembly in Anubis</title>
+      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
+      <guid>https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post chronicles the technical journey and development challenges encountered while implementing WebAssembly support in the Anubis project. It highlights the year-long effort required to ship the feature and navigate the complexities of integration.</description>
+    </item>
+
+    <item>
+      <title>The purpose of DNS is to spread scams</title>
+      <link>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</link>
+      <guid>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
+      <pubDate>Sun, 06 Sep 2026 14:40:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a growing cybersecurity crisis, citing data that suggests up to 20% of newly registered gTLDs are used for scams. It points to a report indicating that millions of new domains are added to blocklists shortly after registration, reflecting systemic failures in DNS management.</description>
+    </item>
+
+    <item>
+      <title>There's No Limit to How Bad Code Can Get</title>
+      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
+      <guid>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
+      <pubDate>Sun, 06 Sep 2026 09:08:06 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison argues that rewriting software from scratch to address technical debt is rarely successful. He explains that the dual-system trap often leaves teams maintaining an aging codebase while struggling to recreate the undocumented functionality of the original system.</description>
+    </item>
+
+    <item>
+      <title>Quoting Zach Kehs</title>
+      <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
+      <guid>https://simonwillison.net/2026/Sep/6/zach-kehs/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:42:49 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post reflects on the infinite potential for software to deteriorate over time. Unlike physical structures constrained by gravity, software can always accumulate more layers of complexity and inefficiency.</description>
+    </item>
+
+    <item>
+      <title>Introducing GPT-6 Astra for developers</title>
+      <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
+      <guid>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</guid>
+      <pubDate>Sat, 05 Sep 2026 23:27:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights the capabilities of GPT-6 Astra, specifically focusing on its advanced proficiency in generating complex 3D models and rendering detailed imagery. It showcases an example of the model's creative output, such as a pelican riding a bicycle, to demonstrate its attention to detail.</description>
+    </item>
+
     <item>
       <title>Reading List - 09/05/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-09052026</link>
@@ -841,69 +904,6 @@
       <pubDate>Thu, 27 Aug 2026 19:00:00 GMT</pubDate>
       <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
       <description>Jim Nielsen explores alternative ways to visualize his 14-year archive of blog posts beyond the standard reverse-chronological list. He successfully developed and implemented a calendar view that highlights his posting patterns over time, providing a new way to interact with his writing history.</description>
-    </item>
-
-    <item>
-      <title>Can Self-Hosting Be Simple?</title>
-      <link>https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</link>
-      <guid>https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</guid>
-      <pubDate>Thu, 27 Aug 2026 03:11:28 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores a simplified approach to self-hosting by using a budget-friendly mini-PC for basic tasks like Plex and Syncthing. The author argues for a 'less-is-more' philosophy, testing a modest hardware configuration to demonstrate that high-end specs aren't always necessary for personal servers.</description>
-    </item>
-
-    <item>
-      <title>How the Strategic Petroleum Reserve Works</title>
-      <link>https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</link>
-      <guid>https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</guid>
-      <pubDate>Thu, 27 Aug 2026 12:03:58 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explains the function and scale of the US Strategic Petroleum Reserve, the world's largest crude oil storage facility. It details how the reserve operates as a strategic resource for national energy security.</description>
-    </item>
-
-    <item>
-      <title>Sandboxing coding agents</title>
-      <link>https://micahflee.com/sandboxing-coding-agents/</link>
-      <guid>https://micahflee.com/sandboxing-coding-agents/</guid>
-      <pubDate>Thu, 27 Aug 2026 19:58:21 GMT</pubDate>
-      <source url="https://micahflee.com/">micahflee</source>
-      <description>This post provides a technical guide on setting up isolated sandboxes for coding agents to ensure secure development. The author demonstrates how to restrict an agent's access to a single, isolated GitHub repository to minimize potential risks.</description>
-    </item>
-
-    <item>
-      <title>Bazel Module Versions Aren’t SemVer</title>
-      <link>https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</link>
-      <guid>https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</guid>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>The article explains why the packages.ecosyste.ms index misidentifies the latest Bazel module versions due to an overly strict SemVer parser. It highlights that Bazel uses a more flexible versioning format to accommodate various ecosystems and details the specific sorting logic used in Bazel's module system.</description>
-    </item>
-
-    <item>
-      <title>Second solutions</title>
-      <link>https://www.johndcook.com/blog/2026/08/27/second-solutions/</link>
-      <guid>https://www.johndcook.com/blog/2026/08/27/second-solutions/</guid>
-      <pubDate>Thu, 27 Aug 2026 13:14:35 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores families of polynomials that satisfy both a differential equation and a three-term recurrence relation. It specifically examines 'second solutions' to these differential equations, noting their varying behavior in relation to the variable x and the degree index n.</description>
-    </item>
-
-    <item>
-      <title>In the product end game, every change carries significant risk, episode 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</guid>
-      <pubDate>Wed, 26 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the inherent risks associated with making changes to software products during the final stages of their development cycle. It emphasizes that even the smallest modifications can lead to unforeseen consequences.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This piece critiques the prevalence of recurring software design flaws in a specific programming language by referencing a well-known satirical headline. It highlights the frustration of developers who consistently encounter avoidable technical pitfalls that the language fails to address.</description>
     </item>
   </channel>
 </rss>

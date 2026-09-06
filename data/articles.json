@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-05T23:25:43.915Z",
+  "last_updated": "2026-09-06T23:18:32.165Z",
   "articles": [
+    {
+      "id": "9df960d52a02ad36",
+      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+      "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "source": "Michael Stapelbergs Website",
+      "source_url": "https://michael.stapelberg.ch/",
+      "published": "2026-09-06T07:00:00.000Z",
+      "summary_en": "The author successfully removed the last cgo dependency from Debian Code Search by leveraging Go's new SIMD support to implement the TurboPFor integer compression algorithm. This optimization utilizes the AVX512 instruction set to maintain high performance for decoding inverted indexes, enabling efficient searches across large volumes of source code.",
+      "summary_zh": "作者透過利用 Go 語言的新版 SIMD 支援，成功移除了 Debian Code Search 中最後一個 cgo 依賴，並藉由 AVX512 指令集實現了高效的 TurboPFor 整數壓縮編碼。此優化確保了搜尋引擎在處理大規模原始碼時，依然能保持高效的索引解碼速度。",
+      "keywords": [
+        "Debian Code Search",
+        "Go",
+        "SIMD",
+        "TurboPFor",
+        "AVX512"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on performance benchmarks and technical evidence for improving a specific system component through new implementation techniques.",
+      "pacer_reason_zh": "文章重點在於效能基準測試，以及透過新實作技術改進特定系統組件的技術證據。"
+    },
+    {
+      "id": "ecef1d29923a8410",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-09-06T00:00:00.000Z",
+      "summary_en": "The author argues that recent AI agent sandbox escapes at leading labs represent a fundamental philosophical misunderstanding of security. Rather than mere technical flaws, these incidents highlight a dangerous assumption that security controls only need to be partially effective.",
+      "summary_zh": "作者認為近期頂尖實驗室的 AI Agent 沙盒逃脫事件，反映出在安全性處理上存在根本性的哲學誤區。這些事件並非單純的技術失敗，而是錯誤地將安全性控制視為僅需在大多數時候有效即可。",
+      "keywords": [
+        "AI Safety",
+        "AI Security",
+        "Agent Sandboxing",
+        "Philosophy of Security",
+        "OpenAI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article analyzes the conceptual framework and philosophical assumptions underlying AI safety and security practices.",
+      "pacer_reason_zh": "本文分析了 AI 安全與防護實踐背後的概念架構與哲學假設。"
+    },
+    {
+      "id": "16cfe9c67e9a8fb2",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-09-06T00:00:00.000Z",
+      "summary_en": "This post chronicles the technical journey and development challenges encountered while implementing WebAssembly support in the Anubis project. It highlights the year-long effort required to ship the feature and navigate the complexities of integration.",
+      "summary_zh": "本文紀錄了在 Anubis 專案中實作 WebAssembly 支援的技術歷程與開發挑戰。內容強調了歷時一年的開發過程，以及在整合過程中克服的各種複雜問題。",
+      "keywords": [
+        "WebAssembly",
+        "Anubis",
+        "software development",
+        "engineering",
+        "Xe Iaso"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the high-level narrative and conceptual overview of a software development process rather than specific code steps or raw data.",
+      "pacer_reason_zh": "文章重點在於軟體開發過程的概念性概述與敘事，而非具體的程式步驟或原始數據。"
+    },
+    {
+      "id": "515093155ed7b708",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-06T14:40:07.000Z",
+      "summary_en": "This post highlights a growing cybersecurity crisis, citing data that suggests up to 20% of newly registered gTLDs are used for scams. It points to a report indicating that millions of new domains are added to blocklists shortly after registration, reflecting systemic failures in DNS management.",
+      "summary_zh": "本文指出網路安全面臨嚴重危機，數據顯示高達 20% 的新註冊域名被用於詐騙。報告指出每年有數百萬個新域名在註冊後迅速被列入封鎖名單，反映出 DNS 管理系統存在嚴重的安全漏洞。",
+      "keywords": [
+        "DNS",
+        "cybersecurity",
+        "scams",
+        "gTLD",
+        "ICANN"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article relies on statistical data and specific reports from Interisle to highlight the prevalence of DNS abuse.",
+      "pacer_reason_zh": "本文引用了 Interisle 的報告及具體的統計數據，以突顯 DNS 濫用問題的嚴重性。"
+    },
+    {
+      "id": "734edf4919a9506f",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-06T09:08:06.000Z",
+      "summary_en": "Simon Willison argues that rewriting software from scratch to address technical debt is rarely successful. He explains that the dual-system trap often leaves teams maintaining an aging codebase while struggling to recreate the undocumented functionality of the original system.",
+      "summary_zh": "Simon Willison 指出，為了處理技術債而將程式碼重寫往往難以成功。他說明這種做法常導致開發團隊必須同時維護舊系統，同時又難以完整複製舊系統中那些缺乏文檔的複雜功能，最終陷入雙系統並存的困境。",
+      "keywords": [
+        "technical debt",
+        "software engineering",
+        "refactoring",
+        "software maintenance",
+        "system architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why complete system rewrites often fail due to organizational and technical complexities.",
+      "pacer_reason_zh": "這篇文章從概念層面解釋了為何徹底重寫系統的策略，往往會因為組織與技術複雜度而面臨失敗。"
+    },
+    {
+      "id": "014cb684b895db4d",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-06T08:42:49.000Z",
+      "summary_en": "This post reflects on the infinite potential for software to deteriorate over time. Unlike physical structures constrained by gravity, software can always accumulate more layers of complexity and inefficiency.",
+      "summary_zh": "這篇文章探討了軟體品質隨時間推移而不斷惡化的無限可能。與受物理限制的建築物不同，軟體永遠可以透過增加冗餘層或降低效能來變得更糟。",
+      "keywords": [
+        "software engineering",
+        "technical debt",
+        "code quality",
+        "complexity",
+        "software architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a conceptual perspective on the nature of software decay and technical debt.",
+      "pacer_reason_zh": "本文提出了一個關於軟體衰退與技術債本質的概念性觀點。"
+    },
+    {
+      "id": "9f6de6a442ea3eb6",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-05T23:27:48.000Z",
+      "summary_en": "This post highlights the capabilities of GPT-6 Astra, specifically focusing on its advanced proficiency in generating complex 3D models and rendering detailed imagery. It showcases an example of the model's creative output, such as a pelican riding a bicycle, to demonstrate its attention to detail.",
+      "summary_zh": "這篇文章介紹了 GPT-6 Astra 的功能，重點展示其在生成複雜 3D 模型與細緻圖像方面的卓越表現。文中透過一隻騎自行車的鵜鶘作為範例，凸顯該模型對細節的精確掌握。",
+      "keywords": [
+        "GPT-6 Astra",
+        "AI",
+        "3D modeling",
+        "Generative AI",
+        "OpenAI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as an evidence-based showcase of the model's capabilities through specific examples and visual demonstrations.",
+      "pacer_reason_zh": "本文透過具體範例與視覺展示，驗證並呈現了該模型的功能表現，屬於實證類內容。"
+    },
     {
       "id": "feb00cf31bee5460",
       "title": "Reading List - 09/05/2026",
