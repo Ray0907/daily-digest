@@ -1,52 +1,212 @@
 {
   "nodes": [
     {
-      "id": "515093155ed7b708",
-      "title": "The purpose of DNS is to spread scams",
+      "id": "3be173151d389ad1",
+      "title": "I found an old interview mine (2017) ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude",
+      "pacer": "C",
+      "keywords": [
+        "software engineering",
+        "communication",
+        "soft skills",
+        "career reflection",
+        "coding"
+      ],
+      "published": "2026-09-07T23:20:02.000Z"
+    },
+    {
+      "id": "dc08bf6b0254e5b1",
+      "title": "Creepy crawlies",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
       "pacer": "E",
       "keywords": [
+        "crawling",
+        "git",
+        "linux",
+        "scraping",
+        "web-infrastructure"
+      ],
+      "published": "2026-09-07T23:08:58.000Z"
+    },
+    {
+      "id": "c63c028916285fc2",
+      "title": "Quoting Jakub Pachocki",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "pacer": "C",
+      "keywords": [
+        "OpenAI",
+        "AI safety",
+        "Jakub Pachocki",
+        "AI ethics",
+        "AI defense"
+      ],
+      "published": "2026-09-07T22:26:25.000Z"
+    },
+    {
+      "id": "2d65c56abc510bb8",
+      "title": "Clickable whitespace ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/clickable-whitespace",
+      "pacer": "C",
+      "keywords": [
+        "ethics",
+        "web development",
+        "dark patterns",
+        "attribution",
+        "user experience"
+      ],
+      "published": "2026-09-07T21:53:00.000Z"
+    },
+    {
+      "id": "a6689d2d3d3c6b02",
+      "title": "Ngram error rate",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/",
+      "pacer": "C",
+      "keywords": [
+        "grok",
+        "etymology",
+        "Robert A. Heinlein",
+        "Stranger in a Strange Land",
+        "linguistics"
+      ],
+      "published": "2026-09-07T18:35:45.000Z"
+    },
+    {
+      "id": "656c3dbba15803a8",
+      "title": "Video compressor",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "pacer": "P",
+      "keywords": [
+        "ffmpeg",
+        "webassembly",
+        "video compression",
+        "claude code",
+        "web tools"
+      ],
+      "published": "2026-09-07T18:29:07.000Z"
+    },
+    {
+      "id": "960f861c32aa6064",
+      "title": "Mercator ↔ Equal Earth",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "pacer": "P",
+      "keywords": [
+        "Mercator",
+        "Equal Earth",
+        "D3",
+        "GPT-6 Astra",
+        "geospatial"
+      ],
+      "published": "2026-09-07T16:24:16.000Z"
+    },
+    {
+      "id": "ed31a48bef502d5a",
+      "title": "The Education of a Doomer",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "url": "https://borretti.me/article/the-education-of-a-doomer",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Doomer",
+        "Philosophy",
+        "Technology"
+      ],
+      "published": "2026-09-07T14:00:00.000Z"
+    },
+    {
+      "id": "3f9de68863a5f0a5",
+      "title": "Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/09/06/hotels-california/",
+      "pacer": "C",
+      "keywords": [
+        "monopoly",
+        "antitrust",
+        "neoliberalism",
+        "corporate power",
+        "Chicago School"
+      ],
+      "published": "2026-09-07T05:29:25.000Z"
+    },
+    {
+      "id": "20cafbfa4822157b",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "Recursive Self-Improvement",
+        "coding agents",
+        "AI research",
+        "LLMs"
+      ],
+      "published": "2026-09-06T23:57:40.000Z"
+    },
+    {
+      "id": "8806f9b2a5487ff9",
+      "title": "Weekly Update 520: The Unscripted Edition",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-520/",
+      "pacer": "P",
+      "keywords": [
+        "YouTube",
+        "automation",
+        "workflow",
+        "thumbnail",
+        "productivity"
+      ],
+      "published": "2026-09-06T23:31:36.000Z"
+    },
+    {
+      "id": "e2d71a8fe61c81d2",
+      "title": "Kunsten '92 praatje: De AI Trein",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/kunsten92-paradiso-2026/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Kunsten '92",
+        "Bert Hubert",
+        "Technology",
+        "Cross-disciplinary"
+      ],
+      "published": "2026-09-06T11:37:00.000Z"
+    },
+    {
+      "id": "4bb1bdc0475a80d2",
+      "title": "The purpose of DNS is to spread scams",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "pacer": "C",
+      "keywords": [
         "DNS",
-        "cybersecurity",
-        "scams",
-        "gTLD",
-        "ICANN"
+        "scam",
+        "phishing",
+        "domain names",
+        "cybersecurity"
       ],
-      "published": "2026-09-06T14:40:07.000Z"
-    },
-    {
-      "id": "734edf4919a9506f",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "pacer": "C",
-      "keywords": [
-        "technical debt",
-        "software engineering",
-        "refactoring",
-        "software maintenance",
-        "system architecture"
-      ],
-      "published": "2026-09-06T09:08:06.000Z"
-    },
-    {
-      "id": "014cb684b895db4d",
-      "title": "Quoting Zach Kehs",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "pacer": "C",
-      "keywords": [
-        "software engineering",
-        "technical debt",
-        "code quality",
-        "complexity",
-        "software architecture"
-      ],
-      "published": "2026-09-06T08:42:49.000Z"
+      "published": "2026-09-06T11:34:20.000Z"
     },
     {
       "id": "9df960d52a02ad36",
@@ -97,22 +257,6 @@
       "published": "2026-09-06T00:00:00.000Z"
     },
     {
-      "id": "9f6de6a442ea3eb6",
-      "title": "Introducing GPT-6 Astra for developers",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "pacer": "E",
-      "keywords": [
-        "GPT-6 Astra",
-        "AI",
-        "3D modeling",
-        "Generative AI",
-        "OpenAI"
-      ],
-      "published": "2026-09-05T23:27:48.000Z"
-    },
-    {
       "id": "704e0f8cfb341440",
       "title": "Proof of the rank-trace theorem",
       "source": "John D. Cook",
@@ -127,22 +271,6 @@
         "matrix theory"
       ],
       "published": "2026-09-05T17:04:13.000Z"
-    },
-    {
-      "id": "1a7ad445c458128b",
-      "title": "Using Blender with coding agents on macOS",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "pacer": "P",
-      "keywords": [
-        "Blender",
-        "AI",
-        "macOS",
-        "coding agents",
-        "Python API"
-      ],
-      "published": "2026-09-05T15:51:09.000Z"
     },
     {
       "id": "feb00cf31bee5460",
@@ -753,22 +881,6 @@
       "published": "2026-09-01T09:00:00.000Z"
     },
     {
-      "id": "a8df9ddabffc9582",
-      "title": "Patented application of linear algebra",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/",
-      "pacer": "C",
-      "keywords": [
-        "patent",
-        "linear algebra",
-        "GSI Technology",
-        "John D. Cook",
-        "intellectual property"
-      ],
-      "published": "2026-08-31T23:26:12.000Z"
-    },
-    {
       "id": "d8de645fd91769f5",
       "title": "Claude comment detection",
       "source": "Entropic Thoughts",
@@ -991,22 +1103,6 @@
         "AI Safety"
       ],
       "published": "2026-08-30T14:00:00.000Z"
-    },
-    {
-      "id": "956605a603c6554b",
-      "title": "ActivityBot is the recipient of an NLnet grant!",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/",
-      "pacer": "E",
-      "keywords": [
-        "ActivityBot",
-        "NLnet",
-        "ActivityPub",
-        "Fediverse",
-        "Grants"
-      ],
-      "published": "2026-08-30T11:34:55.000Z"
     },
     {
       "id": "dcc1dc4ea24d215b",
@@ -1311,22 +1407,6 @@
         "technical debt"
       ],
       "published": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "649be24b46e001bf",
-      "title": "Pluralistic: The age of disinvention (25 Aug 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/08/25/gammamax/",
-      "pacer": "C",
-      "keywords": [
-        "VCR",
-        "Betamax",
-        "copyright law",
-        "disinvention",
-        "Cory Doctorow"
-      ],
-      "published": "2026-08-26T03:21:38.000Z"
     },
     {
       "id": "d8cf354b01c3490d",
@@ -1953,38 +2033,6 @@
       "published": "2026-08-18T15:02:15.000Z"
     },
     {
-      "id": "5d774b9bbdf07599",
-      "title": "Weekly Update 517: Cyber Ransoms",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-517/",
-      "pacer": "C",
-      "keywords": [
-        "ransomware",
-        "extortion",
-        "cybercrime",
-        "money laundering",
-        "security"
-      ],
-      "published": "2026-08-18T03:44:58.000Z"
-    },
-    {
-      "id": "a910541c08348759",
-      "title": "AI Alignment as a Thought-Terminating Cliche",
-      "source": "Fernando Borretti",
-      "source_url": "https://borretti.me/",
-      "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-      "pacer": "C",
-      "keywords": [
-        "AI alignment",
-        "rhetoric",
-        "critical thinking",
-        "AI safety",
-        "sociotechnical"
-      ],
-      "published": "2026-08-18T00:00:00.000Z"
-    },
-    {
       "id": "8539464d41907090",
       "title": "Snakes and Ladders",
       "source": "Entropic Thoughts",
@@ -2223,38 +2271,6 @@
         "learning"
       ],
       "published": "2026-08-10T22:00:00.000Z"
-    },
-    {
-      "id": "e94da33ca64a1325",
-      "title": "Failing after Success ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/blog/failing-after-success",
-      "pacer": "C",
-      "keywords": [
-        "Stack Overflow",
-        "AI",
-        "Software Development",
-        "Product Strategy",
-        "Tech Industry"
-      ],
-      "published": "2026-08-10T07:00:00.000Z"
-    },
-    {
-      "id": "8042a949e10b41bd",
-      "title": "When the Aliens Finally Came to Visit ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/when-the-aliens-came-to-visit",
-      "pacer": "A",
-      "keywords": [
-        "reCAPTCHA",
-        "UX",
-        "Web Security",
-        "Humor",
-        "Technology"
-      ],
-      "published": "2026-08-10T04:26:49.000Z"
     },
     {
       "id": "3112b1e05ce245f5",
@@ -2813,22 +2829,6 @@
         "Machine learning"
       ],
       "published": "2026-07-23T16:15:00.000Z"
-    },
-    {
-      "id": "319e116e31d76c8c",
-      "title": "Met het Oog op Morgen: Uitgebroken AI?",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "security",
-        "podcast",
-        "Bert Hubert",
-        "cybersecurity"
-      ],
-      "published": "2026-07-23T09:00:00.000Z"
     },
     {
       "id": "75d128608d7db14c",
