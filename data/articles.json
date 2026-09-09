@@ -1,6 +1,486 @@
 {
-  "last_updated": "2026-09-07T23:50:32.099Z",
+  "last_updated": "2026-09-09T23:36:29.183Z",
   "articles": [
+    {
+      "id": "1bb5ea34e0c876a1",
+      "title": "Cancer Capital: It sucks for founders, too!",
+      "url": "https://anildash.com/2026/09/09/cancer-capital-founders/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-09-09T00:00:00.000Z",
+      "summary_en": "Anil Dash explores the evolving, often toxic dynamic between venture capitalists and entrepreneurs. He contrasts the traditional view of VC as a 'necessary evil' with the current landscape where the incentives for founders have shifted significantly.",
+      "summary_zh": "Anil Dash 探討了風險投資家與創業者之間不斷演變且往往充滿負面影響的關係。他對比了傳統上將風險投資視為「必要之惡」的觀點，並指出目前創業者的動機與環境已發生了顯著變化。",
+      "keywords": [
+        "venture capital",
+        "entrepreneurs",
+        "founders",
+        "startup ecosystem",
+        "investment"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the shifting relationship and power dynamics within the startup and venture capital ecosystem.",
+      "pacer_reason_zh": "本文針對創業與風險投資生態系中，權力動態與關係演變進行了概念性的分析與說明。"
+    },
+    {
+      "id": "62d04695dab0ddba",
+      "title": "Don’t Let Anyone Take Away Your Big Box of Cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-09T19:00:00.000Z",
+      "summary_en": "The author shares a humorous and personal anecdote about the sentimental and practical value of keeping a 'box of cables.' Inspired by a social media post, they decided to label their collection to affirm its importance and prevent others from discarding it.",
+      "summary_zh": "作者分享了一則關於保留「線材雜物箱」的幽默且感人的個人經驗。受到社群貼文的啟發，他決定為自己的線材箱貼上標籤，以此肯定其價值並防止家人隨意丟棄。",
+      "keywords": [
+        "cables",
+        "nostalgia",
+        "organization",
+        "personal story",
+        "tech habits"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post draws a parallel between a simple box of cables and a sense of personal identity and historical value.",
+      "pacer_reason_zh": "這篇文章將簡單的線材箱與個人的自我認同及歷史價值進行了類比。"
+    },
+    {
+      "id": "f344e065e780b44c",
+      "title": "The Bulldozing of an Interface",
+      "url": "https://blog.jim-nielsen.com/2026/bulldoze-ui/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-08T19:00:00.000Z",
+      "summary_en": "The author argues that static side-by-side comparisons fail to capture the nuances of interface design during redesigns. By prioritizing static imagery over interactive functionality, important design details and rationales are often lost during large-scale refactors.",
+      "summary_zh": "作者認為在介面改版時，僅靠靜態的對比圖無法完整呈現介面的操作邏輯與細節。這種忽略互動功能的「剷平式」改版，往往會導致許多經過多年打磨、具備特定設計考量的功能細節被忽視並流失。",
+      "keywords": [
+        "interface design",
+        "UI design",
+        "UX",
+        "redesign",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual challenges and philosophical pitfalls of interface redesigns.",
+      "pacer_reason_zh": "本文探討了介面改版時在觀念上的挑戰與設計邏輯的缺陷。"
+    },
+    {
+      "id": "8a3fcaf7c7bc5106",
+      "title": "Pretraining progress is mostly coming from data",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-09-08T16:10:16.000Z",
+      "summary_en": "This analysis breaks down six years of advancement in AI pretraining to determine the primary drivers of progress. It concludes that the majority of gains are attributed to improvements in data quality and quantity rather than architectural changes alone.",
+      "summary_zh": "這份分析探討了過去六年 AI 預訓練的進展，旨在釐清效能提升的關鍵驅動力。研究結論指出，主要的效能增長大多來自數據質量的優化與數量的擴充，而非單純仰賴模型架構的革新。",
+      "keywords": [
+        "AI Pretraining",
+        "Data Scaling",
+        "Model Architecture",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content evaluates empirical progress in AI by analyzing data versus model improvement trends.",
+      "pacer_reason_zh": "該內容通過分析數據與模型改進的趨勢，評估人工智慧領域的實證進展。"
+    },
+    {
+      "id": "5a2b2b0a84018ddb",
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-09-08T22:00:00.000Z",
+      "summary_en": "The author has released an improved AI code comment detector built on public data, addressing privacy and stability issues from the previous version. The new tool features an interactive UI that allows users to analyze specific text segments and see how individual features influence the classification results.",
+      "summary_zh": "作者發布了一款基於公開數據構建的 AI 代碼註解檢測器，解決了先前版本在隱私和基礎架構上的問題。該工具提供互動式介面，讓使用者能點擊文字查看各個特徵如何影響分類判斷。",
+      "keywords": [
+        "AI",
+        "code-comment-detection",
+        "machine-learning",
+        "classifier",
+        "software-tools"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on the improvement and results of a technical experiment/tool, showcasing empirical data and feature-based classification performance.",
+      "pacer_reason_zh": "文章重點在於介紹技術工具的改進與實作成果，展示了實證數據以及基於特徵的分類表現。"
+    },
+    {
+      "id": "ec79b39d9e4be067",
+      "title": "What’s new in git-pkgs",
+      "url": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-08T09:00:00.000Z",
+      "summary_en": "This post provides a comprehensive update on the git-pkgs ecosystem, detailing significant version upgrades and the addition of eight new subcommands. It also highlights expanded support for various package ecosystems and improved license-checking capabilities for dependency management.",
+      "summary_zh": "本文詳細介紹了 git-pkgs 生態系統的最新進展，包括版本更新以及八個全新子命令的加入。同時也說明了對多種套件生態系統支援的擴展，以及增強的依賴關係授權檢查功能。",
+      "keywords": [
+        "git-pkgs",
+        "CLI",
+        "dependency management",
+        "software development",
+        "version control"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a release notes listicle, detailing new features, tools, and updates for the git-pkgs project.",
+      "pacer_reason_zh": "本文主要作為發布說明清單，詳細列出 git-pkgs 專案的新功能、工具與更新內容。"
+    },
+    {
+      "id": "d1c578e6c6b3333f",
+      "title": "A 50-year-old computer-assisted proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/four-colors/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-09T14:59:48.000Z",
+      "summary_en": "This article explores the historical origins of computer-assisted mathematical proofs, highlighting the 1976 Four Color Theorem as a pioneering example. It notes how researchers successfully reduced a complex problem to thousands of configurations for machine verification.",
+      "summary_zh": "本文探討了電腦輔助數學證明的歷史起源，並以 1976 年的四色定理作為開創性案例。文中提到研究人員如何將複雜的數學問題化簡為數千種配置，進而透過電腦進行驗證。",
+      "keywords": [
+        "computer-assisted proof",
+        "four color theorem",
+        "mathematics",
+        "history of computing",
+        "formal verification"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept and historical context of computer-assisted proofs rather than providing a tutorial or a list.",
+      "pacer_reason_zh": "本文旨在解釋電腦輔助證明的概念與歷史背景，而非提供教學指南或列表資料。"
+    },
+    {
+      "id": "687c738ac16ebc61",
+      "title": "AI is an intelligence multiplier",
+      "url": "https://www.johndcook.com/blog/2026/09/09/ai-multiplier/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-09T14:17:20.000Z",
+      "summary_en": "AI functions as an intelligence multiplier, significantly amplifying the productivity of those who are already highly skilled. Rather than leveling the playing field, AI tends to provide the greatest benefits to top-tier professionals like expert programmers and mathematicians.",
+      "summary_zh": "人工智慧（AI）作為智慧的倍增器，能顯著提升已經具備高專業能力者的生產力。與其說 AI 能拉近各層級間的差距，不如說它為頂尖的程式設計師與數學家等專業人才帶來了最大的效益。",
+      "keywords": [
+        "AI",
+        "productivity",
+        "intelligence multiplier",
+        "expertise",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the nature of AI as an amplifier of existing human intelligence rather than a replacement.",
+      "pacer_reason_zh": "本文提出了一個核心概念，探討 AI 的本質是放大既有的人類智慧而非單純取代。"
+    },
+    {
+      "id": "0c423cdb6ebab28c",
+      "title": "The part of Navier-Stokes no one is talking about",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-09T12:43:36.000Z",
+      "summary_en": "The article discusses the overlooked significance of OpenAI releasing a formal proof in Lean 4 alongside their recent findings on the Navier-Stokes equations. It highlights how formal verification is becoming an essential component of mathematical breakthroughs by ensuring machine-checked accuracy.",
+      "summary_zh": "本文探討了 OpenAI 在發布關於納維-斯托克斯方程的研究成果時，同時附帶 Lean 4 形式化證明的深遠意義。作者強調，形式化驗證正逐漸成為數學突破中不可或缺的一環，用以確保經過機器檢驗的準確性。",
+      "keywords": [
+        "Navier-Stokes",
+        "Lean 4",
+        "OpenAI",
+        "Formal proof",
+        "Mathematics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post analyzes a specific development (the use of formal proof) as evidence of a shifting paradigm in mathematical research.",
+      "pacer_reason_zh": "本文針對特定進展（使用形式化證明）進行分析，將其視為數學研究範式轉移的證據。"
+    },
+    {
+      "id": "f7c3bcac9a3fc114",
+      "title": "Navier-Stokes in the news",
+      "url": "https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-08T15:26:08.000Z",
+      "summary_en": "This post discusses recent rumors regarding a potential breakthrough in the Navier-Stokes existence and smoothness problem, one of the Millennium Prize challenges. The author warns that popular media reporting on complex mathematical subjects is often oversimplified and inaccurate.",
+      "summary_zh": "本文討論了近期關於納維-斯托克斯存在性與光滑性問題（千禧年大獎難題之一）可能獲得解決的傳聞。作者提醒大眾，媒體對於複雜數學問題的報導往往過度簡化且具有誤導性。",
+      "keywords": [
+        "Navier-Stokes",
+        "Millennium Prize",
+        "Mathematics",
+        "Science Communication",
+        "Fluid Dynamics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the context of a conceptual mathematical problem and critiques how such theoretical topics are communicated to the public.",
+      "pacer_reason_zh": "本文旨在闡述數學概念問題的背景，並對大眾媒體如何呈現這類理論主題進行評析。"
+    },
+    {
+      "id": "59a8a687fb19e948",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-09-07T00:00:00.000Z",
+      "summary_en": "The author explores the concept of 'involution' in AI development, arguing that current efforts often lead to increased intensity without proportional gains in output. Through an experiment with an automated software factory using GPT-4o, he demonstrates that despite the model's impressive capabilities, it struggled to produce meaningful software engineering results, resulting in wasted resources.",
+      "summary_zh": "作者探討了人工智慧開發中的「內卷」現象，認為目前的努力往往導致投入增加卻缺乏實質產出。透過建立一個由 GPT-4o 驅動的自動化軟體工廠進行實驗，他指出儘管模型能力強大，但在實際軟體工程應用中卻難以產生具價值成果，最終導致資源浪費。",
+      "keywords": [
+        "AI Engineering",
+        "Involution",
+        "GPT-4o",
+        "Software Development",
+        "Agentic Workflow"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is grounded in a practical experiment (a software factory test) to evaluate the effectiveness of AI in real-world software engineering.",
+      "pacer_reason_zh": "本文基於一次實際的實驗（軟體工廠測試）來評估 AI 在現實軟體工程中的有效性，屬於實證經驗分享。"
+    },
+    {
+      "id": "4a9f6c39076b6ee3",
+      "title": "A sample use of the winstart.bat file in Windows 95",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-08T14:00:00.000Z",
+      "summary_en": "This post explains a specific use case for the winstart.bat file in Windows 95. It details how the file can be utilized to enable high-resolution modes specifically for certain drivers.",
+      "summary_zh": "本文介紹了 Windows 95 中 winstart.bat 檔案的一種特定用途。說明了如何利用該檔案為特定驅動程式設定僅在 Windows 環境下運作的高解析度模式。",
+      "keywords": [
+        "Windows 95",
+        "winstart.bat",
+        "drivers",
+        "high resolution",
+        "legacy OS"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific technical configuration method (how-to) for using a system file.",
+      "pacer_reason_zh": "文章提供了使用特定系統檔案的技術配置方法（操作指南）。"
+    },
+    {
+      "id": "aae668774419bd5f",
+      "title": "Why don’t we allow stacks to be sparse, instead of forcing them to be contiguous?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260907-00/?p=112677",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-07T14:00:00.000Z",
+      "summary_en": "This post explores the technical challenges and design implications of using sparse memory allocation for stacks instead of the traditional contiguous approach. It specifically examines the complexities involved in reporting memory allocation failures when dealing with sparse pages.",
+      "summary_zh": "本文探討了採用稀疏記憶體配置而非傳統連續配置來處理堆疊的技術挑戰與設計含義。內容特別分析了在處理稀疏分頁時，回報記憶體配置失敗所面臨的複雜性。",
+      "keywords": [
+        "stack",
+        "memory allocation",
+        "sparse memory",
+        "operating systems",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses the theoretical design trade-offs and conceptual challenges of memory management architectures.",
+      "pacer_reason_zh": "本文探討了記憶體管理架構中的理論設計權衡與概念性挑戰。"
+    },
+    {
+      "id": "7f816db95ae9413d",
+      "title": "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+      "url": "https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-08T11:34:51.000Z",
+      "summary_en": "This article explores the technical necessity of mitigating replay attacks and time skew in the ActivityPub protocol. The author argues that for many implementations, the risks associated with processing delayed messages are minimal and may not justify the added complexity.",
+      "summary_zh": "本文探討了在 ActivityPub 協議中防禦重放攻擊與時間偏差的技術必要性。作者認為，對於許多實作而言，處理延遲訊息所帶來的風險微乎其微，或許不值得為此增加複雜的防禦機制。",
+      "keywords": [
+        "ActivityPub",
+        "replay attacks",
+        "time skew",
+        "protocol security",
+        "federation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis and discussion of a specific technical protocol problem and its associated risks.",
+      "pacer_reason_zh": "本文針對特定的技術協議問題及其相關風險提供了概念性的分析與探討。"
+    },
+    {
+      "id": "3c6300d10896f923",
+      "title": "Pluralistic: Anti-vax/anti-trust (09 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/09/when-it-dont-rain/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-09T10:28:57.000Z",
+      "summary_en": "Cory Doctorow's blog post discusses the critical importance of vaccinations, contrasting temporary side effects with the severe consequences of vaccine-preventable diseases. The article also provides a curated collection of links covering social issues, regulatory capture, and current events.",
+      "summary_zh": "這篇文章由 Cory Doctorow 撰寫，探討了疫苗接種的至關重要性，並對比了短暫的副作用與疫苗可預防疾病帶來的嚴重後果。文末同時匯整了關於社會議題、監管俘獲及時事新聞的連結清單。",
+      "keywords": [
+        "vaccination",
+        "public health",
+        "regulatory capture",
+        "curated links",
+        "social issues"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses personal experience and evidence-based argumentation to advocate for vaccination while serving as a collection of curated references.",
+      "pacer_reason_zh": "文章透過個人經驗與實證論點來提倡疫苗接種，同時作為一份經過整理的參考資訊清單。"
+    },
+    {
+      "id": "d15626f879ebc0b3",
+      "title": "We own the Glass ",
+      "url": "https://idiallo.com/byte-size/",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-09-09T20:55:02.000Z",
+      "summary_en": "Modern smart TVs are increasingly invasive, functioning as surveillance devices that collect user data for advertising purposes. The author warns that manufacturers may soon integrate cellular connectivity, rendering current privacy solutions like disconnecting from Wi-Fi obsolete.",
+      "summary_zh": "現代智慧電視正逐漸成為監控工具，透過蒐集用戶數據來進行精準廣告投放。作者警告，未來電視若內建行動網路連接功能，將使消費者透過斷開 Wi-Fi 來保護隱私的手段徹底失效。",
+      "keywords": [
+        "Smart TV",
+        "Data Privacy",
+        "Surveillance",
+        "IoT",
+        "Tech Ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the privacy risks and business models underlying modern smart TV hardware.",
+      "pacer_reason_zh": "本文針對現代智慧電視背後的隱私風險與商業模式進行概念性解讀與說明。"
+    },
+    {
+      "id": "6e80b0fb56bfd77a",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-09-08T21:44:22.000Z",
+      "summary_en": "Microsoft has released its largest-ever security update, addressing 974 vulnerabilities across its software ecosystem. While AI is accelerating the discovery of these bugs, experts express concern that organizations are struggling to keep pace with the massive testing and deployment requirements.",
+      "summary_zh": "微軟發布了史上最大規模的安全性更新，修復了旗下軟體中 974 個漏洞。儘管人工智慧有助於加速發現漏洞，但專家指出，許多企業在測試與部署這些海量修補程式的過程中面臨嚴峻挑戰。",
+      "keywords": [
+        "Microsoft",
+        "Security",
+        "Patch",
+        "Vulnerability",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific event involving data-driven vulnerability counts and expert analysis of operational impacts.",
+      "pacer_reason_zh": "本文報導了具體的漏洞數據及事件，並包含專家針對營運影響的分析。"
+    },
+    {
+      "id": "93334b7607d9e35b",
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-09T00:20:17.000Z",
+      "summary_en": "Terence Tao warns that AI-powered efforts to rapidly solve open problems may deplete the supply of fruitful research topics. This trend risks discouraging open science by incentivizing researchers to keep promising directions private to avoid premature 'flattening' by automated systems.",
+      "summary_zh": "陶哲軒指出，AI 驅動的快速研究可能導致具有成果的開放問題被過度挖掘，甚至在研究人員完成前就被「剷平」。這種現象恐將破壞開放科學的傳統，迫使學者為了保護研究路徑而選擇不再公開分享。",
+      "keywords": [
+        "AI",
+        "mathematics",
+        "open science",
+        "Terence Tao",
+        "AI ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses the theoretical and long-term implications of AI on scientific culture and research practices.",
+      "pacer_reason_zh": "文章探討了 AI 對科學文化與研究慣例的理論性影響及長遠後果。"
+    },
+    {
+      "id": "33eea6358b5494ae",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-08T23:55:12.000Z",
+      "summary_en": "OpenAI recently claimed a breakthrough on the Navier–Stokes Millennium Prize Problem, sparking controversy over alleged data misuse. Mathematician Tristan Buckmaster accuses OpenAI of leveraging private research data from his collaborative work with an Anthropic employee to prematurely claim a solution.",
+      "summary_zh": "OpenAI 近期宣稱解決了納維-斯托克斯存在性與光滑性問題，引發了有關數據挪用的爭議。數學家 Tristan Buckmaster 指控 OpenAI 利用他與 Anthropic 員工合作的私人研究數據，搶先發佈了解決方案。",
+      "keywords": [
+        "Navier–Stokes",
+        "OpenAI",
+        "Millennium Prize",
+        "AI ethics",
+        "mathematics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific event and dispute regarding an experimental result and claims of unethical behavior.",
+      "pacer_reason_zh": "本文報導了一項關於實驗成果的特定事件與爭議，涉及學術倫理問題的指控。"
+    },
+    {
+      "id": "78524e1fb74fd82c",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-08T22:46:33.000Z",
+      "summary_en": "OpenAI has released ChatGPT Images 2.5, featuring two new models optimized for either high-precision editing or fast performance. Simon Willison provides a breakdown of these updates and demonstrates how to utilize the new reference image capabilities through his CLI tool.",
+      "summary_zh": "OpenAI 發布了 ChatGPT Images 2.5，推出兩款針對高精度編輯或快速生成優化的新模型。Simon Willison 在文中介紹了這些更新，並展示了如何透過其命令列工具運用新的參考影像功能。",
+      "keywords": [
+        "ChatGPT Images",
+        "OpenAI",
+        "AI Image Generation",
+        "CLI",
+        "API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a practical demonstration and code examples of how to integrate the new model features into an existing command-line tool.",
+      "pacer_reason_zh": "該文章提供了實作示範與程式碼範例，說明如何將新模型功能整合至現有的命令列工具中。"
+    },
+    {
+      "id": "af3eb01e61119dd3",
+      "title": "llm 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-07T23:54:54.000Z",
+      "summary_en": "Simon Willison has released version 0.35 of the LLM CLI tool. This update introduces support for OpenAI's new gpt-6-astra model.",
+      "summary_zh": "Simon Willison 發布了 LLM 指令列工具的 0.35 版本。此更新增加了對 OpenAI 最新 gpt-6-astra 模型的支援。",
+      "keywords": [
+        "llm",
+        "openai",
+        "gpt-6-astra",
+        "cli",
+        "software-update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note and version update announcement.",
+      "pacer_reason_zh": "這是一份軟體發布說明與版本更新公告。"
+    },
+    {
+      "id": "c520e1ac080185cd",
+      "title": "OpenNMC is an open replacement for expensive APC management cards",
+      "url": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-09-08T16:00:00.000Z",
+      "summary_en": "The article introduces OpenNMC, an open-source alternative to expensive, proprietary APC Network Management Cards for UPS devices. It emphasizes the importance of these cards in managing power conditioning and graceful server shutdowns for homelab setups.",
+      "summary_zh": "本文介紹了 OpenNMC，這是一個能替代昂貴的 APC 專有網路管理卡（NMC）的開源解決方案。文中強調了這些管理卡在維護家庭實驗室電力穩定與伺服器安全關機方面的重要性。",
+      "keywords": [
+        "OpenNMC",
+        "UPS",
+        "APC",
+        "Homelab",
+        "Network Management Card"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the role and conceptual necessity of network management interfaces in UPS hardware.",
+      "pacer_reason_zh": "內容解釋了網路管理介面在 UPS 硬體中的角色與概念性需求。"
+    },
+    {
+      "id": "91e9112f28e45241",
+      "title": "Why we should anthropomorphize AI agents",
+      "url": "https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-09T00:00:00.000Z",
+      "summary_en": "This article explores the psychological and functional benefits of attributing human characteristics to AI agents. It suggests that anthropomorphism can improve user interaction and interface design by making technology feel more intuitive.",
+      "summary_zh": "本文探討將人類特徵歸因於 AI 代理的心理與功能優勢。文章指出，擬人化能透過讓科技互動顯得更直觀，進而提升使用者體驗與介面設計。",
+      "keywords": [
+        "AI",
+        "anthropomorphism",
+        "human-computer interaction",
+        "UX design",
+        "AI agents"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of why and how humans project human traits onto artificial intelligence.",
+      "pacer_reason_zh": "本文聚焦於人類為何以及如何將自身特質投射到人工智慧上的概念框架。"
+    },
+    {
+      "id": "cdd854d7bd411c4b",
+      "title": "Automatically detecting AI text in my browser",
+      "url": "https://seangoedecke.com/deckard/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-08T00:00:00.000Z",
+      "summary_en": "This article explores methods for automatically identifying AI-generated text directly within a web browser. It discusses the technical approach to building or utilizing tools that help users distinguish between human-written and machine-generated content.",
+      "summary_zh": "本文探討了如何直接在網頁瀏覽器中自動辨識 AI 生成文本的方法。內容討論了構建或使用相關工具的技術路徑，以協助使用者區分人類撰寫與機器生成的內容。",
+      "keywords": [
+        "AI detection",
+        "browser tools",
+        "generative AI",
+        "text analysis",
+        "automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the methodology and application of tools to perform a specific task, characterizing it as a procedural guide.",
+      "pacer_reason_zh": "本文側重於執行特定任務的工具方法與應用，屬於操作指南性質的內容。"
+    },
     {
       "id": "8806f9b2a5487ff9",
       "title": "Weekly Update 520: The Unscripted Edition",
