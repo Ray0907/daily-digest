@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-09-09T23:36:29.183Z",
+  "last_updated": "2026-09-10T23:29:27.089Z",
   "articles": [
+    {
+      "id": "6d5c7fe7a1960f82",
+      "title": "An Ode to Links",
+      "url": "https://blog.jim-nielsen.com/2026/ode-to-links/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-10T19:00:00.000Z",
+      "summary_en": "This post explores the duality of links as both technical constructs and fundamental cultural tools. It highlights how links facilitate human connection and information sharing, acting as the connective tissue that defines the modern web.",
+      "summary_zh": "這篇文章探討了連結作為技術構造與文化工具的雙重本質。作者強調連結不僅是網路的基礎，更是促成人類交流與資訊共享的核心紐帶。",
+      "keywords": [
+        "URL",
+        "web",
+        "links",
+        "culture",
+        "internet"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of the significance and nature of links in digital culture.",
+      "pacer_reason_zh": "本文屬於概念性內容，探討了網頁連結在數位文化中的意義與本質。"
+    },
+    {
+      "id": "22d3fcaf924e8314",
+      "title": "The Other Road",
+      "url": "https://borretti.me/article/the-other-road",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-09-09T14:00:00.000Z",
+      "summary_en": "This piece explores the philosophical and practical divergence between a transhumanist future, focused on human augmentation, and an AGI-centric future. It contrasts these two trajectories to highlight how different technological paths redefine the evolution of intelligence and humanity.",
+      "summary_zh": "本文探討了超人類主義與通用人工智慧（AGI）未來之間在哲學與實踐上的分歧。文章透過對比這兩條技術路徑，分析了它們如何重塑人類與智慧演化的定義。",
+      "keywords": [
+        "transhumanism",
+        "AGI",
+        "future",
+        "technology",
+        "humanity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration comparing two theoretical visions of the future.",
+      "pacer_reason_zh": "本文屬於概念性探討，對兩種未來的理論願景進行了比較與分析。"
+    },
+    {
+      "id": "8f052566922991cc",
+      "title": "Automattic Minus Matt",
+      "url": "https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-09-10T05:29:30.000Z",
+      "summary_en": "WordPress founder Matt Mullenweg has been placed on an involuntary leave of absence as CEO of Automattic by the company's board. This development follows a period of intense conflict between Mullenweg, the open-source project, and WP Engine, which has strained the community and the leadership structure.",
+      "summary_zh": "WordPress 創辦人 Matt Mullenweg 因與 WP Engine 的長期衝突導致公司治理風波，遭 Automattic 董事會暫停其執行長職務並強制休假。此事件標誌著該開源專案及其背後公司面臨重大領導層危機。",
+      "keywords": [
+        "Matt Mullenweg",
+        "Automattic",
+        "WordPress",
+        "WP Engine",
+        "Tech News"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and explanation of the ongoing power struggle and organizational conflict involving WordPress leadership.",
+      "pacer_reason_zh": "本文針對 WordPress 領導層的權力鬥爭與組織衝突提供了概念性的概述與背景分析。"
+    },
+    {
+      "id": "bff4375ee6041894",
+      "title": "Package Manager Trends",
+      "url": "https://nesbitt.io/2026/09/10/package-manager-trends.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-10T10:00:00.000Z",
+      "summary_en": "This post summarizes 16 weeks of trends in package management, highlighting a shift toward defensive security features. Key developments include the widespread adoption of release-age cooldowns, default blocking of install scripts, and integrated malware scanning.",
+      "summary_zh": "這篇文章總結了過去 16 週套件管理工具的趨勢，強調了產業轉向防禦性安全功能的發展。主要變革包括廣泛採用版本發布冷卻機制、預設封鎖安裝指令碼以及整合惡意軟體掃描功能。",
+      "keywords": [
+        "package management",
+        "cybersecurity",
+        "software supply chain",
+        "DevOps",
+        "trends"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a summary and evidence-based analysis of industry trends derived from aggregated data and specific tool updates.",
+      "pacer_reason_zh": "本文基於匯總數據與具體工具更新，對產業趨勢進行了總結與實證分析。"
+    },
+    {
+      "id": "198b0cd352f0f7dd",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "source": "Terrible Software",
+      "source_url": "https://terriblesoftware.org/",
+      "published": "2026-09-10T14:18:06.000Z",
+      "summary_en": "The article explores how AI-generated content creates a facade of completeness while lacking actual comprehension. This uncertainty negatively impacts professional trust, delays review processes, and burdens team members with cleanup work.",
+      "summary_zh": "這篇文章探討了 AI 生成的內容如何在缺乏實質理解的情況下呈現出完成的假象。這種不確定性侵蝕了職場信任，拖慢了審核流程，並增加了同事處理後續工作的負擔。",
+      "keywords": [
+        "AI",
+        "trust",
+        "productivity",
+        "collaboration",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the societal and workplace impact of AI-generated content.",
+      "pacer_reason_zh": "本文對 AI 生成內容在職場及社會層面產生的影響進行了概念性分析。"
+    },
+    {
+      "id": "ea3fc4273f9ead2f",
+      "title": "Bayesian OCR",
+      "url": "https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-10T12:32:31.000Z",
+      "summary_en": "This article explains how Bayesian statistics can improve Optical Character Recognition (OCR) by resolving ambiguities between visually similar characters like the Greek beta and the German eszett. It demonstrates how incorporating prior probabilities allows a system to make more accurate character classifications.",
+      "summary_zh": "本文介紹了如何利用貝氏統計來改善光學字元辨識（OCR），以解決希臘字母 beta 與德文字母 eszett 等視覺相似字元間的識別困難。文中說明了將先驗機率納入考量，能有效提升字元分類的準確性。",
+      "keywords": [
+        "Bayesian statistics",
+        "OCR",
+        "pattern recognition",
+        "probability",
+        "character classification"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how Bayesian inference is applied to solve a specific problem in character recognition.",
+      "pacer_reason_zh": "本文針對貝氏推論如何應用於解決特定字元辨識問題，提供了概念性的解釋。"
+    },
+    {
+      "id": "7040bcc06f184be9",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-09T14:00:00.000Z",
+      "summary_en": "This post clarifies that the selection of initial user pictures in Windows XP was entirely random. It debunks the idea of a complex underlying algorithm for the default avatar assignment.",
+      "summary_zh": "本文澄清 Windows XP 在選擇初始使用者圖片時，其實完全是隨機決定的。文中破除了該預設頭像分配背後存在複雜演算法的迷思。",
+      "keywords": [
+        "Windows XP",
+        "User Picture",
+        "Algorithm",
+        "Randomness",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It provides a definitive explanation for a specific functional 'what is' question regarding software behavior.",
+      "pacer_reason_zh": "針對軟體行為提供了一個特定「是什麼」問題的明確解釋。"
+    },
+    {
+      "id": "9987b78bcdf7c956",
+      "title": "Put an AV test at the start of your slides",
+      "url": "https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-10T11:34:10.000Z",
+      "summary_en": "The author suggests including an 'AV test card' slide at the beginning of every presentation to quickly identify technical issues like aspect ratio or color problems. By using this proactive step, speakers can troubleshoot audio and visual setups before they begin their actual talk.",
+      "summary_zh": "作者建議在每份簡報的開頭加入一張「影音測試卡」，以便在演講開始前迅速確認長寬比、色彩等影音設備是否正常。這個主動的做法能幫助講者在正式開場前排除技術故障。",
+      "keywords": [
+        "presentation",
+        "AV setup",
+        "public speaking",
+        "troubleshooting",
+        "slides"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step recommendation for presenters to improve their technical setup.",
+      "pacer_reason_zh": "這篇文章針對簡報者提供了實用的操作建議，幫助其改善技術設備的設定流程。"
+    },
+    {
+      "id": "e43d375c46e69c7b",
+      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+      "url": "https://maurycyz.com/misc/domains/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-09-09T00:00:00.000Z",
+      "summary_en": "The article argues that phishing is not the user's fault, as modern web architectures and complex URL structures make it nearly impossible for non-technical users to distinguish legitimate login pages from scams. It suggests that organizations must prioritize using a single, recognizable root domain to restore the reliability of hostnames as security indicators.",
+      "summary_zh": "本文主張網路釣魚並非使用者過失，因為現代網頁架構與複雜的網址結構，讓一般使用者難以分辨合法登入頁面與詐騙連結。作者建議企業必須使用單一且具備識別度的根網域，以恢復網域作為安全性指標的可靠性。",
+      "keywords": [
+        "phishing",
+        "security",
+        "URL",
+        "web authentication",
+        "cybersecurity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual flaws in modern URL structures and authentication practices that make phishing successful.",
+      "pacer_reason_zh": "本文解釋了現代網址結構與驗證流程中導致網路釣魚成功的概念性缺陷。"
+    },
+    {
+      "id": "f498dec7f81a4f85",
+      "title": "Native is now the future of mobile at Shopify",
+      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-10T21:11:15.000Z",
+      "summary_en": "Shopify is shifting its mobile development strategy from React Native back to native Swift and Kotlin. The company cites advancements in AI as the primary driver, allowing developers to manage multiple codebases more efficiently and reducing the previous need for a cross-platform solution.",
+      "summary_zh": "Shopify 正將其行動開發策略從 React Native 轉回原生的 Swift 與 Kotlin。該公司指出人工智慧的進步是主要推動力，使得開發人員能更有效地管理多個程式碼庫，進而降低了過往對跨平台解決方案的需求。",
+      "keywords": [
+        "Shopify",
+        "React Native",
+        "Swift",
+        "Kotlin",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a business case study on a major industry shift, documenting Shopify's strategic change in technology stack and the rationale behind it.",
+      "pacer_reason_zh": "本文呈現了一個重大的產業案例分析，記錄了 Shopify 在技術架構上的策略轉變及其背後的決策原因。"
+    },
+    {
+      "id": "8bb8a5d2f8afb2a8",
+      "title": "Quoting Calif Research",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-10T00:56:41.000Z",
+      "summary_en": "Calif Research has demonstrated 'WeWorm,' a zero-click worm that spreads through WeChat calls on iOS and Android. The researchers highlight how AI significantly accelerated the discovery of the RCE exploit and the development of the worm, noting that such tasks that previously took months now require only days.",
+      "summary_zh": "Calif Research 展示了一款名為「WeWorm」的零點擊蠕蟲，可透過 iOS 與 Android 上的微信通話進行傳播。研究人員強調 AI 大幅加速了遠端代碼執行漏洞的挖掘與蠕蟲開發，原本需耗時數月的工作現在僅需數日即可完成。",
+      "keywords": [
+        "WeWorm",
+        "WeChat",
+        "AI security",
+        "RCE exploit",
+        "zero-click worm"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content reports on a specific security research case study demonstrating the efficacy of AI in cyber-exploits.",
+      "pacer_reason_zh": "內容報導了一項具體的資安研究案例，展示了 AI 在網路攻擊中的實際效能。"
+    },
+    {
+      "id": "46bc2da24ce54d4e",
+      "title": ".blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-09T23:58:32.000Z",
+      "summary_en": "Simon Willison showcases a new tool for viewing .blend files directly via URL. He demonstrates this by generating a themed Fabergé egg image with ChatGPT and using a GPT-6 Astra agent to automatically model it in Blender.",
+      "summary_zh": "Simon Willison 展示了一個可以直接透過 URL 查看 .blend 檔案的工具。他透過 ChatGPT 生成主題法貝熱彩蛋影像，並利用 GPT-6 Astra 代理程式將其自動建模為 Blender 檔案。",
+      "keywords": [
+        "Blender",
+        "GPT-6",
+        "AI modeling",
+        "3D design",
+        "web tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post focuses on the practical application of AI agents to create 3D models and provides a tool for viewing the resulting files.",
+      "pacer_reason_zh": "文章聚焦於 AI 代理程式在 3D 建模中的實作應用，並提供了一個查看產出檔案的工具。"
+    },
+    {
+      "id": "2f4eb8bbe8774d34",
+      "title": "They really do think AI might kill everyone",
+      "url": "https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-10T00:00:00.000Z",
+      "summary_en": "This article explores the growing discourse and serious concerns surrounding existential risks posed by advanced artificial intelligence. It examines the perspective that AI development could lead to catastrophic outcomes for humanity.",
+      "summary_zh": "本文探討了圍繞先進人工智慧所引發的存亡風險之相關論述與擔憂。文章深入分析了認為 AI 發展可能對人類造成災難性後果的觀點。",
+      "keywords": [
+        "AI safety",
+        "existential risk",
+        "artificial intelligence",
+        "AI ethics",
+        "future of technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a conceptual debate regarding the existential risks of AI.",
+      "pacer_reason_zh": "本文重點在於闡述關於人工智慧存亡風險的概念性辯論。"
+    },
     {
       "id": "1bb5ea34e0c876a1",
       "title": "Cancer Capital: It sucks for founders, too!",
