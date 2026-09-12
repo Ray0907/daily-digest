@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "eb1d15483d6f2a53",
+      "title": "California Brown Pelican",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "pacer": "C",
+      "keywords": [
+        "California Brown Pelican",
+        "Pacifica Pier",
+        "San Mateo County",
+        "wildlife",
+        "closure"
+      ],
+      "published": "2026-09-12T21:16:09.000Z"
+    },
+    {
+      "id": "b30b0408a14795de",
+      "title": "Quoting Paul Ford",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "software development",
+        "Paul Ford",
+        "generative AI",
+        "coding"
+      ],
+      "published": "2026-09-12T18:00:21.000Z"
+    },
+    {
+      "id": "5a4c40fc9e663155",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "pacer": "E",
+      "keywords": [
+        "Intel 8087",
+        "microcode",
+        "FSCALE",
+        "reverse engineering",
+        "computer architecture"
+      ],
+      "published": "2026-09-12T15:45:16.101Z"
+    },
+    {
+      "id": "d849300357d6c7ad",
+      "title": "Reading List — 09/12/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-09122026",
+      "pacer": "R",
+      "keywords": [
+        "Construction",
+        "Infrastructure",
+        "Sustainability",
+        "Permitting",
+        "Industry News"
+      ],
+      "published": "2026-09-12T12:32:46.000Z"
+    },
+    {
+      "id": "cbdf18d36a40df41",
+      "title": "ActivityPub - How to send an updated user profile to Mastodon and the Fediverse",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/",
+      "pacer": "P",
+      "keywords": [
+        "ActivityPub",
+        "Mastodon",
+        "Fediverse",
+        "API",
+        "Webhooks"
+      ],
+      "published": "2026-09-12T11:34:02.000Z"
+    },
+    {
+      "id": "9f2e5f47f246ff6d",
+      "title": "Pluralistic: LLMs are real, AI is fake (12 Sep 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "pacer": "C",
+      "keywords": [
+        "AI hype",
+        "LLMs",
+        "Cory Doctorow",
+        "corporate culture",
+        "technological skepticism"
+      ],
+      "published": "2026-09-12T11:14:10.000Z"
+    },
+    {
+      "id": "229c73d6f9f963a7",
+      "title": "This Week in Package Management: 12 September 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/12/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "pnpm",
+        "software engineering",
+        "dependency resolution",
+        "tech roundup"
+      ],
+      "published": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "id": "7b2efff004017f35",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "RubyGems",
+        "AI agents",
+        "cybersecurity",
+        "malicious attack"
+      ],
+      "published": "2026-09-12T00:42:25.000Z"
+    },
+    {
+      "id": "cde60e379a3ad691",
+      "title": "P(doom)",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "P(doom)",
+        "OpenAI",
+        "Anthropic",
+        "Artificial Intelligence Safety"
+      ],
+      "published": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "id": "cc9f97d567fb8be5",
+      "title": "Don't build tools for AI agents",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/dont-build-tools-for-ai-agents/",
+      "pacer": "C",
+      "keywords": [
+        "AI agents",
+        "software development",
+        "automation",
+        "tooling",
+        "user interface"
+      ],
+      "published": "2026-09-12T00:00:00.000Z"
+    },
+    {
       "id": "28569c3c31a0d771",
       "title": "So you want to use OpenRouter?",
       "source": "Simon Willison's Weblog",
@@ -65,22 +225,6 @@
       "published": "2026-09-11T17:47:11.000Z"
     },
     {
-      "id": "cffcc180737c911e",
-      "title": "Feeling sad about AI",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "generative-ai",
-        "software-engineering",
-        "career-development",
-        "llms"
-      ],
-      "published": "2026-09-11T17:28:37.000Z"
-    },
-    {
       "id": "7101efa9853f8ca9",
       "title": "AI researchers debate how close we are to recursive self-improvement",
       "source": "Dwarkesh Podcast",
@@ -95,22 +239,6 @@
         "future of AI"
       ],
       "published": "2026-09-11T16:28:11.000Z"
-    },
-    {
-      "id": "827d855fbddb5cbb",
-      "title": "Quoting huggingface.co/security.txt",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-      "pacer": "R",
-      "keywords": [
-        "Hugging Face",
-        "security.txt",
-        "AI agents",
-        "CyberGym",
-        "vulnerability research"
-      ],
-      "published": "2026-09-11T16:04:53.000Z"
     },
     {
       "id": "baba687a5f583bd4",
@@ -143,22 +271,6 @@
         "labor rights"
       ],
       "published": "2026-09-11T14:55:56.000Z"
-    },
-    {
-      "id": "f86330f6327ebf55",
-      "title": "Soft-deprecating re.match()",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
-      "pacer": "C",
-      "keywords": [
-        "Python",
-        "re.match",
-        "soft deprecation",
-        "regular expressions",
-        "programming"
-      ],
-      "published": "2026-09-11T14:47:57.000Z"
     },
     {
       "id": "8bd1124b49615731",
@@ -897,22 +1009,6 @@
       "published": "2026-09-05T12:03:33.000Z"
     },
     {
-      "id": "7e614ed2df250a21",
-      "title": "Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/",
-      "pacer": "C",
-      "keywords": [
-        "Ken Liu",
-        "Book Review",
-        "Science Fiction",
-        "Short Stories",
-        "Literature"
-      ],
-      "published": "2026-09-05T11:34:47.000Z"
-    },
-    {
       "id": "605325c087f76106",
       "title": "This Week in Package Management: 5 September 2026",
       "source": "Andrew Nesbitt",
@@ -1007,22 +1103,6 @@
         "Restoration"
       ],
       "published": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "id": "ed863db1322f9b33",
-      "title": "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/09/04/cheating-at-fraud/",
-      "pacer": "C",
-      "keywords": [
-        "Amazon",
-        "Enshittification",
-        "Cory Doctorow",
-        "Logistics",
-        "Business Ethics"
-      ],
-      "published": "2026-09-04T09:41:25.000Z"
     },
     {
       "id": "617bd71ee218d3ac",
@@ -1217,22 +1297,6 @@
       "published": "2026-09-02T00:00:00.000Z"
     },
     {
-      "id": "88b76ba8be714f34",
-      "title": "How to protect yourself from workslop",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/how-to-protect-yourself-from-workslop/",
-      "pacer": "P",
-      "keywords": [
-        "workslop",
-        "productivity",
-        "focus",
-        "automation",
-        "time management"
-      ],
-      "published": "2026-09-02T00:00:00.000Z"
-    },
-    {
       "id": "6df08faed0b3ab6a",
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "source": "Krebs on Security",
@@ -1311,22 +1375,6 @@
         "cybersecurity"
       ],
       "published": "2026-09-01T15:41:06.000Z"
-    },
-    {
-      "id": "5529b566a29e89bc",
-      "title": "Git Submodules as a Package Manager",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-      "pacer": "C",
-      "keywords": [
-        "Git",
-        "submodules",
-        "git worktree",
-        "package manager",
-        "version control"
-      ],
-      "published": "2026-09-01T09:00:00.000Z"
     },
     {
       "id": "d8de645fd91769f5",
@@ -1647,22 +1695,6 @@
         "GitHub"
       ],
       "published": "2026-08-27T19:58:21.000Z"
-    },
-    {
-      "id": "1aafb25b64bfeacf",
-      "title": "How the Strategic Petroleum Reserve Works",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
-      "pacer": "C",
-      "keywords": [
-        "Strategic Petroleum Reserve",
-        "Energy Security",
-        "Crude Oil",
-        "Infrastructure",
-        "US Government"
-      ],
-      "published": "2026-08-27T12:03:58.000Z"
     },
     {
       "id": "4448077476edb29e",
@@ -2127,22 +2159,6 @@
         "Rust"
       ],
       "published": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "id": "5719d0e304ccccdf",
-      "title": "What Is Reasoning",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
-      "pacer": "C",
-      "keywords": [
-        "AI Reasoning",
-        "LLM",
-        "Chain-of-Thought",
-        "Open-weight Models",
-        "System Prompt"
-      ],
-      "published": "2026-08-19T00:00:00.000Z"
     },
     {
       "id": "9e672fc65cc14bb9",
@@ -3691,22 +3707,6 @@
         "asymmetric warfare"
       ],
       "published": "2026-06-08T13:00:15.000Z"
-    },
-    {
-      "id": "ed76e27a4dd2aa87",
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "pacer": "C",
-      "keywords": [
-        "IBM 604",
-        "Computing History",
-        "Vacuum Tubes",
-        "Electronic Calculating Punch",
-        "Hardware Engineering"
-      ],
-      "published": "2026-06-07T16:57:09.956Z"
     },
     {
       "id": "8c57b8a3f8723eca",

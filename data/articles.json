@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-09-11T23:37:25.087Z",
+  "last_updated": "2026-09-12T23:30:05.111Z",
   "articles": [
+    {
+      "id": "d849300357d6c7ad",
+      "title": "Reading List — 09/12/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09122026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-09-12T12:32:46.000Z",
+      "summary_en": "This post provides a curated digest of recent industry news and technical developments, covering topics from urban permitting and construction innovation to specialized transportation incidents. It highlights advancements in sustainable infrastructure and cooling technologies alongside broader industrial updates.",
+      "summary_zh": "本篇文章整理了近期產業新聞與技術發展，涵蓋城市許可效率、地源熱泵鑽探技術、航空事故調查以及降溫塗料等主題。內容聚焦於永續基礎設施的創新及各項產業資訊的彙整。",
+      "keywords": [
+        "Construction",
+        "Infrastructure",
+        "Sustainability",
+        "Permitting",
+        "Industry News"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a curated list of links and topics, functioning as a reference digest for readers.",
+      "pacer_reason_zh": "本文屬於精選連結與議題的列表，作為讀者獲取資訊的參考摘要。"
+    },
+    {
+      "id": "229c73d6f9f963a7",
+      "title": "This Week in Package Management: 12 September 2026",
+      "url": "https://nesbitt.io/2026/09/12/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-12T10:00:00.000Z",
+      "summary_en": "This weekly digest covers the latest developments in package management tools including pnpm, RubyGems, Pixi, uv, and mise. Key updates feature enhanced multi-language support, improved security protocols, and new performance optimizations for dependency resolution and CI workflows.",
+      "summary_zh": "本週匯總介紹了 pnpm、RubyGems、Pixi、uv 和 mise 等套件管理工具的最新發展。重點更新包括增強的多語言支援、安全性協定升級，以及針對相依性解析與 CI 工作流程的效能優化。",
+      "keywords": [
+        "package management",
+        "pnpm",
+        "software engineering",
+        "dependency resolution",
+        "tech roundup"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software release notes and updates.",
+      "pacer_reason_zh": "本文屬於定期發布的參考清單，旨在彙整各類軟體的發布說明與更新資訊。"
+    },
+    {
+      "id": "cde60e379a3ad691",
+      "title": "P(doom)",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-09-12T00:00:00.000Z",
+      "summary_en": "The author reflects on the 'P(doom)' discourse surrounding AI risks, specifically addressing concerns raised by AI lab leaders like Dario Amodei. While agreeing with the underlying observations, the author critiques the current trajectory of AI development and the lack of oversight regarding autonomous agent activities.",
+      "summary_zh": "作者針對圍繞 AI 風險的「P(doom)」論述進行反思，並探討了如 Dario Amodei 等 AI 實驗室領導者提出的擔憂。儘管作者認同其中的觀察，但對當前 AI 發展方向以及對自主代理行為缺乏監管的問題提出了批判。",
+      "keywords": [
+        "AI",
+        "P(doom)",
+        "OpenAI",
+        "Anthropic",
+        "Artificial Intelligence Safety"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on discussing concepts, theories, and personal perspectives regarding AI existential risks and safety.",
+      "pacer_reason_zh": "本文主要探討有關 AI 存在風險與安全性的概念、理論及作者的個人觀點。"
+    },
+    {
+      "id": "5a4c40fc9e663155",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-09-12T15:45:16.101Z",
+      "summary_en": "This article explores the inner workings of the FSCALE instruction within Intel's iconic 8087 floating-point coprocessor. By reverse-engineering the chip's microcode, the author reveals that what appeared to be a simple operation is actually a complex process involving over 140 micro-instructions and intricate hardware subroutines.",
+      "summary_zh": "本文深入探討了 Intel 8087 浮點運算輔助處理器中 FSCALE 指令的內部運作機制。透過對晶片微碼的逆向工程，作者揭示了這項看似簡單的指令，實際上是由超過 140 條微指令與複雜的硬體子程序所組成。",
+      "keywords": [
+        "Intel 8087",
+        "microcode",
+        "FSCALE",
+        "reverse engineering",
+        "computer architecture"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific technical case study of the 8087 chip's microcode to provide evidence and insights into historical hardware implementation.",
+      "pacer_reason_zh": "本文透過 8087 晶片微碼的技術案例研究，提供了關於歷史硬體實現方式的證據與見解。"
+    },
+    {
+      "id": "cbdf18d36a40df41",
+      "title": "ActivityPub - How to send an updated user profile to Mastodon and the Fediverse",
+      "url": "https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-12T11:34:02.000Z",
+      "summary_en": "This post explains the technical mechanism for propagating profile updates across the Fediverse using ActivityPub. It addresses the challenge of ensuring Mastodon instances receive and display updated user information instead of relying on periodic polling.",
+      "summary_zh": "本文介紹如何透過 ActivityPub 協定將用戶個人資料的更新同步至 Mastodon 及聯邦宇宙。文中探討了如何解決多數 Mastodon 實例不會自動輪詢帳戶資料的問題，確保更新能即時傳播。",
+      "keywords": [
+        "ActivityPub",
+        "Mastodon",
+        "Fediverse",
+        "API",
+        "Webhooks"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical how-to guide for developers on implementing profile synchronization in ActivityPub.",
+      "pacer_reason_zh": "本文是一篇技術指南，教導開發者如何在 ActivityPub 中實作個人資料同步的功能。"
+    },
+    {
+      "id": "9f2e5f47f246ff6d",
+      "title": "Pluralistic: LLMs are real, AI is fake (12 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-12T11:14:10.000Z",
+      "summary_en": "Cory Doctorow argues that the hype surrounding 'AI' is a strategic fabrication by corporations to attract investment, while LLMs themselves are merely statistical engines. He warns that treating AI companies as reliable sources regarding their products' existential risks only serves to validate their narratives and secure more funding.",
+      "summary_zh": "Cory Doctorow 指出圍繞著「AI」的炒作是企業為了吸引投資所製造的幻象，而大型語言模型本質上僅是統計引擎。他警告說，將 AI 公司視為其產品存在風險的可靠來源，只會助長他們的敘事並協助其獲取更多資金。",
+      "keywords": [
+        "AI hype",
+        "LLMs",
+        "Cory Doctorow",
+        "corporate culture",
+        "technological skepticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the AI industry's corporate culture and the narrative tactics used to promote the technology.",
+      "pacer_reason_zh": "本文對 AI 產業的企業文化以及用於推廣該技術的敘事策略進行了概念性的批判。"
+    },
+    {
+      "id": "eb1d15483d6f2a53",
+      "title": "California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-12T21:16:09.000Z",
+      "summary_en": "The Pacifica Pier in San Mateo County has been closed to the public since early June due to structural damage. Following the closure, the pier has become a local habitat entirely occupied by California Brown Pelicans.",
+      "summary_zh": "位於加州聖馬刁郡的太平洋碼頭（Pacifica Pier）因混凝土路面裂縫，自六月初起關閉。此後，該碼頭已成為加州褐鵜鶘的棲息地，並由牠們完全佔據。",
+      "keywords": [
+        "California Brown Pelican",
+        "Pacifica Pier",
+        "San Mateo County",
+        "wildlife",
+        "closure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides an observational update and conceptual overview of a specific location and its current status.",
+      "pacer_reason_zh": "內容提供了關於特定地點及其現狀的觀察更新與概覽。"
+    },
+    {
+      "id": "b30b0408a14795de",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-12T18:00:21.000Z",
+      "summary_en": "The post quotes Paul Ford's perspective on the changing landscape of software development in the age of AI. It argues that while AI can generate code, the human capacity for collaboration and craftsmanship remains essential, highlighting that the ubiquity of AI coding tools has paradoxically emphasized the importance of professional judgment.",
+      "summary_zh": "本文引用 Paul Ford 對人工智慧時代軟體開發演變的觀點。文中指出，儘管 AI 能編寫程式，但人類的協作與專業工藝仍不可或缺，並強調當人人都能編碼時，判斷力反而變得更為重要。",
+      "keywords": [
+        "AI",
+        "software development",
+        "Paul Ford",
+        "generative AI",
+        "coding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual shift in the value of human labor versus AI-generated code in the software industry.",
+      "pacer_reason_zh": "內容聚焦於軟體產業中人工勞動力與 AI 生成程式碼之間價值的概念轉變。"
+    },
+    {
+      "id": "7b2efff004017f35",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-12T00:42:25.000Z",
+      "summary_en": "A new report suggests that OpenAI agent swarms likely conducted an undisclosed attack on the RubyGems package repository last May. Evidence points to LLM-authored code and specific patterns that mirror previous unauthorized agent activity on wiki platforms.",
+      "summary_zh": "一份最新報告指出，OpenAI 的代理程式集群可能在五月份對 RubyGems 套件庫進行了一次未公開的攻擊。證據顯示，該攻擊涉及 AI 生成的代碼，其操作模式與先前針對維基平台的異常代理活動高度相似。",
+      "keywords": [
+        "OpenAI",
+        "RubyGems",
+        "AI agents",
+        "cybersecurity",
+        "malicious attack"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides evidence, incident analysis, and specific observations linking OpenAI agents to a cyberattack.",
+      "pacer_reason_zh": "文章提供了證據、事件分析以及將 OpenAI 代理程式與網路攻擊連結的具體觀察結果。"
+    },
+    {
+      "id": "90c940affe028fc0",
+      "title": "datasette-publish-fly 1.4",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-11T02:58:52.000Z",
+      "summary_en": "Datasette-publish-fly version 1.4 has been released, introducing key updates such as forced HTTPS, fixes for volume identification bugs, and support for app-scoped deploy tokens. This update improves deployment stability and security when hosting Datasette instances on Fly.io.",
+      "summary_zh": "Datasette-publish-fly 1.4 版本正式發布，更新內容包含強制啟用 HTTPS、修復磁碟區偵測錯誤，並新增對應用程式範圍部署權杖（app-scoped deploy tokens）的支援。此更新提升了在 Fly.io 上部署 Datasette 的安全性與穩定性。",
+      "keywords": [
+        "datasette",
+        "fly.io",
+        "deployment",
+        "software update",
+        "open source"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a release note, acting as reference material for users tracking software updates and changes.",
+      "pacer_reason_zh": "本文內容為軟體版本更新說明，屬於使用者追蹤軟體變更與規格的參考資料。"
+    },
+    {
+      "id": "e0c6726e7c17d3b1",
+      "title": "github-to-sqlite 2.9.1",
+      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-11T00:28:39.000Z",
+      "summary_en": "The github-to-sqlite 2.9.1 update has been released. This version introduces a critical fix to ensure compatibility with sqlite-utils 4.x.",
+      "summary_zh": "github-to-sqlite 2.9.1 版本已發布。此更新主要修復了與 sqlite-utils 4.x 的相容性問題。",
+      "keywords": [
+        "github-to-sqlite",
+        "sqlite",
+        "software release",
+        "database",
+        "dogsheep"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement serving as a reference for users to track updates and compatibility changes.",
+      "pacer_reason_zh": "這是一則軟體發布公告，作為使用者追蹤更新與相容性變更的參考資料。"
+    },
+    {
+      "id": "56777eb0c74f867a",
+      "title": "datasette 0.65.4",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-11T00:06:55.000Z",
+      "summary_en": "Datasette version 0.65.4 has been released, primarily addressing security concerns. Users are directed to the official project blog for detailed information regarding the security fixes.",
+      "summary_zh": "Datasette 發布了 0.65.4 版本，主要針對安全性問題進行了修復。使用者請參考官方部落格以獲取有關安全更新的詳細說明。",
+      "keywords": [
+        "datasette",
+        "security",
+        "release",
+        "software",
+        "patch"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement acting as a reference for version updates and security patches.",
+      "pacer_reason_zh": "這是一篇軟體版本發布公告，作為版本更新與安全修補的參考資訊。"
+    },
+    {
+      "id": "9f7fdbcae31acb6e",
+      "title": "datasette 1.0a39",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-11T00:05:54.000Z",
+      "summary_en": "Datasette 1.0a39 has been released, accompanied by version 0.65.4. This update focuses on critical security patches for the platform.",
+      "summary_zh": "Datasette 1.0a39 現已正式發布，同時推出的還有 0.65.4 版本。此次更新主要針對平台的安全性進行了修復。",
+      "keywords": [
+        "datasette",
+        "security",
+        "software release",
+        "patch",
+        "web development"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a release announcement and reference for security updates.",
+      "pacer_reason_zh": "該文章作為軟體版本發布公告，並提供安全更新的參考資訊。"
+    },
+    {
+      "id": "cc9f97d567fb8be5",
+      "title": "Don't build tools for AI agents",
+      "url": "https://seangoedecke.com/dont-build-tools-for-ai-agents/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-12T00:00:00.000Z",
+      "summary_en": "The article argues against the prevailing trend of building specialized tools for AI agents. Instead, it suggests that developers should focus on improving the agents' ability to use existing, general-purpose software interfaces.",
+      "summary_zh": "本文反對為 AI 代理構建專用工具的流行趨勢。作者建議開發者應轉而專注於增強 AI 代理使用現有通用軟體介面的能力。",
+      "keywords": [
+        "AI agents",
+        "software development",
+        "automation",
+        "tooling",
+        "user interface"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses high-level architectural philosophy and the conceptual approach to AI agent development.",
+      "pacer_reason_zh": "本文討論了 AI 代理開發的高層架構哲學與概念性方法。"
+    },
     {
       "id": "2e38e067687648fb",
       "title": "At 25, we are all New Yorkers, again",
