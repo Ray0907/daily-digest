@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-09-12T23:30:05.111Z",
+  "last_updated": "2026-09-13T23:43:07.397Z",
   "articles": [
+    {
+      "id": "154cffb24bcdb61a",
+      "title": "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
+      "url": "https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-09-13T02:17:52.821Z",
+      "summary_en": "This article explores the origins of the VTech VZ200 home computer, contrasting its branding as a Dick Smith product with its manufacturing roots in Hong Kong. The author details a hardware project to modernize the vintage machine by adding a USB serial port and optimizing Z80 assembly code for faster data transfer.",
+      "summary_zh": "本文探討了 VTech VZ200 家用電腦的起源，釐清其作為 Dick Smith 品牌產品與在香港製造的歷史背景。作者同時分享了一項硬體改造專案，透過加裝 USB 序列埠並優化 Z80 組合語言，提升這台復古機器的資料傳輸速度。",
+      "keywords": [
+        "VZ200",
+        "VTech",
+        "Vintage Computing",
+        "Z80",
+        "Retro Hardware"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article combines historical research with a practical, step-by-step technical modification project for a vintage computer.",
+      "pacer_reason_zh": "該文章結合了歷史研究與針對復古電腦的實作技術改裝流程。"
+    },
+    {
+      "id": "fc8d550b9d81546d",
+      "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+      "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
+      "source": "Downtown Doug Brown",
+      "source_url": "https://www.downtowndougbrown.com/",
+      "published": "2026-09-13T21:02:59.000Z",
+      "summary_en": "This article documents the troubleshooting and repair process for an NZXT Signal 4K30 capture card experiencing a green and pink video artifact bug. The author builds upon a previous repair attempt to diagnose and resolve persistent hardware issues within the device.",
+      "summary_zh": "本文記錄了針對 NZXT Signal 4K30 擷取卡出現綠色與粉紅色影像異常的故障排除與維修過程。作者延續先前的維修經驗，深入診斷並解決了該設備中殘留的硬體問題。",
+      "keywords": [
+        "NZXT",
+        "Signal 4K30",
+        "hardware repair",
+        "troubleshooting",
+        "video capture"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content describes a step-by-step diagnostic and repair process for a specific piece of hardware.",
+      "pacer_reason_zh": "內容描述了特定硬體設備的逐步診斷與維修過程。"
+    },
+    {
+      "id": "2fb7fce7df7a40f0",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-09-13T00:00:00.000Z",
+      "summary_en": "The author discusses the anecdotal observation that programmers frequently find 'reduce' functions harder to read and less desirable compared to 'map' and 'filter'. The post explores potential reasons for this preference, including complexity, readability, and varying implementation quality across different programming languages.",
+      "summary_zh": "作者探討了程式設計師普遍對 'reduce' 函數持保留態度的觀察，認為相較於 'map' 和 'filter'，'reduce' 在程式碼審查中常被視為難以閱讀。文章分析了造成這種現象的潛在原因，包括可讀性差異、語言實作方式以及開發者熟悉度等因素。",
+      "keywords": [
+        "reduce",
+        "programming",
+        "javascript",
+        "code review",
+        "functional programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a conceptual exploration and reflection on developer preferences and software design patterns.",
+      "pacer_reason_zh": "本文屬於概念性探討，旨在反思開發者的使用偏好與軟體設計模式。"
+    },
+    {
+      "id": "04c613c6bac80c12",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-09-12T00:00:00.000Z",
+      "summary_en": "This blog post explores the hypocrisy and irony often found in the tech industry's discourse surrounding AI regulation. The author discusses the 'doomerism' narrative where many stakeholders advocate for pausing AI development while simultaneously pushing their own projects forward.",
+      "summary_zh": "這篇文章探討了科技產業在人工智慧監管論述中常見的虛偽與諷刺現象。作者討論了「末日論」敘事，指出許多利益相關者在呼籲暫停 AI 發展的同時，卻又私下推進自己的專案。",
+      "keywords": [
+        "AI ethics",
+        "AI regulation",
+        "Tech industry",
+        "Hypocrisy",
+        "AI development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on critiquing and explaining the conceptual contradictions and societal narratives surrounding AI regulation.",
+      "pacer_reason_zh": "本文重點在於批判並解釋圍繞人工智慧監管的概念性矛盾與社會敘事。"
+    },
+    {
+      "id": "c59a9d288b21483f",
+      "title": "AI Forces You to Commit to Your Initial Belief ",
+      "url": "https://idiallo.com/blog/making-changes-mid-sentence",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-09-13T20:00:00.000Z",
+      "summary_en": "The author argues that writing or coding manually allows for organic evolution of ideas, whereas AI generation forces users to commit to their initial prompt. By producing large blocks of text instantly, AI hampers the iterative refinement process that naturally occurs during manual creation.",
+      "summary_zh": "作者認為手動撰寫程式或文章能讓想法在過程中自然演進，而人工智慧生成的內容則迫使用戶受限於最初的構想。由於 AI 會一次性產生大量文字，反而阻礙了創作過程中必要的迭代修正與靈活調整。",
+      "keywords": [
+        "AI",
+        "Writing",
+        "Programming",
+        "Creativity",
+        "Workflow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of how AI tools fundamentally change the creative and cognitive process of writing and coding.",
+      "pacer_reason_zh": "本文針對 AI 工具如何從根本上改變寫作與程式設計的創作及認知過程，進行了概念性的探討。"
+    },
+    {
+      "id": "56ed9309de330598",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-12T23:56:42.000Z",
+      "summary_en": "Simon Willison demonstrates using ChatGPT Work with GPT-6 Astra to generate custom running routes from OpenStreetMap data. The post highlights the tool's effectiveness in creating GPX and GeoJSON files while critiquing the lack of transparency in the AI's internal processes and the loss of data due to thread compaction.",
+      "summary_zh": "Simon Willison 展示了如何利用 ChatGPT Work 與 GPT-6 Astra，根據 OpenStreetMap 資料自動生成跑步路線。文章肯定了該工具在製作 GPX 與 GeoJSON 檔案上的效率，同時批評了 AI 內部運作缺乏透明度以及線程壓縮導致數據丟失的問題。",
+      "keywords": [
+        "ChatGPT",
+        "GPT-6",
+        "OpenStreetMap",
+        "AI transparency",
+        "GPX"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study/experiment demonstrating the capabilities and current limitations of an AI tool in a real-world scenario.",
+      "pacer_reason_zh": "本文作為一個案例研究與實驗，展示了 AI 工具在實際應用中的能力以及當前的局限性。"
+    },
+    {
+      "id": "6ed524e4684357b5",
+      "title": "Slow developer experience will bottleneck fast models",
+      "url": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-14T00:00:00.000Z",
+      "summary_en": "This article explores how slow developer tooling and experience can undermine the performance gains of fast AI models. It highlights the importance of optimizing the end-to-end development cycle to ensure model speed translates into actual product efficiency.",
+      "summary_zh": "本文探討了緩慢的開發者體驗與工具如何抵銷快速 AI 模型帶來的效能優勢。文章強調必須優化端到端的開發週期，以確保模型的運算速度能轉化為產品的實際效益。",
+      "keywords": [
+        "Developer Experience",
+        "AI Models",
+        "Bottleneck",
+        "Workflow Optimization",
+        "Performance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses a conceptual framework regarding how developer experience impacts the practical utility of high-performance models.",
+      "pacer_reason_zh": "本文探討了開發者體驗如何影響高效能模型實際效用的概念性架構。"
+    },
+    {
+      "id": "f57e6cd71dd0aba3",
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-13T00:00:00.000Z",
+      "summary_en": "This article explores how artificial intelligence is undermining traditional indicators of expertise. It suggests that as AI tools become capable of mimicking professional output, our existing methods for evaluating skill and knowledge are becoming obsolete.",
+      "summary_zh": "本文探討人工智慧如何削弱傳統的專業指標。隨著 AI 工具日益具備模仿專業輸出的能力，我們過去用來評估技能與知識的現有方法正逐漸失效。",
+      "keywords": [
+        "AI",
+        "expertise",
+        "proxy",
+        "evaluation",
+        "skills"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual shift in how society evaluates expertise due to AI advancement.",
+      "pacer_reason_zh": "本文探討人工智慧進步導致社會對「專業」評估標準產生的概念性轉變。"
+    },
     {
       "id": "d849300357d6c7ad",
       "title": "Reading List — 09/12/2026",
