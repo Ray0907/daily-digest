@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-09-13T23:43:07.397Z",
+  "last_updated": "2026-09-15T00:02:53.963Z",
   "articles": [
+    {
+      "id": "7d312d48df8ae0bf",
+      "title": "Hoe wordt de overheid weer 'van de IT'?",
+      "url": "https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-09-14T12:45:00.000Z",
+      "summary_en": "The Dutch government relies too heavily on big-tech ecosystems and American platforms, leading to a loss of digital sovereignty and privacy concerns. The author argues that significant structural changes are necessary for the government to regain control and develop an autonomous IT strategy.",
+      "summary_zh": "荷蘭政府過度依賴大科技公司的生態系統與美國平台，導致數位主權流失並引發隱私疑慮。作者認為政府必須進行重大結構性變革，才能重新掌握 IT 主導權並制定自主的技術發展路徑。",
+      "keywords": [
+        "Digital Sovereignty",
+        "Dutch Government",
+        "Big Tech",
+        "IT Policy",
+        "Autonomy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual analysis of the government's dependency on big tech and the theoretical need for digital autonomy.",
+      "pacer_reason_zh": "文章針對政府對大科技公司的依賴性進行了概念性分析，並探討了數位自主權的理論需求。"
+    },
+    {
+      "id": "46df79037145e580",
+      "title": "Preserving Netlify Analytics Data Beyond 30 Days",
+      "url": "https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-13T19:00:00.000Z",
+      "summary_en": "The author shares a method for bypassing Netlify's 30-day analytics data retention limit by automating data archival. By using Val Town’s scripting and SQLite storage capabilities, they periodically fetch and persist traffic data for long-term analysis.",
+      "summary_zh": "作者分享了一種繞過 Netlify 分析數據 30 天保留限制的方法，透過自動化手段長期保存數據。利用 Val Town 的指令碼執行與 SQLite 儲存功能，定期抓取並儲存網站流量數據以供後續分析。",
+      "keywords": [
+        "Netlify",
+        "Analytics",
+        "Val Town",
+        "SQLite",
+        "Data Retention"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes a specific workflow and toolset to accomplish the task of archiving analytics data.",
+      "pacer_reason_zh": "文章說明了實現網站數據歸檔任務的具體工作流程與工具組合。"
+    },
+    {
+      "id": "5f42c7e8bb8c2a0b",
+      "title": "Guessing the meaning of a number",
+      "url": "https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-14T10:44:45.000Z",
+      "summary_en": "This article explores how numbers in software applications can often be identified by their length and format, despite being mathematically ambiguous in theory. It explains how context allows systems to categorize numerical sequences as specific identifiers like phone numbers or tracking codes.",
+      "summary_zh": "本文探討了儘管數字在理論上具有數學模糊性，但在軟體應用中卻常能根據其長度和格式識別出具體含義。文章解釋了系統如何透過上下文情境，將數字序列判讀為電話號碼或包裹追蹤編號等特定識別碼。",
+      "keywords": [
+        "data interpretation",
+        "numerical context",
+        "software engineering",
+        "pattern recognition",
+        "metadata"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how software systems assign meaning to raw numerical data based on context.",
+      "pacer_reason_zh": "這篇文章針對軟體系統如何根據上下文將數值資料賦予特定意義，提供了概念性的解釋。"
+    },
+    {
+      "id": "0f11475615834c8c",
+      "title": "Interpreting Pangram",
+      "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-09-14T00:00:00.000Z",
+      "summary_en": "This article discusses the mechanics of Pangram, an AI-detection tool trained on synthetic and human-authored datasets to identify AI-generated content. The author demonstrates the limitations of such detectors by using an LLM to replicate the style of a tweet, highlighting how easily AI can mimic human patterns.",
+      "summary_zh": "本文探討了 AI 檢測工具 Pangram 的運作機制，該工具透過人類與人工生成的訓練數據來識別文本來源。作者藉由讓 LLM 模仿特定推文風格，進一步說明了 AI 檢測器在分辨人類與機器寫作時所面臨的侷限性。",
+      "keywords": [
+        "Pangram",
+        "AI detection",
+        "LLM",
+        "machine learning",
+        "text analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article evaluates the effectiveness and methodology of an AI detection model using a practical demonstration.",
+      "pacer_reason_zh": "本文透過實際演示，評估了 AI 檢測模型的有效性及其背後的技術方法。"
+    },
+    {
+      "id": "331429ed7ffb730b",
+      "title": "Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-14T14:00:00.000Z",
+      "summary_en": "This post discusses the historical design limitations of the Windows API function ReadDirectoryChangesW. It explores why the developers did not initially include a mechanism to correlate the start and end points of rename operations.",
+      "summary_zh": "本文探討了 Windows API 函式 ReadDirectoryChangesW 在設計上的歷史限制。文章分析了為何開發人員最初未能在該功能中提供關聯重新命名操作前後兩端的機制。",
+      "keywords": [
+        "ReadDirectoryChangesW",
+        "Windows API",
+        "Rename Operation",
+        "Software Design",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual design decisions and rationale behind a specific system API feature.",
+      "pacer_reason_zh": "內容解釋了特定系統 API 功能背後的概念性設計決策與邏輯。"
+    },
+    {
+      "id": "8c5be2fec4ad5970",
+      "title": "Esoteric HTML - ismap vs CSS",
+      "url": "https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-14T11:34:53.000Z",
+      "summary_en": "This article explores the technical nuances and historical baggage of HTML image maps, specifically comparing the legacy 'ismap' attribute with modern CSS techniques. It highlights how certain outdated HTML features persist, potentially causing confusion for contemporary web developers.",
+      "summary_zh": "本文探討了 HTML 影像地圖（image maps）的技術細節與歷史包袱，特別是比較了傳統的 ismap 屬性與現代 CSS 技術。文章指出某些過時的 HTML 特性至今仍存在，可能會對當代網頁開發者造成困擾。",
+      "keywords": [
+        "HTML",
+        "ismap",
+        "CSS",
+        "web development",
+        "legacy code"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific concept within HTML specifications and discusses its evolution and modern usage.",
+      "pacer_reason_zh": "這篇文章解釋了 HTML 規範中的特定概念，並探討了其演變與現代應用。"
+    },
+    {
+      "id": "b51ce35e5874b850",
+      "title": "The expectations of privacy in driverless cars",
+      "url": "https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-13T11:34:13.000Z",
+      "summary_en": "This article examines the blurring boundaries of privacy within autonomous vehicles by discussing a specific incident in California. It highlights a case where a Waymo robotaxi diverted misbehaving passengers directly to the police, raising questions about passenger expectations versus corporate monitoring.",
+      "summary_zh": "本文探討了自動駕駛車輛中隱私界線的模糊，並討論了加州發生的一起案例。文中提到 Waymo 無人計程車將行為不當的乘客直接載往警察局，引發了關於乘客隱私期待與企業監控之間的討論。",
+      "keywords": [
+        "autonomous vehicles",
+        "privacy",
+        "robotaxi",
+        "Waymo",
+        "surveillance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual challenges and shifting expectations of privacy in the context of emerging autonomous technology.",
+      "pacer_reason_zh": "本文探討了在新興自動駕駛技術背景下，隱私權的概念性挑戰與期望轉變。"
+    },
+    {
+      "id": "fc64020820b0155e",
+      "title": "Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/14/cult-taylorism/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-14T11:02:27.000Z",
+      "summary_en": "Cory Doctorow examines the growing trend of employers mandating the use of AI tools despite workers' concerns regarding quality and effectiveness. He argues that this obsession with AI is both illogical and a source of friction, suggesting that outcomes should matter more than the specific tools used to achieve them.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）探討了雇主強制要求員工使用 AI 工具的趨勢，儘管員工對 AI 的品質與效能存有疑慮。他認為這種對 AI 的執著既不合邏輯且造成職場衝突，強調應關注工作成果而非實現成果所使用的工具。",
+      "keywords": [
+        "AI",
+        "workplace",
+        "management",
+        "technology",
+        "labor"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of contemporary corporate management trends regarding AI implementation.",
+      "pacer_reason_zh": "本文針對當代企業管理在 AI 應用上的趨勢提供了觀念性的批判。"
+    },
+    {
+      "id": "64f040316f79ac59",
+      "title": "The contagion of fear",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-14T21:18:13.000Z",
+      "summary_en": "Bryan Cantrill critiques the alarmist predictions from AI researchers regarding existential threats like bioweapons. He argues that experts have a responsibility to avoid spreading unsubstantiated panic and must use their public platform with greater circumspection.",
+      "summary_zh": "Bryan Cantrill 批評 AI 研究人員關於生物武器等生存威脅的危言聳聽。他認為專家有責任避免散布毫無根據的恐慌，並必須在利用大眾公信力時保持更加審慎的態度。",
+      "keywords": [
+        "AI safety",
+        "existential risk",
+        "Bryan Cantrill",
+        "expert responsibility",
+        "tech ethics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of how expert claims are framed and the ethical responsibilities inherent in discussing existential risks.",
+      "pacer_reason_zh": "本文針對專家言論的構建方式及其在討論生存風險時應承擔的道德責任，提供了觀念性的評論與分析。"
+    },
+    {
+      "id": "f1ea99f442b165fa",
+      "title": "What blog posts influenced your thinking the most?",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-14T20:21:48.000Z",
+      "summary_en": "Simon Willison shares three influential blog posts that shaped his career in software engineering. These works cover the nature of technical abstractions, the importance of migrations in managing technical debt, and the value of moving between engineering and management roles.",
+      "summary_zh": "Simon Willison 分享了三篇對其軟體工程生涯產生深遠影響的部落格文章。這些內容涵蓋了技術抽象的本質、處理技術債時遷移的重要性，以及在工程師與管理者角色之間切換的價值。",
+      "keywords": [
+        "software engineering",
+        "career development",
+        "technical debt",
+        "management",
+        "mentorship"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a curated list of reference material and recommended reading, pointing users toward foundational industry articles.",
+      "pacer_reason_zh": "本文作為一份推薦閱讀清單，為讀者提供了具參考價值的業界經典文章目錄。"
+    },
+    {
+      "id": "72f4aaebdca9e500",
+      "title": "Quoting Laurie Voss",
+      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-14T14:34:29.000Z",
+      "summary_en": "Laurie Voss argues that as the costs of coding and maintenance plummet due to AI, the core value of software engineering is shifting toward product definition and user experience. The future of the profession lies in deeply understanding human needs and crafting intuitive products rather than just writing code.",
+      "summary_zh": "Laurie Voss 指出，隨著 AI 導致程式編寫與維護成本大幅下降，軟體工程的核心價值正轉向產品定義與使用者體驗。未來的軟體開發重點將不再僅是寫程式，而是深入洞察人類需求並打造流暢的產品體驗。",
+      "keywords": [
+        "product engineering",
+        "generative ai",
+        "software development",
+        "career shifts",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual shift in the software engineering profession driven by the impact of AI on development costs.",
+      "pacer_reason_zh": "這篇文章闡述了 AI 對開發成本的影響，進而引發對軟體工程專業職能轉型的概念性討論。"
+    },
+    {
+      "id": "ac293d7ca39f3bdc",
+      "title": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-14T00:28:10.000Z",
+      "summary_en": "Simon Willison released commit-rewriter 0.1, a web application designed to simplify the editing of Git commit messages. The tool allows users to rewrite commit history safely by creating a backup branch before applying changes.",
+      "summary_zh": "Simon Willison 發布了 commit-rewriter 0.1，這是一個旨在簡化 Git 提交訊息編輯的網頁應用程式。該工具會在套用變更前自動建立備份分支，讓使用者能安全地重寫提交歷史。",
+      "keywords": [
+        "git",
+        "commit-rewriter",
+        "python",
+        "developer-tools",
+        "automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a release announcement and a tutorial on how to use the tool via the command line.",
+      "pacer_reason_zh": "該文章作為軟體發布公告，並提供了透過命令列使用該工具的操作指南。"
+    },
+    {
+      "id": "3c2f6dcb128bccaf",
+      "title": "shot-scraper 1.12",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-13T23:58:14.000Z",
+      "summary_en": "Simon Willison has released version 1.12 of his screenshot automation tool, shot-scraper. The update introduces native WebP format support, offering smaller file sizes for saved screenshots.",
+      "summary_zh": "Simon Willison 發布了截圖自動化工具 shot-scraper 的 1.12 版本。本次更新引入了 WebP 格式支援，能有效縮減截圖檔案的大小。",
+      "keywords": [
+        "shot-scraper",
+        "WebP",
+        "automation",
+        "screenshots",
+        "software update"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a release announcement with practical command-line examples for users to implement the new feature.",
+      "pacer_reason_zh": "本文屬於軟體發布公告，並提供了實用的指令範例供使用者操作該新功能。"
+    },
     {
       "id": "154cffb24bcdb61a",
       "title": "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",

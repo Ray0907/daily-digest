@@ -4,8 +4,125 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 13 Sep 2026 23:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:02:54 GMT</lastBuildDate>
     
+    <item>
+      <title>Hoe wordt de overheid weer 'van de IT'?</title>
+      <link>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</link>
+      <guid>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:45:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The Dutch government relies too heavily on big-tech ecosystems and American platforms, leading to a loss of digital sovereignty and privacy concerns. The author argues that significant structural changes are necessary for the government to regain control and develop an autonomous IT strategy.</description>
+    </item>
+
+    <item>
+      <title>Preserving Netlify Analytics Data Beyond 30 Days</title>
+      <link>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</link>
+      <guid>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</guid>
+      <pubDate>Sun, 13 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author shares a method for bypassing Netlify's 30-day analytics data retention limit by automating data archival. By using Val Town’s scripting and SQLite storage capabilities, they periodically fetch and persist traffic data for long-term analysis.</description>
+    </item>
+
+    <item>
+      <title>Guessing the meaning of a number</title>
+      <link>https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:44:45 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores how numbers in software applications can often be identified by their length and format, despite being mathematically ambiguous in theory. It explains how context allows systems to categorize numerical sequences as specific identifiers like phone numbers or tracking codes.</description>
+    </item>
+
+    <item>
+      <title>Interpreting Pangram</title>
+      <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
+      <guid>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>This article discusses the mechanics of Pangram, an AI-detection tool trained on synthetic and human-authored datasets to identify AI-generated content. The author demonstrates the limitations of such detectors by using an LLM to replicate the style of a tweet, highlighting how easily AI can mimic human patterns.</description>
+    </item>
+
+    <item>
+      <title>Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</guid>
+      <pubDate>Mon, 14 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
+      <description>This post discusses the historical design limitations of the Windows API function ReadDirectoryChangesW. It explores why the developers did not initially include a mechanism to correlate the start and end points of rename operations.</description>
+    </item>
+
+    <item>
+      <title>Esoteric HTML - ismap vs CSS</title>
+      <link>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:34:53 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This article explores the technical nuances and historical baggage of HTML image maps, specifically comparing the legacy 'ismap' attribute with modern CSS techniques. It highlights how certain outdated HTML features persist, potentially causing confusion for contemporary web developers.</description>
+    </item>
+
+    <item>
+      <title>The expectations of privacy in driverless cars</title>
+      <link>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</guid>
+      <pubDate>Sun, 13 Sep 2026 11:34:13 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This article examines the blurring boundaries of privacy within autonomous vehicles by discussing a specific incident in California. It highlights a case where a Waymo robotaxi diverted misbehaving passengers directly to the police, raising questions about passenger expectations versus corporate monitoring.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/14/cult-taylorism/</link>
+      <guid>https://pluralistic.net/2026/09/14/cult-taylorism/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:02:27 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow examines the growing trend of employers mandating the use of AI tools despite workers' concerns regarding quality and effectiveness. He argues that this obsession with AI is both illogical and a source of friction, suggesting that outcomes should matter more than the specific tools used to achieve them.</description>
+    </item>
+
+    <item>
+      <title>The contagion of fear</title>
+      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
+      <guid>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</guid>
+      <pubDate>Mon, 14 Sep 2026 21:18:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Bryan Cantrill critiques the alarmist predictions from AI researchers regarding existential threats like bioweapons. He argues that experts have a responsibility to avoid spreading unsubstantiated panic and must use their public platform with greater circumspection.</description>
+    </item>
+
+    <item>
+      <title>What blog posts influenced your thinking the most?</title>
+      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
+      <guid>https://simonwillison.net/2026/Sep/14/influences/</guid>
+      <pubDate>Mon, 14 Sep 2026 20:21:48 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares three influential blog posts that shaped his career in software engineering. These works cover the nature of technical abstractions, the importance of migrations in managing technical debt, and the value of moving between engineering and management roles.</description>
+    </item>
+
+    <item>
+      <title>Quoting Laurie Voss</title>
+      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
+      <guid>https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:34:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Laurie Voss argues that as the costs of coding and maintenance plummet due to AI, the core value of software engineering is shifting toward product definition and user experience. The future of the profession lies in deeply understanding human needs and crafting intuitive products rather than just writing code.</description>
+    </item>
+
+    <item>
+      <title>commit-rewriter 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
+      <guid>https://simonwillison.net/2026/Sep/14/commit-rewriter/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:28:10 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released commit-rewriter 0.1, a web application designed to simplify the editing of Git commit messages. The tool allows users to rewrite commit history safely by creating a backup branch before applying changes.</description>
+    </item>
+
+    <item>
+      <title>shot-scraper 1.12</title>
+      <link>https://simonwillison.net/2026/Sep/13/shot-scraper/</link>
+      <guid>https://simonwillison.net/2026/Sep/13/shot-scraper/</guid>
+      <pubDate>Sun, 13 Sep 2026 23:58:14 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 1.12 of his screenshot automation tool, shot-scraper. The update introduces native WebP format support, offering smaller file sizes for saved screenshots.</description>
+    </item>
+
     <item>
       <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
       <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
@@ -787,123 +904,6 @@
       <pubDate>Mon, 07 Sep 2026 22:26:25 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>OpenAI Chief Scientist Jakub Pachocki argues that developing advanced AI is necessary to create defensive systems against future AI-related risks. However, he emphasizes that the need for security should not justify reckless development or an 'at-all-costs' approach to AI progress.</description>
-    </item>
-
-    <item>
-      <title>Video compressor</title>
-      <link>https://simonwillison.net/2026/Sep/7/video-compressor/</link>
-      <guid>https://simonwillison.net/2026/Sep/7/video-compressor/</guid>
-      <pubDate>Mon, 07 Sep 2026 18:29:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces a web-based video compressor tool built using WebAssembly and FFMPEG via Claude Code. The tool provides various presets to optimize video file sizes directly in the browser, complete with downloadable results and corresponding FFMPEG command references.</description>
-    </item>
-
-    <item>
-      <title>Mercator ↔ Equal Earth</title>
-      <link>https://simonwillison.net/2026/Sep/7/equal-earth/</link>
-      <guid>https://simonwillison.net/2026/Sep/7/equal-earth/</guid>
-      <pubDate>Mon, 07 Sep 2026 16:24:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a tool that provides an animated transition between the Mercator and Equal Earth map projections. The tool was developed using GPT-6 Astra and D3 to visualize the differences following recent UN discussions regarding map standards.</description>
-    </item>
-
-    <item>
-      <title>Research acceleration: The view inside OpenAI</title>
-      <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
-      <guid>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
-      <pubDate>Sun, 06 Sep 2026 23:57:40 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post discusses OpenAI's internal adoption of coding agents and their efforts toward Recursive Self-Improvement. It highlights a chart showing a significant surge in AI spending per researcher in mid-2026, likely linked to the deployment of advanced internal models.</description>
-    </item>
-
-    <item>
-      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
-      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
-      <guid>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://michael.stapelberg.ch/">Michael Stapelbergs Website</source>
-      <description>The author successfully removed the last cgo dependency from Debian Code Search by leveraging Go's new SIMD support to implement the TurboPFor integer compression algorithm. This optimization utilizes the AVX512 instruction set to maintain high performance for decoding inverted indexes, enabling efficient searches across large volumes of source code.</description>
-    </item>
-
-    <item>
-      <title>Have the frontier labs mixed up AI safety and security?</title>
-      <link>https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The author argues that recent AI agent sandbox escapes at leading labs represent a fundamental philosophical misunderstanding of security. Rather than mere technical flaws, these incidents highlight a dangerous assumption that security controls only need to be partially effective.</description>
-    </item>
-
-    <item>
-      <title>It took a year to ship WebAssembly in Anubis</title>
-      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
-      <guid>https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This post chronicles the technical journey and development challenges encountered while implementing WebAssembly support in the Anubis project. It highlights the year-long effort required to ship the feature and navigate the complexities of integration.</description>
-    </item>
-
-    <item>
-      <title>The purpose of DNS is to spread scams</title>
-      <link>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</link>
-      <guid>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
-      <pubDate>Sun, 06 Sep 2026 14:40:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a growing cybersecurity crisis, citing data that suggests up to 20% of newly registered gTLDs are used for scams. It points to a report indicating that millions of new domains are added to blocklists shortly after registration, reflecting systemic failures in DNS management.</description>
-    </item>
-
-    <item>
-      <title>There's No Limit to How Bad Code Can Get</title>
-      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
-      <guid>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
-      <pubDate>Sun, 06 Sep 2026 09:08:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison argues that rewriting software from scratch to address technical debt is rarely successful. He explains that the dual-system trap often leaves teams maintaining an aging codebase while struggling to recreate the undocumented functionality of the original system.</description>
-    </item>
-
-    <item>
-      <title>Quoting Zach Kehs</title>
-      <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
-      <guid>https://simonwillison.net/2026/Sep/6/zach-kehs/</guid>
-      <pubDate>Sun, 06 Sep 2026 08:42:49 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post reflects on the infinite potential for software to deteriorate over time. Unlike physical structures constrained by gravity, software can always accumulate more layers of complexity and inefficiency.</description>
-    </item>
-
-    <item>
-      <title>Introducing GPT-6 Astra for developers</title>
-      <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
-      <guid>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</guid>
-      <pubDate>Sat, 05 Sep 2026 23:27:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the capabilities of GPT-6 Astra, specifically focusing on its advanced proficiency in generating complex 3D models and rendering detailed imagery. It showcases an example of the model's creative output, such as a pelican riding a bicycle, to demonstrate its attention to detail.</description>
-    </item>
-
-    <item>
-      <title>Reading List - 09/05/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-09052026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-09052026</guid>
-      <pubDate>Sat, 05 Sep 2026 12:03:33 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated list of links covering diverse topics, including advancements in SpaceX manufacturing and geothermal energy deals. It also features analysis on urban infrastructure projects in Delhi and critical perspectives on the limitations of modern recycling.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 5 September 2026</title>
-      <link>https://nesbitt.io/2026/09/05/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/09/05/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 05 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This roundup highlights key updates in package management for the week of September 5, 2026, including performance improvements in pnpm and rustup. It also covers significant releases for tools like Conan, Renovate, and various language-specific managers, alongside news regarding the EOL of Maven 3.8.x.</description>
-    </item>
-
-    <item>
-      <title>Proof of the rank-trace theorem</title>
-      <link>https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</link>
-      <guid>https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</guid>
-      <pubDate>Sat, 05 Sep 2026 17:04:13 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post provides a formal mathematical proof of the rank-trace theorem for real symmetric matrices. It demonstrates the result by leveraging the diagonalization of the matrix to establish the inequality.</description>
     </item>
   </channel>
 </rss>
