@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-09-15T00:02:53.963Z",
+  "last_updated": "2026-09-15T23:47:16.019Z",
   "articles": [
+    {
+      "id": "8e70e1a03dfc5ccd",
+      "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+      "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-09-15T12:54:38.000Z",
+      "summary_en": "The article challenges the prevailing narrative regarding a loneliness epidemic by drawing a provocative comparison to historical outbreaks of scurvy. It suggests that modern societal malaise may be better understood through the lens of fundamental physical or systemic deficiencies rather than purely psychological factors.",
+      "summary_zh": "本文挑戰了當前關於「孤獨流行病」的說法，並透過與歷史上壞血病爆發的類比，提出新的觀點。文章暗示現代社會的集體焦慮可能更應被視為一種基礎性的系統或生理缺乏，而非單純的心理問題。",
+      "keywords": [
+        "loneliness",
+        "scurvy",
+        "metaphor",
+        "sociology",
+        "public health"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical epidemic of scurvy as a direct analogy to reframe modern social issues.",
+      "pacer_reason_zh": "文章運用歷史上壞血病的爆發作為直接類比，旨在重新構建對現代社會問題的理解。"
+    },
+    {
+      "id": "187e1efeea29520a",
+      "title": "Tag index for Org mode blog",
+      "url": "https://entropicthoughts.com/tag-index-for-org-mode-blog",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-09-14T22:00:00.000Z",
+      "summary_en": "This article explains how the author generates a tag index for their Org mode-based blog. It specifically addresses a technical challenge involving recursive functions hitting stack limits and provides a code snippet for the implementation.",
+      "summary_zh": "本文介紹作者如何為其基於 Org mode 的部落格產生標籤索引。文中探討了遞迴函數導致堆疊溢位（stack limit）的技術挑戰，並提供了相關的程式碼實作範例。",
+      "keywords": [
+        "Org mode",
+        "Emacs Lisp",
+        "Blog",
+        "Programming",
+        "Tag index"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on how a specific functional component of a blog is implemented, providing a code-based guide.",
+      "pacer_reason_zh": "本文著重於說明部落格特定功能組件的實作方式，並提供基於程式碼的操作指導。"
+    },
+    {
+      "id": "b543131e46d8ff24",
+      "title": "alt.time-capsule.reopened",
+      "url": "https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-09-15T02:58:29.000Z",
+      "summary_en": "This article explores the complexities of resurfacing decades-old Usenet posts through new archival tools. It reflects on the shift from viewing internet content as ephemeral to the reality of its permanence, and notes the decline of Google Groups as a repository for this history.",
+      "summary_zh": "本文探討了透過新存檔工具重新挖掘數十年前 Usenet 發文所帶來的複雜感受。文章反思了網路內容從「過眼即逝」轉變為「永久保存」的現實，並提及 Google Groups 作為歷史資料庫的衰落。",
+      "keywords": [
+        "Usenet",
+        "Internet Archive",
+        "Digital Permanence",
+        "Tedium",
+        "Google Groups"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a reflection and conceptual exploration on the nature of digital memory and the legacy of early internet platforms.",
+      "pacer_reason_zh": "本文對數位記憶的本質以及早期網路平台的歷史遺產進行了反思與概念性探討。"
+    },
+    {
+      "id": "a62545b7cad8cf65",
+      "title": "Shadowing the Standard Library",
+      "url": "https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-15T09:00:00.000Z",
+      "summary_en": "This article explores the security risks of including the current directory in module search paths, a behavior that allows malicious code injection. The author analyzes how various programming languages like Ruby and Perl have addressed this vulnerability by removing local directory resolution from their standard libraries.",
+      "summary_zh": "本文探討了將當前目錄包含在模組搜尋路徑中所帶來的安全性風險，這種行為可能導致惡意程式碼注入。作者分析了 Ruby 和 Perl 等多種程式語言如何透過移除標準函式庫中的本地目錄解析功能來解決此漏洞。",
+      "keywords": [
+        "security",
+        "python",
+        "module path",
+        "code injection",
+        "programming languages"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific historical case studies and version history of programming languages to demonstrate a security vulnerability.",
+      "pacer_reason_zh": "本文透過程式語言的具體歷史案例和版本演進，來佐證並說明該安全漏洞的成因與處理方式。"
+    },
+    {
+      "id": "a6cc3b49e222820e",
+      "title": "Simple approximation for spherical cap area",
+      "url": "https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-15T22:00:44.000Z",
+      "summary_en": "The article explores the geometry of high-dimensional spaces, specifically how word vectors and cosine similarity behave. It introduces a practical mathematical approximation for calculating the area of a spherical cap to help understand vector relationships.",
+      "summary_zh": "本文探討了高維空間的幾何特性，特別是詞向量與餘弦相似度的運作方式。作者提供了一種計算球冠面積的實用數學近似法，以協助理解向量間的關係。",
+      "keywords": [
+        "cosine similarity",
+        "spherical cap",
+        "geometry",
+        "word vectors",
+        "mathematical approximation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a mathematical formula and practical method for calculating a specific geometric value.",
+      "pacer_reason_zh": "本文提供了一種計算特定幾何數值的數學公式與實作方法。"
+    },
+    {
+      "id": "663cc670a8ba01e4",
+      "title": "What counts as a large cosine similarity?",
+      "url": "https://www.johndcook.com/blog/2026/09/15/cosine-similarity/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-15T16:06:02.000Z",
+      "summary_en": "This article explores the interpretation of cosine similarity in machine learning by explaining how vector angles relate to word similarity. It clarifies that what qualifies as a 'large' value is context-dependent and lacks a universal threshold.",
+      "summary_zh": "本文探討了機器學習中餘弦相似度的詮釋，並解釋了向量夾角如何對應至詞彙相似性。文中指出「大」相似度的定義取決於具體應用情境，並無通用的標準數值。",
+      "keywords": [
+        "cosine similarity",
+        "machine learning",
+        "vectors",
+        "data science",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual mathematical relationship between vector angles and similarity metrics.",
+      "pacer_reason_zh": "本文解釋了向量夾角與相似度指標之間的數學概念與原理。"
+    },
+    {
+      "id": "41f6c2d21bdc3838",
+      "title": "Pluralistic: Everybody pees (15 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-15T07:27:02.000Z",
+      "summary_en": "Cory Doctorow uses the universal human reality of aging and biological needs to critique the inhumane working conditions at Amazon. He contrasts the natural bladder functions of older individuals like Jeff Bezos with the systematic denial of bathroom breaks for Amazon warehouse and delivery workers.",
+      "summary_zh": "Cory Doctorow 以人類衰老與生理需求為切入點，批判亞馬遜倉庫與物流員工遭受的不人道勞動待遇。文章對比了像貝佐斯這樣的高齡人士自然的生理需求，與亞馬遜員工因嚴苛監控而被剝奪上廁所權利的矛盾現狀。",
+      "keywords": [
+        "Amazon",
+        "Jeff Bezos",
+        "Labor rights",
+        "Human rights",
+        "Cory Doctorow"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an analogy of biological aging to highlight systemic labor abuses and inequality.",
+      "pacer_reason_zh": "本文利用生物學衰老的類比，突顯勞工權益受損與貧富不均的系統性問題。"
+    },
+    {
+      "id": "082b48f305bf33b6",
+      "title": "Tell agents the why, not just the how",
+      "url": "https://seangoedecke.com/tell-agents-the-why/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-15T00:00:00.000Z",
+      "summary_en": "This article argues that when prompting AI agents, providing context and intent ('the why') is more effective than focusing solely on task instructions ('the how'). By explaining the underlying goals, agents can better navigate ambiguity and achieve more accurate results.",
+      "summary_zh": "本文主張在向 AI 代理下達指令時，說明意圖與背景（為何而做）比單純提供任務步驟（如何做）更為有效。透過解釋核心目標，AI 代理能更靈活地處理模糊性並獲得更精確的執行結果。",
+      "keywords": [
+        "AI Agents",
+        "Prompt Engineering",
+        "Intent-based design",
+        "Artificial Intelligence",
+        "Workflow Automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of AI agent communication and the theory of effective prompting strategies.",
+      "pacer_reason_zh": "本文側重於 AI 代理溝通的觀念架構，探討如何透過有效的提示策略來優化互動理論。"
+    },
     {
       "id": "7d312d48df8ae0bf",
       "title": "Hoe wordt de overheid weer 'van de IT'?",

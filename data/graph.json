@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "a6cc3b49e222820e",
+      "title": "Simple approximation for spherical cap area",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/",
+      "pacer": "P",
+      "keywords": [
+        "cosine similarity",
+        "spherical cap",
+        "geometry",
+        "word vectors",
+        "mathematical approximation"
+      ],
+      "published": "2026-09-15T22:00:44.000Z"
+    },
+    {
+      "id": "663cc670a8ba01e4",
+      "title": "What counts as a large cosine similarity?",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/15/cosine-similarity/",
+      "pacer": "C",
+      "keywords": [
+        "cosine similarity",
+        "machine learning",
+        "vectors",
+        "data science",
+        "mathematics"
+      ],
+      "published": "2026-09-15T16:06:02.000Z"
+    },
+    {
+      "id": "8e70e1a03dfc5ccd",
+      "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+      "pacer": "A",
+      "keywords": [
+        "loneliness",
+        "scurvy",
+        "metaphor",
+        "sociology",
+        "public health"
+      ],
+      "published": "2026-09-15T12:54:38.000Z"
+    },
+    {
+      "id": "a62545b7cad8cf65",
+      "title": "Shadowing the Standard Library",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html",
+      "pacer": "E",
+      "keywords": [
+        "security",
+        "python",
+        "module path",
+        "code injection",
+        "programming languages"
+      ],
+      "published": "2026-09-15T09:00:00.000Z"
+    },
+    {
+      "id": "41f6c2d21bdc3838",
+      "title": "Pluralistic: Everybody pees (15 Sep 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/",
+      "pacer": "A",
+      "keywords": [
+        "Amazon",
+        "Jeff Bezos",
+        "Labor rights",
+        "Human rights",
+        "Cory Doctorow"
+      ],
+      "published": "2026-09-15T07:27:02.000Z"
+    },
+    {
+      "id": "b543131e46d8ff24",
+      "title": "alt.time-capsule.reopened",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website",
+      "pacer": "C",
+      "keywords": [
+        "Usenet",
+        "Internet Archive",
+        "Digital Permanence",
+        "Tedium",
+        "Google Groups"
+      ],
+      "published": "2026-09-15T02:58:29.000Z"
+    },
+    {
+      "id": "082b48f305bf33b6",
+      "title": "Tell agents the why, not just the how",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/tell-agents-the-why/",
+      "pacer": "C",
+      "keywords": [
+        "AI Agents",
+        "Prompt Engineering",
+        "Intent-based design",
+        "Artificial Intelligence",
+        "Workflow Automation"
+      ],
+      "published": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "187e1efeea29520a",
+      "title": "Tag index for Org mode blog",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/tag-index-for-org-mode-blog",
+      "pacer": "P",
+      "keywords": [
+        "Org mode",
+        "Emacs Lisp",
+        "Blog",
+        "Programming",
+        "Tag index"
+      ],
+      "published": "2026-09-14T22:00:00.000Z"
+    },
+    {
       "id": "64f040316f79ac59",
       "title": "The contagion of fear",
       "source": "Simon Willison's Weblog",
@@ -753,22 +881,6 @@
       "published": "2026-09-09T14:59:48.000Z"
     },
     {
-      "id": "687c738ac16ebc61",
-      "title": "AI is an intelligence multiplier",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/09/09/ai-multiplier/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "productivity",
-        "intelligence multiplier",
-        "expertise",
-        "technology"
-      ],
-      "published": "2026-09-09T14:17:20.000Z"
-    },
-    {
       "id": "22d3fcaf924e8314",
       "title": "The Other Road",
       "source": "Fernando Borretti",
@@ -799,22 +911,6 @@
         "The Old New Thing"
       ],
       "published": "2026-09-09T14:00:00.000Z"
-    },
-    {
-      "id": "0c423cdb6ebab28c",
-      "title": "The part of Navier-Stokes no one is talking about",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "pacer": "E",
-      "keywords": [
-        "Navier-Stokes",
-        "Lean 4",
-        "OpenAI",
-        "Formal proof",
-        "Mathematics"
-      ],
-      "published": "2026-09-09T12:43:36.000Z"
     },
     {
       "id": "3c6300d10896f923",
@@ -861,22 +957,6 @@
         "founders",
         "startup ecosystem",
         "investment"
-      ],
-      "published": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "91e9112f28e45241",
-      "title": "Why we should anthropomorphize AI agents",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "anthropomorphism",
-        "human-computer interaction",
-        "UX design",
-        "AI agents"
       ],
       "published": "2026-09-09T00:00:00.000Z"
     },
@@ -1057,22 +1137,6 @@
       "published": "2026-09-07T14:00:00.000Z"
     },
     {
-      "id": "3f9de68863a5f0a5",
-      "title": "Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/09/06/hotels-california/",
-      "pacer": "C",
-      "keywords": [
-        "monopoly",
-        "antitrust",
-        "neoliberalism",
-        "corporate power",
-        "Chicago School"
-      ],
-      "published": "2026-09-07T05:29:25.000Z"
-    },
-    {
       "id": "59a8a687fb19e948",
       "title": "Astra for Coding: Why Are We Doing This Again?",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -1247,22 +1311,6 @@
         "Restoration"
       ],
       "published": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "id": "617bd71ee218d3ac",
-      "title": "How much should you trust your OSS data?",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html",
-      "pacer": "E",
-      "keywords": [
-        "open source",
-        "data integrity",
-        "GHarchive",
-        "metrics",
-        "data analysis"
-      ],
-      "published": "2026-09-04T09:00:00.000Z"
     },
     {
       "id": "7d96f70a83fdd83a",
@@ -1985,22 +2033,6 @@
       "published": "2026-08-25T11:59:44.764Z"
     },
     {
-      "id": "dfab1b8ef0bf9a91",
-      "title": "The Negative Option",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective",
-      "pacer": "C",
-      "keywords": [
-        "Columbia House",
-        "business model",
-        "disruption",
-        "music industry",
-        "e-commerce"
-      ],
-      "published": "2026-08-25T02:45:00.000Z"
-    },
-    {
       "id": "6c109ae6c20355e7",
       "title": "Uranium from Příbram (Czechia)",
       "source": "Maurycy's Blog",
@@ -2463,22 +2495,6 @@
         "discourse"
       ],
       "published": "2026-08-11T00:00:00.000Z"
-    },
-    {
-      "id": "20cd5b07f3d8cf62",
-      "title": "A noob learns FFT",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/fft",
-      "pacer": "P",
-      "keywords": [
-        "FFT",
-        "signal processing",
-        "time-frequency transformation",
-        "tutorial",
-        "learning"
-      ],
-      "published": "2026-08-10T22:00:00.000Z"
     },
     {
       "id": "3112b1e05ce245f5",
@@ -3275,22 +3291,6 @@
         "software"
       ],
       "published": "2026-07-10T00:00:00.000Z"
-    },
-    {
-      "id": "fe5ed9134f2070ae",
-      "title": "The Decline of Deviance 2",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/the-decline-of-deviance-2",
-      "pacer": "C",
-      "keywords": [
-        "deviance",
-        "culture",
-        "conformity",
-        "social norms",
-        "sociology"
-      ],
-      "published": "2026-07-08T16:10:54.000Z"
     },
     {
       "id": "911b258a35ad46b8",
@@ -4779,16 +4779,6 @@
     }
   ],
   "links": [
-    {
-      "source": "9b8b1d7d6f28720d",
-      "target": "3f9de68863a5f0a5",
-      "shared_keywords": [
-        "monopoly",
-        "antitrust",
-        "neoliberalism"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "198b0cd352f0f7dd",
       "target": "88e7845df3037df1",

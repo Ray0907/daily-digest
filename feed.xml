@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 15 Sep 2026 00:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:47:16 GMT</lastBuildDate>
     
+    <item>
+      <title>There is no epidemic of loneliness, but there is an epidemic of scurvy</title>
+      <link>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</link>
+      <guid>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</guid>
+      <pubDate>Tue, 15 Sep 2026 12:54:38 GMT</pubDate>
+      <source url="https://www.experimental-history.com/">Experimental History</source>
+      <description>The article challenges the prevailing narrative regarding a loneliness epidemic by drawing a provocative comparison to historical outbreaks of scurvy. It suggests that modern societal malaise may be better understood through the lens of fundamental physical or systemic deficiencies rather than purely psychological factors.</description>
+    </item>
+
+    <item>
+      <title>Tag index for Org mode blog</title>
+      <link>https://entropicthoughts.com/tag-index-for-org-mode-blog</link>
+      <guid>https://entropicthoughts.com/tag-index-for-org-mode-blog</guid>
+      <pubDate>Mon, 14 Sep 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article explains how the author generates a tag index for their Org mode-based blog. It specifically addresses a technical challenge involving recursive functions hitting stack limits and provides a code snippet for the implementation.</description>
+    </item>
+
+    <item>
+      <title>alt.time-capsule.reopened</title>
+      <link>https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</link>
+      <guid>https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</guid>
+      <pubDate>Tue, 15 Sep 2026 02:58:29 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>This article explores the complexities of resurfacing decades-old Usenet posts through new archival tools. It reflects on the shift from viewing internet content as ephemeral to the reality of its permanence, and notes the decline of Google Groups as a repository for this history.</description>
+    </item>
+
+    <item>
+      <title>Shadowing the Standard Library</title>
+      <link>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</link>
+      <guid>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</guid>
+      <pubDate>Tue, 15 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article explores the security risks of including the current directory in module search paths, a behavior that allows malicious code injection. The author analyzes how various programming languages like Ruby and Perl have addressed this vulnerability by removing local directory resolution from their standard libraries.</description>
+    </item>
+
+    <item>
+      <title>Simple approximation for spherical cap area</title>
+      <link>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</guid>
+      <pubDate>Tue, 15 Sep 2026 22:00:44 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article explores the geometry of high-dimensional spaces, specifically how word vectors and cosine similarity behave. It introduces a practical mathematical approximation for calculating the area of a spherical cap to help understand vector relationships.</description>
+    </item>
+
+    <item>
+      <title>What counts as a large cosine similarity?</title>
+      <link>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:06:02 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the interpretation of cosine similarity in machine learning by explaining how vector angles relate to word similarity. It clarifies that what qualifies as a 'large' value is context-dependent and lacks a universal threshold.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Everybody pees (15 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/</link>
+      <guid>https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/</guid>
+      <pubDate>Tue, 15 Sep 2026 07:27:02 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow uses the universal human reality of aging and biological needs to critique the inhumane working conditions at Amazon. He contrasts the natural bladder functions of older individuals like Jeff Bezos with the systematic denial of bathroom breaks for Amazon warehouse and delivery workers.</description>
+    </item>
+
+    <item>
+      <title>Tell agents the why, not just the how</title>
+      <link>https://seangoedecke.com/tell-agents-the-why/</link>
+      <guid>https://seangoedecke.com/tell-agents-the-why/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article argues that when prompting AI agents, providing context and intent ('the why') is more effective than focusing solely on task instructions ('the how'). By explaining the underlying goals, agents can better navigate ambiguity and achieve more accurate results.</description>
+    </item>
+
     <item>
       <title>Hoe wordt de overheid weer 'van de IT'?</title>
       <link>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</link>
@@ -832,78 +904,6 @@
       <pubDate>Sun, 06 Sep 2026 11:37:00 GMT</pubDate>
       <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
       <description>Bert Hubert reflects on his keynote speech at the Kunsten '92 Paradisodebat, where he participated in a two-hour discussion about AI. He emphasizes the value of stepping outside one's own professional tech bubble to exchange ideas with the arts and culture sector.</description>
-    </item>
-
-    <item>
-      <title>The Education of a Doomer</title>
-      <link>https://borretti.me/article/the-education-of-a-doomer</link>
-      <guid>https://borretti.me/article/the-education-of-a-doomer</guid>
-      <pubDate>Mon, 07 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>The author documents their intellectual journey from holding an optimistic view on artificial intelligence to embracing a 'doomer' perspective. The piece explores the motivations and shifting reasoning behind this significant change in stance.</description>
-    </item>
-
-    <item>
-      <title>Ngram error rate</title>
-      <link>https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/</link>
-      <guid>https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:45 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the etymology of the word 'grok,' originating from Robert A. Heinlein's science fiction novel 'Stranger in a Strange Land.' It highlights the term's Martian roots and its metaphorical meaning related to the act of drinking.</description>
-    </item>
-
-    <item>
-      <title>The purpose of DNS is to spread scams</title>
-      <link>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</guid>
-      <pubDate>Sun, 06 Sep 2026 11:34:20 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post explores how the DNS system is exploited to facilitate widespread phishing scams using deceptive domain names. The author highlights how attackers leverage obscure or misleading top-level domains to trick users into believing fraudulent sites are legitimate.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/06/hotels-california/</link>
-      <guid>https://pluralistic.net/2026/09/06/hotels-california/</guid>
-      <pubDate>Mon, 07 Sep 2026 05:29:25 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow examines how neoliberal economic theories from the University of Chicago fundamentally shifted antitrust enforcement, leading to the legitimization of massive corporate monopolies. He argues that this shift abandoned the goal of limiting corporate power, instead viewing market dominance as an inherent sign of efficiency rather than potential malfeasance.</description>
-    </item>
-
-    <item>
-      <title>I found an old interview mine (2017) </title>
-      <link>https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</link>
-      <guid>https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</guid>
-      <pubDate>Mon, 07 Sep 2026 23:20:02 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author reflects on a 2017 interview snippet where they identified the difficulty of communicating technical concepts as their greatest professional challenge. This look back reinforces their belief that effective communication and writing are as critical as coding skills.</description>
-    </item>
-
-    <item>
-      <title>Clickable whitespace </title>
-      <link>https://idiallo.com/blog/clickable-whitespace</link>
-      <guid>https://idiallo.com/blog/clickable-whitespace</guid>
-      <pubDate>Mon, 07 Sep 2026 21:53:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author reflects on an ethical dilemma early in their career involving a request to make whitespace clickable to facilitate deceptive user tracking. This practice is used by coupon websites to claim attribution for sales by triggering hidden actions without the user's explicit consent.</description>
-    </item>
-
-    <item>
-      <title>Creepy crawlies</title>
-      <link>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</link>
-      <guid>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</guid>
-      <pubDate>Mon, 07 Sep 2026 23:08:58 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Konstantin Ryabitsev highlights the overwhelming burden that abusive web crawlers place on the Linux kernel's Git infrastructure, noting that more CPU cycles are spent serving scrapers than legitimate traffic. Simon Willison reflects on this issue, expressing concern regarding its impact on crawlable web services like Datasette.</description>
-    </item>
-
-    <item>
-      <title>Quoting Jakub Pachocki</title>
-      <link>https://simonwillison.net/2026/Sep/7/jakub-pachocki/</link>
-      <guid>https://simonwillison.net/2026/Sep/7/jakub-pachocki/</guid>
-      <pubDate>Mon, 07 Sep 2026 22:26:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>OpenAI Chief Scientist Jakub Pachocki argues that developing advanced AI is necessary to create defensive systems against future AI-related risks. However, he emphasizes that the need for security should not justify reckless development or an 'at-all-costs' approach to AI progress.</description>
     </item>
   </channel>
 </rss>
