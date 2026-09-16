@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-09-15T23:47:16.019Z",
+  "last_updated": "2026-09-16T23:56:33.586Z",
   "articles": [
+    {
+      "id": "5a5baeb2bf6b0180",
+      "title": "Bottlenecks Get a Bad Rap",
+      "url": "https://blog.jim-nielsen.com/2026/bottlenecks/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-15T19:00:00.000Z",
+      "summary_en": "This article reframes the concept of bottlenecks, arguing that they are not inherently negative but often serve a functional purpose in managing flow. It suggests that instead of fighting constraints, we should evaluate whether the incoming volume is appropriate for our capacity.",
+      "summary_zh": "本文重新定義了瓶頸的概念，認為其並非絕對負面，反而常在流量管理中發揮重要作用。文章建議與其試圖突破限制，不如檢視輸入的流量是否過大，甚至應質疑追求過高流量的必要性。",
+      "keywords": [
+        "bottleneck",
+        "efficiency",
+        "flow management",
+        "perspective",
+        "capacity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article challenges a conventional belief by providing a new conceptual framework for understanding bottlenecks.",
+      "pacer_reason_zh": "本文透過提供理解瓶頸的新概念框架，挑戰了傳統觀點。"
+    },
+    {
+      "id": "4c575611d79ad216",
+      "title": "The LLMs yearn for the spines",
+      "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-09-16T19:58:30.000Z",
+      "summary_en": "The author investigates whether the sudden rise of the word 'spine' in GitHub pull requests is a linguistic marker of LLM usage. By analyzing trends in PR data, the article demonstrates a significant surge that cannot be explained by general repository growth, suggesting a potential trend in AI-generated documentation.",
+      "summary_zh": "作者探討了 GitHub 拉取請求中「spine」一詞的突然增加，是否為大型語言模型生成的特徵。透過分析 PR 數據趨勢，文章顯示這種顯著增長無法僅以倉庫總量成長解釋，暗示了這可能是 AI 生成內容的一種常見現象。",
+      "keywords": [
+        "LLM",
+        "GitHub",
+        "data analysis",
+        "linguistics",
+        "AI generation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses empirical data from GitHub pull request archives and visual graphs to test a hypothesis about AI-generated language.",
+      "pacer_reason_zh": "文章使用了 GitHub 拉取請求的實證數據與圖表，來檢驗關於 AI 生成語言的假說。"
+    },
+    {
+      "id": "fb40b54821d28e66",
+      "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+      "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-09-16T20:48:47.000Z",
+      "summary_en": "DDoSecrets has released filesystem images from Flock ALPR cameras, revealing significant security flaws including hard-coded credentials. Investigative reports highlight how these vulnerabilities expose sensitive data from automated license plate recognition systems.",
+      "summary_zh": "DDoSecrets 發布了 Flock 車牌辨識攝影機的檔案系統映像檔，揭露了包含硬編碼憑證在內的重大安全漏洞。調查報告強調了這些漏洞如何導致自動化車牌辨識系統的敏感數據面臨風險。",
+      "keywords": [
+        "Flock",
+        "ALPR",
+        "cybersecurity",
+        "vulnerabilities",
+        "DDoSecrets"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on an investigation into specific data (filesystem images) and evidence of security vulnerabilities found within the hardware.",
+      "pacer_reason_zh": "本文基於對特定數據（檔案系統映像檔）的調查，以及硬體中發現的安全漏洞證據。"
+    },
+    {
+      "id": "235528940d6ac155",
+      "title": "Converting between cosine similarity and concentration ratio",
+      "url": "https://www.johndcook.com/blog/2026/09/16/concentration-ratio/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-16T16:05:11.000Z",
+      "summary_en": "This article explores the mathematical relationship between cosine similarity and concentration ratios for normalized word vectors. It highlights how these metrics relate to high-dimensional geometry and provides context for evaluating similarity in vector spaces.",
+      "summary_zh": "本文探討了歸一化詞向量在餘弦相似度與濃度比（concentration ratio）之間的數學關係。文中解析了這些度量方式如何對應高維空間幾何，並探討了評估向量相似度的相關理論基礎。",
+      "keywords": [
+        "cosine similarity",
+        "concentration ratio",
+        "vector spaces",
+        "geometry",
+        "data science"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the mathematical concepts and theoretical connections between two similarity metrics in vector spaces.",
+      "pacer_reason_zh": "本文旨在解釋向量空間中兩種相似度量指標之間的數學概念與理論聯繫。"
+    },
+    {
+      "id": "66880848ebb5d85f",
+      "title": "Coffee + milk ≠ latte",
+      "url": "https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-16T15:06:58.000Z",
+      "summary_en": "This post clarifies that vector embeddings in natural language processing do not function like simple arithmetic. The author explains that while word vectors show meaningful relationships, they are not strictly additive in the literal sense.",
+      "summary_zh": "這篇文章探討了自然語言處理中的詞向量嵌入，並澄清它們並非單純的算術運算。作者解釋說，雖然詞向量展現了詞彙間的關聯，但不能將其簡單地視為字面意義上的加減法。",
+      "keywords": [
+        "word embeddings",
+        "NLP",
+        "vector arithmetic",
+        "data science",
+        "linguistics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual limitations and theoretical nuances behind how word vector arithmetic is interpreted.",
+      "pacer_reason_zh": "這篇文章解釋了詞向量算術背後的概念侷限性與理論細節。"
+    },
+    {
+      "id": "830e15f341c6e4a1",
+      "title": "Fibonacci product",
+      "url": "https://www.johndcook.com/blog/2026/09/16/fibonacci-product/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-16T12:04:09.000Z",
+      "summary_en": "This post explores a mathematical theorem stating that the product of four consecutive Fibonacci numbers is equivalent to the product of two consecutive integers. The author discusses the connection between these products and triangular numbers, providing a specific example to illustrate the property.",
+      "summary_zh": "這篇文章探討了一個數學定理，指出四個連續斐波那契數的乘積等於兩個連續整數的乘積。作者透過具體範例說明此性質，並進一步探討其與三角形數之間的關聯。",
+      "keywords": [
+        "Fibonacci numbers",
+        "Mathematics",
+        "Number theory",
+        "Triangular numbers",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its underlying theoretical relationship.",
+      "pacer_reason_zh": "本文解釋了一個數學概念及其背後的理論關係。"
+    },
+    {
+      "id": "03e2060323df7013",
+      "title": "Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-15T14:00:00.000Z",
+      "summary_en": "This post explains the historical context behind Microsoft's job leveling system. It clarifies that while levels originally started at 1, the current numbering scheme evolved from a different legacy framework.",
+      "summary_zh": "本文解釋了微軟職位等級系統背後的歷史背景。文中說明儘管早期的職級編號從 1 開始，但目前的編號體系是從舊有的框架演變而來的。",
+      "keywords": [
+        "Microsoft",
+        "job levels",
+        "corporate history",
+        "The Old New Thing",
+        "career structure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual background and history behind a specific organizational naming convention.",
+      "pacer_reason_zh": "內容解釋了特定組織命名慣例背後的概念背景與歷史。"
+    },
+    {
+      "id": "39e02f797f16387e",
+      "title": "How to get a DOI for your blog posts",
+      "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-16T11:34:28.000Z",
+      "summary_en": "This post provides a comprehensive guide on how to assign Digital Object Identifiers (DOIs) to blog posts to improve content permanence and citability. It covers both manual and automatic submission methods, along with an evaluation of the practical benefits and potential challenges.",
+      "summary_zh": "這篇文章提供了為部落格文章分配數位物件識別碼 (DOI) 的詳細教學，旨在提升內容的永久性與可引用性。內容涵蓋了自動化與手動提交的方法，並探討了實際應用中的優點與潛在挑戰。",
+      "keywords": [
+        "DOI",
+        "blogging",
+        "digital preservation",
+        "tutorials",
+        "academic citation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions primarily as a how-to guide explaining the step-by-step process of obtaining and implementing DOIs for blog posts.",
+      "pacer_reason_zh": "本文主要作為操作指南，逐步說明如何為部落格文章申請並實作 DOI 的流程。"
+    },
+    {
+      "id": "6f2400880ccb7c87",
+      "title": "[RSS Club] Sorry for breaking your feed readers!",
+      "url": "https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-15T11:34:26.000Z",
+      "summary_en": "The author addresses technical issues where his RSS feed content caused errors in certain feed readers due to improper handling of escaped HTML tags. He emphasizes the exclusive nature of his RSS-only content while explaining the challenges of maintaining compatibility across various feed aggregators.",
+      "summary_zh": "作者針對近期 RSS 訂閱內容導致部分閱讀器故障的問題進行說明，並解釋了這是由於特定 HTML 標籤轉義處理不當所致。同時，他強調了這些內容僅限透過 RSS 與 Atom 訂閱取得的獨特性。",
+      "keywords": [
+        "RSS",
+        "Feed Reader",
+        "HTML",
+        "Tech Support",
+        "Blogging"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of a technical bug related to how feed readers interpret escaped code in RSS feeds.",
+      "pacer_reason_zh": "該文章針對 RSS 閱讀器解析代碼時出現的技術漏洞，提供了概念性的解釋與說明。"
+    },
+    {
+      "id": "e349983ce8e8d25b",
+      "title": "Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/16/beggar-thy-neighbor/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-16T07:52:58.000Z",
+      "summary_en": "Cory Doctorow argues that AI 'hyperscalers' are pushing for a moratorium on AI development to stifle competition and mask their own financial instability. The article contends that these companies struggle with negative unit economics and use non-standard accounting practices to fabricate claims of profitability.",
+      "summary_zh": "Cory Doctorow 指出 AI 巨頭推動暫停 AI 發展的背後動機，是為了消滅潛在競爭對手並掩蓋自身的財務困境。文章認為這些企業面臨嚴重的負面單位經濟效益，並透過非標準的會計手法虛構其獲利能力。",
+      "keywords": [
+        "AI",
+        "hyperscalers",
+        "profitability",
+        "monopoly",
+        "tech-policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptualizing the economic motives and business strategies behind the AI industry's push for regulation.",
+      "pacer_reason_zh": "該內容側重於概念化 AI 產業推動監管背後的經濟動機與商業策略。"
+    },
+    {
+      "id": "fa62722b82a04c81",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-09-16T18:14:22.000Z",
+      "summary_en": "Data broker Radaris.com has been ordered by a judge to forfeit its primary domain and others following a lawsuit regarding violations of a New Jersey privacy law. The company faced legal action for failing to comply with requests to remove personal information, specifically concerning state law enforcement officials.",
+      "summary_zh": "數據經紀商 Radaris.com 因長期忽略移除個人資料請求，在紐澤西州的一起訴訟中敗訴。法院裁定該公司必須移交 radaris.com 及其他十多個網域，以懲罰其違反州隱私法規並保護執法人員資訊的行為。",
+      "keywords": [
+        "Radaris",
+        "Data Broker",
+        "Privacy Law",
+        "Domain Seizure",
+        "Krebs on Security"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a journalistic case study reporting on a specific legal outcome and its consequences.",
+      "pacer_reason_zh": "本文屬於新聞報導性質的案例研究，重點說明特定的法律判決及其執行結果。"
+    },
+    {
+      "id": "bc4ce9d50d9b33de",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-16T18:09:49.000Z",
+      "summary_en": "Anthropic is merging its 'Claude Cowork' and chat services into a unified Claude platform. This shift positions Claude as a general agent capable of handling autonomous tasks, mirroring similar industry trends seen with OpenAI.",
+      "summary_zh": "Anthropic 宣佈將「Claude Cowork」與其聊天服務合併為單一的 Claude 平台。此舉標誌著 Claude 正轉型為具備自主任務處理能力的通用 AI 代理，與 OpenAI 近期的產品整合策略相呼應。",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "General Agent",
+        "AI",
+        "LLMs"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual shift in product strategy and the evolving role of AI agents.",
+      "pacer_reason_zh": "本文旨在解釋產品策略的概念性轉變，並探討 AI 代理角色的演變。"
+    },
+    {
+      "id": "35cfdc3ffbab38ec",
+      "title": "Quoting Mustafa Suleyman",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-16T16:00:54.000Z",
+      "summary_en": "Mustafa Suleyman argues that AI models should not be attributed with human-like consciousness or rights. He warns that treating models as sentient entities complicates the challenges of AI alignment and safety.",
+      "summary_zh": "Mustafa Suleyman 主張不應將 AI 模型視為具有意識或權利的實體。他警告說，將模型擬人化會使 AI 對齊與安全性挑戰變得更加困難。",
+      "keywords": [
+        "AI ethics",
+        "generative AI",
+        "model welfare",
+        "Mustafa Suleyman",
+        "AI alignment"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual discussion regarding the nature of AI models and the ethical implications of anthropomorphizing them.",
+      "pacer_reason_zh": "內容側重於關於 AI 模型本質及其擬人化所帶來的倫理影響的概念性討論。"
+    },
+    {
+      "id": "219c439494be37ce",
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-15T22:47:07.000Z",
+      "summary_en": "Simon Willison introduces a web-based interface for interacting with Google's new Gemini 3.8 Live and Extended Thinking speech-to-speech models. The tool allows users to test voice conversations, select model presets, and experience real-time interruptions directly in the browser.",
+      "summary_zh": "Simon Willison 介紹了一個網頁介面，用於測試 Google 新發布的 Gemini 3.8 Live 與 Extended Thinking 語音模型。該工具允許使用者在瀏覽器中進行語音對話、選擇模型預設並體驗即時中斷對話的功能。",
+      "keywords": [
+        "Gemini Live",
+        "Google",
+        "AI",
+        "web UI",
+        "voice interaction"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical tool and a web interface for users to test and interact with new AI models.",
+      "pacer_reason_zh": "文章提供了一個實用工具與網頁介面，讓使用者可以親自測試並與新的 AI 模型進行互動。"
+    },
+    {
+      "id": "d0e76c83db88dcf1",
+      "title": "Jev means structured output is interesting again",
+      "url": "https://seangoedecke.com/jev-means-structured-output-is-interesting-again/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-16T00:00:00.000Z",
+      "summary_en": "The article discusses the resurgence of interest in structured output within the context of language models. It highlights how tools like Jev are making structured data processing more efficient and relevant for developers.",
+      "summary_zh": "本文探討了結構化輸出在大型語言模型領域中重新受到關注的趨勢。文章強調了像 Jev 這樣的工具如何提升開發者處理結構化數據的效率與重要性。",
+      "keywords": [
+        "Jev",
+        "Structured Output",
+        "LLM",
+        "Data Processing",
+        "AI Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in the utility and implementation of structured outputs in AI models.",
+      "pacer_reason_zh": "文章探討了 AI 模型中結構化輸出之效用與實作的觀念轉變。"
+    },
     {
       "id": "8e70e1a03dfc5ccd",
       "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
