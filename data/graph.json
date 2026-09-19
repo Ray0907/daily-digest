@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "fb0112d2438294ff",
+      "title": "datasette-auth-github 1.0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "pacer": "E",
+      "keywords": [
+        "datasette",
+        "github",
+        "plugins",
+        "authentication",
+        "software release"
+      ],
+      "published": "2026-09-19T19:52:02.000Z"
+    },
+    {
+      "id": "41d15f7729de397a",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "pacer": "E",
+      "keywords": [
+        "wildlife",
+        "California Sea Lion",
+        "Brandt's Cormorant",
+        "Northern Gannet",
+        "nature photography"
+      ],
+      "published": "2026-09-19T17:10:08.000Z"
+    },
+    {
+      "id": "ceffd53cfd7b6284",
+      "title": "Notes on discrete-time Fourier series and transform",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/",
+      "pacer": "C",
+      "keywords": [
+        "DTFS",
+        "DTFT",
+        "signal processing",
+        "Fourier transform",
+        "mathematics"
+      ],
+      "published": "2026-09-19T16:39:00.000Z"
+    },
+    {
+      "id": "8d6d9c452cb2f789",
+      "title": "Reading List 09/19/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-09192026",
+      "pacer": "R",
+      "keywords": [
+        "Construction",
+        "Housing",
+        "Infrastructure",
+        "Energy",
+        "Market Trends"
+      ],
+      "published": "2026-09-19T12:03:09.000Z"
+    },
+    {
+      "id": "11842c5d61ed1379",
+      "title": "This Week in Package Management: 19 September 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/19/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "Homebrew",
+        "SwiftPM",
+        "pnpm",
+        "software updates"
+      ],
+      "published": "2026-09-19T10:00:00.000Z"
+    },
+    {
+      "id": "4409746de2af8f29",
+      "title": "Why fitting a logistic is nearly impossible from early data",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/",
+      "pacer": "C",
+      "keywords": [
+        "logistic growth",
+        "data fitting",
+        "statistics",
+        "forecasting",
+        "mathematical modeling"
+      ],
+      "published": "2026-09-19T01:17:36.000Z"
+    },
+    {
+      "id": "9f1f9ab84feddf64",
+      "title": "Finding Bugs",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+      "pacer": "P",
+      "keywords": [
+        "fuzzing",
+        "generative testing",
+        "unit testing",
+        "Rust",
+        "debugging"
+      ],
+      "published": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "1b7a07575c93824e",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "pacer": "E",
+      "keywords": [
+        "Gemini",
+        "AI security",
+        "cybersecurity",
+        "Google",
+        "LLM"
+      ],
+      "published": "2026-09-18T23:57:57.000Z"
+    },
+    {
       "id": "6d026a20051380d1",
       "title": "Note on 18th September 2026",
       "source": "Simon Willison's Weblog",
@@ -79,22 +207,6 @@
         "game development"
       ],
       "published": "2026-09-18T15:39:55.000Z"
-    },
-    {
-      "id": "55668e9d93e2c01a",
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "pacer": "C",
-      "keywords": [
-        "Who Framed Roger Rabbit",
-        "animation",
-        "filmmaking",
-        "special effects",
-        "pelican"
-      ],
-      "published": "2026-09-18T14:36:41.000Z"
     },
     {
       "id": "0987b6c9800e6a17",
@@ -177,22 +289,6 @@
       "published": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "c40a1cd0e489d726",
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "pacer": "C",
-      "keywords": [
-        "Rust",
-        "supply chain attack",
-        "cybersecurity",
-        "open-source",
-        "dependency cooldowns"
-      ],
-      "published": "2026-09-17T23:59:19.000Z"
-    },
-    {
       "id": "d0122f48e1a89a51",
       "title": "The Front Page of the Internet Is Up for Grabs ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -207,22 +303,6 @@
         "Software interface"
       ],
       "published": "2026-09-17T23:43:19.000Z"
-    },
-    {
-      "id": "0c114974aa55eb9d",
-      "title": "How To Write With An LLM",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-      "pacer": "P",
-      "keywords": [
-        "LLM",
-        "copyediting",
-        "AI writing",
-        "prompt engineering",
-        "writing style"
-      ],
-      "published": "2026-09-17T23:37:27.000Z"
     },
     {
       "id": "25463b1318046c41",
@@ -447,22 +527,6 @@
         "concurrency"
       ],
       "published": "2026-09-16T14:00:00.000Z"
-    },
-    {
-      "id": "830e15f341c6e4a1",
-      "title": "Fibonacci product",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/09/16/fibonacci-product/",
-      "pacer": "C",
-      "keywords": [
-        "Fibonacci numbers",
-        "Mathematics",
-        "Number theory",
-        "Triangular numbers",
-        "John D. Cook"
-      ],
-      "published": "2026-09-16T12:04:09.000Z"
     },
     {
       "id": "39e02f797f16387e",
@@ -1297,22 +1361,6 @@
       "published": "2026-09-08T16:00:00.000Z"
     },
     {
-      "id": "ec79b39d9e4be067",
-      "title": "What’s new in git-pkgs",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html",
-      "pacer": "R",
-      "keywords": [
-        "git-pkgs",
-        "CLI",
-        "dependency management",
-        "software development",
-        "version control"
-      ],
-      "published": "2026-09-08T09:00:00.000Z"
-    },
-    {
       "id": "3be173151d389ad1",
       "title": "I found an old interview mine (2017) ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -1551,22 +1599,6 @@
         "vulnerability"
       ],
       "published": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "b1c6cc813b9e6f99",
-      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
-      "pacer": "C",
-      "keywords": [
-        "Housing Act",
-        "Housing Supply",
-        "Construction Physics",
-        "Real Estate Policy",
-        "Public Policy"
-      ],
-      "published": "2026-09-03T19:20:13.000Z"
     },
     {
       "id": "9cdc531f1d9ac797",
@@ -2529,22 +2561,6 @@
       "published": "2026-08-14T11:24:35.000Z"
     },
     {
-      "id": "40e5150f2b2926c0",
-      "title": "Printing Lists",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/08/14/printing-lists.html",
-      "pacer": "P",
-      "keywords": [
-        "Zig",
-        "programming",
-        "idioms",
-        "formatting",
-        "lists"
-      ],
-      "published": "2026-08-14T00:00:00.000Z"
-    },
-    {
       "id": "ceca0891005e72e4",
       "title": "Another partial SSI trick with canonicalize",
       "source": "Max Bernstein's Blog",
@@ -3196,22 +3212,6 @@
         "art supplies"
       ],
       "published": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "f0fa5829d5af7a9f",
-      "title": "Notes on the Fourier Transform",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/",
-      "pacer": "C",
-      "keywords": [
-        "Fourier Transform",
-        "Fourier series",
-        "Mathematics",
-        "Signal processing",
-        "Data visualization"
-      ],
-      "published": "2026-07-15T03:04:00.000Z"
     },
     {
       "id": "713d5c4af8a89517",
