@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "49fb62c4187a2f69",
+      "title": "This is why we play",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/blog/2026/this-is-why-we-play/",
+      "pacer": "C",
+      "keywords": [
+        "gaming",
+        "community",
+        "philosophy",
+        "negative space",
+        "culture"
+      ],
+      "published": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "c8aee9fb8db23a5b",
+      "title": "Quoting voxium",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "pacer": "E",
+      "keywords": [
+        "AI",
+        "LLM",
+        "software engineering",
+        "automation",
+        "tech culture"
+      ],
+      "published": "2026-09-20T21:06:43.000Z"
+    },
+    {
+      "id": "f9d4182cc1e12525",
+      "title": "llm-keys-ui 0.1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "pacer": "P",
+      "keywords": [
+        "llm",
+        "api-keys",
+        "coding-agents",
+        "plugin",
+        "simon-willison"
+      ],
+      "published": "2026-09-20T19:22:19.000Z"
+    },
+    {
+      "id": "0fe6f0b351ef5d2b",
+      "title": "Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Space Station",
+        "Architecture",
+        "Space Colonization",
+        "Jonathan Morrison"
+      ],
+      "published": "2026-09-20T11:34:30.000Z"
+    },
+    {
+      "id": "33879f77e1536c69",
+      "title": "datasette-explain 0.2.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "sqlite",
+        "plugin",
+        "database",
+        "release"
+      ],
+      "published": "2026-09-20T00:22:04.000Z"
+    },
+    {
+      "id": "d5a44e46ec928440",
+      "title": "Grit your teeth and ship it",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/grit-your-teeth-and-ship-it/",
+      "pacer": "C",
+      "keywords": [
+        "perfectionism",
+        "productivity",
+        "execution",
+        "shipping",
+        "mindset"
+      ],
+      "published": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "b112ac773817855e",
+      "title": "System One models like Jev can train their own replacements",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Jev",
+        "System One",
+        "self-improvement",
+        "machine learning"
+      ],
+      "published": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "fb0112d2438294ff",
       "title": "datasette-auth-github 1.0",
       "source": "Simon Willison's Weblog",
@@ -111,54 +223,6 @@
         "debugging"
       ],
       "published": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "id": "1b7a07575c93824e",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "pacer": "E",
-      "keywords": [
-        "Gemini",
-        "AI security",
-        "cybersecurity",
-        "Google",
-        "LLM"
-      ],
-      "published": "2026-09-18T23:57:57.000Z"
-    },
-    {
-      "id": "6d026a20051380d1",
-      "title": "Note on 18th September 2026",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "pacer": "A",
-      "keywords": [
-        "LLMs",
-        "AI",
-        "Generative AI",
-        "Computer Science",
-        "Analogy"
-      ],
-      "published": "2026-09-18T19:21:32.000Z"
-    },
-    {
-      "id": "b4eea27689aebcc6",
-      "title": "Quoting Thariq Shihipar",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "pacer": "P",
-      "keywords": [
-        "Claude Code",
-        "AGENTS.md",
-        "Anthropic",
-        "AI Agents",
-        "Developer Tools"
-      ],
-      "published": "2026-09-18T19:09:27.000Z"
     },
     {
       "id": "8c8dfda5ff667b29",
@@ -817,22 +881,6 @@
       "published": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "6ed524e4684357b5",
-      "title": "Slow developer experience will bottleneck fast models",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/",
-      "pacer": "C",
-      "keywords": [
-        "Developer Experience",
-        "AI Models",
-        "Bottleneck",
-        "Workflow Optimization",
-        "Performance"
-      ],
-      "published": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "fc8d550b9d81546d",
       "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
       "source": "Downtown Doug Brown",
@@ -881,22 +929,6 @@
       "published": "2026-09-13T19:00:00.000Z"
     },
     {
-      "id": "b51ce35e5874b850",
-      "title": "The expectations of privacy in driverless cars",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/",
-      "pacer": "C",
-      "keywords": [
-        "autonomous vehicles",
-        "privacy",
-        "robotaxi",
-        "Waymo",
-        "surveillance"
-      ],
-      "published": "2026-09-13T11:34:13.000Z"
-    },
-    {
       "id": "154cffb24bcdb61a",
       "title": "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
       "source": "Old Vintage Computing Research",
@@ -925,22 +957,6 @@
         "javascript",
         "code review",
         "functional programming"
-      ],
-      "published": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "id": "f57e6cd71dd0aba3",
-      "title": "AI is breaking our proxies for expertise",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "expertise",
-        "proxy",
-        "evaluation",
-        "skills"
       ],
       "published": "2026-09-13T00:00:00.000Z"
     },
@@ -2063,22 +2079,6 @@
         "technical debt"
       ],
       "published": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "d8cf354b01c3490d",
-      "title": "If your VS Code remotes stopped working, downgrade to v1.124.x",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/",
-      "pacer": "P",
-      "keywords": [
-        "VS Code",
-        "remote development",
-        "software bug",
-        "troubleshooting",
-        "version control"
-      ],
-      "published": "2026-08-26T00:00:00.000Z"
     },
     {
       "id": "05c10f8e12f7540d",

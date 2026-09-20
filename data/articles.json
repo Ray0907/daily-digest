@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-19T23:42:54.821Z",
+  "last_updated": "2026-09-20T23:39:05.142Z",
   "articles": [
+    {
+      "id": "49fb62c4187a2f69",
+      "title": "This is why we play",
+      "url": "https://xeiaso.net/blog/2026/this-is-why-we-play/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-09-21T00:00:00.000Z",
+      "summary_en": "This piece explores the philosophical nature of gaming, focusing on the intersection of community building and the value of negative space. It argues that gaming serves as a medium for shared experience and personal reflection beyond mere mechanics.",
+      "summary_zh": "這篇文章探討了遊戲的哲學本質，重點在於社群經營與「留白」價值之間的關聯。作者認為遊戲不僅僅是機制，更是一種實現共享體驗與個人反思的媒介。",
+      "keywords": [
+        "gaming",
+        "community",
+        "philosophy",
+        "negative space",
+        "culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual meditation on the philosophical purpose of gaming rather than a technical guide or data report.",
+      "pacer_reason_zh": "本文屬於針對遊戲哲學意義的觀念性思辨，而非技術指南或數據報告。"
+    },
+    {
+      "id": "0fe6f0b351ef5d2b",
+      "title": "Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-20T11:34:30.000Z",
+      "summary_en": "This review critiques Jonathan Morrison's 'How to Build a Space Station,' noting its optimistic architectural perspective in contrast to the skeptical tone of 'A City on Mars.' The book highlights the vital role of design and architecture in the future of off-world living.",
+      "summary_zh": "這篇書評探討了 Jonathan Morrison 所著的《如何建造太空站》，指出該書與《火星上的城市》持相反觀點，對太空居住環境持樂觀態度。書中強調了建築設計對於未來外星生存的重要性。",
+      "keywords": [
+        "Book Review",
+        "Space Station",
+        "Architecture",
+        "Space Colonization",
+        "Jonathan Morrison"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual overview and critique of a book's thematic approach to extraterrestrial architecture.",
+      "pacer_reason_zh": "內容提供了對書籍中關於外星建築主題觀點的概括與評論，屬於概念性探討。"
+    },
+    {
+      "id": "c8aee9fb8db23a5b",
+      "title": "Quoting voxium",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-20T21:06:43.000Z",
+      "summary_en": "This post highlights an alarming anecdote about a company where engineers rely entirely on AI to generate all technical documentation and code. It illustrates the risks of over-automation and the degradation of human oversight in corporate software development.",
+      "summary_zh": "這篇文章引用了一則關於某大型企業過度依賴 AI 生成所有技術文件與程式碼的警世案例。內容強調了過度自動化帶來的風險，以及工程師在缺乏人為審核下進行開發的潛在問題。",
+      "keywords": [
+        "AI",
+        "LLM",
+        "software engineering",
+        "automation",
+        "tech culture"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a specific anecdotal case study regarding the misuse of AI in a professional corporate environment.",
+      "pacer_reason_zh": "本文提供了一個關於在專業企業環境中誤用 AI 的具體案例研究。"
+    },
+    {
+      "id": "f9d4182cc1e12525",
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-20T19:22:19.000Z",
+      "summary_en": "Simon Willison released llm-keys-ui 0.1, a plugin designed to securely manage and input API keys for LLM coding agents. It provides a web interface to save keys on a machine, allowing agents to retrieve them via command-line without exposing them through chat interfaces.",
+      "summary_zh": "Simon Willison 發布了 llm-keys-ui 0.1，這是一個專為 LLM 程式設計代理程式安全管理 API 金鑰的插件。它提供了一個網頁介面，讓使用者能在機器上儲存金鑰，並透過指令列讓代理程式安全地讀取，無需直接在對話介面中輸入。",
+      "keywords": [
+        "llm",
+        "api-keys",
+        "coding-agents",
+        "plugin",
+        "simon-willison"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a release announcement and a tutorial on how to use the plugin to solve a specific workflow problem.",
+      "pacer_reason_zh": "該文章作為軟體發布公告，並教學如何使用該插件解決特定的工作流程問題。"
+    },
+    {
+      "id": "33879f77e1536c69",
+      "title": "datasette-explain 0.2.2",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-20T00:22:04.000Z",
+      "summary_en": "Simon Willison has released version 0.2.2 of the datasette-explain plugin. This update enables explain plans to function on read-only stored-query pages following an upgrade to Datasette 1.0a40.",
+      "summary_zh": "Simon Willison 發布了 datasette-explain 外掛程式的 0.2.2 版本。此次更新在升級至 Datasette 1.0a40 後，讓執行計畫功能支援唯讀的儲存查詢頁面。",
+      "keywords": [
+        "datasette",
+        "sqlite",
+        "plugin",
+        "database",
+        "release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content functions as a release announcement and reference for software updates.",
+      "pacer_reason_zh": "該內容作為軟體更新的發布公告與參考資訊。"
+    },
+    {
+      "id": "d5a44e46ec928440",
+      "title": "Grit your teeth and ship it",
+      "url": "https://seangoedecke.com/grit-your-teeth-and-ship-it/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-20T00:00:00.000Z",
+      "summary_en": "The article emphasizes the importance of overcoming perfectionism by prioritizing the act of shipping work over endless refinement. It argues that consistent execution is more valuable than theoretical planning in achieving long-term success.",
+      "summary_zh": "本文強調克服完美主義的重要性，建議應優先考慮將成果發布，而非無止盡地進行修改。文章認為，持續的執行力比起紙上談兵的計畫，更能帶來長期的成功。",
+      "keywords": [
+        "perfectionism",
+        "productivity",
+        "execution",
+        "shipping",
+        "mindset"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a conceptual piece focusing on the philosophy of productivity and the mindset required to overcome procrastination.",
+      "pacer_reason_zh": "這是一篇關於生產力哲學與克服拖延心態的概念性文章。"
+    },
+    {
+      "id": "b112ac773817855e",
+      "title": "System One models like Jev can train their own replacements",
+      "url": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-20T00:00:00.000Z",
+      "summary_en": "This post explores the concept of System One AI models, such as Jev, having the potential to autonomously train their own successor models. It touches on the implications of recursive self-improvement in artificial intelligence development.",
+      "summary_zh": "本文探討了像 Jev 這類系統一（System One）AI 模型具備自主訓練下一代模型的能力。文章深入分析了人工智慧發展過程中，遞迴自我改進所帶來的潛在影響。",
+      "keywords": [
+        "AI",
+        "Jev",
+        "System One",
+        "self-improvement",
+        "machine learning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses high-level concepts and theories regarding the future capabilities of AI architectures.",
+      "pacer_reason_zh": "本文討論關於 AI 架構未來能力的理論與概念。"
+    },
     {
       "id": "ceffd53cfd7b6284",
       "title": "Notes on discrete-time Fourier series and transform",
