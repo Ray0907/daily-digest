@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-09-22T00:20:11.492Z",
+  "last_updated": "2026-09-22T23:53:59.444Z",
   "articles": [
+    {
+      "id": "0acb1218cac1f137",
+      "title": "On reading books",
+      "url": "https://herman.bearblog.dev/on-reading-books/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-09-22T09:20:00.000Z",
+      "summary_en": "The author reflects on how their childhood environment fostered a deep love for reading and how habits evolved during university. They argue that books uniquely build empathy by providing direct access to a character's internal thoughts and motivations, unlike other media.",
+      "summary_zh": "作者回顧了童年環境如何培養了對閱讀的熱愛，以及在大學期間閱讀習慣的轉變。他們認為書籍能讓人深入理解角色的內心思想與動機，從而創造出其他媒體無法比擬的同理心。",
+      "keywords": [
+        "reading",
+        "literacy",
+        "habits",
+        "empathy",
+        "media"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual reflection on the nature of reading and its unique impact on empathy and personal growth.",
+      "pacer_reason_zh": "這篇文章是對閱讀本質及其對同理心與個人成長之獨特影響的概念性反思。"
+    },
+    {
+      "id": "b9d1fd5b59fd6a1f",
+      "title": "Apple’s Performa in-store demo software from 1993",
+      "url": "https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/",
+      "source": "Downtown Doug Brown",
+      "source_url": "https://www.downtowndougbrown.com/",
+      "published": "2026-09-22T06:12:01.000Z",
+      "summary_en": "The author shares their experience discovering and preserving a rare 1993 in-store demo software for the Macintosh Performa 410. They detail the process of retrieving this forgotten System 7.1P3 OS version from an eBay purchase to archive a piece of computing history.",
+      "summary_zh": "作者分享了他們尋獲並保存 1993 年 Macintosh Performa 410 零售店展示軟體的過程。透過購買這台舊電腦，作者成功找回了當時鮮為人知且未被妥善保留的 System 7.1P3 作業系統，為電腦歷史留下了珍貴紀錄。",
+      "keywords": [
+        "Macintosh",
+        "Performa",
+        "Retro computing",
+        "System 7.1P",
+        "Software preservation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study and report on a specific discovery and archival effort of rare vintage software.",
+      "pacer_reason_zh": "本文屬於針對特定軟體發現與保存工作的個案研究與記錄。"
+    },
+    {
+      "id": "23879016fa9da22c",
+      "title": "A Great Story Capturing the Essence of Being Online in 2026",
+      "url": "https://blog.jim-nielsen.com/2026/online-in-2026/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-21T19:00:00.000Z",
+      "summary_en": "This post recounts an anecdote about Bryan Cantrill questioning his own originality after Google's AI falsely attributed a self-written phrase to an episode of The Simpsons. It serves as a commentary on the deceptive nature of generative AI, which can confidently fabricate information that challenges our perception of reality.",
+      "summary_zh": "本文講述了 Bryan Cantrill 因 Google AI 錯誤地將他自創的語句歸類為《辛普森家庭》台詞，而對自身原創性產生懷疑的故事。這篇文章反映了生成式 AI 具有自信地編造事實的特性，進而挑戰了我們對現實與創作的認知。",
+      "keywords": [
+        "AI",
+        "Generative AI",
+        "Hallucination",
+        "Bryan Cantrill",
+        "Creativity"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's experience as an analogy to discuss the broader issue of AI hallucinations and the nature of human versus machine intelligence.",
+      "pacer_reason_zh": "本文透過作者的個人經歷作為類比，探討了 AI 幻覺問題以及人類與機器智慧本質的廣泛議題。"
+    },
+    {
+      "id": "e8fb7849254f622f",
+      "title": "Cheaper LLM labelling",
+      "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-09-21T22:00:00.000Z",
+      "summary_en": "This article demonstrates a practical approach to automating the classification of git commits using an LLM. By leveraging the 'llm' CLI tool within a Perl script, the author shows how to integrate AI labeling into a standard development workflow.",
+      "summary_zh": "本文介紹了一種使用大型語言模型自動分類 Git 提交紀錄的實作方法。作者展示了如何透過 Perl 腳本結合 'llm' 命令列工具，將 AI 標記功能整合至開發工作流中。",
+      "keywords": [
+        "LLM",
+        "Perl",
+        "automation",
+        "labelling",
+        "git"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step implementation guide for using a specific tool to automate a task.",
+      "pacer_reason_zh": "本文提供了具體的操作步驟指南，說明如何使用特定工具來自動化執行任務。"
+    },
+    {
+      "id": "0ec59cf0d8861776",
+      "title": "Package Manager Threat Model, Revisited",
+      "url": "https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-22T09:00:00.000Z",
+      "summary_en": "The author revisits a package manager threat model by analyzing 126 recent security advisories across 23 tools. The report highlights that path traversal remains the most common vulnerability, frequently occurring through manifest fields rather than traditional archive entries.",
+      "summary_zh": "作者重新審視了套件管理器的威脅模型，分析了 23 款工具中近期出現的 126 項安全公告。研究指出路徑遍歷漏洞仍是最常見的問題，且多發生於清單欄位而非傳統的封存檔案中。",
+      "keywords": [
+        "security",
+        "package-manager",
+        "vulnerability",
+        "threat-model",
+        "path-traversal"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on empirical analysis of 126 real-world security advisories and audit data to support its conclusions.",
+      "pacer_reason_zh": "本文基於 126 項真實安全公告與審計數據的經驗分析，以此支持其結論。"
+    },
+    {
+      "id": "4313ed18c8889c27",
+      "title": "Unfinished Work in Package Security",
+      "url": "https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-22T09:00:00.000Z",
+      "summary_en": "This article examines the ongoing security vulnerabilities in software package managers, highlighting how gaps between existing controls leave developers exposed to malicious dependencies. By analyzing recent supply chain attacks, the author emphasizes the need for stricter installation permissions and more secure release promotion workflows.",
+      "summary_zh": "本文探討軟體套件管理工具中持續存在的安全漏洞，並強調現有防護機制之間的缺口如何使開發者暴露於惡意依賴的風險中。作者透過分析近期的供應鏈攻擊案例，強調強化安裝權限與提升發布流程安全性的必要性。",
+      "keywords": [
+        "package security",
+        "supply chain",
+        "software development",
+        "dependency management",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific case studies of supply chain attacks (Nx, Ledger Connect Kit) to provide evidence of existing security gaps in package managers.",
+      "pacer_reason_zh": "本文透過供應鏈攻擊（如 Nx、Ledger Connect Kit）的具體案例研究，為現行套件管理工具的安全缺口提供了實證。"
+    },
+    {
+      "id": "bde7019656d22e79",
+      "title": "Nathaniel Bowditch",
+      "url": "https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-22T14:01:30.000Z",
+      "summary_en": "This article reflects on the life and legacy of Nathaniel Bowditch, a self-educated mathematician and astronomer known for his influential work, The American Practical Navigator. The author discusses his discovery of the biographical book 'Carry On, Mr. Bowditch' and highlights Bowditch's significant contributions to navigation.",
+      "summary_zh": "本文介紹了自學成才的數學家與天文學家納撒尼爾·鮑迪奇（Nathaniel Bowditch），他是《美國實用航海家》一書的作者。作者在閱讀了關於鮑迪奇生平的傳記小說後，分享了對這位歷史人物重要貢獻的見解。",
+      "keywords": [
+        "Nathaniel Bowditch",
+        "Mathematics",
+        "Astronomy",
+        "Navigation",
+        "Biography"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an informative overview of a historical figure's life and professional significance.",
+      "pacer_reason_zh": "文章針對歷史人物的生平與專業成就進行了資訊性的概述與介紹。"
+    },
+    {
+      "id": "ca943a2ac1bc7b9d",
+      "title": "What’s the highest legal FILETIME? Is it safe to use?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-21T14:00:00.000Z",
+      "summary_en": "This article examines the maximum legal value for the Windows FILETIME structure and discusses the risks associated with its usage. It highlights common pitfalls and considerations when integrating FILETIME with other data types.",
+      "summary_zh": "本文探討了 Windows FILETIME 結構的最高合法數值，並討論了使用該格式時的相關風險。內容強調了在將 FILETIME 與其他資料型態整合時需要注意的常見陷阱。",
+      "keywords": [
+        "FILETIME",
+        "Windows",
+        "API",
+        "Programming",
+        "Data Types"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of a data type's limitations and safety considerations.",
+      "pacer_reason_zh": "該文章針對資料型態的限制與安全性考量提供了概念性的解釋。"
+    },
+    {
+      "id": "81aa5695d5052e6c",
+      "title": "Are LLMs still surprisingly bad at some simple tasks?",
+      "url": "https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-22T11:34:27.000Z",
+      "summary_en": "The author revisits a previous experiment revealing that modern LLMs struggle with straightforward questions, frequently producing errors or hallucinations. Despite common excuses regarding prompting techniques, the results highlight persistent reliability issues in AI models.",
+      "summary_zh": "作者重新檢視了先前的實驗，發現現代大型語言模型（LLM）在處理簡單問題時仍會頻繁出錯或產生幻覺。儘管有許多關於提示詞技巧的爭辯，但這些結果凸顯了 AI 模型在可靠性上仍存在持續性的問題。",
+      "keywords": [
+        "LLM",
+        "AI hallucinations",
+        "testing",
+        "benchmarking",
+        "artificial intelligence"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on an experimental test of LLM performance against specific questions.",
+      "pacer_reason_zh": "本文是基於針對大型語言模型效能進行的實驗測試與結果分析。"
+    },
+    {
+      "id": "07a42202fbf3f754",
+      "title": "Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/22/happy-chudmas/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-22T08:19:01.000Z",
+      "summary_en": "Cory Doctorow criticizes California Attorney General Rob Bonta for approving a merger between Warner Bros. and Paramount. The article argues that the settlement concessions are meaningless and effectively hands control of major media entities to Trump-aligned oligarchs.",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）批評加州檢察長羅伯·邦塔（Rob Bonta）批准華納兄弟與派拉蒙影業的合併案。文章指出該和解協議中的讓步條款毫無實質意義，形同將媒體控制權拱手讓給與川普陣營關係密切的寡頭。",
+      "keywords": [
+        "Rob Bonta",
+        "media merger",
+        "oligarchy",
+        "antitrust",
+        "Warner Bros Paramount"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the political and economic implications of a specific policy decision and its conceptual impact on market consolidation.",
+      "pacer_reason_zh": "本文旨在分析特定政策決定的政治與經濟影響，並解釋其對市場壟斷趨勢的概念性影響。"
+    },
+    {
+      "id": "7848254fe672777f",
+      "title": "It's Not Just True, It's False ",
+      "url": "https://idiallo.com/byte-size/its-not-just-true-its-false",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-09-22T01:49:51.000Z",
+      "summary_en": "This article critiques the workplace reliance on LLMs for documentation and task management, highlighting how AI-generated content frequently contains subtle, hallucinated errors. The author warns that while AI seems productive, the time spent proofreading often negates efficiency gains and risks feeding inaccurate data back into the system.",
+      "summary_zh": "本文探討了職場過度依賴大型語言模型 (LLM) 處理文件與任務的現象，並指出 AI 生成內容常隱含微妙的錯誤。作者提醒，雖然 AI 看似提升了生產力，但後續校對的時間成本往往抵銷了便利性，且長期下來會導致更多錯誤資訊回流至系統中。",
+      "keywords": [
+        "LLM",
+        "AI",
+        "productivity",
+        "hallucination",
+        "workplace"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the current trend of using AI in the workplace and explores the theoretical implications of AI-generated 'slop'.",
+      "pacer_reason_zh": "本文對當前職場使用 AI 的趨勢提出了概念性的評論，並探討了 AI 生成內容所帶來的潛在負面影響與理論意義。"
+    },
+    {
+      "id": "6d6d661c684a6428",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-22T23:46:41.000Z",
+      "summary_en": "The article discusses the rapid release of new AI models, including Claude Opus 5.5 and OpenAI's GPT-6 Sol and Luna. It highlights a significant price war in the industry, noting that the new models offer substantially lower costs compared to their predecessors.",
+      "summary_zh": "本文探討了近期多款 AI 模型的密集發布，包括 Claude Opus 5.5 以及 OpenAI 的 GPT-6 Sol 和 Luna。文章重點分析了產業內的價格競爭，並指出這些新模型與前代產品相比，成本大幅下降。",
+      "keywords": [
+        "AI Models",
+        "OpenAI",
+        "Anthropic",
+        "Pricing",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content primarily serves as a current reference guide and data table for comparing the pricing of various newly released AI models.",
+      "pacer_reason_zh": "內容主要作為一份現時的參考指南，透過數據表格比較各類剛發布之 AI 模型的價格。"
+    },
+    {
+      "id": "edb6d5a5f85d653b",
+      "title": "Quoting @therealcornpop",
+      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-22T18:03:21.000Z",
+      "summary_en": "This post highlights the identifiable characteristics of AI-generated content in social media scripts, noting a lack of genuine opinion and unique voice. It argues that formulaic AI patterns and a absence of perspective make such content easily detectable.",
+      "summary_zh": "本文探討了社群媒體腳本中 AI 生成內容的可識別特徵，指出其缺乏真實觀點與獨特語氣。文中認為，公式化的 AI 寫作模式與個人見解的缺失，使得這類內容極易被觀眾察覺。",
+      "keywords": [
+        "AI",
+        "content creation",
+        "TikTok",
+        "authenticity",
+        "AI-generated"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how AI writing patterns are perceived and identified by audiences.",
+      "pacer_reason_zh": "本文提供了關於觀眾如何感知與識別 AI 寫作模式的概念性解釋。"
+    },
+    {
+      "id": "0d7b498b4e4acf53",
+      "title": "llm-typesafe 0.1a0",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-22T15:54:16.000Z",
+      "summary_en": "Simon Willison has released llm-typesafe, a plugin for the LLM CLI tool that integrates TypeSafe AI's Jev model. The post demonstrates how to install the plugin and use it for structured outputs like yes/no queries, choice selection, and scoring.",
+      "summary_zh": "Simon Willison 發布了 llm-typesafe，這是一款為 LLM 命令列工具開發的插件，支援整合 TypeSafe AI 的 Jev 模型。文章展示了如何安裝該插件，並說明如何利用它進行結構化輸出，包括是非題、選項選擇與評分功能。",
+      "keywords": [
+        "llm",
+        "plugin",
+        "typesafe",
+        "jev",
+        "cli"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a release announcement and a tutorial on how to install and use the new LLM plugin.",
+      "pacer_reason_zh": "本文屬於軟體發布公告，並提供了關於如何安裝與使用此新 LLM 插件的教學步驟。"
+    },
     {
       "id": "965a78be4710b5e1",
       "title": "The iPhone Model Hall of Fame",

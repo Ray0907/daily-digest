@@ -4,8 +4,134 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 22 Sep 2026 00:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:53:59 GMT</lastBuildDate>
     
+    <item>
+      <title>On reading books</title>
+      <link>https://herman.bearblog.dev/on-reading-books/</link>
+      <guid>https://herman.bearblog.dev/on-reading-books/</guid>
+      <pubDate>Tue, 22 Sep 2026 09:20:00 GMT</pubDate>
+      <source url="https://herman.bearblog.dev/">Herman's blog</source>
+      <description>The author reflects on how their childhood environment fostered a deep love for reading and how habits evolved during university. They argue that books uniquely build empathy by providing direct access to a character's internal thoughts and motivations, unlike other media.</description>
+    </item>
+
+    <item>
+      <title>Apple’s Performa in-store demo software from 1993</title>
+      <link>https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/</link>
+      <guid>https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/</guid>
+      <pubDate>Tue, 22 Sep 2026 06:12:01 GMT</pubDate>
+      <source url="https://www.downtowndougbrown.com/">Downtown Doug Brown</source>
+      <description>The author shares their experience discovering and preserving a rare 1993 in-store demo software for the Macintosh Performa 410. They detail the process of retrieving this forgotten System 7.1P3 OS version from an eBay purchase to archive a piece of computing history.</description>
+    </item>
+
+    <item>
+      <title>A Great Story Capturing the Essence of Being Online in 2026</title>
+      <link>https://blog.jim-nielsen.com/2026/online-in-2026/</link>
+      <guid>https://blog.jim-nielsen.com/2026/online-in-2026/</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post recounts an anecdote about Bryan Cantrill questioning his own originality after Google's AI falsely attributed a self-written phrase to an episode of The Simpsons. It serves as a commentary on the deceptive nature of generative AI, which can confidently fabricate information that challenges our perception of reality.</description>
+    </item>
+
+    <item>
+      <title>Cheaper LLM labelling</title>
+      <link>https://entropicthoughts.com/cheaper-llm-labeling</link>
+      <guid>https://entropicthoughts.com/cheaper-llm-labeling</guid>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article demonstrates a practical approach to automating the classification of git commits using an LLM. By leveraging the 'llm' CLI tool within a Perl script, the author shows how to integrate AI labeling into a standard development workflow.</description>
+    </item>
+
+    <item>
+      <title>Package Manager Threat Model, Revisited</title>
+      <link>https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html</link>
+      <guid>https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html</guid>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The author revisits a package manager threat model by analyzing 126 recent security advisories across 23 tools. The report highlights that path traversal remains the most common vulnerability, frequently occurring through manifest fields rather than traditional archive entries.</description>
+    </item>
+
+    <item>
+      <title>Unfinished Work in Package Security</title>
+      <link>https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html</link>
+      <guid>https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html</guid>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article examines the ongoing security vulnerabilities in software package managers, highlighting how gaps between existing controls leave developers exposed to malicious dependencies. By analyzing recent supply chain attacks, the author emphasizes the need for stricter installation permissions and more secure release promotion workflows.</description>
+    </item>
+
+    <item>
+      <title>Nathaniel Bowditch</title>
+      <link>https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:01:30 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article reflects on the life and legacy of Nathaniel Bowditch, a self-educated mathematician and astronomer known for his influential work, The American Practical Navigator. The author discusses his discovery of the biographical book 'Carry On, Mr. Bowditch' and highlights Bowditch's significant contributions to navigation.</description>
+    </item>
+
+    <item>
+      <title>What’s the highest legal FILETIME? Is it safe to use?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</guid>
+      <pubDate>Mon, 21 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This article examines the maximum legal value for the Windows FILETIME structure and discusses the risks associated with its usage. It highlights common pitfalls and considerations when integrating FILETIME with other data types.</description>
+    </item>
+
+    <item>
+      <title>Are LLMs still surprisingly bad at some simple tasks?</title>
+      <link>https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/</guid>
+      <pubDate>Tue, 22 Sep 2026 11:34:27 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author revisits a previous experiment revealing that modern LLMs struggle with straightforward questions, frequently producing errors or hallucinations. Despite common excuses regarding prompting techniques, the results highlight persistent reliability issues in AI models.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/22/happy-chudmas/</link>
+      <guid>https://pluralistic.net/2026/09/22/happy-chudmas/</guid>
+      <pubDate>Tue, 22 Sep 2026 08:19:01 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow criticizes California Attorney General Rob Bonta for approving a merger between Warner Bros. and Paramount. The article argues that the settlement concessions are meaningless and effectively hands control of major media entities to Trump-aligned oligarchs.</description>
+    </item>
+
+    <item>
+      <title>It's Not Just True, It's False </title>
+      <link>https://idiallo.com/byte-size/its-not-just-true-its-false</link>
+      <guid>https://idiallo.com/byte-size/its-not-just-true-its-false</guid>
+      <pubDate>Tue, 22 Sep 2026 01:49:51 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>This article critiques the workplace reliance on LLMs for documentation and task management, highlighting how AI-generated content frequently contains subtle, hallucinated errors. The author warns that while AI seems productive, the time spent proofreading often negates efficiency gains and risks feeding inaccurate data back into the system.</description>
+    </item>
+
+    <item>
+      <title>Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</title>
+      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
+      <guid>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 23:46:41 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The article discusses the rapid release of new AI models, including Claude Opus 5.5 and OpenAI's GPT-6 Sol and Luna. It highlights a significant price war in the industry, noting that the new models offer substantially lower costs compared to their predecessors.</description>
+    </item>
+
+    <item>
+      <title>Quoting @therealcornpop</title>
+      <link>https://simonwillison.net/2026/Sep/22/therealcornpop/</link>
+      <guid>https://simonwillison.net/2026/Sep/22/therealcornpop/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:03:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights the identifiable characteristics of AI-generated content in social media scripts, noting a lack of genuine opinion and unique voice. It argues that formulaic AI patterns and a absence of perspective make such content easily detectable.</description>
+    </item>
+
+    <item>
+      <title>llm-typesafe 0.1a0</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm-typesafe/</link>
+      <guid>https://simonwillison.net/2026/Sep/22/llm-typesafe/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:54:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released llm-typesafe, a plugin for the LLM CLI tool that integrates TypeSafe AI's Jev model. The post demonstrates how to install the plugin and use it for structured outputs like yes/no queries, choice selection, and scoring.</description>
+    </item>
+
     <item>
       <title>The iPhone Model Hall of Fame</title>
       <link>https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/</link>
@@ -778,132 +904,6 @@
       <pubDate>Mon, 14 Sep 2026 14:34:29 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Laurie Voss argues that as the costs of coding and maintenance plummet due to AI, the core value of software engineering is shifting toward product definition and user experience. The future of the profession lies in deeply understanding human needs and crafting intuitive products rather than just writing code.</description>
-    </item>
-
-    <item>
-      <title>commit-rewriter 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
-      <guid>https://simonwillison.net/2026/Sep/14/commit-rewriter/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:28:10 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released commit-rewriter 0.1, a web application designed to simplify the editing of Git commit messages. The tool allows users to rewrite commit history safely by creating a backup branch before applying changes.</description>
-    </item>
-
-    <item>
-      <title>shot-scraper 1.12</title>
-      <link>https://simonwillison.net/2026/Sep/13/shot-scraper/</link>
-      <guid>https://simonwillison.net/2026/Sep/13/shot-scraper/</guid>
-      <pubDate>Sun, 13 Sep 2026 23:58:14 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 1.12 of his screenshot automation tool, shot-scraper. The update introduces native WebP format support, offering smaller file sizes for saved screenshots.</description>
-    </item>
-
-    <item>
-      <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
-      <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
-      <guid>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</guid>
-      <pubDate>Sun, 13 Sep 2026 02:17:52 GMT</pubDate>
-      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
-      <description>This article explores the origins of the VTech VZ200 home computer, contrasting its branding as a Dick Smith product with its manufacturing roots in Hong Kong. The author details a hardware project to modernize the vintage machine by adding a USB serial port and optimizing Z80 assembly code for faster data transfer.</description>
-    </item>
-
-    <item>
-      <title>Fixing an NZXT Signal 4K30 part 2: the green/pink video bug</title>
-      <link>https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</link>
-      <guid>https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</guid>
-      <pubDate>Sun, 13 Sep 2026 21:02:59 GMT</pubDate>
-      <source url="https://www.downtowndougbrown.com/">Downtown Doug Brown</source>
-      <description>This article documents the troubleshooting and repair process for an NZXT Signal 4K30 capture card experiencing a green and pink video artifact bug. The author builds upon a previous repair attempt to diagnose and resolve persistent hardware issues within the device.</description>
-    </item>
-
-    <item>
-      <title>Anecdotally, programmers dislike &quot;reduce&quot;</title>
-      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
-      <guid>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
-      <description>The author discusses the anecdotal observation that programmers frequently find 'reduce' functions harder to read and less desirable compared to 'map' and 'filter'. The post explores potential reasons for this preference, including complexity, readability, and varying implementation quality across different programming languages.</description>
-    </item>
-
-    <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This blog post explores the hypocrisy and irony often found in the tech industry's discourse surrounding AI regulation. The author discusses the 'doomerism' narrative where many stakeholders advocate for pausing AI development while simultaneously pushing their own projects forward.</description>
-    </item>
-
-    <item>
-      <title>AI Forces You to Commit to Your Initial Belief </title>
-      <link>https://idiallo.com/blog/making-changes-mid-sentence</link>
-      <guid>https://idiallo.com/blog/making-changes-mid-sentence</guid>
-      <pubDate>Sun, 13 Sep 2026 20:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author argues that writing or coding manually allows for organic evolution of ideas, whereas AI generation forces users to commit to their initial prompt. By producing large blocks of text instantly, AI hampers the iterative refinement process that naturally occurs during manual creation.</description>
-    </item>
-
-    <item>
-      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
-      <guid>https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
-      <pubDate>Sat, 12 Sep 2026 23:56:42 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison demonstrates using ChatGPT Work with GPT-6 Astra to generate custom running routes from OpenStreetMap data. The post highlights the tool's effectiveness in creating GPX and GeoJSON files while critiquing the lack of transparency in the AI's internal processes and the loss of data due to thread compaction.</description>
-    </item>
-
-    <item>
-      <title>Slow developer experience will bottleneck fast models</title>
-      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
-      <guid>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores how slow developer tooling and experience can undermine the performance gains of fast AI models. It highlights the importance of optimizing the end-to-end development cycle to ensure model speed translates into actual product efficiency.</description>
-    </item>
-
-    <item>
-      <title>AI is breaking our proxies for expertise</title>
-      <link>https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</link>
-      <guid>https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores how artificial intelligence is undermining traditional indicators of expertise. It suggests that as AI tools become capable of mimicking professional output, our existing methods for evaluating skill and knowledge are becoming obsolete.</description>
-    </item>
-
-    <item>
-      <title>Reading List — 09/12/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-09122026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-09122026</guid>
-      <pubDate>Sat, 12 Sep 2026 12:32:46 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated digest of recent industry news and technical developments, covering topics from urban permitting and construction innovation to specialized transportation incidents. It highlights advancements in sustainable infrastructure and cooling technologies alongside broader industrial updates.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 12 September 2026</title>
-      <link>https://nesbitt.io/2026/09/12/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/09/12/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 12 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This weekly digest covers the latest developments in package management tools including pnpm, RubyGems, Pixi, uv, and mise. Key updates feature enhanced multi-language support, improved security protocols, and new performance optimizations for dependency resolution and CI workflows.</description>
-    </item>
-
-    <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid>https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author reflects on the 'P(doom)' discourse surrounding AI risks, specifically addressing concerns raised by AI lab leaders like Dario Amodei. While agreeing with the underlying observations, the author critiques the current trajectory of AI development and the lack of oversight regarding autonomous agent activities.</description>
-    </item>
-
-    <item>
-      <title>Microcode in Intel's 8087 floating-point chip: the scale instruction</title>
-      <link>http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
-      <guid>http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</guid>
-      <pubDate>Sat, 12 Sep 2026 15:45:16 GMT</pubDate>
-      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
-      <description>This article explores the inner workings of the FSCALE instruction within Intel's iconic 8087 floating-point coprocessor. By reverse-engineering the chip's microcode, the author reveals that what appeared to be a simple operation is actually a complex process involving over 140 micro-instructions and intricate hardware subroutines.</description>
     </item>
   </channel>
 </rss>
