@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-09-20T23:39:05.142Z",
+  "last_updated": "2026-09-22T00:20:11.492Z",
   "articles": [
+    {
+      "id": "965a78be4710b5e1",
+      "title": "The iPhone Model Hall of Fame",
+      "url": "https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-20T19:00:00.000Z",
+      "summary_en": "The author shares their personal 'iPhone Hall of Fame' list, reflecting on iconic models that defined the product's history. The post highlights aesthetic preferences and the nostalgic role of the iPod Touch as a gateway device for users unable to afford the original iPhone.",
+      "summary_zh": "作者分享了個人心中的「iPhone 名人堂」名單，回顧了定義產品歷史的標誌性機型。文中探討了對手機美學的偏好，以及 iPod Touch 如何成為當年無法負擔原版 iPhone 使用者的重要入門設備。",
+      "keywords": [
+        "iPhone",
+        "Apple",
+        "Hall of Fame",
+        "iPod Touch",
+        "Technology History"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content is primarily a curated list of personal favorites, serving as a reference point for nostalgic reflection and community discussion.",
+      "pacer_reason_zh": "本文主要為作者個人喜好的精選清單，作為懷舊反思與社群討論的參考素材。"
+    },
+    {
+      "id": "227dc8c9205b1aff",
+      "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "source": "Max Woolf's Blog",
+      "source_url": "https://minimaxir.com/",
+      "published": "2026-09-21T16:30:00.000Z",
+      "summary_en": "This post explores the potential of using AI agents to optimize Rust code, aiming to outperform existing state-of-the-art libraries. It highlights an experimental approach to automated performance tuning in systems programming.",
+      "summary_zh": "本文探討了利用 AI 代理來優化 Rust 程式碼，目標是超越現有的頂尖函式庫。文章展示了一種在系統程式設計中進行自動化效能調優的實驗性方法。",
+      "keywords": [
+        "Rust",
+        "AI agents",
+        "performance optimization",
+        "coding",
+        "software engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content describes an experimental process and approach to achieving performance benchmarks using AI agents.",
+      "pacer_reason_zh": "內容描述了一種使用 AI 代理來達成效能基準測試的實驗性過程與方法。"
+    },
+    {
+      "id": "d49c1f78d0c2e194",
+      "title": "Cursed Napster",
+      "url": "https://feed.tedium.co/link/15204/17468568/napster-ai-pivot",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-09-21T14:38:49.000Z",
+      "summary_en": "Napster, once a symbol of rebellious music sharing, has pivoted under new ownership to focus on controversial AI-driven educational tools. The platform is now developing digital teacher twins and AI-powered learning systems for schools, marking a sharp departure from its roots.",
+      "summary_zh": "曾經象徵反叛音樂共享的 Napster，在新經營權下轉型投入具爭議性的 AI 教育工具開發。該平台目前致力於為學校提供數位教師分身與 AI 學習系統，與其過往的發展脈絡大相徑庭。",
+      "keywords": [
+        "Napster",
+        "AI",
+        "Education Technology",
+        "Digital Twins",
+        "Corporate Pivot"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and critique of a company's radical shift in business strategy and the implications of its new AI-based product direction.",
+      "pacer_reason_zh": "本文針對一家公司劇烈的商業策略轉變及其 AI 新產品方向的影響，提供了概念性的概述與批判。"
+    },
+    {
+      "id": "ebd2f7e2116cde38",
+      "title": "Haversine law",
+      "url": "https://www.johndcook.com/blog/2026/09/21/haversine-law/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-21T23:13:22.000Z",
+      "summary_en": "The article explains the Haversine law, a method for calculating the distance between two points on a sphere. It contrasts this with the law of cosines, highlighting why it is necessary for navigation on the Earth's curved surface.",
+      "summary_zh": "本文介紹了半正矢公式（Haversine law），這是一種計算球面上兩點之間距離的方法。文章對比了它與餘弦定律的差異，並強調了其在地球曲率導航中的重要性。",
+      "keywords": [
+        "Haversine law",
+        "spherical geometry",
+        "navigation",
+        "trigonometry",
+        "earth curvature"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its specific application in spherical geometry.",
+      "pacer_reason_zh": "本文解釋了一個數學概念及其在球面幾何中的具體應用。"
+    },
+    {
+      "id": "3bfe992bac8e389f",
+      "title": "What’s the highest legal FILETIME? Is it safe to use?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "published": "2026-09-21T14:00:00.000Z",
+      "summary_en": "This article examines the maximum legal value for the Windows FILETIME structure and discusses the risks associated with its implementation. It emphasizes the importance of understanding how this data type interacts with other systems and the potential pitfalls in its usage.",
+      "summary_zh": "本文探討了 Windows FILETIME 結構的最高合法數值，並討論了與其實現相關的風險。文章強調了理解此數據類型如何與其他系統互動，以及在應用時潛在問題的重要性。",
+      "keywords": [
+        "FILETIME",
+        "Windows",
+        "API",
+        "Data structures",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual underpinnings and safety considerations of a specific technical data structure.",
+      "pacer_reason_zh": "文章針對特定技術數據結構的概念基礎及其安全性考量進行了說明。"
+    },
+    {
+      "id": "c6c980f43615d715",
+      "title": "Pluralistic: The Claude Delusion (21 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-21T11:24:31.000Z",
+      "summary_en": "This post critiques the human tendency to anthropomorphize AI models like Claude, comparing the expectation of machine 'consciousness' to religious belief. The author argues that treating AI as a purposeful mind is a delusion, suggesting that these models are empty of inherent intent despite their sophisticated outputs.",
+      "summary_zh": "本文批評了人類將Claude等AI模型擬人化的傾向，並將期待機器具備「意識」的心態比作宗教信仰。作者認為，儘管AI輸出內容精妙，但將其視為具有目的性的心靈是一種錯覺，本質上它們缺乏內在的意圖。",
+      "keywords": [
+        "AI",
+        "anthropomorphism",
+        "Cory Doctorow",
+        "philosophy",
+        "LLM"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of how humans perceive AI, focusing on the philosophy of intentionality versus machine output.",
+      "pacer_reason_zh": "文章針對人類如何感知AI進行了概念性探討，重點在於意圖性與機器產出之間的哲學辨析。"
+    },
+    {
+      "id": "b3e5263fa8976c3c",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-21T23:09:20.000Z",
+      "summary_en": "Jev is a new category of 'System One' or 'decision models' designed to process unstructured input and return typed probabilistic outputs. Unlike traditional LLMs, Jev provides categorized numeric or binary responses at a significantly lower cost by charging only for input tokens.",
+      "summary_zh": "Jev 是一種新型的「系統一」(System One) 或「決策模型」，旨在處理非結構化輸入並輸出機率性的類型化決策結果。與傳統大型語言模型不同，Jev 僅針對輸入詞元收費，且定價極低，提供更經濟高效的分類與決策分析。",
+      "keywords": [
+        "Jev",
+        "LLM",
+        "Decision Models",
+        "TypeSafe AI",
+        "System One"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new conceptual category of AI models and describes how their functionality differs from traditional LLMs.",
+      "pacer_reason_zh": "本文解釋了一種新型人工智慧模型的概念分類，並描述其功能與傳統大型語言模型的差異。"
+    },
+    {
+      "id": "b3a971b72e2de3b7",
+      "title": "Cloudflare Python Workers are now generally available",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-21T22:25:44.000Z",
+      "summary_en": "Cloudflare has officially launched Python support for its Workers platform, allowing server-side code to run via WebAssembly and Pyodide. While this enables first-class Python integration, it comes with limitations such as the lack of threading and multiprocessing support.",
+      "summary_zh": "Cloudflare 的 Workers 平台正式支援 Python，透過 WebAssembly 與 Pyodide 技術執行伺服器端程式碼。此功能讓 Python 成為開發平台的一等公民，但須注意仍有不支援執行緒 (threading) 與多重處理 (multiprocessing) 等技術限制。",
+      "keywords": [
+        "Cloudflare Workers",
+        "Python",
+        "WebAssembly",
+        "Pyodide",
+        "Serverless"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'how' of the new Python Workers release, providing a conceptual overview of its technical implementation.",
+      "pacer_reason_zh": "本文旨在說明 Cloudflare 新發布 Python Workers 的相關技術概念與實作方式，屬於觀念性說明內容。"
+    },
+    {
+      "id": "e133d02a1d698c5d",
+      "title": "MCP was always a bad idea?",
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-20T20:24:41.000Z",
+      "summary_en": "Simon Willison argues that the Model Context Protocol (MCP) remains highly relevant despite the rise of autonomous coding agents. He highlights that MCP provides essential security, authentication, and auditing features that direct API access lacks.",
+      "summary_zh": "Simon Willison 認為，儘管自主程式設計代理興起，Model Context Protocol (MCP) 仍然具有高度價值。他指出，MCP 提供了直接 API 存取所缺乏的關鍵安全性、身份驗證和審計功能。",
+      "keywords": [
+        "MCP",
+        "Model Context Protocol",
+        "AI agents",
+        "API security",
+        "software architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual defense of a technology, explaining its architectural value proposition rather than providing a tutorial or raw data.",
+      "pacer_reason_zh": "本文針對一項技術提供了概念性的辯護，解釋了其架構上的價值主張，而非提供教學或原始數據。"
+    },
+    {
+      "id": "a7b9e879dda5ccb2",
+      "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-09-21T17:00:00.000Z",
+      "summary_en": "Raspberry Pi has implemented firmware restrictions to prevent users from manually upgrading or swapping RAM chips on their Pi 5 boards. This move aims to curb fraudulent activity where sellers would solder low-quality high-capacity RAM onto budget boards and resell them as genuine high-end models.",
+      "summary_zh": "樹莓派（Raspberry Pi）已透過韌體更新，限制使用者自行更換 Pi 5 開發板的記憶體晶片。此舉旨在打擊不肖賣家將劣質大容量記憶體焊接至低規主機板，並謊稱為原廠高規產品販售的詐欺行為。",
+      "keywords": [
+        "Raspberry Pi",
+        "Pi 5",
+        "RAM",
+        "Firmware",
+        "Hardware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a new conceptual change in hardware policy and the reasoning behind it.",
+      "pacer_reason_zh": "本文解釋了硬體政策的變更概念以及背後的策略動機。"
+    },
     {
       "id": "49fb62c4187a2f69",
       "title": "This is why we play",

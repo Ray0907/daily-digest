@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "ebd2f7e2116cde38",
+      "title": "Haversine law",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/21/haversine-law/",
+      "pacer": "C",
+      "keywords": [
+        "Haversine law",
+        "spherical geometry",
+        "navigation",
+        "trigonometry",
+        "earth curvature"
+      ],
+      "published": "2026-09-21T23:13:22.000Z"
+    },
+    {
+      "id": "b3e5263fa8976c3c",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "pacer": "C",
+      "keywords": [
+        "Jev",
+        "LLM",
+        "Decision Models",
+        "TypeSafe AI",
+        "System One"
+      ],
+      "published": "2026-09-21T23:09:20.000Z"
+    },
+    {
+      "id": "b3a971b72e2de3b7",
+      "title": "Cloudflare Python Workers are now generally available",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "pacer": "C",
+      "keywords": [
+        "Cloudflare Workers",
+        "Python",
+        "WebAssembly",
+        "Pyodide",
+        "Serverless"
+      ],
+      "published": "2026-09-21T22:25:44.000Z"
+    },
+    {
+      "id": "a7b9e879dda5ccb2",
+      "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+      "pacer": "C",
+      "keywords": [
+        "Raspberry Pi",
+        "Pi 5",
+        "RAM",
+        "Firmware",
+        "Hardware"
+      ],
+      "published": "2026-09-21T17:00:00.000Z"
+    },
+    {
+      "id": "227dc8c9205b1aff",
+      "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+      "source": "Max Woolf's Blog",
+      "source_url": "https://minimaxir.com/",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "pacer": "E",
+      "keywords": [
+        "Rust",
+        "AI agents",
+        "performance optimization",
+        "coding",
+        "software engineering"
+      ],
+      "published": "2026-09-21T16:30:00.000Z"
+    },
+    {
+      "id": "d49c1f78d0c2e194",
+      "title": "Cursed Napster",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17468568/napster-ai-pivot",
+      "pacer": "C",
+      "keywords": [
+        "Napster",
+        "AI",
+        "Education Technology",
+        "Digital Twins",
+        "Corporate Pivot"
+      ],
+      "published": "2026-09-21T14:38:49.000Z"
+    },
+    {
+      "id": "3bfe992bac8e389f",
+      "title": "What’s the highest legal FILETIME? Is it safe to use?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711",
+      "pacer": "C",
+      "keywords": [
+        "FILETIME",
+        "Windows",
+        "API",
+        "Data structures",
+        "Programming"
+      ],
+      "published": "2026-09-21T14:00:00.000Z"
+    },
+    {
+      "id": "c6c980f43615d715",
+      "title": "Pluralistic: The Claude Delusion (21 Sep 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "anthropomorphism",
+        "Cory Doctorow",
+        "philosophy",
+        "LLM"
+      ],
+      "published": "2026-09-21T11:24:31.000Z"
+    },
+    {
       "id": "49fb62c4187a2f69",
       "title": "This is why we play",
       "source": "Xe Iaso's blog",
@@ -33,6 +161,22 @@
       "published": "2026-09-20T21:06:43.000Z"
     },
     {
+      "id": "e133d02a1d698c5d",
+      "title": "MCP was always a bad idea?",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "pacer": "C",
+      "keywords": [
+        "MCP",
+        "Model Context Protocol",
+        "AI agents",
+        "API security",
+        "software architecture"
+      ],
+      "published": "2026-09-20T20:24:41.000Z"
+    },
+    {
       "id": "f9d4182cc1e12525",
       "title": "llm-keys-ui 0.1",
       "source": "Simon Willison's Weblog",
@@ -49,6 +193,22 @@
       "published": "2026-09-20T19:22:19.000Z"
     },
     {
+      "id": "965a78be4710b5e1",
+      "title": "The iPhone Model Hall of Fame",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/",
+      "pacer": "R",
+      "keywords": [
+        "iPhone",
+        "Apple",
+        "Hall of Fame",
+        "iPod Touch",
+        "Technology History"
+      ],
+      "published": "2026-09-20T19:00:00.000Z"
+    },
+    {
       "id": "0fe6f0b351ef5d2b",
       "title": "Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
       "source": "Terence Eden’s Blog",
@@ -63,22 +223,6 @@
         "Jonathan Morrison"
       ],
       "published": "2026-09-20T11:34:30.000Z"
-    },
-    {
-      "id": "33879f77e1536c69",
-      "title": "datasette-explain 0.2.2",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "sqlite",
-        "plugin",
-        "database",
-        "release"
-      ],
-      "published": "2026-09-20T00:22:04.000Z"
     },
     {
       "id": "d5a44e46ec928440",
@@ -111,38 +255,6 @@
         "machine learning"
       ],
       "published": "2026-09-20T00:00:00.000Z"
-    },
-    {
-      "id": "fb0112d2438294ff",
-      "title": "datasette-auth-github 1.0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "pacer": "E",
-      "keywords": [
-        "datasette",
-        "github",
-        "plugins",
-        "authentication",
-        "software release"
-      ],
-      "published": "2026-09-19T19:52:02.000Z"
-    },
-    {
-      "id": "41d15f7729de397a",
-      "title": "California Sea Lion, Brandt's Cormorant",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-      "pacer": "E",
-      "keywords": [
-        "wildlife",
-        "California Sea Lion",
-        "Brandt's Cormorant",
-        "Northern Gannet",
-        "nature photography"
-      ],
-      "published": "2026-09-19T17:10:08.000Z"
     },
     {
       "id": "ceffd53cfd7b6284",
@@ -561,22 +673,6 @@
       "published": "2026-09-16T16:05:11.000Z"
     },
     {
-      "id": "66880848ebb5d85f",
-      "title": "Coffee + milk ≠ latte",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/",
-      "pacer": "C",
-      "keywords": [
-        "word embeddings",
-        "NLP",
-        "vector arithmetic",
-        "data science",
-        "linguistics"
-      ],
-      "published": "2026-09-16T15:06:58.000Z"
-    },
-    {
       "id": "a9e25ab7d23a88ed",
       "title": "Magic statics vs. std::call_once",
       "source": "The Old New Thing",
@@ -847,22 +943,6 @@
         "legacy code"
       ],
       "published": "2026-09-14T11:34:53.000Z"
-    },
-    {
-      "id": "fc64020820b0155e",
-      "title": "Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/09/14/cult-taylorism/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "workplace",
-        "management",
-        "technology",
-        "labor"
-      ],
-      "published": "2026-09-14T11:02:27.000Z"
     },
     {
       "id": "0f11475615834c8c",
@@ -1185,22 +1265,6 @@
       "published": "2026-09-10T14:18:06.000Z"
     },
     {
-      "id": "89e9d02f5f9e1076",
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "pacer": "C",
-      "keywords": [
-        "x86",
-        "ud2",
-        "instruction set",
-        "CPU",
-        "programming"
-      ],
-      "published": "2026-09-10T14:00:00.000Z"
-    },
-    {
       "id": "bff4375ee6041894",
       "title": "Package Manager Trends",
       "source": "Andrew Nesbitt",
@@ -1247,22 +1311,6 @@
         "Tech Ethics"
       ],
       "published": "2026-09-09T20:55:02.000Z"
-    },
-    {
-      "id": "62d04695dab0ddba",
-      "title": "Don’t Let Anyone Take Away Your Big Box of Cables",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "pacer": "A",
-      "keywords": [
-        "cables",
-        "nostalgia",
-        "organization",
-        "personal story",
-        "tech habits"
-      ],
-      "published": "2026-09-09T19:00:00.000Z"
     },
     {
       "id": "22d3fcaf924e8314",
@@ -1649,22 +1697,6 @@
       "published": "2026-09-03T11:20:00.000Z"
     },
     {
-      "id": "c1e5ce37a034051f",
-      "title": "Second Quest",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival",
-      "pacer": "C",
-      "keywords": [
-        "MapQuest",
-        "System1",
-        "Cultural Revival",
-        "Tech History",
-        "Corporate Strategy"
-      ],
-      "published": "2026-09-03T03:24:54.000Z"
-    },
-    {
       "id": "1249691da25afa37",
       "title": "VC isn’t VC anymore — understanding the rise of Cancer Capital",
       "source": "Anil Dash",
@@ -1983,22 +2015,6 @@
         "semiconductor"
       ],
       "published": "2026-08-29T00:00:00.000Z"
-    },
-    {
-      "id": "21aff4114adc90ab",
-      "title": "Building a mini Homelab that fits in my carry-on",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/",
-      "pacer": "P",
-      "keywords": [
-        "Homelab",
-        "Networking",
-        "Portable Computing",
-        "Jeff Geerling",
-        "VCF Midwest"
-      ],
-      "published": "2026-08-28T15:00:00.000Z"
     },
     {
       "id": "0f260508ae8d825b",
