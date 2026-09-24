@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 22 Sep 2026 23:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:03:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
+      <link>https://www.troyhunt.com/weekly-update-522/</link>
+      <guid>https://www.troyhunt.com/weekly-update-522/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:18:34 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>In this weekly update, Troy Hunt and guest Scott Helme discuss how CSP reporting via Report URI effectively identifies malware-infected machines within organizations. Despite initial audio issues, the episode highlights the practical application of security reporting tools in threat detection.</description>
+    </item>
+
+    <item>
+      <title>The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same</title>
+      <link>https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</link>
+      <guid>https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:12 GMT</pubDate>
+      <source url="https://steveblank.com/">Steve Blank</source>
+      <description>Steve Blank explores whether the rise of AI has rendered his influential Lean LaunchPad methodology obsolete. He reflects on how artificial intelligence is transforming the fundamental approach to teaching entrepreneurship.</description>
+    </item>
+
+    <item>
+      <title>Make Money to Make More Websites</title>
+      <link>https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</link>
+      <guid>https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post explores the tension between prioritizing profit versus the quality of one's creative output, inspired by a quote from Walt Disney. It argues that a company's long-term identity is defined by whether it values its core craft over financial gain, despite the complex trade-offs required for survival.</description>
+    </item>
+
+    <item>
+      <title>Navigation with only addition, subtraction, and tables</title>
+      <link>https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</link>
+      <guid>https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</guid>
+      <pubDate>Wed, 23 Sep 2026 14:11:52 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores how historical navigational calculations were simplified by using pre-computed logarithm tables, allowing sailors to perform complex trigonometric tasks using only addition and subtraction. It highlights how these mathematical aids effectively bypassed the need for multiplication.</description>
+    </item>
+
+    <item>
+      <title>A brief history of Windows scroll bar shortcuts</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post provides a brief historical overview of the evolution of scroll bar behavior and interaction shortcuts in Windows. It specifically highlights the utility of right-clicking and shift-clicking for navigating scrollable areas.</description>
+    </item>
+
+    <item>
+      <title>Gemini 3.8 TTS Playground</title>
+      <link>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</link>
+      <guid>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</guid>
+      <pubDate>Wed, 23 Sep 2026 17:12:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released a web-based playground for Google's new Gemini 3.8 text-to-speech models. The tool allows users to experiment with over 2,000 voices and create custom voice samples using their own API keys.</description>
+    </item>
+
+    <item>
+      <title>Shadow roots, explained with live examples</title>
+      <link>https://simonwillison.net/2026/Sep/23/shadow-roots/</link>
+      <guid>https://simonwillison.net/2026/Sep/23/shadow-roots/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:37:18 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This article introduces an interactive tool designed to explain Shadow Roots in CSS. It provides live examples to help developers better understand how this web component technology functions.</description>
+    </item>
+
+    <item>
+      <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
+      <link>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</link>
+      <guid>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</guid>
+      <pubDate>Wed, 23 Sep 2026 02:53:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison and Jesse Vincent are hosting an informal meetup in San Francisco on October 14th focused on 'agentic engineering.' The event encourages builders to share unconventional experiments and unfinished projects related to AI coding agents in a collaborative, non-commercial environment.</description>
+    </item>
+
+    <item>
+      <title>llm 0.36</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm/</link>
+      <guid>https://simonwillison.net/2026/Sep/22/llm/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:48:37 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The LLM 0.36 update introduces support for new OpenAI models, including GPT-6 Sol and Luna. It also adds a mechanism for plugins to restrict non-conversational models and improves the UI for displaying reasoning traces in logs.</description>
+    </item>
+
+    <item>
+      <title>llm-anthropic 0.29</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm-anthropic/</link>
+      <guid>https://simonwillison.net/2026/Sep/22/llm-anthropic/</guid>
+      <pubDate>Tue, 22 Sep 2026 17:14:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.29 of the llm-anthropic plugin. This update introduces support for Anthropic's Claude Opus 5.5 model, enabling users to interact with it via the command line interface.</description>
+    </item>
+
     <item>
       <title>On reading books</title>
       <link>https://herman.bearblog.dev/on-reading-books/</link>
@@ -814,96 +904,6 @@
       <pubDate>Mon, 14 Sep 2026 12:45:00 GMT</pubDate>
       <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
       <description>The Dutch government relies too heavily on big-tech ecosystems and American platforms, leading to a loss of digital sovereignty and privacy concerns. The author argues that significant structural changes are necessary for the government to regain control and develop an autonomous IT strategy.</description>
-    </item>
-
-    <item>
-      <title>Preserving Netlify Analytics Data Beyond 30 Days</title>
-      <link>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</link>
-      <guid>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</guid>
-      <pubDate>Sun, 13 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author shares a method for bypassing Netlify's 30-day analytics data retention limit by automating data archival. By using Val Town’s scripting and SQLite storage capabilities, they periodically fetch and persist traffic data for long-term analysis.</description>
-    </item>
-
-    <item>
-      <title>Guessing the meaning of a number</title>
-      <link>https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</link>
-      <guid>https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:45 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores how numbers in software applications can often be identified by their length and format, despite being mathematically ambiguous in theory. It explains how context allows systems to categorize numerical sequences as specific identifiers like phone numbers or tracking codes.</description>
-    </item>
-
-    <item>
-      <title>Interpreting Pangram</title>
-      <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
-      <guid>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>This article discusses the mechanics of Pangram, an AI-detection tool trained on synthetic and human-authored datasets to identify AI-generated content. The author demonstrates the limitations of such detectors by using an LLM to replicate the style of a tweet, highlighting how easily AI can mimic human patterns.</description>
-    </item>
-
-    <item>
-      <title>Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</guid>
-      <pubDate>Mon, 14 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing">The Old New Thing</source>
-      <description>This post discusses the historical design limitations of the Windows API function ReadDirectoryChangesW. It explores why the developers did not initially include a mechanism to correlate the start and end points of rename operations.</description>
-    </item>
-
-    <item>
-      <title>Esoteric HTML - ismap vs CSS</title>
-      <link>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:34:53 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This article explores the technical nuances and historical baggage of HTML image maps, specifically comparing the legacy 'ismap' attribute with modern CSS techniques. It highlights how certain outdated HTML features persist, potentially causing confusion for contemporary web developers.</description>
-    </item>
-
-    <item>
-      <title>The expectations of privacy in driverless cars</title>
-      <link>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:34:13 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This article examines the blurring boundaries of privacy within autonomous vehicles by discussing a specific incident in California. It highlights a case where a Waymo robotaxi diverted misbehaving passengers directly to the police, raising questions about passenger expectations versus corporate monitoring.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/14/cult-taylorism/</link>
-      <guid>https://pluralistic.net/2026/09/14/cult-taylorism/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:02:27 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow examines the growing trend of employers mandating the use of AI tools despite workers' concerns regarding quality and effectiveness. He argues that this obsession with AI is both illogical and a source of friction, suggesting that outcomes should matter more than the specific tools used to achieve them.</description>
-    </item>
-
-    <item>
-      <title>The contagion of fear</title>
-      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
-      <guid>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:18:13 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Bryan Cantrill critiques the alarmist predictions from AI researchers regarding existential threats like bioweapons. He argues that experts have a responsibility to avoid spreading unsubstantiated panic and must use their public platform with greater circumspection.</description>
-    </item>
-
-    <item>
-      <title>What blog posts influenced your thinking the most?</title>
-      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
-      <guid>https://simonwillison.net/2026/Sep/14/influences/</guid>
-      <pubDate>Mon, 14 Sep 2026 20:21:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares three influential blog posts that shaped his career in software engineering. These works cover the nature of technical abstractions, the importance of migrations in managing technical debt, and the value of moving between engineering and management roles.</description>
-    </item>
-
-    <item>
-      <title>Quoting Laurie Voss</title>
-      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
-      <guid>https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:34:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Laurie Voss argues that as the costs of coding and maintenance plummet due to AI, the core value of software engineering is shifting toward product definition and user experience. The future of the profession lies in deeply understanding human needs and crafting intuitive products rather than just writing code.</description>
     </item>
   </channel>
 </rss>

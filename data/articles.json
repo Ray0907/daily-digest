@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-09-22T23:53:59.444Z",
+  "last_updated": "2026-09-24T00:03:52.713Z",
   "articles": [
+    {
+      "id": "3e1cca604ca0c31d",
+      "title": "Weekly Update 522: Live From Oslo with Scott Helme",
+      "url": "https://www.troyhunt.com/weekly-update-522/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-09-23T05:18:34.000Z",
+      "summary_en": "In this weekly update, Troy Hunt and guest Scott Helme discuss how CSP reporting via Report URI effectively identifies malware-infected machines within organizations. Despite initial audio issues, the episode highlights the practical application of security reporting tools in threat detection.",
+      "summary_zh": "在這週的更新中，Troy Hunt 與來賓 Scott Helme 討論了如何透過 Report URI 的 CSP 報告機制，有效地識別組織內感染惡意軟體的機器。儘管開頭有音訊問題，但節目深入探討了資安報告工具在威脅檢測中的實際應用。",
+      "keywords": [
+        "CSP",
+        "Report URI",
+        "Malware",
+        "Cybersecurity",
+        "Troy Hunt"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a practical case study and real-world experience using security reporting to detect malware.",
+      "pacer_reason_zh": "內容聚焦於使用資安報告工具偵測惡意軟體的實際案例與經驗分享。"
+    },
+    {
+      "id": "15cd0e1830038ea0",
+      "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+      "url": "https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-09-23T13:00:12.000Z",
+      "summary_en": "Steve Blank explores whether the rise of AI has rendered his influential Lean LaunchPad methodology obsolete. He reflects on how artificial intelligence is transforming the fundamental approach to teaching entrepreneurship.",
+      "summary_zh": "Steve Blank 探討了人工智慧的興起是否讓他的精實創業課程（Lean LaunchPad）變得過時。他反思了人工智慧如何從根本上改變創業教育的教學方式。",
+      "keywords": [
+        "AI",
+        "Entrepreneurship",
+        "Lean LaunchPad",
+        "Education",
+        "Steve Blank"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in entrepreneurship education caused by the integration of AI.",
+      "pacer_reason_zh": "文章探討了人工智慧整合對創業教育帶來的概念性轉變。"
+    },
+    {
+      "id": "cccb18cc379a9a72",
+      "title": "Make Money to Make More Websites",
+      "url": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-23T19:00:00.000Z",
+      "summary_en": "This post explores the tension between prioritizing profit versus the quality of one's creative output, inspired by a quote from Walt Disney. It argues that a company's long-term identity is defined by whether it values its core craft over financial gain, despite the complex trade-offs required for survival.",
+      "summary_zh": "本文探討了以華特·迪士尼名言為核心，關於企業在追求利潤與產品品質之間如何取捨的矛盾。文章指出，企業的長期定位取決於它更看重核心創作還是財務回報，儘管現實中兩者常需在生存壓力下進行權衡。",
+      "keywords": [
+        "priorities",
+        "business strategy",
+        "creative work",
+        "John Gruber",
+        "Walt Disney"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses a conceptual framework for business decision-making and the philosophical tension between profit and creative mission.",
+      "pacer_reason_zh": "文章探討了商業決策的觀念框架，以及利潤導向與創作使命之間的哲學矛盾。"
+    },
+    {
+      "id": "59b217ddc6d94c8e",
+      "title": "Navigation with only addition, subtraction, and tables",
+      "url": "https://www.johndcook.com/blog/2026/09/23/navigation-minimum/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-23T14:11:52.000Z",
+      "summary_en": "This article explores how historical navigational calculations were simplified by using pre-computed logarithm tables, allowing sailors to perform complex trigonometric tasks using only addition and subtraction. It highlights how these mathematical aids effectively bypassed the need for multiplication.",
+      "summary_zh": "本文探討了歷史上的導航計算如何透過使用預先計算的對數表來簡化，使水手僅需加減法即可完成複雜的三角函數運算。文章強調了這些數學工具如何有效地取代乘法運算。",
+      "keywords": [
+        "navigation",
+        "logarithms",
+        "history of math",
+        "trigonometry",
+        "Nathaniel Bowditch"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual approach of using logarithm tables to simplify complex mathematical operations.",
+      "pacer_reason_zh": "文章解釋了利用對數表來簡化複雜數學運算的概念性方法。"
+    },
+    {
+      "id": "19cdfb1540059636",
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-22T14:00:00.000Z",
+      "summary_en": "This post provides a brief historical overview of the evolution of scroll bar behavior and interaction shortcuts in Windows. It specifically highlights the utility of right-clicking and shift-clicking for navigating scrollable areas.",
+      "summary_zh": "這篇文章簡要回顧了 Windows 捲軸行為與操作快捷鍵的發展歷史。重點介紹了在捲軸區域使用滑鼠右鍵與 Shift 鍵組合進行導覽的操作方式。",
+      "keywords": [
+        "Windows",
+        "scroll bar",
+        "shortcuts",
+        "UI history",
+        "user interface"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'how' of specific UI history and functionality.",
+      "pacer_reason_zh": "文章解釋了特定使用者介面歷史與功能的內容。"
+    },
+    {
+      "id": "e47986333e4f6766",
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-23T17:12:27.000Z",
+      "summary_en": "Simon Willison has released a web-based playground for Google's new Gemini 3.8 text-to-speech models. The tool allows users to experiment with over 2,000 voices and create custom voice samples using their own API keys.",
+      "summary_zh": "Simon Willison 發布了一個網頁版實驗工具，用於測試 Google 最新的 Gemini 3.8 文字轉語音 (TTS) 模型。該工具提供超過 2,000 種語音選擇，並允許使用者透過 API 金鑰建立自訂語音。",
+      "keywords": [
+        "Gemini",
+        "TTS",
+        "Text-to-Speech",
+        "Simon Willison",
+        "AI Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a functional web tool (playground) that allows users to interact with and test new API features.",
+      "pacer_reason_zh": "文章介紹了一個功能性的網頁工具（遊樂場），讓使用者可以直接互動並測試新的 API 功能。"
+    },
+    {
+      "id": "c81040207630f754",
+      "title": "Shadow roots, explained with live examples",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-23T16:37:18.000Z",
+      "summary_en": "This article introduces an interactive tool designed to explain Shadow Roots in CSS. It provides live examples to help developers better understand how this web component technology functions.",
+      "summary_zh": "本文介紹了一個用於解釋 CSS Shadow Roots 的互動式工具。透過實際範例，幫助開發者更深入理解這項網頁組件技術的運作方式。",
+      "keywords": [
+        "CSS",
+        "Shadow Roots",
+        "Web Components",
+        "Interactive Tool",
+        "Front-end Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an educational guide and interactive tool for developers to learn about shadow roots.",
+      "pacer_reason_zh": "這篇文章作為教學指南與互動工具，協助開發者學習 shadow roots 的相關知識。"
+    },
+    {
+      "id": "327f7261ab07f686",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-23T02:53:19.000Z",
+      "summary_en": "Simon Willison and Jesse Vincent are hosting an informal meetup in San Francisco on October 14th focused on 'agentic engineering.' The event encourages builders to share unconventional experiments and unfinished projects related to AI coding agents in a collaborative, non-commercial environment.",
+      "summary_zh": "Simon Willison 與 Jesse Vincent 將於 10 月 14 日在舊金山舉辦一場關於「代理工程」(Agentic Engineering) 的非正式聚會。活動旨在鼓勵開發者分享與 AI 編碼代理相關的非典型實驗與未完成項目，並在無商業壓力下進行技術交流。",
+      "keywords": [
+        "agentic engineering",
+        "coding agents",
+        "AI",
+        "meetup",
+        "San Francisco"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as an announcement and reference for an upcoming community event.",
+      "pacer_reason_zh": "本文內容為即將舉辦的社群活動公告，屬於資訊參考類。"
+    },
+    {
+      "id": "2e8a5e66791ed507",
+      "title": "llm 0.36",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-22T18:48:37.000Z",
+      "summary_en": "The LLM 0.36 update introduces support for new OpenAI models, including GPT-6 Sol and Luna. It also adds a mechanism for plugins to restrict non-conversational models and improves the UI for displaying reasoning traces in logs.",
+      "summary_zh": "LLM 0.36 版本更新支援 OpenAI 的 GPT-6 Sol 與 Luna 模型。此次更新新增了插件功能，允許限制不支援對話模式的模型，並優化了日誌中推理軌跡的 Markdown 顯示格式。",
+      "keywords": [
+        "LLM",
+        "OpenAI",
+        "Software Update",
+        "GPT-6",
+        "CLI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a release note detailing specific changes, new features, and version updates for a software tool.",
+      "pacer_reason_zh": "此文章為軟體更新日誌，列出了特定變更、新功能以及軟體版本的更新資訊。"
+    },
+    {
+      "id": "8f820c2b26f6994a",
+      "title": "llm-anthropic 0.29",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-22T17:14:55.000Z",
+      "summary_en": "Simon Willison has released version 0.29 of the llm-anthropic plugin. This update introduces support for Anthropic's Claude Opus 5.5 model, enabling users to interact with it via the command line interface.",
+      "summary_zh": "Simon Willison 發布了 llm-anthropic 外掛程式的 0.29 版本。此次更新增加了對 Anthropic Claude Opus 5.5 模型的支援，讓使用者能透過命令列介面與該模型進行互動。",
+      "keywords": [
+        "llm",
+        "anthropic",
+        "claude",
+        "cli",
+        "software update"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a release announcement with instructions on how to use the new model via command line.",
+      "pacer_reason_zh": "該文章為軟體更新公告，並附帶了如何透過命令列使用新模型的操作說明。"
+    },
     {
       "id": "0acb1218cac1f137",
       "title": "On reading books",

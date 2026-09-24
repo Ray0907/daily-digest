@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "cccb18cc379a9a72",
+      "title": "Make Money to Make More Websites",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/",
+      "pacer": "C",
+      "keywords": [
+        "priorities",
+        "business strategy",
+        "creative work",
+        "John Gruber",
+        "Walt Disney"
+      ],
+      "published": "2026-09-23T19:00:00.000Z"
+    },
+    {
+      "id": "e47986333e4f6766",
+      "title": "Gemini 3.8 TTS Playground",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "pacer": "P",
+      "keywords": [
+        "Gemini",
+        "TTS",
+        "Text-to-Speech",
+        "Simon Willison",
+        "AI Tools"
+      ],
+      "published": "2026-09-23T17:12:27.000Z"
+    },
+    {
+      "id": "c81040207630f754",
+      "title": "Shadow roots, explained with live examples",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "pacer": "P",
+      "keywords": [
+        "CSS",
+        "Shadow Roots",
+        "Web Components",
+        "Interactive Tool",
+        "Front-end Development"
+      ],
+      "published": "2026-09-23T16:37:18.000Z"
+    },
+    {
+      "id": "59b217ddc6d94c8e",
+      "title": "Navigation with only addition, subtraction, and tables",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/09/23/navigation-minimum/",
+      "pacer": "C",
+      "keywords": [
+        "navigation",
+        "logarithms",
+        "history of math",
+        "trigonometry",
+        "Nathaniel Bowditch"
+      ],
+      "published": "2026-09-23T14:11:52.000Z"
+    },
+    {
+      "id": "15cd0e1830038ea0",
+      "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "url": "https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Entrepreneurship",
+        "Lean LaunchPad",
+        "Education",
+        "Steve Blank"
+      ],
+      "published": "2026-09-23T13:00:12.000Z"
+    },
+    {
+      "id": "3e1cca604ca0c31d",
+      "title": "Weekly Update 522: Live From Oslo with Scott Helme",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-522/",
+      "pacer": "E",
+      "keywords": [
+        "CSP",
+        "Report URI",
+        "Malware",
+        "Cybersecurity",
+        "Troy Hunt"
+      ],
+      "published": "2026-09-23T05:18:34.000Z"
+    },
+    {
+      "id": "327f7261ab07f686",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "pacer": "R",
+      "keywords": [
+        "agentic engineering",
+        "coding agents",
+        "AI",
+        "meetup",
+        "San Francisco"
+      ],
+      "published": "2026-09-23T02:53:19.000Z"
+    },
+    {
       "id": "6d6d661c684a6428",
       "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
       "source": "Simon Willison's Weblog",
@@ -17,36 +129,20 @@
       "published": "2026-09-22T23:46:41.000Z"
     },
     {
-      "id": "edb6d5a5f85d653b",
-      "title": "Quoting @therealcornpop",
+      "id": "2e8a5e66791ed507",
+      "title": "llm 0.36",
       "source": "Simon Willison's Weblog",
       "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-      "pacer": "C",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "pacer": "R",
       "keywords": [
-        "AI",
-        "content creation",
-        "TikTok",
-        "authenticity",
-        "AI-generated"
+        "LLM",
+        "OpenAI",
+        "Software Update",
+        "GPT-6",
+        "CLI"
       ],
-      "published": "2026-09-22T18:03:21.000Z"
-    },
-    {
-      "id": "0d7b498b4e4acf53",
-      "title": "llm-typesafe 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "pacer": "P",
-      "keywords": [
-        "llm",
-        "plugin",
-        "typesafe",
-        "jev",
-        "cli"
-      ],
-      "published": "2026-09-22T15:54:16.000Z"
+      "published": "2026-09-22T18:48:37.000Z"
     },
     {
       "id": "bde7019656d22e79",
@@ -63,6 +159,22 @@
         "Biography"
       ],
       "published": "2026-09-22T14:01:30.000Z"
+    },
+    {
+      "id": "19cdfb1540059636",
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "scroll bar",
+        "shortcuts",
+        "UI history",
+        "user interface"
+      ],
+      "published": "2026-09-22T14:00:00.000Z"
     },
     {
       "id": "81aa5695d5052e6c",
@@ -191,38 +303,6 @@
         "earth curvature"
       ],
       "published": "2026-09-21T23:13:22.000Z"
-    },
-    {
-      "id": "b3e5263fa8976c3c",
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
-      "pacer": "C",
-      "keywords": [
-        "Jev",
-        "LLM",
-        "Decision Models",
-        "TypeSafe AI",
-        "System One"
-      ],
-      "published": "2026-09-21T23:09:20.000Z"
-    },
-    {
-      "id": "b3a971b72e2de3b7",
-      "title": "Cloudflare Python Workers are now generally available",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "pacer": "C",
-      "keywords": [
-        "Cloudflare Workers",
-        "Python",
-        "WebAssembly",
-        "Pyodide",
-        "Serverless"
-      ],
-      "published": "2026-09-21T22:25:44.000Z"
     },
     {
       "id": "e8fb7849254f622f",
@@ -705,22 +785,6 @@
       "published": "2026-09-17T14:55:07.000Z"
     },
     {
-      "id": "84dc73f8dc441da5",
-      "title": "Phone words",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/09/17/phone-words/",
-      "pacer": "C",
-      "keywords": [
-        "phone words",
-        "history",
-        "mnemonic",
-        "telecommunications",
-        "business cards"
-      ],
-      "published": "2026-09-17T14:03:51.000Z"
-    },
-    {
       "id": "ffd684a5e795e491",
       "title": "std::call_once vs. std::async",
       "source": "The Old New Thing",
@@ -913,22 +977,6 @@
       "published": "2026-09-15T19:00:00.000Z"
     },
     {
-      "id": "03e2060323df7013",
-      "title": "Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700",
-      "pacer": "C",
-      "keywords": [
-        "Microsoft",
-        "job levels",
-        "corporate history",
-        "The Old New Thing",
-        "career structure"
-      ],
-      "published": "2026-09-15T14:00:00.000Z"
-    },
-    {
       "id": "8e70e1a03dfc5ccd",
       "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
       "source": "Experimental History",
@@ -1103,22 +1151,6 @@
         "Workflow"
       ],
       "published": "2026-09-13T20:00:00.000Z"
-    },
-    {
-      "id": "46df79037145e580",
-      "title": "Preserving Netlify Analytics Data Beyond 30 Days",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/",
-      "pacer": "P",
-      "keywords": [
-        "Netlify",
-        "Analytics",
-        "Val Town",
-        "SQLite",
-        "Data Retention"
-      ],
-      "published": "2026-09-13T19:00:00.000Z"
     },
     {
       "id": "154cffb24bcdb61a",
@@ -2255,22 +2287,6 @@
         "hot-swapping"
       ],
       "published": "2026-08-24T22:00:00.000Z"
-    },
-    {
-      "id": "caed6a0b28132789",
-      "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-518/",
-      "pacer": "P",
-      "keywords": [
-        "IoT",
-        "UniFi",
-        "Smart Lock",
-        "Home Automation",
-        "Ubiquiti"
-      ],
-      "published": "2026-08-24T04:19:51.000Z"
     },
     {
       "id": "cba375c4d3a5d71c",
@@ -4432,22 +4448,6 @@
       "published": "2026-04-28T00:00:00.000Z"
     },
     {
-      "id": "e4662687979abee1",
-      "title": "AI and Teaching – The Brave New World",
-      "source": "Steve Blank",
-      "source_url": "https://steveblank.com/",
-      "url": "https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/",
-      "pacer": "E",
-      "keywords": [
-        "AI",
-        "Entrepreneurship",
-        "Education",
-        "Stanford",
-        "Lean LaunchPad"
-      ],
-      "published": "2026-04-22T15:34:09.000Z"
-    },
-    {
       "id": "f3655cea1c229f96",
       "title": "Hitachi Ltd, Part II",
       "source": "Abort Retry Fail",
@@ -4840,6 +4840,16 @@
   ],
   "links": [
     {
+      "source": "15cd0e1830038ea0",
+      "target": "960debb926861d36",
+      "shared_keywords": [
+        "Lean LaunchPad",
+        "Steve Blank",
+        "Entrepreneurship"
+      ],
+      "strength": 0.6
+    },
+    {
       "source": "ca943a2ac1bc7b9d",
       "target": "3bfe992bac8e389f",
       "shared_keywords": [
@@ -4881,16 +4891,6 @@
         "surveillance"
       ],
       "strength": 0.8
-    },
-    {
-      "source": "960debb926861d36",
-      "target": "e4662687979abee1",
-      "shared_keywords": [
-        "Entrepreneurship",
-        "Stanford",
-        "Lean LaunchPad"
-      ],
-      "strength": 0.6
     }
   ]
 }
