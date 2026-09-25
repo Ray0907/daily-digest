@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "5159a3d492b23299",
+      "title": "commit-rewriter 0.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "pacer": "P",
+      "keywords": [
+        "commit-rewriter",
+        "git",
+        "version control",
+        "software release",
+        "open source"
+      ],
+      "published": "2026-09-24T20:06:53.000Z"
+    },
+    {
+      "id": "0fc7c0f362de8929",
+      "title": "datasette 1.0a41",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "pacer": "R",
+      "keywords": [
+        "Datasette",
+        "OpenTelemetry",
+        "Web Components",
+        "JavaScript",
+        "Software Release"
+      ],
+      "published": "2026-09-24T19:15:23.000Z"
+    },
+    {
+      "id": "b6215cdfc1f494c4",
+      "title": "So yeah it was written using AI",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+      "pacer": "C",
+      "keywords": [
+        "Generative AI",
+        "AI ethics",
+        "content consumption",
+        "media literacy",
+        "opinion pieces"
+      ],
+      "published": "2026-09-24T15:45:00.000Z"
+    },
+    {
+      "id": "087252ffee60095e",
+      "title": "No, really, you need to pass all unhandled messages to DefWindowProc, part 2",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/",
+      "pacer": "P",
+      "keywords": [
+        "Windows API",
+        "DefWindowProc",
+        "Win32",
+        "Programming",
+        "Message handling"
+      ],
+      "published": "2026-09-24T14:00:00.000Z"
+    },
+    {
+      "id": "f966b7c8d65a5998",
+      "title": "Some thoughts on HTML's proposed previewsrc attribute",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/",
+      "pacer": "C",
+      "keywords": [
+        "HTML",
+        "previewsrc",
+        "web standards",
+        "Microsoft",
+        "web development"
+      ],
+      "published": "2026-09-24T11:34:54.000Z"
+    },
+    {
+      "id": "fcf780cffcc9e89c",
+      "title": "Package Manager Sandboxing",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/24/package-manager-sandboxing.html",
+      "pacer": "C",
+      "keywords": [
+        "Homebrew",
+        "Sandboxing",
+        "Security",
+        "Package Manager",
+        "macOS"
+      ],
+      "published": "2026-09-24T09:00:00.000Z"
+    },
+    {
+      "id": "a80cc87b07991dc8",
+      "title": "Why is the human body so crap except for the liver?",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "url": "https://dynomight.net/liver/",
+      "pacer": "C",
+      "keywords": [
+        "biology",
+        "evolution",
+        "regeneration",
+        "human body",
+        "liver"
+      ],
+      "published": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "b214e3d5170e8dec",
+      "title": "Shrinking a Fedora virtual disk",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/shrinking-fedora-virtual-disk",
+      "pacer": "A",
+      "keywords": [
+        "Fedora",
+        "Hyper-V",
+        "Virtual Machine",
+        "Linux",
+        "Bare Metal"
+      ],
+      "published": "2026-09-23T22:00:00.000Z"
+    },
+    {
       "id": "cccb18cc379a9a72",
       "title": "Make Money to Make More Websites",
       "source": "Jim Nielsen’s Blog",
@@ -65,6 +193,22 @@
       "published": "2026-09-23T14:11:52.000Z"
     },
     {
+      "id": "b5de8fcada4c0f22",
+      "title": "When working with Win32 FILETIME, don’t forget that you have std::chrono now",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/",
+      "pacer": "P",
+      "keywords": [
+        "Win32",
+        "FILETIME",
+        "std::chrono",
+        "C++",
+        "Programming"
+      ],
+      "published": "2026-09-23T14:00:00.000Z"
+    },
+    {
       "id": "15cd0e1830038ea0",
       "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
       "source": "Steve Blank",
@@ -111,38 +255,6 @@
         "San Francisco"
       ],
       "published": "2026-09-23T02:53:19.000Z"
-    },
-    {
-      "id": "6d6d661c684a6428",
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-      "pacer": "R",
-      "keywords": [
-        "AI Models",
-        "OpenAI",
-        "Anthropic",
-        "Pricing",
-        "LLM"
-      ],
-      "published": "2026-09-22T23:46:41.000Z"
-    },
-    {
-      "id": "2e8a5e66791ed507",
-      "title": "llm 0.36",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/22/llm/",
-      "pacer": "R",
-      "keywords": [
-        "LLM",
-        "OpenAI",
-        "Software Update",
-        "GPT-6",
-        "CLI"
-      ],
-      "published": "2026-09-22T18:48:37.000Z"
     },
     {
       "id": "bde7019656d22e79",
@@ -785,22 +897,6 @@
       "published": "2026-09-17T14:55:07.000Z"
     },
     {
-      "id": "ffd684a5e795e491",
-      "title": "std::call_once vs. std::async",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "std::call_once",
-        "std::async",
-        "concurrency",
-        "programming"
-      ],
-      "published": "2026-09-17T14:00:00.000Z"
-    },
-    {
       "id": "655ad85b6c469364",
       "title": "How SpaceX Streamlined the Raptor Engine",
       "source": "Construction Physics",
@@ -897,22 +993,6 @@
       "published": "2026-09-16T18:14:22.000Z"
     },
     {
-      "id": "a9e25ab7d23a88ed",
-      "title": "Magic statics vs. std::call_once",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "Magic statics",
-        "std::call_once",
-        "programming",
-        "concurrency"
-      ],
-      "published": "2026-09-16T14:00:00.000Z"
-    },
-    {
       "id": "39e02f797f16387e",
       "title": "How to get a DOI for your blog posts",
       "source": "Terence Eden’s Blog",
@@ -991,38 +1071,6 @@
         "public health"
       ],
       "published": "2026-09-15T12:54:38.000Z"
-    },
-    {
-      "id": "6f2400880ccb7c87",
-      "title": "[RSS Club] Sorry for breaking your feed readers!",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/",
-      "pacer": "C",
-      "keywords": [
-        "RSS",
-        "Feed Reader",
-        "HTML",
-        "Tech Support",
-        "Blogging"
-      ],
-      "published": "2026-09-15T11:34:26.000Z"
-    },
-    {
-      "id": "a62545b7cad8cf65",
-      "title": "Shadowing the Standard Library",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html",
-      "pacer": "E",
-      "keywords": [
-        "security",
-        "python",
-        "module path",
-        "code injection",
-        "programming languages"
-      ],
-      "published": "2026-09-15T09:00:00.000Z"
     },
     {
       "id": "b543131e46d8ff24",
@@ -2273,22 +2321,6 @@
       "published": "2026-08-25T00:00:00.000Z"
     },
     {
-      "id": "a5a39ecb23d58c5e",
-      "title": "A curmudgeon tries a language server",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "pacer": "A",
-      "keywords": [
-        "Lisp",
-        "programming",
-        "REPL",
-        "development workflow",
-        "hot-swapping"
-      ],
-      "published": "2026-08-24T22:00:00.000Z"
-    },
-    {
       "id": "cba375c4d3a5d71c",
       "title": "distributed identity",
       "source": "the website of jyn",
@@ -2849,22 +2881,6 @@
       "published": "2026-07-31T16:04:31.698Z"
     },
     {
-      "id": "8d07820e8bc9e42c",
-      "title": "AI: Considerations for people who make decisions",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/ai-for-decision-makers/",
-      "pacer": "C",
-      "keywords": [
-        "AI policy",
-        "decision making",
-        "government",
-        "technology governance",
-        "AI strategy"
-      ],
-      "published": "2026-07-31T08:00:00.000Z"
-    },
-    {
       "id": "6ee6bb1bcb751336",
       "title": "Notes from July 2026",
       "source": "Evan Hahn (dot com)",
@@ -3132,22 +3148,6 @@
         "software licensing"
       ],
       "published": "2026-07-22T05:00:00.000Z"
-    },
-    {
-      "id": "32e514f425621c05",
-      "title": "Does creatine make you smarter?",
-      "source": "DYNOMIGHT",
-      "source_url": "https://dynomight.net/",
-      "url": "https://dynomight.net/creatine/",
-      "pacer": "E",
-      "keywords": [
-        "creatine",
-        "supplements",
-        "health",
-        "fitness",
-        "nutrition"
-      ],
-      "published": "2026-07-22T00:00:00.000Z"
     },
     {
       "id": "edb9884c0bcf8fec",
@@ -4857,17 +4857,6 @@
         "Windows",
         "API",
         "Programming"
-      ],
-      "strength": 0.8
-    },
-    {
-      "source": "ffd684a5e795e491",
-      "target": "a9e25ab7d23a88ed",
-      "shared_keywords": [
-        "C++",
-        "std::call_once",
-        "programming",
-        "concurrency"
       ],
       "strength": 0.8
     },

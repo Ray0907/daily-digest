@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-09-24T00:03:52.713Z",
+  "last_updated": "2026-09-25T00:07:02.160Z",
   "articles": [
+    {
+      "id": "b6215cdfc1f494c4",
+      "title": "So yeah it was written using AI",
+      "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-09-24T15:45:00.000Z",
+      "summary_en": "The author addresses the growing trend of dismissing articles simply because they are AI-authored, despite his own strong opposition to Generative AI. He argues that the validity of an opinion piece should be judged on its merits rather than its origin, even when the underlying technology is problematic.",
+      "summary_zh": "作者探討了人們僅因文章由 AI 撰寫就拒絕閱讀的現象，儘管他本人對生成式 AI 持強烈反對態度。他認為，即便底層技術存在爭議，讀者仍應根據論點本身的價值來進行評估，而非僅因產出方式而全盤否定。",
+      "keywords": [
+        "Generative AI",
+        "AI ethics",
+        "content consumption",
+        "media literacy",
+        "opinion pieces"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual dilemma of evaluating content quality versus its origins in the era of AI.",
+      "pacer_reason_zh": "本文探討了在 AI 時代下，如何權衡內容品質與其生成來源的概念性困境。"
+    },
+    {
+      "id": "b214e3d5170e8dec",
+      "title": "Shrinking a Fedora virtual disk",
+      "url": "https://entropicthoughts.com/shrinking-fedora-virtual-disk",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-09-23T22:00:00.000Z",
+      "summary_en": "The author shares their experience running Fedora in a Hyper-V virtual machine on Windows to manage hardware complexities. They describe the technical limitations of this setup and express a desire to transition back to a bare-metal installation.",
+      "summary_zh": "作者分享了在 Windows 上使用 Hyper-V 虛擬機運行 Fedora 的經驗，以解決硬體管理上的需求。文章討論了此設置帶來的硬體存取限制與技術挑戰，並表達了改回原生安裝（bare-metal）的意圖。",
+      "keywords": [
+        "Fedora",
+        "Hyper-V",
+        "Virtual Machine",
+        "Linux",
+        "Bare Metal"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a narrative, journey-like approach to frame the technical transition between virtualized and bare-metal environments.",
+      "pacer_reason_zh": "文章以敘事性和旅程般的風格來描述從虛擬化環境轉向原生安裝的技術過程。"
+    },
+    {
+      "id": "fcf780cffcc9e89c",
+      "title": "Package Manager Sandboxing",
+      "url": "https://nesbitt.io/2026/09/24/package-manager-sandboxing.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-24T09:00:00.000Z",
+      "summary_en": "Homebrew 7.0.0 has significantly enhanced its security architecture by implementing stricter sandboxing for installation phases, including offline install modes and file system restrictions. The project is transitioning from arbitrary Ruby code execution to declarative steps, while further refining Linux-based sandboxing using kernel-native tools like Landlock. These changes aim to limit accidental damage during package installation rather than making untrusted software inherently safe to run.",
+      "summary_zh": "Homebrew 7.0.0 透過實施更嚴格的安裝沙盒機制（包括離線安裝與檔案存取限制），大幅強化了系統安全性。專案正逐步將安裝過程由任意 Ruby 程式碼轉向宣告式結構，並改用 Landlock 等核心技術優化 Linux 沙盒。這些改進旨在降低安裝過程中的意外風險，而非保證不受信任軟體的執行安全性。",
+      "keywords": [
+        "Homebrew",
+        "Sandboxing",
+        "Security",
+        "Package Manager",
+        "macOS"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what is' and 'why' behind the shift in Homebrew's architectural approach to security and sandboxing.",
+      "pacer_reason_zh": "本文解釋了 Homebrew 在安全與沙盒架構轉變背後的原理與概念。"
+    },
+    {
+      "id": "087252ffee60095e",
+      "title": "No, really, you need to pass all unhandled messages to DefWindowProc, part 2",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-24T14:00:00.000Z",
+      "summary_en": "This post serves as a follow-up to a previous discussion, emphasizing the critical importance of passing unhandled Windows messages to the DefWindowProc function. It highlights a specific technical scenario to reinforce best practices in Windows API message handling.",
+      "summary_zh": "這篇文章延續先前的討論，進一步強調將未處理的 Windows 訊息傳遞給 DefWindowProc 函式的重要性。作者透過新的實例來說明在 Windows API 訊息處理中必須遵循的程式設計規範。",
+      "keywords": [
+        "Windows API",
+        "DefWindowProc",
+        "Win32",
+        "Programming",
+        "Message handling"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific technical instructions and mandates a procedural standard for developers handling Windows messages.",
+      "pacer_reason_zh": "該文章提供了具體的技術指導，並強制規定了開發者在處理 Windows 訊息時應遵循的程序標準。"
+    },
+    {
+      "id": "b5de8fcada4c0f22",
+      "title": "When working with Win32 FILETIME, don’t forget that you have std::chrono now",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-23T14:00:00.000Z",
+      "summary_en": "This post highlights the benefits of using C++'s std::chrono library for handling Win32 FILETIME values. It encourages developers to leverage modern language features to simplify date and time calculations rather than performing manual arithmetic.",
+      "summary_zh": "本文強調在處理 Win32 FILETIME 時，應善用 C++ 的 std::chrono 函式庫。開發者應透過現代語言特性來簡化時間計算，而非手動進行繁瑣的數學運算。",
+      "keywords": [
+        "Win32",
+        "FILETIME",
+        "std::chrono",
+        "C++",
+        "Programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a specific programming recommendation and best practice for how to handle time conversions correctly.",
+      "pacer_reason_zh": "本文提供關於如何正確處理時間轉換的程式開發建議與最佳實踐。"
+    },
+    {
+      "id": "a80cc87b07991dc8",
+      "title": "Why is the human body so crap except for the liver?",
+      "url": "https://dynomight.net/liver/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary_en": "The author examines the apparent poor design of the human body, contrasting the fragile nature of organs like kidneys and gums with the remarkable regenerative ability of the liver. The post proposes a speculative theory on why humans evolved to be biologically limited in areas like tissue regeneration and reproductive longevity compared to other species.",
+      "summary_zh": "作者探討了人體結構中看似糟糕的設計，對比了腎臟和牙齦的脆弱性與肝臟強大的再生能力。文中提出了一個推測性理論，解釋為何人類在組織再生和繁殖壽命等方面，演化出不如其他物種的生物限制。",
+      "keywords": [
+        "biology",
+        "evolution",
+        "regeneration",
+        "human body",
+        "liver"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a speculative theory and conceptual exploration of biological design and evolutionary trade-offs.",
+      "pacer_reason_zh": "本文提出了一項推測性理論，並針對生物設計與演化權衡進行了概念性的探討。"
+    },
+    {
+      "id": "f966b7c8d65a5998",
+      "title": "Some thoughts on HTML's proposed previewsrc attribute",
+      "url": "https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-24T11:34:54.000Z",
+      "summary_en": "The article discusses Microsoft's proposal for a new 'previewsrc' attribute in HTML, aimed at standardizing how video previews are handled. It explores the importance of formalizing common web development practices into browser standards to improve consistency.",
+      "summary_zh": "本文探討了微軟針對 HTML 提出的 'previewsrc' 屬性建議，旨在標準化影片預覽的處理方式。文章強調了將常見的網頁開發實作轉化為瀏覽器標準，以提升網頁開發的一致性。",
+      "keywords": [
+        "HTML",
+        "previewsrc",
+        "web standards",
+        "Microsoft",
+        "web development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview and commentary on a new proposed web standard rather than a tutorial or data-heavy experiment.",
+      "pacer_reason_zh": "這篇文章針對新的網頁標準提案提供了概念性概述與評論，而非教學指南或數據實驗。"
+    },
+    {
+      "id": "5159a3d492b23299",
+      "title": "commit-rewriter 0.2",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-24T20:06:53.000Z",
+      "summary_en": "Simon Willison has released version 0.2 of commit-rewriter, a tool for modifying Git commit history. The update introduces support for non-default branches via the new --branch flag.",
+      "summary_zh": "Simon Willison 發布了 commit-rewriter 0.2 版本，這是一款用於修改 Git 提交歷史的工具。本次更新透過新增 --branch 參數，支援對非預設分支進行操作。",
+      "keywords": [
+        "commit-rewriter",
+        "git",
+        "version control",
+        "software release",
+        "open source"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content announces a software release update and demonstrates the command-line usage for a specific tool feature.",
+      "pacer_reason_zh": "該內容發布了軟體更新，並示範了特定工具功能的命令列操作方式。"
+    },
+    {
+      "id": "0fc7c0f362de8929",
+      "title": "datasette 1.0a41",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-24T19:15:23.000Z",
+      "summary_en": "Datasette 1.0a41 introduces support for OpenTelemetry to improve observability and system monitoring. Additionally, the release refactors modal dialogs into a reusable Web Component for better integration with plugins.",
+      "summary_zh": "Datasette 1.0a41 引入了 OpenTelemetry 支援，以增強系統的可觀測性與監控能力。此外，本次更新將模態對話框重構為可重複使用的 Web Component，方便其他插件使用。",
+      "keywords": [
+        "Datasette",
+        "OpenTelemetry",
+        "Web Components",
+        "JavaScript",
+        "Software Release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement listing new features and documentation updates.",
+      "pacer_reason_zh": "這是一篇軟體發布公告，列出了新增功能與相關的文件更新。"
+    },
     {
       "id": "3e1cca604ca0c31d",
       "title": "Weekly Update 522: Live From Oslo with Scott Helme",

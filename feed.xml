@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 24 Sep 2026 00:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:07:02 GMT</lastBuildDate>
     
+    <item>
+      <title>So yeah it was written using AI</title>
+      <link>https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</link>
+      <guid>https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</guid>
+      <pubDate>Thu, 24 Sep 2026 15:45:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The author addresses the growing trend of dismissing articles simply because they are AI-authored, despite his own strong opposition to Generative AI. He argues that the validity of an opinion piece should be judged on its merits rather than its origin, even when the underlying technology is problematic.</description>
+    </item>
+
+    <item>
+      <title>Shrinking a Fedora virtual disk</title>
+      <link>https://entropicthoughts.com/shrinking-fedora-virtual-disk</link>
+      <guid>https://entropicthoughts.com/shrinking-fedora-virtual-disk</guid>
+      <pubDate>Wed, 23 Sep 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The author shares their experience running Fedora in a Hyper-V virtual machine on Windows to manage hardware complexities. They describe the technical limitations of this setup and express a desire to transition back to a bare-metal installation.</description>
+    </item>
+
+    <item>
+      <title>Package Manager Sandboxing</title>
+      <link>https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</link>
+      <guid>https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</guid>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>Homebrew 7.0.0 has significantly enhanced its security architecture by implementing stricter sandboxing for installation phases, including offline install modes and file system restrictions. The project is transitioning from arbitrary Ruby code execution to declarative steps, while further refining Linux-based sandboxing using kernel-native tools like Landlock. These changes aim to limit accidental damage during package installation rather than making untrusted software inherently safe to run.</description>
+    </item>
+
+    <item>
+      <title>No, really, you need to pass all unhandled messages to DefWindowProc, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</guid>
+      <pubDate>Thu, 24 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post serves as a follow-up to a previous discussion, emphasizing the critical importance of passing unhandled Windows messages to the DefWindowProc function. It highlights a specific technical scenario to reinforce best practices in Windows API message handling.</description>
+    </item>
+
+    <item>
+      <title>When working with Win32 FILETIME, don’t forget that you have std::chrono now</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</guid>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post highlights the benefits of using C++'s std::chrono library for handling Win32 FILETIME values. It encourages developers to leverage modern language features to simplify date and time calculations rather than performing manual arithmetic.</description>
+    </item>
+
+    <item>
+      <title>Why is the human body so crap except for the liver?</title>
+      <link>https://dynomight.net/liver/</link>
+      <guid>https://dynomight.net/liver/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://dynomight.net/">DYNOMIGHT</source>
+      <description>The author examines the apparent poor design of the human body, contrasting the fragile nature of organs like kidneys and gums with the remarkable regenerative ability of the liver. The post proposes a speculative theory on why humans evolved to be biologically limited in areas like tissue regeneration and reproductive longevity compared to other species.</description>
+    </item>
+
+    <item>
+      <title>Some thoughts on HTML's proposed previewsrc attribute</title>
+      <link>https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</guid>
+      <pubDate>Thu, 24 Sep 2026 11:34:54 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The article discusses Microsoft's proposal for a new 'previewsrc' attribute in HTML, aimed at standardizing how video previews are handled. It explores the importance of formalizing common web development practices into browser standards to improve consistency.</description>
+    </item>
+
+    <item>
+      <title>commit-rewriter 0.2</title>
+      <link>https://simonwillison.net/2026/Sep/24/commit-rewriter/</link>
+      <guid>https://simonwillison.net/2026/Sep/24/commit-rewriter/</guid>
+      <pubDate>Thu, 24 Sep 2026 20:06:53 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.2 of commit-rewriter, a tool for modifying Git commit history. The update introduces support for non-default branches via the new --branch flag.</description>
+    </item>
+
+    <item>
+      <title>datasette 1.0a41</title>
+      <link>https://simonwillison.net/2026/Sep/24/datasette/</link>
+      <guid>https://simonwillison.net/2026/Sep/24/datasette/</guid>
+      <pubDate>Thu, 24 Sep 2026 19:15:23 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette 1.0a41 introduces support for OpenTelemetry to improve observability and system monitoring. Additionally, the release refactors modal dialogs into a reusable Web Component for better integration with plugins.</description>
+    </item>
+
     <item>
       <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
       <link>https://www.troyhunt.com/weekly-update-522/</link>
@@ -823,87 +904,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>The article discusses the resurgence of interest in structured output within the context of language models. It highlights how tools like Jev are making structured data processing more efficient and relevant for developers.</description>
-    </item>
-
-    <item>
-      <title>There is no epidemic of loneliness, but there is an epidemic of scurvy</title>
-      <link>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</link>
-      <guid>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</guid>
-      <pubDate>Tue, 15 Sep 2026 12:54:38 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>The article challenges the prevailing narrative regarding a loneliness epidemic by drawing a provocative comparison to historical outbreaks of scurvy. It suggests that modern societal malaise may be better understood through the lens of fundamental physical or systemic deficiencies rather than purely psychological factors.</description>
-    </item>
-
-    <item>
-      <title>Tag index for Org mode blog</title>
-      <link>https://entropicthoughts.com/tag-index-for-org-mode-blog</link>
-      <guid>https://entropicthoughts.com/tag-index-for-org-mode-blog</guid>
-      <pubDate>Mon, 14 Sep 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article explains how the author generates a tag index for their Org mode-based blog. It specifically addresses a technical challenge involving recursive functions hitting stack limits and provides a code snippet for the implementation.</description>
-    </item>
-
-    <item>
-      <title>alt.time-capsule.reopened</title>
-      <link>https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</link>
-      <guid>https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</guid>
-      <pubDate>Tue, 15 Sep 2026 02:58:29 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the complexities of resurfacing decades-old Usenet posts through new archival tools. It reflects on the shift from viewing internet content as ephemeral to the reality of its permanence, and notes the decline of Google Groups as a repository for this history.</description>
-    </item>
-
-    <item>
-      <title>Shadowing the Standard Library</title>
-      <link>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</link>
-      <guid>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</guid>
-      <pubDate>Tue, 15 Sep 2026 09:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article explores the security risks of including the current directory in module search paths, a behavior that allows malicious code injection. The author analyzes how various programming languages like Ruby and Perl have addressed this vulnerability by removing local directory resolution from their standard libraries.</description>
-    </item>
-
-    <item>
-      <title>Simple approximation for spherical cap area</title>
-      <link>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</link>
-      <guid>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</guid>
-      <pubDate>Tue, 15 Sep 2026 22:00:44 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article explores the geometry of high-dimensional spaces, specifically how word vectors and cosine similarity behave. It introduces a practical mathematical approximation for calculating the area of a spherical cap to help understand vector relationships.</description>
-    </item>
-
-    <item>
-      <title>What counts as a large cosine similarity?</title>
-      <link>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</link>
-      <guid>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:06:02 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the interpretation of cosine similarity in machine learning by explaining how vector angles relate to word similarity. It clarifies that what qualifies as a 'large' value is context-dependent and lacks a universal threshold.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Everybody pees (15 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/</link>
-      <guid>https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/</guid>
-      <pubDate>Tue, 15 Sep 2026 07:27:02 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow uses the universal human reality of aging and biological needs to critique the inhumane working conditions at Amazon. He contrasts the natural bladder functions of older individuals like Jeff Bezos with the systematic denial of bathroom breaks for Amazon warehouse and delivery workers.</description>
-    </item>
-
-    <item>
-      <title>Tell agents the why, not just the how</title>
-      <link>https://seangoedecke.com/tell-agents-the-why/</link>
-      <guid>https://seangoedecke.com/tell-agents-the-why/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article argues that when prompting AI agents, providing context and intent ('the why') is more effective than focusing solely on task instructions ('the how'). By explaining the underlying goals, agents can better navigate ambiguity and achieve more accurate results.</description>
-    </item>
-
-    <item>
-      <title>Hoe wordt de overheid weer 'van de IT'?</title>
-      <link>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</link>
-      <guid>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:45:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>The Dutch government relies too heavily on big-tech ecosystems and American platforms, leading to a loss of digital sovereignty and privacy concerns. The author argues that significant structural changes are necessary for the government to regain control and develop an autonomous IT strategy.</description>
     </item>
   </channel>
 </rss>
