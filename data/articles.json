@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-26T00:13:26.884Z",
+  "last_updated": "2026-09-26T23:58:15.724Z",
   "articles": [
+    {
+      "id": "381c22846ca0587c",
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-09-26T15:25:00.000Z",
+      "summary_en": "This article explores applying the 'Parse, don't validate' design pattern to the Rust programming language. It demonstrates how to use types to enforce invariants, moving away from runtime checks that lead to redundant error handling and 'unreachable' code blocks.",
+      "summary_zh": "本文探討了將「解析而非驗證 (Parse, don't validate)」設計模式應用於 Rust 程式語言的方法。作者展示了如何利用型別系統來強制執行程式不變量，藉此減少冗餘的執行時期檢查與無效的錯誤處理代碼。",
+      "keywords": [
+        "Rust",
+        "Parse don't validate",
+        "Type safety",
+        "Programming patterns",
+        "Software architecture"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'Parse, don't validate' paradigm—originally popularized in Haskell—to explain and illustrate how similar architectural concepts apply to the Rust language.",
+      "pacer_reason_zh": "本文透過引述 Haskell 中著名的「解析而非驗證」範式，並以此類推展示其如何應用於 Rust 語言的架構設計中。"
+    },
+    {
+      "id": "d11fe88d622e8821",
+      "title": "Reading List 2026-09-26",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-09-26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-09-26T10:17:46.000Z",
+      "summary_en": "This post provides a curated collection of industry updates and technical observations, covering topics from ASML's shifting European sales landscape to distributed power infrastructure in California. It also highlights unique insights into using Starlink's performance as a metric for planetary-scale atmospheric conditions.",
+      "summary_zh": "本篇閱讀清單匯整了多項產業動態與技術觀察，涵蓋 ASML 在歐洲銷售趨勢的變化、加州分散式電廠的發展，以及利用 Starlink 作為行星級氣象指標的獨特見解。",
+      "keywords": [
+        "ASML",
+        "Energy",
+        "Starlink",
+        "Infrastructure",
+        "Technology"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a curated list of reference materials and news highlights.",
+      "pacer_reason_zh": "該內容為一系列精選的參考資訊與新聞摘要。"
+    },
+    {
+      "id": "c6daf18098be1bcd",
+      "title": "This Week in Package Management: 26 September 2026",
+      "url": "https://nesbitt.io/2026/09/26/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-09-26T10:00:00.000Z",
+      "summary_en": "This weekly roundup highlights significant updates across various package management tools, including pnpm, RubyGems, npm, Poetry, Terraform, Windows Package Manager, and mise. The report covers new features like granular access tokens, improved dependency deduplication, and enhanced security protocols for software releases.",
+      "summary_zh": "本週匯總介紹了多種套件管理工具的重大更新，包括 pnpm、RubyGems、npm、Poetry、Terraform、Windows Package Manager 與 mise。內容涵蓋了精細存取權杖、依賴項自動去重以及軟體發布安全協定等新功能。",
+      "keywords": [
+        "package-management",
+        "software-releases",
+        "pnpm",
+        "npm",
+        "infrastructure"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list and lookup resource for the latest releases in the package management ecosystem.",
+      "pacer_reason_zh": "本文作為套件管理生態系統中最新版本的清單與參考資料。"
+    },
+    {
+      "id": "e8ec240f9c9229ff",
+      "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-09-26T16:20:56.564Z",
+      "summary_en": "This article explores the internal circuitry and microcode of the vintage Intel 8087 floating-point chip to explain its efficient tangent instruction (FPTAN). By analyzing the die and functional blocks, the author reveals that the chip uses a hybrid approach combining CORDIC algorithms and polynomial approximations for high-performance calculations.",
+      "summary_zh": "本文深入剖析了經典 Intel 8087 浮點運算晶片的內部電路與微代碼，解釋其正切指令（FPTAN）的高效運作原理。作者通過分析晶片顯微圖像與各功能模組，揭示了該晶片如何結合 CORDIC 演算法與多項式近似技術，以達到卓越的計算效能。",
+      "keywords": [
+        "Intel 8087",
+        "FPTAN",
+        "CORDIC",
+        "reverse-engineering",
+        "microcode"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how the Intel 8087 processor implements a specific mathematical function through its hardware architecture.",
+      "pacer_reason_zh": "本文提供了關於 Intel 8087 處理器如何透過硬體架構實現特定數學函數的概念性解釋。"
+    },
+    {
+      "id": "e19bb24956a9a645",
+      "title": "Debugging walkthrough: Access violation on nonsense instruction, episode 3",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-25T14:00:00.000Z",
+      "summary_en": "This post provides a technical debugging walkthrough focusing on analyzing an access violation error caused by invalid instructions. It demonstrates the process of investigating suspicious program behavior in a real-world scenario.",
+      "summary_zh": "這篇文章提供了一個技術除錯導覽，重點在於分析由無效指令引起的存取違規錯誤。文中展示了在實際情境中調查異常程式行為的過程。",
+      "keywords": [
+        "debugging",
+        "access violation",
+        "technical analysis",
+        "software development",
+        "troubleshooting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a step-by-step technical walkthrough of a debugging process.",
+      "pacer_reason_zh": "本文是一個關於除錯過程的技術性逐步導覽。"
+    },
+    {
+      "id": "3768fff7a78eb472",
+      "title": "No errors, no warnings, no gods, no masters - HTML Purity is a Fetish",
+      "url": "https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-26T11:34:02.000Z",
+      "summary_en": "This post critiques the concept of 'HTML purity,' arguing that HTML has historically evolved by aggressively adopting and adapting features from other programming languages. The author suggests that the language's chaotic, pragmatic evolution makes any attempt to enforce strict structural purity both misguided and historically inaccurate.",
+      "summary_zh": "本文批評了「HTML 純粹性」的觀念，指出 HTML 在歷史發展中一直透過不斷吸取和改編其他程式語言的功能來進化。作者認為，HTML 這種混亂且務實的發展路徑，使得任何強制要求結構純粹性的嘗試都顯得既錯誤又不符合歷史事實。",
+      "keywords": [
+        "HTML",
+        "Web Standards",
+        "Programming",
+        "Syntax",
+        "Web Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual critique that explores the definition and nature of HTML as a language rather than providing technical steps or data.",
+      "pacer_reason_zh": "這是一篇概念性的評論文章，旨在探討 HTML 作為一種語言的本質與定義，而非提供技術指導或數據分析。"
+    },
+    {
+      "id": "ec1cbf0722837c04",
+      "title": "Advice to a beginning software engineer",
+      "url": "https://seangoedecke.com/advice-to-a-beginning-software-engineer/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-26T00:00:00.000Z",
+      "summary_en": "This article offers professional guidance and essential principles for software engineers starting their careers. It covers foundational mindsets and practical habits necessary for long-term growth in the tech industry.",
+      "summary_zh": "本文針對軟體工程師新手提供職涯建議與核心原則。內容涵蓋了在科技產業長期發展所需的基礎心態與實務習慣。",
+      "keywords": [
+        "software engineering",
+        "career advice",
+        "mentorship",
+        "professional development",
+        "coding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on high-level professional concepts, career philosophy, and best practices rather than specific technical tutorials.",
+      "pacer_reason_zh": "本文著重於高層次的專業概念、職涯哲學與最佳實務，而非具體的技術操作教學。"
+    },
     {
       "id": "1452eb51fe21b506",
       "title": "AI Killed the MVP – Long Live the IUP",

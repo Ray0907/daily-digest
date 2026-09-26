@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "e8ec240f9c9229ff",
+      "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "pacer": "C",
+      "keywords": [
+        "Intel 8087",
+        "FPTAN",
+        "CORDIC",
+        "reverse-engineering",
+        "microcode"
+      ],
+      "published": "2026-09-26T16:20:56.564Z"
+    },
+    {
+      "id": "381c22846ca0587c",
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "pacer": "A",
+      "keywords": [
+        "Rust",
+        "Parse don't validate",
+        "Type safety",
+        "Programming patterns",
+        "Software architecture"
+      ],
+      "published": "2026-09-26T15:25:00.000Z"
+    },
+    {
+      "id": "3768fff7a78eb472",
+      "title": "No errors, no warnings, no gods, no masters - HTML Purity is a Fetish",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/",
+      "pacer": "C",
+      "keywords": [
+        "HTML",
+        "Web Standards",
+        "Programming",
+        "Syntax",
+        "Web Development"
+      ],
+      "published": "2026-09-26T11:34:02.000Z"
+    },
+    {
+      "id": "d11fe88d622e8821",
+      "title": "Reading List 2026-09-26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-09-26",
+      "pacer": "R",
+      "keywords": [
+        "ASML",
+        "Energy",
+        "Starlink",
+        "Infrastructure",
+        "Technology"
+      ],
+      "published": "2026-09-26T10:17:46.000Z"
+    },
+    {
+      "id": "c6daf18098be1bcd",
+      "title": "This Week in Package Management: 26 September 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/09/26/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package-management",
+        "software-releases",
+        "pnpm",
+        "npm",
+        "infrastructure"
+      ],
+      "published": "2026-09-26T10:00:00.000Z"
+    },
+    {
+      "id": "ec1cbf0722837c04",
+      "title": "Advice to a beginning software engineer",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/advice-to-a-beginning-software-engineer/",
+      "pacer": "C",
+      "keywords": [
+        "software engineering",
+        "career advice",
+        "mentorship",
+        "professional development",
+        "coding"
+      ],
+      "published": "2026-09-26T00:00:00.000Z"
+    },
+    {
       "id": "5569bca5352ec422",
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "source": "Krebs on Security",
@@ -79,6 +175,22 @@
         "St. Louis"
       ],
       "published": "2026-09-25T15:16:00.000Z"
+    },
+    {
+      "id": "e19bb24956a9a645",
+      "title": "Debugging walkthrough: Access violation on nonsense instruction, episode 3",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/",
+      "pacer": "P",
+      "keywords": [
+        "debugging",
+        "access violation",
+        "technical analysis",
+        "software development",
+        "troubleshooting"
+      ],
+      "published": "2026-09-25T14:00:00.000Z"
     },
     {
       "id": "1452eb51fe21b506",
@@ -625,22 +737,6 @@
       "published": "2026-09-21T14:00:00.000Z"
     },
     {
-      "id": "3bfe992bac8e389f",
-      "title": "What’s the highest legal FILETIME? Is it safe to use?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711",
-      "pacer": "C",
-      "keywords": [
-        "FILETIME",
-        "Windows",
-        "API",
-        "Data structures",
-        "Programming"
-      ],
-      "published": "2026-09-21T14:00:00.000Z"
-    },
-    {
       "id": "c6c980f43615d715",
       "title": "Pluralistic: The Claude Delusion (21 Sep 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -1009,22 +1105,6 @@
       "published": "2026-09-17T12:02:08.000Z"
     },
     {
-      "id": "cb71d9ea630c1d18",
-      "title": "Good Morning, Your Toaster Is Compromised",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html",
-      "pacer": "E",
-      "keywords": [
-        "IoT security",
-        "vulpine-lz4",
-        "smart appliances",
-        "open source",
-        "firmware"
-      ],
-      "published": "2026-09-17T09:00:00.000Z"
-    },
-    {
       "id": "6a1b5a8d35947385",
       "title": "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -1087,38 +1167,6 @@
         "Krebs on Security"
       ],
       "published": "2026-09-16T18:14:22.000Z"
-    },
-    {
-      "id": "39e02f797f16387e",
-      "title": "How to get a DOI for your blog posts",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
-      "pacer": "P",
-      "keywords": [
-        "DOI",
-        "blogging",
-        "digital preservation",
-        "tutorials",
-        "academic citation"
-      ],
-      "published": "2026-09-16T11:34:28.000Z"
-    },
-    {
-      "id": "d0e76c83db88dcf1",
-      "title": "Jev means structured output is interesting again",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/jev-means-structured-output-is-interesting-again/",
-      "pacer": "C",
-      "keywords": [
-        "Jev",
-        "Structured Output",
-        "LLM",
-        "Data Processing",
-        "AI Development"
-      ],
-      "published": "2026-09-16T00:00:00.000Z"
     },
     {
       "id": "8e70e1a03dfc5ccd",
@@ -1727,22 +1775,6 @@
         "Xe Iaso"
       ],
       "published": "2026-09-06T00:00:00.000Z"
-    },
-    {
-      "id": "feb00cf31bee5460",
-      "title": "Reading List - 09/05/2026",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-09052026",
-      "pacer": "R",
-      "keywords": [
-        "SpaceX",
-        "Energy",
-        "Infrastructure",
-        "Recycling",
-        "Technology"
-      ],
-      "published": "2026-09-05T12:03:33.000Z"
     },
     {
       "id": "6586b479854de53a",
@@ -2817,22 +2849,6 @@
       "published": "2026-08-05T12:04:00.000Z"
     },
     {
-      "id": "0a7af4de6caa0831",
-      "title": "Relative velocity and closing speed",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/",
-      "pacer": "P",
-      "keywords": [
-        "relative velocity",
-        "closing speed",
-        "vector projection",
-        "physics simulation",
-        "game development"
-      ],
-      "published": "2026-08-04T03:01:00.000Z"
-    },
-    {
       "id": "bddd978c30eea8a7",
       "title": "Agentic coding techniques",
       "source": "micahflee",
@@ -3755,22 +3771,6 @@
         "pointers"
       ],
       "published": "2026-06-14T23:00:00.000Z"
-    },
-    {
-      "id": "7ccbbf339dda4c76",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "pacer": "C",
-      "keywords": [
-        "Intel 8087",
-        "floating-point unit",
-        "hardware engineering",
-        "microarchitecture",
-        "circuit design"
-      ],
-      "published": "2026-06-13T15:56:00.314Z"
     },
     {
       "id": "15dcc655b1cc00fc",
@@ -4848,17 +4848,6 @@
         "Entrepreneurship"
       ],
       "strength": 0.6
-    },
-    {
-      "source": "ca943a2ac1bc7b9d",
-      "target": "3bfe992bac8e389f",
-      "shared_keywords": [
-        "FILETIME",
-        "Windows",
-        "API",
-        "Programming"
-      ],
-      "strength": 0.8
     },
     {
       "source": "198b0cd352f0f7dd",
