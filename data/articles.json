@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-09-25T00:07:02.160Z",
+  "last_updated": "2026-09-26T00:13:26.884Z",
   "articles": [
+    {
+      "id": "1452eb51fe21b506",
+      "title": "AI Killed the MVP – Long Live the IUP",
+      "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-09-25T13:00:16.000Z",
+      "summary_en": "Steve Blank discusses how the rise of AI necessitates a shift from the traditional Minimum Viable Product (MVP) to the Intelligent User Product (IUP). This piece explores the evolution of startup methodology within his Lean LaunchPad class in response to rapid technological advancements.",
+      "summary_zh": "Steve Blank 探討了人工智慧的崛起如何促使創業方法論從「最小可行性產品」(MVP) 轉向「智慧用戶產品」(IUP)。本文分析了他在 Lean LaunchPad 課程中，如何因應技術變革而調整創業教學策略。",
+      "keywords": [
+        "AI",
+        "MVP",
+        "IUP",
+        "Startup",
+        "Lean LaunchPad"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on conceptual shifts in startup development methodology and business theory prompted by AI integration.",
+      "pacer_reason_zh": "本文主要探討人工智慧整合後，創業發展方法論與商業理論的概念性轉變。"
+    },
+    {
+      "id": "7f45231127b4a4c8",
+      "title": "Using an LLM to Automate the Process of Archiving New macOS App Icons",
+      "url": "https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-25T19:00:00.000Z",
+      "summary_en": "The author describes automating the tedious manual process of archiving macOS app icons by leveraging an LLM to identify and extract high-resolution image files. By providing specific instructions and constraints to avoid upscaling, the author successfully streamlined a task that previously required significant manual effort.",
+      "summary_zh": "作者分享了如何利用大型語言模型（LLM）自動化 macOS 應用程式圖示的歸檔過程，取代了過去繁瑣的手動操作。透過給予明確的指令與規範，作者成功地大幅節省了提取並儲存高解析度圖示所需的時間。",
+      "keywords": [
+        "macOS",
+        "LLM",
+        "automation",
+        "app-icons",
+        "productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article outlines a practical workflow and process improvement for a specific technical task.",
+      "pacer_reason_zh": "文章概述了一項針對特定技術任務的實作流程與改進方案。"
+    },
+    {
+      "id": "07858e5723f28b91",
+      "title": "Servers in dawn-dusk orbit",
+      "url": "https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-09-25T11:45:31.000Z",
+      "summary_en": "Google is launching a prototype server into space as part of SpaceX's Transporter 18 mission. The satellite will utilize a dawn-dusk orbit, a specific type of sun-synchronous orbit that follows the Earth's terminator line.",
+      "summary_zh": "Google 正啟動一項將伺服器送入太空的計畫，該原型衛星將作為 SpaceX Transporter 18 任務的一部分發射。此衛星將採用晨昏軌道（一種特殊的太陽同步軌道），始終沿著地球的晨昏線運行。",
+      "keywords": [
+        "Google",
+        "SpaceX",
+        "Dawn-dusk orbit",
+        "Satellite",
+        "Data center"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept of a dawn-dusk orbit and its application in the context of a new satellite server project.",
+      "pacer_reason_zh": "文章解釋了晨昏軌道的概念，並說明其在新型衛星伺服器專案中的應用方式。"
+    },
+    {
+      "id": "c3a7865dbf0ef3ce",
+      "title": "Pluralistic: Itch scratching (25 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/25/other-people/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-25T18:56:20.000Z",
+      "summary_en": "This post from Cory Doctorow's 'Pluralistic' blog reflects on the intimate, almost psychic satisfaction of having a hard-to-reach itch scratched by a loved one. The piece uses the metaphor of primate grooming to explore themes of care, self-actualization, and human connection, alongside a collection of daily links and updates.",
+      "summary_zh": "這篇來自 Cory Doctorow「Pluralistic」部落格的文章，探討了被摯愛抓背時那種幾乎像是心靈感應般的滿足感。作者藉由靈長類理毛行為的隱喻，深入探討了關懷、自我實現與人際連結的主題，並附上了每日網路連結與個人近況更新。",
+      "keywords": [
+        "Cory Doctorow",
+        "Care",
+        "Grooming",
+        "Human connection",
+        "Self-actualization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article uses a specific scenario to explore abstract concepts like care, intimacy, and the nature of human relationships.",
+      "pacer_reason_zh": "本文透過一個具體的情境，探討了關懷、親密關係以及人類互動本質等抽象概念。"
+    },
+    {
+      "id": "5569bca5352ec422",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-09-25T21:44:40.000Z",
+      "summary_en": "A U.S. Army soldier received a 70-month prison sentence and ordered to pay $300,000 in restitution for hacking major telecommunications firms. The defendant accessed the metadata of over 100 million AT&T customers during the 2024 security breach.",
+      "summary_zh": "一名美國陸軍士兵因駭入多家電信公司並竊取超過一億名 AT&T 用戶的行動通訊元數據，被判處 70 個月監禁。此外，他還被責令向受害者支付近 30 萬美元的賠償金。",
+      "keywords": [
+        "cybersecurity",
+        "data breach",
+        "hacking",
+        "telecommunications",
+        "sentencing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on a specific legal case, serving as a real-world example of cybercrime consequences.",
+      "pacer_reason_zh": "本文報導了一起具體的法律案件，作為網路犯罪後果的真實案例。"
+    },
+    {
+      "id": "b467d6accdc2d682",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-25T17:22:01.000Z",
+      "summary_en": "Simon Willison quotes John Gruber’s analysis of Meta’s 'Muse' AI agent, highlighting its technical breakthrough of running persistent Linux VMs for users. The post explores the tension between its approachable, 'cute' design and the significant, potentially dangerous power it grants users without full public awareness.",
+      "summary_zh": "Simon Willison 引用了 John Gruber 對 Meta「Muse」AI 代理的分析，強調其為用戶運行持久化 Linux 虛擬機的技術突破。文章探討了其可愛親民的設計與用戶在使用該強大且具潛在風險系統時，普遍缺乏認知之間的落差。",
+      "keywords": [
+        "Meta",
+        "AI",
+        "Muse",
+        "John Gruber",
+        "Generative AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual discussion on the implications and risks of consumer-grade agentic AI systems.",
+      "pacer_reason_zh": "本文對消費級代理 AI 系統的影響與風險進行了概念性的討論。"
+    },
+    {
+      "id": "078f2955607a3f9c",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-25T02:07:04.000Z",
+      "summary_en": "This post features high-quality wildlife photography from the Monterey Bay National Marine Sanctuary. The author highlights images of birds captured using a new Canon 200-800mm lens.",
+      "summary_zh": "這篇文章展示了在蒙特雷灣國家海洋保護區拍攝的高品質野生動物攝影作品。作者分享了使用新款佳能 200-800mm 鏡頭捕捉到的鳥類影像。",
+      "keywords": [
+        "photography",
+        "wildlife",
+        "Monterey Bay",
+        "birds",
+        "Canon"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions primarily as a visual reference or gallery of specific wildlife sightings.",
+      "pacer_reason_zh": "該貼文主要作為特定野生動物觀測紀錄的視覺參考或相簿。"
+    },
+    {
+      "id": "eee7ce72da23ef2f",
+      "title": "Note on 24th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-24T23:31:08.000Z",
+      "summary_en": "The author reflects on the use of coding agents, noting that they increase the complexity of software engineering. While these tools offer significant potential, they demand high levels of discipline and expertise to be used effectively.",
+      "summary_zh": "作者反思了編碼智能體的使用，指出它們反而增加了軟體工程的複雜性。儘管這些工具具有巨大潛力，但若要發揮其全部效能，需要極高的紀律與專業知識。",
+      "keywords": [
+        "coding-agents",
+        "software-engineering",
+        "ai",
+        "llms",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual reflection on the nature and challenges of working with coding agents in software development.",
+      "pacer_reason_zh": "這篇文章提供了關於在軟體開發中使用編碼智能體的本質與挑戰的概念性反思。"
+    },
+    {
+      "id": "18fc3bc3cfaabf93",
+      "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
+      "url": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-09-25T15:16:00.000Z",
+      "summary_en": "Jeff Geerling is launching HomelabFest, a new event scheduled for September 2027 in St. Louis. The gathering aims to bring together the homelab community to focus on niche topics like energy-efficient servers, self-hosted software, and hardware management.",
+      "summary_zh": "Jeff Geerling 宣佈將於 2027 年 9 月在聖路易斯舉辦「HomelabFest」。該活動旨在凝聚家庭實驗室（homelab）社群，共同探討節能伺服器、自託管軟體及硬體管理等專業領域。",
+      "keywords": [
+        "HomelabFest",
+        "Jeff Geerling",
+        "homelab",
+        "self-hosting",
+        "St. Louis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article introduces a new conceptual event aimed at defining and gathering a community around the theme of homelabbing.",
+      "pacer_reason_zh": "本文介紹了一個新的活動概念，旨在定義並匯集圍繞家庭實驗室（homelab）主題的社群。"
+    },
+    {
+      "id": "5c86bc448e61abb2",
+      "title": "You should all be asking way more questions",
+      "url": "https://seangoedecke.com/you-should-all-be-asking-way-more-questions/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary_en": "This post emphasizes the professional and personal value of asking more questions to gain deeper understanding. It argues that curiosity and inquiry are essential tools for overcoming assumptions and driving growth.",
+      "summary_zh": "這篇文章強調了透過提問來獲取深度理解在職業與個人發展中的價值。作者認為，好奇心與探究是打破既定假設並促進成長的重要工具。",
+      "keywords": [
+        "communication",
+        "curiosity",
+        "learning",
+        "questions",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual importance and philosophy of inquiry rather than providing a technical tutorial or hard data.",
+      "pacer_reason_zh": "該文章探討了提問的概念重要性與哲學，而非提供技術指南或硬性數據。"
+    },
     {
       "id": "b6215cdfc1f494c4",
       "title": "So yeah it was written using AI",
