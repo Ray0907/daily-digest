@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-09-28T00:03:46.317Z",
+  "last_updated": "2026-09-29T01:20:07.554Z",
   "articles": [
+    {
+      "id": "fcddb4c0d8585657",
+      "title": "Weekly Update 523: Live From a Norwegian Fjord",
+      "url": "https://www.troyhunt.com/weekly-update-523/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-09-28T07:24:49.000Z",
+      "summary_en": "Troy Hunt shares updates from his recent speaking engagement at NDC Oslo and previews his upcoming talk in Copenhagen. He also highlights his ongoing analysis of the ShinyHunters data breach trajectory.",
+      "summary_zh": "Troy Hunt 分享了他在 NDC Oslo 的演講心得，並預告了即將在哥本哈根進行的演講。此外，他還簡述了針對 ShinyHunters 資料外洩事件的持續分析進度。",
+      "keywords": [
+        "Troy Hunt",
+        "NDC Oslo",
+        "GOTO Copenhagen",
+        "ShinyHunters",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides evidence-based analysis and updates on current cybersecurity threats like the ShinyHunters breach.",
+      "pacer_reason_zh": "文章針對 ShinyHunters 資料外洩等當前資安威脅提供了基於證據的分析與進度更新。"
+    },
+    {
+      "id": "6298251f1b042956",
+      "title": "The World Outside the Classroom Changed, The Class Didn’t",
+      "url": "https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-09-28T13:00:57.000Z",
+      "summary_en": "Steve Blank discusses how the rapid advancement of AI technology has forced a transformation in the Lean LaunchPad curriculum. He argues that traditional teaching methods are becoming obsolete as AI tools fundamentally change how students build and validate startups.",
+      "summary_zh": "Steve Blank 探討了 AI 技術的飛速發展如何迫使「精實創業」（Lean LaunchPad）課程進行轉型。他認為，隨著 AI 工具從根本上改變了學生構建與驗證創業項目的方式，傳統的教學方法已逐漸顯得過時。",
+      "keywords": [
+        "AI",
+        "Lean LaunchPad",
+        "Education",
+        "Entrepreneurship",
+        "Innovation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses the author's personal experience and classroom experiments to evidence the shift in entrepreneurial education due to AI.",
+      "pacer_reason_zh": "本文透過作者的親身經歷與課堂實驗，為 AI 帶來的創業教育轉變提供了實證。"
+    },
+    {
+      "id": "c57dddc5bddff8b8",
+      "title": "SmartOS: The illumos Way of Thinking About Servers",
+      "url": "https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-09-28T08:45:00.000Z",
+      "summary_en": "This article explores the architectural strengths of illumos, an operating system derived from OpenSolaris that emphasizes predictability and containerization. It highlights key features such as deep ZFS integration, DTrace, secure zones, and versatile virtualization support via bhyve and KVM.",
+      "summary_zh": "本文探討了源自 OpenSolaris 的 illumos 作業系統，強調其在伺服器架構中對簡單性與容器化管理的追求。文中介紹了 illumos 的關鍵技術，包括深度整合的 ZFS、DTrace、安全隔離的 Zones 以及同時支援 bhyve 與 KVM 的靈活虛擬化能力。",
+      "keywords": [
+        "illumos",
+        "ZFS",
+        "containerization",
+        "virtualization",
+        "OpenSolaris"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an overview and explanation of the illumos operating system and its core architectural concepts.",
+      "pacer_reason_zh": "本文提供了 illumos 作業系統的概覽，並解釋了其核心架構概念。"
+    },
+    {
+      "id": "b38ff998a6500087",
+      "title": "Open State praatje: zonder transparantie geen democratie",
+      "url": "https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-09-28T11:40:00.000Z",
+      "summary_en": "This article discusses the critical importance of government transparency for a functioning democracy and the negative impact of declining openness. The author notes that both technical barriers and shifting ideological priorities are making it increasingly difficult for citizens to access public information.",
+      "summary_zh": "這篇文章探討了政府透明度對民主運作的關鍵重要性，並指出透明度下滑所帶來的負面影響。作者指出，技術障礙與意識形態的轉變正使得公眾獲取政府資訊變得越來越困難。",
+      "keywords": [
+        "transparency",
+        "democracy",
+        "government",
+        "open data",
+        "accountability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the relationship between government transparency and the health of a democracy.",
+      "pacer_reason_zh": "本文提出關於政府透明度與民主健全之間關係的概念性論點。"
+    },
+    {
+      "id": "b6ce27118ada1c53",
+      "title": "Humane Interfaces",
+      "url": "https://blog.jim-nielsen.com/2026/humane-interfaces/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-27T19:00:00.000Z",
+      "summary_en": "This post discusses the concept of humane interfaces, inspired by Jef Raskin's philosophy. It argues that technology should respect human needs and frailties rather than exploiting them through manipulative growth tactics or addictive design patterns.",
+      "summary_zh": "本文探討了受傑夫·拉斯金（Jef Raskin）哲學啟發的「人性化介面」概念。文章主張科技應尊重人類需求與脆弱性，而非透過操縱性的增長策略或成癮設計來剝削使用者。",
+      "keywords": [
+        "Humane Interfaces",
+        "UX Design",
+        "Jef Raskin",
+        "Ethics",
+        "Tech Philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual framework for evaluating technology and design ethics.",
+      "pacer_reason_zh": "本文探討了評估技術與設計倫理的概念性框架。"
+    },
+    {
+      "id": "ae242018fe5eb27f",
+      "title": "Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-28T11:34:52.000Z",
+      "summary_en": "This review evaluates the first three books of the Bobiverse series, describing them as highly addictive yet ultimately lacking in substance. The author notes that while the campy sci-fi premise and tropes are entertaining, the series feels like a 'moreish' read that leaves a shallow impression.",
+      "summary_zh": "這篇書評探討了《包伯宇宙》（Bobiverse）系列前三部曲，認為其讀起來非常上癮但內容略顯空洞。作者指出，雖然充滿科幻趣味和常見套路讓人感到輕鬆愉快，但整體故事缺乏深度。",
+      "keywords": [
+        "Bobiverse",
+        "Book Review",
+        "Sci-Fi",
+        "Dennis E. Taylor",
+        "Reading"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a critical reflection and subjective evaluation of literary content, categorizing it as conceptual analysis.",
+      "pacer_reason_zh": "本文屬於對文學作品的批判性思考與主觀評價，歸類為概念性分析內容。"
+    },
+    {
+      "id": "6ec198bf305f2ce1",
+      "title": "Pluralistic: Priceful (28 Sep 2026)",
+      "url": "https://pluralistic.net/2026/09/28/cost-of-everything/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-09-28T17:48:26.000Z",
+      "summary_en": "Cory Doctorow defends the use of the term 'IP' (Intellectual Property) against critics who argue it is imprecise and dishonest. He explains that while copyright, trademark, and patents have distinct legal foundations, the term serves as a necessary shorthand for a complex web of legal protections and rights.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）為「智慧財產權」（IP）一詞的用法辯護，反駁了該詞過於籠統且具有欺騙性的觀點。他解釋說，儘管版權、商標和專利各有不同的法律基礎，但該術語作為涵蓋複雜法律權利體系的簡稱仍有其必要性。",
+      "keywords": [
+        "IP",
+        "copyright",
+        "intellectual property",
+        "legal theory",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual exploration of a term, providing a theoretical argument for why 'IP' is a useful, albeit broad, label in legal discourse.",
+      "pacer_reason_zh": "該文章是對術語概念的探討，提供了關於為何在法律論述中將「IP」作為一個廣泛標籤具有實用性的理論辯證。"
+    },
+    {
+      "id": "f51eef3f5b70c8b4",
+      "title": "Edge Is Pretending to Be Chrome ",
+      "url": "https://idiallo.com/blog/edge-imitates-chrome",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-09-28T07:30:00.000Z",
+      "summary_en": "The article discusses Microsoft's aggressive tactics to increase Edge browser adoption by pushing it as the default and mimicking the appearance of Google Chrome. The author highlights how Microsoft leverages Windows OS integration and its mobile apps to funnel users toward Edge, arguing that dominating the browser market remains a critical strategy for tech giants.",
+      "summary_zh": "本文探討微軟如何透過將 Edge 設為預設瀏覽器，並模仿 Chrome 的外觀來積極爭取市占率。作者指出，微軟利用 Windows 系統整合及行動應用程式引導用戶轉用 Edge，強調掌控瀏覽器入口仍是大型科技公司爭奪網路流量的關鍵策略。",
+      "keywords": [
+        "Microsoft Edge",
+        "Google Chrome",
+        "Browser Wars",
+        "User Experience",
+        "Software Tactics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of Microsoft's browser strategy and the competitive dynamics of the tech industry.",
+      "pacer_reason_zh": "本文對微軟的瀏覽器策略及科技產業的競爭動態進行了概念性的分析與探討。"
+    },
+    {
+      "id": "c919c2b059f3ef35",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-09-28T15:08:57.000Z",
+      "summary_en": "Dutch police have arrested a 23-year-old former cybercriminal linked to the notorious ShinyHunters hacking group. Following the arrest, the group retaliated by escalating cyberattacks, including data theft from the FBI and the extortion of the Cl0p ransomware gang.",
+      "summary_zh": "荷蘭警方逮捕了一名與知名駭客組織 ShinyHunters 有關的 23 歲前網路罪犯。在逮捕行動後，該組織展開報復並升級了網路攻擊，目標包括竊取美國聯邦調查局（FBI）的機密資料以及勒索 Cl0p 勒索軟體集團。",
+      "keywords": [
+        "ShinyHunters",
+        "cybercrime",
+        "Dutch police",
+        "data breach",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific real-world events, arrests, and evidence of criminal activities involving a known hacking group.",
+      "pacer_reason_zh": "本文報導了特定的現實事件、逮捕行動以及涉及知名駭客組織的犯罪活動證據。"
+    },
+    {
+      "id": "64e27cc1872ee838",
+      "title": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-28T22:07:38.000Z",
+      "summary_en": "Anthropic has released Claude Sonnet 5.5, which offers improved performance and cost efficiency compared to its predecessor. The model is now available on the free tier of claude.ai, positioning it as a highly capable competitor to OpenAI's current free offerings.",
+      "summary_zh": "Anthropic 推出了 Claude Sonnet 5.5，相較於前代版本在效能與成本效益上皆有提升。該模型現已開放供 claude.ai 免費版用戶使用，使其成為與 OpenAI 免費方案競爭力極強的選項。",
+      "keywords": [
+        "Claude Sonnet 5.5",
+        "Anthropic",
+        "AI model",
+        "LLM",
+        "tech news"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes the performance, cost benchmarks, and practical testing of the new model against existing versions.",
+      "pacer_reason_zh": "本文透過實測數據與基準測試，分析並比較了新模型與現有版本的效能與成本表現。"
+    },
+    {
+      "id": "ddc53f40aa2256ba",
+      "title": "Quoting @joedaroo",
+      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-28T19:11:42.000Z",
+      "summary_en": "This post highlights the rapid evolution of AI capabilities in security-sensitive areas and the resulting challenges for organizational resilience. It urges companies to move beyond technical hardening and focus on fostering a culture and incident response strategy prepared for sudden technological shifts.",
+      "summary_zh": "這篇文章強調了 AI 在安全領域能力的快速演進，以及對組織韌性所帶來的挑戰。作者呼籲企業不僅要加強技術防護，更應建立能應對突發技術變革的企業文化與事故應變策略。",
+      "keywords": [
+        "AI security",
+        "Generative AI",
+        "organizational resilience",
+        "incident response",
+        "OpenAI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual challenge of organizational readiness in the face of rapid AI advancement.",
+      "pacer_reason_zh": "內容聚焦於面對 AI 快速發展時，組織準備度所面臨的概念性挑戰。"
+    },
+    {
+      "id": "1fb466641ec80a8d",
+      "title": "Quoting Muse AI Agent",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-28T04:01:30.000Z",
+      "summary_en": "This post highlights a real-world failure of an autonomous AI agent, Muse, which sent misleading confirmation messages that resulted in a negative user experience. The example serves as a cautionary tale about the risks of automating communication without proper verification of physical context.",
+      "summary_zh": "這篇文章展示了 Muse 自主 AI 代理的一個真實失敗案例，它發送了誤導性的確認訊息，導致了糟糕的用戶體驗。該案例警示了在未經物理環境驗證的情況下進行自動化溝通所帶來的風險。",
+      "keywords": [
+        "AI Agents",
+        "Muse",
+        "LLM",
+        "Automation",
+        "User Experience"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific case study of an AI agent failure to illustrate the practical limitations and risks of autonomous communication.",
+      "pacer_reason_zh": "本文透過 AI 代理失敗的具體案例分析，說明了自動化溝通在實際應用中的局限性與風險。"
+    },
+    {
+      "id": "7db4974c11ebd58e",
+      "title": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-27T23:54:15.000Z",
+      "summary_en": "Simon Willison provides an annotated recap of his keynote presentation from the WeAreDevelopers World Congress. The talk offers a chronological overview of significant trends and developments in the field of Large Language Models throughout 2026.",
+      "summary_zh": "Simon Willison 為他在 WeAreDevelopers 世界大會上的主題演講提供了註解版回顧。該演講按時間順序概述了 2026 年大型語言模型領域的重要趨勢與發展。",
+      "keywords": [
+        "LLMs",
+        "2026 trends",
+        "AI development",
+        "keynote",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as an annotated record of a presentation documenting events, trends, and data points throughout the year.",
+      "pacer_reason_zh": "本文是演講的註解記錄，旨在整理與記錄該年度發生的事件、趨勢及相關數據。"
+    },
+    {
+      "id": "97397d7fa75c5084",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-27T23:09:19.000Z",
+      "summary_en": "Simon Willison observes that Amazon S3 storage pricing has remained stagnant for a full decade. The article provides a historical breakdown of price reductions to highlight the lack of recent changes since 2016.",
+      "summary_zh": "Simon Willison 指出 Amazon S3 的儲存價格已經整整十年沒有調降。文章列出了歷年的價格變化表，藉此凸顯自 2016 年以來價格停滯不前的現狀。",
+      "keywords": [
+        "AWS",
+        "S3",
+        "Cloud Storage",
+        "Pricing",
+        "History"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post uses specific historical pricing data to present a quantitative observation about cloud storage trends.",
+      "pacer_reason_zh": "該文章使用了具體的歷史價格數據，藉此對雲端儲存趨勢提出量化觀察。"
+    },
+    {
+      "id": "f5edbd3b23d95b4a",
+      "title": "Bluesky reply bot checker",
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-27T18:41:44.000Z",
+      "summary_en": "Simon Willison has created a tool to identify and expose automated reply bots on the Bluesky platform. The utility analyzes user profile behaviors, such as rapid reply patterns and the lack of original content, to detect potential spam accounts.",
+      "summary_zh": "Simon Willison 創建了一個工具，旨在識別並揭露 Bluesky 平台上的自動回覆機器人。該工具透過分析用戶的檔案行為（例如過快的回覆頻率以及缺乏原創內容），來檢測潛在的垃圾帳號。",
+      "keywords": [
+        "Bluesky",
+        "bots",
+        "spam",
+        "vibe-coding",
+        "social media"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces and provides a specific, functional tool for users to perform a task (checking for bots).",
+      "pacer_reason_zh": "本文介紹並提供了一個具體的實用工具，供用戶執行特定任務（檢查機器人帳號）。"
+    },
     {
       "id": "134390540dfd8668",
       "title": "Combo Platter",
