@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-09-30T00:49:24.314Z",
+  "last_updated": "2026-10-01T00:53:07.708Z",
   "articles": [
+    {
+      "id": "be202b2aee97bdee",
+      "title": "Lean LaunchPad – The Next Generation",
+      "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-09-30T13:00:28.000Z",
+      "summary_en": "This post discusses how the Lean LaunchPad curriculum is evolving in response to the rapid rise of AI. It explores shifting educational needs, moving beyond traditional minimum viable products to new frameworks suited for an AI-driven environment.",
+      "summary_zh": "本文探討了 Lean LaunchPad 課程如何因應人工智慧的快速崛起而進行調整。文章分析了教學需求如何改變，並提出從傳統最小可行性產品轉向適應人工智慧時代的新框架。",
+      "keywords": [
+        "Lean LaunchPad",
+        "AI",
+        "Entrepreneurship",
+        "Education",
+        "Startup"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the theoretical shift and conceptual evolution of educational frameworks in response to changing technological landscapes.",
+      "pacer_reason_zh": "內容側重於探討因應技術環境變遷下，教育框架的理論轉變與概念演進。"
+    },
+    {
+      "id": "c7c19243b805bbbb",
+      "title": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
+      "url": "https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-09-30T07:00:00.000Z",
+      "summary_en": "The Dutch government claims there is no budget for digital autonomy or a proposed Digital Service, despite stating it as a policy priority in the coalition agreement. This contradiction highlights the struggle to reconcile government rhetoric with the reality of current cloud policy and financial constraints.",
+      "summary_zh": "儘管荷蘭政府在聯合協定中將數位自主權列為優先事項，但近期卻多次表示缺乏預算來推動相關項目或成立「荷蘭數位服務局」。這凸顯了政府在數位政策願景與實際財政執行之間的落差與矛盾。",
+      "keywords": [
+        "digitale autonomie",
+        "Nederland",
+        "overheidsbeleid",
+        "cloudbeleid",
+        "digitale dienst"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual conflict between government policy goals and practical implementation regarding digital autonomy.",
+      "pacer_reason_zh": "本文探討了政府在數位自主權方面的政策目標與實際執行之間的觀念性衝突。"
+    },
+    {
+      "id": "fbf3ea4440047ed6",
+      "title": "Dear Software Makers",
+      "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-09-30T19:00:00.000Z",
+      "summary_en": "This post discusses Marques Brownlee’s critique of YouTube’s new A/B testing feature for video variants, arguing it undermines the shared cultural experience of the platform. The author expands on this, suggesting that software creators should prioritize creative storytelling and consistent output over hyper-optimization and algorithmic metrics.",
+      "summary_zh": "這篇文章探討了 Marques Brownlee 對 YouTube 新推出的影片 A/B 測試功能的批評，認為此功能破壞了平台共同的文化體驗。作者進一步指出，軟體創作者應更重視創意敘事與持續產出，而非過度追求數據優化與演算法指標。",
+      "keywords": [
+        "YouTube",
+        "A/B testing",
+        "software development",
+        "content creation",
+        "product design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how technical features impact user experience and the philosophy of creative production.",
+      "pacer_reason_zh": "這篇文章針對技術功能如何影響使用者體驗與創作理念進行了概念性分析。"
+    },
+    {
+      "id": "9260fbee6d07d79e",
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-09-30T13:27:03.000Z",
+      "summary_en": "The article discusses the capabilities and limitations of TLA+ for formal verification, particularly in the context of agentic software. It explains how TLA+ uses temporal logic to verify system states while clarifying that it cannot solve all development problems or verify properties that cannot be formally expressed.",
+      "summary_zh": "本文探討了 TLA+ 在形式驗證中的能力與局限性，特別是在代理軟體開發的背景下。作者解釋了 TLA+ 如何運用時序邏輯來驗證系統狀態，並強調它無法解決所有開發問題，且無法驗證那些無法被形式化表達的屬性。",
+      "keywords": [
+        "TLA+",
+        "formal verification",
+        "concurrency",
+        "temporal logic",
+        "software engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual foundations of TLA+ and clarifies its theoretical limits regarding what properties it can and cannot verify.",
+      "pacer_reason_zh": "本文解釋了 TLA+ 的概念基礎，並釐清其在驗證屬性時的理論極限與應用範疇。"
+    },
+    {
+      "id": "49840741241f8e52",
+      "title": "Notes from September 2026",
+      "url": "https://evanhahn.com/notes-from-september-2026/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "published": "2026-09-30T06:00:00.000Z",
+      "summary_en": "Evan Hahn reflects on his busy September, highlighting the surprising popularity of his recent post about programmers' dislike for the 'reduce' function. The entry also features a curated collection of interesting links and commentary covering topics from software simplicity and Linux design to political theory.",
+      "summary_zh": "Evan Hahn 回顧了他忙碌的九月，並提到他關於程式設計師不喜歡 'reduce' 函數的文章意外地獲得了巨大迴響。此外，這篇筆記還整理了關於軟體簡潔性、Linux 設計及政治理論等領域的精選連結與評論。",
+      "keywords": [
+        "Monthly Roundup",
+        "Programming",
+        "Reduce Function",
+        "Tech Commentary",
+        "Linkblog"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a personal update and a curated list of links and references, serving as a collection of resources for readers.",
+      "pacer_reason_zh": "這是一篇個人動態與精選連結的清單，性質上屬於提供給讀者的資源匯編與參考資訊。"
+    },
+    {
+      "id": "74c18a148fd3a135",
+      "title": "As a general rule, calling product support while drunk is not recommended",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-29T14:00:00.000Z",
+      "summary_en": "This brief post humorously advises against contacting customer support while intoxicated. It also notes that using abusive language during these interactions is highly discouraged.",
+      "summary_zh": "這篇簡短的文章以幽默的方式建議，切勿在酒醉狀態下聯繫客戶支援。同時也強調在溝通過程中，使用辱罵性語言是極不恰當的行為。",
+      "keywords": [
+        "customer support",
+        "etiquette",
+        "humor",
+        "communication",
+        "best practices"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual rule of thumb regarding professional behavior and social etiquette.",
+      "pacer_reason_zh": "該文章針對職業行為與社交禮儀提供了一項概念性的基本準則。"
+    },
+    {
+      "id": "cfbe2e011c5112a4",
+      "title": "Are you a smartwatch \"power user\"?",
+      "url": "https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-09-30T11:34:26.000Z",
+      "summary_en": "The author reflects on how smartwatch users actually utilize their devices, highlighting a disconnect between product developers' assumptions and the limited real-world utility experienced by average users. The post questions whether most people truly leverage the advanced features of wearables or if they are just basic tools for timekeeping and step tracking.",
+      "summary_zh": "作者探討了智慧手錶使用者與開發者之間對裝置功能的認知落差，指出大多數人對於手錶的使用其實相當有限。文中透過一個觀察案例，質疑究竟有多少人真正能成為所謂的智慧手錶「進階使用者」。",
+      "keywords": [
+        "smartwatch",
+        "wearable tech",
+        "user behavior",
+        "product design",
+        "pixel watch"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post draws an analogy between developer expectations and actual user habits to comment on technology adoption.",
+      "pacer_reason_zh": "本文透過開發者的預期與實際使用者習慣的對比，來探討科技產品的使用情況。"
+    },
+    {
+      "id": "b28db22be2dee5fa",
+      "title": "He Built This City",
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-30T21:54:19.000Z",
+      "summary_en": "Simon Willison shares his impressions of the 'He Built This City' exhibition at the Museum of the City of New York. The post highlights the impressive 50x27 foot model of Manhattan, constructed from balsa wood and cardboard, and encourages readers to visit before it closes in October.",
+      "summary_zh": "Simon Willison 分享了他參觀紐約市博物館「他建造了這座城市」(He Built This City) 展覽的心得。該展覽展示了一座耗時 21 年、由輕木與紙板製成的巨大曼哈頓模型，並建議讀者在十月展覽結束前親自前往參觀。",
+      "keywords": [
+        "museums",
+        "new-york",
+        "exhibition",
+        "model-making",
+        "architecture"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post serves as an anecdotal review and recommendation of a specific exhibition.",
+      "pacer_reason_zh": "此貼文為對特定展覽的軼事評論與參觀建議。"
+    },
+    {
+      "id": "023d364db8b33fc2",
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-09-29T16:45:27.000Z",
+      "summary_en": "Simon Willison introduces Photo Scrubber, a web-based tool designed to automatically detect and blur faces in photos locally. The application leverages Google's MediaPipe and the BlazeFace model compiled to WebAssembly to ensure privacy by processing images entirely in the browser.",
+      "summary_zh": "Simon Willison 推出了 Photo Scrubber，這是一個旨在自動偵測並模糊照片中人臉的瀏覽器端工具。該工具利用編譯為 WebAssembly 的 Google MediaPipe 與 BlazeFace 模型，確保所有影像處理皆在瀏覽器本地完成以保護隱私。",
+      "keywords": [
+        "privacy",
+        "MediaPipe",
+        "face-blurring",
+        "WebAssembly",
+        "photography"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article introduces a functional utility tool and explains the technology used to implement the specific task of local photo scrubbing.",
+      "pacer_reason_zh": "本文介紹了一款實用的工具，並說明了用於執行「本地照片模糊」任務的相關技術。"
+    },
     {
       "id": "7dd92ed100946281",
       "title": "The Facebook Fake-out",

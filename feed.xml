@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 30 Sep 2026 00:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:53:07 GMT</lastBuildDate>
     
+    <item>
+      <title>Lean LaunchPad – The Next Generation</title>
+      <link>https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</link>
+      <guid>https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:28 GMT</pubDate>
+      <source url="https://steveblank.com/">Steve Blank</source>
+      <description>This post discusses how the Lean LaunchPad curriculum is evolving in response to the rapid rise of AI. It explores shifting educational needs, moving beyond traditional minimum viable products to new frameworks suited for an AI-driven environment.</description>
+    </item>
+
+    <item>
+      <title>Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!</title>
+      <link>https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</link>
+      <guid>https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The Dutch government claims there is no budget for digital autonomy or a proposed Digital Service, despite stating it as a policy priority in the coalition agreement. This contradiction highlights the struggle to reconcile government rhetoric with the reality of current cloud policy and financial constraints.</description>
+    </item>
+
+    <item>
+      <title>Dear Software Makers</title>
+      <link>https://blog.jim-nielsen.com/2026/dear-software-makers/</link>
+      <guid>https://blog.jim-nielsen.com/2026/dear-software-makers/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This post discusses Marques Brownlee’s critique of YouTube’s new A/B testing feature for video variants, arguing it undermines the shared cultural experience of the platform. The author expands on this, suggesting that software creators should prioritize creative storytelling and consistent output over hyper-optimization and algorithmic metrics.</description>
+    </item>
+
+    <item>
+      <title>What TLA+ can and can't check</title>
+      <link>https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:27:03 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The article discusses the capabilities and limitations of TLA+ for formal verification, particularly in the context of agentic software. It explains how TLA+ uses temporal logic to verify system states while clarifying that it cannot solve all development problems or verify properties that cannot be formally expressed.</description>
+    </item>
+
+    <item>
+      <title>Notes from September 2026</title>
+      <link>https://evanhahn.com/notes-from-september-2026/</link>
+      <guid>https://evanhahn.com/notes-from-september-2026/</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/blog/">Evan Hahn (dot com)</source>
+      <description>Evan Hahn reflects on his busy September, highlighting the surprising popularity of his recent post about programmers' dislike for the 'reduce' function. The entry also features a curated collection of interesting links and commentary covering topics from software simplicity and Linux design to political theory.</description>
+    </item>
+
+    <item>
+      <title>As a general rule, calling product support while drunk is not recommended</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/</guid>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This brief post humorously advises against contacting customer support while intoxicated. It also notes that using abusive language during these interactions is highly discouraged.</description>
+    </item>
+
+    <item>
+      <title>Are you a smartwatch &quot;power user&quot;?</title>
+      <link>https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</link>
+      <guid>https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</guid>
+      <pubDate>Wed, 30 Sep 2026 11:34:26 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author reflects on how smartwatch users actually utilize their devices, highlighting a disconnect between product developers' assumptions and the limited real-world utility experienced by average users. The post questions whether most people truly leverage the advanced features of wearables or if they are just basic tools for timekeeping and step tracking.</description>
+    </item>
+
+    <item>
+      <title>He Built This City</title>
+      <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
+      <guid>https://simonwillison.net/2026/Sep/30/he-built-this-city/</guid>
+      <pubDate>Wed, 30 Sep 2026 21:54:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares his impressions of the 'He Built This City' exhibition at the Museum of the City of New York. The post highlights the impressive 50x27 foot model of Manhattan, constructed from balsa wood and cardboard, and encourages readers to visit before it closes in October.</description>
+    </item>
+
+    <item>
+      <title>Photo Scrubber — local face blur &amp; metadata removal</title>
+      <link>https://simonwillison.net/2026/Sep/29/photo-scrubber/</link>
+      <guid>https://simonwillison.net/2026/Sep/29/photo-scrubber/</guid>
+      <pubDate>Tue, 29 Sep 2026 16:45:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces Photo Scrubber, a web-based tool designed to automatically detect and blur faces in photos locally. The application leverages Google's MediaPipe and the BlazeFace model compiled to WebAssembly to ensure privacy by processing images entirely in the browser.</description>
+    </item>
+
     <item>
       <title>The Facebook Fake-out</title>
       <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
@@ -823,87 +904,6 @@
       <pubDate>Mon, 21 Sep 2026 17:00:00 GMT</pubDate>
       <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
       <description>Raspberry Pi has implemented firmware restrictions to prevent users from manually upgrading or swapping RAM chips on their Pi 5 boards. This move aims to curb fraudulent activity where sellers would solder low-quality high-capacity RAM onto budget boards and resell them as genuine high-end models.</description>
-    </item>
-
-    <item>
-      <title>This is why we play</title>
-      <link>https://xeiaso.net/blog/2026/this-is-why-we-play/</link>
-      <guid>https://xeiaso.net/blog/2026/this-is-why-we-play/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This piece explores the philosophical nature of gaming, focusing on the intersection of community building and the value of negative space. It argues that gaming serves as a medium for shared experience and personal reflection beyond mere mechanics.</description>
-    </item>
-
-    <item>
-      <title>Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
-      <pubDate>Sun, 20 Sep 2026 11:34:30 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review critiques Jonathan Morrison's 'How to Build a Space Station,' noting its optimistic architectural perspective in contrast to the skeptical tone of 'A City on Mars.' The book highlights the vital role of design and architecture in the future of off-world living.</description>
-    </item>
-
-    <item>
-      <title>Quoting voxium</title>
-      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
-      <guid>https://simonwillison.net/2026/Sep/20/voxium/</guid>
-      <pubDate>Sun, 20 Sep 2026 21:06:43 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights an alarming anecdote about a company where engineers rely entirely on AI to generate all technical documentation and code. It illustrates the risks of over-automation and the degradation of human oversight in corporate software development.</description>
-    </item>
-
-    <item>
-      <title>llm-keys-ui 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
-      <guid>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</guid>
-      <pubDate>Sun, 20 Sep 2026 19:22:19 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released llm-keys-ui 0.1, a plugin designed to securely manage and input API keys for LLM coding agents. It provides a web interface to save keys on a machine, allowing agents to retrieve them via command-line without exposing them through chat interfaces.</description>
-    </item>
-
-    <item>
-      <title>datasette-explain 0.2.2</title>
-      <link>https://simonwillison.net/2026/Sep/20/datasette-explain/</link>
-      <guid>https://simonwillison.net/2026/Sep/20/datasette-explain/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:22:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.2.2 of the datasette-explain plugin. This update enables explain plans to function on read-only stored-query pages following an upgrade to Datasette 1.0a40.</description>
-    </item>
-
-    <item>
-      <title>Grit your teeth and ship it</title>
-      <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
-      <guid>https://seangoedecke.com/grit-your-teeth-and-ship-it/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article emphasizes the importance of overcoming perfectionism by prioritizing the act of shipping work over endless refinement. It argues that consistent execution is more valuable than theoretical planning in achieving long-term success.</description>
-    </item>
-
-    <item>
-      <title>System One models like Jev can train their own replacements</title>
-      <link>https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</link>
-      <guid>https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This post explores the concept of System One AI models, such as Jev, having the potential to autonomously train their own successor models. It touches on the implications of recursive self-improvement in artificial intelligence development.</description>
-    </item>
-
-    <item>
-      <title>Notes on discrete-time Fourier series and transform</title>
-      <link>https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</link>
-      <guid>https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</guid>
-      <pubDate>Sat, 19 Sep 2026 16:39:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This article provides a foundational exploration of discrete-time Fourier series (DTFS) and the discrete-time Fourier transform (DTFT). It covers the mathematical representation of periodic discrete-time signals using complex exponentials and explains the underlying logic for calculating Fourier series coefficients.</description>
-    </item>
-
-    <item>
-      <title>Reading List 09/19/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-09192026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-09192026</guid>
-      <pubDate>Sat, 19 Sep 2026 12:03:09 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated collection of links covering diverse topics, including housing market initiatives by Airbnb, economic trends in construction materials, and shifts in energy infrastructure. It serves as a brief overview of current developments in the construction and policy sectors.</description>
     </item>
   </channel>
 </rss>

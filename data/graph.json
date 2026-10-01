@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "b28db22be2dee5fa",
+      "title": "He Built This City",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "pacer": "A",
+      "keywords": [
+        "museums",
+        "new-york",
+        "exhibition",
+        "model-making",
+        "architecture"
+      ],
+      "published": "2026-09-30T21:54:19.000Z"
+    },
+    {
+      "id": "fbf3ea4440047ed6",
+      "title": "Dear Software Makers",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+      "pacer": "C",
+      "keywords": [
+        "YouTube",
+        "A/B testing",
+        "software development",
+        "content creation",
+        "product design"
+      ],
+      "published": "2026-09-30T19:00:00.000Z"
+    },
+    {
+      "id": "9260fbee6d07d79e",
+      "title": "What TLA+ can and can't check",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "pacer": "C",
+      "keywords": [
+        "TLA+",
+        "formal verification",
+        "concurrency",
+        "temporal logic",
+        "software engineering"
+      ],
+      "published": "2026-09-30T13:27:03.000Z"
+    },
+    {
+      "id": "be202b2aee97bdee",
+      "title": "Lean LaunchPad – The Next Generation",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/",
+      "pacer": "C",
+      "keywords": [
+        "Lean LaunchPad",
+        "AI",
+        "Entrepreneurship",
+        "Education",
+        "Startup"
+      ],
+      "published": "2026-09-30T13:00:28.000Z"
+    },
+    {
+      "id": "cfbe2e011c5112a4",
+      "title": "Are you a smartwatch \"power user\"?",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/",
+      "pacer": "A",
+      "keywords": [
+        "smartwatch",
+        "wearable tech",
+        "user behavior",
+        "product design",
+        "pixel watch"
+      ],
+      "published": "2026-09-30T11:34:26.000Z"
+    },
+    {
+      "id": "c7c19243b805bbbb",
+      "title": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/",
+      "pacer": "C",
+      "keywords": [
+        "digitale autonomie",
+        "Nederland",
+        "overheidsbeleid",
+        "cloudbeleid",
+        "digitale dienst"
+      ],
+      "published": "2026-09-30T07:00:00.000Z"
+    },
+    {
+      "id": "49840741241f8e52",
+      "title": "Notes from September 2026",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/blog/",
+      "url": "https://evanhahn.com/notes-from-september-2026/",
+      "pacer": "R",
+      "keywords": [
+        "Monthly Roundup",
+        "Programming",
+        "Reduce Function",
+        "Tech Commentary",
+        "Linkblog"
+      ],
+      "published": "2026-09-30T06:00:00.000Z"
+    },
+    {
       "id": "c48f1ff5058b49fc",
       "title": "Quoting Anthropic Frontier Red Team",
       "source": "Simon Willison's Weblog",
@@ -49,6 +161,22 @@
       "published": "2026-09-29T18:27:48.000Z"
     },
     {
+      "id": "023d364db8b33fc2",
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "pacer": "P",
+      "keywords": [
+        "privacy",
+        "MediaPipe",
+        "face-blurring",
+        "WebAssembly",
+        "photography"
+      ],
+      "published": "2026-09-29T16:45:27.000Z"
+    },
+    {
       "id": "d3b185d971abc0ea",
       "title": "OpenAI DevDay 2026 live blog",
       "source": "Simon Willison's Weblog",
@@ -79,6 +207,22 @@
         "ideas"
       ],
       "published": "2026-09-29T14:29:26.000Z"
+    },
+    {
+      "id": "74c18a148fd3a135",
+      "title": "As a general rule, calling product support while drunk is not recommended",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/",
+      "pacer": "C",
+      "keywords": [
+        "customer support",
+        "etiquette",
+        "humor",
+        "communication",
+        "best practices"
+      ],
+      "published": "2026-09-29T14:00:00.000Z"
     },
     {
       "id": "7a0a129de50bf3af",
@@ -145,22 +289,6 @@
       "published": "2026-09-29T00:00:00.000Z"
     },
     {
-      "id": "64e27cc1872ee838",
-      "title": "Claude Sonnet 5.5",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "pacer": "E",
-      "keywords": [
-        "Claude Sonnet 5.5",
-        "Anthropic",
-        "AI model",
-        "LLM",
-        "tech news"
-      ],
-      "published": "2026-09-28T22:07:38.000Z"
-    },
-    {
       "id": "2e70ae43867a89a8",
       "title": "Donating to open source",
       "source": "Entropic Thoughts",
@@ -175,22 +303,6 @@
         "tech funding"
       ],
       "published": "2026-09-28T22:00:00.000Z"
-    },
-    {
-      "id": "ddc53f40aa2256ba",
-      "title": "Quoting @joedaroo",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-      "pacer": "C",
-      "keywords": [
-        "AI security",
-        "Generative AI",
-        "organizational resilience",
-        "incident response",
-        "OpenAI"
-      ],
-      "published": "2026-09-28T19:11:42.000Z"
     },
     {
       "id": "6ec198bf305f2ce1",
@@ -833,38 +945,6 @@
       "published": "2026-09-22T14:01:30.000Z"
     },
     {
-      "id": "19cdfb1540059636",
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "pacer": "C",
-      "keywords": [
-        "Windows",
-        "scroll bar",
-        "shortcuts",
-        "UI history",
-        "user interface"
-      ],
-      "published": "2026-09-22T14:00:00.000Z"
-    },
-    {
-      "id": "81aa5695d5052e6c",
-      "title": "Are LLMs still surprisingly bad at some simple tasks?",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/",
-      "pacer": "E",
-      "keywords": [
-        "LLM",
-        "AI hallucinations",
-        "testing",
-        "benchmarking",
-        "artificial intelligence"
-      ],
-      "published": "2026-09-22T11:34:27.000Z"
-    },
-    {
       "id": "0acb1218cac1f137",
       "title": "On reading books",
       "source": "Herman's blog",
@@ -991,22 +1071,6 @@
         "git"
       ],
       "published": "2026-09-21T22:00:00.000Z"
-    },
-    {
-      "id": "23879016fa9da22c",
-      "title": "A Great Story Capturing the Essence of Being Online in 2026",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/online-in-2026/",
-      "pacer": "A",
-      "keywords": [
-        "AI",
-        "Generative AI",
-        "Hallucination",
-        "Bryan Cantrill",
-        "Creativity"
-      ],
-      "published": "2026-09-21T19:00:00.000Z"
     },
     {
       "id": "a7b9e879dda5ccb2",
@@ -2063,22 +2127,6 @@
         "Privilege Escalation"
       ],
       "published": "2026-09-03T14:59:54.000Z"
-    },
-    {
-      "id": "c4efa3c9b63afc9f",
-      "title": "De nieuwe AIVD/MIVD wet: een eerste overzicht",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/de-wiv-202x/",
-      "pacer": "C",
-      "keywords": [
-        "AIVD",
-        "MIVD",
-        "surveillance",
-        "privacy",
-        "Dutch law"
-      ],
-      "published": "2026-09-03T11:20:00.000Z"
     },
     {
       "id": "1249691da25afa37",
@@ -3358,22 +3406,6 @@
       "published": "2026-07-16T00:00:00.000Z"
     },
     {
-      "id": "713d5c4af8a89517",
-      "title": "I'm still alive",
-      "source": "Computer Things",
-      "source_url": "https://buttondown.com/hillelwayne",
-      "url": "https://buttondown.com/hillelwayne/archive/im-still-alive/",
-      "pacer": "C",
-      "keywords": [
-        "update",
-        "status",
-        "blogging",
-        "announcement",
-        "personal"
-      ],
-      "published": "2026-07-14T16:15:07.000Z"
-    },
-    {
       "id": "1ac8e18a667536fc",
       "title": "Mandatory Update: A Short Story",
       "source": "micahflee",
@@ -3465,22 +3497,6 @@
         "connectivity",
         "tech review",
         "usability"
-      ],
-      "published": "2026-07-11T00:00:00.000Z"
-    },
-    {
-      "id": "0a4e3366b28bbfda",
-      "title": "Prefer STRICT tables in SQLite",
-      "source": "Evan Hahn (dot com)",
-      "source_url": "https://evanhahn.com/blog/",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "pacer": "P",
-      "keywords": [
-        "SQLite",
-        "STRICT tables",
-        "database",
-        "data integrity",
-        "SQL"
       ],
       "published": "2026-07-11T00:00:00.000Z"
     },
@@ -3851,22 +3867,6 @@
         "journaling"
       ],
       "published": "2026-06-09T14:50:00.000Z"
-    },
-    {
-      "id": "9d2cc08a8537770d",
-      "title": "Incorruptible",
-      "source": "Steve Blank",
-      "source_url": "https://steveblank.com/",
-      "url": "https://steveblank.com/2026/06/09/incorruptible/",
-      "pacer": "C",
-      "keywords": [
-        "Eric Ries",
-        "Incorruptible",
-        "corporate strategy",
-        "business management",
-        "book review"
-      ],
-      "published": "2026-06-09T13:00:23.000Z"
     },
     {
       "id": "8c57b8a3f8723eca",
@@ -4839,6 +4839,38 @@
     }
   ],
   "links": [
+    {
+      "source": "be202b2aee97bdee",
+      "target": "6298251f1b042956",
+      "shared_keywords": [
+        "AI",
+        "Lean LaunchPad",
+        "Education",
+        "Entrepreneurship"
+      ],
+      "strength": 0.8
+    },
+    {
+      "source": "be202b2aee97bdee",
+      "target": "1452eb51fe21b506",
+      "shared_keywords": [
+        "AI",
+        "Startup",
+        "Lean LaunchPad"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "be202b2aee97bdee",
+      "target": "15cd0e1830038ea0",
+      "shared_keywords": [
+        "AI",
+        "Entrepreneurship",
+        "Lean LaunchPad",
+        "Education"
+      ],
+      "strength": 0.8
+    },
     {
       "source": "41625591abfe53de",
       "target": "d3b185d971abc0ea",
