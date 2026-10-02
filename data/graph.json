@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "ef9846439a21273f",
+      "title": "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/01/data-centers/",
+      "pacer": "C",
+      "keywords": [
+        "politics",
+        "activism",
+        "democracy",
+        "grassroots",
+        "elections"
+      ],
+      "published": "2026-10-01T17:22:48.000Z"
+    },
+    {
+      "id": "5a5b19102292d48d",
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/si-sheppard",
+      "pacer": "C",
+      "keywords": [
+        "Si Sheppard",
+        "Aztec",
+        "Inca",
+        "Conquistadors",
+        "History"
+      ],
+      "published": "2026-10-01T15:28:28.000Z"
+    },
+    {
+      "id": "ef80a011de3290fc",
+      "title": "Understanding the AI That Drives Robots",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "pacer": "C",
+      "keywords": [
+        "VLA models",
+        "Robotics",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "published": "2026-10-01T12:04:36.000Z"
+    },
+    {
+      "id": "a369ca1e9fb06a4c",
+      "title": "Software Heritage Identifiers",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/10/01/software-heritage-identifiers.html",
+      "pacer": "C",
+      "keywords": [
+        "Software Heritage",
+        "SWHID",
+        "Archiving",
+        "Merkle DAG",
+        "Source Code"
+      ],
+      "published": "2026-10-01T11:00:00.000Z"
+    },
+    {
+      "id": "13abe05468a04dc2",
+      "title": "Why Americans Stopped Throwing Dinner Parties",
+      "source": "Derek Thompson | The Atlantic",
+      "source_url": "https://www.theatlantic.com/author/derek-thompson/",
+      "url": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed",
+      "pacer": "C",
+      "keywords": [
+        "social habits",
+        "dinner parties",
+        "sociology",
+        "lifestyle",
+        "American culture"
+      ],
+      "published": "2026-10-01T11:00:00.000Z"
+    },
+    {
+      "id": "e48a7f736f56ad59",
+      "title": "Quoting Matthew Green",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "pacer": "C",
+      "keywords": [
+        "AI agents",
+        "sandboxing",
+        "cybersecurity",
+        "AI security",
+        "malware"
+      ],
+      "published": "2026-10-01T06:29:01.000Z"
+    },
+    {
+      "id": "245a9ce608a8c159",
+      "title": "Summary of reading: July - September 2026",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/",
+      "pacer": "R",
+      "keywords": [
+        "book reviews",
+        "reading list",
+        "literature",
+        "history",
+        "Eli Bendersky"
+      ],
+      "published": "2026-10-01T00:05:00.000Z"
+    },
+    {
       "id": "b28db22be2dee5fa",
       "title": "He Built This City",
       "source": "Simon Willison's Weblog",
@@ -31,6 +143,38 @@
         "product design"
       ],
       "published": "2026-09-30T19:00:00.000Z"
+    },
+    {
+      "id": "a7e79552405a352d",
+      "title": "Why do you need freedom?",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html",
+      "pacer": "C",
+      "keywords": [
+        "superintelligence",
+        "autonomy",
+        "freedom",
+        "existentialism",
+        "human agency"
+      ],
+      "published": "2026-09-30T16:00:00.000Z"
+    },
+    {
+      "id": "a00dc6e5c8be74a9",
+      "title": "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/",
+      "pacer": "C",
+      "keywords": [
+        "Windows",
+        "AArch64",
+        "x86",
+        "hot-patching",
+        "fixed-length instructions"
+      ],
+      "published": "2026-09-30T14:00:00.000Z"
     },
     {
       "id": "9260fbee6d07d79e",
@@ -175,22 +319,6 @@
         "photography"
       ],
       "published": "2026-09-29T16:45:27.000Z"
-    },
-    {
-      "id": "d3b185d971abc0ea",
-      "title": "OpenAI DevDay 2026 live blog",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "pacer": "R",
-      "keywords": [
-        "OpenAI",
-        "DevDay",
-        "AI",
-        "LLMs",
-        "Live-blog"
-      ],
-      "published": "2026-09-29T15:55:13.000Z"
     },
     {
       "id": "2fa205d7be3b0c5a",
@@ -881,22 +1009,6 @@
       "published": "2026-09-23T14:11:52.000Z"
     },
     {
-      "id": "b5de8fcada4c0f22",
-      "title": "When working with Win32 FILETIME, don’t forget that you have std::chrono now",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/",
-      "pacer": "P",
-      "keywords": [
-        "Win32",
-        "FILETIME",
-        "std::chrono",
-        "C++",
-        "Programming"
-      ],
-      "published": "2026-09-23T14:00:00.000Z"
-    },
-    {
       "id": "15cd0e1830038ea0",
       "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
       "source": "Steve Blank",
@@ -1121,22 +1233,6 @@
       "published": "2026-09-21T14:38:49.000Z"
     },
     {
-      "id": "c6c980f43615d715",
-      "title": "Pluralistic: The Claude Delusion (21 Sep 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/09/21/sunsetting/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "anthropomorphism",
-        "Cory Doctorow",
-        "philosophy",
-        "LLM"
-      ],
-      "published": "2026-09-21T11:24:31.000Z"
-    },
-    {
       "id": "49fb62c4187a2f69",
       "title": "This is why we play",
       "source": "Xe Iaso's blog",
@@ -1215,22 +1311,6 @@
         "Market Trends"
       ],
       "published": "2026-09-19T12:03:09.000Z"
-    },
-    {
-      "id": "11842c5d61ed1379",
-      "title": "This Week in Package Management: 19 September 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/19/this-week-in-package-management.html",
-      "pacer": "R",
-      "keywords": [
-        "package management",
-        "Homebrew",
-        "SwiftPM",
-        "pnpm",
-        "software updates"
-      ],
-      "published": "2026-09-19T10:00:00.000Z"
     },
     {
       "id": "4409746de2af8f29",
@@ -1745,22 +1825,6 @@
       "published": "2026-09-11T13:41:09.000Z"
     },
     {
-      "id": "9addcc1c3d7c5cf4",
-      "title": "Where Has Construction Automation Been Successful?",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/where-has-construction-automation",
-      "pacer": "C",
-      "keywords": [
-        "construction",
-        "automation",
-        "labor-intensive",
-        "manufacturing",
-        "cost analysis"
-      ],
-      "published": "2026-09-11T12:04:09.000Z"
-    },
-    {
       "id": "2e38e067687648fb",
       "title": "At 25, we are all New Yorkers, again",
       "source": "Anil Dash",
@@ -2223,22 +2287,6 @@
         "cybersecurity"
       ],
       "published": "2026-09-01T15:41:06.000Z"
-    },
-    {
-      "id": "dcb566ece7cfb788",
-      "title": "The rise and fall of agent civilizations",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "pacer": "C",
-      "keywords": [
-        "AI agents",
-        "OpenAI",
-        "Hugging Face",
-        "AI security",
-        "tech infrastructure"
-      ],
-      "published": "2026-08-31T20:36:53.000Z"
     },
     {
       "id": "9dd350b008cf2b8e",
@@ -2767,22 +2815,6 @@
         "Fabien Sanglard"
       ],
       "published": "2026-08-17T00:00:00.000Z"
-    },
-    {
-      "id": "dac893e2eede1aaf",
-      "title": "Concurrent Servers: Part 7 - Rust",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/",
-      "pacer": "P",
-      "keywords": [
-        "Rust",
-        "concurrency",
-        "network server",
-        "state machine",
-        "async"
-      ],
-      "published": "2026-08-15T16:41:00.000Z"
     },
     {
       "id": "9f09be02135bd573",
@@ -3675,22 +3707,6 @@
         "public oversight"
       ],
       "published": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "f3f9da2677a7ef1a",
-      "title": "The doom justifies the valuation",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "valuation",
-        "hype",
-        "discourse",
-        "technology"
-      ],
-      "published": "2026-06-21T07:00:00.000Z"
     },
     {
       "id": "5ad90e34ef63e206",
@@ -4870,16 +4886,6 @@
         "Education"
       ],
       "strength": 0.8
-    },
-    {
-      "source": "41625591abfe53de",
-      "target": "d3b185d971abc0ea",
-      "shared_keywords": [
-        "OpenAI",
-        "AI",
-        "LLMs"
-      ],
-      "strength": 0.6
     },
     {
       "source": "6298251f1b042956",

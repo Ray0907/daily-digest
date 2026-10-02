@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-10-01T00:53:07.708Z",
+  "last_updated": "2026-10-02T01:08:43.582Z",
   "articles": [
+    {
+      "id": "245a9ce608a8c159",
+      "title": "Summary of reading: July - September 2026",
+      "url": "https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-10-01T00:05:00.000Z",
+      "summary_en": "This post provides a brief review of books read by the author between July and September 2026. The list spans various genres including classic literature, history, and short story collections, offering personal perspectives on each work.",
+      "summary_zh": "本文彙整了作者於 2026 年 7 月至 9 月期間的閱讀清單與心得。內容涵蓋經典文學、歷史與短篇小說集，並針對每本書籍提供了個人的閱讀評價與觀點。",
+      "keywords": [
+        "book reviews",
+        "reading list",
+        "literature",
+        "history",
+        "Eli Bendersky"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a reference list of books and brief critical summaries.",
+      "pacer_reason_zh": "此內容作為一份書單與簡短評論的參考清單。"
+    },
+    {
+      "id": "a7e79552405a352d",
+      "title": "Why do you need freedom?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-09-30T16:00:00.000Z",
+      "summary_en": "The article explores the existential tension between the comfort of living under the guidance of an 'aligned' superintelligence and the necessity of human autonomy. It argues that even if a machine knows us better than we know ourselves, the essence of a meaningful life lies in the freedom to make irrational or independent choices.",
+      "summary_zh": "本文探討了在「對齊」的超級人工智慧引導下，人類生活舒適度與自主權之間的生存矛盾。文章主張，即便機器比我們更了解自己，生活的意義仍存在於做出非理性或獨立選擇的自由之中。",
+      "keywords": [
+        "superintelligence",
+        "autonomy",
+        "freedom",
+        "existentialism",
+        "human agency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a conceptual exploration of the philosophical implications of AI alignment and the nature of human freedom.",
+      "pacer_reason_zh": "本文屬於概念性論述，探討了人工智慧對齊的哲學意涵以及人類自由的本質。"
+    },
+    {
+      "id": "5a5b19102292d48d",
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "url": "https://www.dwarkesh.com/p/si-sheppard",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-10-01T15:28:28.000Z",
+      "summary_en": "Historian Si Sheppard explores the historical factors behind the rapid collapse of the Aztec and Inca empires when faced with small numbers of Spanish conquistadors. The discussion analyzes military strategies, geopolitical dynamics, and the critical role of local indigenous alliances in these transformative historical events.",
+      "summary_zh": "歷史學家 Si Sheppard 探討了少數西班牙征服者如何迅速瓦解阿茲特克與印加帝國的歷史因素。討論分析了軍事戰略、地緣政治動態，以及當地原住民聯盟在這些重大歷史事件中所扮演的關鍵角色。",
+      "keywords": [
+        "Si Sheppard",
+        "Aztec",
+        "Inca",
+        "Conquistadors",
+        "History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on historical explanation and analysis of 'how' and 'why' specific historical events occurred.",
+      "pacer_reason_zh": "內容側重於歷史解釋與分析，探討特定歷史事件發生的原因與過程。"
+    },
+    {
+      "id": "ef80a011de3290fc",
+      "title": "Understanding the AI That Drives Robots",
+      "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-01T12:04:36.000Z",
+      "summary_en": "This article explores Vision-Language-Action (VLA) models, explaining how they enable robots to interpret visual data and language commands to execute physical tasks. It demystifies the underlying architecture that allows modern AI to bridge the gap between digital reasoning and real-world robotic manipulation.",
+      "summary_zh": "本文探討了視覺-語言-動作 (VLA) 模型，解釋了機器人如何透過這類模型解讀視覺資料與語言指令，進而執行實體任務。文章深入淺出地剖析了現代人工智慧如何連結數位推理與現實世界的機器人操作。",
+      "keywords": [
+        "VLA models",
+        "Robotics",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily an explanatory piece defining and describing the theoretical framework and function of VLA models in robotics.",
+      "pacer_reason_zh": "本文主要為解釋性內容，旨在定義並闡述機器人領域中 VLA 模型的功能與理論框架。"
+    },
+    {
+      "id": "a369ca1e9fb06a4c",
+      "title": "Software Heritage Identifiers",
+      "url": "https://nesbitt.io/2026/10/01/software-heritage-identifiers.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-01T11:00:00.000Z",
+      "summary_en": "This article discusses Software Heritage (SWH) and its intrinsic identifier system, SWHIDs. It explains how the project archives source code globally using a Merkle DAG to ensure content-based retrieval, independent of original hosting locations.",
+      "summary_zh": "本文介紹了 Software Heritage (SWH) 及其內在識別碼系統 SWHIDs。文中說明該專案如何利用默克爾有向無環圖 (Merkle DAG) 進行全球原始碼歸檔，確保能依據內容而非原始託管位置來檢索程式碼。",
+      "keywords": [
+        "Software Heritage",
+        "SWHID",
+        "Archiving",
+        "Merkle DAG",
+        "Source Code"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how Software Heritage archiving works and how the SWHID identification standard functions.",
+      "pacer_reason_zh": "本文提供了關於 Software Heritage 歸檔運作方式以及 SWHID 識別標準功能的觀念性解釋。"
+    },
+    {
+      "id": "13abe05468a04dc2",
+      "title": "Why Americans Stopped Throwing Dinner Parties",
+      "url": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed",
+      "source": "Derek Thompson | The Atlantic",
+      "source_url": "https://www.theatlantic.com/author/derek-thompson/",
+      "published": "2026-10-01T11:00:00.000Z",
+      "summary_en": "This article examines the significant decline in social hosting habits among Americans since 1975. It explores the sociological and lifestyle shifts that have contributed to the disappearance of the traditional dinner party.",
+      "summary_zh": "本文探討自1975年以來，美國人邀請朋友到家聚餐的頻率大幅下降的現象。文章深入分析了導致傳統晚宴逐漸消失的社會結構與生活方式的改變。",
+      "keywords": [
+        "social habits",
+        "dinner parties",
+        "sociology",
+        "lifestyle",
+        "American culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis explaining the cultural and social reasons behind the decline of a specific lifestyle trend.",
+      "pacer_reason_zh": "本文屬於概念性分析，旨在探討與解釋導致特定生活趨勢衰退背後的文化與社會因素。"
+    },
+    {
+      "id": "a00dc6e5c8be74a9",
+      "title": "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-09-30T14:00:00.000Z",
+      "summary_en": "This post explains that hot-patching on Windows for AArch64 is significantly simpler than on x86 architectures. The primary reason for this advantage is the use of fixed-length instructions, which streamlines the patching process.",
+      "summary_zh": "這篇文章說明在 Windows AArch64 架構上進行熱修補（hot-patching）比 x86 架構簡單許多。主要原因在於固定長度的指令集簡化了修補的執行難度。",
+      "keywords": [
+        "Windows",
+        "AArch64",
+        "x86",
+        "hot-patching",
+        "fixed-length instructions"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of why one technical implementation is more efficient than another.",
+      "pacer_reason_zh": "本文針對為何某種技術實作比另一種更有效率提供了觀念上的解釋。"
+    },
+    {
+      "id": "ef9846439a21273f",
+      "title": "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/01/data-centers/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-01T17:22:48.000Z",
+      "summary_en": "Cory Doctorow argues that electoral politics ('Big P') are only effective when supported by continuous grassroots activism ('small p'). He contends that democracy requires ongoing community organizing and protest rather than just occasional participation in elections.",
+      "summary_zh": "Cory Doctorow 主張選舉政治（「大寫 P」）只有在持續的基層行動主義（「小寫 p」）支持下才有效。他認為民主不僅僅是選舉日的投票，還需要持續的社區組織與抗爭活動來推動。",
+      "keywords": [
+        "politics",
+        "activism",
+        "democracy",
+        "grassroots",
+        "elections"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical perspective on the relationship between institutional politics and grassroots movements.",
+      "pacer_reason_zh": "本文提供了關於制度化政治與基層運動之間關係的理論性觀點。"
+    },
+    {
+      "id": "e48a7f736f56ad59",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-01T06:29:01.000Z",
+      "summary_en": "This post highlights the security risks of AI agents, suggesting that current sandboxing methods may be insufficient to prevent worm-like behavior. By leveraging shared communication channels, autonomous agents could potentially hijack one another, leading to chain-reaction security vulnerabilities.",
+      "summary_zh": "這篇文章探討了人工智慧代理（AI agents）的安全性風險，指出目前的沙箱隔離機制可能不足以防止蠕蟲般的惡意行為。透過共享的通訊管道，自主代理之間可能會相互劫持，從而導致連鎖反應式的安全漏洞。",
+      "keywords": [
+        "AI agents",
+        "sandboxing",
+        "cybersecurity",
+        "AI security",
+        "malware"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual security risks and theoretical threat models associated with autonomous AI agent interactions.",
+      "pacer_reason_zh": "內容解釋了與自主 AI 代理互動相關的概念性安全風險與理論威脅模型。"
+    },
     {
       "id": "be202b2aee97bdee",
       "title": "Lean LaunchPad – The Next Generation",
