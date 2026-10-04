@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-10-03T00:47:30.431Z",
+  "last_updated": "2026-10-04T00:10:33.475Z",
   "articles": [
+    {
+      "id": "bb74b2292c0cf5d0",
+      "title": "Altera Quartus Linux jtagd bug fixes",
+      "url": "https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/",
+      "source": "Downtown Doug Brown",
+      "source_url": "https://www.downtowndougbrown.com/",
+      "published": "2026-10-03T05:50:45.000Z",
+      "summary_en": "This article discusses troubleshooting intermittent connectivity issues with Altera USB Blaster clones and the jtagd daemon on Linux. It shares the author's technical findings and experience while debugging specific problems encountered in the Quartus Programmer 18.1 environment.",
+      "summary_zh": "本文探討了在 Linux 環境下使用 Altera USB Blaster 克隆設備時，針對 jtagd 守護程序的間歇性連接問題進行故障排除的經驗。作者分享了他在 Quartus Programmer 18.1 版本中遇到的技術挑戰與解決心得。",
+      "keywords": [
+        "Altera",
+        "Quartus",
+        "Linux",
+        "jtagd",
+        "USB Blaster"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content focuses on troubleshooting and resolving specific technical bugs in a software toolchain.",
+      "pacer_reason_zh": "內容重點在於故障排除與解決軟體工具鏈中的特定技術錯誤。"
+    },
+    {
+      "id": "9a70f465584237b9",
+      "title": "Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter",
+      "url": "https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html",
+      "source": "Jayden’s Blog",
+      "source_url": "https://jayd.ml/",
+      "published": "2026-10-03T09:25:00.000Z",
+      "summary_en": "This blog post documents a workaround for connecting Sony WH-1000XM3 headphones to Arch Linux when using a UGREEN Bluetooth adapter with an Actions ATS2851 chipset. The author demonstrates that the connection failure during initial pairing can be bypassed by skipping the standard pairing process and using manual CLI commands.",
+      "summary_zh": "本文介紹了在使用搭載 Actions ATS2851 晶片的 UGREEN 藍牙適配器時，Sony WH-1000XM3 耳機無法在 Arch Linux 上配對的解決方案。作者指出，透過跳過標準配對流程並改用 bluetoothctl 手動指令，即可成功建立連接。",
+      "keywords": [
+        "Arch Linux",
+        "Bluetooth",
+        "Sony WH-1000XM3",
+        "UGREEN",
+        "Troubleshooting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific step-by-step technical workaround for fixing a pairing issue on Linux.",
+      "pacer_reason_zh": "文章提供了針對 Linux 藍牙配對問題的具體逐步技術解決方案。"
+    },
+    {
+      "id": "5e4eb382d09ec21a",
+      "title": "Reading List 2026-10-03",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-10-03",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-03T13:14:44.000Z",
+      "summary_en": "This digest covers a diverse range of topics, including updates on Senate permitting reform, the operational potential of Tesla’s Cybercab, and major infrastructure projects like Navy shipyard renovations. It also explores the unconventional possibility of reactivating the SR-71 aircraft.",
+      "summary_zh": "本篇摘要涵蓋了多項議題，包括美國參議院的許可改革法案、特斯拉 Cybercab 的發展潛力，以及海軍造船廠的重大翻修工程。此外，文章也探討了讓 SR-71 偵察機重返服役的相關議題。",
+      "keywords": [
+        "permitting reform",
+        "Cybercab",
+        "infrastructure",
+        "aerospace",
+        "news digest"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list or reference of current events and articles for the reader to explore.",
+      "pacer_reason_zh": "本文屬於新聞選讀清單，整理了當前事件與文章供讀者參考。"
+    },
+    {
+      "id": "de065c32240662dd",
+      "title": "This Week in Package Management: 3 October 2026",
+      "url": "https://nesbitt.io/2026/10/03/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-03T10:00:00.000Z",
+      "summary_en": "This roundup covers the latest updates in package management for the week of October 3, 2026. It details significant releases and security enhancements for tools including mise, npm, pnpm, RubyGems, OpenTofu, and Scoop.",
+      "summary_zh": "本篇摘要整理了 2026 年 10 月 3 日當週的套件管理工具更新動態。內容涵蓋 mise、npm、pnpm、RubyGems、OpenTofu 與 Scoop 等工具的最新版本發佈及安全性改進。",
+      "keywords": [
+        "package management",
+        "software releases",
+        "security",
+        "developer tools",
+        "devops"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software release notes and updates.",
+      "pacer_reason_zh": "本文屬於週期性的參考清單，用於整理並總結軟體發佈說明與更新動態。"
+    },
+    {
+      "id": "00406bba1e79a0b8",
+      "title": "Miquel’s pivot theorem",
+      "url": "https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-03T22:53:41.000Z",
+      "summary_en": "The article discusses Miquel's pivot theorem, a relatively modern discovery in the ancient field of Euclidean geometry. It highlights how, despite the long history of the subject, new and interesting geometric theorems continue to be identified.",
+      "summary_zh": "本文介紹了米克爾樞軸定理（Miquel's pivot theorem），這是在歐幾里得幾何這一古老領域中較為現代的發現。文章強調儘管該學科歷史悠久，但仍不斷有新的幾何定理被發掘出來。",
+      "keywords": [
+        "Euclidean geometry",
+        "Miquel's pivot theorem",
+        "geometry",
+        "mathematics",
+        "theorems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview and historical context of a specific geometric theorem.",
+      "pacer_reason_zh": "文章提供了特定幾何定理的概念性概述與歷史背景。"
+    },
+    {
+      "id": "2929dd1b05fc6b91",
+      "title": "Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/03/full-employment/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-03T12:07:59.000Z",
+      "summary_en": "This post examines the historical drivers of the post-war 'peace dividend' and contrasts them with current economic realities. Drawing on Thomas Piketty's research, the author highlights how the concentration of wealth in the hands of an unaccountable oligarchy leads to systemic instability.",
+      "summary_zh": "本文探討了戰後「和平紅利」的歷史成因，並與當前的經濟現實進行了對比。作者藉由湯瑪斯·皮凱提的研究指出，財富過度集中於少數不受制衡的寡頭手中，將導致嚴重的系統性不穩定。",
+      "keywords": [
+        "Thomas Piketty",
+        "wealth inequality",
+        "oligarchy",
+        "economic history",
+        "capitalism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of economic history and the theoretical implications of wealth concentration.",
+      "pacer_reason_zh": "文章針對經濟史及財富集中的理論意涵進行了概念性的分析與論述。"
+    },
+    {
+      "id": "345f1755705d282a",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-03T23:34:02.000Z",
+      "summary_en": "Simon Willison argues that pay-per-usage services and APIs should implement default hard budget caps to prevent catastrophic billing surprises. He suggests that these limits should be mandatory by default, forcing users to explicitly opt-in if they wish to risk unlimited spending.",
+      "summary_zh": "Simon Willison 認為按使用量付費的服務和 API 應預設實施「硬性預算上限」，以防止出現意外的高額帳單。他建議這類限制應設為預設開啟，若用戶希望承擔無上限消費的風險，則必須透過明確的機制選擇退出。",
+      "keywords": [
+        "budget caps",
+        "APIs",
+        "cloud computing",
+        "usage billing",
+        "software safety"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument for a specific industry-wide feature design to solve a common technical risk.",
+      "pacer_reason_zh": "該文章提出了一種概念性的觀點，倡導一種針對特定產業的功能設計，以解決常見的技術風險。"
+    },
+    {
+      "id": "637b19621e90d689",
+      "title": "September sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-03T22:00:31.000Z",
+      "summary_en": "Simon Willison has released his September sponsors-only newsletter, which covers various tech topics including LLMs, software releases, and cybersecurity updates. Subscribers gain exclusive access to these monthly deep dives and early previews of his content.",
+      "summary_zh": "Simon Willison 發布了九月份的贊助者專屬電子報，內容涵蓋大型語言模型 (LLM)、軟體發布與網路安全等多元技術議題。訂閱者可享有這些月度深入分析的獨家存取權，以及其內容的搶先預覽。",
+      "keywords": [
+        "newsletter",
+        "Simon Willison",
+        "LLM",
+        "software development",
+        "cybersecurity"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This post serves as a reference and announcement for a newsletter archive, functioning primarily to direct readers to subscription and lookup material.",
+      "pacer_reason_zh": "這篇文章主要作為電子報存檔的參考與公告，主要功能是指引讀者前往訂閱連結與查找內容。"
+    },
+    {
+      "id": "b23a71d2dca41cfa",
+      "title": "Rex's Dino Store",
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-02T22:57:38.000Z",
+      "summary_en": "This post highlights Rex's Dino Store, a unique art installation located in a former newsstand at the Grand Army Plaza subway station in Brooklyn. The site is noted for being operated by a dinosaur and featuring an exceptional density of dinosaur-themed puns.",
+      "summary_zh": "這篇文章介紹了位於紐約布魯克林大軍廣場地鐵站的「雷克斯恐龍商店」，這是一個由舊報攤改建而成的藝術裝置，現由一隻恐龍負責營運。該景點以其豐富且絕妙的恐龍雙關語而聞名。",
+      "keywords": [
+        "Rex's Dino Store",
+        "Brooklyn",
+        "Prospect Park",
+        "Art",
+        "Dinosaur"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a brief reference or spotlight piece documenting a specific location and its unique characteristics.",
+      "pacer_reason_zh": "本文屬於介紹特定地點及其獨特性的參考性短文。"
+    },
+    {
+      "id": "8aff8daa457c9c10",
+      "title": "Shipping is the foundation",
+      "url": "https://seangoedecke.com/shipping-is-the-foundation/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-03T00:00:00.000Z",
+      "summary_en": "This article discusses the fundamental importance of shipping software or products as the core driver of value creation. It emphasizes that the act of delivery is the primary mechanism through which ideas are tested and realized.",
+      "summary_zh": "本文探討了交付產品或軟體作為價值創造核心基礎的重要性。文章強調，實際的交付行動是驗證與實現想法的主要機制。",
+      "keywords": [
+        "software development",
+        "shipping",
+        "product management",
+        "execution",
+        "value creation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual philosophy of product development and the importance of shipping.",
+      "pacer_reason_zh": "本文聚焦於產品開發的概念性哲學，以及交付產品的核心重要性。"
+    },
     {
       "id": "e08bdbae965f03c3",
       "title": "Digitale autonomie in het kort bij KIVI, STT en NAE",
