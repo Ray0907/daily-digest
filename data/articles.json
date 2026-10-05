@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-10-04T00:10:33.475Z",
+  "last_updated": "2026-10-05T00:17:10.198Z",
   "articles": [
+    {
+      "id": "dccadbbc646fa325",
+      "title": "Weekly Update 524: Live From Copenhagen",
+      "url": "https://www.troyhunt.com/weekly-update-524/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-10-04T11:52:23.000Z",
+      "summary_en": "Troy Hunt shares updates from his trip to Copenhagen after concluding the GOTO conference. The post also highlights significant news regarding the arrest of two individuals associated with the ShinyHunters data breach group.",
+      "summary_zh": "Troy Hunt 分享了他在哥本哈根參加 GOTO 會議後的行程更新。此外，文中也報導了與 ShinyHunters 數據外洩組織相關的兩名嫌疑人被捕的最新新聞消息。",
+      "keywords": [
+        "Troy Hunt",
+        "Copenhagen",
+        "GOTO",
+        "ShinyHunters",
+        "cybersecurity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content functions as a personal progress update and news curation, characteristic of regular blog updates.",
+      "pacer_reason_zh": "內容屬於個人行程更新與新聞整理，符合部落格定期動態的性質。"
+    },
+    {
+      "id": "df9c82f5af58a55f",
+      "title": "Zenith Data Systems, Part I",
+      "url": "https://www.abortretry.fail/p/zenith-data-systems-part-i",
+      "source": "Abort Retry Fail",
+      "source_url": "https://www.abortretry.fail/",
+      "published": "2026-10-04T22:09:15.000Z",
+      "summary_en": "This article explores the early history and legacy of Zenith Data Systems. It touches upon the brand's reputation for quality and its significance within the landscape of early computing hardware.",
+      "summary_zh": "本文探討了 Zenith Data Systems 的早期歷史與品牌遺產。文中討論了該品牌在早期電腦硬體領域中，對於品質的堅持及其市場影響力。",
+      "keywords": [
+        "Zenith Data Systems",
+        "Computing History",
+        "Hardware",
+        "Retro Computing",
+        "Tech History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a historical overview explaining the origin and conceptual background of the company.",
+      "pacer_reason_zh": "本文屬於歷史概覽，旨在解釋該公司的起源與概念背景。"
+    },
+    {
+      "id": "bbc2d3c4c1ee2100",
+      "title": "Dyson CameraJet",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-10-02T16:00:00.000Z",
+      "summary_en": "The author recounts their disappointing experience with a high-end $500 Dyson toothbrush, which malfunctioned due to poor water-sealing design shortly after purchase. The post highlights the failure of Dyson's quality assurance processes compared to the rigorous testing standards applied in the author's own professional experience.",
+      "summary_zh": "作者分享了購買價值 500 美元 Dyson 電動牙刷的失望經歷，該產品因設計缺陷導致進水，在短時間內便故障報廢。文章批評了 Dyson 缺乏嚴格的品質檢測，並對比了作者自身在產品測試流程上的嚴謹標準。",
+      "keywords": [
+        "Dyson",
+        "品質管理",
+        "消費電子",
+        "設計缺陷",
+        "產品測試"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a personal case study and critique of a specific product's failure based on real-world usage and quality control expectations.",
+      "pacer_reason_zh": "本文透過作者的實際使用經歷，對特定產品的故障進行了案例分析與批評，並探討了品質控制的問題。"
+    },
+    {
+      "id": "6b1e27d58488542f",
+      "title": "Miquel’s pentagon theorem",
+      "url": "https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-04T12:34:22.000Z",
+      "summary_en": "This post discusses Auguste Miquel's pentagon theorem, which describes a specific geometric construction involving extending the sides of a convex pentagon to form a star. It explores the elegant properties found when drawing circles associated with the intersections of these extended sides.",
+      "summary_zh": "本文介紹了 19 世紀數學家奧古斯特·米凱爾（Auguste Miquel）提出的五邊形定理，描述了一種關於凸五邊形及其邊緣延伸所形成的幾何構造。文章探討了當圍繞這些延伸線的交點繪製圓形時，所呈現出的優雅幾何性質。",
+      "keywords": [
+        "geometry",
+        "Miquel's theorem",
+        "pentagon",
+        "mathematics",
+        "theorems"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a specific mathematical theorem and its geometric definition.",
+      "pacer_reason_zh": "本文解釋了一項特定的數學定理及其幾何定義。"
+    },
+    {
+      "id": "3aa711f969a99091",
+      "title": "Topological models of modal logic",
+      "url": "https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-04T12:25:19.000Z",
+      "summary_en": "This article explores the formal connection between modal logic and topology established by McKinsey and Tarski. It explains how topological spaces can serve as models for modal logic by mapping propositions to sets within a space.",
+      "summary_zh": "本文探討了由 McKinsey 和 Tarski 所建立，關於模態邏輯與拓樸學之間的深度聯繫。文章說明了如何透過將命題映射到拓樸空間中的集合，來構建模態邏輯的拓樸模型。",
+      "keywords": [
+        "modal logic",
+        "topology",
+        "McKinsey",
+        "Tarski",
+        "mathematical logic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical framework connecting two mathematical fields, focusing on 'what is' the nature of these topological models.",
+      "pacer_reason_zh": "本文解釋了連接兩個數學領域的理論框架，重點在於闡述這些拓樸模型的性質。"
+    },
+    {
+      "id": "f5ca393db21b8dab",
+      "title": "Modal logic and topology",
+      "url": "https://www.johndcook.com/blog/2026/10/04/modal-topology/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-04T12:24:33.000Z",
+      "summary_en": "This article explores the structural parallels between modal logic and point-set topology. It emphasizes that both fields require specific axiomatic frameworks to be functional, rather than relying on generalized, abstract definitions.",
+      "summary_zh": "本文探討了模態邏輯與點集拓撲學之間的結構相似性。文章指出，這兩個領域都無法透過廣義的抽象定義來運作，必須依賴特定的公理體系才能發揮作用。",
+      "keywords": [
+        "modal logic",
+        "topology",
+        "axioms",
+        "mathematical theory",
+        "John D. Cook"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article draws direct parallels between the axiomatic approaches in modal logic and point-set topology to explain mathematical methodology.",
+      "pacer_reason_zh": "本文透過比較模態邏輯與點集拓撲學在公理化方法上的相似之處，來闡述數學研究的方法論。"
+    },
+    {
+      "id": "edb7511b41812792",
+      "title": "Why is there no Windows hot-patching support for other architectures like 32-bit ARM and MIPS?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-02T14:00:00.000Z",
+      "summary_en": "This article explains that Windows hot-patching is unavailable for architectures like 32-bit ARM and MIPS because they either predate the feature or never required it. It clarifies the historical and architectural reasons behind these platform-specific limitations.",
+      "summary_zh": "本文解釋了為何 Windows 熱修補（hot-patching）功能不支援 32 位元 ARM 和 MIPS 等架構。主要原因在於這些架構要么出現於該功能之前，要么從未具備此類需求。",
+      "keywords": [
+        "Windows",
+        "hot-patching",
+        "ARM",
+        "MIPS",
+        "architecture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual explanation for the technical design decisions behind Windows architecture support.",
+      "pacer_reason_zh": "該內容針對 Windows 架構支援的技術設計決策提供了概念性解釋。"
+    },
+    {
+      "id": "c362a098803f40e2",
+      "title": "My Pitch for the New Season of Doctor Who",
+      "url": "https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-04T11:34:50.000Z",
+      "summary_en": "The author shares their personal pitch for the next season of Doctor Who, inspired by the trend of Hollywood remaking successful films. They offer creative suggestions for the show's direction while acknowledging the whimsical and speculative nature of their ideas.",
+      "summary_zh": "作者針對 BBC 徵求新一季《超時空奇俠》提案發表個人見解，並從好萊塢重製成功電影的現象中汲取靈感。文章分享了作者對影集走向的創意構想，並坦言這僅是基於粉絲熱情的趣味推測。",
+      "keywords": [
+        "Doctor Who",
+        "Television",
+        "BBC",
+        "Fan Fiction",
+        "Creative Pitch"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily a creative exploration and opinionated discussion about show concepts.",
+      "pacer_reason_zh": "內容主要是針對影集構想的創意探討與個人觀點陳述。"
+    },
+    {
+      "id": "69b1c246a02c7f3b",
+      "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it ",
+      "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-04T02:30:00.000Z",
+      "summary_en": "This article addresses the persistent issue of Asus laptops unexpectedly rebooting instead of waking from sleep mode. The author identifies the MediaTek Wi-Fi adapter's power-saving settings as the culprit and provides a step-by-step solution to disable them via the Windows Device Manager.",
+      "summary_zh": "本文探討了 Asus 筆記型電腦在從睡眠模式喚醒時意外重啟的常見問題。作者指出問題根源在於 MediaTek Wi-Fi 網卡的省電設定，並提供了透過 Windows 裝置管理員停用該設定的詳細修復步驟。",
+      "keywords": [
+        "Asus",
+        "Windows",
+        "Modern Standby",
+        "MediaTek",
+        "troubleshooting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is primarily a tutorial that provides a step-by-step solution to fix a specific technical issue.",
+      "pacer_reason_zh": "本文主要為教學性質，提供了修復特定技術問題的逐步操作指南。"
+    },
     {
       "id": "bb74b2292c0cf5d0",
       "title": "Altera Quartus Linux jtagd bug fixes",
