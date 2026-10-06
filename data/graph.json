@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "d43019accfd19e1e",
+      "title": "Quoting Felix Rieseberg",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "pacer": "C",
+      "keywords": [
+        "Anthropic",
+        "Cowork",
+        "Cloud Computing",
+        "Generative AI",
+        "Virtual Machine"
+      ],
+      "published": "2026-10-05T23:56:47.000Z"
+    },
+    {
+      "id": "df2c0482025ad378",
+      "title": "Pluralistic: Scrutinized (05 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/05/pervert-glasses/",
+      "pacer": "C",
+      "keywords": [
+        "AI glasses",
+        "privacy",
+        "surveillance",
+        "Cory Doctorow",
+        "digital rights"
+      ],
+      "published": "2026-10-05T18:58:11.000Z"
+    },
+    {
+      "id": "b120f691bc2e9aae",
+      "title": "[RSS Club] Changes to the RSS and Atom feeds",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/",
+      "pacer": "E",
+      "keywords": [
+        "RSS",
+        "Atom",
+        "CDATA",
+        "feed reader",
+        "web development"
+      ],
+      "published": "2026-10-05T11:34:03.000Z"
+    },
+    {
+      "id": "afdecd136fba8911",
+      "title": "How fast is Python 3.15?",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+      "pacer": "E",
+      "keywords": [
+        "Python",
+        "benchmark",
+        "performance",
+        "programming",
+        "software"
+      ],
+      "published": "2026-10-05T10:13:17.000Z"
+    },
+    {
+      "id": "3f4c009060e23462",
+      "title": "Benchmark In Milliseconds",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "pacer": "P",
+      "keywords": [
+        "benchmarking",
+        "performance",
+        "optimization",
+        "micro-benchmark",
+        "latency"
+      ],
+      "published": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "69f5bd9058f87f8c",
+      "title": "Qwen3.8 27B addition in words",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "pacer": "E",
+      "keywords": [
+        "LLM",
+        "Qwen3.8",
+        "GPT-4o",
+        "AI reasoning",
+        "mathematical accuracy"
+      ],
+      "published": "2026-10-04T23:34:00.000Z"
+    },
+    {
       "id": "df9c82f5af58a55f",
       "title": "Zenith Data Systems, Part I",
       "source": "Abort Retry Fail",
@@ -15,6 +111,22 @@
         "Tech History"
       ],
       "published": "2026-10-04T22:09:15.000Z"
+    },
+    {
+      "id": "55707c9bf6ce9b88",
+      "title": "“I’m Embarrassed on Behalf of the Tech Industry”",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/embarrassed-by-tech/",
+      "pacer": "C",
+      "keywords": [
+        "tech industry",
+        "usability",
+        "UX design",
+        "digital divide",
+        "user experience"
+      ],
+      "published": "2026-10-04T19:00:00.000Z"
     },
     {
       "id": "6b1e27d58488542f",
@@ -111,6 +223,38 @@
         "troubleshooting"
       ],
       "published": "2026-10-04T02:30:00.000Z"
+    },
+    {
+      "id": "c2e1a6dc470cc334",
+      "title": "How to Solve: AAC Heavyweight M1 (Savage)",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/blog/2026/m9s/",
+      "pacer": "P",
+      "keywords": [
+        "FFXIV",
+        "AAC Heavyweight M1",
+        "Savage",
+        "raid guide",
+        "gaming"
+      ],
+      "published": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "662208581d77ab77",
+      "title": "The indicators of a quality website (somewhat silly)",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "url": "https://maurycyz.com/misc/quality/indicators.html",
+      "pacer": "C",
+      "keywords": [
+        "web development",
+        "internet history",
+        "subdomains",
+        "networking",
+        "web infrastructure"
+      ],
+      "published": "2026-10-04T00:00:00.000Z"
     },
     {
       "id": "345f1755705d282a",
@@ -481,22 +625,6 @@
       "published": "2026-10-01T11:00:00.000Z"
     },
     {
-      "id": "e48a7f736f56ad59",
-      "title": "Quoting Matthew Green",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "pacer": "C",
-      "keywords": [
-        "AI agents",
-        "sandboxing",
-        "cybersecurity",
-        "AI security",
-        "malware"
-      ],
-      "published": "2026-10-01T06:29:01.000Z"
-    },
-    {
       "id": "245a9ce608a8c159",
       "title": "Summary of reading: July - September 2026",
       "source": "Eli Bendersky's website",
@@ -511,22 +639,6 @@
         "Eli Bendersky"
       ],
       "published": "2026-10-01T00:05:00.000Z"
-    },
-    {
-      "id": "b28db22be2dee5fa",
-      "title": "He Built This City",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "pacer": "A",
-      "keywords": [
-        "museums",
-        "new-york",
-        "exhibition",
-        "model-making",
-        "architecture"
-      ],
-      "published": "2026-09-30T21:54:19.000Z"
     },
     {
       "id": "fbf3ea4440047ed6",
@@ -977,22 +1089,6 @@
       "published": "2026-09-27T16:05:10.000Z"
     },
     {
-      "id": "3c3f51c16df4f415",
-      "title": "Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/",
-      "pacer": "E",
-      "keywords": [
-        "Public Service Broadcasting",
-        "Race For Space",
-        "Gig Review",
-        "Live Music",
-        "Alexandra Palace"
-      ],
-      "published": "2026-09-27T11:34:08.000Z"
-    },
-    {
       "id": "ca4a005faa8fd6f4",
       "title": "Human-AI partnerships are for alignment, not capability",
       "source": "seangoedecke.com RSS feed",
@@ -1121,22 +1217,6 @@
       "published": "2026-09-25T19:00:00.000Z"
     },
     {
-      "id": "c3a7865dbf0ef3ce",
-      "title": "Pluralistic: Itch scratching (25 Sep 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/09/25/other-people/",
-      "pacer": "C",
-      "keywords": [
-        "Cory Doctorow",
-        "Care",
-        "Grooming",
-        "Human connection",
-        "Self-actualization"
-      ],
-      "published": "2026-09-25T18:56:20.000Z"
-    },
-    {
       "id": "18fc3bc3cfaabf93",
       "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
       "source": "Jeff Geerling",
@@ -1247,22 +1327,6 @@
         "Bare Metal"
       ],
       "published": "2026-09-23T22:00:00.000Z"
-    },
-    {
-      "id": "cccb18cc379a9a72",
-      "title": "Make Money to Make More Websites",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/",
-      "pacer": "C",
-      "keywords": [
-        "priorities",
-        "business strategy",
-        "creative work",
-        "John Gruber",
-        "Walt Disney"
-      ],
-      "published": "2026-09-23T19:00:00.000Z"
     },
     {
       "id": "15cd0e1830038ea0",
@@ -2577,22 +2641,6 @@
       "published": "2026-08-27T19:58:21.000Z"
     },
     {
-      "id": "a2f0cfaad5772fee",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/",
-      "pacer": "A",
-      "keywords": [
-        "programming",
-        "software design",
-        "satire",
-        "developer experience",
-        "technical debt"
-      ],
-      "published": "2026-08-27T00:00:00.000Z"
-    },
-    {
       "id": "0c1fd431f660cc89",
       "title": "Actually good advice",
       "source": "Experimental History",
@@ -2815,22 +2863,6 @@
         "AST"
       ],
       "published": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "cf340a2b28bbd7f9",
-      "title": "Better Batteries",
-      "source": "matklad",
-      "source_url": "https://matklad.github.io/",
-      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-      "pacer": "C",
-      "keywords": [
-        "programming languages",
-        "standard library",
-        "software architecture",
-        "Python",
-        "Rust"
-      ],
-      "published": "2026-08-20T00:00:00.000Z"
     },
     {
       "id": "35b019a4d87351a7",
@@ -3486,22 +3518,6 @@
       "published": "2026-07-18T19:00:00.000Z"
     },
     {
-      "id": "0392ac25abc72b60",
-      "title": "Regressive JPEGs:",
-      "source": "Maurycy's Blog",
-      "source_url": "https://maurycyz.com/",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "pacer": "C",
-      "keywords": [
-        "JPEG",
-        "Image Processing",
-        "Binary Format",
-        "Progressive Scan",
-        "DCT"
-      ],
-      "published": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "id": "d770897fbcf7c974",
       "title": "i've started drawing again",
       "source": "the website of jyn",
@@ -4138,16 +4154,6 @@
         "film accuracy"
       ],
       "published": "2026-05-28T00:00:00.000Z"
-    },
-    {
-      "id": "450ed0008edca5a8",
-      "title": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-05-27T19:22:35.000Z"
     },
     {
       "id": "13308236e1b38b4f",

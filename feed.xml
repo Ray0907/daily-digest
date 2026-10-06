@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 05 Oct 2026 00:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:57:55 GMT</lastBuildDate>
     
+    <item>
+      <title>How fast is Python 3.15?</title>
+      <link>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</link>
+      <guid>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</guid>
+      <pubDate>Mon, 05 Oct 2026 10:13:17 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article presents an informal performance benchmark comparing the upcoming Python 3.15 release against previous versions dating back to 3.10. It provides data-driven analysis to evaluate the speed improvements in the latest interpreter.</description>
+    </item>
+
+    <item>
+      <title>“I’m Embarrassed on Behalf of the Tech Industry”</title>
+      <link>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</link>
+      <guid>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author reflects on the persistent usability issues plaguing modern technology, expressing embarrassment for the industry's failure to serve non-technical users. Through personal anecdotes, the post highlights the frustration family and friends face when interacting with complex digital tools.</description>
+    </item>
+
+    <item>
+      <title>Benchmark In Milliseconds</title>
+      <link>https://matklad.github.io/2026/10/05/benchmark-milliseconds.html</link>
+      <guid>https://matklad.github.io/2026/10/05/benchmark-milliseconds.html</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>The author proposes a rule of thumb for micro-benchmarking: aiming for a runtime of approximately 300ms. This duration balances the need to avoid fixed-cost overheads with the benefit of being fast enough for rapid iteration and human-intuitive assessment.</description>
+    </item>
+
+    <item>
+      <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
+      <link>https://xeiaso.net/blog/2026/m9s/</link>
+      <guid>https://xeiaso.net/blog/2026/m9s/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This article provides a comprehensive guide on navigating the mechanics of the AAC Heavyweight M1 (Savage) raid in Final Fantasy XIV. It breaks down complex boss patterns into plain language to assist players in successfully clearing the encounter.</description>
+    </item>
+
+    <item>
+      <title>[RSS Club] Changes to the RSS and Atom feeds</title>
+      <link>https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:03 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author discusses recent technical issues with his RSS and Atom feeds caused by the misuse of CDATA blocks. He explains that these blocks were intended to include raw HTML, but caused compatibility problems with certain feed readers that handled escaping inconsistently.</description>
+    </item>
+
+    <item>
+      <title>The indicators of a quality website (somewhat silly)</title>
+      <link>https://maurycyz.com/misc/quality/indicators.html</link>
+      <guid>https://maurycyz.com/misc/quality/indicators.html</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This post humorously lists outdated web development practices as indicators of a 'quality' older website. It analyzes how modern infrastructure, such as reverse proxies and global standards, has rendered these older conventions obsolete.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Scrutinized (05 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/05/pervert-glasses/</link>
+      <guid>https://pluralistic.net/2026/10/05/pervert-glasses/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:58:11 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow critiques the rise of AI-enabled 'pervert glasses,' arguing that while they promise to aid those with face-blindness, their actual implementation facilitates invasive surveillance and shaming. The post also includes a curated collection of links covering digital rights, economic policies, and cultural observations.</description>
+    </item>
+
+    <item>
+      <title>Quoting Felix Rieseberg</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <guid>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</guid>
+      <pubDate>Mon, 05 Oct 2026 23:56:47 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has shifted its Cowork agent from local execution to a cloud-based infrastructure to improve performance and usability. By moving the virtual machine to the cloud, the system addresses issues related to battery drain, disk usage, and session continuity.</description>
+    </item>
+
+    <item>
+      <title>Qwen3.8 27B addition in words</title>
+      <link>https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</link>
+      <guid>https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</guid>
+      <pubDate>Sun, 04 Oct 2026 23:34:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post explores an experiment testing how accurately large language models like Qwen3.8 27B and GPT-4o can perform addition when asked to output the result as words. It features a heatmap analyzing model performance across varying digit lengths to highlight systematic accuracy failures.</description>
+    </item>
+
     <item>
       <title>Weekly Update 524: Live From Copenhagen</title>
       <link>https://www.troyhunt.com/weekly-update-524/</link>
@@ -823,87 +904,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This post emphasizes the professional and personal value of asking more questions to gain deeper understanding. It argues that curiosity and inquiry are essential tools for overcoming assumptions and driving growth.</description>
-    </item>
-
-    <item>
-      <title>So yeah it was written using AI</title>
-      <link>https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</link>
-      <guid>https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</guid>
-      <pubDate>Thu, 24 Sep 2026 15:45:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>The author addresses the growing trend of dismissing articles simply because they are AI-authored, despite his own strong opposition to Generative AI. He argues that the validity of an opinion piece should be judged on its merits rather than its origin, even when the underlying technology is problematic.</description>
-    </item>
-
-    <item>
-      <title>Shrinking a Fedora virtual disk</title>
-      <link>https://entropicthoughts.com/shrinking-fedora-virtual-disk</link>
-      <guid>https://entropicthoughts.com/shrinking-fedora-virtual-disk</guid>
-      <pubDate>Wed, 23 Sep 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author shares their experience running Fedora in a Hyper-V virtual machine on Windows to manage hardware complexities. They describe the technical limitations of this setup and express a desire to transition back to a bare-metal installation.</description>
-    </item>
-
-    <item>
-      <title>Package Manager Sandboxing</title>
-      <link>https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</link>
-      <guid>https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>Homebrew 7.0.0 has significantly enhanced its security architecture by implementing stricter sandboxing for installation phases, including offline install modes and file system restrictions. The project is transitioning from arbitrary Ruby code execution to declarative steps, while further refining Linux-based sandboxing using kernel-native tools like Landlock. These changes aim to limit accidental damage during package installation rather than making untrusted software inherently safe to run.</description>
-    </item>
-
-    <item>
-      <title>No, really, you need to pass all unhandled messages to DefWindowProc, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</guid>
-      <pubDate>Thu, 24 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post serves as a follow-up to a previous discussion, emphasizing the critical importance of passing unhandled Windows messages to the DefWindowProc function. It highlights a specific technical scenario to reinforce best practices in Windows API message handling.</description>
-    </item>
-
-    <item>
-      <title>When working with Win32 FILETIME, don’t forget that you have std::chrono now</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post highlights the benefits of using C++'s std::chrono library for handling Win32 FILETIME values. It encourages developers to leverage modern language features to simplify date and time calculations rather than performing manual arithmetic.</description>
-    </item>
-
-    <item>
-      <title>Why is the human body so crap except for the liver?</title>
-      <link>https://dynomight.net/liver/</link>
-      <guid>https://dynomight.net/liver/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://dynomight.net/">DYNOMIGHT</source>
-      <description>The author examines the apparent poor design of the human body, contrasting the fragile nature of organs like kidneys and gums with the remarkable regenerative ability of the liver. The post proposes a speculative theory on why humans evolved to be biologically limited in areas like tissue regeneration and reproductive longevity compared to other species.</description>
-    </item>
-
-    <item>
-      <title>Some thoughts on HTML's proposed previewsrc attribute</title>
-      <link>https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</guid>
-      <pubDate>Thu, 24 Sep 2026 11:34:54 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The article discusses Microsoft's proposal for a new 'previewsrc' attribute in HTML, aimed at standardizing how video previews are handled. It explores the importance of formalizing common web development practices into browser standards to improve consistency.</description>
-    </item>
-
-    <item>
-      <title>commit-rewriter 0.2</title>
-      <link>https://simonwillison.net/2026/Sep/24/commit-rewriter/</link>
-      <guid>https://simonwillison.net/2026/Sep/24/commit-rewriter/</guid>
-      <pubDate>Thu, 24 Sep 2026 20:06:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.2 of commit-rewriter, a tool for modifying Git commit history. The update introduces support for non-default branches via the new --branch flag.</description>
-    </item>
-
-    <item>
-      <title>datasette 1.0a41</title>
-      <link>https://simonwillison.net/2026/Sep/24/datasette/</link>
-      <guid>https://simonwillison.net/2026/Sep/24/datasette/</guid>
-      <pubDate>Thu, 24 Sep 2026 19:15:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette 1.0a41 introduces support for OpenTelemetry to improve observability and system monitoring. Additionally, the release refactors modal dialogs into a reusable Web Component for better integration with plugins.</description>
     </item>
   </channel>
 </rss>
