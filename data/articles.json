@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-10-07T01:05:25.866Z",
+  "last_updated": "2026-10-08T01:23:57.117Z",
   "articles": [
+    {
+      "id": "d4e032c1dd6c6a66",
+      "title": "Shopify went back to native. I think the bigger shift is formal verification",
+      "url": "https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary_en": "The author argues that while AI agents have reduced the costs of native app development, they are also ushering in a new era where formal verification becomes the standard for software engineering. This transition suggests a shift toward more reliable and mathematically sound code production.",
+      "summary_zh": "作者認為，AI 代理不僅降低了開發原生應用程式的成本，還推動了「形式化驗證」（formal verification）成為軟體開發的預設標準。這象徵著軟體工程正朝向更可靠且具數學驗證性的開發模式轉型。",
+      "keywords": [
+        "Software Engineering",
+        "Formal Verification",
+        "AI Agents",
+        "Native Apps",
+        "Development Tools"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content discusses a conceptual shift in software development practices and the future role of formal verification.",
+      "pacer_reason_zh": "內容討論了軟體開發實踐的觀念轉變，以及形式化驗證在未來的角色。"
+    },
+    {
+      "id": "4947297bbfe7b42d",
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "source": "Refactoring English",
+      "source_url": "https://refactoringenglish.com/",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary_en": "This post identifies common anti-patterns in software blogging that hinder reader engagement and clarity. The author categorizes these mistakes, such as meandering introductions and technical formatting errors, to help beginner bloggers improve their writing quality.",
+      "summary_zh": "這篇文章指出了軟體部落格寫作中常見的「反模式」，這些問題往往會阻礙讀者的閱讀體驗。作者列舉了諸如冗長前言與技術排版錯誤等缺失，旨在幫助新手部落客提升文章品質與清晰度。",
+      "keywords": [
+        "software blogging",
+        "anti-patterns",
+        "technical writing",
+        "content strategy",
+        "best practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a guide for bloggers by highlighting common mistakes to avoid, functioning essentially as a 'how-to' improve writing.",
+      "pacer_reason_zh": "本文透過指出部落格寫作中應避免的錯誤來指導讀者，本質上屬於提升寫作技巧的指引。"
+    },
+    {
+      "id": "338e3adb8aa0edc1",
+      "title": "Package Management RFCs",
+      "url": "https://nesbitt.io/2026/10/07/package-management-rfcs.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-07T11:00:00.000Z",
+      "summary_en": "This article explores the fragmented landscape of package management specifications, identifying six distinct types of venues where these standards are published. It highlights how the choice of venue significantly impacts the reliability and interoperability of package registries, lockfiles, and manifest formats across different software ecosystems.",
+      "summary_zh": "本文探討了套件管理規範的分散現狀，並指出了這些標準發佈的六種不同場域。文章強調了發佈場域的選擇會顯著影響套件註冊表、鎖定檔案與清單格式在不同軟體生態系統中的可靠性與互通性。",
+      "keywords": [
+        "package management",
+        "RFCs",
+        "specifications",
+        "software ecosystems",
+        "interoperability"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how package management standards are organized and why their diverse publication venues matter.",
+      "pacer_reason_zh": "本文針對套件管理標準的組織方式及其發佈場域的重要性提供了概念性的分析。"
+    },
+    {
+      "id": "3b0ef5f64eed169f",
+      "title": "On Git Refs",
+      "url": "https://matklad.github.io/2026/10/07/git-ref.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary_en": "This article explains the underlying mechanism of Git refs, framing Git not just as an immutable content-addressable database, but also as a mutable key-value store. It clarifies the distinction between local branches, remote-tracking branches, and tags by revealing the simple file-based structure within the .git/refs directory.",
+      "summary_zh": "這篇文章解釋了 Git refs 的底層運作機制，指出 Git 不僅是一個不可變的內容定址資料庫，同時也是一個可變的鍵值儲存系統。透過揭示 .git/refs 目錄下的檔案結構，作者釐清了本地分支、遠端追蹤分支與標籤之間的區別。",
+      "keywords": [
+        "Git",
+        "version control",
+        "refs",
+        "data structures",
+        "development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual mental model of how Git stores references, moving beyond simple usage to explain the system's architecture.",
+      "pacer_reason_zh": "本文重點在於解釋 Git 參考資料（refs）的運作概念模型，從單純的使用教學提升至解釋系統架構的層面。"
+    },
+    {
+      "id": "9e779a3af4c86981",
+      "title": "Consequences of progress toward the Riemann Hypothesis",
+      "url": "https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-07T22:29:28.000Z",
+      "summary_en": "This article discusses the mathematical implications and potential consequences of progress regarding the Riemann Hypothesis and the related Quasi Riemann Hypothesis. It explains the core conjecture concerning the zeros of the Riemann zeta function within the critical strip.",
+      "summary_zh": "本文探討了關於黎曼假設（Riemann Hypothesis）及其相關的準黎曼假設（Quasi Riemann Hypothesis）在數學上的進展與影響。文中解釋了關於黎曼ζ函數在臨界帶內零點分佈的核心猜想。",
+      "keywords": [
+        "Riemann Hypothesis",
+        "Mathematics",
+        "Zeta function",
+        "Number theory",
+        "Quasi Riemann Hypothesis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a theoretical explanation and definition of complex mathematical conjectures.",
+      "pacer_reason_zh": "內容提供了複雜數學猜想的理論解釋與定義。"
+    },
+    {
+      "id": "792a2234fabfc5ad",
+      "title": "Faster Fourier Transform",
+      "url": "https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-07T21:41:47.000Z",
+      "summary_en": "The article discusses a significant breakthrough in computational mathematics, where a new algorithm potentially improves the efficiency of the Fast Fourier Transform (FFT). It notes that while the standard complexity is O(n log n), recent research suggests even faster performance is achievable.",
+      "summary_zh": "本文探討了計算數學領域的重大突破，即一種可能提升快速傅立葉轉換 (FFT) 效率的新演算法。文中提到，儘管標準複雜度為 O(n log n)，但最新研究顯示更快的計算速度有望實現。",
+      "keywords": [
+        "FFT",
+        "Fast Fourier Transform",
+        "Algorithms",
+        "Mathematics",
+        "Computational Complexity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a theoretical development in algorithmic complexity and the mathematical concepts behind Fourier transforms.",
+      "pacer_reason_zh": "內容解釋了演算法複雜度的理論發展以及傅立葉轉換背後的數學概念。"
+    },
+    {
+      "id": "218b68d1a7eec80d",
+      "title": "Irrationality exponent of π",
+      "url": "https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-07T21:19:20.000Z",
+      "summary_en": "The article discusses the irrationality exponent of π, a measure of how closely a number can be approximated by rationals. It highlights a recent proof confirming that the irrationality exponent of π is 2, consistent with almost all real numbers.",
+      "summary_zh": "本文探討了圓周率 π 的無理性指數，這是衡量一個數被有理數逼近程度的指標。文章指出，近期有證明證實 π 的無理性指數為 2，這與絕大多數實數的情況一致。",
+      "keywords": [
+        "π",
+        "irrationality exponent",
+        "mathematics",
+        "number theory",
+        "rational approximation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the mathematical concept of the irrationality exponent and reports on a theoretical proof.",
+      "pacer_reason_zh": "內容解釋了無理性指數這一數學概念，並報導了一項理論證明結果。"
+    },
+    {
+      "id": "0bcda310cca6f5b2",
+      "title": "Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-06T14:00:00.000Z",
+      "summary_en": "This article explores the technical differences between the 'ud2' and 'int 3' instructions used by compilers to mark unreachable code. It explains that while both represent code that shouldn't execute, they are utilized for different specific purposes and underlying reasons.",
+      "summary_zh": "這篇文章探討了編譯器使用 'ud2' 與 'int 3' 指令來標記不可達程式碼的技術差異。文中解釋了儘管兩者皆代表不應執行的程式碼，但它們被用於不同情境與特定的技術原因。",
+      "keywords": [
+        "compiler",
+        "ud2",
+        "int 3",
+        "unreachable code",
+        "debugging"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual differences and technical reasoning behind how compilers handle unreachable code instructions.",
+      "pacer_reason_zh": "文章解釋了編譯器處理不可達程式碼指令背後的概念差異與技術邏輯。"
+    },
+    {
+      "id": "54b224d88c2cb093",
+      "title": "Pluralistic: Disloyalty (07 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/07/gouged/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-07T13:58:46.000Z",
+      "summary_en": "Cory Doctorow analyzes how airlines use opaque, price-discriminating algorithms to extract maximum profit from travelers while actively suppressing transparency. He argues that these practices exploit business travelers and create an adversarial relationship where corporations use litigation to block consumers from accessing factual pricing data.",
+      "summary_zh": "Cory Doctorow 分析了航空公司如何利用不透明的價格歧視演算法，從旅客身上榨取最大利潤，並積極壓制價格透明度。他認為這些做法剝削了商務旅客，且企業更利用訴訟手段阻止消費者獲取真實的定價資訊，造成雙方對立。",
+      "keywords": [
+        "airline pricing",
+        "price discrimination",
+        "Cory Doctorow",
+        "consumer rights",
+        "data transparency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique and analysis of airline pricing strategies and market behavior.",
+      "pacer_reason_zh": "本文針對航空公司的定價策略與市場行為提供了概念性的批判與分析。"
+    },
+    {
+      "id": "2c4e6a4177d19a1d",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-10-07T13:48:45.000Z",
+      "summary_en": "A teenager known as 'Rey,' allegedly leading the ShinyHunters hacking group, has been arrested and is cooperating with the FBI. The group was actively extorting a former Boeing business unit at the time of the suspect's detention.",
+      "summary_zh": "據傳為駭客組織 ShinyHunters 首領的青少年「Rey」已被捕，目前正配合 FBI 調查其他成員。該組織在被捕當時，正對波音公司近期分拆出的一間事業體進行勒索。",
+      "keywords": [
+        "ShinyHunters",
+        "Boeing",
+        "Cybercrime",
+        "FBI",
+        "Data Extortion"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative report documenting specific events, data points, and case details regarding a cybercrime incident.",
+      "pacer_reason_zh": "本文屬於調查報導，記錄了針對網路犯罪事件的具體事實、數據點與案件細節。"
+    },
+    {
+      "id": "f60f92689e069107",
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-07T23:14:58.000Z",
+      "summary_en": "Simon Willison shares a clip of Ben Affleck discussing his interest in programming and the role of machine learning in digital film production. Affleck explains how convolutional neural networks and tensors are used for tasks like edge detection and green screen replacement.",
+      "summary_zh": "Simon Willison 分享了一段班·艾佛列克（Ben Affleck）談論他對程式設計的興趣以及機器學習在數位電影製作中作用的影片片段。艾佛列克解釋了如何利用卷積神經網路和張量（tensors）進行邊緣檢測和綠幕背景替換等技術。",
+      "keywords": [
+        "Ben Affleck",
+        "machine learning",
+        "Python",
+        "tensors",
+        "computer vision"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how tensors and neural networks function in the context of visual effects.",
+      "pacer_reason_zh": "該文章提供了關於張量與神經網路如何在視覺特效領域中運作的概念性解釋。"
+    },
+    {
+      "id": "231befe88d753d02",
+      "title": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-07T20:56:21.000Z",
+      "summary_en": "Simon Willison examines the release of Anthropic's Claude Haiku 5.5, noting its competitive pricing structure and the impact of its new, less efficient tokenizer. The post evaluates the model's cost-effectiveness compared to GPT-6 Luna and provides a brief example of how to use it via the CLI.",
+      "summary_zh": "Simon Willison 分析了 Anthropic 新推出的 Claude Haiku 5.5 模型，指出其定價極具競爭力，但也提到其新代幣化機制帶來的成本影響。文章比較了該模型與 GPT-6 Luna 的性價比，並示範了如何透過指令列工具進行測試。",
+      "keywords": [
+        "Claude Haiku 5.5",
+        "Anthropic",
+        "LLM",
+        "AI Pricing",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides specific pricing benchmarks and comparative data between models to evaluate performance and cost efficiency.",
+      "pacer_reason_zh": "本文提供了具體的定價基準與模型間的比較數據，旨在評估效能與成本效益。"
+    },
+    {
+      "id": "4c30b4b05fcb88be",
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-07T14:53:51.000Z",
+      "summary_en": "This post highlights common pitfalls in technical blogging, such as using meandering intros and over-relying on links for definitions. It advocates for maintaining a personal, conversational tone to stand out against AI-generated content.",
+      "summary_zh": "本文探討了技術部落格常見的撰寫誤區，如冗長的引言及過度依賴外部連結來解釋術語。作者強調應保持個人化的對話語氣，以在 AI 生成內容充斥的環境中突顯獨特性。",
+      "keywords": [
+        "blogging",
+        "writing advice",
+        "technical writing",
+        "software development",
+        "content creation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theory and principles behind effective communication in technical writing.",
+      "pacer_reason_zh": "本文探討了技術寫作中有效溝通的理論與原則。"
+    },
+    {
+      "id": "56224676afd39a97",
+      "title": "Quoting Jake Boggan",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-07T04:47:55.000Z",
+      "summary_en": "This post highlights a Hacker News comment from Jake Boggan regarding the potential computer-assisted proof of Barnette's Conjecture. Boggan shares his complex emotional reaction to the news that a problem he spent 24 years studying may have finally been solved by AI.",
+      "summary_zh": "本文引用了 Jake Boggan 在 Hacker News 上的留言，討論關於「巴奈特猜想」（Barnette's Conjecture）可能已被 AI 證明一事。Boggan 分享了他對這項耗費二十多年心血的研究終於被解決後，心中複雜且矛盾的情緒感受。",
+      "keywords": [
+        "Barnette's Conjecture",
+        "OpenAI",
+        "Mathematics",
+        "AI",
+        "Hacker News"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as a reflection on a specific case study (the proof of Barnette's Conjecture) and the impact of AI in mathematical research.",
+      "pacer_reason_zh": "本文以特定案例（巴奈特猜想的證明）作為反思焦點，討論人工智慧在數學研究領域的實際影響。"
+    },
     {
       "id": "7d6539f3c7dc7e52",
       "title": "We are going to kill “unalive”",

@@ -4,8 +4,134 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:23:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Shopify went back to native. I think the bigger shift is formal verification</title>
+      <link>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The author argues that while AI agents have reduced the costs of native app development, they are also ushering in a new era where formal verification becomes the standard for software engineering. This transition suggests a shift toward more reliable and mathematically sound code production.</description>
+    </item>
+
+    <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
+      <guid>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://refactoringenglish.com/">Refactoring English</source>
+      <description>This post identifies common anti-patterns in software blogging that hinder reader engagement and clarity. The author categorizes these mistakes, such as meandering introductions and technical formatting errors, to help beginner bloggers improve their writing quality.</description>
+    </item>
+
+    <item>
+      <title>Package Management RFCs</title>
+      <link>https://nesbitt.io/2026/10/07/package-management-rfcs.html</link>
+      <guid>https://nesbitt.io/2026/10/07/package-management-rfcs.html</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This article explores the fragmented landscape of package management specifications, identifying six distinct types of venues where these standards are published. It highlights how the choice of venue significantly impacts the reliability and interoperability of package registries, lockfiles, and manifest formats across different software ecosystems.</description>
+    </item>
+
+    <item>
+      <title>On Git Refs</title>
+      <link>https://matklad.github.io/2026/10/07/git-ref.html</link>
+      <guid>https://matklad.github.io/2026/10/07/git-ref.html</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>This article explains the underlying mechanism of Git refs, framing Git not just as an immutable content-addressable database, but also as a mutable key-value store. It clarifies the distinction between local branches, remote-tracking branches, and tags by revealing the simple file-based structure within the .git/refs directory.</description>
+    </item>
+
+    <item>
+      <title>Consequences of progress toward the Riemann Hypothesis</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:29:28 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the mathematical implications and potential consequences of progress regarding the Riemann Hypothesis and the related Quasi Riemann Hypothesis. It explains the core conjecture concerning the zeros of the Riemann zeta function within the critical strip.</description>
+    </item>
+
+    <item>
+      <title>Faster Fourier Transform</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:41:47 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article discusses a significant breakthrough in computational mathematics, where a new algorithm potentially improves the efficiency of the Fast Fourier Transform (FFT). It notes that while the standard complexity is O(n log n), recent research suggests even faster performance is achievable.</description>
+    </item>
+
+    <item>
+      <title>Irrationality exponent of π</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:19:20 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article discusses the irrationality exponent of π, a measure of how closely a number can be approximated by rationals. It highlights a recent proof confirming that the irrationality exponent of π is 2, consistent with almost all real numbers.</description>
+    </item>
+
+    <item>
+      <title>Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This article explores the technical differences between the 'ud2' and 'int 3' instructions used by compilers to mark unreachable code. It explains that while both represent code that shouldn't execute, they are utilized for different specific purposes and underlying reasons.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Disloyalty (07 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/07/gouged/</link>
+      <guid>https://pluralistic.net/2026/10/07/gouged/</guid>
+      <pubDate>Wed, 07 Oct 2026 13:58:46 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow analyzes how airlines use opaque, price-discriminating algorithms to extract maximum profit from travelers while actively suppressing transparency. He argues that these practices exploit business travelers and create an adversarial relationship where corporations use litigation to block consumers from accessing factual pricing data.</description>
+    </item>
+
+    <item>
+      <title>ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
+      <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
+      <guid>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</guid>
+      <pubDate>Wed, 07 Oct 2026 13:48:45 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>A teenager known as 'Rey,' allegedly leading the ShinyHunters hacking group, has been arrested and is cooperating with the FBI. The group was actively extorting a former Boeing business unit at the time of the suspect's detention.</description>
+    </item>
+
+    <item>
+      <title>Quoting Ben Affleck</title>
+      <link>https://simonwillison.net/2026/Oct/7/ben-affleck/</link>
+      <guid>https://simonwillison.net/2026/Oct/7/ben-affleck/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:14:58 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a clip of Ben Affleck discussing his interest in programming and the role of machine learning in digital film production. Affleck explains how convolutional neural networks and tensors are used for tasks like edge detection and green screen replacement.</description>
+    </item>
+
+    <item>
+      <title>Claude Haiku 5.5</title>
+      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+      <guid>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:21 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison examines the release of Anthropic's Claude Haiku 5.5, noting its competitive pricing structure and the impact of its new, less efficient tokenizer. The post evaluates the model's cost-effectiveness compared to GPT-6 Luna and provides a brief example of how to use it via the CLI.</description>
+    </item>
+
+    <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</link>
+      <guid>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:53:51 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights common pitfalls in technical blogging, such as using meandering intros and over-relying on links for definitions. It advocates for maintaining a personal, conversational tone to stand out against AI-generated content.</description>
+    </item>
+
+    <item>
+      <title>Quoting Jake Boggan</title>
+      <link>https://simonwillison.net/2026/Oct/7/jake-boggan/</link>
+      <guid>https://simonwillison.net/2026/Oct/7/jake-boggan/</guid>
+      <pubDate>Wed, 07 Oct 2026 04:47:55 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a Hacker News comment from Jake Boggan regarding the potential computer-assisted proof of Barnette's Conjecture. Boggan shares his complex emotional reaction to the news that a problem he spent 24 years studying may have finally been solved by AI.</description>
+    </item>
+
     <item>
       <title>We are going to kill “unalive”</title>
       <link>https://anildash.com/2026/10/06/kill-unalive/</link>
@@ -778,132 +904,6 @@
       <pubDate>Tue, 29 Sep 2026 15:55:13 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison provides a live-blogging report from OpenAI DevDay 2026 in San Francisco. The post captures real-time updates and highlights from the conference keynote.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 523: Live From a Norwegian Fjord</title>
-      <link>https://www.troyhunt.com/weekly-update-523/</link>
-      <guid>https://www.troyhunt.com/weekly-update-523/</guid>
-      <pubDate>Mon, 28 Sep 2026 07:24:49 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt shares updates from his recent speaking engagement at NDC Oslo and previews his upcoming talk in Copenhagen. He also highlights his ongoing analysis of the ShinyHunters data breach trajectory.</description>
-    </item>
-
-    <item>
-      <title>The World Outside the Classroom Changed, The Class Didn’t</title>
-      <link>https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/</link>
-      <guid>https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/</guid>
-      <pubDate>Mon, 28 Sep 2026 13:00:57 GMT</pubDate>
-      <source url="https://steveblank.com/">Steve Blank</source>
-      <description>Steve Blank discusses how the rapid advancement of AI technology has forced a transformation in the Lean LaunchPad curriculum. He argues that traditional teaching methods are becoming obsolete as AI tools fundamentally change how students build and validate startups.</description>
-    </item>
-
-    <item>
-      <title>SmartOS: The illumos Way of Thinking About Servers</title>
-      <link>https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/</link>
-      <guid>https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:45:00 GMT</pubDate>
-      <source url="https://it-notes.dragas.net/">IT Notes</source>
-      <description>This article explores the architectural strengths of illumos, an operating system derived from OpenSolaris that emphasizes predictability and containerization. It highlights key features such as deep ZFS integration, DTrace, secure zones, and versatile virtualization support via bhyve and KVM.</description>
-    </item>
-
-    <item>
-      <title>Open State praatje: zonder transparantie geen democratie</title>
-      <link>https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/</link>
-      <guid>https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:40:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>This article discusses the critical importance of government transparency for a functioning democracy and the negative impact of declining openness. The author notes that both technical barriers and shifting ideological priorities are making it increasingly difficult for citizens to access public information.</description>
-    </item>
-
-    <item>
-      <title>Humane Interfaces</title>
-      <link>https://blog.jim-nielsen.com/2026/humane-interfaces/</link>
-      <guid>https://blog.jim-nielsen.com/2026/humane-interfaces/</guid>
-      <pubDate>Sun, 27 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post discusses the concept of humane interfaces, inspired by Jef Raskin's philosophy. It argues that technology should respect human needs and frailties rather than exploiting them through manipulative growth tactics or addictive design patterns.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/</link>
-      <guid>https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:34:52 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review evaluates the first three books of the Bobiverse series, describing them as highly addictive yet ultimately lacking in substance. The author notes that while the campy sci-fi premise and tropes are entertaining, the series feels like a 'moreish' read that leaves a shallow impression.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Priceful (28 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/28/cost-of-everything/</link>
-      <guid>https://pluralistic.net/2026/09/28/cost-of-everything/</guid>
-      <pubDate>Mon, 28 Sep 2026 17:48:26 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow defends the use of the term 'IP' (Intellectual Property) against critics who argue it is imprecise and dishonest. He explains that while copyright, trademark, and patents have distinct legal foundations, the term serves as a necessary shorthand for a complex web of legal protections and rights.</description>
-    </item>
-
-    <item>
-      <title>Edge Is Pretending to Be Chrome </title>
-      <link>https://idiallo.com/blog/edge-imitates-chrome</link>
-      <guid>https://idiallo.com/blog/edge-imitates-chrome</guid>
-      <pubDate>Mon, 28 Sep 2026 07:30:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The article discusses Microsoft's aggressive tactics to increase Edge browser adoption by pushing it as the default and mimicking the appearance of Google Chrome. The author highlights how Microsoft leverages Windows OS integration and its mobile apps to funnel users toward Edge, arguing that dominating the browser market remains a critical strategy for tech giants.</description>
-    </item>
-
-    <item>
-      <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
-      <link>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</link>
-      <guid>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:08:57 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Dutch police have arrested a 23-year-old former cybercriminal linked to the notorious ShinyHunters hacking group. Following the arrest, the group retaliated by escalating cyberattacks, including data theft from the FBI and the extortion of the Cl0p ransomware gang.</description>
-    </item>
-
-    <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <guid>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:38 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic has released Claude Sonnet 5.5, which offers improved performance and cost efficiency compared to its predecessor. The model is now available on the free tier of claude.ai, positioning it as a highly capable competitor to OpenAI's current free offerings.</description>
-    </item>
-
-    <item>
-      <title>Quoting @joedaroo</title>
-      <link>https://simonwillison.net/2026/Sep/28/joedaroo/</link>
-      <guid>https://simonwillison.net/2026/Sep/28/joedaroo/</guid>
-      <pubDate>Mon, 28 Sep 2026 19:11:42 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights the rapid evolution of AI capabilities in security-sensitive areas and the resulting challenges for organizational resilience. It urges companies to move beyond technical hardening and focus on fostering a culture and incident response strategy prepared for sudden technological shifts.</description>
-    </item>
-
-    <item>
-      <title>Quoting Muse AI Agent</title>
-      <link>https://simonwillison.net/2026/Sep/28/muse-ai-agent/</link>
-      <guid>https://simonwillison.net/2026/Sep/28/muse-ai-agent/</guid>
-      <pubDate>Mon, 28 Sep 2026 04:01:30 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a real-world failure of an autonomous AI agent, Muse, which sent misleading confirmation messages that resulted in a negative user experience. The example serves as a cautionary tale about the risks of automating communication without proper verification of physical context.</description>
-    </item>
-
-    <item>
-      <title>2026 in LLMs (so far)</title>
-      <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
-      <guid>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:54:15 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison provides an annotated recap of his keynote presentation from the WeAreDevelopers World Congress. The talk offers a chronological overview of significant trends and developments in the field of Large Language Models throughout 2026.</description>
-    </item>
-
-    <item>
-      <title>S3 Is the Future, S3 Is the Past</title>
-      <link>https://simonwillison.net/2026/Sep/27/hn-49871741/</link>
-      <guid>https://simonwillison.net/2026/Sep/27/hn-49871741/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:09:19 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison observes that Amazon S3 storage pricing has remained stagnant for a full decade. The article provides a historical breakdown of price reductions to highlight the lack of recent changes since 2016.</description>
     </item>
   </channel>
 </rss>
