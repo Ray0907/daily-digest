@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:32:00 GMT</lastBuildDate>
     
+    <item>
+      <title>Monte-Carlo simulations</title>
+      <link>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</link>
+      <guid>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</guid>
+      <pubDate>Thu, 08 Oct 2026 02:34:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article introduces Monte Carlo simulations as a method for solving complex problems using randomness and the Law of Large Numbers. The author provides a practical demonstration by estimating the value of pi using a dart-throwing simulation and examines the computational trade-offs involved.</description>
+    </item>
+
+    <item>
+      <title>“Getting off the Modernization Treadmill”</title>
+      <link>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</link>
+      <guid>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</guid>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>This article explores the 'modernization treadmill' in software development, arguing that modern web practices have inadvertently made digital services less usable than traditional physical processes. It suggests that returning to the core fundamentals of HTML, CSS, and minimal JavaScript can restore the web's original values of accessibility and long-term viability.</description>
+    </item>
+
+    <item>
+      <title>iFlac: Sync your FLAC files to your iPhone from Linux</title>
+      <link>https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</link>
+      <guid>https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</guid>
+      <pubDate>Thu, 08 Oct 2026 18:33:00 GMT</pubDate>
+      <source url="https://jayd.ml/">Jayden’s Blog</source>
+      <description>iFlac is a tool for Linux users that enables the syncing of FLAC files directly to an iPhone without requiring iTunes or Windows. It works by pairing the device and injecting audio data directly into the Apple Music SQLite database.</description>
+    </item>
+
+    <item>
+      <title>Get Player Stats From Your Minecraft Server Logs</title>
+      <link>https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</link>
+      <guid>https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</guid>
+      <pubDate>Thu, 08 Oct 2026 18:26:00 GMT</pubDate>
+      <source url="https://jayd.ml/">Jayden’s Blog</source>
+      <description>This post introduces a Go-based application designed to parse long-term Minecraft server logs into an interactive HTML report. It tracks detailed player statistics, such as play time, social interactions, and session history, using a SQLite database for incremental daily updates.</description>
+    </item>
+
+    <item>
+      <title>Swemak: Colemak for Swedish</title>
+      <link>https://entropicthoughts.com/swemak</link>
+      <guid>https://entropicthoughts.com/swemak</guid>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The article introduces 'Swemak,' a modified version of the Colemak keyboard layout tailored for the Swedish language. By strategically relocating only five keys, the layout incorporates the Swedish characters Å, Ä, and Ö while maintaining Colemak's ergonomic efficiency.</description>
+    </item>
+
+    <item>
+      <title>Let’s Deconstruct Photoshop</title>
+      <link>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</link>
+      <guid>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</guid>
+      <pubDate>Thu, 08 Oct 2026 16:54:14 GMT</pubDate>
+      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
+      <description>The article explores the growing frustration among creatives with Adobe's subscription model, pricing, and failure to support specific platforms like Linux. It highlights the emergence of 'ArtCraft,' an AI-driven, community-led alternative designed to bypass these corporate constraints and restore power to users.</description>
+    </item>
+
+    <item>
+      <title>The Rise and Fall of the Plasma Screen</title>
+      <link>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</link>
+      <guid>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</guid>
+      <pubDate>Thu, 08 Oct 2026 12:02:36 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores the origins of plasma display technology, tracing its development back to the PLATO computer-aided instruction system at the University of Illinois in the 1960s. It provides historical context on how these early networked terminals laid the groundwork for future display innovations.</description>
+    </item>
+
+    <item>
+      <title>Privacy policies and modal logic</title>
+      <link>https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</guid>
+      <pubDate>Thu, 08 Oct 2026 13:43:02 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the intersection of data privacy and modal logic, highlighting research that applies formal logic to privacy reasoning. It specifically references the work of Helen Nissenbaum to explore how mathematical frameworks can formalize privacy policies.</description>
+    </item>
+
+    <item>
+      <title>How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post clarifies that the x86 opcodes ud0 and ud1 were never officially defined in documentation, not even as reserved or undefined instructions. It explains the technical reality behind their apparent existence and lack of specified behavior.</description>
+    </item>
+
+    <item>
+      <title>Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:34:40 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author, typically a budget theatergoer, reflects on their philosophy of valuing show quality over seat position. They discuss occasionally splurging on full-price tickets, using a review of 'Hay Fever' at Wyndham's Theatre as a jumping-off point.</description>
+    </item>
+
+    <item>
+      <title>ttok 0.4</title>
+      <link>https://simonwillison.net/2026/Oct/8/ttok/</link>
+      <guid>https://simonwillison.net/2026/Oct/8/ttok/</guid>
+      <pubDate>Thu, 08 Oct 2026 23:34:28 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.4 of ttok, a CLI tool for counting tokens using OpenAI's tiktoken library. This update includes bug fixes, improved CI integration, and a new command to list available models.</description>
+    </item>
+
+    <item>
+      <title>Quoting Carson Gross</title>
+      <link>https://simonwillison.net/2026/Oct/8/carson-gross/</link>
+      <guid>https://simonwillison.net/2026/Oct/8/carson-gross/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:05:44 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Carson Gross argues that the core of programming lies in problem-solving and managing complexity. He suggests that these fundamental skills will remain essential for a viable career, even as AI tools continue to evolve.</description>
+    </item>
+
     <item>
       <title>Shopify went back to native. I think the bigger shift is formal verification</title>
       <link>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -796,114 +904,6 @@
       <pubDate>Tue, 29 Sep 2026 16:45:27 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison introduces Photo Scrubber, a web-based tool designed to automatically detect and blur faces in photos locally. The application leverages Google's MediaPipe and the BlazeFace model compiled to WebAssembly to ensure privacy by processing images entirely in the browser.</description>
-    </item>
-
-    <item>
-      <title>The Facebook Fake-out</title>
-      <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
-      <guid>https://anildash.com/2026/09/29/facebook-fake-out/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>Anil Dash outlines the repetitive 'fake-out' cycle Meta uses to launch controversial products, retreat under public pressure, and eventually relaunch them once scrutiny fades. This analysis exposes the company's strategy of normalizing invasive technologies by exploiting short public attention spans and institutional inaction.</description>
-    </item>
-
-    <item>
-      <title>The Strangest Idea in the World</title>
-      <link>https://www.experimental-history.com/p/the-strangest-idea-in-the-world</link>
-      <guid>https://www.experimental-history.com/p/the-strangest-idea-in-the-world</guid>
-      <pubDate>Tue, 29 Sep 2026 14:29:26 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>The article explores a counterintuitive historical or philosophical concept, suggesting a transformative perspective on human behavior. It frames this 'strangest idea' as a catalyst for rethinking how we interpret social structures.</description>
-    </item>
-
-    <item>
-      <title>The AI margin collapse is gathering pace</title>
-      <link>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The article discusses the rapid decline in AI model pricing across major frontier labs like OpenAI and Anthropic. It highlights the competitive pressure driving costs down, particularly in the context of high-performance models like DeepSeek.</description>
-    </item>
-
-    <item>
-      <title>VLM Enhanced Metadata For My Icon Galleries</title>
-      <link>https://blog.jim-nielsen.com/2026/icon-galleries-vlm/</link>
-      <guid>https://blog.jim-nielsen.com/2026/icon-galleries-vlm/</guid>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author explores using Vision Language Models (VLMs) like CLIP to automatically generate metadata for an icon gallery, enabling semantic search and similarity features. By converting icons into embeddings, the project aims to replace manual tagging with automated, intelligent image classification.</description>
-    </item>
-
-    <item>
-      <title>Post Capitalism</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</guid>
-      <pubDate>Mon, 28 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The article critiques the current state of capitalism, arguing that the system is unsustainable and increasingly detached from tangible value. It posits that AI-driven post-scarcity could either liberate humanity from dependency or be withheld by those protecting existing power structures.</description>
-    </item>
-
-    <item>
-      <title>Donating to open source</title>
-      <link>https://entropicthoughts.com/open-source-donation</link>
-      <guid>https://entropicthoughts.com/open-source-donation</guid>
-      <pubDate>Mon, 28 Sep 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author shares their personal commitment to financially support open source projects using their discretionary budget. They identify a specific initial list of recipients, including Magit, the Perl 5 Core Maintenance Fund, and XMonad.</description>
-    </item>
-
-    <item>
-      <title>Deser: Rethinking Rust Serialization</title>
-      <link>https://lucumr.pocoo.org/2026/9/29/deser/</link>
-      <guid>https://lucumr.pocoo.org/2026/9/29/deser/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The author discusses the limitations of the Rust serialization library Serde, highlighting complex edge cases where its architecture fails. By analyzing specific issues like arbitrary precision numbers, map flattening, and adapter composition, the post proposes the need for a rethought approach to serialization in Rust.</description>
-    </item>
-
-    <item>
-      <title>C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post clarifies a core C++ behavior regarding function-local static variables. It emphasizes that these variables are initialized only upon the first execution of their enclosing function, regardless of how many times the function is subsequently called.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Lindsay Owens's &quot;Gouged&quot; (29 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/29/algorithmic-wage-theft/</link>
-      <guid>https://pluralistic.net/2026/09/29/algorithmic-wage-theft/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:40:37 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post highlights Lindsay Owens's new book, 'Gouged,' which explores how corporations use surveillance data and algorithmic pricing to exploit consumers and suppress wages. It also serves as a collection of links and updates regarding the author's ongoing advocacy against corporate monopolization and systemic economic abuse.</description>
-    </item>
-
-    <item>
-      <title>Quoting Anthropic Frontier Red Team</title>
-      <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
-      <guid>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</guid>
-      <pubDate>Tue, 29 Sep 2026 22:20:28 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights Anthropic's research on the growing cybersecurity capabilities of large language models. It notes that newer models like GLM-5.3 and Claude Mythos Preview have reached a significant threshold by successfully performing binary exploitation tasks that previous versions could not.</description>
-    </item>
-
-    <item>
-      <title>GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</title>
-      <link>https://simonwillison.net/2026/Sep/29/hn-49898129/</link>
-      <guid>https://simonwillison.net/2026/Sep/29/hn-49898129/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:27:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post provides a brief commentary and links to benchmark data for OpenAI's GPT-6.1 Sol model. The author notes that the model's visual output, tested via 'pelican' image generation benchmarks, remains consistent with the existing GPT-6 family.</description>
-    </item>
-
-    <item>
-      <title>OpenAI DevDay 2026 live blog</title>
-      <link>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</link>
-      <guid>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:55:13 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison provides a live-blogging report from OpenAI DevDay 2026 in San Francisco. The post captures real-time updates and highlights from the conference keynote.</description>
     </item>
   </channel>
 </rss>

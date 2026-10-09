@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-10-08T01:23:57.117Z",
+  "last_updated": "2026-10-09T01:32:00.414Z",
   "articles": [
+    {
+      "id": "b1050dd1122a429a",
+      "title": "Monte-Carlo simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-10-08T02:34:00.000Z",
+      "summary_en": "This article introduces Monte Carlo simulations as a method for solving complex problems using randomness and the Law of Large Numbers. The author provides a practical demonstration by estimating the value of pi using a dart-throwing simulation and examines the computational trade-offs involved.",
+      "summary_zh": "本文介紹了蒙地卡羅模擬法，說明如何利用隨機性和大數法則來解決科學與工程問題。作者透過「投擲飛鏢估算圓周率」的經典範例，展示了其實作方式並討論了提高估算精確度所需的計算量。",
+      "keywords": [
+        "Monte Carlo",
+        "Simulation",
+        "Pi",
+        "Law of Large Numbers",
+        "Algorithm"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains the technique through a practical, step-by-step programming example of how to implement a Monte Carlo simulation.",
+      "pacer_reason_zh": "本文透過具體的程式實作範例，循序漸進地說明如何執行蒙地卡羅模擬，屬於教學導向內容。"
+    },
+    {
+      "id": "243ce820fd5f83b0",
+      "title": "“Getting off the Modernization Treadmill”",
+      "url": "https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-08T19:00:00.000Z",
+      "summary_en": "This article explores the 'modernization treadmill' in software development, arguing that modern web practices have inadvertently made digital services less usable than traditional physical processes. It suggests that returning to the core fundamentals of HTML, CSS, and minimal JavaScript can restore the web's original values of accessibility and long-term viability.",
+      "summary_zh": "本文探討了軟體開發中的「現代化跑步機」現象，指出當代網頁開發模式反而使數位服務比傳統實體作業更難使用。作者主張回歸 HTML、CSS 和輕量 JavaScript 的核心基礎，才能找回網頁原本應具備的易用性與長期穩定性。",
+      "keywords": [
+        "web development",
+        "modernization",
+        "accessibility",
+        "web standards",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of modern software development trends and discusses the ideological shift in how web technologies are applied.",
+      "pacer_reason_zh": "本文針對當代軟體開發趨勢提出觀念性的批判，並探討了網頁技術應用背後的哲學轉變。"
+    },
+    {
+      "id": "82f5a22b6e45ec58",
+      "title": "iFlac: Sync your FLAC files to your iPhone from Linux",
+      "url": "https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html",
+      "source": "Jayden’s Blog",
+      "source_url": "https://jayd.ml/",
+      "published": "2026-10-08T18:33:00.000Z",
+      "summary_en": "iFlac is a tool for Linux users that enables the syncing of FLAC files directly to an iPhone without requiring iTunes or Windows. It works by pairing the device and injecting audio data directly into the Apple Music SQLite database.",
+      "summary_zh": "iFlac 是一款讓 Linux 用戶無需透過 iTunes 或 Windows 即可將 FLAC 音訊檔案同步至 iPhone 的工具。該程式透過配對裝置並將音訊資料直接寫入 Apple Music 的 SQLite 資料庫來運作。",
+      "keywords": [
+        "iFlac",
+        "Linux",
+        "iPhone",
+        "FLAC",
+        "Sync"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article presents a technical utility and explains how to use it to achieve a specific task (syncing files).",
+      "pacer_reason_zh": "本文介紹了一款技術工具，並說明如何使用它來達成特定任務（同步檔案）。"
+    },
+    {
+      "id": "325fdc13f73ad19b",
+      "title": "Get Player Stats From Your Minecraft Server Logs",
+      "url": "https://jayd.ml/2026/10/08/minecraft-log-analyzer.html",
+      "source": "Jayden’s Blog",
+      "source_url": "https://jayd.ml/",
+      "published": "2026-10-08T18:26:00.000Z",
+      "summary_en": "This post introduces a Go-based application designed to parse long-term Minecraft server logs into an interactive HTML report. It tracks detailed player statistics, such as play time, social interactions, and session history, using a SQLite database for incremental daily updates.",
+      "summary_zh": "這篇文章介紹了一個基於 Go 語言的應用程式，用於將長期的 Minecraft 伺服器日誌解析為互動式 HTML 報告。它利用 SQLite 資料庫進行每日增量更新，並追蹤詳細的玩家統計數據，例如遊戲時間、社交互動與連線紀錄。",
+      "keywords": [
+        "Minecraft",
+        "Go",
+        "server logs",
+        "data analysis",
+        "SQL"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a technical guide and tool release for parsing server logs, providing both the code and the utility to implement the reporting system.",
+      "pacer_reason_zh": "本文屬於技術指南與工具發布，說明如何解析伺服器日誌，並提供了實作此報告系統所需的程式碼與工具。"
+    },
+    {
+      "id": "e6b4b2b510cb634c",
+      "title": "Swemak: Colemak for Swedish",
+      "url": "https://entropicthoughts.com/swemak",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-10-07T22:00:00.000Z",
+      "summary_en": "The article introduces 'Swemak,' a modified version of the Colemak keyboard layout tailored for the Swedish language. By strategically relocating only five keys, the layout incorporates the Swedish characters Å, Ä, and Ö while maintaining Colemak's ergonomic efficiency.",
+      "summary_zh": "本文介紹了專為瑞典語設計的 Colemak 鍵盤佈局變體「Swemak」。透過巧妙調整五個按鍵的位置，該佈局在保留 Colemak 人體工學優勢的同時，成功融入了瑞典語字母 Å、Ä 和 Ö。",
+      "keywords": [
+        "Swemak",
+        "Colemak",
+        "keyboard layout",
+        "Swedish",
+        "ergonomics"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide or modification proposal for a keyboard layout, explaining how to implement specific changes.",
+      "pacer_reason_zh": "本文作為鍵盤佈局的修改提案與操作指南，說明了如何實施特定的鍵位調整。"
+    },
+    {
+      "id": "42e089e25288eed2",
+      "title": "Let’s Deconstruct Photoshop",
+      "url": "https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-10-08T16:54:14.000Z",
+      "summary_en": "The article explores the growing frustration among creatives with Adobe's subscription model, pricing, and failure to support specific platforms like Linux. It highlights the emergence of 'ArtCraft,' an AI-driven, community-led alternative designed to bypass these corporate constraints and restore power to users.",
+      "summary_zh": "本文探討了創意工作者對 Adobe 訂閱制、定價策略及其在 Linux 支援不足等問題上日益增長的不滿。文中介紹了名為 ArtCraft 的開源替代專案，這項由 AI 驅動的社群計畫旨在繞過 Adobe 的商業限制，為使用者提供更靈活的創作選擇。",
+      "keywords": [
+        "Adobe",
+        "Creative Cloud",
+        "ArtCraft",
+        "Open Source",
+        "Software Design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually analyzes the shifting relationship between software companies and users, discussing the philosophy behind building alternatives to dominant platforms.",
+      "pacer_reason_zh": "本文從概念層面探討了軟體公司與用戶之間變化的關係，並討論了開發主流軟體替代方案背後的哲學與動機。"
+    },
+    {
+      "id": "7a51b071cbf1bcfe",
+      "title": "The Rise and Fall of the Plasma Screen",
+      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-08T12:02:36.000Z",
+      "summary_en": "This article explores the origins of plasma display technology, tracing its development back to the PLATO computer-aided instruction system at the University of Illinois in the 1960s. It provides historical context on how these early networked terminals laid the groundwork for future display innovations.",
+      "summary_zh": "本文探討了電漿顯示器技術的起源，回溯至 1960 年代伊利諾大學 PLATO 電腦輔助教學系統的發展。文章提供了這些早期網路終端如何為後續顯示技術創新奠定基礎的歷史背景。",
+      "keywords": [
+        "Plasma Screen",
+        "PLATO",
+        "Display Technology",
+        "History of Technology",
+        "University of Illinois"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the historical conceptualization and origins of a specific technology rather than providing a guide or raw data.",
+      "pacer_reason_zh": "本文側重於特定技術的歷史概念與起源，而非提供操作指南或原始數據。"
+    },
+    {
+      "id": "58c1bf7e51063bbf",
+      "title": "Privacy policies and modal logic",
+      "url": "https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-08T13:43:02.000Z",
+      "summary_en": "This article discusses the intersection of data privacy and modal logic, highlighting research that applies formal logic to privacy reasoning. It specifically references the work of Helen Nissenbaum to explore how mathematical frameworks can formalize privacy policies.",
+      "summary_zh": "本文探討了資料隱私與模態邏輯（modal logic）之間的交集，介紹了如何運用形式邏輯來進行隱私權推理的研究。作者引用了 Helen Nissenbaum 的研究，探討數學架構如何應用於隱私政策的規範化。",
+      "keywords": [
+        "privacy",
+        "modal logic",
+        "data privacy",
+        "Helen Nissenbaum",
+        "formal logic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the relationship and theoretical intersection between two abstract concepts, focusing on 'what is' the application of modal logic in privacy.",
+      "pacer_reason_zh": "本文旨在解釋兩個抽象概念之間的關聯與理論交集，重點在於探討模態邏輯在隱私領域的應用概念。"
+    },
+    {
+      "id": "cb6d787c461b444c",
+      "title": "How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-07T14:00:00.000Z",
+      "summary_en": "This post clarifies that the x86 opcodes ud0 and ud1 were never officially defined in documentation, not even as reserved or undefined instructions. It explains the technical reality behind their apparent existence and lack of specified behavior.",
+      "summary_zh": "這篇文章釐清了 x86 指令集中的 ud0 和 ud1 操作碼在官方文件中從未被定義，甚至未被列為保留或未定義指令。文章解釋了這些指令表面存在但缺乏明確行為背後的技術真相。",
+      "keywords": [
+        "x86",
+        "opcodes",
+        "ud0",
+        "ud1",
+        "assembly"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of the status of specific x86 opcodes.",
+      "pacer_reason_zh": "這篇文章針對特定 x86 操作碼的狀態提供了概念性的解釋。"
+    },
+    {
+      "id": "0555cd41b40bed47",
+      "title": "Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-08T11:34:40.000Z",
+      "summary_en": "The author, typically a budget theatergoer, reflects on their philosophy of valuing show quality over seat position. They discuss occasionally splurging on full-price tickets, using a review of 'Hay Fever' at Wyndham's Theatre as a jumping-off point.",
+      "summary_zh": "作者平時偏好購買折扣票，並堅持認為演出品質比座位位置更重要。本文透過對溫德姆劇院《Hay Fever》的評價，分享了自己偶爾購買全價票的觀劇心得與哲學。",
+      "keywords": [
+        "theatre",
+        "review",
+        "Hay Fever",
+        "theatrical experience",
+        "budget"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal philosophy and habits regarding theater ticketing as an analogy to frame their review of the specific play.",
+      "pacer_reason_zh": "文章透過作者個人對劇院購票的習慣與哲學，作為評論該劇目的類比框架。"
+    },
+    {
+      "id": "f242adb232a8919d",
+      "title": "ttok 0.4",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-08T23:34:28.000Z",
+      "summary_en": "Simon Willison has released version 0.4 of ttok, a CLI tool for counting tokens using OpenAI's tiktoken library. This update includes bug fixes, improved CI integration, and a new command to list available models.",
+      "summary_zh": "Simon Willison 發布了 ttok 0.4 版本，這是一個利用 OpenAI 的 tiktoken 庫來計算標記（token）的命令列工具。此更新修復了錯誤、改進了持續整合並新增了列出可用模型的指令。",
+      "keywords": [
+        "ttok",
+        "tiktoken",
+        "CLI",
+        "tokenization",
+        "LLM"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a software update and provides instructions on how to use the tool via the command line.",
+      "pacer_reason_zh": "該文章宣佈了軟體更新，並提供了透過命令列使用該工具的操作說明。"
+    },
+    {
+      "id": "ed14048bb9127b90",
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-08T21:05:44.000Z",
+      "summary_en": "Carson Gross argues that the core of programming lies in problem-solving and managing complexity. He suggests that these fundamental skills will remain essential for a viable career, even as AI tools continue to evolve.",
+      "summary_zh": "Carson Gross 認為程式設計的核心在於解決問題與管理複雜度。他指出，即便人工智慧工具不斷發展，這些基本技能在未來依然是職涯發展的關鍵。",
+      "keywords": [
+        "programming",
+        "complexity",
+        "artificial intelligence",
+        "career",
+        "problem-solving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual perspective on the nature of programming and the future of the profession.",
+      "pacer_reason_zh": "內容提供了關於程式設計本質及其職涯前景的觀念性分析。"
+    },
     {
       "id": "d4e032c1dd6c6a66",
       "title": "Shopify went back to native. I think the bigger shift is formal verification",
