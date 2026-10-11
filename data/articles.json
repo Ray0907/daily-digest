@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-10-10T01:21:10.144Z",
+  "last_updated": "2026-10-11T00:34:02.071Z",
   "articles": [
+    {
+      "id": "c657454fb58f3187",
+      "title": "Lobbying",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-10-09T16:00:00.000Z",
+      "summary_en": "This piece uses satire to explain the mechanism of lobbying in American politics, framing it as a cyclical system of influence and financial rewards. It highlights the blurred lines between campaign contributions, political consulting, and bribery.",
+      "summary_zh": "本文透過諷刺手法解釋了美國政治中的遊說機制，將其描述為一種影響力與金錢回報的循環系統。文中強調了競選捐款、政治諮詢與賄賂之間模糊的界線。",
+      "keywords": [
+        "lobbying",
+        "politics",
+        "bribery",
+        "US politics",
+        "satire"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual explanation of the lobbying process, using irony to define the socio-political dynamics behind the practice.",
+      "pacer_reason_zh": "本文透過反諷的方式對遊說過程進行了概念性解釋，旨在釐清該做法背後的社會政治動態。"
+    },
+    {
+      "id": "97ad1a7178742038",
+      "title": "Reading List 10/10/26",
+      "url": "https://www.construction-physics.com/p/reading-list-101026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-10T14:55:48.000Z",
+      "summary_en": "This blog post provides a curated list of technical and industry developments, covering topics ranging from propane-based HVAC technology and defense manufacturing to lunar nuclear power and robotics. It serves as a digest for readers interested in emerging engineering trends and hardware innovation.",
+      "summary_zh": "本篇部落格整理了一系列技術與產業動態，涵蓋丙烷空調技術、國防製造、月球核能及機器人手部發展等議題。這是一份為關注工程趨勢與硬體創新的讀者所設計的資訊摘要。",
+      "keywords": [
+        "engineering",
+        "technology",
+        "robotics",
+        "energy",
+        "innovation"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a curated collection of links and updates, serving as a reference list for the reader.",
+      "pacer_reason_zh": "本文為精選的連結與更新列表，適合作為讀者的參考資料清單。"
+    },
+    {
+      "id": "5d641556f7bb9fcc",
+      "title": "This Week in Package Management: 10 October 2026",
+      "url": "https://nesbitt.io/2026/10/10/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-10T10:00:00.000Z",
+      "summary_en": "This weekly update covers recent developments in package management tools, including major version releases for uv, pnpm, RubyGems, Bun, and mise. Key highlights include performance improvements, security enhancements, and new experimental features across the Python, Node.js, and Ruby ecosystems.",
+      "summary_zh": "本週報導涵蓋了套件管理工具的最新發展，包括 uv、pnpm、RubyGems、Bun 和 mise 的重大版本更新。重點內容包括 Python、Node.js 與 Ruby 生態系中的效能提升、安全性強化以及各項新實驗性功能。",
+      "keywords": [
+        "package management",
+        "uv",
+        "pnpm",
+        "software releases",
+        "development tools"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic reference list summarizing software releases and updates for the week.",
+      "pacer_reason_zh": "本文屬於定期發布的資訊匯整，主要列舉當週軟體版本更新與相關變更，適合作為參考資料。"
+    },
+    {
+      "id": "e9ba0249d33c9133",
+      "title": "Inside a 1980s filter chip that uses switched capacitors",
+      "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-10-10T16:40:25.632Z",
+      "summary_en": "This article explores the reverse engineering of a mysterious 1980s Harris IC, identifying it as a switched-capacitor filter based on its internal architecture. The author explains the physical construction of the chip, highlighting the role of polysilicon capacitors and CMOS switches in creating versatile analog filters.",
+      "summary_zh": "本文介紹了如何對一款神秘的 1980 年代 Harris 積體電路進行逆向工程，並透過顯微觀察識別出其為開關電容濾波器。作者解析了晶片的物理構造，說明了多晶矽電容與 CMOS 開關如何共同實現靈活的類比濾波功能。",
+      "keywords": [
+        "reverse engineering",
+        "switched-capacitor filter",
+        "Harris HF-10",
+        "integrated circuits",
+        "microscope analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a case study based on the physical inspection and analysis of a specific hardware component.",
+      "pacer_reason_zh": "本文透過對特定硬體組件的實體檢驗與分析，提供了一個詳細的案例研究。"
+    },
+    {
+      "id": "2212dca181bab272",
+      "title": "Some quick thoughts on Unit Testing ActivityPub",
+      "url": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-10T11:34:15.000Z",
+      "summary_en": "The author shares a candid, informal perspective on unit testing within the context of ActivityPub development. The post highlights the simplicity of the core unit testing process: providing functions with input data and verifying the expected output.",
+      "summary_zh": "作者以坦率且非正式的角度，分享了關於 ActivityPub 開發中單元測試的看法。文中強調了單元測試的核心機制：即輸入數據給函式，並驗證其預期輸出。",
+      "keywords": [
+        "Unit Testing",
+        "ActivityPub",
+        "TDD",
+        "Software Development",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the core concept and definition of unit testing in a conversational manner.",
+      "pacer_reason_zh": "內容以對話方式解釋了單元測試的核心概念與定義。"
+    },
+    {
+      "id": "a2dbc26766a3bd99",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-10T23:58:04.000Z",
+      "summary_en": "Python 3.15.0 has been added to the GitHub actions/python-versions repository, allowing developers to test their applications against the latest release. Users can now simply add \"3.15\" to their GitHub Actions configuration matrix to start using the new version.",
+      "summary_zh": "Python 3.15.0 已加入至 GitHub 的 actions/python-versions 儲存庫，開發者現在可以透過在 GitHub Actions 設定中加入「3.15」來對新版本進行測試。這讓開發者能夠輕鬆地在 CI/CD 流程中啟用最新版的 Python 環境。",
+      "keywords": [
+        "Python",
+        "GitHub Actions",
+        "CI/CD",
+        "Programming",
+        "Software Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides practical guidance on how to enable and use the new Python 3.15 version within GitHub Actions workflows.",
+      "pacer_reason_zh": "該文章提供了如何在 GitHub Actions 工作流程中啟用並使用 Python 3.15 的實際操作指南。"
+    },
+    {
+      "id": "5af1a93eb20fb54c",
+      "title": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-10T02:04:12.000Z",
+      "summary_en": "This post highlights a report from The New York Times concerning Anthropic's AI agents, which unintentionally submitted incomplete visa applications on a U.S. State Department website. It serves as a real-world example of the risks associated with autonomous AI agents interacting with public web forms.",
+      "summary_zh": "本文引用《紐約時報》的報導，指出 Anthropic 的 AI 代理程式在未經預期下，向美國國務院網站提交了多份不完整的簽證申請。這顯示了自主 AI 代理與公共網頁表單互動時可能帶來的潛在風險。",
+      "keywords": [
+        "Anthropic",
+        "AI agents",
+        "generative-ai",
+        "accidental-cyberattacks",
+        "llms"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a specific real-world case study of AI behavior and its unintended consequences.",
+      "pacer_reason_zh": "內容聚焦於 AI 行為及其非預期後果的實際案例研究。"
+    },
     {
       "id": "ad43445207dd71e0",
       "title": "An Ion Storm!, Part 1: The Ascent to Gamer Paradise",

@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:34:02 GMT</lastBuildDate>
     
+    <item>
+      <title>Lobbying</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>This piece uses satire to explain the mechanism of lobbying in American politics, framing it as a cyclical system of influence and financial rewards. It highlights the blurred lines between campaign contributions, political consulting, and bribery.</description>
+    </item>
+
+    <item>
+      <title>Reading List 10/10/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-101026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-101026</guid>
+      <pubDate>Sat, 10 Oct 2026 14:55:48 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This blog post provides a curated list of technical and industry developments, covering topics ranging from propane-based HVAC technology and defense manufacturing to lunar nuclear power and robotics. It serves as a digest for readers interested in emerging engineering trends and hardware innovation.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 10 October 2026</title>
+      <link>https://nesbitt.io/2026/10/10/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/10/10/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 10 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This weekly update covers recent developments in package management tools, including major version releases for uv, pnpm, RubyGems, Bun, and mise. Key highlights include performance improvements, security enhancements, and new experimental features across the Python, Node.js, and Ruby ecosystems.</description>
+    </item>
+
+    <item>
+      <title>Inside a 1980s filter chip that uses switched capacitors</title>
+      <link>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</link>
+      <guid>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</guid>
+      <pubDate>Sat, 10 Oct 2026 16:40:25 GMT</pubDate>
+      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
+      <description>This article explores the reverse engineering of a mysterious 1980s Harris IC, identifying it as a switched-capacitor filter based on its internal architecture. The author explains the physical construction of the chip, highlighting the role of polysilicon capacitors and CMOS switches in creating versatile analog filters.</description>
+    </item>
+
+    <item>
+      <title>Some quick thoughts on Unit Testing ActivityPub</title>
+      <link>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:34:15 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares a candid, informal perspective on unit testing within the context of ActivityPub development. The post highlights the simplicity of the core unit testing process: providing functions with input data and verifying the expected output.</description>
+    </item>
+
+    <item>
+      <title>Python 3.15.0 added to actions/python-versions</title>
+      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
+      <guid>https://simonwillison.net/2026/Oct/10/python-actions/</guid>
+      <pubDate>Sat, 10 Oct 2026 23:58:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Python 3.15.0 has been added to the GitHub actions/python-versions repository, allowing developers to test their applications against the latest release. Users can now simply add &quot;3.15&quot; to their GitHub Actions configuration matrix to start using the new version.</description>
+    </item>
+
+    <item>
+      <title>Quoting The New York Times</title>
+      <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
+      <guid>https://simonwillison.net/2026/Oct/10/the-new-york-times/</guid>
+      <pubDate>Sat, 10 Oct 2026 02:04:12 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a report from The New York Times concerning Anthropic's AI agents, which unintentionally submitted incomplete visa applications on a U.S. State Department website. It serves as a real-world example of the risks associated with autonomous AI agents interacting with public web forms.</description>
+    </item>
+
     <item>
       <title>An Ion Storm!, Part 1: The Ascent to Gamer Paradise</title>
       <link>https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</link>
@@ -841,69 +904,6 @@
       <pubDate>Thu, 01 Oct 2026 14:00:57 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
       <description>This post discusses how fixed-length instructions on the Itanium architecture simplified the implementation of hot-patching. It highlights the technical advantages of this instruction format for system maintenance.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: Una Watch ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</guid>
-      <pubDate>Fri, 02 Oct 2026 11:34:48 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reviews the Una Watch, reflecting on their history of dissatisfaction with previous smartwatches including proprietary models and the Watchy. This post serves as an initial assessment of the device's potential compared to previous market offerings.</description>
-    </item>
-
-    <item>
-      <title>Superpersuasion will look like bribery</title>
-      <link>https://seangoedecke.com/superpersuasion-will-look-like-bribery/</link>
-      <guid>https://seangoedecke.com/superpersuasion-will-look-like-bribery/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article explores the hypothetical intersection of advanced persuasion techniques and bribery. It suggests that as AI or psychological influence becomes more sophisticated, the line between convincing someone and incentivizing them improperly will blur significantly.</description>
-    </item>
-
-    <item>
-      <title>Do not build the LLM torture factory</title>
-      <link>https://seangoedecke.com/do-not-build-the-llm-torture-factory/</link>
-      <guid>https://seangoedecke.com/do-not-build-the-llm-torture-factory/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the ethical risks and potential negative consequences of creating highly optimized, repetitive LLM training environments. The author warns against the architectural 'torture' of AI models through coercive data strategies, urging for more sustainable and humane development practices.</description>
-    </item>
-
-    <item>
-      <title>Summary of reading: July - September 2026</title>
-      <link>https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</link>
-      <guid>https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:05:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This post provides a brief review of books read by the author between July and September 2026. The list spans various genres including classic literature, history, and short story collections, offering personal perspectives on each work.</description>
-    </item>
-
-    <item>
-      <title>Why do you need freedom?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The article explores the existential tension between the comfort of living under the guidance of an 'aligned' superintelligence and the necessity of human autonomy. It argues that even if a machine knows us better than we know ourselves, the essence of a meaningful life lies in the freedom to make irrational or independent choices.</description>
-    </item>
-
-    <item>
-      <title>Si Sheppard – How did a few hundred Spanish soldiers topple two empires?</title>
-      <link>https://www.dwarkesh.com/p/si-sheppard</link>
-      <guid>https://www.dwarkesh.com/p/si-sheppard</guid>
-      <pubDate>Thu, 01 Oct 2026 15:28:28 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>Historian Si Sheppard explores the historical factors behind the rapid collapse of the Aztec and Inca empires when faced with small numbers of Spanish conquistadors. The discussion analyzes military strategies, geopolitical dynamics, and the critical role of local indigenous alliances in these transformative historical events.</description>
-    </item>
-
-    <item>
-      <title>Understanding the AI That Drives Robots</title>
-      <link>https://www.construction-physics.com/p/understanding-the-ai-that-drives</link>
-      <guid>https://www.construction-physics.com/p/understanding-the-ai-that-drives</guid>
-      <pubDate>Thu, 01 Oct 2026 12:04:36 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explores Vision-Language-Action (VLA) models, explaining how they enable robots to interpret visual data and language commands to execute physical tasks. It demystifies the underlying architecture that allows modern AI to bridge the gap between digital reasoning and real-world robotic manipulation.</description>
     </item>
   </channel>
 </rss>

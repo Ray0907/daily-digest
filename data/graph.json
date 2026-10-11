@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "a2dbc26766a3bd99",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "pacer": "P",
+      "keywords": [
+        "Python",
+        "GitHub Actions",
+        "CI/CD",
+        "Programming",
+        "Software Development"
+      ],
+      "published": "2026-10-10T23:58:04.000Z"
+    },
+    {
+      "id": "e9ba0249d33c9133",
+      "title": "Inside a 1980s filter chip that uses switched capacitors",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+      "pacer": "E",
+      "keywords": [
+        "reverse engineering",
+        "switched-capacitor filter",
+        "Harris HF-10",
+        "integrated circuits",
+        "microscope analysis"
+      ],
+      "published": "2026-10-10T16:40:25.632Z"
+    },
+    {
+      "id": "97ad1a7178742038",
+      "title": "Reading List 10/10/26",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-101026",
+      "pacer": "R",
+      "keywords": [
+        "engineering",
+        "technology",
+        "robotics",
+        "energy",
+        "innovation"
+      ],
+      "published": "2026-10-10T14:55:48.000Z"
+    },
+    {
+      "id": "2212dca181bab272",
+      "title": "Some quick thoughts on Unit Testing ActivityPub",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+      "pacer": "C",
+      "keywords": [
+        "Unit Testing",
+        "ActivityPub",
+        "TDD",
+        "Software Development",
+        "Programming"
+      ],
+      "published": "2026-10-10T11:34:15.000Z"
+    },
+    {
+      "id": "5d641556f7bb9fcc",
+      "title": "This Week in Package Management: 10 October 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/10/10/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "uv",
+        "pnpm",
+        "software releases",
+        "development tools"
+      ],
+      "published": "2026-10-10T10:00:00.000Z"
+    },
+    {
+      "id": "5af1a93eb20fb54c",
+      "title": "Quoting The New York Times",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "AI agents",
+        "generative-ai",
+        "accidental-cyberattacks",
+        "llms"
+      ],
+      "published": "2026-10-10T02:04:12.000Z"
+    },
+    {
       "id": "9d4120ee38afb875",
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "source": "Krebs on Security",
@@ -113,6 +209,22 @@
       "published": "2026-10-09T16:10:11.000Z"
     },
     {
+      "id": "c657454fb58f3187",
+      "title": "Lobbying",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "pacer": "C",
+      "keywords": [
+        "lobbying",
+        "politics",
+        "bribery",
+        "US politics",
+        "satire"
+      ],
+      "published": "2026-10-09T16:00:00.000Z"
+    },
+    {
       "id": "7af93f3f2c1476c3",
       "title": "Quoting Matthew Green",
       "source": "Simon Willison's Weblog",
@@ -175,38 +287,6 @@
         "political discourse"
       ],
       "published": "2026-10-09T04:59:23.000Z"
-    },
-    {
-      "id": "4531aaeb11d6a46b",
-      "title": "ttok 1.0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "pacer": "E",
-      "keywords": [
-        "ttok",
-        "tokenizer",
-        "GPT-6",
-        "LLM",
-        "Simon Willison"
-      ],
-      "published": "2026-10-09T00:34:43.000Z"
-    },
-    {
-      "id": "f242adb232a8919d",
-      "title": "ttok 0.4",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
-      "pacer": "P",
-      "keywords": [
-        "ttok",
-        "tiktoken",
-        "CLI",
-        "tokenization",
-        "LLM"
-      ],
-      "published": "2026-10-08T23:34:28.000Z"
     },
     {
       "id": "243ce820fd5f83b0",
@@ -847,22 +927,6 @@
         "cybersecurity"
       ],
       "published": "2026-10-04T11:52:23.000Z"
-    },
-    {
-      "id": "c362a098803f40e2",
-      "title": "My Pitch for the New Season of Doctor Who",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/",
-      "pacer": "C",
-      "keywords": [
-        "Doctor Who",
-        "Television",
-        "BBC",
-        "Fan Fiction",
-        "Creative Pitch"
-      ],
-      "published": "2026-10-04T11:34:50.000Z"
     },
     {
       "id": "69b1c246a02c7f3b",
@@ -1633,22 +1697,6 @@
       "published": "2026-09-24T15:45:00.000Z"
     },
     {
-      "id": "fcf780cffcc9e89c",
-      "title": "Package Manager Sandboxing",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/09/24/package-manager-sandboxing.html",
-      "pacer": "C",
-      "keywords": [
-        "Homebrew",
-        "Sandboxing",
-        "Security",
-        "Package Manager",
-        "macOS"
-      ],
-      "published": "2026-09-24T09:00:00.000Z"
-    },
-    {
       "id": "a80cc87b07991dc8",
       "title": "Why is the human body so crap except for the liver?",
       "source": "DYNOMIGHT",
@@ -1855,22 +1903,6 @@
         "mathematics"
       ],
       "published": "2026-09-19T16:39:00.000Z"
-    },
-    {
-      "id": "8d6d9c452cb2f789",
-      "title": "Reading List 09/19/2026",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-09192026",
-      "pacer": "R",
-      "keywords": [
-        "Construction",
-        "Housing",
-        "Infrastructure",
-        "Energy",
-        "Market Trends"
-      ],
-      "published": "2026-09-19T12:03:09.000Z"
     },
     {
       "id": "9f1f9ab84feddf64",
@@ -3661,22 +3693,6 @@
       "published": "2026-07-12T07:00:00.000Z"
     },
     {
-      "id": "c3547331e720b325",
-      "title": "AI 2040 and the Cult of Intelligence",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "hard takeoff",
-        "hardware",
-        "engineering",
-        "reality"
-      ],
-      "published": "2026-07-11T07:00:00.000Z"
-    },
-    {
       "id": "6e8cc465ff176d68",
       "title": "A dock that finally wakes up reliably",
       "source": "Fabien Sanglard",
@@ -3771,22 +3787,6 @@
         "literary analysis"
       ],
       "published": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "3de6e566c817d104",
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-      "pacer": "C",
-      "keywords": [
-        "Space Shuttle",
-        "I/O Processor",
-        "IBM",
-        "microcode",
-        "hardware architecture"
-      ],
-      "published": "2026-06-28T16:11:20.022Z"
     },
     {
       "id": "042a42259732b101",
