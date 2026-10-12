@@ -1,6 +1,86 @@
 {
   "nodes": [
     {
+      "id": "26e4f170b53e5a91",
+      "title": "Just say no to OpenAI and Anthropic",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "pacer": "C",
+      "keywords": [
+        "AI ethics",
+        "tech oligarchy",
+        "Naomi Klein",
+        "political critique",
+        "big tech"
+      ],
+      "published": "2026-10-11T23:03:05.000Z"
+    },
+    {
+      "id": "95422b943fec7b94",
+      "title": "Why I Get Bored ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/byte-size/why-i-get-bored",
+      "pacer": "C",
+      "keywords": [
+        "boredom",
+        "productivity",
+        "skill building",
+        "video editing",
+        "persistence"
+      ],
+      "published": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "2a779a9898efce2a",
+      "title": "I paid people to try and follow my README",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "pacer": "E",
+      "keywords": [
+        "documentation",
+        "developer experience",
+        "README",
+        "usability",
+        "technical writing"
+      ],
+      "published": "2026-10-11T11:34:39.000Z"
+    },
+    {
+      "id": "ed32cd489cb393b4",
+      "title": "Dwarf Fortress uses version control now",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "pacer": "E",
+      "keywords": [
+        "Dwarf Fortress",
+        "version control",
+        "Tarn Adams",
+        "game development",
+        "software engineering"
+      ],
+      "published": "2026-10-11T00:52:37.000Z"
+    },
+    {
+      "id": "33426b149acb7339",
+      "title": "Don't diagnose your opponents",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/dont-diagnose-your-opponents/",
+      "pacer": "C",
+      "keywords": [
+        "communication",
+        "conflict resolution",
+        "psychology",
+        "interpersonal skills",
+        "strategy"
+      ],
+      "published": "2026-10-11T00:00:00.000Z"
+    },
+    {
       "id": "a2dbc26766a3bd99",
       "title": "Python 3.15.0 added to actions/python-versions",
       "source": "Simon Willison's Weblog",
@@ -241,20 +321,20 @@
       "published": "2026-10-09T15:02:29.000Z"
     },
     {
-      "id": "305ba874f36ffe29",
-      "title": "A new feature for my blog, built using my voice",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "pacer": "P",
+      "id": "0efd6c594d7d42ab",
+      "title": "One way of thinking about access specifiers in C++/WinRT implementation types",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/",
+      "pacer": "A",
       "keywords": [
-        "Simon Willison",
-        "ChatGPT",
-        "Voice coding",
-        "Django",
-        "AI development"
+        "C++/WinRT",
+        "Access Specifiers",
+        "C#",
+        "C++/CX",
+        "Programming Concepts"
       ],
-      "published": "2026-10-09T12:54:06.000Z"
+      "published": "2026-10-09T14:00:00.000Z"
     },
     {
       "id": "76f23989d1c5d70a",
@@ -833,22 +913,6 @@
       "published": "2026-10-05T14:00:00.000Z"
     },
     {
-      "id": "b120f691bc2e9aae",
-      "title": "[RSS Club] Changes to the RSS and Atom feeds",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/",
-      "pacer": "E",
-      "keywords": [
-        "RSS",
-        "Atom",
-        "CDATA",
-        "feed reader",
-        "web development"
-      ],
-      "published": "2026-10-05T11:34:03.000Z"
-    },
-    {
       "id": "afdecd136fba8911",
       "title": "How fast is Python 3.15?",
       "source": "Miguel Grinberg's Blog",
@@ -1121,22 +1185,6 @@
       "published": "2026-10-02T14:00:14.000Z"
     },
     {
-      "id": "edb7511b41812792",
-      "title": "Why is there no Windows hot-patching support for other architectures like 32-bit ARM and MIPS?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/",
-      "pacer": "C",
-      "keywords": [
-        "Windows",
-        "hot-patching",
-        "ARM",
-        "MIPS",
-        "architecture"
-      ],
-      "published": "2026-10-02T14:00:00.000Z"
-    },
-    {
       "id": "e08bdbae965f03c3",
       "title": "Digitale autonomie in het kort bij KIVI, STT en NAE",
       "source": "Bert Hubert's writings",
@@ -1151,22 +1199,6 @@
         "expertrol"
       ],
       "published": "2026-10-02T09:30:00.000Z"
-    },
-    {
-      "id": "b5797a7c5bdfa578",
-      "title": "Do not build the LLM torture factory",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/do-not-build-the-llm-torture-factory/",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "AI ethics",
-        "machine learning",
-        "training data",
-        "AI development"
-      ],
-      "published": "2026-10-02T00:00:00.000Z"
     },
     {
       "id": "5a5b19102292d48d",
@@ -1983,22 +2015,6 @@
         "Learning"
       ],
       "published": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "d0122f48e1a89a51",
-      "title": "The Front Page of the Internet Is Up for Grabs ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/the-front-page-of-the-internet",
-      "pacer": "C",
-      "keywords": [
-        "Browser wars",
-        "Tech giants",
-        "Defaults",
-        "User agency",
-        "Software interface"
-      ],
-      "published": "2026-09-17T23:43:19.000Z"
     },
     {
       "id": "5916add02dc8e0c6",
@@ -3628,22 +3644,6 @@
         "art supplies"
       ],
       "published": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "1ac8e18a667536fc",
-      "title": "Mandatory Update: A Short Story",
-      "source": "micahflee",
-      "source_url": "https://micahflee.com/",
-      "url": "https://micahflee.com/mandatory-update-a-short-story/",
-      "pacer": "C",
-      "keywords": [
-        "creative writing",
-        "DEF CON 34",
-        "fiction",
-        "writing contest",
-        "author"
-      ],
-      "published": "2026-07-13T15:33:31.000Z"
     },
     {
       "id": "f8dfc93777c342e9",

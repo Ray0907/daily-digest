@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-10-11T00:34:02.071Z",
+  "last_updated": "2026-10-12T00:47:38.923Z",
   "articles": [
+    {
+      "id": "26e4f170b53e5a91",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "source": "micahflee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-10-11T23:03:05.000Z",
+      "summary_en": "The author discusses the intersection of tech oligarchs and modern political ideologies, referencing Naomi Klein and Astra Taylor's book, End Times Fascism. They argue against reliance on major AI corporations like OpenAI and Anthropic due to their role in these power structures.",
+      "summary_zh": "作者討論了科技寡頭與現代政治意識形態的關聯，並引用了 Naomi Klein 和 Astra Taylor 的著作《末日法西斯》。文章呼籲讀者應拒絕依賴 OpenAI 和 Anthropic 等大型人工智慧公司，因為它們在這些權力結構中扮演了重要角色。",
+      "keywords": [
+        "AI ethics",
+        "tech oligarchy",
+        "Naomi Klein",
+        "political critique",
+        "big tech"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on critiquing the conceptual role of AI corporations within political and societal frameworks.",
+      "pacer_reason_zh": "本文重點在於批判人工智慧企業在政治與社會框架中的概念性角色。"
+    },
+    {
+      "id": "0efd6c594d7d42ab",
+      "title": "One way of thinking about access specifiers in C++/WinRT implementation types",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-09T14:00:00.000Z",
+      "summary_en": "This article explores how to conceptualize access specifiers in C++/WinRT by drawing comparisons to their counterparts in C# and C++/CX. It provides a mental model for developers to better understand implementation types within the Windows Runtime framework.",
+      "summary_zh": "本文探討了如何透過類比 C# 和 C++/CX 中的概念，來理解 C++/WinRT 實作類型中的存取修飾詞。這為開發人員提供了一種心智模型，以更清楚地掌握 Windows Runtime 框架中的相關規範。",
+      "keywords": [
+        "C++/WinRT",
+        "Access Specifiers",
+        "C#",
+        "C++/CX",
+        "Programming Concepts"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post relies on drawing parallels and analogies between different programming languages to explain C++/WinRT access specifiers.",
+      "pacer_reason_zh": "本文透過在不同程式語言之間進行類比與比較，來解釋 C++/WinRT 中的存取修飾詞。"
+    },
+    {
+      "id": "2a779a9898efce2a",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-11T11:34:39.000Z",
+      "summary_en": "The author critiques the poor state of developer documentation, highlighting how outdated or incomplete guides frustrate users. By personally testing his own documentation through others, he advocates for a more rigorous and user-centric approach to writing technical manuals.",
+      "summary_zh": "作者批評了開發者文檔品質低落的問題，指出過時或不完整的指南會導致使用者困擾。他透過親自觀察他人使用其文檔的過程，提倡應以更嚴謹且以使用者為中心的方式撰寫技術說明。",
+      "keywords": [
+        "documentation",
+        "developer experience",
+        "README",
+        "usability",
+        "technical writing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is based on an empirical experiment where the author observes users interacting with their documentation to derive improvements.",
+      "pacer_reason_zh": "本文基於作者親自進行的實驗，透過觀察他人閱讀其文檔的過程來得出改進建議。"
+    },
+    {
+      "id": "95422b943fec7b94",
+      "title": "Why I Get Bored ",
+      "url": "https://idiallo.com/byte-size/why-i-get-bored",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-11T16:00:00.000Z",
+      "summary_en": "The author explores how boredom serves as a psychological roadblock when attempting tasks outside of one's expertise, such as video production. He concludes that persistence and incremental practice are essential, committing to a gradual improvement plan to overcome initial incompetence.",
+      "summary_zh": "作者探討了在嘗試非專業領域（如影片製作）時，無聊感如何成為心理阻礙。他認為持續練習與循序漸進是克服挫折的關鍵，並決定透過小規模的嘗試來精進技能。",
+      "keywords": [
+        "boredom",
+        "productivity",
+        "skill building",
+        "video editing",
+        "persistence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a personal conceptual reflection on the nature of boredom and the psychological challenges of learning a new craft.",
+      "pacer_reason_zh": "本文針對無聊感的本質以及學習新技能時的心理挑戰，提供了個人的概念性反思。"
+    },
+    {
+      "id": "ed32cd489cb393b4",
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-11T00:52:37.000Z",
+      "summary_en": "The long-standing tradition of the game Dwarf Fortress being developed without version control has officially ended. Creator Tarn Adams transitioned to using version control tools as the project scaled for its successful Steam release.",
+      "summary_zh": "《矮人要塞》（Dwarf Fortress）開發者長期不使用版本控制系統的傳統已正式宣告結束。隨著遊戲在 Steam 上架並獲得巨大商業成功，開發者 Tarn Adams 也隨之調整工作流程，開始採用版本控制工具。",
+      "keywords": [
+        "Dwarf Fortress",
+        "version control",
+        "Tarn Adams",
+        "game development",
+        "software engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides historical evidence and quotes to document the shift in development practices for a specific software project.",
+      "pacer_reason_zh": "本文透過引述歷史紀錄與訪談內容，記錄了一個特定軟體專案在開發流程上的變遷，屬於事實性證據的整理。"
+    },
+    {
+      "id": "33426b149acb7339",
+      "title": "Don't diagnose your opponents",
+      "url": "https://seangoedecke.com/dont-diagnose-your-opponents/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-11T00:00:00.000Z",
+      "summary_en": "This article discusses the importance of avoiding psychological analysis or diagnosing opponents during competitive interactions. It suggests that labeling others' behaviors can distract from objective problem-solving and effective communication.",
+      "summary_zh": "這篇文章探討了在競爭互動中避免對對手進行心理分析或診斷的重要性。文章指出，給他人的行為貼標籤可能會分散人們對客觀問題解決和有效溝通的注意力。",
+      "keywords": [
+        "communication",
+        "conflict resolution",
+        "psychology",
+        "interpersonal skills",
+        "strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on behavioral philosophy and conceptual guidance regarding interpersonal dynamics.",
+      "pacer_reason_zh": "本文側重於人際互動中的行為哲學與概念性指導。"
+    },
     {
       "id": "c657454fb58f3187",
       "title": "Lobbying",
