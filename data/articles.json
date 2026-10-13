@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-10-12T00:47:38.923Z",
+  "last_updated": "2026-10-13T02:45:32.860Z",
   "articles": [
+    {
+      "id": "8a64b24c44c7bf1c",
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "url": "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-10-12T01:47:19.668Z",
+      "summary_en": "This article chronicles the author's ongoing project to refurbish and modernize vintage Alpha Microsystems computers, specifically the Eagle 300. It details the technical challenges of maintaining these unique 68K-based systems and the process of upgrading them with modern storage solutions like ZuluSCSI.",
+      "summary_zh": "這篇文章紀錄了作者維修與升級古董 Alpha Microsystems 電腦（特別是 Eagle 300）的過程。文中詳細介紹了維護這些獨特 68K 架構系統所面臨的技術挑戰，以及將其儲存設備替換為現代化 ZuluSCSI 裝置的實作經過。",
+      "keywords": [
+        "Alpha Micro",
+        "Vintage Computing",
+        "Retro Tech",
+        "Refurbishment",
+        "SCSI2SD"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content describes a specific case study of refurbishing and upgrading vintage hardware based on the author's hands-on experience.",
+      "pacer_reason_zh": "本文根據作者的實作經驗，描述了修復與升級古董硬體的特定案例研究。"
+    },
+    {
+      "id": "e62cea51a1661964",
+      "title": "The Dock on Mac, From OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-12T19:00:00.000Z",
+      "summary_en": "The author shares a graphical compilation documenting the visual evolution of the macOS Dock from its early versions to the present. This project originated from abandoned research for a book chapter on the history of icon design.",
+      "summary_zh": "作者分享了一份圖文彙編，記錄了 macOS Dock 從早期版本到現今的視覺演變歷程。此項目源自作者過去為撰寫圖標設計歷史書籍章節時所進行的研究紀錄。",
+      "keywords": [
+        "macOS",
+        "Dock",
+        "design history",
+        "icons",
+        "Apple"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content serves as a historical reference/archive of visual documentation for macOS interface elements.",
+      "pacer_reason_zh": "該內容作為 macOS 介面元素的視覺文件參考與存檔。"
+    },
+    {
+      "id": "083b17e76f1089a2",
+      "title": "The Fascinating World of Domains",
+      "url": "https://blog.jim-nielsen.com/2026/domains-article-on-wired/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-11T19:00:00.000Z",
+      "summary_en": "This post explores the fascinating business and geopolitical nature of internet domains, highlighting Verisign's profitable control over .com and the secretive, high-stakes process of applying for new gTLDs. It emphasizes the irony that securing a place on the internet often requires offline, paranoid negotiations to maintain privacy.",
+      "summary_zh": "本文探討了網域背後迷人的商業與地緣政治內幕，重點介紹了 Verisign 在 .com 網域的高獲利營運模式，以及申請新通用頂級網域（gTLD）時極度保密且競爭激烈的過程。文章並指出一個諷刺的現象：為了確保在網路佔有一席之地，企業往往必須採取線下且防備心極強的談判方式。",
+      "keywords": [
+        "Domains",
+        "Verisign",
+        "gTLDs",
+        "ICANN",
+        "Internet infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual insights into the business model of registries and the administrative processes behind domain ownership.",
+      "pacer_reason_zh": "本文針對網域註冊機構的商業模式以及網域所有權背後的行政流程，提供了概念性的解析與觀點。"
+    },
+    {
+      "id": "dda123f67c854cf8",
+      "title": "The X is Off-Target",
+      "url": "https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-10-12T15:53:18.000Z",
+      "summary_en": "The article discusses the fragmented state of modern social media, questioning if users still need a single \"everything\" platform. It highlights that despite controversial leadership, many users return to X because its community and content remain more focused on specific professional topics compared to the engagement-heavy or politically-charged nature of competitors.",
+      "summary_zh": "本文探討了現代社群媒體碎片化的現狀，質疑用戶是否仍需要一個「包辦一切」的平台。文章指出，儘管 X 的經營存在爭議，但許多用戶仍回歸該平台，因為相較於競品充滿演算法導向的垃圾內容或過度政治化的氛圍，X 在特定領域的討論內容依然更具實質價值。",
+      "keywords": [
+        "Social Media",
+        "X",
+        "Fragmentation",
+        "Digital Culture",
+        "Content Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in how users perceive and utilize social networks in an era of platform fragmentation.",
+      "pacer_reason_zh": "本文探討了在平台碎片化時代下，用戶對於社交網絡認知與使用方式的觀念轉變。"
+    },
+    {
+      "id": "6497704a21422282",
+      "title": "Now That’s What I Call Technical Debt!",
+      "url": "https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-12T09:00:00.000Z",
+      "summary_en": "This post uses popular song lyrics repurposed with software maintenance themes to humorously reflect on the frustrations of open-source repository management. It highlights challenges like technical debt, broken builds, and the influx of automated contributions.",
+      "summary_zh": "這篇文章以軟體維護為主題，改編了多首經典歌曲的歌詞，幽默地呈現維護開源儲存庫的無奈。內容探討了技術債、建置失敗以及自動化提交帶來的開發挑戰。",
+      "keywords": [
+        "software maintenance",
+        "open source",
+        "technical debt",
+        "parody",
+        "GitHub"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses the analogy of popular song lyrics to describe and interpret the emotional and practical state of software maintenance.",
+      "pacer_reason_zh": "內容透過改編流行歌曲歌詞作為類比，用以描繪並詮釋軟體維護時的心境與現實狀況。"
+    },
+    {
+      "id": "eb49c6967bf89c04",
+      "title": "Categorical models of logics",
+      "url": "https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-12T13:04:09.000Z",
+      "summary_en": "This article explores the correspondence between modal logic and general topology, suggesting that understanding one field can provide insight into the other. It argues that leveraging familiar concepts from topology can help clarify the motivation behind abstract logical structures.",
+      "summary_zh": "本文探討了模態邏輯與一般拓撲學之間的對應關係，提出透過熟悉拓撲學概念，有助於理解模態邏輯。作者認為利用領域間的關聯性，可以幫助讀者釐清抽象邏輯結構背後的動機。",
+      "keywords": [
+        "modal logic",
+        "topology",
+        "category theory",
+        "mathematical logic",
+        "correspondence"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article focuses on establishing a parallel between two distinct mathematical domains, topology and modal logic, to aid conceptual understanding.",
+      "pacer_reason_zh": "文章重點在於建立拓撲學與模態邏輯這兩個數學領域之間的類比，以幫助讀者建立概念理解。"
+    },
+    {
+      "id": "358048382528a3f0",
+      "title": "Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/12/termination-of-transfer/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-12T11:40:39.000Z",
+      "summary_en": "Cory Doctorow argues that creative professionals should prioritize labor rights over copyright as their primary form of protection. He contends that treating copyright as 'intellectual property' is a trap, as creative work is effectively a sale of labor rather than an asset speculation.",
+      "summary_zh": "Cory Doctorow 主張創意工作者應將勞工權益視為比版權更重要的保障。他認為將版權視為「知識產權」是一個陷阱，因為創意工作本質上是勞動力的出售，而非單純的資產投機。",
+      "keywords": [
+        "labor rights",
+        "copyright",
+        "intellectual property",
+        "creative work",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a theoretical argument reframing the economic protection of creative workers from a property-based view to a labor-based perspective.",
+      "pacer_reason_zh": "本文提出了一種理論性論點，將創意工作者的經濟保障從財產權視角重新定義為勞工權益視角。"
+    },
+    {
+      "id": "901eddfa61b84a5e",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-12T18:15:38.000Z",
+      "summary_en": "Python 3.15 has been released, introducing key features like explicit lazy imports and unpacking in comprehensions. These updates help developers improve application startup performance and simplify list processing syntax.",
+      "summary_zh": "Python 3.15 正式發布，帶來了顯式延遲導入（Explicit lazy imports）和推導式解包（Unpacking in comprehensions）等重要更新。這些新功能有助於提升應用程式的啟動效能並簡化程式碼語法。",
+      "keywords": [
+        "Python 3.15",
+        "lazy imports",
+        "programming",
+        "software development",
+        "PEP 810"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains new concepts and features introduced in the latest Python version, focusing on 'what is' and how these features function.",
+      "pacer_reason_zh": "本文介紹了最新版 Python 的新概念與功能，重點在於解釋這些新功能的特性及其運作方式。"
+    },
+    {
+      "id": "818cf62a3bb0a7f8",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-12T15:54:36.000Z",
+      "summary_en": "Simon Willison introduces web-edit 0.1a0, a Python-based web application designed for browsing and editing files within a folder. Developed with AI assistance, the tool is intended to be run over Tailscale, allowing users to securely manage files on a remote server directly from a mobile device.",
+      "summary_zh": "Simon Willison 推出了 web-edit 0.1a0，這是一個基於 Python 的網頁應用程式，專門用於瀏覽和編輯資料夾中的檔案。該工具由 AI 輔助開發，旨在透過 Tailscale 執行，讓使用者能直接從手機安全地管理遠端伺服器上的檔案。",
+      "keywords": [
+        "web-edit",
+        "Tailscale",
+        "file-manager",
+        "Python",
+        "remote-access"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article announces a new software release and explains its intended use case, which functions as a utility for personal workflow and file management.",
+      "pacer_reason_zh": "本文介紹了一款新發布的軟體工具並說明其使用情境，屬於個人工作流程與檔案管理的實用導向內容。"
+    },
+    {
+      "id": "2f5855ec66718315",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-12T04:57:07.000Z",
+      "summary_en": "Datasette-ports 0.4 has been released, updating the plugin to be compatible with the latest version of Datasette. The update now displays the Process ID (PID) for detected instances, facilitating easier attachment of the Python 3.15 sampling profiler.",
+      "summary_zh": "Datasette-ports 0.4 已發佈，此更新確保外掛程式與最新版本的 Datasette 相容。新版本現在會顯示偵測到的執行程序識別碼 (PID)，方便使用者連接 Python 3.15 的取樣分析器。",
+      "keywords": [
+        "datasette",
+        "python",
+        "plugin",
+        "profiling",
+        "software update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions as a software release note and reference for updated tooling.",
+      "pacer_reason_zh": "此貼文屬於軟體發佈說明，作為更新工具的參考資料。"
+    },
+    {
+      "id": "913e92cb8284798f",
+      "title": "Software engineers don't get to be Luddites about AI",
+      "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-12T00:00:00.000Z",
+      "summary_en": "The article argues that software engineers must embrace rather than resist artificial intelligence in their professional workflows. It emphasizes that adaptation to AI tools is essential for remaining relevant in the modern software development landscape.",
+      "summary_zh": "本文主張軟體工程師必須擁抱而非抗拒人工智慧對其工作流程的影響。作者強調，適應 AI 工具對於在現代軟體開發環境中保持競爭力至關重要。",
+      "keywords": [
+        "AI",
+        "Software Engineering",
+        "Tech Trends",
+        "Professional Development",
+        "Automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a perspective on the conceptual evolution of the software engineering profession in the era of AI.",
+      "pacer_reason_zh": "本文針對人工智慧時代下軟體工程專業的概念性演變提供了觀點分析。"
+    },
     {
       "id": "26e4f170b53e5a91",
       "title": "Just say no to OpenAI and Anthropic",
