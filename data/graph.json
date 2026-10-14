@@ -1,6 +1,246 @@
 {
   "nodes": [
     {
+      "id": "0fbd64ca10e3ba0a",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "pacer": "E",
+      "keywords": [
+        "Microsoft",
+        "Security Patch",
+        "Windows",
+        "Vulnerabilities",
+        "Cybersecurity"
+      ],
+      "published": "2026-10-13T23:24:53.000Z"
+    },
+    {
+      "id": "fdc555784f183633",
+      "title": "Redesigning source control at Anthropic",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "Git",
+        "source control",
+        "software engineering",
+        "scaling"
+      ],
+      "published": "2026-10-13T23:00:06.000Z"
+    },
+    {
+      "id": "39b03f627696e97f",
+      "title": "llm-gemini 0.35",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "pacer": "E",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 4 Argon",
+        "AI models",
+        "SVG generation",
+        "API pricing"
+      ],
+      "published": "2026-10-13T22:28:54.000Z"
+    },
+    {
+      "id": "cd71fb54a46c0d24",
+      "title": "Claude, don’t touch my lump",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump",
+      "pacer": "C",
+      "keywords": [
+        "happiness",
+        "psychology",
+        "decision making",
+        "well-being",
+        "logic"
+      ],
+      "published": "2026-10-13T21:04:46.000Z"
+    },
+    {
+      "id": "7840ce9398703e9f",
+      "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/",
+      "pacer": "C",
+      "keywords": [
+        "C++",
+        "std::promise",
+        "std::packaged_task",
+        "asynchronous programming",
+        "multithreading"
+      ],
+      "published": "2026-10-13T14:00:00.000Z"
+    },
+    {
+      "id": "735068da175f79b0",
+      "title": "Harmonic triangle",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/",
+      "pacer": "C",
+      "keywords": [
+        "harmonic triangle",
+        "Leibniz",
+        "mathematics",
+        "harmonic series",
+        "number theory"
+      ],
+      "published": "2026-10-13T13:45:18.000Z"
+    },
+    {
+      "id": "7e80df2842c6c98c",
+      "title": "Quoting Geoffrey Huntley",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "pacer": "P",
+      "keywords": [
+        "coding-agents",
+        "generative-ai",
+        "git",
+        "agentic-engineering",
+        "diagnostics"
+      ],
+      "published": "2026-10-13T13:32:00.000Z"
+    },
+    {
+      "id": "ab684a57a7593d41",
+      "title": "Subterranean Warfare – An Urgent DoW Need Without An Owner",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "url": "https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/",
+      "pacer": "C",
+      "keywords": [
+        "Subterranean Warfare",
+        "Department of War",
+        "Defense Strategy",
+        "Unified Command",
+        "DRPM"
+      ],
+      "published": "2026-10-13T13:00:19.000Z"
+    },
+    {
+      "id": "a4d4d764afcdc642",
+      "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/13/petards-r-us/",
+      "pacer": "C",
+      "keywords": [
+        "object permanence",
+        "cybersecurity",
+        "archiving",
+        "Cory Doctorow",
+        "digital history"
+      ],
+      "published": "2026-10-13T11:50:19.000Z"
+    },
+    {
+      "id": "ec2c09c516200955",
+      "title": "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Romeo and Juliet",
+        "Caroline Finch",
+        "Literary Analysis",
+        "Tragedy"
+      ],
+      "published": "2026-10-13T11:34:37.000Z"
+    },
+    {
+      "id": "94b5cfe8c3b87be9",
+      "title": "Weekly Update 525: AI Data Breach Hyperbole",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-525/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Troy Hunt",
+        "Artificial Intelligence",
+        "Data Breach",
+        "Media Analysis"
+      ],
+      "published": "2026-10-13T10:47:27.000Z"
+    },
+    {
+      "id": "e070bbd2e24dd2eb",
+      "title": "The Last Answer ",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "url": "https://idiallo.com/blog/the-last-answer",
+      "pacer": "C",
+      "keywords": [
+        "AI alignment",
+        "Sci-Fi",
+        "Artificial Intelligence",
+        "System failure",
+        "Fiction"
+      ],
+      "published": "2026-10-13T10:00:00.000Z"
+    },
+    {
+      "id": "ace58ee31866ab85",
+      "title": "web-edit 0.1a1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "pacer": "E",
+      "keywords": [
+        "web-edit",
+        "profiling",
+        "Python",
+        "Claude",
+        "software release"
+      ],
+      "published": "2026-10-13T01:40:05.000Z"
+    },
+    {
+      "id": "f99ea621acd6e4bb",
+      "title": "llm-meta-ai 0.2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "pacer": "E",
+      "keywords": [
+        "llm-meta-ai",
+        "Meta AI",
+        "Muse Wonder",
+        "generative-ai",
+        "LLM"
+      ],
+      "published": "2026-10-12T23:58:46.000Z"
+    },
+    {
+      "id": "4756ce2b40a65b42",
+      "title": "The geometric model of maintenance",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
+      "pacer": "E",
+      "keywords": [
+        "software maintenance",
+        "geometric model",
+        "git",
+        "empirical analysis",
+        "James Shore"
+      ],
+      "published": "2026-10-12T22:00:00.000Z"
+    },
+    {
       "id": "e62cea51a1661964",
       "title": "The Dock on Mac, From OS 10 to macOS 27",
       "source": "Jim Nielsen’s Blog",
@@ -17,38 +257,6 @@
       "published": "2026-10-12T19:00:00.000Z"
     },
     {
-      "id": "901eddfa61b84a5e",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "pacer": "C",
-      "keywords": [
-        "Python 3.15",
-        "lazy imports",
-        "programming",
-        "software development",
-        "PEP 810"
-      ],
-      "published": "2026-10-12T18:15:38.000Z"
-    },
-    {
-      "id": "818cf62a3bb0a7f8",
-      "title": "web-edit 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "pacer": "P",
-      "keywords": [
-        "web-edit",
-        "Tailscale",
-        "file-manager",
-        "Python",
-        "remote-access"
-      ],
-      "published": "2026-10-12T15:54:36.000Z"
-    },
-    {
       "id": "dda123f67c854cf8",
       "title": "The X is Off-Target",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -63,6 +271,22 @@
         "Content Strategy"
       ],
       "published": "2026-10-12T15:53:18.000Z"
+    },
+    {
+      "id": "c1146c848eafbdfd",
+      "title": "C++ futures part 1: The mental model",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "pacer": "C",
+      "keywords": [
+        "C++",
+        "futures",
+        "asynchronous",
+        "programming",
+        "mental model"
+      ],
+      "published": "2026-10-12T14:00:00.000Z"
     },
     {
       "id": "eb49c6967bf89c04",
@@ -111,22 +335,6 @@
         "GitHub"
       ],
       "published": "2026-10-12T09:00:00.000Z"
-    },
-    {
-      "id": "2f5855ec66718315",
-      "title": "datasette-ports 0.4",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "python",
-        "plugin",
-        "profiling",
-        "software update"
-      ],
-      "published": "2026-10-12T04:57:07.000Z"
     },
     {
       "id": "8a64b24c44c7bf1c",
@@ -225,22 +433,6 @@
       "published": "2026-10-11T11:34:39.000Z"
     },
     {
-      "id": "ed32cd489cb393b4",
-      "title": "Dwarf Fortress uses version control now",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "pacer": "E",
-      "keywords": [
-        "Dwarf Fortress",
-        "version control",
-        "Tarn Adams",
-        "game development",
-        "software engineering"
-      ],
-      "published": "2026-10-11T00:52:37.000Z"
-    },
-    {
       "id": "33426b149acb7339",
       "title": "Don't diagnose your opponents",
       "source": "seangoedecke.com RSS feed",
@@ -255,22 +447,6 @@
         "strategy"
       ],
       "published": "2026-10-11T00:00:00.000Z"
-    },
-    {
-      "id": "a2dbc26766a3bd99",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "pacer": "P",
-      "keywords": [
-        "Python",
-        "GitHub Actions",
-        "CI/CD",
-        "Programming",
-        "Software Development"
-      ],
-      "published": "2026-10-10T23:58:04.000Z"
     },
     {
       "id": "e9ba0249d33c9133",
@@ -705,22 +881,6 @@
       "published": "2026-10-07T21:41:47.000Z"
     },
     {
-      "id": "218b68d1a7eec80d",
-      "title": "Irrationality exponent of π",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/",
-      "pacer": "C",
-      "keywords": [
-        "π",
-        "irrationality exponent",
-        "mathematics",
-        "number theory",
-        "rational approximation"
-      ],
-      "published": "2026-10-07T21:19:20.000Z"
-    },
-    {
       "id": "cb6d787c461b444c",
       "title": "How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?",
       "source": "The Old New Thing",
@@ -865,22 +1025,6 @@
       "published": "2026-10-06T19:00:00.000Z"
     },
     {
-      "id": "0bcda310cca6f5b2",
-      "title": "Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/",
-      "pacer": "C",
-      "keywords": [
-        "compiler",
-        "ud2",
-        "int 3",
-        "unreachable code",
-        "debugging"
-      ],
-      "published": "2026-10-06T14:00:00.000Z"
-    },
-    {
       "id": "8a6e5980b161908d",
       "title": "Pluralistic: Swapping money for expertise (06 Oct 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -895,22 +1039,6 @@
         "Definitions"
       ],
       "published": "2026-10-06T12:58:26.000Z"
-    },
-    {
-      "id": "55847d987aca1b4e",
-      "title": "Una Watch - SDK and Writing Your First App",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/",
-      "pacer": "P",
-      "keywords": [
-        "Una Watch",
-        "SDK",
-        "Linux",
-        "開發教學",
-        "Hello World"
-      ],
-      "published": "2026-10-06T11:34:25.000Z"
     },
     {
       "id": "80de4c858e449ac5",
@@ -991,38 +1119,6 @@
         "Sudan"
       ],
       "published": "2026-10-05T22:00:00.000Z"
-    },
-    {
-      "id": "df2c0482025ad378",
-      "title": "Pluralistic: Scrutinized (05 Oct 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/10/05/pervert-glasses/",
-      "pacer": "C",
-      "keywords": [
-        "AI glasses",
-        "privacy",
-        "surveillance",
-        "Cory Doctorow",
-        "digital rights"
-      ],
-      "published": "2026-10-05T18:58:11.000Z"
-    },
-    {
-      "id": "fad0cd9c0a2d8309",
-      "title": "If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
-      "pacer": "C",
-      "keywords": [
-        "Windows",
-        "Hot-patching",
-        "Operating System",
-        "Software Engineering",
-        "The Old New Thing"
-      ],
-      "published": "2026-10-05T14:00:00.000Z"
     },
     {
       "id": "afdecd136fba8911",
@@ -1857,38 +1953,6 @@
       "published": "2026-09-22T06:12:01.000Z"
     },
     {
-      "id": "7848254fe672777f",
-      "title": "It's Not Just True, It's False ",
-      "source": "Software and Tech stories from an Insider - iDiallo.com",
-      "source_url": "https://idiallo.com/",
-      "url": "https://idiallo.com/byte-size/its-not-just-true-its-false",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "AI",
-        "productivity",
-        "hallucination",
-        "workplace"
-      ],
-      "published": "2026-09-22T01:49:51.000Z"
-    },
-    {
-      "id": "e8fb7849254f622f",
-      "title": "Cheaper LLM labelling",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/cheaper-llm-labeling",
-      "pacer": "P",
-      "keywords": [
-        "LLM",
-        "Perl",
-        "automation",
-        "labelling",
-        "git"
-      ],
-      "published": "2026-09-21T22:00:00.000Z"
-    },
-    {
       "id": "a7b9e879dda5ccb2",
       "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
       "source": "Jeff Geerling",
@@ -2079,22 +2143,6 @@
         "AI generation"
       ],
       "published": "2026-09-16T19:58:30.000Z"
-    },
-    {
-      "id": "fa62722b82a04c81",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "pacer": "E",
-      "keywords": [
-        "Radaris",
-        "Data Broker",
-        "Privacy Law",
-        "Domain Seizure",
-        "Krebs on Security"
-      ],
-      "published": "2026-09-16T18:14:22.000Z"
     },
     {
       "id": "8e70e1a03dfc5ccd",
@@ -2447,22 +2495,6 @@
         "Agentic Workflow"
       ],
       "published": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "8806f9b2a5487ff9",
-      "title": "Weekly Update 520: The Unscripted Edition",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-520/",
-      "pacer": "P",
-      "keywords": [
-        "YouTube",
-        "automation",
-        "workflow",
-        "thumbnail",
-        "productivity"
-      ],
-      "published": "2026-09-06T23:31:36.000Z"
     },
     {
       "id": "9df960d52a02ad36",
@@ -3201,22 +3233,6 @@
       "published": "2026-08-05T15:19:00.000Z"
     },
     {
-      "id": "a01041fffb6e0b27",
-      "title": "Incentives are for losers",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
-      "pacer": "C",
-      "keywords": [
-        "incentives",
-        "motivation",
-        "behavioral science",
-        "intrinsic motivation",
-        "experimental history"
-      ],
-      "published": "2026-08-05T14:54:40.000Z"
-    },
-    {
       "id": "68027a5a413c7ff8",
       "title": "Committing to creativity",
       "source": "Herman's blog",
@@ -3931,22 +3947,6 @@
         "enthusiast"
       ],
       "published": "2026-06-16T18:50:27.000Z"
-    },
-    {
-      "id": "960debb926861d36",
-      "title": "Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations",
-      "source": "Steve Blank",
-      "source_url": "https://steveblank.com/",
-      "url": "https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/",
-      "pacer": "C",
-      "keywords": [
-        "Lean LaunchPad",
-        "Steve Blank",
-        "Entrepreneurship",
-        "Startup Methodology",
-        "Stanford"
-      ],
-      "published": "2026-06-16T13:00:57.000Z"
     },
     {
       "id": "a6d95547cc6b0583",
@@ -5025,16 +5025,6 @@
         "Education"
       ],
       "strength": 0.8
-    },
-    {
-      "source": "15cd0e1830038ea0",
-      "target": "960debb926861d36",
-      "shared_keywords": [
-        "Lean LaunchPad",
-        "Steve Blank",
-        "Entrepreneurship"
-      ],
-      "strength": 0.6
     },
     {
       "source": "198b0cd352f0f7dd",
