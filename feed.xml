@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:57:24 GMT</lastBuildDate>
     
+    <item>
+      <title>We Need All the Disciplines</title>
+      <link>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</link>
+      <guid>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author argues that building great software requires a collaborative blend of various disciplines like design, product, and engineering. While incorporating human perspectives may reduce immediate efficiency compared to machine-driven workflows, it fosters the essential trust and shared judgment needed for long-term success.</description>
+    </item>
+
+    <item>
+      <title>How to Train Your Robot</title>
+      <link>https://www.construction-physics.com/p/how-to-train-your-robot</link>
+      <guid>https://www.construction-physics.com/p/how-to-train-your-robot</guid>
+      <pubDate>Thu, 15 Oct 2026 14:23:58 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores the relationship between the rapid advancement of artificial intelligence and the availability of large-scale datasets. It highlights how data serves as the foundational fuel for modern machine learning progress.</description>
+    </item>
+
+    <item>
+      <title>C++ futures part 4: What if I want an immediate on-thread std::async?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</guid>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This article discusses the limitations of C++'s std::async and explores why it does not support immediate execution on the current thread. It highlights that the language design intentionally avoids this behavior to maintain specific execution guarantees.</description>
+    </item>
+
+    <item>
+      <title>C++ futures part 3: The mental model for std::async</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</guid>
+      <pubDate>Wed, 14 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This article explores the mental model for using std::async in C++. It provides insights into how the function manages asynchronous tasks and execution strategies.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/15/enshittipedia/</link>
+      <guid>https://pluralistic.net/2026/10/15/enshittipedia/</guid>
+      <pubDate>Thu, 15 Oct 2026 11:03:29 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that platform monopolies like Amazon and Expedia have successfully locked in affluent consumer bases, forcing merchants to participate in their ecosystems. This consolidation of market power increases costs for consumers and suppresses competition across multiple industries.</description>
+    </item>
+
+    <item>
+      <title>Chirp Pong</title>
+      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
+      <guid>https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:47:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a game experiment called Chirp Pong, which allows two phones to play a local multiplayer game using audio chirps for networking. The project was built using Claude Code to demonstrate the feasibility of browser-based games communicating via the microphone.</description>
+    </item>
+
+    <item>
+      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
+      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
+      <guid>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
+      <pubDate>Thu, 15 Oct 2026 13:04:03 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic reported significant revenue growth to $16.8 billion in Q3, signaling strong financial performance ahead of a potential IPO. The report highlights efficiency gains in computing power and reveals a strategic reduction in model 'distillation' by rival AI labs.</description>
+    </item>
+
+    <item>
+      <title>Tree Appreciator</title>
+      <link>https://simonwillison.net/2026/Oct/14/tree-appreciator/</link>
+      <guid>https://simonwillison.net/2026/Oct/14/tree-appreciator/</guid>
+      <pubDate>Wed, 14 Oct 2026 21:23:01 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a browser-based game called 'Tree Appreciator,' developed entirely by Claude Opus 5.5 Max through a simple prompt. The project highlights the increasing effectiveness of LLMs in autonomously creating compelling, interactive media experiences.</description>
+    </item>
+
     <item>
       <title>The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum</title>
       <link>https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</link>
@@ -832,78 +904,6 @@
       <pubDate>Tue, 06 Oct 2026 19:00:00 GMT</pubDate>
       <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
       <description>This post explores how Apple’s shift toward standardized 'squircle' app icons mirrors the homogenization caused by Homeowners Associations (HOAs). The author argues that while this design mandate improves the quality of poor icons, it simultaneously limits the potential for creative, illustrative excellence.</description>
-    </item>
-
-    <item>
-      <title>Predicting Peace</title>
-      <link>https://entropicthoughts.com/forecasting-peace</link>
-      <guid>https://entropicthoughts.com/forecasting-peace</guid>
-      <pubDate>Mon, 05 Oct 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author explores the difficulty of predicting geopolitical conflicts, specifically regarding cease-fires in Ukraine and Sudan for 2026. This discussion is framed within the context of the ACX 2026 prediction competition.</description>
-    </item>
-
-    <item>
-      <title>Missing Link</title>
-      <link>https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</link>
-      <guid>https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</guid>
-      <pubDate>Tue, 06 Oct 2026 02:59:08 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>The author reflects on their time working at 'Link,' a free daily newspaper that pioneered condensed, visual-heavy storytelling. This article explores how the publication's unique format shaped the author's editorial and design skills, emphasizing the importance of brevity in journalism.</description>
-    </item>
-
-    <item>
-      <title>Lissajous and Bowditch</title>
-      <link>https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:21:52 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the historical naming conventions of Lissajous figures, noting that they were first described by Nathaniel Bowditch in 1815 before being popularized by Jules Antoine Lissajous. The author reflects on the attribution of these mathematical curves while referencing previous related writings.</description>
-    </item>
-
-    <item>
-      <title>A topological model for provability logic</title>
-      <link>https://www.johndcook.com/blog/2026/10/06/godel-lob/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/06/godel-lob/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:46:28 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores provability logic, specifically the Gödel-Löb logic, which models the distinction between mathematical truth and provability. It introduces a topological interpretation of the provability operator, providing a spatial framework for understanding formal arithmetic.</description>
-    </item>
-
-    <item>
-      <title>What is Codemode</title>
-      <link>https://lucumr.pocoo.org/2026/10/6/codemode/</link>
-      <guid>https://lucumr.pocoo.org/2026/10/6/codemode/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
-      <description>The article explores the role of Codemode and MCP (Model Context Protocol) in LLM interactions, moving beyond standard CLI scripts. It differentiates between traditional bash-based tools and native model-specific tools like image processing or sub-agent orchestration.</description>
-    </item>
-
-    <item>
-      <title>If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post addresses the complexities of multiple hot-patches targeting the same function in Windows. It clarifies that hot-patching is an internal mechanism designed for the operating system rather than a general-purpose tool for developers.</description>
-    </item>
-
-    <item>
-      <title>A Terminal Protocol for Program Status (OSC 7501)</title>
-      <link>https://mitchellh.com/writing/program-status-osc7501</link>
-      <guid>https://mitchellh.com/writing/program-status-osc7501</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://mitchellh.com/">Mitchell Hashimoto</source>
-      <description>Mitchell Hashimoto proposes a new terminal protocol, OSC 7501, designed to communicate the current status of program executions to terminal emulators. This standard aims to improve user experience by allowing terminals to display real-time progress, completion status, or background activity indicators for CLI applications.</description>
-    </item>
-
-    <item>
-      <title>Una Watch - SDK and Writing Your First App</title>
-      <link>https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:34:25 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post provides a streamlined, step-by-step guide for setting up the Una Watch SDK on Linux. It aims to simplify the development process by consolidating fragmented documentation into a clear walkthrough for building a 'Hello, World!' app.</description>
     </item>
   </channel>
 </rss>

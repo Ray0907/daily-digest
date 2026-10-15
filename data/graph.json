@@ -1,6 +1,118 @@
 {
   "nodes": [
     {
+      "id": "23178e6a594364e0",
+      "title": "Chirp Pong",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "pacer": "E",
+      "keywords": [
+        "Chirp Pong",
+        "Web Audio API",
+        "Claude Code",
+        "Game Design",
+        "Generative AI"
+      ],
+      "published": "2026-10-15T19:47:52.000Z"
+    },
+    {
+      "id": "1a40c9492dcd1cf7",
+      "title": "We Need All the Disciplines",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/we-need-all-disciplines/",
+      "pacer": "C",
+      "keywords": [
+        "software development",
+        "collaboration",
+        "cross-disciplinary",
+        "human-machine",
+        "teamwork"
+      ],
+      "published": "2026-10-15T19:00:00.000Z"
+    },
+    {
+      "id": "b373dd5ab1651f81",
+      "title": "How to Train Your Robot",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "machine learning",
+        "training data",
+        "artificial intelligence",
+        "tech trends"
+      ],
+      "published": "2026-10-15T14:23:58.000Z"
+    },
+    {
+      "id": "d3e631ba7c133cdf",
+      "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
+      "pacer": "C",
+      "keywords": [
+        "C++",
+        "std::async",
+        "concurrency",
+        "multithreading",
+        "programming"
+      ],
+      "published": "2026-10-15T14:00:00.000Z"
+    },
+    {
+      "id": "782d5b0065aab2f9",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "pacer": "E",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "revenue",
+        "distillation"
+      ],
+      "published": "2026-10-15T13:04:03.000Z"
+    },
+    {
+      "id": "a24449f1839a4806",
+      "title": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+      "pacer": "C",
+      "keywords": [
+        "monopoly",
+        "Amazon",
+        "Expedia",
+        "market power",
+        "consumer economy"
+      ],
+      "published": "2026-10-15T11:03:29.000Z"
+    },
+    {
+      "id": "eb4b2d9063ab8e79",
+      "title": "Tree Appreciator",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "pacer": "E",
+      "keywords": [
+        "Claude",
+        "Three.js",
+        "Generative AI",
+        "Game Development",
+        "LLMs"
+      ],
+      "published": "2026-10-14T21:23:01.000Z"
+    },
+    {
       "id": "0728fa4ca8cab1e2",
       "title": "LaTeX package for Pascal-like triangles",
       "source": "John D. Cook",
@@ -47,6 +159,22 @@
         "Russia"
       ],
       "published": "2026-10-14T14:22:49.000Z"
+    },
+    {
+      "id": "c482f2f915dd2438",
+      "title": "C++ futures part 3: The mental model for std::async",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/",
+      "pacer": "C",
+      "keywords": [
+        "C++",
+        "std::async",
+        "asynchronous programming",
+        "mental model",
+        "concurrency"
+      ],
+      "published": "2026-10-14T14:00:00.000Z"
     },
     {
       "id": "964afbffb44cadb1",
@@ -177,22 +305,6 @@
       "published": "2026-10-13T23:00:06.000Z"
     },
     {
-      "id": "39b03f627696e97f",
-      "title": "llm-gemini 0.35",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "pacer": "E",
-      "keywords": [
-        "llm-gemini",
-        "Gemini 4 Argon",
-        "AI models",
-        "SVG generation",
-        "API pricing"
-      ],
-      "published": "2026-10-13T22:28:54.000Z"
-    },
-    {
       "id": "cd71fb54a46c0d24",
       "title": "Claude, don’t touch my lump",
       "source": "Experimental History",
@@ -239,22 +351,6 @@
         "number theory"
       ],
       "published": "2026-10-13T13:45:18.000Z"
-    },
-    {
-      "id": "7e80df2842c6c98c",
-      "title": "Quoting Geoffrey Huntley",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "pacer": "P",
-      "keywords": [
-        "coding-agents",
-        "generative-ai",
-        "git",
-        "agentic-engineering",
-        "diagnostics"
-      ],
-      "published": "2026-10-13T13:32:00.000Z"
     },
     {
       "id": "ab684a57a7593d41",
@@ -335,22 +431,6 @@
         "Fiction"
       ],
       "published": "2026-10-13T10:00:00.000Z"
-    },
-    {
-      "id": "ace58ee31866ab85",
-      "title": "web-edit 0.1a1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-      "pacer": "E",
-      "keywords": [
-        "web-edit",
-        "profiling",
-        "Python",
-        "Claude",
-        "software release"
-      ],
-      "published": "2026-10-13T01:40:05.000Z"
     },
     {
       "id": "4756ce2b40a65b42",
@@ -865,22 +945,6 @@
       "published": "2026-10-08T16:54:14.000Z"
     },
     {
-      "id": "b3eab842b64fe213",
-      "title": "If one anti-malware software is good, does that make two better?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/",
-      "pacer": "C",
-      "keywords": [
-        "anti-malware",
-        "cybersecurity",
-        "software",
-        "compatibility",
-        "The Old New Thing"
-      ],
-      "published": "2026-10-08T14:00:00.000Z"
-    },
-    {
       "id": "83299127c3afec3e",
       "title": "No Man Is an Island",
       "source": "Fernando Borretti",
@@ -943,22 +1007,6 @@
         "ergonomics"
       ],
       "published": "2026-10-07T22:00:00.000Z"
-    },
-    {
-      "id": "cb6d787c461b444c",
-      "title": "How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/",
-      "pacer": "C",
-      "keywords": [
-        "x86",
-        "opcodes",
-        "ud0",
-        "ud1",
-        "assembly"
-      ],
-      "published": "2026-10-07T14:00:00.000Z"
     },
     {
       "id": "54b224d88c2cb093",
@@ -1089,22 +1137,6 @@
       "published": "2026-10-06T19:00:00.000Z"
     },
     {
-      "id": "8a6e5980b161908d",
-      "title": "Pluralistic: Swapping money for expertise (06 Oct 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/10/06/nonfungible/",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "Machine Learning",
-        "Cory Doctorow",
-        "Technology Policy",
-        "Definitions"
-      ],
-      "published": "2026-10-06T12:58:26.000Z"
-    },
-    {
       "id": "80de4c858e449ac5",
       "title": "Missing Link",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -1231,22 +1263,6 @@
         "Tech History"
       ],
       "published": "2026-10-04T22:09:15.000Z"
-    },
-    {
-      "id": "55707c9bf6ce9b88",
-      "title": "“I’m Embarrassed on Behalf of the Tech Industry”",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/embarrassed-by-tech/",
-      "pacer": "C",
-      "keywords": [
-        "tech industry",
-        "usability",
-        "UX design",
-        "digital divide",
-        "user experience"
-      ],
-      "published": "2026-10-04T19:00:00.000Z"
     },
     {
       "id": "dccadbbc646fa325",
@@ -1839,22 +1855,6 @@
         "Software architecture"
       ],
       "published": "2026-09-26T15:25:00.000Z"
-    },
-    {
-      "id": "d11fe88d622e8821",
-      "title": "Reading List 2026-09-26",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/reading-list-2026-09-26",
-      "pacer": "R",
-      "keywords": [
-        "ASML",
-        "Energy",
-        "Starlink",
-        "Infrastructure",
-        "Technology"
-      ],
-      "published": "2026-09-26T10:17:46.000Z"
     },
     {
       "id": "18fc3bc3cfaabf93",
@@ -4963,6 +4963,16 @@
     }
   ],
   "links": [
+    {
+      "source": "d3e631ba7c133cdf",
+      "target": "c482f2f915dd2438",
+      "shared_keywords": [
+        "C++",
+        "std::async",
+        "concurrency"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "913e92cb8284798f",
       "target": "ace28ac54f782162",

@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-10-15T00:09:54.737Z",
+  "last_updated": "2026-10-15T23:57:24.752Z",
   "articles": [
+    {
+      "id": "1a40c9492dcd1cf7",
+      "title": "We Need All the Disciplines",
+      "url": "https://blog.jim-nielsen.com/2026/we-need-all-disciplines/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-15T19:00:00.000Z",
+      "summary_en": "The author argues that building great software requires a collaborative blend of various disciplines like design, product, and engineering. While incorporating human perspectives may reduce immediate efficiency compared to machine-driven workflows, it fosters the essential trust and shared judgment needed for long-term success.",
+      "summary_zh": "作者認為打造卓越的軟體需要整合產品、設計與工程等多元專業領域。儘管與人類協作在短期內可能不如機器運作般「高效」，但這種協作所帶來的判斷力、信任與共同理解，是達成長期目標的關鍵。",
+      "keywords": [
+        "software development",
+        "collaboration",
+        "cross-disciplinary",
+        "human-machine",
+        "teamwork"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual argument on the philosophy of software development and the value of human collaboration over pure machine output.",
+      "pacer_reason_zh": "本文針對軟體開發哲學及人類協作相較於純機器產出的價值，提供了概念性的論點。"
+    },
+    {
+      "id": "b373dd5ab1651f81",
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-15T14:23:58.000Z",
+      "summary_en": "This article explores the relationship between the rapid advancement of artificial intelligence and the availability of large-scale datasets. It highlights how data serves as the foundational fuel for modern machine learning progress.",
+      "summary_zh": "本文探討了人工智慧的快速進步與大規模訓練數據可用性之間的關係。文章強調數據已成為推動現代機器學習發展的關鍵基礎。",
+      "keywords": [
+        "AI",
+        "machine learning",
+        "training data",
+        "artificial intelligence",
+        "tech trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual relationship between data availability and the current state of AI development.",
+      "pacer_reason_zh": "內容解釋了數據可用性與當前人工智慧發展狀態之間的概念性關係。"
+    },
+    {
+      "id": "d3e631ba7c133cdf",
+      "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-15T14:00:00.000Z",
+      "summary_en": "This article discusses the limitations of C++'s std::async and explores why it does not support immediate execution on the current thread. It highlights that the language design intentionally avoids this behavior to maintain specific execution guarantees.",
+      "summary_zh": "本文探討了 C++ 中 std::async 的局限性，並解釋了為何該語言不支援在當前執行緒上立即執行。文章強調了語言設計選擇背後的考量，以維持特定的執行保證。",
+      "keywords": [
+        "C++",
+        "std::async",
+        "concurrency",
+        "multithreading",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual design decisions and theoretical behavior of the C++ standard library's threading model.",
+      "pacer_reason_zh": "本文解釋了 C++ 標準函式庫執行緒模型的概念設計決策與理論行為。"
+    },
+    {
+      "id": "c482f2f915dd2438",
+      "title": "C++ futures part 3: The mental model for std::async",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-14T14:00:00.000Z",
+      "summary_en": "This article explores the mental model for using std::async in C++. It provides insights into how the function manages asynchronous tasks and execution strategies.",
+      "summary_zh": "本文探討了 C++ 中 std::async 的心智模型。文中深入解析了該函式如何管理非同步任務及其執行策略。",
+      "keywords": [
+        "C++",
+        "std::async",
+        "asynchronous programming",
+        "mental model",
+        "concurrency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and mental model behind a specific programming construct.",
+      "pacer_reason_zh": "本文著重於解釋特定程式結構背後的概念框架與心智模型。"
+    },
+    {
+      "id": "a24449f1839a4806",
+      "title": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-15T11:03:29.000Z",
+      "summary_en": "Cory Doctorow argues that platform monopolies like Amazon and Expedia have successfully locked in affluent consumer bases, forcing merchants to participate in their ecosystems. This consolidation of market power increases costs for consumers and suppresses competition across multiple industries.",
+      "summary_zh": "Cory Doctorow 指出，亞馬遜和 Expedia 等平台壟斷企業透過鎖定富裕消費者群體，迫使商家進入其生態系統。這種市場力量的集中導致消費成本上升，並壓抑了各行各業的競爭。",
+      "keywords": [
+        "monopoly",
+        "Amazon",
+        "Expedia",
+        "market power",
+        "consumer economy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how digital platform monopolies manipulate market dynamics and consumer behavior.",
+      "pacer_reason_zh": "文章針對數位平台壟斷如何操縱市場動態及消費者行為提供了概念性的解釋。"
+    },
+    {
+      "id": "23178e6a594364e0",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-15T19:47:52.000Z",
+      "summary_en": "Simon Willison shares a game experiment called Chirp Pong, which allows two phones to play a local multiplayer game using audio chirps for networking. The project was built using Claude Code to demonstrate the feasibility of browser-based games communicating via the microphone.",
+      "summary_zh": "Simon Willison 分享了一個名為 Chirp Pong 的遊戲實驗，透過麥克風發出的音頻訊號來實現兩台手機之間的連線對戰。該專案使用 Claude Code 開發，展示了網頁瀏覽器遊戲利用聲音訊號進行通訊的可行性。",
+      "keywords": [
+        "Chirp Pong",
+        "Web Audio API",
+        "Claude Code",
+        "Game Design",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an experimental case study demonstrating a proof-of-concept for browser-based audio networking.",
+      "pacer_reason_zh": "本文是一個實驗性案例研究，展示了基於瀏覽器音頻網路的概念驗證。"
+    },
+    {
+      "id": "782d5b0065aab2f9",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-15T13:04:03.000Z",
+      "summary_en": "Anthropic reported significant revenue growth to $16.8 billion in Q3, signaling strong financial performance ahead of a potential IPO. The report highlights efficiency gains in computing power and reveals a strategic reduction in model 'distillation' by rival AI labs.",
+      "summary_zh": "Anthropic 第三季營收顯著增長至 168 億美元，顯示其在預期 IPO 前的強勁財務表現。報告強調了計算效率的提升，並透露該公司已大幅減少競爭對手利用其模型進行「蒸餾」的行為。",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "revenue",
+        "distillation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides specific financial data, quarterly revenue figures, and operational benchmarks derived from investor reporting.",
+      "pacer_reason_zh": "本文提供了具體的財務數據、季度營收數字以及從投資者報告中得出的營運基準。"
+    },
+    {
+      "id": "eb4b2d9063ab8e79",
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-14T21:23:01.000Z",
+      "summary_en": "Simon Willison shares a browser-based game called 'Tree Appreciator,' developed entirely by Claude Opus 5.5 Max through a simple prompt. The project highlights the increasing effectiveness of LLMs in autonomously creating compelling, interactive media experiences.",
+      "summary_zh": "Simon Willison 分享了一款名為「Tree Appreciator」的網頁遊戲，該遊戲由 Claude Opus 5.5 Max 透過簡單的提示指令完整開發而成。此專案展現了大型語言模型在自動構建互動式媒體體驗方面日益增強的能力。",
+      "keywords": [
+        "Claude",
+        "Three.js",
+        "Generative AI",
+        "Game Development",
+        "LLMs"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post acts as an experimental case study demonstrating the capabilities and results of AI-driven software development.",
+      "pacer_reason_zh": "這篇文章作為一個實驗性的案例研究，展示了 AI 驅動軟體開發的能力與成果。"
+    },
     {
       "id": "964afbffb44cadb1",
       "title": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
