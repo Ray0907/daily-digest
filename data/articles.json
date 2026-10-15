@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-10-14T00:42:15.530Z",
+  "last_updated": "2026-10-15T00:09:54.737Z",
   "articles": [
+    {
+      "id": "964afbffb44cadb1",
+      "title": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
+      "url": "https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-10-14T13:30:00.000Z",
+      "summary_en": "The author reflects on insights gathered from the 9th Cybersecurity Forum in Brussels, which brought together key stakeholders from the European energy and regulatory sectors. The post highlights the critical yet still unregulated nature of solar power grids and their associated cybersecurity vulnerabilities.",
+      "summary_zh": "作者分享了在布魯塞爾舉行的第九屆能源網路資安論壇中的觀察，該會議匯集了歐洲能源產業與監管機構的關鍵利害關係人。文章強調了太陽能發電網在網路安全方面的重要性，以及目前監管機制尚未完善的現況。",
+      "keywords": [
+        "Cybersecurity",
+        "Solar Power",
+        "Energy Grids",
+        "European Commission",
+        "Regulation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a first-hand report and observations from a specific industry conference, providing insights into the current state of sector-specific cybersecurity.",
+      "pacer_reason_zh": "本文屬於特定產業會議的第一手報導與觀察，提供了該領域目前網路安全現況的洞察。"
+    },
+    {
+      "id": "0728fa4ca8cab1e2",
+      "title": "LaTeX package for Pascal-like triangles",
+      "url": "https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-14T17:58:07.000Z",
+      "summary_en": "The author shares a LaTeX solution for formatting Pascal-like triangles, such as the harmonic triangle, in a traditional centered layout. This post highlights the use of specialized tools to overcome the visual limitations of standard fixed-width text formatting.",
+      "summary_zh": "作者分享了一種使用 LaTeX 格式化帕斯卡三角形（如調和三角形）的方法，以呈現傳統的居中排列。這篇文章介紹了如何利用特定工具克服固定寬度文字在排版上的視覺限制。",
+      "keywords": [
+        "LaTeX",
+        "Pascal triangle",
+        "Harmonic triangle",
+        "Typesetting",
+        "Mathematics"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a practical solution and tool recommendation for formatting specific mathematical structures in LaTeX.",
+      "pacer_reason_zh": "該文章針對 LaTeX 中的特定數學結構排版，提供了實用的解決方案與工具建議。"
+    },
+    {
+      "id": "abfa3657a195d8b3",
+      "title": "A generalization of the Pythagorean theorem",
+      "url": "https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-14T11:11:11.000Z",
+      "summary_en": "This article explores a geometric generalization of the Pythagorean theorem discovered by G. D. Chakerian. It explains how constructing specific rectangles on the sides of any triangle creates area relationships that extend the principles of the original theorem.",
+      "summary_zh": "本文探討了由 G. D. Chakerian 發現的畢氏定理推廣形式。文章說明了如何在任意三角形的各邊建立矩形，並透過幾何構造證明這些矩形面積之間存在類似畢氏定理的關係。",
+      "keywords": [
+        "Pythagorean theorem",
+        "geometry",
+        "G. D. Chakerian",
+        "mathematics",
+        "triangles"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its theoretical generalization rather than providing a tutorial or experimental data.",
+      "pacer_reason_zh": "本文旨在解釋一項數學概念及其理論推廣，而非提供教學指南或實驗數據。"
+    },
+    {
+      "id": "c4fef396e873f79c",
+      "title": "Poe, Bessel, and Drones",
+      "url": "https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-14T10:00:22.000Z",
+      "summary_en": "This article explores the mathematical connection between Edgar Allan Poe's 'The Pit and the Pendulum' and the Bessel function. It explains how the shortening pendulum in the story creates a dynamic system that differs from standard harmonic oscillators.",
+      "summary_zh": "本文探討了愛德華·愛倫·坡的《陷阱與鐘擺》與貝塞爾函數之間的數學聯繫。文章解釋了故事中變長鐘擺的物理特性，並說明其如何形成不同於一般諧振子的動力系統。",
+      "keywords": [
+        "Edgar Allan Poe",
+        "Bessel function",
+        "pendulum",
+        "physics",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual link between literary fiction and mathematical functions.",
+      "pacer_reason_zh": "本文解釋了文學小說與數學函數之間的觀念聯繫。"
+    },
+    {
+      "id": "9784d9dc65d9f144",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-14T00:00:00.000Z",
+      "summary_en": "This article serves as a satirical commentary on software engineering pain points, specifically focusing on the absurdity of common programming language pitfalls. It highlights the frustration developers face when encountering recurring issues that feel preventable yet remain systemic in certain environments.",
+      "summary_zh": "這篇文章以諷刺手法探討軟體工程中的痛點，特別針對程式語言中常見的荒謬缺失進行評論。作者強調了開發者在面對這些反覆發生卻難以防範的問題時，所感受到的深刻無奈。",
+      "keywords": [
+        "software engineering",
+        "programming satire",
+        "developer culture",
+        "tech humor",
+        "language design"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses satire and analogy to draw parallels between developer frustrations and the systemic design flaws of programming languages.",
+      "pacer_reason_zh": "文章透過諷刺與類比手法，將開發者的挫折感與程式語言的系統性設計缺陷進行了連結與對照。"
+    },
+    {
+      "id": "3bbbfb700dec243b",
+      "title": "The Internet of Very Cheap Things",
+      "url": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-14T11:34:08.000Z",
+      "summary_en": "The author reflects on the drastic decrease in the cost of IoT devices over the past twelve years, highlighting how Moore's Law continues to drive affordability in domestic hardware. By comparing current prices of devices like Zigbee bulbs to historical data, the post illustrates the rapid evolution of consumer technology accessibility.",
+      "summary_zh": "作者回顧過去十二年物聯網裝置成本的急劇下降，強調摩爾定律如何持續推動居家硬體的平價化。透過比較現今 Zigbee 燈泡等裝置的價格與過去數據，文章展現了消費電子產品可負擔性的快速演變。",
+      "keywords": [
+        "IoT",
+        "Moore's Law",
+        "consumer technology",
+        "Zigbee",
+        "hardware"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses price comparisons and historical data to demonstrate the evolution of hardware affordability.",
+      "pacer_reason_zh": "本文透過價格比較與歷史數據，論證了硬體價格可負擔性的演變。"
+    },
+    {
+      "id": "679425e2c5ab85db",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-10-14T14:22:49.000Z",
+      "summary_en": "The United Kingdom has imposed economic sanctions on the cryptocurrency platform Cryptomus for facilitating illicit financial activities. Investigators identified the platform as a key conduit for money laundering associated with ransomware, cybercrime, and Russian sanctions evasion.",
+      "summary_zh": "英國已對加密貨幣平台 Cryptomus 實施經濟制裁，理由是該平台協助俄羅斯規避金融限制。調查顯示，Cryptomus 經常被用於處理勒索軟體、毒品交易及網路犯罪等非法資金流。",
+      "keywords": [
+        "Cryptomus",
+        "sanctions",
+        "money laundering",
+        "cryptocurrency",
+        "Russia"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides evidence and reporting on specific investigative findings regarding criminal activities and governmental sanctions.",
+      "pacer_reason_zh": "本文針對特定的犯罪活動與政府制裁措施提供了調查證據與報導。"
+    },
+    {
+      "id": "8b2cab1489374fa7",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-14T16:26:53.000Z",
+      "summary_en": "AI-powered decompilation is transforming game development, offering major potential for software preservation and accessibility on modern hardware. However, this capability raises significant concerns regarding intellectual property theft and the involuntary open-sourcing of commercial applications.",
+      "summary_zh": "AI 驅動的程式碼反編譯技術正在改變遊戲開發領域，為老舊遊戲的保存與現代化移植帶來了重大契機。與此同時，這項技術也引發了關於智慧財產權遭竊以及軟體被迫開源的安全疑慮。",
+      "keywords": [
+        "AI",
+        "decompilation",
+        "game-preservation",
+        "software-ethics",
+        "WebAssembly"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explores the implications and impact of AI decompilation technology on the software industry.",
+      "pacer_reason_zh": "本文從概念層面探討了 AI 反編譯技術對軟體產業的影響與啟示。"
+    },
+    {
+      "id": "b3b8517ec9e768f8",
+      "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
+      "url": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-10-14T13:00:00.000Z",
+      "summary_en": "Jeff Geerling reviews the $699 Formlabs Form Studio 1, an entry-level SLA resin printer designed for hobbyists. He shares his initial transition from FDM printing to the SLA workflow and highlights the accessibility of this new device.",
+      "summary_zh": "Jeff Geerling 評測了 Formlabs 推出的 Form Studio 1，這是一款針對業餘愛好者設計、售價 699 美元的入門級 SLA 光固化 3D 印表機。他分享了自己從 FDM 轉向 SLA 列印的初步體驗，並強調了這款設備的親民性。",
+      "keywords": [
+        "3D printing",
+        "SLA",
+        "Formlabs",
+        "Form Studio 1",
+        "resin printing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is a firsthand evaluation and case study of a specific product experience from a user's perspective.",
+      "pacer_reason_zh": "本文是以使用者觀點出發的產品實測體驗，屬於案例研究性質。"
+    },
     {
       "id": "cd71fb54a46c0d24",
       "title": "Claude, don’t touch my lump",

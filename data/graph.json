@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "0728fa4ca8cab1e2",
+      "title": "LaTeX package for Pascal-like triangles",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/",
+      "pacer": "P",
+      "keywords": [
+        "LaTeX",
+        "Pascal triangle",
+        "Harmonic triangle",
+        "Typesetting",
+        "Mathematics"
+      ],
+      "published": "2026-10-14T17:58:07.000Z"
+    },
+    {
+      "id": "8b2cab1489374fa7",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "decompilation",
+        "game-preservation",
+        "software-ethics",
+        "WebAssembly"
+      ],
+      "published": "2026-10-14T16:26:53.000Z"
+    },
+    {
+      "id": "679425e2c5ab85db",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "pacer": "E",
+      "keywords": [
+        "Cryptomus",
+        "sanctions",
+        "money laundering",
+        "cryptocurrency",
+        "Russia"
+      ],
+      "published": "2026-10-14T14:22:49.000Z"
+    },
+    {
+      "id": "964afbffb44cadb1",
+      "title": "The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "url": "https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/",
+      "pacer": "E",
+      "keywords": [
+        "Cybersecurity",
+        "Solar Power",
+        "Energy Grids",
+        "European Commission",
+        "Regulation"
+      ],
+      "published": "2026-10-14T13:30:00.000Z"
+    },
+    {
+      "id": "b3b8517ec9e768f8",
+      "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
+      "pacer": "E",
+      "keywords": [
+        "3D printing",
+        "SLA",
+        "Formlabs",
+        "Form Studio 1",
+        "resin printing"
+      ],
+      "published": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": "3bbbfb700dec243b",
+      "title": "The Internet of Very Cheap Things",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
+      "pacer": "E",
+      "keywords": [
+        "IoT",
+        "Moore's Law",
+        "consumer technology",
+        "Zigbee",
+        "hardware"
+      ],
+      "published": "2026-10-14T11:34:08.000Z"
+    },
+    {
+      "id": "abfa3657a195d8b3",
+      "title": "A generalization of the Pythagorean theorem",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/",
+      "pacer": "C",
+      "keywords": [
+        "Pythagorean theorem",
+        "geometry",
+        "G. D. Chakerian",
+        "mathematics",
+        "triangles"
+      ],
+      "published": "2026-10-14T11:11:11.000Z"
+    },
+    {
+      "id": "c4fef396e873f79c",
+      "title": "Poe, Bessel, and Drones",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/",
+      "pacer": "C",
+      "keywords": [
+        "Edgar Allan Poe",
+        "Bessel function",
+        "pendulum",
+        "physics",
+        "mathematics"
+      ],
+      "published": "2026-10-14T10:00:22.000Z"
+    },
+    {
+      "id": "9784d9dc65d9f144",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "pacer": "A",
+      "keywords": [
+        "software engineering",
+        "programming satire",
+        "developer culture",
+        "tech humor",
+        "language design"
+      ],
+      "published": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "0fbd64ca10e3ba0a",
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "source": "Krebs on Security",
@@ -207,22 +351,6 @@
         "software release"
       ],
       "published": "2026-10-13T01:40:05.000Z"
-    },
-    {
-      "id": "f99ea621acd6e4bb",
-      "title": "llm-meta-ai 0.2",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "pacer": "E",
-      "keywords": [
-        "llm-meta-ai",
-        "Meta AI",
-        "Muse Wonder",
-        "generative-ai",
-        "LLM"
-      ],
-      "published": "2026-10-12T23:58:46.000Z"
     },
     {
       "id": "4756ce2b40a65b42",
@@ -753,22 +881,6 @@
       "published": "2026-10-08T14:00:00.000Z"
     },
     {
-      "id": "58c1bf7e51063bbf",
-      "title": "Privacy policies and modal logic",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/",
-      "pacer": "C",
-      "keywords": [
-        "privacy",
-        "modal logic",
-        "data privacy",
-        "Helen Nissenbaum",
-        "formal logic"
-      ],
-      "published": "2026-10-08T13:43:02.000Z"
-    },
-    {
       "id": "83299127c3afec3e",
       "title": "No Man Is an Island",
       "source": "Fernando Borretti",
@@ -801,22 +913,6 @@
       "published": "2026-10-08T12:02:36.000Z"
     },
     {
-      "id": "0555cd41b40bed47",
-      "title": "Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/",
-      "pacer": "A",
-      "keywords": [
-        "theatre",
-        "review",
-        "Hay Fever",
-        "theatrical experience",
-        "budget"
-      ],
-      "published": "2026-10-08T11:34:40.000Z"
-    },
-    {
       "id": "b1050dd1122a429a",
       "title": "Monte-Carlo simulations",
       "source": "Eli Bendersky's website",
@@ -833,22 +929,6 @@
       "published": "2026-10-08T02:34:00.000Z"
     },
     {
-      "id": "9e779a3af4c86981",
-      "title": "Consequences of progress toward the Riemann Hypothesis",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/",
-      "pacer": "C",
-      "keywords": [
-        "Riemann Hypothesis",
-        "Mathematics",
-        "Zeta function",
-        "Number theory",
-        "Quasi Riemann Hypothesis"
-      ],
-      "published": "2026-10-07T22:29:28.000Z"
-    },
-    {
       "id": "e6b4b2b510cb634c",
       "title": "Swemak: Colemak for Swedish",
       "source": "Entropic Thoughts",
@@ -863,22 +943,6 @@
         "ergonomics"
       ],
       "published": "2026-10-07T22:00:00.000Z"
-    },
-    {
-      "id": "792a2234fabfc5ad",
-      "title": "Faster Fourier Transform",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/",
-      "pacer": "C",
-      "keywords": [
-        "FFT",
-        "Fast Fourier Transform",
-        "Algorithms",
-        "Mathematics",
-        "Computational Complexity"
-      ],
-      "published": "2026-10-07T21:41:47.000Z"
     },
     {
       "id": "cb6d787c461b444c",
@@ -1793,22 +1857,6 @@
       "published": "2026-09-26T10:17:46.000Z"
     },
     {
-      "id": "5569bca5352ec422",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "pacer": "E",
-      "keywords": [
-        "cybersecurity",
-        "data breach",
-        "hacking",
-        "telecommunications",
-        "sentencing"
-      ],
-      "published": "2026-09-25T21:44:40.000Z"
-    },
-    {
       "id": "18fc3bc3cfaabf93",
       "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
       "source": "Jeff Geerling",
@@ -2177,22 +2225,6 @@
       "published": "2026-09-15T00:00:00.000Z"
     },
     {
-      "id": "7d312d48df8ae0bf",
-      "title": "Hoe wordt de overheid weer 'van de IT'?",
-      "source": "Bert Hubert's writings",
-      "source_url": "https://berthub.eu/articles/",
-      "url": "https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/",
-      "pacer": "C",
-      "keywords": [
-        "Digital Sovereignty",
-        "Dutch Government",
-        "Big Tech",
-        "IT Policy",
-        "Autonomy"
-      ],
-      "published": "2026-09-14T12:45:00.000Z"
-    },
-    {
       "id": "0f11475615834c8c",
       "title": "Interpreting Pangram",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -2449,22 +2481,6 @@
       "published": "2026-09-08T16:10:16.000Z"
     },
     {
-      "id": "c520e1ac080185cd",
-      "title": "OpenNMC is an open replacement for expensive APC management cards",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/",
-      "pacer": "C",
-      "keywords": [
-        "OpenNMC",
-        "UPS",
-        "APC",
-        "Homelab",
-        "Network Management Card"
-      ],
-      "published": "2026-09-08T16:00:00.000Z"
-    },
-    {
       "id": "ed31a48bef502d5a",
       "title": "The Education of a Doomer",
       "source": "Fernando Borretti",
@@ -2525,22 +2541,6 @@
         "Agent Sandboxing",
         "Philosophy of Security",
         "OpenAI"
-      ],
-      "published": "2026-09-06T00:00:00.000Z"
-    },
-    {
-      "id": "16cfe9c67e9a8fb2",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "pacer": "C",
-      "keywords": [
-        "WebAssembly",
-        "Anubis",
-        "software development",
-        "engineering",
-        "Xe Iaso"
       ],
       "published": "2026-09-06T00:00:00.000Z"
     },
