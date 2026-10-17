@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:33:40 GMT</lastBuildDate>
     
+    <item>
+      <title>Reading List 10/17/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-101726</link>
+      <guid>https://www.construction-physics.com/p/reading-list-101726</guid>
+      <pubDate>Sat, 17 Oct 2026 12:03:37 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post provides a curated collection of industry updates, covering topics ranging from funding in construction tech to advancements in solar energy and battery reliability. It also touches on speculative transportation technology developments like Tesla's flying roadster.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 17 October 2026</title>
+      <link>https://nesbitt.io/2026/10/17/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/10/17/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 17 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This post summarizes the latest updates in package management tools including pnpm, mise, vlt, .NET, and pixi. It highlights performance improvements, new configuration options, and security fixes across the ecosystem for the week of October 17, 2026.</description>
+    </item>
+
+    <item>
+      <title>Cloud of suspicion lifted from NIST curves</title>
+      <link>https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</guid>
+      <pubDate>Sat, 17 Oct 2026 15:39:06 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>New research from Anthropic has addressed long-standing concerns regarding the security of NIST elliptic curves. The study provides evidence suggesting the curves are not compromised, helping to clear suspicions that the NSA had inserted backdoors.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/</guid>
+      <pubDate>Sat, 17 Oct 2026 11:34:57 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews Matthew Hutchinson's book, 'Are You Really The Doctor?', which chronicles the author's experiences as a Black doctor in the NHS. It highlights the systemic racism encountered by the author, drawing comparisons to Adam Kay’s 'This Is Going To Hurt'.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Israeli ad-tech company was a delivery system for &quot;mercenary spyware&quot; (17 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/17/mercenary-spyware/</link>
+      <guid>https://pluralistic.net/2026/10/17/mercenary-spyware/</guid>
+      <pubDate>Sat, 17 Oct 2026 10:47:35 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Citizen Lab's report reveals that an Israeli ad-tech company exploited major platforms like Google and Facebook to deliver zero-click spyware to targeted devices. The author argues that the programmatic advertising ecosystem is inherently insecure, urging users to employ ad-blockers to protect their digital security.</description>
+    </item>
+
     <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</link>
@@ -859,51 +904,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://martinalderson.com/">Martin Alderson</source>
       <description>The author argues that while AI agents have reduced the costs of native app development, they are also ushering in a new era where formal verification becomes the standard for software engineering. This transition suggests a shift toward more reliable and mathematically sound code production.</description>
-    </item>
-
-    <item>
-      <title>Anti-Patterns in Software Blogging</title>
-      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
-      <guid>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://refactoringenglish.com/">Refactoring English</source>
-      <description>This post identifies common anti-patterns in software blogging that hinder reader engagement and clarity. The author categorizes these mistakes, such as meandering introductions and technical formatting errors, to help beginner bloggers improve their writing quality.</description>
-    </item>
-
-    <item>
-      <title>Package Management RFCs</title>
-      <link>https://nesbitt.io/2026/10/07/package-management-rfcs.html</link>
-      <guid>https://nesbitt.io/2026/10/07/package-management-rfcs.html</guid>
-      <pubDate>Wed, 07 Oct 2026 11:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article explores the fragmented landscape of package management specifications, identifying six distinct types of venues where these standards are published. It highlights how the choice of venue significantly impacts the reliability and interoperability of package registries, lockfiles, and manifest formats across different software ecosystems.</description>
-    </item>
-
-    <item>
-      <title>On Git Refs</title>
-      <link>https://matklad.github.io/2026/10/07/git-ref.html</link>
-      <guid>https://matklad.github.io/2026/10/07/git-ref.html</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://matklad.github.io/">matklad</source>
-      <description>This article explains the underlying mechanism of Git refs, framing Git not just as an immutable content-addressable database, but also as a mutable key-value store. It clarifies the distinction between local branches, remote-tracking branches, and tags by revealing the simple file-based structure within the .git/refs directory.</description>
-    </item>
-
-    <item>
-      <title>Consequences of progress toward the Riemann Hypothesis</title>
-      <link>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</guid>
-      <pubDate>Wed, 07 Oct 2026 22:29:28 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical implications and potential consequences of progress regarding the Riemann Hypothesis and the related Quasi Riemann Hypothesis. It explains the core conjecture concerning the zeros of the Riemann zeta function within the critical strip.</description>
-    </item>
-
-    <item>
-      <title>Faster Fourier Transform</title>
-      <link>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:41:47 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The article discusses a significant breakthrough in computational mathematics, where a new algorithm potentially improves the efficiency of the Fast Fourier Transform (FFT). It notes that while the standard complexity is O(n log n), recent research suggests even faster performance is achievable.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-10-17T00:00:23.133Z",
+  "last_updated": "2026-10-17T23:33:39.922Z",
   "articles": [
+    {
+      "id": "b7fac977dd746229",
+      "title": "Reading List 10/17/26",
+      "url": "https://www.construction-physics.com/p/reading-list-101726",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-17T12:03:37.000Z",
+      "summary_en": "This post provides a curated collection of industry updates, covering topics ranging from funding in construction tech to advancements in solar energy and battery reliability. It also touches on speculative transportation technology developments like Tesla's flying roadster.",
+      "summary_zh": "本文彙整了多項產業動態，涵蓋建築科技融資、太陽能產業就業現況及電網級電池可靠性等議題。此外，內容也探討了特斯拉飛行跑車等前瞻運輸技術的發展。",
+      "keywords": [
+        "Construction",
+        "Solar Industry",
+        "Battery Technology",
+        "Tech News",
+        "Tesla"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article is a structured list of curated links and news highlights, functioning as a reference resource for industry updates.",
+      "pacer_reason_zh": "本文為結構化的連結列表與新聞摘要，主要作為產業趨勢的參考資料。"
+    },
+    {
+      "id": "5bfea087bb2daf31",
+      "title": "This Week in Package Management: 17 October 2026",
+      "url": "https://nesbitt.io/2026/10/17/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-17T10:00:00.000Z",
+      "summary_en": "This post summarizes the latest updates in package management tools including pnpm, mise, vlt, .NET, and pixi. It highlights performance improvements, new configuration options, and security fixes across the ecosystem for the week of October 17, 2026.",
+      "summary_zh": "本文章彙整了 pnpm、mise、vlt、.NET 與 pixi 等套件管理工具的最新動態。內容涵蓋了 2026 年 10 月 17 日當週的效能優化、新設定功能及安全性修復資訊。",
+      "keywords": [
+        "package management",
+        "pnpm",
+        "mise",
+        "vlt",
+        "software engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a periodic reference/news digest summarizing updates and release notes for various package management tools.",
+      "pacer_reason_zh": "本文屬於定期發布的資訊參考或新聞摘要，彙整了各類套件管理工具的更新內容與發布資訊。"
+    },
+    {
+      "id": "6100e4ae14fcffcd",
+      "title": "Cloud of suspicion lifted from NIST curves",
+      "url": "https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-17T15:39:06.000Z",
+      "summary_en": "New research from Anthropic has addressed long-standing concerns regarding the security of NIST elliptic curves. The study provides evidence suggesting the curves are not compromised, helping to clear suspicions that the NSA had inserted backdoors.",
+      "summary_zh": "Anthropic 的最新研究解決了長期以來關於 NIST 橢圓曲線安全性的疑慮。該研究提供了證據表明這些曲線並未受到損害，有助於消除關於美國國家安全局植入後門的猜疑。",
+      "keywords": [
+        "NIST",
+        "cryptography",
+        "elliptic curves",
+        "NSA",
+        "cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article discusses new research findings and data that provide evidence regarding the security of cryptographic standards.",
+      "pacer_reason_zh": "本文討論了新的研究發現與數據，為加密標準的安全性提供了實證支持。"
+    },
+    {
+      "id": "28d4bb6614bb1e27",
+      "title": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-17T11:34:57.000Z",
+      "summary_en": "This blog post reviews Matthew Hutchinson's book, 'Are You Really The Doctor?', which chronicles the author's experiences as a Black doctor in the NHS. It highlights the systemic racism encountered by the author, drawing comparisons to Adam Kay’s 'This Is Going To Hurt'.",
+      "summary_zh": "這篇部落格文章評論了 Matthew Hutchinson 的著作《Are You Really The Doctor?》，紀錄了作者身為 NHS 黑人醫生的親身經歷。文中探討了作者所遭受的系統性種族歧視，並將其與 Adam Kay 的《痛楚》一書進行比較。",
+      "keywords": [
+        "Book Review",
+        "NHS",
+        "Racism",
+        "Matthew Hutchinson",
+        "Healthcare"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a commentary and overview of a book, framing the concepts of systemic bias within the healthcare system.",
+      "pacer_reason_zh": "內容提供了書籍的評論與概述，並闡述了醫療體系中系統性偏見的概念。"
+    },
+    {
+      "id": "2bf0e1c0f487aa54",
+      "title": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-17T10:47:35.000Z",
+      "summary_en": "Citizen Lab's report reveals that an Israeli ad-tech company exploited major platforms like Google and Facebook to deliver zero-click spyware to targeted devices. The author argues that the programmatic advertising ecosystem is inherently insecure, urging users to employ ad-blockers to protect their digital security.",
+      "summary_zh": "Citizen Lab 的報告揭露了一家以色列廣告技術公司如何利用 Google 和 Facebook 等大型平台，向特定目標裝置傳送「零點擊」間諜軟體。作者認為程序化廣告生態系統存在根本性的安全漏洞，並呼籲使用者透過廣告攔截器來維護個人數位安全。",
+      "keywords": [
+        "ad-tech",
+        "spyware",
+        "cybersecurity",
+        "surveillance",
+        "Citizen Lab"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is primarily based on the findings and investigative evidence provided by a Citizen Lab report on ad-tech security flaws.",
+      "pacer_reason_zh": "本文主要基於 Citizen Lab 對廣告技術安全漏洞的調查報告與實證發現。"
+    },
     {
       "id": "6d04cacc087148c9",
       "title": "This Week on The Analog Antiquarian",
