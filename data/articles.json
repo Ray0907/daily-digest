@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-10-15T23:57:24.752Z",
+  "last_updated": "2026-10-17T00:00:23.133Z",
   "articles": [
+    {
+      "id": "6d04cacc087148c9",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-10-16T16:14:39.000Z",
+      "summary_en": "This entry from The Digital Antiquarian explores the history and development of the computer game 'The Taming of the Shrew'. It provides historical context on early interactive software and its significance in the evolving landscape of digital gaming.",
+      "summary_zh": "這篇來自《數位古物學家》的文章探討了電腦遊戲《馴悍記》（The Taming of the Shrew）的歷史與開發過程。文章為早期互動軟體提供了歷史背景，並分析了其在數位遊戲發展史上的重要意義。",
+      "keywords": [
+        "Digital Antiquarian",
+        "The Taming of the Shrew",
+        "gaming history",
+        "interactive software",
+        "retrogaming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on historical explanation and the conceptual development of early software.",
+      "pacer_reason_zh": "內容著重於歷史背景說明以及早期軟體的概念發展。"
+    },
+    {
+      "id": "3b140d9f885d6a41",
+      "title": "Movie password",
+      "url": "https://www.johndcook.com/blog/2026/10/16/movie-password/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-16T15:37:09.000Z",
+      "summary_en": "The author discusses a mathematical password puzzle from the movie '2010: The Year We Make Contact'. The process involves taking the square root of a sequence of nines to derive an integer, illustrating an interesting intersection of pop culture and mathematics.",
+      "summary_zh": "作者探討了電影《2010：威鯨闖天關》中出現的一個數學密碼謎題。該過程涉及對一串數字「9」進行開平方根運算以得出整數，展現了流行文化與數學之間的有趣結合。",
+      "keywords": [
+        "mathematics",
+        "2010: The Year We Make Contact",
+        "password",
+        "puzzles",
+        "pop culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the mathematical concept and logic behind a specific password riddle mentioned in a film.",
+      "pacer_reason_zh": "這篇文章解釋了電影中提到的特定密碼謎題背後的數學概念與邏輯。"
+    },
+    {
+      "id": "a1f6656ddd2ff657",
+      "title": "Monoliths and Lagrange Points",
+      "url": "https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-16T14:37:07.000Z",
+      "summary_en": "The author examines the astronomical accuracy of the movie '2010: The Year We Make Contact' regarding the placement of a monolith at the Lagrange point between Jupiter and Io. The post explains the mechanics of Lagrange points and clarifies why such a location is physically unstable.",
+      "summary_zh": "作者探討了電影《2010：威龍二世》中關於巨石位於木星與木衛一之間拉格朗日點的情節是否符合天文學事實。文中解釋了拉格朗日點的運作機制，並分析了為何該特定位置在物理上是不穩定的。",
+      "keywords": [
+        "astronomy",
+        "Lagrange points",
+        "2010: The Year We Make Contact",
+        "orbital mechanics",
+        "physics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of a physical concept (Lagrange points) and evaluates its accuracy within a specific context.",
+      "pacer_reason_zh": "這篇文章解釋了拉格朗日點這一物理概念，並評估了其在特定情境下的科學準確性。"
+    },
+    {
+      "id": "e12ebbe00b71ef85",
+      "title": "C++ futures part 5: std::future and std::shared_future",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-16T14:00:00.000Z",
+      "summary_en": "This article is the fifth installment in a series exploring C++ futures, focusing on the mechanics of std::future and std::shared_future. It explains how these components are utilized to retrieve asynchronous results in C++ programming.",
+      "summary_zh": "本文是 C++ futures 系列的第五篇，重點探討 std::future 與 std::shared_future 的運作機制。文章說明了在 C++ 程式開發中，如何利用這些組件來取得非同步操作的結果。",
+      "keywords": [
+        "C++",
+        "std::future",
+        "std::shared_future",
+        "asynchronous",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the core concepts and definitions of specific C++ standard library components.",
+      "pacer_reason_zh": "本文解釋了 C++ 標準函式庫中特定組件的核心概念與定義。"
+    },
+    {
+      "id": "45b5019edb49540a",
+      "title": "Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-16T11:34:14.000Z",
+      "summary_en": "This blog post reviews Dipo Faloyin's book, 'Africa Is Not A Country,' which critiques common myths and stereotypes about the African continent. The reviewer praises the book for balancing righteous indignation with humor and accessibility.",
+      "summary_zh": "這篇部落格文章評論了迪波·法洛伊恩（Dipo Faloyin）的著作《非洲不是一個國家》，該書旨在打破外界對非洲大陸常見的迷思與刻板印象。評論者讚賞作者成功地將憤慨之情與幽默感及易讀性結合。",
+      "keywords": [
+        "Africa",
+        "Book Review",
+        "Stereotypes",
+        "Dipo Faloyin",
+        "Culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is primarily a conceptual review and analysis of a book's thematic content and social arguments.",
+      "pacer_reason_zh": "此內容主要為書籍主題內容與社會論點的概念性評論與分析。"
+    },
+    {
+      "id": "1ff9751c69d0deb7",
+      "title": "Pluralistic: Load-bearing (16 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/15/sovereign-it/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-16T06:40:02.000Z",
+      "summary_en": "Cory Doctorow reflects on the hidden, often hazardous structural mysteries discovered during home renovations. He uses the metaphor of 'load-bearing' to highlight the unpredictability of systems built by previous, undocumented hands.",
+      "summary_zh": "Cory Doctorow 分享了在房屋翻修過程中發現隱藏且危險的結構謎團。他運用「承重」作為比喻，強調由前人留下的未知系統所帶來的不可預測性。",
+      "keywords": [
+        "Cory Doctorow",
+        "Home renovation",
+        "Structural integrity",
+        "Metaphor",
+        "Pluralistic"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses personal anecdotes about home structural issues as an analogy for deeper themes in systemic complexity and history.",
+      "pacer_reason_zh": "本文透過房屋結構問題的個人軼事作為類比，探討系統性複雜度和歷史背後的深層主題。"
+    },
+    {
+      "id": "0bd56ceb041df9e4",
+      "title": "This video is 2 minutes long ",
+      "url": "https://idiallo.com/byte-size/two-minutes-long-video",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-16T05:28:42.000Z",
+      "summary_en": "The author discusses the disconnect between the promise of technology to automate tasks and the modern focus on maximizing productivity. The article argues that productivity is often misaligned with the goal of freeing up personal time, instead leading to increased output requirements.",
+      "summary_zh": "作者探討了科技本應自動化繁瑣事務以換取自由時間的承諾，與現代社會追求生產力的本質之間的矛盾。文章指出，現今的「生產力」目標並非減少工時，而是要求在相同時間內產出更多成果。",
+      "keywords": [
+        "productivity",
+        "technology",
+        "automation",
+        "future",
+        "time management"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a conceptual shift in the meaning of productivity versus its intended purpose in a tech-driven future.",
+      "pacer_reason_zh": "內容解釋了在科技驅動的未來中，關於生產力定義及其預期目的的概念性轉變。"
+    },
+    {
+      "id": "e8a95e9b22df9875",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-16T22:06:37.000Z",
+      "summary_en": "This post highlights Anthropic's shift in code review strategy, moving from a manual gatekeeper model to a continuous process assisted by AI. By using Claude to catch routine errors early, the team preserves human attention for high-level architectural and logical scrutiny.",
+      "summary_zh": "本文介紹了 Anthropic 如何轉變程式碼審查策略，從傳統的人工閘門模式轉向由 AI 輔助的持續審查流程。透過利用 Claude 在早期捕捉常規錯誤，團隊能將寶貴的人力資源集中於處理更高層次的架構與邏輯問題。",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "code-review",
+        "AI",
+        "agentic-engineering"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content presents a case study of how Anthropic restructured its code review process using AI.",
+      "pacer_reason_zh": "內容提供了一個案例研究，展示 Anthropic 如何利用 AI 重組其程式碼審查流程。"
+    },
+    {
+      "id": "34013be11de2ae69",
+      "title": "LaTeX renderer",
+      "url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-15T02:07:28.000Z",
+      "summary_en": "Simon Willison introduces a new LaTeX rendering tool inspired by the 'Tiny Little Office' web app suite. The article highlights how these tools use URL fragments for state management, allowing documents to be easily shared and bookmarked via unique links.",
+      "summary_zh": "Simon Willison 介紹了一款受「Tiny Little Office」啟發的 LaTeX 渲染工具。文章強調了這些工具如何利用 URL 片段進行狀態管理，使得文檔可以透過獨特的連結輕鬆分享與加入書籤。",
+      "keywords": [
+        "LaTeX",
+        "Web App",
+        "URL fragment",
+        "Simon Willison",
+        "Tiny Little Office"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves primarily as a pointer to a specific web utility and documents its underlying technical implementation.",
+      "pacer_reason_zh": "該文章主要作為特定網頁工具的參考指引，並記錄其底層的技術實作方式。"
+    },
+    {
+      "id": "22dc570311299f50",
+      "title": "AI is driving a boom in modestly successful software projects",
+      "url": "https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-16T00:00:00.000Z",
+      "summary_en": "The article explores how AI tools are increasing the feasibility of small-scale software projects. It suggests that while massive hits remain rare, AI lowers the barrier for niche applications to achieve modest success.",
+      "summary_zh": "本文探討人工智慧工具如何提升小型軟體專案的可行性。文章指出，雖然大熱門產品仍然罕見，但 AI 降低了利基應用程式獲得適度成功的門檻。",
+      "keywords": [
+        "AI",
+        "software development",
+        "productivity",
+        "tech trends",
+        "niche software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how AI is shifting the software development landscape and the nature of project success.",
+      "pacer_reason_zh": "本文針對 AI 如何改變軟體開發格局及專案成功本質，提供了概念性的觀點分析。"
+    },
     {
       "id": "1a40c9492dcd1cf7",
       "title": "We Need All the Disciplines",
