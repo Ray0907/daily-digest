@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 17 Oct 2026 23:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:45:45 GMT</lastBuildDate>
     
+    <item>
+      <title>How the AI boom might really end: 5 scenarios</title>
+      <link>https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article explores five potential scenarios for the future of the AI boom as market volatility increases. It argues that while AI technology holds genuine value, that value may not necessarily translate into financial returns for current investors.</description>
+    </item>
+
+    <item>
+      <title>Notes on the complex roots of unity</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</link>
+      <guid>https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</guid>
+      <pubDate>Sun, 18 Oct 2026 01:18:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article explores the concept of roots of unity, starting from simple real number solutions and extending the inquiry into the complex number plane. It explains the mathematical representation of these roots using polar coordinates and Euler's formula to solve equations where z raised to the n-th power equals 1.</description>
+    </item>
+
+    <item>
+      <title>Inside the Intel 8087 chip: floating-point addition and subtraction</title>
+      <link>http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</link>
+      <guid>http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</guid>
+      <pubDate>Sun, 18 Oct 2026 16:14:00 GMT</pubDate>
+      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
+      <description>This article explores the internal circuitry and microcode of the 1980s Intel 8087 floating-point processor. By examining high-resolution die photos, the author explains how the chip's datapath, integer adder, and shifter implement basic arithmetic like addition and subtraction.</description>
+    </item>
+
+    <item>
+      <title>Una Watch TOTP - MFA on your wrist!</title>
+      <link>https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</guid>
+      <pubDate>Sun, 18 Oct 2026 11:34:08 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author discusses a custom-built watch app for displaying TOTP two-factor authentication codes. While highlighting the convenience of wrist-based access, the post warns that this approach significantly weakens security by exposing secrets to potential physical thieves.</description>
+    </item>
+
+    <item>
+      <title>Inline rendering with document​.currentScript</title>
+      <link>https://simonwillison.net/2026/Oct/17/document-currentscript/</link>
+      <guid>https://simonwillison.net/2026/Oct/17/document-currentscript/</guid>
+      <pubDate>Sat, 17 Oct 2026 21:11:12 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This article highlights a clever web development trick using document.currentScript to perform inline rendering. By using a script tag that replaces itself with content, developers can create a lightweight, functional template system directly within their HTML.</description>
+    </item>
+
+    <item>
+      <title>web-edit 0.1a2</title>
+      <link>https://simonwillison.net/2026/Oct/17/web-edit/</link>
+      <guid>https://simonwillison.net/2026/Oct/17/web-edit/</guid>
+      <pubDate>Sat, 17 Oct 2026 13:16:49 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.1a2 of web-edit, a lightweight tool for browsing and editing files across devices via Tailscale. This update introduces a &quot;copy to clipboard&quot; feature for both text and image data to streamline workflows.</description>
+    </item>
+
+    <item>
+      <title>Writing is no longer proof of work</title>
+      <link>https://seangoedecke.com/writing-is-no-longer-proof-of-work/</link>
+      <guid>https://seangoedecke.com/writing-is-no-longer-proof-of-work/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the shifting perception of writing in the age of AI, questioning whether traditional long-form content still serves as valid proof of intellectual labor. It examines how automated generation challenges our reliance on text as a benchmark for competency and original thought.</description>
+    </item>
+
     <item>
       <title>Reading List 10/17/26</title>
       <link>https://www.construction-physics.com/p/reading-list-101726</link>
@@ -841,69 +904,6 @@
       <pubDate>Thu, 08 Oct 2026 16:54:14 GMT</pubDate>
       <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
       <description>The article explores the growing frustration among creatives with Adobe's subscription model, pricing, and failure to support specific platforms like Linux. It highlights the emergence of 'ArtCraft,' an AI-driven, community-led alternative designed to bypass these corporate constraints and restore power to users.</description>
-    </item>
-
-    <item>
-      <title>The Rise and Fall of the Plasma Screen</title>
-      <link>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</link>
-      <guid>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</guid>
-      <pubDate>Thu, 08 Oct 2026 12:02:36 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explores the origins of plasma display technology, tracing its development back to the PLATO computer-aided instruction system at the University of Illinois in the 1960s. It provides historical context on how these early networked terminals laid the groundwork for future display innovations.</description>
-    </item>
-
-    <item>
-      <title>Privacy policies and modal logic</title>
-      <link>https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</guid>
-      <pubDate>Thu, 08 Oct 2026 13:43:02 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the intersection of data privacy and modal logic, highlighting research that applies formal logic to privacy reasoning. It specifically references the work of Helen Nissenbaum to explore how mathematical frameworks can formalize privacy policies.</description>
-    </item>
-
-    <item>
-      <title>How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</guid>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post clarifies that the x86 opcodes ud0 and ud1 were never officially defined in documentation, not even as reserved or undefined instructions. It explains the technical reality behind their apparent existence and lack of specified behavior.</description>
-    </item>
-
-    <item>
-      <title>Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/</guid>
-      <pubDate>Thu, 08 Oct 2026 11:34:40 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author, typically a budget theatergoer, reflects on their philosophy of valuing show quality over seat position. They discuss occasionally splurging on full-price tickets, using a review of 'Hay Fever' at Wyndham's Theatre as a jumping-off point.</description>
-    </item>
-
-    <item>
-      <title>ttok 0.4</title>
-      <link>https://simonwillison.net/2026/Oct/8/ttok/</link>
-      <guid>https://simonwillison.net/2026/Oct/8/ttok/</guid>
-      <pubDate>Thu, 08 Oct 2026 23:34:28 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.4 of ttok, a CLI tool for counting tokens using OpenAI's tiktoken library. This update includes bug fixes, improved CI integration, and a new command to list available models.</description>
-    </item>
-
-    <item>
-      <title>Quoting Carson Gross</title>
-      <link>https://simonwillison.net/2026/Oct/8/carson-gross/</link>
-      <guid>https://simonwillison.net/2026/Oct/8/carson-gross/</guid>
-      <pubDate>Thu, 08 Oct 2026 21:05:44 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Carson Gross argues that the core of programming lies in problem-solving and managing complexity. He suggests that these fundamental skills will remain essential for a viable career, even as AI tools continue to evolve.</description>
-    </item>
-
-    <item>
-      <title>Shopify went back to native. I think the bigger shift is formal verification</title>
-      <link>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The author argues that while AI agents have reduced the costs of native app development, they are also ushering in a new era where formal verification becomes the standard for software engineering. This transition suggests a shift toward more reliable and mathematically sound code production.</description>
     </item>
   </channel>
 </rss>

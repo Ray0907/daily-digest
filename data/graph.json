@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "de05f18ead59c79f",
+      "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "pacer": "C",
+      "keywords": [
+        "Intel 8087",
+        "microcode",
+        "floating-point",
+        "CPU architecture",
+        "circuitry"
+      ],
+      "published": "2026-10-18T16:14:00.971Z"
+    },
+    {
+      "id": "1cdd72b64b529301",
+      "title": "Una Watch TOTP - MFA on your wrist!",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+      "pacer": "P",
+      "keywords": [
+        "TOTP",
+        "MFA",
+        "Security",
+        "Wearable",
+        "Authentication"
+      ],
+      "published": "2026-10-18T11:34:08.000Z"
+    },
+    {
+      "id": "2fa9ab1c0e634da9",
+      "title": "Notes on the complex roots of unity",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "pacer": "C",
+      "keywords": [
+        "math",
+        "complex numbers",
+        "roots of unity",
+        "polar coordinates",
+        "algebra"
+      ],
+      "published": "2026-10-18T01:18:00.000Z"
+    },
+    {
+      "id": "e725f16bc7c9a342",
+      "title": "How the AI boom might really end: 5 scenarios",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "AI boom",
+        "market analysis",
+        "investing",
+        "tech stocks",
+        "future scenarios"
+      ],
+      "published": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "id": "7b455c54a8af16e7",
+      "title": "Writing is no longer proof of work",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work/",
+      "pacer": "C",
+      "keywords": [
+        "AI writing",
+        "proof of work",
+        "content creation",
+        "intellectual labor",
+        "artificial intelligence"
+      ],
+      "published": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "id": "cc225fa176e6c3ea",
+      "title": "Inline rendering with document​.currentScript",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "pacer": "P",
+      "keywords": [
+        "javascript",
+        "web-development",
+        "document.currentScript",
+        "frontend",
+        "template-engine"
+      ],
+      "published": "2026-10-17T21:11:12.000Z"
+    },
+    {
       "id": "6100e4ae14fcffcd",
       "title": "Cloud of suspicion lifted from NIST curves",
       "source": "John D. Cook",
@@ -15,6 +111,22 @@
         "cybersecurity"
       ],
       "published": "2026-10-17T15:39:06.000Z"
+    },
+    {
+      "id": "c706b8884b6bc824",
+      "title": "web-edit 0.1a2",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "pacer": "P",
+      "keywords": [
+        "web-edit",
+        "Tailscale",
+        "file-editing",
+        "software-release",
+        "productivity"
+      ],
+      "published": "2026-10-17T13:16:49.000Z"
     },
     {
       "id": "b7fac977dd746229",
@@ -319,38 +431,6 @@
         "consumer economy"
       ],
       "published": "2026-10-15T11:03:29.000Z"
-    },
-    {
-      "id": "34013be11de2ae69",
-      "title": "LaTeX renderer",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/15/latex/",
-      "pacer": "R",
-      "keywords": [
-        "LaTeX",
-        "Web App",
-        "URL fragment",
-        "Simon Willison",
-        "Tiny Little Office"
-      ],
-      "published": "2026-10-15T02:07:28.000Z"
-    },
-    {
-      "id": "eb4b2d9063ab8e79",
-      "title": "Tree Appreciator",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "pacer": "E",
-      "keywords": [
-        "Claude",
-        "Three.js",
-        "Generative AI",
-        "Game Development",
-        "LLMs"
-      ],
-      "published": "2026-10-14T21:23:01.000Z"
     },
     {
       "id": "0728fa4ca8cab1e2",
@@ -785,22 +865,6 @@
       "published": "2026-10-11T16:00:00.000Z"
     },
     {
-      "id": "2a779a9898efce2a",
-      "title": "I paid people to try and follow my README",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "pacer": "E",
-      "keywords": [
-        "documentation",
-        "developer experience",
-        "README",
-        "usability",
-        "technical writing"
-      ],
-      "published": "2026-10-11T11:34:39.000Z"
-    },
-    {
       "id": "33426b149acb7339",
       "title": "Don't diagnose your opponents",
       "source": "seangoedecke.com RSS feed",
@@ -1181,22 +1245,6 @@
         "refs",
         "data structures",
         "development"
-      ],
-      "published": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "9fba824383c28abf",
-      "title": "How to read code",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/how-to-read-code/",
-      "pacer": "P",
-      "keywords": [
-        "code reading",
-        "software engineering",
-        "programming",
-        "code comprehension",
-        "developer skills"
       ],
       "published": "2026-10-07T00:00:00.000Z"
     },
@@ -2849,38 +2897,6 @@
       "published": "2026-08-29T00:00:00.000Z"
     },
     {
-      "id": "422fbd033068f9a3",
-      "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "E",
-      "keywords": [
-        "GLM-5.3 Flash",
-        "Chinese hardware",
-        "EUV lithography",
-        "AI infrastructure",
-        "semiconductor"
-      ],
-      "published": "2026-08-29T00:00:00.000Z"
-    },
-    {
-      "id": "0f260508ae8d825b",
-      "title": "How big are factorials?",
-      "source": "Eli Bendersky's website",
-      "source_url": "https://eli.thegreenplace.net/",
-      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-      "pacer": "C",
-      "keywords": [
-        "factorial",
-        "mathematics",
-        "approximation",
-        "Gamma function",
-        "estimation"
-      ],
-      "published": "2026-08-28T01:52:00.000Z"
-    },
-    {
       "id": "538a36ead97a600d",
       "title": "Sandboxing coding agents",
       "source": "micahflee",
@@ -3295,22 +3311,6 @@
         "sub-goals"
       ],
       "published": "2026-08-02T00:00:00.000Z"
-    },
-    {
-      "id": "8385aa493371389f",
-      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "pacer": "C",
-      "keywords": [
-        "IBM 604",
-        "vacuum tube",
-        "computing history",
-        "electronics",
-        "circuitry"
-      ],
-      "published": "2026-07-31T16:04:31.698Z"
     },
     {
       "id": "6ee6bb1bcb751336",

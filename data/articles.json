@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-10-17T23:33:39.922Z",
+  "last_updated": "2026-10-18T23:45:45.531Z",
   "articles": [
+    {
+      "id": "e725f16bc7c9a342",
+      "title": "How the AI boom might really end: 5 scenarios",
+      "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-10-18T00:00:00.000Z",
+      "summary_en": "The article explores five potential scenarios for the future of the AI boom as market volatility increases. It argues that while AI technology holds genuine value, that value may not necessarily translate into financial returns for current investors.",
+      "summary_zh": "本文探討了在市場波動加劇之際，人工智慧熱潮可能走向終結的五種情境。作者指出，儘管 AI 技術本身具備實質價值，但這些價值未必能轉化為目前投資者的實際收益。",
+      "keywords": [
+        "AI boom",
+        "market analysis",
+        "investing",
+        "tech stocks",
+        "future scenarios"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article analyzes the conceptual framework of market dynamics and the theoretical future outcomes of the AI industry.",
+      "pacer_reason_zh": "本文分析了市場動態的概念框架，並探討了 AI 行業未來發展的理論性結果。"
+    },
+    {
+      "id": "2fa9ab1c0e634da9",
+      "title": "Notes on the complex roots of unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-10-18T01:18:00.000Z",
+      "summary_en": "This article explores the concept of roots of unity, starting from simple real number solutions and extending the inquiry into the complex number plane. It explains the mathematical representation of these roots using polar coordinates and Euler's formula to solve equations where z raised to the n-th power equals 1.",
+      "summary_zh": "本文探討了單位根的概念，從簡單的實數解開始，延伸至複數平面的討論。文中解釋了如何利用極座標和歐拉公式來表示及求解方程式 z^n=1。",
+      "keywords": [
+        "math",
+        "complex numbers",
+        "roots of unity",
+        "polar coordinates",
+        "algebra"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical explanation and conceptual overview of how roots of unity function in complex number systems.",
+      "pacer_reason_zh": "本文針對單位根在複數系統中的運作方式提供了理論性解釋與概念性的概覽。"
+    },
+    {
+      "id": "de05f18ead59c79f",
+      "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+      "url": "http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "published": "2026-10-18T16:14:00.971Z",
+      "summary_en": "This article explores the internal circuitry and microcode of the 1980s Intel 8087 floating-point processor. By examining high-resolution die photos, the author explains how the chip's datapath, integer adder, and shifter implement basic arithmetic like addition and subtraction.",
+      "summary_zh": "本文深入探討了 1980 年代 Intel 8087 浮點處理器的內部電路與微碼運作。透過高解析度的晶片顯微照片，作者詳細解析了該處理器的數據路徑、整數加法器及移位器如何執行基本的加減法運算。",
+      "keywords": [
+        "Intel 8087",
+        "microcode",
+        "floating-point",
+        "CPU architecture",
+        "circuitry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, explaining the internal logic and physical hardware implementation of a specific processor technology.",
+      "pacer_reason_zh": "本文主要為概念性內容，旨在解釋特定處理器技術的內部邏輯架構與硬體實作方式。"
+    },
+    {
+      "id": "1cdd72b64b529301",
+      "title": "Una Watch TOTP - MFA on your wrist!",
+      "url": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-18T11:34:08.000Z",
+      "summary_en": "The author discusses a custom-built watch app for displaying TOTP two-factor authentication codes. While highlighting the convenience of wrist-based access, the post warns that this approach significantly weakens security by exposing secrets to potential physical thieves.",
+      "summary_zh": "作者分享了一款為手錶開發的 TOTP 雙重驗證碼顯示應用。儘管該應用提供了腕上存取的便利性，但作者同時強調這種做法會因暴露機密而嚴重削弱安全性。",
+      "keywords": [
+        "TOTP",
+        "MFA",
+        "Security",
+        "Wearable",
+        "Authentication"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes a personal project and the process of building an app for a specific use case.",
+      "pacer_reason_zh": "該文章描述了作者的個人專案，以及針對特定用途開發應用程式的過程。"
+    },
+    {
+      "id": "cc225fa176e6c3ea",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-17T21:11:12.000Z",
+      "summary_en": "This article highlights a clever web development trick using document.currentScript to perform inline rendering. By using a script tag that replaces itself with content, developers can create a lightweight, functional template system directly within their HTML.",
+      "summary_zh": "本文介紹了一種利用 document.currentScript 進行內聯渲染的巧妙網頁開發技巧。透過使用會自動替換內容的 script 標籤，開發者可以直接在 HTML 中建立輕量且實用的模板系統。",
+      "keywords": [
+        "javascript",
+        "web-development",
+        "document.currentScript",
+        "frontend",
+        "template-engine"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step tutorial on how to implement a specific inline rendering technique.",
+      "pacer_reason_zh": "文章提供了一個實用的步驟教學，說明如何實作特定的內聯渲染技術。"
+    },
+    {
+      "id": "c706b8884b6bc824",
+      "title": "web-edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-17T13:16:49.000Z",
+      "summary_en": "Simon Willison has released version 0.1a2 of web-edit, a lightweight tool for browsing and editing files across devices via Tailscale. This update introduces a \"copy to clipboard\" feature for both text and image data to streamline workflows.",
+      "summary_zh": "Simon Willison 發布了 web-edit 0.1a2 版本，這是一款可透過 Tailscale 在不同裝置間瀏覽與編輯檔案的輕量級應用。本次更新新增了文字與圖片的「複製到剪貼簿」功能，旨在優化工作流程。",
+      "keywords": [
+        "web-edit",
+        "Tailscale",
+        "file-editing",
+        "software-release",
+        "productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a software update and describes the utility of a new feature for the user's workflow.",
+      "pacer_reason_zh": "該文章宣布了軟體更新，並說明了新功能在作者工作流程中的實際應用。"
+    },
+    {
+      "id": "7b455c54a8af16e7",
+      "title": "Writing is no longer proof of work",
+      "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-18T00:00:00.000Z",
+      "summary_en": "This article explores the shifting perception of writing in the age of AI, questioning whether traditional long-form content still serves as valid proof of intellectual labor. It examines how automated generation challenges our reliance on text as a benchmark for competency and original thought.",
+      "summary_zh": "本文探討了在人工智慧時代，人們對於寫作認知的轉變，質疑傳統長篇內容是否仍能作為衡量智力勞動的有效證明。文章分析了自動生成技術如何挑戰我們將文字視為衡量能力與原創思維的基準。",
+      "keywords": [
+        "AI writing",
+        "proof of work",
+        "content creation",
+        "intellectual labor",
+        "artificial intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual shift in how we value written output in the context of modern technological advancements.",
+      "pacer_reason_zh": "本文討論了在現代技術進步的背景下，我們對書面產出價值的概念性轉變。"
+    },
     {
       "id": "b7fac977dd746229",
       "title": "Reading List 10/17/26",
