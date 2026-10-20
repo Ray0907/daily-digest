@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-10-18T23:45:45.531Z",
+  "last_updated": "2026-10-20T00:46:39.261Z",
   "articles": [
+    {
+      "id": "8967e4bbf4b8f019",
+      "title": "Weekly Update 526: Building HIBP AI/SI First",
+      "url": "https://www.troyhunt.com/weekly-update-526/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-10-19T06:47:58.000Z",
+      "summary_en": "Troy Hunt reflects on the shifting perception of \"vibe coding,\" noting that what was once a derogatory term is now becoming a widely accepted practice in software development. He observes that even critics of the term are increasingly adopting AI-assisted coding methods as the industry evolves.",
+      "summary_zh": "Troy Hunt 反思了「情緒編碼」（vibe coding）一詞的負面意義轉變，指出它已從貶義詞轉為軟體開發中被廣泛接受的實踐。他觀察到，即使是該詞的批評者也正逐漸接受 AI 輔助程式設計的必然趨勢。",
+      "keywords": [
+        "vibe coding",
+        "AI development",
+        "software engineering",
+        "industry trends",
+        "Troy Hunt"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual evolution and social perception of a software development trend rather than a guide or data analysis.",
+      "pacer_reason_zh": "本文內容聚焦於軟體開發趨勢的概念性演變與社會觀感，而非操作指南或數據分析。"
+    },
+    {
+      "id": "fff5249fea1a2a54",
+      "title": "The Lean Educator Conference",
+      "url": "https://steveblank.com/2026/10/19/the-lean-educator-conference/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-10-19T13:00:20.000Z",
+      "summary_en": "Steve Blank announces the upcoming Lean Educators Conference, focusing on the challenges and integration of AI into Lean teaching methodologies. The event aims to bring together educators to discuss the recent impact of AI tools on curriculums like Lean Launchpad.",
+      "summary_zh": "Steve Blank 宣佈舉辦「精實教育者大會」，旨在探討人工智慧對精實創業教學法的影響與應對策略。會議將邀請教育工作者共同交流，分享 AI 工具在課程中的實際應用與挑戰。",
+      "keywords": [
+        "Lean Startup",
+        "AI",
+        "Education",
+        "Steve Blank",
+        "Lean Launchpad"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses the conceptual shift in teaching methodologies due to the emergence of AI in academic settings.",
+      "pacer_reason_zh": "本文探討了人工智慧興起對教學方法論帶來的觀念轉變，屬於概念性內容。"
+    },
+    {
+      "id": "8a51df4b79e3b7e5",
+      "title": "Refactoring factorials",
+      "url": "https://www.johndcook.com/blog/2026/10/19/refactoring-factorials/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-19T14:55:22.000Z",
+      "summary_en": "This article explores the mathematical constraints of factoring factorials, specifically examining whether N! can be decomposed into N factors under a minimum size requirement. It uses 3! and 4! as examples to illustrate the conditions under which such factorizations are possible.",
+      "summary_zh": "本文探討了將階乘數進行拆解的數學限制，特別是針對階乘數 N! 能否在設定最小因數限制的前提下，拆分為 N 個因數。文章透過 3! 和 4! 的實例，說明了實現此類分解的必要條件。",
+      "keywords": [
+        "factorials",
+        "mathematics",
+        "number theory",
+        "factoring",
+        "John D. Cook"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific numerical cases and mathematical examples to test a hypothesis about factorizing factorials.",
+      "pacer_reason_zh": "本文透過具體的數值案例與數學實例，驗證關於階乘數拆解的假設。"
+    },
+    {
+      "id": "7a523852782bbcb1",
+      "title": "A frivolous problem with a deeper lesson",
+      "url": "https://www.johndcook.com/blog/2026/10/19/regex-backtracking/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-19T12:00:43.000Z",
+      "summary_en": "This article explores a programming challenge: determining if English words can be formed using chemical element symbols. It uses this playful task to illustrate broader concepts in algorithmic problem-solving and computational efficiency.",
+      "summary_zh": "本文探討了一個程式設計挑戰：如何判斷英文單字是否能由化學元素符號拼寫而成。作者藉由此趣味問題，進一步探討演算法思維與計算效率的深層概念。",
+      "keywords": [
+        "programming",
+        "algorithms",
+        "chemistry",
+        "data structures",
+        "computational logic"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on how to design a program to solve a specific string manipulation problem.",
+      "pacer_reason_zh": "本文重點在於設計程式以解決特定的字串處理問題。"
+    },
+    {
+      "id": "44e8b23d2be08131",
+      "title": "Pluralistic: The technopolitics of ad-tech (19 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/19/spying-v-context/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-19T07:08:31.000Z",
+      "summary_en": "This article explores the concept of 'technopolitics,' the idea that technology is inherently political rather than neutral. By referencing Langdon Winner's work, it argues that artifacts—like low highway bridges—can be engineered to embed specific social biases and control human behavior.",
+      "summary_zh": "本文探討了「技術政治」的概念，指出技術本質上並非中立，而是內嵌了政治意圖。透過引用 Langdon Winner 的理論，文章說明了基礎設施（如過低的橋樑）如何被刻意設計以嵌入社會偏見並控制人群行為。",
+      "keywords": [
+        "technopolitics",
+        "Langdon Winner",
+        "technology",
+        "political economy",
+        "artifacts"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of technopolitics and how technology embodies specific social and political intentions.",
+      "pacer_reason_zh": "本文旨在解釋「技術政治」這一理論概念，探討技術如何體現特定的社會與政治意圖。"
+    },
+    {
+      "id": "3e43e08eb436698d",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-10-19T13:48:56.000Z",
+      "summary_en": "U.S. federal investigators are probing two ransomware negotiation firm executives for alleged ties to the ShinyHunters hacking group. Evidence suggests at least one U.S.-based executive assisted the group in managing an extortion website to pressure victims.",
+      "summary_zh": "美國聯邦調查人員正在調查兩名勒索軟體談判公司的負責人，懷疑他們與駭客組織 ShinyHunters 有密切關聯。調查顯示，其中一名位於美國的負責人甚至協助該組織營運勒索網站，以向受害者施壓付款。",
+      "keywords": [
+        "ShinyHunters",
+        "ransomware",
+        "cybercrime",
+        "FBI",
+        "extortion"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific investigative findings and evidence regarding a criminal case involving a hacking group.",
+      "pacer_reason_zh": "該文章報導了針對駭客組織案件的具體調查發現與相關證據。"
+    },
+    {
+      "id": "a286ccfbec858524",
+      "title": "My obituary for programming",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-19T23:58:25.000Z",
+      "summary_en": "This post discusses the shifting nature of a programmer's career in the age of AI. It highlights the emotional loss for those who derive joy from the logic puzzles of coding, while noting that those focused on output benefit from new generative tools.",
+      "summary_zh": "本文探討了人工智慧時代程式設計師職涯的轉變。文章指出，對於那些從編碼邏輯解謎中獲得樂趣的開發者而言，這是一種心理上的失落，但對於專注於解決問題與產出的開發者來說，生成式 AI 工具則帶來了顯著效益。",
+      "keywords": [
+        "programming",
+        "AI",
+        "careers",
+        "generative-ai",
+        "coding-agents"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in the value and nature of programming work caused by the rise of AI agents.",
+      "pacer_reason_zh": "本文探討了人工智慧代理興起後，程式設計工作的本質與價值所發生的觀念性轉變。"
+    },
+    {
+      "id": "ae7b31dc246e2760",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-18T23:43:09.000Z",
+      "summary_en": "Simon Willison released version 0.1.1 of the llm-tools-datasette plugin. This update addresses a compatibility issue caused by the transition to httpx2 in the underlying LLM library.",
+      "summary_zh": "Simon Willison 發布了 llm-tools-datasette 外掛程式的 0.1.1 版本。此更新修復了因底層 LLM 函式庫遷移至 httpx2 而導致的相容性問題。",
+      "keywords": [
+        "llm-tools-datasette",
+        "datasette",
+        "llm",
+        "httpx2",
+        "software update"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This post serves as a release note and documentation update for a specific software tool change.",
+      "pacer_reason_zh": "此貼文為特定軟體工具更新的發布說明與文件更新。"
+    },
+    {
+      "id": "9d2417f40cde50f0",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-18T23:16:16.000Z",
+      "summary_en": "Simon Willison released version 0.5 of llm-echo, a debug plugin for his LLM CLI tool that mirrors back prompts. This update improves the accuracy of simulated token usage counts by accounting for tool calls, system prompts, and reasoning tokens.",
+      "summary_zh": "Simon Willison 發布了 llm-echo 0.5 版本，這是一款用於 LLM 命令列工具的除錯插件，功能是將輸入的提示詞原樣返回。此次更新改進了模擬 Token 使用量的計算方式，現已納入工具調用、系統提示詞及推理 Token 的統計。",
+      "keywords": [
+        "llm-echo",
+        "LLM",
+        "CLI",
+        "token usage",
+        "debugging"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post functions as a release announcement with a concrete example of how to use the updated tool.",
+      "pacer_reason_zh": "本文為軟體發布公告，並提供了該更新工具的實際使用範例。"
+    },
+    {
+      "id": "f8fe1f2c0da73f7c",
+      "title": "Laypeople support technical fields for technology, not art",
+      "url": "https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-20T00:00:00.000Z",
+      "summary_en": "This article explores the public's perception of expertise, arguing that laypeople are more inclined to trust technical authority in fields like science and engineering than in artistic domains. It suggests that while technical domains have objective benchmarks, art is perceived as subjective and therefore less reliant on formal credentialing.",
+      "summary_zh": "本文探討了大眾對於專業領域的認知差異，指出相較於藝術領域，一般人更傾向於信任科學與工程等技術領域的權威。文章認為，技術領域具備客觀標準，而藝術被視為更具主觀性，因此對專業認證的需求感較低。",
+      "keywords": [
+        "expertise",
+        "public perception",
+        "technology",
+        "art",
+        "professionalism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual analysis of how societal attitudes toward expertise vary depending on the nature of the field.",
+      "pacer_reason_zh": "本文針對社會大眾對不同專業領域的態度差異，提供了概念性的觀點分析。"
+    },
+    {
+      "id": "46dd4773a719bed2",
+      "title": "What requirements don't you have?",
+      "url": "https://seangoedecke.com/what-requirements-dont-you-have/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-19T00:00:00.000Z",
+      "summary_en": "This article explores the concept of negative requirements, questioning which constraints or features might be absent in a system. It challenges readers to consider how the absence of certain elements contributes to the overall design and functionality.",
+      "summary_zh": "這篇文章探討了「負面需求」的概念，探討系統中可能缺失的約束或功能。它引導讀者思考這些元素的缺失如何影響整體的設計與功能性。",
+      "keywords": [
+        "requirements",
+        "system design",
+        "negative requirements",
+        "software engineering",
+        "constraints"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of requirements rather than instructions or data.",
+      "pacer_reason_zh": "本文側重於需求的觀念框架，而非操作指南或數據分析。"
+    },
     {
       "id": "e725f16bc7c9a342",
       "title": "How the AI boom might really end: 5 scenarios",

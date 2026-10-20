@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 18 Oct 2026 23:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:46:39 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 526: Building HIBP AI/SI First</title>
+      <link>https://www.troyhunt.com/weekly-update-526/</link>
+      <guid>https://www.troyhunt.com/weekly-update-526/</guid>
+      <pubDate>Mon, 19 Oct 2026 06:47:58 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt reflects on the shifting perception of &quot;vibe coding,&quot; noting that what was once a derogatory term is now becoming a widely accepted practice in software development. He observes that even critics of the term are increasingly adopting AI-assisted coding methods as the industry evolves.</description>
+    </item>
+
+    <item>
+      <title>The Lean Educator Conference</title>
+      <link>https://steveblank.com/2026/10/19/the-lean-educator-conference/</link>
+      <guid>https://steveblank.com/2026/10/19/the-lean-educator-conference/</guid>
+      <pubDate>Mon, 19 Oct 2026 13:00:20 GMT</pubDate>
+      <source url="https://steveblank.com/">Steve Blank</source>
+      <description>Steve Blank announces the upcoming Lean Educators Conference, focusing on the challenges and integration of AI into Lean teaching methodologies. The event aims to bring together educators to discuss the recent impact of AI tools on curriculums like Lean Launchpad.</description>
+    </item>
+
+    <item>
+      <title>Refactoring factorials</title>
+      <link>https://www.johndcook.com/blog/2026/10/19/refactoring-factorials/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/19/refactoring-factorials/</guid>
+      <pubDate>Mon, 19 Oct 2026 14:55:22 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the mathematical constraints of factoring factorials, specifically examining whether N! can be decomposed into N factors under a minimum size requirement. It uses 3! and 4! as examples to illustrate the conditions under which such factorizations are possible.</description>
+    </item>
+
+    <item>
+      <title>A frivolous problem with a deeper lesson</title>
+      <link>https://www.johndcook.com/blog/2026/10/19/regex-backtracking/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/19/regex-backtracking/</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:43 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores a programming challenge: determining if English words can be formed using chemical element symbols. It uses this playful task to illustrate broader concepts in algorithmic problem-solving and computational efficiency.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: The technopolitics of ad-tech (19 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/19/spying-v-context/</link>
+      <guid>https://pluralistic.net/2026/10/19/spying-v-context/</guid>
+      <pubDate>Mon, 19 Oct 2026 07:08:31 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article explores the concept of 'technopolitics,' the idea that technology is inherently political rather than neutral. By referencing Langdon Winner's work, it argues that artifacts—like low highway bridges—can be engineered to embed specific social biases and control human behavior.</description>
+    </item>
+
+    <item>
+      <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
+      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
+      <guid>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</guid>
+      <pubDate>Mon, 19 Oct 2026 13:48:56 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>U.S. federal investigators are probing two ransomware negotiation firm executives for alleged ties to the ShinyHunters hacking group. Evidence suggests at least one U.S.-based executive assisted the group in managing an extortion website to pressure victims.</description>
+    </item>
+
+    <item>
+      <title>My obituary for programming</title>
+      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
+      <guid>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</guid>
+      <pubDate>Mon, 19 Oct 2026 23:58:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post discusses the shifting nature of a programmer's career in the age of AI. It highlights the emotional loss for those who derive joy from the logic puzzles of coding, while noting that those focused on output benefit from new generative tools.</description>
+    </item>
+
+    <item>
+      <title>llm-tools-datasette 0.1.1</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
+      <guid>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:43:09 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.1.1 of the llm-tools-datasette plugin. This update addresses a compatibility issue caused by the transition to httpx2 in the underlying LLM library.</description>
+    </item>
+
+    <item>
+      <title>llm-echo 0.5</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
+      <guid>https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:16:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.5 of llm-echo, a debug plugin for his LLM CLI tool that mirrors back prompts. This update improves the accuracy of simulated token usage counts by accounting for tool calls, system prompts, and reasoning tokens.</description>
+    </item>
+
+    <item>
+      <title>Laypeople support technical fields for technology, not art</title>
+      <link>https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</link>
+      <guid>https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the public's perception of expertise, arguing that laypeople are more inclined to trust technical authority in fields like science and engineering than in artistic domains. It suggests that while technical domains have objective benchmarks, art is perceived as subjective and therefore less reliant on formal credentialing.</description>
+    </item>
+
+    <item>
+      <title>What requirements don't you have?</title>
+      <link>https://seangoedecke.com/what-requirements-dont-you-have/</link>
+      <guid>https://seangoedecke.com/what-requirements-dont-you-have/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the concept of negative requirements, questioning which constraints or features might be absent in a system. It challenges readers to consider how the absence of certain elements contributes to the overall design and functionality.</description>
+    </item>
+
     <item>
       <title>How the AI boom might really end: 5 scenarios</title>
       <link>https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -805,105 +904,6 @@
       <pubDate>Fri, 09 Oct 2026 22:48:37 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Cloudflare has acquired Deno, with plans to integrate the open-source celld project into their Workers platform. While the Deno runtime will receive support for one more year, development will cease afterward as the team shifts focus toward building new abstractions for persistence and coordination.</description>
-    </item>
-
-    <item>
-      <title>Quoting Matthew Green</title>
-      <link>https://simonwillison.net/2026/Oct/9/matthew-green/</link>
-      <guid>https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:02:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Matthew Green highlights the risks of AI potentially undermining public-key encryption standards. The post emphasizes that human standard-setting processes are too slow to keep pace with rapid AI-driven security threats, necessitating proactive preparation.</description>
-    </item>
-
-    <item>
-      <title>A new feature for my blog, built using my voice</title>
-      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
-      <guid>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:54:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison demonstrates how he developed a new newsletter index feature for his blog entirely through voice interaction with the ChatGPT desktop app. By using the voice conversation mode while performing other tasks, he highlights the potential for hands-free software development in a Django-based environment.</description>
-    </item>
-
-    <item>
-      <title>ttok 1.0</title>
-      <link>https://simonwillison.net/2026/Oct/9/ttok/</link>
-      <guid>https://simonwillison.net/2026/Oct/9/ttok/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:34:43 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released ttok 1.0, updating the tool's default tokenizer to support newer GPT-5 and GPT-6 models. This decision is supported by experimental data indicating that these models share a consistent tokenizer architecture.</description>
-    </item>
-
-    <item>
-      <title>Radxa's Q8B has 2x the performance and expansion of the Pi 5</title>
-      <link>https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/</guid>
-      <pubDate>Fri, 09 Oct 2026 20:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>The article evaluates the Radxa Dragon Q8B single-board computer, comparing its performance and specifications against the Raspberry Pi 5. It highlights that the Q8B utilizes the Snapdragon 8cx Gen 3 chip, offering significantly more power and expansion capabilities at a competitive price point.</description>
-    </item>
-
-    <item>
-      <title>Software's centaur age may last decades</title>
-      <link>https://seangoedecke.com/softwares-centaur-age-may-last-decades/</link>
-      <guid>https://seangoedecke.com/softwares-centaur-age-may-last-decades/</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article explores the concept of the 'centaur age' in software development, suggesting that the current period of human-AI collaboration will persist for many years. It discusses the evolving role of developers as they integrate increasingly capable artificial intelligence into their workflows.</description>
-    </item>
-
-    <item>
-      <title>Monte-Carlo simulations</title>
-      <link>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</link>
-      <guid>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</guid>
-      <pubDate>Thu, 08 Oct 2026 02:34:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This article introduces Monte Carlo simulations as a method for solving complex problems using randomness and the Law of Large Numbers. The author provides a practical demonstration by estimating the value of pi using a dart-throwing simulation and examines the computational trade-offs involved.</description>
-    </item>
-
-    <item>
-      <title>“Getting off the Modernization Treadmill”</title>
-      <link>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</link>
-      <guid>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</guid>
-      <pubDate>Thu, 08 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This article explores the 'modernization treadmill' in software development, arguing that modern web practices have inadvertently made digital services less usable than traditional physical processes. It suggests that returning to the core fundamentals of HTML, CSS, and minimal JavaScript can restore the web's original values of accessibility and long-term viability.</description>
-    </item>
-
-    <item>
-      <title>iFlac: Sync your FLAC files to your iPhone from Linux</title>
-      <link>https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</link>
-      <guid>https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</guid>
-      <pubDate>Thu, 08 Oct 2026 18:33:00 GMT</pubDate>
-      <source url="https://jayd.ml/">Jayden’s Blog</source>
-      <description>iFlac is a tool for Linux users that enables the syncing of FLAC files directly to an iPhone without requiring iTunes or Windows. It works by pairing the device and injecting audio data directly into the Apple Music SQLite database.</description>
-    </item>
-
-    <item>
-      <title>Get Player Stats From Your Minecraft Server Logs</title>
-      <link>https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</link>
-      <guid>https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</guid>
-      <pubDate>Thu, 08 Oct 2026 18:26:00 GMT</pubDate>
-      <source url="https://jayd.ml/">Jayden’s Blog</source>
-      <description>This post introduces a Go-based application designed to parse long-term Minecraft server logs into an interactive HTML report. It tracks detailed player statistics, such as play time, social interactions, and session history, using a SQLite database for incremental daily updates.</description>
-    </item>
-
-    <item>
-      <title>Swemak: Colemak for Swedish</title>
-      <link>https://entropicthoughts.com/swemak</link>
-      <guid>https://entropicthoughts.com/swemak</guid>
-      <pubDate>Wed, 07 Oct 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The article introduces 'Swemak,' a modified version of the Colemak keyboard layout tailored for the Swedish language. By strategically relocating only five keys, the layout incorporates the Swedish characters Å, Ä, and Ö while maintaining Colemak's ergonomic efficiency.</description>
-    </item>
-
-    <item>
-      <title>Let’s Deconstruct Photoshop</title>
-      <link>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</link>
-      <guid>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</guid>
-      <pubDate>Thu, 08 Oct 2026 16:54:14 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>The article explores the growing frustration among creatives with Adobe's subscription model, pricing, and failure to support specific platforms like Linux. It highlights the emergence of 'ArtCraft,' an AI-driven, community-led alternative designed to bypass these corporate constraints and restore power to users.</description>
     </item>
   </channel>
 </rss>
