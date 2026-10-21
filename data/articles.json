@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-10-20T00:46:39.261Z",
+  "last_updated": "2026-10-21T00:12:45.069Z",
   "articles": [
+    {
+      "id": "4d6a91df126c9638",
+      "title": "How to install an app on your Commodore 64",
+      "url": "https://anildash.com/2026/10/08/install-an-app-commodore-64/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-10-20T17:36:24.000Z",
+      "summary_en": "This article provides a nostalgic, step-by-step walkthrough of how users acquired software for the Commodore 64 in 1986. It illustrates the manual process of hunting for computer magazines in physical bookstores before the digital app store era.",
+      "summary_zh": "這篇文章以懷舊的角度，逐步說明了 1986 年 Commodore 64 使用者獲取程式的過程。文中描繪了在數位應用程式商店出現之前，人們必須親自前往書店搜尋電腦雜誌的實體經歷。",
+      "keywords": [
+        "Commodore 64",
+        "1986",
+        "retro computing",
+        "nostalgia",
+        "software installation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article uses a narrative, step-by-step instructional style to describe the process of acquiring software.",
+      "pacer_reason_zh": "本文採用敘事性的步驟引導風格，詳細描述了獲取軟體的過程。"
+    },
+    {
+      "id": "14a53b68486cfef5",
+      "title": "No More Icons In Every Menu By Default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-19T19:00:00.000Z",
+      "summary_en": "Apple has officially reversed its design choice to include icons in all macOS menu items, following its previous inclusion in macOS Tahoe. The author argues that this reversion is a powerful example of 'learning by doing,' proving that the design was flawed through actual experience.",
+      "summary_zh": "蘋果正式撤回了 macOS 選單中強制顯示圖示的設計決策，此前該設計曾出現於 macOS Tahoe 版本。作者認為這種修正體現了「從實踐中學習」的價值，證明該設計因實務上的負面體驗而被證明不合適。",
+      "keywords": [
+        "macOS",
+        "UI design",
+        "Apple",
+        "Human Interface Guidelines",
+        "UX"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an opinionated analysis of UI design trends and principles based on Apple's recent design changes.",
+      "pacer_reason_zh": "本文針對蘋果的介面設計變更，提出關於 UI 設計趨勢與原則的觀點與評論。"
+    },
+    {
+      "id": "289df4b8b96652fd",
+      "title": "NixOS Is Making Me Less Afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-10-19T22:00:00.000Z",
+      "summary_en": "The author explains how NixOS has reduced their fear of managing software deployments by making server configuration remarkably simple and reproducible. With only a few lines of code, they can reliably deploy and maintain services like FreshRSS, encouraging them to experiment more freely with new tools.",
+      "summary_zh": "作者分享了 NixOS 如何透過簡化伺服器配置，降低了對管理軟體部署的擔憂。透過極簡的程式碼即可實現可靠的部署與維護，這讓作者更有信心嘗試各種新軟體服務。",
+      "keywords": [
+        "NixOS",
+        "FreshRSS",
+        "Server Management",
+        "DevOps",
+        "Infrastructure as Code"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's personal experience with FreshRSS as an analogy to demonstrate the broader benefits of NixOS for reproducible infrastructure.",
+      "pacer_reason_zh": "本文透過作者安裝 FreshRSS 的親身經歷，作為一個類比案例，說明 NixOS 在實現可重複基礎設施方面的廣泛優勢。"
+    },
+    {
+      "id": "221d0fffcbc868cc",
+      "title": "Death & Domains",
+      "url": "https://feed.tedium.co/link/15204/17501584/death-domains-commentary",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-10-20T17:35:53.000Z",
+      "summary_en": "This article explores the fragility of digital legacies when individual domain owners pass away and their subscriptions expire. It questions whether current internet infrastructure is capable of preserving personal digital identities long-term and discusses potential solutions like nonprofit domain management.",
+      "summary_zh": "這篇文章探討了當個人網域擁有者過世且訂閱到期後，數位遺產所面臨的脆弱性。文章質疑現有的網際網路架構是否有能力長期保存個人數位身分，並探討了如非營利組織管理網域等潛在解決方案。",
+      "keywords": [
+        "digital legacy",
+        "domains",
+        "internet history",
+        "digital identity",
+        "online archiving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily conceptual, exploring the theoretical and philosophical challenges surrounding digital legacy and the permanence of online identity.",
+      "pacer_reason_zh": "本文主要屬於概念性探討，旨在探討關於數位遺產與線上身分永久性所帶來的理論與哲學挑戰。"
+    },
+    {
+      "id": "f5472ca39f975090",
+      "title": "Why do we need ud2 when int 6 is right there?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-19T14:00:00.000Z",
+      "summary_en": "This post clarifies the technical distinction between CPU interrupts and processor faults. It explains why the `ud2` instruction is the appropriate mechanism for triggering an invalid opcode exception rather than using a software interrupt like `int 6`.",
+      "summary_zh": "本文釐清了 CPU 中斷與處理器例外（fault）之間的技術差異。解釋了為何使用 `ud2` 指令來觸發無效運算碼例外，是比使用軟體中斷 `int 6` 更合適的做法。",
+      "keywords": [
+        "ud2",
+        "int 6",
+        "x86",
+        "interrupt",
+        "fault"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of the technical differences between interrupts and faults.",
+      "pacer_reason_zh": "這篇文章針對中斷與例外（fault）之間的技術差異提供了概念性的解釋。"
+    },
+    {
+      "id": "4e9bdf6375566f30",
+      "title": "Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-20T11:34:35.000Z",
+      "summary_en": "This book review explores 'Quackery' by Lydia Kang, a historical account of fraudulent medical practices throughout human history. Despite the dark subject matter, the author notes that the book maintains a humorous, lighthearted, and engaging tone.",
+      "summary_zh": "這篇書評介紹了 Lydia Kang 所著的《Quackery》，書中回顧了人類歷史上各種荒謬的偽科學醫療騙術。儘管主題嚴肅，但評論指出該書以幽默且輕鬆的筆調呈現，讀起來饒富趣味。",
+      "keywords": [
+        "book review",
+        "medical history",
+        "quackery",
+        "Lydia Kang",
+        "non-fiction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides an overview and conceptual summary of a book's thematic content.",
+      "pacer_reason_zh": "內容是對書籍主題內容的概述與概念性總結。"
+    },
+    {
+      "id": "5d260266561d1e65",
+      "title": "Pluralistic: The death of history's most successful publisher (20 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/20/main-character-syndrome/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-20T17:24:41.000Z",
+      "summary_en": "Cory Doctorow reflects on his long career in the publishing industry, emphasizing the profound lessons learned from his longtime editor, Patrick Nielsen Hayden. He explores the complexities of the industry, moving from his early days as an author to his current perspective on the evolution of publishing.",
+      "summary_zh": "Cory Doctorow 回顧了他漫長的出版業生涯，並強調了他從長期合作的編輯 Patrick Nielsen Hayden 那裡學到的深刻教訓。他探討了出版業的複雜性，從他早期的作者經歷談到對行業演變的見解。",
+      "keywords": [
+        "Cory Doctorow",
+        "Publishing",
+        "Editors",
+        "Literature",
+        "Career Reflection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a reflective piece providing conceptual insights into the nature of the publishing industry and the role of editors.",
+      "pacer_reason_zh": "這是一篇反思性文章，針對出版業的本質與編輯的角色提供了概念性的見解。"
+    },
+    {
+      "id": "4257f838c0d22be2",
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-20T23:50:25.000Z",
+      "summary_en": "Eight intermediate CA certificates from eMudhra have been compromised, impacting root stores for major browsers and operating systems. The post highlights the urgent need for software updates, specifically noting recent patches released for Linux distributions, pip, uv, and certifi.",
+      "summary_zh": "eMudhra 的八張中繼 CA 憑證遭洩露，影響了主要瀏覽器與作業系統的信任根。文章強調相關軟體必須立即更新，並列舉了 Linux 發行版、pip、uv 及 certifi 等已發布的安全修正。",
+      "keywords": [
+        "eMudhra",
+        "CA compromise",
+        "encryption",
+        "cybersecurity",
+        "software updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as an alert for a specific security incident and provides a list of software updates that users need to reference and apply.",
+      "pacer_reason_zh": "本文針對特定的安全事故提出警告，並提供使用者需要參考與更新的軟體列表。"
+    },
+    {
+      "id": "7fa30abfca2c7ff1",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-20T19:34:19.000Z",
+      "summary_en": "Simon Willison presents Battle Drones, an RTS game developed through AI-assisted coding that features unique multiplayer synchronization via audio signals. The post documents the iterative development process, highlighting how successive versions added 3D elements, terrain, and game balancing.",
+      "summary_zh": "Simon Willison 介紹了「Battle Drones」，這是一款透過 AI 輔助開發的即時戰略遊戲，並具備透過音訊訊號進行多人同步的獨特功能。本文記錄了該遊戲從初期原型到加入 3D 元素、地形及平衡性調整的迭代開發歷程。",
+      "keywords": [
+        "RTS",
+        "vibe coding",
+        "AI development",
+        "game design",
+        "audio synchronization"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article serves as a project post-mortem and development log, detailing the step-by-step evolution and implementation of a game project.",
+      "pacer_reason_zh": "本文屬於專案開發紀錄與回顧，詳細說明了遊戲專案逐步演進與實現的過程。"
+    },
     {
       "id": "8967e4bbf4b8f019",
       "title": "Weekly Update 526: Building HIBP AI/SI First",
