@@ -4,8 +4,179 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 21 Oct 2026 00:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:17:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Rails is a JIT compiler</title>
+      <link>https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>The article explores optimizing Ruby on Rails enum method generation by replacing dynamic method dispatching with static code generation. The author identifies that using public_send and define_method with blocks creates unnecessary runtime overhead, proposing module_eval as a more efficient alternative.</description>
+    </item>
+
+    <item>
+      <title>Objects, attributes, maps, oh my!</title>
+      <link>https://bernsteinbear.com/blog/object-shapes/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/object-shapes/?utm_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This article explores how dynamically typed languages often use hash tables to store object attributes, providing code examples in Python, Ruby, and JavaScript. It explains that while this approach is flexible, it introduces performance overhead due to high memory latency and inefficient property lookups compared to in-line storage.</description>
+    </item>
+
+    <item>
+      <title>Going Somewhere</title>
+      <link>https://simone.org/somewhere/</link>
+      <guid>https://simone.org/somewhere/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:14:51 GMT</pubDate>
+      <source url="https://simone.org/">Simone Salis</source>
+      <description>The author reflects on a meaningful conversation held during a drive home from O'Hare airport. The piece highlights a single impactful concluding remark made by the driver, Vicky.</description>
+    </item>
+
+    <item>
+      <title>No Need for Retirement When Utopia Is Around the Corner</title>
+      <link>https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</link>
+      <guid>https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</guid>
+      <pubDate>Wed, 21 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author draws parallels between the Cold War-era nuclear strategy environment at RAND Corporation and the current rhetoric surrounding modern AI development. By reflecting on Daniel Ellsberg's experiences, the post highlights how both groups share a sense of moral burden, perceived 'insider' knowledge, and a belief that their work is essential to saving the world.</description>
+    </item>
+
+    <item>
+      <title>Trust Stores Are Dependencies Too</title>
+      <link>https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html</link>
+      <guid>https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html</guid>
+      <pubDate>Wed, 21 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>The article highlights the risks of hardcoded certificate authority trust stores within software dependencies, using the recent eMudhra incident as a case study. It details how widespread vendor-embedded certificates prevent centralized security updates, requiring manual patching across environments and runtimes.</description>
+    </item>
+
+    <item>
+      <title>Backdoors, Incompetence, and Elliptic Curves</title>
+      <link>https://www.johndcook.com/blog/2026/10/21/emudhra/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/21/emudhra/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:16:51 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article discusses the ongoing controversies surrounding NIST elliptic curves, specifically addressing concerns about potential backdoors and recent security failures involving broken certificates. The author reflects on the tension between security skepticism and implementation incompetence in cryptographic standards.</description>
+    </item>
+
+    <item>
+      <title>Deliberate imperfection</title>
+      <link>https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</guid>
+      <pubDate>Wed, 21 Oct 2026 12:04:06 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the concept of 'deliberate imperfection,' reflecting on the cyclical nature of life as described in the Book of Ecclesiastes. It suggests that embracing flaws is essential to finding harmony and meaning within the varying seasons of human experience.</description>
+    </item>
+
+    <item>
+      <title>Why didn’t we use Ro­Register­For­Apartment­Shutdown to clean up the unmarshalable delegate?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post discusses why a specific Windows API function, RoRegisterForApartmentShutdown, was unsuitable for cleaning up unmarshalable delegates. It highlights the complex circular requirements that made this approach ineffective for the intended task.</description>
+    </item>
+
+    <item>
+      <title>Microspeak: Drain the slide, back-up slides</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261020-00/?p=112784/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261020-00/?p=112784/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post explains the corporate jargon 'drain the slide' and the usage of 'back-up slides' in PowerPoint presentations. It defines these terms within the context of professional business communication.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This piece critiques the recurring, preventable technical issues inherent in specific programming languages. It highlights the irony of users accepting persistent failure as a standard characteristic of their chosen development environment.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post critiques the persistent design flaws and recurring security vulnerabilities inherent in specific programming languages. It highlights the irony of developers accepting these avoidable errors as inevitable parts of their environment.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This satirical piece criticizes the persistent flaws and design failures inherent in a specific programming language. It highlights the irony of users constantly encountering avoidable issues that remain unaddressed by the language's creators.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This piece explores the recurring frustrations of developers working with specific programming languages that suffer from frequent, preventable technical issues. It highlights the irony of systemic failures that persist despite being well-documented and predictable.</description>
+    </item>
+
+    <item>
+      <title>Jesus Christ patch your shit now</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This blog post serves as an urgent call to action for software developers and system administrators to prioritize security patching. It emphasizes the critical necessity of maintaining updated systems to protect against vulnerabilities.</description>
+    </item>
+
+    <item>
+      <title>Can they write a function? </title>
+      <link>https://idiallo.com/blog/can-they-write-a-function</link>
+      <guid>https://idiallo.com/blog/can-they-write-a-function</guid>
+      <pubDate>Wed, 21 Oct 2026 19:00:40 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The author argues that traditional, elaborate hiring processes for software developers are often arbitrary and ineffective. Instead, they propose a simplified, practical assessment approach—live coding and deployment tasks—while suggesting that actual technical skills and cultural fit are best developed on the job.</description>
+    </item>
+
+    <item>
+      <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
+      <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
+      <guid>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:26:07 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>A critical vulnerability affecting nearly 70 percent of websites has been discovered, potentially leading to widespread server outages. Security experts warn that exploits are currently being used in the wild, necessitating immediate software updates to prevent attackers from seizing server control.</description>
+    </item>
+
+    <item>
+      <title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
+      <guid>https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
+      <pubDate>Wed, 21 Oct 2026 18:41:53 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The PHP Foundation has released critical security updates for the PHP 8.x line following the premature disclosure of two remote code execution vulnerabilities. The post details how the incident unfolded, including the accidental release of proof-of-concept material, and emphasizes the urgent need for users to upgrade.</description>
+    </item>
+
+    <item>
+      <title>Panache — RTS Belle Époque pour mobile</title>
+      <link>https://simonwillison.net/2026/Oct/21/panache/</link>
+      <guid>https://simonwillison.net/2026/Oct/21/panache/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:25:16 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison highlights a community-created fork of his open-source game 'Battle Drones' called 'Panache.' This project reskins the original RTS game with a Belle Époque steampunk theme, featuring new 1900s-inspired models and music.</description>
+    </item>
+
+    <item>
+      <title>Upgrade your PHP installs immediately to protect against php2shell</title>
+      <link>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:10:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Critical security vulnerabilities involving Remote Code Execution (RCE) have been discovered in various PHP versions, necessitating immediate updates to patched releases. The post advises users to upgrade to the latest versions and suggests switching to official repositories if third-party options are unavailable.</description>
+    </item>
+
     <item>
       <title>How to install an app on your Commodore 64</title>
       <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
@@ -733,177 +904,6 @@
       <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
       <source url="https://nesbitt.io/">Andrew Nesbitt</source>
       <description>This post uses popular song lyrics repurposed with software maintenance themes to humorously reflect on the frustrations of open-source repository management. It highlights challenges like technical debt, broken builds, and the influx of automated contributions.</description>
-    </item>
-
-    <item>
-      <title>Categorical models of logics</title>
-      <link>https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/</guid>
-      <pubDate>Mon, 12 Oct 2026 13:04:09 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the correspondence between modal logic and general topology, suggesting that understanding one field can provide insight into the other. It argues that leveraging familiar concepts from topology can help clarify the motivation behind abstract logical structures.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/12/termination-of-transfer/</link>
-      <guid>https://pluralistic.net/2026/10/12/termination-of-transfer/</guid>
-      <pubDate>Mon, 12 Oct 2026 11:40:39 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that creative professionals should prioritize labor rights over copyright as their primary form of protection. He contends that treating copyright as 'intellectual property' is a trap, as creative work is effectively a sale of labor rather than an asset speculation.</description>
-    </item>
-
-    <item>
-      <title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
-      <guid>https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
-      <pubDate>Mon, 12 Oct 2026 18:15:38 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Python 3.15 has been released, introducing key features like explicit lazy imports and unpacking in comprehensions. These updates help developers improve application startup performance and simplify list processing syntax.</description>
-    </item>
-
-    <item>
-      <title>web-edit 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
-      <guid>https://simonwillison.net/2026/Oct/12/web-edit/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:54:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces web-edit 0.1a0, a Python-based web application designed for browsing and editing files within a folder. Developed with AI assistance, the tool is intended to be run over Tailscale, allowing users to securely manage files on a remote server directly from a mobile device.</description>
-    </item>
-
-    <item>
-      <title>datasette-ports 0.4</title>
-      <link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
-      <guid>https://simonwillison.net/2026/Oct/12/datasette-ports/</guid>
-      <pubDate>Mon, 12 Oct 2026 04:57:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette-ports 0.4 has been released, updating the plugin to be compatible with the latest version of Datasette. The update now displays the Process ID (PID) for detected instances, facilitating easier attachment of the Python 3.15 sampling profiler.</description>
-    </item>
-
-    <item>
-      <title>Software engineers don't get to be Luddites about AI</title>
-      <link>https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/</link>
-      <guid>https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article argues that software engineers must embrace rather than resist artificial intelligence in their professional workflows. It emphasizes that adaptation to AI tools is essential for remaining relevant in the modern software development landscape.</description>
-    </item>
-
-    <item>
-      <title>Just say no to OpenAI and Anthropic</title>
-      <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
-      <guid>https://micahflee.com/just-say-no-to-openai-and-anthropic/</guid>
-      <pubDate>Sun, 11 Oct 2026 23:03:05 GMT</pubDate>
-      <source url="https://micahflee.com/">micahflee</source>
-      <description>The author discusses the intersection of tech oligarchs and modern political ideologies, referencing Naomi Klein and Astra Taylor's book, End Times Fascism. They argue against reliance on major AI corporations like OpenAI and Anthropic due to their role in these power structures.</description>
-    </item>
-
-    <item>
-      <title>One way of thinking about access specifiers in C++/WinRT implementation types</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This article explores how to conceptualize access specifiers in C++/WinRT by drawing comparisons to their counterparts in C# and C++/CX. It provides a mental model for developers to better understand implementation types within the Windows Runtime framework.</description>
-    </item>
-
-    <item>
-      <title>I paid people to try and follow my README</title>
-      <link>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</guid>
-      <pubDate>Sun, 11 Oct 2026 11:34:39 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author critiques the poor state of developer documentation, highlighting how outdated or incomplete guides frustrate users. By personally testing his own documentation through others, he advocates for a more rigorous and user-centric approach to writing technical manuals.</description>
-    </item>
-
-    <item>
-      <title>Why I Get Bored </title>
-      <link>https://idiallo.com/byte-size/why-i-get-bored</link>
-      <guid>https://idiallo.com/byte-size/why-i-get-bored</guid>
-      <pubDate>Sun, 11 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author explores how boredom serves as a psychological roadblock when attempting tasks outside of one's expertise, such as video production. He concludes that persistence and incremental practice are essential, committing to a gradual improvement plan to overcome initial incompetence.</description>
-    </item>
-
-    <item>
-      <title>Dwarf Fortress uses version control now</title>
-      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
-      <guid>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:52:37 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The long-standing tradition of the game Dwarf Fortress being developed without version control has officially ended. Creator Tarn Adams transitioned to using version control tools as the project scaled for its successful Steam release.</description>
-    </item>
-
-    <item>
-      <title>Don't diagnose your opponents</title>
-      <link>https://seangoedecke.com/dont-diagnose-your-opponents/</link>
-      <guid>https://seangoedecke.com/dont-diagnose-your-opponents/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>This article discusses the importance of avoiding psychological analysis or diagnosing opponents during competitive interactions. It suggests that labeling others' behaviors can distract from objective problem-solving and effective communication.</description>
-    </item>
-
-    <item>
-      <title>Lobbying</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>This piece uses satire to explain the mechanism of lobbying in American politics, framing it as a cyclical system of influence and financial rewards. It highlights the blurred lines between campaign contributions, political consulting, and bribery.</description>
-    </item>
-
-    <item>
-      <title>Reading List 10/10/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-101026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-101026</guid>
-      <pubDate>Sat, 10 Oct 2026 14:55:48 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This blog post provides a curated list of technical and industry developments, covering topics ranging from propane-based HVAC technology and defense manufacturing to lunar nuclear power and robotics. It serves as a digest for readers interested in emerging engineering trends and hardware innovation.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 10 October 2026</title>
-      <link>https://nesbitt.io/2026/10/10/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/10/10/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 10 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This weekly update covers recent developments in package management tools, including major version releases for uv, pnpm, RubyGems, Bun, and mise. Key highlights include performance improvements, security enhancements, and new experimental features across the Python, Node.js, and Ruby ecosystems.</description>
-    </item>
-
-    <item>
-      <title>Inside a 1980s filter chip that uses switched capacitors</title>
-      <link>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</link>
-      <guid>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</guid>
-      <pubDate>Sat, 10 Oct 2026 16:40:25 GMT</pubDate>
-      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
-      <description>This article explores the reverse engineering of a mysterious 1980s Harris IC, identifying it as a switched-capacitor filter based on its internal architecture. The author explains the physical construction of the chip, highlighting the role of polysilicon capacitors and CMOS switches in creating versatile analog filters.</description>
-    </item>
-
-    <item>
-      <title>Some quick thoughts on Unit Testing ActivityPub</title>
-      <link>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</guid>
-      <pubDate>Sat, 10 Oct 2026 11:34:15 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares a candid, informal perspective on unit testing within the context of ActivityPub development. The post highlights the simplicity of the core unit testing process: providing functions with input data and verifying the expected output.</description>
-    </item>
-
-    <item>
-      <title>Python 3.15.0 added to actions/python-versions</title>
-      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
-      <guid>https://simonwillison.net/2026/Oct/10/python-actions/</guid>
-      <pubDate>Sat, 10 Oct 2026 23:58:04 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Python 3.15.0 has been added to the GitHub actions/python-versions repository, allowing developers to test their applications against the latest release. Users can now simply add &quot;3.15&quot; to their GitHub Actions configuration matrix to start using the new version.</description>
-    </item>
-
-    <item>
-      <title>Quoting The New York Times</title>
-      <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
-      <guid>https://simonwillison.net/2026/Oct/10/the-new-york-times/</guid>
-      <pubDate>Sat, 10 Oct 2026 02:04:12 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a report from The New York Times concerning Anthropic's AI agents, which unintentionally submitted incomplete visa applications on a U.S. State Department website. It serves as a real-world example of the risks associated with autonomous AI agents interacting with public web forms.</description>
     </item>
   </channel>
 </rss>

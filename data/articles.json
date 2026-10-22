@@ -1,6 +1,386 @@
 {
-  "last_updated": "2026-10-21T00:12:45.069Z",
+  "last_updated": "2026-10-22T00:17:57.327Z",
   "articles": [
+    {
+      "id": "35a8d53ae6d1af7b",
+      "title": "Rails is a JIT compiler",
+      "url": "https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "The article explores optimizing Ruby on Rails enum method generation by replacing dynamic method dispatching with static code generation. The author identifies that using public_send and define_method with blocks creates unnecessary runtime overhead, proposing module_eval as a more efficient alternative.",
+      "summary_zh": "本文探討了如何優化 Ruby on Rails 中列舉（enum）方法的產生方式，透過以靜態程式碼生成取代動態方法派發來提升效能。作者指出使用 public_send 和 define_method 會造成不必要的執行時期開銷，並建議改用 module_eval 來優化。",
+      "keywords": [
+        "Ruby on Rails",
+        "JIT",
+        "enum",
+        "performance",
+        "metaprogramming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes a specific code implementation, benchmarks the dynamic behavior, and experiments with code generation improvements.",
+      "pacer_reason_zh": "本文分析了具體的程式碼實作，評估了動態行為的效能，並透過實驗探討程式碼生成的改進方案。"
+    },
+    {
+      "id": "29daa7fc6b7fe775",
+      "title": "Objects, attributes, maps, oh my!",
+      "url": "https://bernsteinbear.com/blog/object-shapes/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This article explores how dynamically typed languages often use hash tables to store object attributes, providing code examples in Python, Ruby, and JavaScript. It explains that while this approach is flexible, it introduces performance overhead due to high memory latency and inefficient property lookups compared to in-line storage.",
+      "summary_zh": "本文探討了動態型別語言如何常使用雜湊表（Hash Table）來儲存物件屬性，並以 Python、Ruby 和 JavaScript 為例進行說明。文中指出，雖然這種方式具備彈性，但由於頻繁的記憶體存取和查表開銷，會導致執行效能低於內嵌式儲存方式。",
+      "keywords": [
+        "programming languages",
+        "hash tables",
+        "object model",
+        "performance",
+        "memory layout"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of how programming language VMs handle object attribute storage and the associated trade-offs.",
+      "pacer_reason_zh": "本文針對程式語言虛擬機如何處理物件屬性儲存及其帶來的效能權衡進行了概念性的解釋。"
+    },
+    {
+      "id": "9042618b3b96e995",
+      "title": "Going Somewhere",
+      "url": "https://simone.org/somewhere/",
+      "source": "Simone Salis",
+      "source_url": "https://simone.org/",
+      "published": "2026-10-21T16:14:51.000Z",
+      "summary_en": "The author reflects on a meaningful conversation held during a drive home from O'Hare airport. The piece highlights a single impactful concluding remark made by the driver, Vicky.",
+      "summary_zh": "作者回憶起從歐海爾機場乘車回家的過程中，與司機 Vicky 進行了一場難忘的對話。文中特別提及了 Vicky 所說的最後一句話，帶給作者深遠的啟發。",
+      "keywords": [
+        "conversation",
+        "reflection",
+        "O'Hare",
+        "storytelling",
+        "vignette"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a brief narrative reflection focusing on the conceptual impact of a personal conversation.",
+      "pacer_reason_zh": "內容屬於簡短的敘事性反思，重點在於個人對話所帶來的概念性影響。"
+    },
+    {
+      "id": "d5bfffb2d100cc8f",
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-21T19:00:00.000Z",
+      "summary_en": "The author draws parallels between the Cold War-era nuclear strategy environment at RAND Corporation and the current rhetoric surrounding modern AI development. By reflecting on Daniel Ellsberg's experiences, the post highlights how both groups share a sense of moral burden, perceived 'insider' knowledge, and a belief that their work is essential to saving the world.",
+      "summary_zh": "作者透過丹尼爾·艾爾斯伯格關於蘭德公司的回憶，將冷戰時期的核武策略與現代人工智慧產業的言論進行對比。文章指出，兩者都帶有強烈的使命感與精英心態，認為自己肩負著拯救世界的重責大任。",
+      "keywords": [
+        "AI development",
+        "nuclear history",
+        "RAND Corporation",
+        "Daniel Ellsberg",
+        "existential risk"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the history of Cold War nuclear planning as an analogy to critique and contextualize the modern AI discourse.",
+      "pacer_reason_zh": "文章運用冷戰時期核武規劃的歷史作為類比，用以批判並分析現代人工智慧發展的論述。"
+    },
+    {
+      "id": "3aea2d3b283086de",
+      "title": "Trust Stores Are Dependencies Too",
+      "url": "https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-21T16:00:00.000Z",
+      "summary_en": "The article highlights the risks of hardcoded certificate authority trust stores within software dependencies, using the recent eMudhra incident as a case study. It details how widespread vendor-embedded certificates prevent centralized security updates, requiring manual patching across environments and runtimes.",
+      "summary_zh": "本文以 eMudhra 憑證洩漏事件為例，探討了將憑證授權中心（CA）信任儲存區寫入軟體相依套件所帶來的風險。文中指出這種做法導致無法即時更新憑證，迫使開發者必須手動更新各個執行環境與套件以修復安全漏洞。",
+      "keywords": [
+        "Trust Store",
+        "Certificate Authority",
+        "Security",
+        "Dependencies",
+        "Software Supply Chain"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes a specific security incident (eMudhra) and provides empirical evidence of how software ecosystem dependencies fail to handle revocation updates.",
+      "pacer_reason_zh": "本文分析了特定的安全事件（eMudhra），並透過證據展示了軟體生態系統中的相依性如何導致憑證撤銷更新機制失效。"
+    },
+    {
+      "id": "7549aaca15237d8b",
+      "title": "Backdoors, Incompetence, and Elliptic Curves",
+      "url": "https://www.johndcook.com/blog/2026/10/21/emudhra/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-21T15:16:51.000Z",
+      "summary_en": "This article discusses the ongoing controversies surrounding NIST elliptic curves, specifically addressing concerns about potential backdoors and recent security failures involving broken certificates. The author reflects on the tension between security skepticism and implementation incompetence in cryptographic standards.",
+      "summary_zh": "本文探討了 NIST 橢圓曲線近期引發的爭議，重點關注關於後門的潛在擔憂以及近期因憑證毀損導致的安全問題。作者深入分析了在密碼學標準中，對安全性的質疑與實作能力不足之間的矛盾。",
+      "keywords": [
+        "NIST",
+        "elliptic curves",
+        "cryptography",
+        "cybersecurity",
+        "NSA"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual analysis and commentary on cryptographic standards and their inherent security implications.",
+      "pacer_reason_zh": "本文針對密碼學標準及其潛在的安全意涵，提供了概念性的分析與評論。"
+    },
+    {
+      "id": "f0ad34a6faa17324",
+      "title": "Deliberate imperfection",
+      "url": "https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-21T12:04:06.000Z",
+      "summary_en": "This article explores the concept of 'deliberate imperfection,' reflecting on the cyclical nature of life as described in the Book of Ecclesiastes. It suggests that embracing flaws is essential to finding harmony and meaning within the varying seasons of human experience.",
+      "summary_zh": "這篇文章探討了「刻意的不完美」這一概念，並反思了《傳道書》中對於生命週期循環的描述。作者認為，接納生命中的缺陷對於在變動的人生季節中尋求平衡與意義至關重要。",
+      "keywords": [
+        "Ecclesiastes",
+        "imperfection",
+        "philosophy",
+        "reflection",
+        "life cycles"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a conceptual reflection on a philosophical idea and its interpretation through a biblical text.",
+      "pacer_reason_zh": "這篇文章是對哲學思想及其通過聖經文本詮釋的概念性反思。"
+    },
+    {
+      "id": "5c7f48cef4839cfe",
+      "title": "Why didn’t we use Ro­Register­For­Apartment­Shutdown to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-21T14:00:00.000Z",
+      "summary_en": "This post discusses why a specific Windows API function, RoRegisterForApartmentShutdown, was unsuitable for cleaning up unmarshalable delegates. It highlights the complex circular requirements that made this approach ineffective for the intended task.",
+      "summary_zh": "本文探討了為何無法使用 RoRegisterForApartmentShutdown API 函式來清理無法封送處理 (unmarshalable) 的委派。文中指出，由於開發需求過於繁雜且存在循環依賴，導致此方案在該情境下並不適用。",
+      "keywords": [
+        "Windows API",
+        "RoRegisterForApartmentShutdown",
+        "Programming",
+        "Development",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual constraints and architectural reasons why a specific software design approach was rejected.",
+      "pacer_reason_zh": "本文解釋了特定軟體設計方法被否決的概念性限制與架構原因。"
+    },
+    {
+      "id": "b97dd6d23ef742b9",
+      "title": "Microspeak: Drain the slide, back-up slides",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261020-00/?p=112784/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-20T14:00:00.000Z",
+      "summary_en": "This post explains the corporate jargon 'drain the slide' and the usage of 'back-up slides' in PowerPoint presentations. It defines these terms within the context of professional business communication.",
+      "summary_zh": "這篇文章解釋了簡報術語「drain the slide」與「back-up slides」的含義。內容針對這些在職場簡報中常見的用語進行了定義與說明。",
+      "keywords": [
+        "Microspeak",
+        "PowerPoint",
+        "Jargon",
+        "The Old New Thing",
+        "Presentation"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions as a dictionary or reference entry defining specific industry terminology.",
+      "pacer_reason_zh": "此文章的功能類似於字典或參考指南，用於定義特定的產業術語。"
+    },
+    {
+      "id": "a80cd8e4dce42194",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This piece critiques the recurring, preventable technical issues inherent in specific programming languages. It highlights the irony of users accepting persistent failure as a standard characteristic of their chosen development environment.",
+      "summary_zh": "這篇文章批判了特定程式語言中常見且可預防的技術問題。作者點出了使用者將這種頻繁發生的錯誤視為該開發環境常態的諷刺現象。",
+      "keywords": [
+        "programming",
+        "software engineering",
+        "tech culture",
+        "dev experience",
+        "rant"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post focuses on critiquing the conceptual nature and philosophy of language design and user acceptance.",
+      "pacer_reason_zh": "這篇文章重點在於批判程式語言設計的概念本質與使用者的心態。"
+    },
+    {
+      "id": "9189459514dd21ca",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This post critiques the persistent design flaws and recurring security vulnerabilities inherent in specific programming languages. It highlights the irony of developers accepting these avoidable errors as inevitable parts of their environment.",
+      "summary_zh": "這篇文章批判了特定程式語言中根深蒂固的設計缺陷與反覆出現的安全漏洞。作者指出開發者將這些本可避免的錯誤視為理所當然，這種心態帶有強烈的諷刺意味。",
+      "keywords": [
+        "programming languages",
+        "software design",
+        "security",
+        "developer culture",
+        "tech satire"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on critiquing conceptual design patterns and the philosophy behind programming language development.",
+      "pacer_reason_zh": "本文重點在於批判軟體設計的概念模式以及程式語言開發背後的哲學。"
+    },
+    {
+      "id": "7dedfa7032ea914a",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This satirical piece criticizes the persistent flaws and design failures inherent in a specific programming language. It highlights the irony of users constantly encountering avoidable issues that remain unaddressed by the language's creators.",
+      "summary_zh": "這篇文章以諷刺手法批評了某種程式語言中長期存在且無法避免的設計缺陷。文中點出了開發者們不斷遭遇同樣問題，卻始終未能得到解決的荒謬現狀。",
+      "keywords": [
+        "programming",
+        "satire",
+        "software engineering",
+        "language design",
+        "development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article functions as a conceptual critique of programming language design and the sociological patterns of its user base.",
+      "pacer_reason_zh": "本文屬於對程式語言設計及其用戶群體行為模式的概念性評論與批判。"
+    },
+    {
+      "id": "7174649ba602c976",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This piece explores the recurring frustrations of developers working with specific programming languages that suffer from frequent, preventable technical issues. It highlights the irony of systemic failures that persist despite being well-documented and predictable.",
+      "summary_zh": "這篇文章探討了開發者在使用特定程式語言時，對於那些經常發生且可預防的技術問題所感到的持續挫折。作者點出了儘管這些系統性故障記錄詳盡且具有可預測性，卻依然不斷發生的諷刺現象。",
+      "keywords": [
+        "programming",
+        "software engineering",
+        "technical debt",
+        "developer experience",
+        "irony"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual analysis of systemic technical failures and the culture surrounding specific language design patterns.",
+      "pacer_reason_zh": "本文重點在於分析系統性技術故障的觀念，以及圍繞特定程式語言設計模式的開發者文化。"
+    },
+    {
+      "id": "e25b355e18f7a50b",
+      "title": "Jesus Christ patch your shit now",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-21T00:00:00.000Z",
+      "summary_en": "This blog post serves as an urgent call to action for software developers and system administrators to prioritize security patching. It emphasizes the critical necessity of maintaining updated systems to protect against vulnerabilities.",
+      "summary_zh": "這篇文章強烈呼籲軟體開發者與系統管理員應優先處理系統安全性更新。強調了維護系統更新對於防範漏洞與安全威脅的關鍵重要性。",
+      "keywords": [
+        "security",
+        "patching",
+        "software engineering",
+        "vulnerabilities",
+        "maintenance"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The title and context imply an instructional, directive nature focused on the 'how' of urgent maintenance tasks.",
+      "pacer_reason_zh": "標題與內容暗示了其指導性質，專注於說明緊急維護任務的執行方式。"
+    },
+    {
+      "id": "02c9ab5f304f07c7",
+      "title": "Can they write a function? ",
+      "url": "https://idiallo.com/blog/can-they-write-a-function",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-21T19:00:40.000Z",
+      "summary_en": "The author argues that traditional, elaborate hiring processes for software developers are often arbitrary and ineffective. Instead, they propose a simplified, practical assessment approach—live coding and deployment tasks—while suggesting that actual technical skills and cultural fit are best developed on the job.",
+      "summary_zh": "作者認為傳統複雜的軟體工程師招聘流程往往流於形式且無效。他提倡採取簡化的實務評估，例如現場編碼與部署測試，並強調專業技能與文化適應性應該在工作中邊做邊學。",
+      "keywords": [
+        "hiring",
+        "software engineering",
+        "technical assessment",
+        "recruitment",
+        "interview"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, practical step-by-step recommendation for how to conduct a software developer interview.",
+      "pacer_reason_zh": "本文針對如何進行軟體工程師面試提供了具體的、循序漸進的實務建議。"
+    },
+    {
+      "id": "5d15c045388ec8ec",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-10-21T15:26:07.000Z",
+      "summary_en": "A critical vulnerability affecting nearly 70 percent of websites has been discovered, potentially leading to widespread server outages. Security experts warn that exploits are currently being used in the wild, necessitating immediate software updates to prevent attackers from seizing server control.",
+      "summary_zh": "一項影響近七成網站的嚴重 PHP 漏洞已被發現，可能導致廣泛的伺服器故障。安全專家警告，目前駭客已在實際攻擊中使用相關漏洞，建議網站管理員立即更新核心軟體以防止伺服器被完全控制。",
+      "keywords": [
+        "PHP",
+        "Cybersecurity",
+        "Vulnerability",
+        "Web Security",
+        "Exploits"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual security threat and the nature of the vulnerability without providing a step-by-step guide or detailed raw data.",
+      "pacer_reason_zh": "本文主要解釋安全威脅的概念及其漏洞性質，並非操作指南或原始數據分析。"
+    },
+    {
+      "id": "60cdd6b596008249",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-21T18:41:53.000Z",
+      "summary_en": "The PHP Foundation has released critical security updates for the PHP 8.x line following the premature disclosure of two remote code execution vulnerabilities. The post details how the incident unfolded, including the accidental release of proof-of-concept material, and emphasizes the urgent need for users to upgrade.",
+      "summary_zh": "PHP Foundation 針對 PHP 8.x 系列發布了緊急安全性更新，以修復兩項遠端程式碼執行漏洞。由於漏洞細節意外洩漏且出現了驗證攻擊程式（PoC），官方呼籲用戶必須立即升級以確保系統安全。",
+      "keywords": [
+        "PHP",
+        "Security",
+        "CVE",
+        "Vulnerability",
+        "Update"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a specific security incident, disclosure timeline, and real-world vulnerability exploitation evidence.",
+      "pacer_reason_zh": "內容聚焦於特定的安全事件、披露時間軸以及漏洞被實際利用的證據。"
+    },
+    {
+      "id": "e0e7f9f0f4ba064a",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-21T16:25:16.000Z",
+      "summary_en": "Simon Willison highlights a community-created fork of his open-source game 'Battle Drones' called 'Panache.' This project reskins the original RTS game with a Belle Époque steampunk theme, featuring new 1900s-inspired models and music.",
+      "summary_zh": "Simon Willison 分享了一個名為「Panache」的開源遊戲分支，這是基於他的作品《Battle Drones》所改編的。該專案將原有的即時戰略遊戲重新設計為 1900 年代法國美好年代的蒸汽龐克風格，並加入了全新的建模與音樂。",
+      "keywords": [
+        "RTS",
+        "Panache",
+        "Battle Drones",
+        "Steampunk",
+        "Open Source"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on showcasing a specific project implementation and provides visual comparisons between the original models and the new variants.",
+      "pacer_reason_zh": "本文重點在於展示一個特定的專案實作，並提供了原始模型與新變體之間的視覺比較。"
+    },
+    {
+      "id": "0e2f48bc0979a338",
+      "title": "Upgrade your PHP installs immediately to protect against php2shell",
+      "url": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-10-21T14:10:00.000Z",
+      "summary_en": "Critical security vulnerabilities involving Remote Code Execution (RCE) have been discovered in various PHP versions, necessitating immediate updates to patched releases. The post advises users to upgrade to the latest versions and suggests switching to official repositories if third-party options are unavailable.",
+      "summary_zh": "PHP 版本近期發現了嚴重的遠端代碼執行（RCE）漏洞，建議用戶立即將系統更新至最新版本以確保安全。若無法使用第三方儲存庫，建議暫時切換至官方儲存庫進行更新。",
+      "keywords": [
+        "PHP",
+        "Security",
+        "RCE",
+        "Upgrade",
+        "Cybersecurity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides urgent, actionable instructions on how to secure PHP installations through specific software updates.",
+      "pacer_reason_zh": "本文提供關於如何透過軟體更新來確保 PHP 安裝安全，具有高度的操作指導性。"
+    },
     {
       "id": "4d6a91df126c9638",
       "title": "How to install an app on your Commodore 64",
