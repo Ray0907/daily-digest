@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-10-22T00:17:57.327Z",
+  "last_updated": "2026-10-23T00:14:14.468Z",
   "articles": [
+    {
+      "id": "8ca83b58224eae92",
+      "title": "If people would just",
+      "url": "https://herman.bearblog.dev/if-people-would-just/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-10-22T12:19:00.000Z",
+      "summary_en": "The article argues that relying on people to 'just' behave is a flawed approach to system design. Instead of wishing for perfect compliance, designers should build systems that physically or structurally prevent errors and misconduct by acknowledging the reality of human behavior.",
+      "summary_zh": "本文主張依賴人們「只要」自律來運作系統是不切實際的設計方式。與其期待完美配合，設計者應透過實體或結構上的規範，來預防人為錯誤與違規行為，正視人性在系統設計中的不確定性。",
+      "keywords": [
+        "system design",
+        "human behavior",
+        "UX design",
+        "problem solving",
+        "infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual framework for system design by critiquing common assumptions about human compliance.",
+      "pacer_reason_zh": "本文針對常見的行為假設進行批判，提出了一套關於系統設計的觀念架構。"
+    },
+    {
+      "id": "7d4097313194c124",
+      "title": "What will computer chips look like in 2045?",
+      "url": "https://www.dwarkesh.com/p/intel-tour",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-10-22T15:02:21.000Z",
+      "summary_en": "This article explores the future trajectory of semiconductor manufacturing through insights gained from a tour of Intel's most advanced fabrication facility. It combines leadership perspectives and firsthand observations to project the evolution of chip technology by 2045.",
+      "summary_zh": "本文透過參訪英特爾最先進的晶片廠並與其領導層對話，探討半導體製造的未來發展路徑。文章結合實地觀察與高層觀點，展望至 2045 年晶片技術的演變趨勢。",
+      "keywords": [
+        "semiconductors",
+        "Intel",
+        "future technology",
+        "chip manufacturing",
+        "innovation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content relies on firsthand observation, facility tours, and expert testimony to provide evidence-based insights into future technological developments.",
+      "pacer_reason_zh": "內容基於實地觀察、工廠參訪及專家證詞，為未來的技術發展提供了具證據力的見解。"
+    },
+    {
+      "id": "8879be43b4f80ed6",
+      "title": "NYC, New Webinar, Differential Testing",
+      "url": "https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-10-22T15:14:05.000Z",
+      "summary_en": "The author shares personal updates and introduces the concept of nondeterministic differential testing. The post explains how to verify consistency when translating programs between languages, highlighting the challenges introduced by nondeterminism compared to standard deterministic testing.",
+      "summary_zh": "作者分享了個人近況，並介紹了非確定性差異測試的概念。文章探討了在程式語言轉換過程中如何驗證一致性，並分析了相較於標準的確定性測試，非確定性所帶來的挑戰。",
+      "keywords": [
+        "differential testing",
+        "nondeterminism",
+        "software testing",
+        "property-based testing",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concept of nondeterministic differential testing and the challenges of verifying program behavior.",
+      "pacer_reason_zh": "本文解釋了非確定性差異測試的理論概念，以及驗證程式行為時所面臨的挑戰。"
+    },
+    {
+      "id": "906981468ccf0d32",
+      "title": "Script dependencies with Nix",
+      "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-10-21T22:00:00.000Z",
+      "summary_en": "This article demonstrates how to use the Nix package manager to handle script dependencies on non-NixOS Linux distributions. By encapsulating Python and system dependencies like aplay within a Nix shell, users can ensure their scripts remain reliable and reproducible.",
+      "summary_zh": "本文介紹如何在非 NixOS 的 Linux 發行版中使用 Nix 套件管理器來管理腳本依賴。透過將 Python 套件及系統相依性（如 aplay）封裝在 Nix shell 中，確保腳本能長期穩定且可重現地執行。",
+      "keywords": [
+        "Nix",
+        "Linux",
+        "Dependencies",
+        "Python",
+        "Automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step approach to managing script dependencies using Nix.",
+      "pacer_reason_zh": "本文提供了使用 Nix 管理腳本依賴的實作步驟教學。"
+    },
+    {
+      "id": "f595350c4b92d73c",
+      "title": "Working around a strange Python problem",
+      "url": "https://www.johndcook.com/blog/2026/10/22/pep-723/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-22T15:12:10.000Z",
+      "summary_en": "The author encounters a mysterious Python error following a system-wide update. The issue is traced to multiple PEP 723 metadata blocks, highlighting the complexities of managing script dependencies and metadata standards.",
+      "summary_zh": "作者在進行系統更新後，遇到了一個關於 Python 腳本的奇怪錯誤。問題起因於腳本中出現了多個 PEP 723 元數據區塊，凸顯了管理腳本依賴與元數據標準時的複雜性。",
+      "keywords": [
+        "Python",
+        "PEP 723",
+        "debugging",
+        "metadata",
+        "scripting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post details a specific technical troubleshooting process and how the author worked around an error.",
+      "pacer_reason_zh": "這篇文章詳細介紹了一個特定的技術除錯過程，以及作者如何解決該錯誤。"
+    },
+    {
+      "id": "a57713209620db53",
+      "title": "How the eMudrha certificate debacle might have happened",
+      "url": "https://www.johndcook.com/blog/2026/10/22/certificate-debacle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-22T14:01:55.000Z",
+      "summary_en": "This post examines the security failure at eMudrha, where extremely weak, predictable numbers were used as secret keys for certificates. It highlights the dangers of inadequate entropy in cryptographic systems and explains why such simple values are fundamentally insecure.",
+      "summary_zh": "本文探討了 eMudrha 的憑證安全漏洞，該公司竟使用極其簡單且可預測的數字作為加密金鑰。文章分析了在密碼學系統中缺乏足夠隨機性（熵）所帶來的嚴重安全風險。",
+      "keywords": [
+        "eMudrha",
+        "cryptography",
+        "security",
+        "entropy",
+        "encryption"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explains the security implications of using predictable values as cryptographic keys.",
+      "pacer_reason_zh": "本文從概念上解釋了使用可預測數值作為加密金鑰所帶來的安全隱患。"
+    },
+    {
+      "id": "5bafaf90a950d7ca",
+      "title": "The number of points on an elliptic curve",
+      "url": "https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-22T11:08:51.000Z",
+      "summary_en": "This article explains the mathematical definition of elliptic curves over finite fields, which are foundational to modern cryptography. It discusses how points on these curves are determined by the equation y² = x³ + ax + b and mentions the distribution of these points.",
+      "summary_zh": "本文介紹了有限域上橢圓曲線的數學定義，這是現代密碼學的基礎。內容說明了如何透過方程式 y² = x³ + ax + b 來定義曲線上的點，並探討了這些點的數量分佈。",
+      "keywords": [
+        "elliptic curve",
+        "cryptography",
+        "finite field",
+        "mathematics",
+        "number theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of the mathematical properties and definitions underlying elliptic curves.",
+      "pacer_reason_zh": "本文針對橢圓曲線背後的數學屬性和定義提供了概念性的解釋。"
+    },
+    {
+      "id": "9f3c74759ee33f7c",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-22T00:00:00.000Z",
+      "summary_en": "This piece uses satire to comment on the repetitive nature of technical failures and security vulnerabilities in specific programming languages. It highlights the recurring frustration of developers who consistently encounter the same systemic issues.",
+      "summary_zh": "這篇文章以諷刺手法評論了特定程式語言中技術故障與安全漏洞反覆發生的現象。內容點出了開發者對於不斷遭遇相同系統性問題的深層挫折感。",
+      "keywords": [
+        "programming",
+        "satire",
+        "software engineering",
+        "tech culture",
+        "debugging"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses satirical analogy to comment on recurring technical issues rather than providing factual data or instructional content.",
+      "pacer_reason_zh": "本文使用諷刺類比來評論重複出現的技術問題，而非提供事實數據或教學內容。"
+    },
+    {
+      "id": "ccd221a5f3553ab4",
+      "title": "Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-22T11:34:36.000Z",
+      "summary_en": "This review evaluates the Mokin 17-port USB-C tower, a feature-heavy docking station. The author highlights the device's extensive connectivity options while expressing confusion over the inclusion of unnecessary features like an LCD weather display.",
+      "summary_zh": "本文評測了 Mokin 17 埠 USB-C 直立式擴充基座，這是一款功能繁多的硬體設備。作者詳細介紹了該裝置豐富的連接埠規格，並對其中包含氣象顯示螢幕等不必要的附加功能提出質疑。",
+      "keywords": [
+        "USB-C hub",
+        "docking station",
+        "hardware review",
+        "Mokin",
+        "tech gadgets"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a product review based on hands-on experience with the specific hardware, providing a critical assessment.",
+      "pacer_reason_zh": "本文基於作者對該硬體的實際使用經驗進行產品評測，並提供批判性的觀點。"
+    },
+    {
+      "id": "dd3b373660e51cb2",
+      "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/21/brittle-individualism/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-21T20:05:21.000Z",
+      "summary_en": "Cory Doctorow argues that digital enshittification can be countered through adversarial interoperability, leveraging the universal nature of Turing-complete machines to restore user control. He emphasizes that restoring features or blocking unwanted changes is a collaborative effort that requires collective action rather than individual \"jailbreaks.\"",
+      "summary_zh": "Cory Doctorow 指出，數位服務的惡化（Enshittification）可以透過對抗性互操作性來反制，利用圖靈完備機器的通用特性來恢復用戶控制權。他強調，恢復功能或阻擋不必要的變更是一項集體行動，而非僅靠個人的「越獄」手段即可解決。",
+      "keywords": [
+        "interoperability",
+        "enshittification",
+        "Turing-complete",
+        "digital rights",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of why digital systems are theoretically open to modification and discusses the theory of adversarial interoperability.",
+      "pacer_reason_zh": "本文針對數位系統為何在理論上可被修改提供了概念性解釋，並深入探討了對抗性互操作性的理論基礎。"
+    },
+    {
+      "id": "6c02262b66ac8866",
+      "title": "Productivity ",
+      "url": "https://idiallo.com/byte-size/productivity-video",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-22T16:56:14.000Z",
+      "summary_en": "The article explores the productivity paradox where automation and AI agents, instead of saving time, often lead to increased workloads and constant busyness. It highlights how the expectation to produce more results perpetually consumes any time saved by new technologies.",
+      "summary_zh": "本文探討了生產力悖論，即自動化與AI代理工具不僅沒有節省時間，反而常導致工作量增加與持續的忙碌感。文章指出，社會對於產出更多成果的預期，抵銷了技術進步所節省下的時間。",
+      "keywords": [
+        "productivity",
+        "AI agents",
+        "work culture",
+        "automation",
+        "efficiency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual nature of productivity, challenging common assumptions about how technology impacts our time and labor.",
+      "pacer_reason_zh": "本文探討了生產力的概念本質，並挑戰了關於技術如何影響我們時間與勞動的普遍假設。"
+    },
+    {
+      "id": "87e22db35085845a",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-22T19:42:26.000Z",
+      "summary_en": "Simon Willison shares a music video by the Dutch band De Staat that features a notable visual effects sequence. The post highlights the use of generative AI in creating a surreal clip of a pelican riding a bicycle.",
+      "summary_zh": "Simon Willison 分享了荷蘭搖滾樂團 De Staat 的一支音樂錄影帶，其中包含一段引人注目的視覺特效片段。該文章指出這段鵜鶘騎自行車的超現實畫面是透過生成式 AI 技術製作而成。",
+      "keywords": [
+        "De Staat",
+        "Music Video",
+        "Generative AI",
+        "Visual Effects",
+        "Pelican"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post serves as an example of generative AI application in professional creative media.",
+      "pacer_reason_zh": "該文章展示了生成式 AI 在專業創意媒體中的實際應用案例。"
+    },
+    {
+      "id": "2f38489938aada9c",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-22T18:09:56.000Z",
+      "summary_en": "Anthropic has donated its Agent Skills standard to the Agentic AI Foundation, hosted by the Linux Foundation, to ensure open and vendor-neutral development. Simon Willison highlights this move, noting that he previously predicted this transition and demonstrating how he used MCP to verify his past commentary.",
+      "summary_zh": "Anthropic 將其 Agent Skills 標準捐贈給由 Linux 基金會託管的 Agentic AI Foundation，旨在確保技術開發的開放性與供應商中立。部落客 Simon Willison 對此表示認同，指出這驗證了他先前的預測，並展示了如何利用 MCP 工具檢索其過往的觀點。",
+      "keywords": [
+        "Anthropic",
+        "Agentic AI Foundation",
+        "MCP",
+        "Agent Skills",
+        "Open Standard"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an update on industry news and explains the conceptual shift toward open standards for agentic AI interoperability.",
+      "pacer_reason_zh": "本文報導行業新聞，並說明了代理式 AI 互操作性朝向開放標準發展的產業概念。"
+    },
+    {
+      "id": "2eded73c1a58a8ad",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-22T15:34:13.000Z",
+      "summary_en": "This post features a quote from Armin Ronacher regarding the current state of software development. It suggests that the proliferation of poor software practices over the past three decades has left the industry vulnerable to the challenges posed by AI.",
+      "summary_zh": "本文引用了 Armin Ronacher 對當前軟體開發現狀的看法。內容指出，過去三十年來軟體開發累積的漏洞與不佳實作，使得現代產業在面對人工智慧帶來的挑戰時顯得更加脆弱。",
+      "keywords": [
+        "AI",
+        "software engineering",
+        "security",
+        "Armin Ronacher",
+        "generative-ai"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content presents a high-level conceptual observation about software development history and the systemic risks related to AI.",
+      "pacer_reason_zh": "本文提出了一種關於軟體發展史與 AI 相關系統性風險的高層次概念性觀察。"
+    },
+    {
+      "id": "00e1c62671775aca",
+      "title": "Software is slow because of bad design, not slow languages",
+      "url": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary_en": "The article argues that software performance issues are primarily rooted in poor architectural design rather than the choice of programming language. It suggests that developer productivity and algorithmic efficiency are more significant factors in system speed than low-level execution speed.",
+      "summary_zh": "本文主張軟體效能問題主要源於糟糕的架構設計，而非程式語言的選擇。作者認為開發者的生產力與演算法效率，對於系統運行的速度影響遠大於語言本身的執行速度。",
+      "keywords": [
+        "software design",
+        "performance",
+        "programming languages",
+        "software architecture",
+        "optimization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument regarding the root causes of software performance, challenging common industry assumptions.",
+      "pacer_reason_zh": "本文提出關於軟體效能根本原因的概念性論點，挑戰了業界常見的假設。"
+    },
     {
       "id": "35a8d53ae6d1af7b",
       "title": "Rails is a JIT compiler",

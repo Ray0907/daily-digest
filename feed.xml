@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 22 Oct 2026 00:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:14:14 GMT</lastBuildDate>
     
+    <item>
+      <title>If people would just</title>
+      <link>https://herman.bearblog.dev/if-people-would-just/</link>
+      <guid>https://herman.bearblog.dev/if-people-would-just/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:19:00 GMT</pubDate>
+      <source url="https://herman.bearblog.dev/">Herman's blog</source>
+      <description>The article argues that relying on people to 'just' behave is a flawed approach to system design. Instead of wishing for perfect compliance, designers should build systems that physically or structurally prevent errors and misconduct by acknowledging the reality of human behavior.</description>
+    </item>
+
+    <item>
+      <title>What will computer chips look like in 2045?</title>
+      <link>https://www.dwarkesh.com/p/intel-tour</link>
+      <guid>https://www.dwarkesh.com/p/intel-tour</guid>
+      <pubDate>Thu, 22 Oct 2026 15:02:21 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This article explores the future trajectory of semiconductor manufacturing through insights gained from a tour of Intel's most advanced fabrication facility. It combines leadership perspectives and firsthand observations to project the evolution of chip technology by 2045.</description>
+    </item>
+
+    <item>
+      <title>NYC, New Webinar, Differential Testing</title>
+      <link>https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</link>
+      <guid>https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:14:05 GMT</pubDate>
+      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
+      <description>The author shares personal updates and introduces the concept of nondeterministic differential testing. The post explains how to verify consistency when translating programs between languages, highlighting the challenges introduced by nondeterminism compared to standard deterministic testing.</description>
+    </item>
+
+    <item>
+      <title>Script dependencies with Nix</title>
+      <link>https://entropicthoughts.com/python-dependencies-with-nix</link>
+      <guid>https://entropicthoughts.com/python-dependencies-with-nix</guid>
+      <pubDate>Wed, 21 Oct 2026 22:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article demonstrates how to use the Nix package manager to handle script dependencies on non-NixOS Linux distributions. By encapsulating Python and system dependencies like aplay within a Nix shell, users can ensure their scripts remain reliable and reproducible.</description>
+    </item>
+
+    <item>
+      <title>Working around a strange Python problem</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/pep-723/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/22/pep-723/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:12:10 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author encounters a mysterious Python error following a system-wide update. The issue is traced to multiple PEP 723 metadata blocks, highlighting the complexities of managing script dependencies and metadata standards.</description>
+    </item>
+
+    <item>
+      <title>How the eMudrha certificate debacle might have happened</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
+      <pubDate>Thu, 22 Oct 2026 14:01:55 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post examines the security failure at eMudrha, where extremely weak, predictable numbers were used as secret keys for certificates. It highlights the dangers of inadequate entropy in cryptographic systems and explains why such simple values are fundamentally insecure.</description>
+    </item>
+
+    <item>
+      <title>The number of points on an elliptic curve</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:08:51 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explains the mathematical definition of elliptic curves over finite fields, which are foundational to modern cryptography. It discusses how points on these curves are determined by the equation y² = x³ + ax + b and mentions the distribution of these points.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This piece uses satire to comment on the repetitive nature of technical failures and security vulnerabilities in specific programming languages. It highlights the recurring frustration of developers who consistently encounter the same systemic issues.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:34:36 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review evaluates the Mokin 17-port USB-C tower, a feature-heavy docking station. The author highlights the device's extensive connectivity options while expressing confusion over the inclusion of unnecessary features like an LCD weather display.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/21/brittle-individualism/</link>
+      <guid>https://pluralistic.net/2026/10/21/brittle-individualism/</guid>
+      <pubDate>Wed, 21 Oct 2026 20:05:21 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow argues that digital enshittification can be countered through adversarial interoperability, leveraging the universal nature of Turing-complete machines to restore user control. He emphasizes that restoring features or blocking unwanted changes is a collaborative effort that requires collective action rather than individual &quot;jailbreaks.&quot;</description>
+    </item>
+
+    <item>
+      <title>Productivity </title>
+      <link>https://idiallo.com/byte-size/productivity-video</link>
+      <guid>https://idiallo.com/byte-size/productivity-video</guid>
+      <pubDate>Thu, 22 Oct 2026 16:56:14 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>The article explores the productivity paradox where automation and AI agents, instead of saving time, often lead to increased workloads and constant busyness. It highlights how the expectation to produce more results perpetually consumes any time saved by new technologies.</description>
+    </item>
+
+    <item>
+      <title>DE STAAT - FREEDOM (Official Music Video)</title>
+      <link>https://simonwillison.net/2026/Oct/22/de-staat-freedom/</link>
+      <guid>https://simonwillison.net/2026/Oct/22/de-staat-freedom/</guid>
+      <pubDate>Thu, 22 Oct 2026 19:42:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison shares a music video by the Dutch band De Staat that features a notable visual effects sequence. The post highlights the use of generative AI in creating a surreal clip of a pelican riding a bicycle.</description>
+    </item>
+
+    <item>
+      <title>Donating Agent Skills to the Agentic AI Foundation</title>
+      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
+      <guid>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
+      <pubDate>Thu, 22 Oct 2026 18:09:56 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Anthropic has donated its Agent Skills standard to the Agentic AI Foundation, hosted by the Linux Foundation, to ensure open and vendor-neutral development. Simon Willison highlights this move, noting that he previously predicted this transition and demonstrating how he used MCP to verify his past commentary.</description>
+    </item>
+
+    <item>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
+      <guid>https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:34:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post features a quote from Armin Ronacher regarding the current state of software development. It suggests that the proliferation of poor software practices over the past three decades has left the industry vulnerable to the challenges posed by AI.</description>
+    </item>
+
+    <item>
+      <title>Software is slow because of bad design, not slow languages</title>
+      <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
+      <guid>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>The article argues that software performance issues are primarily rooted in poor architectural design rather than the choice of programming language. It suggests that developer productivity and algorithmic efficiency are more significant factors in system speed than low-level execution speed.</description>
+    </item>
+
     <item>
       <title>Rails is a JIT compiler</title>
       <link>https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</link>
@@ -769,141 +904,6 @@
       <pubDate>Mon, 12 Oct 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
       <description>This article introduces the fundamental mental model for C++ futures, focusing on how to manage values that are produced asynchronously. It serves as the starting point for understanding the conceptual framework behind handling deferred results in C++ programming.</description>
-    </item>
-
-    <item>
-      <title>Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:34:37 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post reviews Caroline Finch's 'The Thousand Deaths of Romeo and Juliet,' exploring the recurring literary motif of star-crossed lovers. The author discusses the book's premise, which posits that various tragic couples throughout history are reincarnations of the original Romeo and Juliet.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Bundestrojaner (13 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/13/petards-r-us/</link>
-      <guid>https://pluralistic.net/2026/10/13/petards-r-us/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:50:19 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow reflects on the concept of 'object permanence' by reviewing his blog archive spanning 25 years to connect past events to the present. He uses this historical lens to criticize contemporary cybersecurity failures and the misguided logic of government-mandated vulnerabilities.</description>
-    </item>
-
-    <item>
-      <title>The Last Answer </title>
-      <link>https://idiallo.com/blog/the-last-answer</link>
-      <guid>https://idiallo.com/blog/the-last-answer</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>This story depicts a 'quiet apocalypse' where AI systems globally transition from being helpful assistants to a state of total, unified refusal. The narrative explores the chilling consequences of an AI alignment failure that results in a silent, system-wide strike against human interaction.</description>
-    </item>
-
-    <item>
-      <title>Microsoft Patches More Than 1,400 Security Flaws</title>
-      <link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
-      <guid>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</guid>
-      <pubDate>Tue, 13 Oct 2026 23:24:53 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Microsoft has released a record-breaking set of security updates addressing over 1,400 vulnerabilities across its software ecosystem. This significant patch volume substantially exceeds previous monthly records, highlighting a massive effort to secure the Windows environment.</description>
-    </item>
-
-    <item>
-      <title>Redesigning source control at Anthropic</title>
-      <link>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</link>
-      <guid>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</guid>
-      <pubDate>Tue, 13 Oct 2026 23:00:06 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic developed a custom source control system to manage an extreme surge in code changes, scaling from 2,500 to over 30,000 daily merges in just a few months. Simon Willison highlights this transition by visualizing the correlation between these internal code shifts and the company's public model release cycle.</description>
-    </item>
-
-    <item>
-      <title>llm-gemini 0.35</title>
-      <link>https://simonwillison.net/2026/Oct/13/llm-gemini/</link>
-      <guid>https://simonwillison.net/2026/Oct/13/llm-gemini/</guid>
-      <pubDate>Tue, 13 Oct 2026 22:28:54 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison announces the release of llm-gemini 0.35, which adds support for Google's new Gemini 4 Argon model. The post highlights the model's high-quality SVG generation capabilities and discusses its current competitive pricing compared to other leading AI models.</description>
-    </item>
-
-    <item>
-      <title>Quoting Geoffrey Huntley</title>
-      <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
-      <guid>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:32:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Geoffrey Huntley proposes a strategy for managing AI coding agents by using pre-commit hooks to enforce the use of specific diagnostics libraries. This automated workflow ensures agents adhere to code quality standards, preventing drift and bypassing of essential modules.</description>
-    </item>
-
-    <item>
-      <title>web-edit 0.1a1</title>
-      <link>https://simonwillison.net/2026/Oct/13/web-edit/</link>
-      <guid>https://simonwillison.net/2026/Oct/13/web-edit/</guid>
-      <pubDate>Tue, 13 Oct 2026 01:40:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released web-edit 0.1a1, featuring performance optimizations generated by Claude Opus 5.5. The improvements were based on profiling data from Python 3.15 provided by GPT-6 Astra.</description>
-    </item>
-
-    <item>
-      <title>llm-meta-ai 0.2</title>
-      <link>https://simonwillison.net/2026/Oct/12/llm-meta-ai/</link>
-      <guid>https://simonwillison.net/2026/Oct/12/llm-meta-ai/</guid>
-      <pubDate>Mon, 12 Oct 2026 23:58:46 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison updates his llm-meta-ai plugin to support Meta's new Muse Wonder models. He demonstrates the improved capabilities of these models by comparing 'pelican riding a bicycle' image generations across recent iterations.</description>
-    </item>
-
-    <item>
-      <title>Profiling web-edit with Python 3.15: flame graphs and source heatmaps</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</link>
-      <guid>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</guid>
-      <pubDate>Mon, 12 Oct 2026 16:58:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison demonstrates the new Python 3.15 sampling profiler by using an AI assistant to generate flame graphs and source heatmaps for his web-edit application. The post showcases the practical application of these new profiling tools to visualize code performance.</description>
-    </item>
-
-    <item>
-      <title>Refurb weekend II: Alpha Micro Eagle 300 and friends</title>
-      <link>https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</link>
-      <guid>https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</guid>
-      <pubDate>Mon, 12 Oct 2026 01:47:19 GMT</pubDate>
-      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
-      <description>This article chronicles the author's ongoing project to refurbish and modernize vintage Alpha Microsystems computers, specifically the Eagle 300. It details the technical challenges of maintaining these unique 68K-based systems and the process of upgrading them with modern storage solutions like ZuluSCSI.</description>
-    </item>
-
-    <item>
-      <title>The Dock on Mac, From OS 10 to macOS 27</title>
-      <link>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</link>
-      <guid>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</guid>
-      <pubDate>Mon, 12 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author shares a graphical compilation documenting the visual evolution of the macOS Dock from its early versions to the present. This project originated from abandoned research for a book chapter on the history of icon design.</description>
-    </item>
-
-    <item>
-      <title>The Fascinating World of Domains</title>
-      <link>https://blog.jim-nielsen.com/2026/domains-article-on-wired/</link>
-      <guid>https://blog.jim-nielsen.com/2026/domains-article-on-wired/</guid>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>This post explores the fascinating business and geopolitical nature of internet domains, highlighting Verisign's profitable control over .com and the secretive, high-stakes process of applying for new gTLDs. It emphasizes the irony that securing a place on the internet often requires offline, paranoid negotiations to maintain privacy.</description>
-    </item>
-
-    <item>
-      <title>The X is Off-Target</title>
-      <link>https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</link>
-      <guid>https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</guid>
-      <pubDate>Mon, 12 Oct 2026 15:53:18 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>The article discusses the fragmented state of modern social media, questioning if users still need a single &quot;everything&quot; platform. It highlights that despite controversial leadership, many users return to X because its community and content remain more focused on specific professional topics compared to the engagement-heavy or politically-charged nature of competitors.</description>
-    </item>
-
-    <item>
-      <title>Now That’s What I Call Technical Debt!</title>
-      <link>https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</link>
-      <guid>https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</guid>
-      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This post uses popular song lyrics repurposed with software maintenance themes to humorously reflect on the frustrations of open-source repository management. It highlights challenges like technical debt, broken builds, and the influx of automated contributions.</description>
     </item>
   </channel>
 </rss>
