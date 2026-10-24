@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "1560ea04dee0e58a",
+      "title": "Quick Study",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "pacer": "P",
+      "keywords": [
+        "Quick Study",
+        "Sobel edge detection",
+        "Generative AI",
+        "Claude",
+        "Canvas API"
+      ],
+      "published": "2026-10-23T21:35:13.000Z"
+    },
+    {
+      "id": "2353814513bbf46c",
+      "title": "Pluralistic: Critique and writing (23 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/23/better-to-give/",
+      "pacer": "C",
+      "keywords": [
+        "writing",
+        "workshops",
+        "creativity",
+        "peer-feedback",
+        "self-discipline"
+      ],
+      "published": "2026-10-23T20:44:02.000Z"
+    },
+    {
+      "id": "9e0308113d32ae3f",
+      "title": "Introducing Kimi K3.1 Pro",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "pacer": "E",
+      "keywords": [
+        "Kimi K3.1 Pro",
+        "Moonshot",
+        "LLM",
+        "AI Benchmarks",
+        "Open Weights"
+      ],
+      "published": "2026-10-23T19:40:54.000Z"
+    },
+    {
+      "id": "10e495446dc1a3ab",
+      "title": "An Ion Storm!, Part 2: The Return to Ground Level",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
+      "pacer": "C",
+      "keywords": [
+        "John Romero",
+        "Ion Storm",
+        "Game History",
+        "Video Games",
+        "Industry Culture"
+      ],
+      "published": "2026-10-23T16:19:26.000Z"
+    },
+    {
+      "id": "157bf9172976a2d0",
+      "title": "Why didn’t we use the COM static store to clean up the unmarshalable delegate?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/",
+      "pacer": "C",
+      "keywords": [
+        "COM",
+        "delegate",
+        "unmarshalable",
+        "static store",
+        "Windows programming"
+      ],
+      "published": "2026-10-23T14:00:00.000Z"
+    },
+    {
+      "id": "7e27bcf2845e741d",
+      "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
+      "pacer": "E",
+      "keywords": [
+        "Ubiquiti",
+        "Air Quality",
+        "CO2 Monitoring",
+        "Vape Detector",
+        "Jeff Geerling"
+      ],
+      "published": "2026-10-23T13:00:00.000Z"
+    },
+    {
+      "id": "25b339412a9e21a1",
+      "title": "More phishing messages via Booking.com and Novotel",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/",
+      "pacer": "E",
+      "keywords": [
+        "phishing",
+        "cybersecurity",
+        "Booking.com",
+        "data privacy",
+        "scam analysis"
+      ],
+      "published": "2026-10-23T11:34:15.000Z"
+    },
+    {
+      "id": "b1959b1fad9a2681",
+      "title": "One Small Bug",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/10/23/one-small-bug.html",
+      "pacer": "E",
+      "keywords": [
+        "security",
+        "CI/CD",
+        "AI coding",
+        "vulnerability",
+        "supply chain"
+      ],
+      "published": "2026-10-23T09:00:00.000Z"
+    },
+    {
+      "id": "3d70bddac7bb7e87",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/",
+      "pacer": "C",
+      "keywords": [
+        "programming",
+        "language design",
+        "software engineering",
+        "debugging",
+        "tech satire"
+      ],
+      "published": "2026-10-23T00:00:00.000Z"
+    },
+    {
       "id": "00e1c62671775aca",
       "title": "Software is slow because of bad design, not slow languages",
       "source": "seangoedecke.com RSS feed",
@@ -145,6 +289,22 @@
       "published": "2026-10-22T14:01:55.000Z"
     },
     {
+      "id": "6fef24ac75ec13da",
+      "title": "Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/",
+      "pacer": "C",
+      "keywords": [
+        "COM",
+        "CoRegisterInitializeSpy",
+        "Programming",
+        "Windows API",
+        "Software Engineering"
+      ],
+      "published": "2026-10-22T14:00:00.000Z"
+    },
+    {
       "id": "8ca83b58224eae92",
       "title": "If people would just",
       "source": "Herman's blog",
@@ -271,38 +431,6 @@
         "existential risk"
       ],
       "published": "2026-10-21T19:00:00.000Z"
-    },
-    {
-      "id": "60cdd6b596008249",
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "pacer": "E",
-      "keywords": [
-        "PHP",
-        "Security",
-        "CVE",
-        "Vulnerability",
-        "Update"
-      ],
-      "published": "2026-10-21T18:41:53.000Z"
-    },
-    {
-      "id": "e0e7f9f0f4ba064a",
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "pacer": "E",
-      "keywords": [
-        "RTS",
-        "Panache",
-        "Battle Drones",
-        "Steampunk",
-        "Open Source"
-      ],
-      "published": "2026-10-21T16:25:16.000Z"
     },
     {
       "id": "9042618b3b96e995",
@@ -493,22 +621,6 @@
         "software engineering",
         "language design",
         "development"
-      ],
-      "published": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "7174649ba602c976",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/",
-      "pacer": "C",
-      "keywords": [
-        "programming",
-        "software engineering",
-        "technical debt",
-        "developer experience",
-        "irony"
       ],
       "published": "2026-10-21T00:00:00.000Z"
     },
@@ -897,54 +1009,6 @@
       "published": "2026-10-16T16:14:39.000Z"
     },
     {
-      "id": "e12ebbe00b71ef85",
-      "title": "C++ futures part 5: std::future and std::shared_future",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "std::future",
-        "std::shared_future",
-        "asynchronous",
-        "programming"
-      ],
-      "published": "2026-10-16T14:00:00.000Z"
-    },
-    {
-      "id": "45b5019edb49540a",
-      "title": "Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/",
-      "pacer": "C",
-      "keywords": [
-        "Africa",
-        "Book Review",
-        "Stereotypes",
-        "Dipo Faloyin",
-        "Culture"
-      ],
-      "published": "2026-10-16T11:34:14.000Z"
-    },
-    {
-      "id": "1ff9751c69d0deb7",
-      "title": "Pluralistic: Load-bearing (16 Oct 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/10/15/sovereign-it/",
-      "pacer": "A",
-      "keywords": [
-        "Cory Doctorow",
-        "Home renovation",
-        "Structural integrity",
-        "Metaphor",
-        "Pluralistic"
-      ],
-      "published": "2026-10-16T06:40:02.000Z"
-    },
-    {
       "id": "0bd56ceb041df9e4",
       "title": "This video is 2 minutes long ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -1007,22 +1071,6 @@
         "tech trends"
       ],
       "published": "2026-10-15T14:23:58.000Z"
-    },
-    {
-      "id": "d3e631ba7c133cdf",
-      "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
-      "pacer": "C",
-      "keywords": [
-        "C++",
-        "std::async",
-        "concurrency",
-        "multithreading",
-        "programming"
-      ],
-      "published": "2026-10-15T14:00:00.000Z"
     },
     {
       "id": "679425e2c5ab85db",
@@ -1519,22 +1567,6 @@
         "ergonomics"
       ],
       "published": "2026-10-07T22:00:00.000Z"
-    },
-    {
-      "id": "338e3adb8aa0edc1",
-      "title": "Package Management RFCs",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/10/07/package-management-rfcs.html",
-      "pacer": "C",
-      "keywords": [
-        "package management",
-        "RFCs",
-        "specifications",
-        "software ecosystems",
-        "interoperability"
-      ],
-      "published": "2026-10-07T11:00:00.000Z"
     },
     {
       "id": "d4e032c1dd6c6a66",
@@ -2257,22 +2289,6 @@
       "published": "2026-09-22T06:12:01.000Z"
     },
     {
-      "id": "a7b9e879dda5ccb2",
-      "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
-      "pacer": "C",
-      "keywords": [
-        "Raspberry Pi",
-        "Pi 5",
-        "RAM",
-        "Firmware",
-        "Hardware"
-      ],
-      "published": "2026-09-21T17:00:00.000Z"
-    },
-    {
       "id": "227dc8c9205b1aff",
       "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
       "source": "Max Woolf's Blog",
@@ -2719,22 +2735,6 @@
         "OpenAI"
       ],
       "published": "2026-09-06T00:00:00.000Z"
-    },
-    {
-      "id": "065c5008045aaa3f",
-      "title": "Porsche Unleashed",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/09/porsche-unleashed/",
-      "pacer": "C",
-      "keywords": [
-        "Porsche",
-        "Video Games",
-        "Gaming History",
-        "Digital Antiquarian",
-        "Simulation"
-      ],
-      "published": "2026-09-04T15:55:22.000Z"
     },
     {
       "id": "80bf797a60a0a58c",
@@ -4979,6 +4979,26 @@
     }
   ],
   "links": [
+    {
+      "source": "3d70bddac7bb7e87",
+      "target": "9f3c74759ee33f7c",
+      "shared_keywords": [
+        "programming",
+        "software engineering",
+        "debugging"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "3d70bddac7bb7e87",
+      "target": "7dedfa7032ea914a",
+      "shared_keywords": [
+        "programming",
+        "software engineering",
+        "language design"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "9f3c74759ee33f7c",
       "target": "a80cd8e4dce42194",

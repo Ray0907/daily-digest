@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 23 Oct 2026 00:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:06:05 GMT</lastBuildDate>
     
+    <item>
+      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
+      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
+      <guid>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:19:26 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This article chronicles a pivotal moment in the history of game developer Ion Storm, focusing on John Romero's turbulent career and the rumors surrounding his departure. It contextualizes the rise and fall of the studio within the broader narrative of 1990s gaming industry culture.</description>
+    </item>
+
+    <item>
+      <title>One Small Bug</title>
+      <link>https://nesbitt.io/2026/10/23/one-small-bug.html</link>
+      <guid>https://nesbitt.io/2026/10/23/one-small-bug.html</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This post illustrates a conversation between a developer and an AI agent, showing how the AI fixes bugs while simultaneously discovering and remediating complex security vulnerabilities in the project's infrastructure. It highlights the hidden risks in automated toolchains, dependency management, and CI/CD configurations.</description>
+    </item>
+
+    <item>
+      <title>Why didn’t we use the COM static store to clean up the unmarshalable delegate?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post explains why the COM static store was not used to manage the cleanup of unmarshalable delegates. It concludes that the mechanism failed because it performed cleanup operations at the incorrect time.</description>
+    </item>
+
+    <item>
+      <title>Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post explores the technical constraints and reasoning behind why a specific COM API, CoRegisterInitializeSpy, was not suitable for cleaning up unmarshalable delegates. It highlights the complexities of system architecture and developer decision-making in legacy software.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This post discusses the inherent frustrations of language-specific design flaws that lead to recurring, avoidable errors. It highlights the irony of developers accepting broken tools as a standard part of their workflow.</description>
+    </item>
+
+    <item>
+      <title>More phishing messages via Booking.com and Novotel</title>
+      <link>https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/</guid>
+      <pubDate>Fri, 23 Oct 2026 11:34:15 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author shares a personal experience of receiving targeted phishing messages shortly after booking a hotel through Booking.com. The post analyzes the indicators of these fraudulent messages, highlighting how attackers exploit stolen booking data to impersonate service providers.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Critique and writing (23 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/23/better-to-give/</link>
+      <guid>https://pluralistic.net/2026/10/23/better-to-give/</guid>
+      <pubDate>Fri, 23 Oct 2026 20:44:02 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow discusses the transformative impact of peer-based writing workshops on a writer's development. He highlights how these groups provide essential external motivation, discipline, and validation for emerging writers.</description>
+    </item>
+
+    <item>
+      <title>Quick Study</title>
+      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
+      <guid>https://simonwillison.net/2026/Oct/23/quick-study-painter/</guid>
+      <pubDate>Fri, 23 Oct 2026 21:35:13 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Quick Study is a web-based tool that uses the Sobel edge detection algorithm to transform photographs into simulated paintings using the HTML canvas element. Developed via Claude prompts, the project demonstrates how LLMs can generate functional visual art tools without external libraries.</description>
+    </item>
+
+    <item>
+      <title>Introducing Kimi K3.1 Pro</title>
+      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+      <guid>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:40:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Moonshot has introduced Kimi K3.1 Pro, a high-performance AI model that offers competitive performance benchmarks against industry leaders like GPT-6 and Claude Opus. The article highlights the model's pricing structure, upcoming open-weight release, and demonstrates how to interface with it using the LLM CLI tool.</description>
+    </item>
+
+    <item>
+      <title>Ubiquiti's $99 Vape Detector is actually pretty good</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</guid>
+      <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>The author explores air quality monitoring, specifically investigating a $99 Ubiquiti vape detector as a potential tool for tracking CO2 and other pollutants. This review is part of a broader series examining various air quality sensors for home and studio use.</description>
+    </item>
+
     <item>
       <title>If people would just</title>
       <link>https://herman.bearblog.dev/if-people-would-just/</link>
@@ -814,96 +904,6 @@
       <pubDate>Wed, 14 Oct 2026 11:34:08 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>The author reflects on the drastic decrease in the cost of IoT devices over the past twelve years, highlighting how Moore's Law continues to drive affordability in domestic hardware. By comparing current prices of devices like Zigbee bulbs to historical data, the post illustrates the rapid evolution of consumer technology accessibility.</description>
-    </item>
-
-    <item>
-      <title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
-      <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
-      <guid>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:22:49 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>The United Kingdom has imposed economic sanctions on the cryptocurrency platform Cryptomus for facilitating illicit financial activities. Investigators identified the platform as a key conduit for money laundering associated with ransomware, cybercrime, and Russian sanctions evasion.</description>
-    </item>
-
-    <item>
-      <title>AI is mass decompiling games. That's both awesome and scary.</title>
-      <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
-      <guid>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:26:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>AI-powered decompilation is transforming game development, offering major potential for software preservation and accessibility on modern hardware. However, this capability raises significant concerns regarding intellectual property theft and the involuntary open-sourcing of commercial applications.</description>
-    </item>
-
-    <item>
-      <title>Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer</title>
-      <link>https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling reviews the $699 Formlabs Form Studio 1, an entry-level SLA resin printer designed for hobbyists. He shares his initial transition from FDM printing to the SLA workflow and highlights the accessibility of this new device.</description>
-    </item>
-
-    <item>
-      <title>Claude, don’t touch my lump</title>
-      <link>https://www.experimental-history.com/p/claude-dont-touch-my-lump</link>
-      <guid>https://www.experimental-history.com/p/claude-dont-touch-my-lump</guid>
-      <pubDate>Tue, 13 Oct 2026 21:04:46 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>This post explores the concept of the 'OR' operator as a secret key to achieving permanent happiness. It analyzes how framing choices and potential outcomes influences human satisfaction and psychological well-being.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 525: AI Data Breach Hyperbole</title>
-      <link>https://www.troyhunt.com/weekly-update-525/</link>
-      <guid>https://www.troyhunt.com/weekly-update-525/</guid>
-      <pubDate>Tue, 13 Oct 2026 10:47:27 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>Troy Hunt discusses the polarized perspectives on artificial intelligence featured in a recent documentary, 'The AI Doc'. He highlights how media discourse often relies on hyperbole when framing potential AI data breaches.</description>
-    </item>
-
-    <item>
-      <title>Subterranean Warfare – An Urgent DoW Need Without An Owner</title>
-      <link>https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</link>
-      <guid>https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:19 GMT</pubDate>
-      <source url="https://steveblank.com/">Steve Blank</source>
-      <description>The article argues that the Department of War (DoW) must consolidate its fragmented subterranean warfare assets under a single, unified authority. It proposes the appointment of a Direct Reporting Portfolio Manager (DRPM) to streamline oversight and strategic coordination.</description>
-    </item>
-
-    <item>
-      <title>The geometric model of maintenance</title>
-      <link>https://entropicthoughts.com/geometric-model-of-maintenance</link>
-      <guid>https://entropicthoughts.com/geometric-model-of-maintenance</guid>
-      <pubDate>Mon, 12 Oct 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The article evaluates James Shore's geometric model of software maintenance, which estimates maintenance effort based on development time. The author questions the model's reliance on hypothetical figures and suggests using version control data, such as git commit analysis, to empirically validate maintenance effort.</description>
-    </item>
-
-    <item>
-      <title>Harmonic triangle</title>
-      <link>https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:45:18 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post introduces the harmonic triangle, a numerical structure first explored by Leibniz in 1700. It explains the construction of the triangle using the harmonic series as its base.</description>
-    </item>
-
-    <item>
-      <title>C++ futures part 2: The mental model for std::promise, std::packaged_task</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</guid>
-      <pubDate>Tue, 13 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This article explores the mental model for C++ asynchronous programming primitives. It focuses on how std::promise and std::packaged_task manage state to facilitate communication between threads.</description>
-    </item>
-
-    <item>
-      <title>C++ futures part 1: The mental model</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</guid>
-      <pubDate>Mon, 12 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This article introduces the fundamental mental model for C++ futures, focusing on how to manage values that are produced asynchronously. It serves as the starting point for understanding the conceptual framework behind handling deferred results in C++ programming.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-10-23T00:14:14.468Z",
+  "last_updated": "2026-10-24T00:06:05.501Z",
   "articles": [
+    {
+      "id": "10e495446dc1a3ab",
+      "title": "An Ion Storm!, Part 2: The Return to Ground Level",
+      "url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-10-23T16:19:26.000Z",
+      "summary_en": "This article chronicles a pivotal moment in the history of game developer Ion Storm, focusing on John Romero's turbulent career and the rumors surrounding his departure. It contextualizes the rise and fall of the studio within the broader narrative of 1990s gaming industry culture.",
+      "summary_zh": "本文記述了遊戲開發商 Ion Storm 歷史上的關鍵時刻，重點探討了約翰·羅梅羅（John Romero）的職業生涯動盪及其離職傳聞。文章將該工作室的興衰置於 90 年代遊戲產業文化的背景下進行分析。",
+      "keywords": [
+        "John Romero",
+        "Ion Storm",
+        "Game History",
+        "Video Games",
+        "Industry Culture"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a historical narrative providing context and explanation about a specific event in game industry history.",
+      "pacer_reason_zh": "本文屬於歷史敘述，針對遊戲產業史上的特定事件提供背景與分析。"
+    },
+    {
+      "id": "b1959b1fad9a2681",
+      "title": "One Small Bug",
+      "url": "https://nesbitt.io/2026/10/23/one-small-bug.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-23T09:00:00.000Z",
+      "summary_en": "This post illustrates a conversation between a developer and an AI agent, showing how the AI fixes bugs while simultaneously discovering and remediating complex security vulnerabilities in the project's infrastructure. It highlights the hidden risks in automated toolchains, dependency management, and CI/CD configurations.",
+      "summary_zh": "這篇文章展示了開發者與 AI 代理之間的互動，顯示 AI 在修復軟體錯誤的同時，能同步發現並解決專案架構中複雜的安全漏洞。文章強調了自動化工具鏈、依賴管理與 CI/CD 設定中隱藏的資安風險。",
+      "keywords": [
+        "security",
+        "CI/CD",
+        "AI coding",
+        "vulnerability",
+        "supply chain"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study documenting the real-world discovery and mitigation of specific security vulnerabilities within a software project.",
+      "pacer_reason_zh": "本文作為一個案例研究，記錄了在軟體專案中發現並緩解特定安全漏洞的實際過程。"
+    },
+    {
+      "id": "157bf9172976a2d0",
+      "title": "Why didn’t we use the COM static store to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-23T14:00:00.000Z",
+      "summary_en": "This post explains why the COM static store was not used to manage the cleanup of unmarshalable delegates. It concludes that the mechanism failed because it performed cleanup operations at the incorrect time.",
+      "summary_zh": "本文解釋了為何不使用 COM 靜態儲存區來清理無法封送（unmarshalable）的委派。結論指出，該機制因清理時機不當而無法運作。",
+      "keywords": [
+        "COM",
+        "delegate",
+        "unmarshalable",
+        "static store",
+        "Windows programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation for why a specific technical approach was ineffective.",
+      "pacer_reason_zh": "本文針對為何某種技術手段無效提供了概念性的解釋。"
+    },
+    {
+      "id": "6fef24ac75ec13da",
+      "title": "Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-22T14:00:00.000Z",
+      "summary_en": "This post explores the technical constraints and reasoning behind why a specific COM API, CoRegisterInitializeSpy, was not suitable for cleaning up unmarshalable delegates. It highlights the complexities of system architecture and developer decision-making in legacy software.",
+      "summary_zh": "本文探討了技術層面的限制，解釋了為何在清理無法封送（unmarshalable）的委派時，不適合使用 COM API「CoRegisterInitializeSpy」。文章深入分析了系統架構的複雜性以及開發者在決策時的考量。",
+      "keywords": [
+        "COM",
+        "CoRegisterInitializeSpy",
+        "Programming",
+        "Windows API",
+        "Software Engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical and functional reasons behind a specific technical design choice.",
+      "pacer_reason_zh": "文章解釋了針對特定技術設計選擇背後的理論與功能原因。"
+    },
+    {
+      "id": "3d70bddac7bb7e87",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-23T00:00:00.000Z",
+      "summary_en": "This post discusses the inherent frustrations of language-specific design flaws that lead to recurring, avoidable errors. It highlights the irony of developers accepting broken tools as a standard part of their workflow.",
+      "summary_zh": "這篇文章探討了特定程式語言設計缺陷所導致的常見錯誤，以及開發者對於這些可避免問題的無奈與接受。內容反映了開發者對於工具缺陷習以為常的諷刺現象。",
+      "keywords": [
+        "programming",
+        "language design",
+        "software engineering",
+        "debugging",
+        "tech satire"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual critique of programming language design and the developer experience.",
+      "pacer_reason_zh": "本文重點在於對程式語言設計概念的批判與開發者體驗的探討。"
+    },
+    {
+      "id": "25b339412a9e21a1",
+      "title": "More phishing messages via Booking.com and Novotel",
+      "url": "https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-23T11:34:15.000Z",
+      "summary_en": "The author shares a personal experience of receiving targeted phishing messages shortly after booking a hotel through Booking.com. The post analyzes the indicators of these fraudulent messages, highlighting how attackers exploit stolen booking data to impersonate service providers.",
+      "summary_zh": "作者分享了在 Booking.com 訂房後隨即收到針對性釣魚訊息的個人經歷。文章分析了這些詐騙訊息的特徵，並探討了攻擊者如何利用竊取的訂房資料來冒充服務提供商。",
+      "keywords": [
+        "phishing",
+        "cybersecurity",
+        "Booking.com",
+        "data privacy",
+        "scam analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study documenting a specific security incident and analyzing the artifacts of a phishing attack.",
+      "pacer_reason_zh": "本文作為一個案例研究，記錄了一起特定的資安事件並分析了釣魚攻擊的證據。"
+    },
+    {
+      "id": "2353814513bbf46c",
+      "title": "Pluralistic: Critique and writing (23 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/23/better-to-give/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-23T20:44:02.000Z",
+      "summary_en": "Cory Doctorow discusses the transformative impact of peer-based writing workshops on a writer's development. He highlights how these groups provide essential external motivation, discipline, and validation for emerging writers.",
+      "summary_zh": "Cory Doctorow 探討了同儕寫作工作坊對作家成長的轉化影響。他強調這類小組能為初學者提供關鍵的外部動力、紀律以及創作回饋。",
+      "keywords": [
+        "writing",
+        "workshops",
+        "creativity",
+        "peer-feedback",
+        "self-discipline"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical value and psychological benefits of peer workshops in a writer's development.",
+      "pacer_reason_zh": "本文解釋了同儕工作坊在作家成長過程中的理論價值與心理層面的助益。"
+    },
+    {
+      "id": "1560ea04dee0e58a",
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-23T21:35:13.000Z",
+      "summary_en": "Quick Study is a web-based tool that uses the Sobel edge detection algorithm to transform photographs into simulated paintings using the HTML canvas element. Developed via Claude prompts, the project demonstrates how LLMs can generate functional visual art tools without external libraries.",
+      "summary_zh": "Quick Study 是一個網頁工具，利用 Sobel 邊緣偵測演算法，透過 HTML canvas 元素將照片轉換為模擬油畫。該專案由 Claude AI 輔助開發，展示了在無需外部函式庫的情況下，利用 LLM 建構實用視覺藝術工具的可能性。",
+      "keywords": [
+        "Quick Study",
+        "Sobel edge detection",
+        "Generative AI",
+        "Claude",
+        "Canvas API"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post introduces a functional tool and shares the prompt used to build it, serving as a practical demonstration of AI-assisted development.",
+      "pacer_reason_zh": "該文章介紹了一個功能性工具並分享了開發該工具所使用的提示詞，屬於 AI 輔助開發的實務範例。"
+    },
+    {
+      "id": "9e0308113d32ae3f",
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-23T19:40:54.000Z",
+      "summary_en": "Moonshot has introduced Kimi K3.1 Pro, a high-performance AI model that offers competitive performance benchmarks against industry leaders like GPT-6 and Claude Opus. The article highlights the model's pricing structure, upcoming open-weight release, and demonstrates how to interface with it using the LLM CLI tool.",
+      "summary_zh": "Moonshot 發布了高效能 AI 模型 Kimi K3.1 Pro，其效能指標可與 GPT-6 和 Claude Opus 等頂尖模型媲美。本文介紹了該模型的定價策略、預計開放權重的時間，並展示了如何透過 LLM 命令列工具與其進行互動。",
+      "keywords": [
+        "Kimi K3.1 Pro",
+        "Moonshot",
+        "LLM",
+        "AI Benchmarks",
+        "Open Weights"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on reporting performance benchmarks, pricing data, and model capabilities, which provides evidence for the model's standing in the industry.",
+      "pacer_reason_zh": "本文重點在於報告效能基準測試數據、定價資訊及模型能力，為該模型在產業中的地位提供了證據。"
+    },
+    {
+      "id": "7e27bcf2845e741d",
+      "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
+      "url": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-10-23T13:00:00.000Z",
+      "summary_en": "The author explores air quality monitoring, specifically investigating a $99 Ubiquiti vape detector as a potential tool for tracking CO2 and other pollutants. This review is part of a broader series examining various air quality sensors for home and studio use.",
+      "summary_zh": "作者深入探討了空氣品質監測，特別是將 Ubiquiti 的 99 美元電子菸檢測器視為監控二氧化碳與其他污染物潛在工具的評測。此篇文章為一系列空氣品質感測器評測的一部分，旨在為家庭及工作室提供參考。",
+      "keywords": [
+        "Ubiquiti",
+        "Air Quality",
+        "CO2 Monitoring",
+        "Vape Detector",
+        "Jeff Geerling"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an evaluation and practical test of a specific hardware device.",
+      "pacer_reason_zh": "該文章針對特定硬體設備進行評測與實測，屬於實證類型內容。"
+    },
     {
       "id": "8ca83b58224eae92",
       "title": "If people would just",
