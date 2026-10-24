@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 24 Oct 2026 00:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:50:01 GMT</lastBuildDate>
     
+    <item>
+      <title>Interesting systemd features you may not know about</title>
+      <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article highlights several lesser-known systemd features that are particularly useful for managing transient tasks. Key capabilities include memory limits, execution time constraints, and path-based triggers, which provide robust control for ephemeral workloads.</description>
+    </item>
+
+    <item>
+      <title>Elon Musk Just Gave Europe a Reason to Replace American Technology</title>
+      <link>https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</link>
+      <guid>https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</guid>
+      <pubDate>Sat, 24 Oct 2026 13:00:33 GMT</pubDate>
+      <source url="https://steveblank.com/">Steve Blank</source>
+      <description>Steve Blank analyzes the geopolitical fallout following the U.S. decision to restrict Starlink access in Ukraine. He argues this event serves as a wake-up call for European policymakers, prompting a push for technological sovereignty and alternatives to American-controlled infrastructure.</description>
+    </item>
+
+    <item>
+      <title>Reading List 10/24/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-102426</link>
+      <guid>https://www.construction-physics.com/p/reading-list-102426</guid>
+      <pubDate>Sat, 24 Oct 2026 12:01:24 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post provides a curated list of interesting readings covering a diverse range of topics, including urban planning policy, aerospace industry developments, financial market short-selling, and artificial intelligence advancements. It serves as a digest for readers interested in construction, technology, and economic trends.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 24 October 2026</title>
+      <link>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 24 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This week's digest covers the widespread security implications of compromised eMudhra intermediate CAs, which necessitated emergency updates across numerous package managers and language runtimes. The post provides a comprehensive list of patched versions for tools including uv, pip, conda, and various language environments like Python, Java, and Node.js.</description>
+    </item>
+
+    <item>
+      <title>List of Vim forks</title>
+      <link>https://evanhahn.com/list-of-vim-forks/</link>
+      <guid>https://evanhahn.com/list-of-vim-forks/</guid>
+      <pubDate>Sat, 24 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/">Evan Hahn (dot com)</source>
+      <description>This post provides a curated list of notable Vim forks, including Neovim, Vim Classic, EVi, and MacVim. It clarifies the scope by excluding Vim-inspired editors, plugins, and distributions.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Get Ahead of Being Dead by Evie King ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</guid>
+      <pubDate>Sat, 24 Oct 2026 11:34:25 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post reviews Evie King's book 'Get Ahead of Being Dead', which explores the bureaucratic and administrative complexities of death. The author highlights how the book provides insight into the overwhelming post-mortem logistics, such as settling bills and managing family disputes.</description>
+    </item>
+
+    <item>
+      <title>battledrones v14: Compass Rose, a four player map</title>
+      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
+      <guid>https://simonwillison.net/2026/Oct/24/battledrones/</guid>
+      <pubDate>Sat, 24 Oct 2026 03:59:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has updated his 'Battledrones' game to version 14, introducing a new four-player map called 'Compass Rose.' The update leverages AI-generated code from Claude Opus 5.5 to implement multi-player support via WebSockets and adds new robot color designs.</description>
+    </item>
+
     <item>
       <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
       <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
@@ -841,69 +904,6 @@
       <pubDate>Thu, 15 Oct 2026 13:04:03 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Anthropic reported significant revenue growth to $16.8 billion in Q3, signaling strong financial performance ahead of a potential IPO. The report highlights efficiency gains in computing power and reveals a strategic reduction in model 'distillation' by rival AI labs.</description>
-    </item>
-
-    <item>
-      <title>Tree Appreciator</title>
-      <link>https://simonwillison.net/2026/Oct/14/tree-appreciator/</link>
-      <guid>https://simonwillison.net/2026/Oct/14/tree-appreciator/</guid>
-      <pubDate>Wed, 14 Oct 2026 21:23:01 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a browser-based game called 'Tree Appreciator,' developed entirely by Claude Opus 5.5 Max through a simple prompt. The project highlights the increasing effectiveness of LLMs in autonomously creating compelling, interactive media experiences.</description>
-    </item>
-
-    <item>
-      <title>The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum</title>
-      <link>https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</link>
-      <guid>https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:30:00 GMT</pubDate>
-      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
-      <description>The author reflects on insights gathered from the 9th Cybersecurity Forum in Brussels, which brought together key stakeholders from the European energy and regulatory sectors. The post highlights the critical yet still unregulated nature of solar power grids and their associated cybersecurity vulnerabilities.</description>
-    </item>
-
-    <item>
-      <title>LaTeX package for Pascal-like triangles</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</guid>
-      <pubDate>Wed, 14 Oct 2026 17:58:07 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author shares a LaTeX solution for formatting Pascal-like triangles, such as the harmonic triangle, in a traditional centered layout. This post highlights the use of specialized tools to overcome the visual limitations of standard fixed-width text formatting.</description>
-    </item>
-
-    <item>
-      <title>A generalization of the Pythagorean theorem</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:11:11 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores a geometric generalization of the Pythagorean theorem discovered by G. D. Chakerian. It explains how constructing specific rectangles on the sides of any triangle creates area relationships that extend the principles of the original theorem.</description>
-    </item>
-
-    <item>
-      <title>Poe, Bessel, and Drones</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:22 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the mathematical connection between Edgar Allan Poe's 'The Pit and the Pendulum' and the Bessel function. It explains how the shortening pendulum in the story creates a dynamic system that differs from standard harmonic oscillators.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This article serves as a satirical commentary on software engineering pain points, specifically focusing on the absurdity of common programming language pitfalls. It highlights the frustration developers face when encountering recurring issues that feel preventable yet remain systemic in certain environments.</description>
-    </item>
-
-    <item>
-      <title>The Internet of Very Cheap Things</title>
-      <link>https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:34:08 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on the drastic decrease in the cost of IoT devices over the past twelve years, highlighting how Moore's Law continues to drive affordability in domestic hardware. By comparing current prices of devices like Zigbee bulbs to historical data, the post illustrates the rapid evolution of consumer technology accessibility.</description>
     </item>
   </channel>
 </rss>

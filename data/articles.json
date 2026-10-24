@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-10-24T00:06:05.501Z",
+  "last_updated": "2026-10-24T23:50:01.328Z",
   "articles": [
+    {
+      "id": "01e7751ce1a6241d",
+      "title": "Interesting systemd features you may not know about",
+      "url": "https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-10-24T00:00:00.000Z",
+      "summary_en": "This article highlights several lesser-known systemd features that are particularly useful for managing transient tasks. Key capabilities include memory limits, execution time constraints, and path-based triggers, which provide robust control for ephemeral workloads.",
+      "summary_zh": "本文介紹了幾個鮮為人知的 systemd 功能，特別適用於管理臨時性任務。這些功能包括記憶體限制、執行時間控制及路徑觸發機制，為處理瞬時工作負載提供了強大的控制手段。",
+      "keywords": [
+        "systemd",
+        "linux",
+        "sysadmin",
+        "automation",
+        "devops"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide to practical systemd features, helping users implement specific administrative configurations.",
+      "pacer_reason_zh": "本文旨在引導使用者運用實用的 systemd 功能，協助其實現特定的系統管理配置。"
+    },
+    {
+      "id": "9fdda66c7434f3f8",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "source": "Steve Blank",
+      "source_url": "https://steveblank.com/",
+      "published": "2026-10-24T13:00:33.000Z",
+      "summary_en": "Steve Blank analyzes the geopolitical fallout following the U.S. decision to restrict Starlink access in Ukraine. He argues this event serves as a wake-up call for European policymakers, prompting a push for technological sovereignty and alternatives to American-controlled infrastructure.",
+      "summary_zh": "Steve Blank 分析了美國限制烏克蘭使用 Starlink 後引發的地緣政治後果。他認為此事件為歐洲決策者敲響了警鐘，促使他們加速推動技術主權，並尋求替代美國科技基礎設施的方案。",
+      "keywords": [
+        "Starlink",
+        "Geopolitics",
+        "Technological Sovereignty",
+        "Elon Musk",
+        "European Policy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual shift in European policy regarding national security and technological dependency.",
+      "pacer_reason_zh": "本文探討了歐洲在國家安全與技術依賴方面政策觀念的轉變。"
+    },
+    {
+      "id": "3d1ee2b88a20edb4",
+      "title": "Reading List 10/24/26",
+      "url": "https://www.construction-physics.com/p/reading-list-102426",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-24T12:01:24.000Z",
+      "summary_en": "This post provides a curated list of interesting readings covering a diverse range of topics, including urban planning policy, aerospace industry developments, financial market short-selling, and artificial intelligence advancements. It serves as a digest for readers interested in construction, technology, and economic trends.",
+      "summary_zh": "本篇文章整理了涵蓋城市規劃政策、航太產業發展、金融市場做空機制以及人工智慧技術等多領域的精選閱讀清單。這是一份為關注建築、科技與經濟趨勢的讀者所準備的文摘。",
+      "keywords": [
+        "construction",
+        "aerospace",
+        "finance",
+        "AI",
+        "reading list"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content is a curated list of links and references rather than a single topical deep dive or tutorial.",
+      "pacer_reason_zh": "本文內容為連結與資源的彙編清單，而非單一主題的深入探討或教學指南。"
+    },
+    {
+      "id": "c1706aff9438bf99",
+      "title": "This Week in Package Management: 24 October 2026",
+      "url": "https://nesbitt.io/2026/10/24/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-24T10:00:00.000Z",
+      "summary_en": "This week's digest covers the widespread security implications of compromised eMudhra intermediate CAs, which necessitated emergency updates across numerous package managers and language runtimes. The post provides a comprehensive list of patched versions for tools including uv, pip, conda, and various language environments like Python, Java, and Node.js.",
+      "summary_zh": "本週摘要報導了 eMudhra 中間憑證授權單位（CA）遭破解的安全事件，該事件迫使多種套件管理器與程式語言執行環境發布緊急更新。文中詳細列出了包含 uv、pip、conda 以及 Python、Java 與 Node.js 等多種工具的修補版本資訊。",
+      "keywords": [
+        "package management",
+        "eMudhra",
+        "security",
+        "certificates",
+        "software update"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article primarily serves as a status report and reference list of software versions and security patches released in response to a specific vulnerability.",
+      "pacer_reason_zh": "本文主要作為狀態報告與參考清單，整理了針對特定漏洞所發布的軟體版本與安全性修補資訊。"
+    },
+    {
+      "id": "617f5443b2b8ceb6",
+      "title": "List of Vim forks",
+      "url": "https://evanhahn.com/list-of-vim-forks/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/",
+      "published": "2026-10-24T17:00:00.000Z",
+      "summary_en": "This post provides a curated list of notable Vim forks, including Neovim, Vim Classic, EVi, and MacVim. It clarifies the scope by excluding Vim-inspired editors, plugins, and distributions.",
+      "summary_zh": "這篇文章整理了幾個知名的 Vim 分支（fork），包括 Neovim、Vim Classic、EVi 與 MacVim。作者同時說明了該清單不包含受 Vim 啟發的編輯器、外掛或發行版。",
+      "keywords": [
+        "Vim",
+        "Neovim",
+        "text editor",
+        "software forks",
+        "development"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a reference list of specific software variants.",
+      "pacer_reason_zh": "內容為特定軟體版本的參考清單。"
+    },
+    {
+      "id": "09a307be72348653",
+      "title": "Book Review: Get Ahead of Being Dead by Evie King ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-24T11:34:25.000Z",
+      "summary_en": "This blog post reviews Evie King's book 'Get Ahead of Being Dead', which explores the bureaucratic and administrative complexities of death. The author highlights how the book provides insight into the overwhelming post-mortem logistics, such as settling bills and managing family disputes.",
+      "summary_zh": "這篇部落格文章評論了 Evie King 的著作《Get Ahead of Being Dead》，書中探討了死亡後繁瑣的行政程序。作者指出該書深入剖析了處理遺產、帳單以及家庭糾紛等死亡後的現實問題。",
+      "keywords": [
+        "book review",
+        "death",
+        "bureaucracy",
+        "Evie King",
+        "administration"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a review providing an overview and thematic explanation of the book's content regarding death administration.",
+      "pacer_reason_zh": "本文是一篇書評，針對書中關於死亡行政處理的主題提供了概述與解釋。"
+    },
+    {
+      "id": "d1879513a33727bd",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-24T03:59:57.000Z",
+      "summary_en": "Simon Willison has updated his 'Battledrones' game to version 14, introducing a new four-player map called 'Compass Rose.' The update leverages AI-generated code from Claude Opus 5.5 to implement multi-player support via WebSockets and adds new robot color designs.",
+      "summary_zh": "Simon Willison 更新了其遊戲 Battledrones 至 v14 版本，推出了名為「Compass Rose」的四人對戰地圖。該更新利用 Claude Opus 5.5 生成代碼，實現了基於 WebSocket 的四人連線模式，並新增了紫綠兩色的機器人設計。",
+      "keywords": [
+        "battledrones",
+        "gamedev",
+        "AI",
+        "web-gaming",
+        "web-sockets"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a project update and release note, providing a practical case study on using AI to develop game features.",
+      "pacer_reason_zh": "該文章作為專案更新與發佈說明，提供了使用人工智慧開發遊戲功能的實例研究。"
+    },
     {
       "id": "10e495446dc1a3ab",
       "title": "An Ion Storm!, Part 2: The Return to Ground Level",
