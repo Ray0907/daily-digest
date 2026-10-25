@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:50:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:39:18 GMT</lastBuildDate>
     
+    <item>
+      <title>MacOS Extensions pack for the Apple Network Server v1.0</title>
+      <link>https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</link>
+      <guid>https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</guid>
+      <pubDate>Sun, 25 Oct 2026 01:21:15 GMT</pubDate>
+      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
+      <description>This article explores the history and technical recovery of the Apple Network Server (ANS), a rare Unix-based server from the late 90s. The author details the discovery of prototype ROMs that allow the machine to boot Mac OS, highlighting the hardware challenges and limitations of these early experimental versions.</description>
+    </item>
+
+    <item>
+      <title>A rising tide raises all rents</title>
+      <link>https://jyn.dev/rising-tide-raises-rents/</link>
+      <guid>https://jyn.dev/rising-tide-raises-rents/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://jyn.dev/">the website of jyn</source>
+      <description>This article explores the economic implications of the AI productivity boom, arguing that gains will largely be captured by rent-seekers and incumbents rather than the general public. The author proposes implementing mechanisms similar to a Land-Value Tax to manage scarce resources and prevent extreme wealth concentration.</description>
+    </item>
+
+    <item>
+      <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+      <link>https://minimaxir.com/2026/10/cheap-llms/</link>
+      <guid>https://minimaxir.com/2026/10/cheap-llms/</guid>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 GMT</pubDate>
+      <source url="https://minimaxir.com/">Max Woolf's Blog</source>
+      <description>This article examines the economic factors driving drastic price reductions in Large Language Model (LLM) APIs by leaders like OpenAI and Anthropic. It explores the industry shift from profit-maximizing pricing to aggressive market capture and efficiency-based cost structures.</description>
+    </item>
+
+    <item>
+      <title>Poles and polars</title>
+      <link>https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:45:05 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the geometric concepts of poles and polars on a sphere, explaining their definitions and theoretical origins. It builds on previous discussions regarding polar triangles and their application in geometry.</description>
+    </item>
+
+    <item>
+      <title>Computing polar triangles with linear algebra</title>
+      <link>https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/</guid>
+      <pubDate>Sun, 25 Oct 2026 01:01:55 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explains how to use linear algebra to construct polar triangles on a sphere. It builds upon previous concepts to provide a rigorous mathematical framework for the existence and construction of these triangles.</description>
+    </item>
+
+    <item>
+      <title>Duality in spherical trigonometry</title>
+      <link>https://www.johndcook.com/blog/2026/10/24/polar-triangle/</link>
+      <guid>https://www.johndcook.com/blog/2026/10/24/polar-triangle/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:28:20 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the concept of duality in spherical trigonometry, specifically focusing on the relationship between the law of cosines for sides and the law of cosines for angles. It explains how these two formulas are mathematically symmetric and can be interchanged to solve spherical geometry problems.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/</link>
+      <guid>https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/</guid>
+      <pubDate>Sun, 25 Oct 2026 12:34:01 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The LiberNovo Omni is an office chair that features USB-C recharging capabilities, marking a unique trend in office furniture. The review highlights its exceptional comfort, including full foam cushions and an ergonomic recline, alongside its innovative power integration.</description>
+    </item>
+
+    <item>
+      <title>Don't anthropomorphize big tech companies</title>
+      <link>https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/</link>
+      <guid>https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article argues against the tendency to attribute human personality traits or intentions to large technology corporations. It suggests that viewing these companies as profit-driven entities rather than conscious actors provides a more accurate understanding of their behavior.</description>
+    </item>
+
     <item>
       <title>Interesting systemd features you may not know about</title>
       <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -832,78 +904,6 @@
       <pubDate>Thu, 15 Oct 2026 02:07:28 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison introduces a new LaTeX rendering tool inspired by the 'Tiny Little Office' web app suite. The article highlights how these tools use URL fragments for state management, allowing documents to be easily shared and bookmarked via unique links.</description>
-    </item>
-
-    <item>
-      <title>AI is driving a boom in modestly successful software projects</title>
-      <link>https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</link>
-      <guid>https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article explores how AI tools are increasing the feasibility of small-scale software projects. It suggests that while massive hits remain rare, AI lowers the barrier for niche applications to achieve modest success.</description>
-    </item>
-
-    <item>
-      <title>We Need All the Disciplines</title>
-      <link>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</link>
-      <guid>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author argues that building great software requires a collaborative blend of various disciplines like design, product, and engineering. While incorporating human perspectives may reduce immediate efficiency compared to machine-driven workflows, it fosters the essential trust and shared judgment needed for long-term success.</description>
-    </item>
-
-    <item>
-      <title>How to Train Your Robot</title>
-      <link>https://www.construction-physics.com/p/how-to-train-your-robot</link>
-      <guid>https://www.construction-physics.com/p/how-to-train-your-robot</guid>
-      <pubDate>Thu, 15 Oct 2026 14:23:58 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explores the relationship between the rapid advancement of artificial intelligence and the availability of large-scale datasets. It highlights how data serves as the foundational fuel for modern machine learning progress.</description>
-    </item>
-
-    <item>
-      <title>C++ futures part 4: What if I want an immediate on-thread std::async?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</guid>
-      <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This article discusses the limitations of C++'s std::async and explores why it does not support immediate execution on the current thread. It highlights that the language design intentionally avoids this behavior to maintain specific execution guarantees.</description>
-    </item>
-
-    <item>
-      <title>C++ futures part 3: The mental model for std::async</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This article explores the mental model for using std::async in C++. It provides insights into how the function manages asynchronous tasks and execution strategies.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/15/enshittipedia/</link>
-      <guid>https://pluralistic.net/2026/10/15/enshittipedia/</guid>
-      <pubDate>Thu, 15 Oct 2026 11:03:29 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that platform monopolies like Amazon and Expedia have successfully locked in affluent consumer bases, forcing merchants to participate in their ecosystems. This consolidation of market power increases costs for consumers and suppresses competition across multiple industries.</description>
-    </item>
-
-    <item>
-      <title>Chirp Pong</title>
-      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
-      <guid>https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:47:52 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison shares a game experiment called Chirp Pong, which allows two phones to play a local multiplayer game using audio chirps for networking. The project was built using Claude Code to demonstrate the feasibility of browser-based games communicating via the microphone.</description>
-    </item>
-
-    <item>
-      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
-      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
-      <guid>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:04:03 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Anthropic reported significant revenue growth to $16.8 billion in Q3, signaling strong financial performance ahead of a potential IPO. The report highlights efficiency gains in computing power and reveals a strategic reduction in model 'distillation' by rival AI labs.</description>
     </item>
   </channel>
 </rss>

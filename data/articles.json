@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-10-24T23:50:01.328Z",
+  "last_updated": "2026-10-25T23:39:17.850Z",
   "articles": [
+    {
+      "id": "87bb67770936ade6",
+      "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+      "url": "https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-10-25T01:21:15.939Z",
+      "summary_en": "This article explores the history and technical recovery of the Apple Network Server (ANS), a rare Unix-based server from the late 90s. The author details the discovery of prototype ROMs that allow the machine to boot Mac OS, highlighting the hardware challenges and limitations of these early experimental versions.",
+      "summary_zh": "本文探討了 90 年代末期罕見的 Unix 伺服器 Apple Network Server (ANS) 的歷史與技術復原過程。作者詳細說明了如何透過原型 ROM 讓該設備運行 Mac OS，並點出了這些早期實驗性版本在硬體支援上的挑戰與限制。",
+      "keywords": [
+        "Apple Network Server",
+        "Harpoon",
+        "AIX",
+        "Mac OS",
+        "Vintage Computing"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an experimental case study documenting the findings and testing of rare legacy hardware and firmware.",
+      "pacer_reason_zh": "本文屬於針對罕見舊式硬體與韌體進行研究與實測的案例分析。"
+    },
+    {
+      "id": "6f5fa08df216e09d",
+      "title": "A rising tide raises all rents",
+      "url": "https://jyn.dev/rising-tide-raises-rents/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-10-25T00:00:00.000Z",
+      "summary_en": "This article explores the economic implications of the AI productivity boom, arguing that gains will largely be captured by rent-seekers and incumbents rather than the general public. The author proposes implementing mechanisms similar to a Land-Value Tax to manage scarce resources and prevent extreme wealth concentration.",
+      "summary_zh": "本文探討了人工智慧生產力提升帶來的經濟影響，認為這些收益大多將被尋租者和既得利益者獲取，而非大眾。作者建議實施類似「土地價值稅」的機制，以管理稀缺資源並防止財富過度集中。",
+      "keywords": [
+        "AI",
+        "economics",
+        "rent-seeking",
+        "productivity",
+        "taxation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on theoretical economic arguments and conceptualizing the future impact of AI on market structures.",
+      "pacer_reason_zh": "本文側重於理論經濟論點，並對人工智慧未來對市場結構的影響進行概念化探討。"
+    },
+    {
+      "id": "1a7e953f36796cb0",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Max Woolf's Blog",
+      "source_url": "https://minimaxir.com/",
+      "published": "2026-10-25T21:00:00.000Z",
+      "summary_en": "This article examines the economic factors driving drastic price reductions in Large Language Model (LLM) APIs by leaders like OpenAI and Anthropic. It explores the industry shift from profit-maximizing pricing to aggressive market capture and efficiency-based cost structures.",
+      "summary_zh": "本文探討了 OpenAI 和 Anthropic 等公司將大型語言模型 (LLM) API 價格大幅下調背後的經濟驅動因素。文中分析了產業策略如何從追求利潤最大化轉向激進的市場佔有率競爭與成本效率優化。",
+      "keywords": [
+        "LLM",
+        "OpenAI",
+        "Anthropic",
+        "Pricing",
+        "AI Economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the underlying economic theories and business logic behind LLM pricing trends.",
+      "pacer_reason_zh": "本文主要探討並解釋 LLM 定價趨勢背後的潛在經濟理論與商業邏輯。"
+    },
+    {
+      "id": "c436e7b297dda9bf",
+      "title": "Poles and polars",
+      "url": "https://www.johndcook.com/blog/2026/10/25/poles-and-polars/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-25T19:45:05.000Z",
+      "summary_en": "This article explores the geometric concepts of poles and polars on a sphere, explaining their definitions and theoretical origins. It builds on previous discussions regarding polar triangles and their application in geometry.",
+      "summary_zh": "本文探討了球面幾何中極點與極線的概念，解釋了它們的定義與理論起源。文章延續了先前關於極三角形的討論，並進一步闡述其在幾何學中的應用。",
+      "keywords": [
+        "geometry",
+        "spherical geometry",
+        "poles",
+        "polars",
+        "polar triangles"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the theoretical definitions and conceptual background of poles and polars.",
+      "pacer_reason_zh": "本文旨在解釋極點與極線的理論定義及概念背景。"
+    },
+    {
+      "id": "100293722b6ada22",
+      "title": "Computing polar triangles with linear algebra",
+      "url": "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-25T01:01:55.000Z",
+      "summary_en": "This article explains how to use linear algebra to construct polar triangles on a sphere. It builds upon previous concepts to provide a rigorous mathematical framework for the existence and construction of these triangles.",
+      "summary_zh": "本文介紹如何利用線性代數來建構球體上的極三角形。文章基於先前的概念，為這些三角形的存在性與建構方法提供了嚴謹的數學框架。",
+      "keywords": [
+        "linear algebra",
+        "spherical geometry",
+        "polar triangles",
+        "mathematics",
+        "geometry"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on the mathematical procedure and construction method for defining polar triangles.",
+      "pacer_reason_zh": "本文重點在於定義極三角形的數學程序與建構方法。"
+    },
+    {
+      "id": "298ae0a162e65964",
+      "title": "Duality in spherical trigonometry",
+      "url": "https://www.johndcook.com/blog/2026/10/24/polar-triangle/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-25T00:28:20.000Z",
+      "summary_en": "This article explores the concept of duality in spherical trigonometry, specifically focusing on the relationship between the law of cosines for sides and the law of cosines for angles. It explains how these two formulas are mathematically symmetric and can be interchanged to solve spherical geometry problems.",
+      "summary_zh": "本文探討了球面三角學中的對偶性，特別聚焦於邊的餘弦定理與角的餘弦定理之間的關係。文章說明了這兩個公式如何在數學上具備對稱性，並能透過互換來解決球面幾何問題。",
+      "keywords": [
+        "spherical trigonometry",
+        "duality",
+        "law of cosines",
+        "mathematics",
+        "geometry"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical mathematical concept and the relationship between geometric formulas.",
+      "pacer_reason_zh": "本文旨在解釋球面三角學中的理論概念以及幾何公式之間的關係。"
+    },
+    {
+      "id": "25a7c8e8133a3d2d",
+      "title": "Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-25T12:34:01.000Z",
+      "summary_en": "The LiberNovo Omni is an office chair that features USB-C recharging capabilities, marking a unique trend in office furniture. The review highlights its exceptional comfort, including full foam cushions and an ergonomic recline, alongside its innovative power integration.",
+      "summary_zh": "LiberNovo Omni 是一款具備 USB-C 充電功能的辦公椅，展現了辦公家具創新的新趨勢。評測重點在於其極佳的舒適度，包含全泡棉坐墊、舒適的頭枕以及人體工學傾斜設計。",
+      "keywords": [
+        "LiberNovo Omni",
+        "USB-C",
+        "辦公椅",
+        "gadget review",
+        "ergonomics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content is a hands-on review of a specific product, evaluating its features and user experience.",
+      "pacer_reason_zh": "本文是對特定產品的實際評測，旨在評估其功能特性與使用體驗。"
+    },
+    {
+      "id": "98f415d2c87bbda8",
+      "title": "Don't anthropomorphize big tech companies",
+      "url": "https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-25T00:00:00.000Z",
+      "summary_en": "This article argues against the tendency to attribute human personality traits or intentions to large technology corporations. It suggests that viewing these companies as profit-driven entities rather than conscious actors provides a more accurate understanding of their behavior.",
+      "summary_zh": "本文主張不應將大型科技公司擬人化，即不應將人類的性格特徵或意圖歸因於這些企業。文章建議將這些公司視為純粹以獲利為導向的實體，而非具備意識的個體，這樣能更準確地理解其行為邏輯。",
+      "keywords": [
+        "tech giants",
+        "anthropomorphism",
+        "corporate behavior",
+        "business philosophy",
+        "critical thinking"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual framework for interpreting corporate behavior by critiquing a common cognitive bias.",
+      "pacer_reason_zh": "本文透過批判常見的認知偏誤，提供了一套詮釋企業行為的概念性框架。"
+    },
     {
       "id": "01e7751ce1a6241d",
       "title": "Interesting systemd features you may not know about",
