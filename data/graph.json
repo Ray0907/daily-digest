@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "8333c89d9d7c203a",
+      "title": "Game Boy Color on My Conference Badge",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "pacer": "E",
+      "keywords": [
+        "Game Boy Color",
+        "GitHub Universe",
+        "Hardware Hacking",
+        "Emulator",
+        "Retro Gaming"
+      ],
+      "published": "2026-10-27T19:34:18.000Z"
+    },
+    {
+      "id": "7de0718c4444f02e",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "pacer": "P",
+      "keywords": [
+        "Noctua",
+        "Hardware",
+        "Repair",
+        "GPS",
+        "Calibration"
+      ],
+      "published": "2026-10-27T16:37:00.000Z"
+    },
+    {
+      "id": "0cd172b3bf82d1ce",
+      "title": "I'm Full-Time Open Source Developer Now",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "url": "https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "developer",
+        "career",
+        "sponsorship",
+        "maintenance"
+      ],
+      "published": "2026-10-27T16:00:42.000Z"
+    },
+    {
+      "id": "361ded6eda310e84",
+      "title": "Inches & Miles",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "url": "https://feed.tedium.co/link/15204/17507724/ai-startups-sketchy-behavior",
+      "pacer": "A",
+      "keywords": [
+        "AI",
+        "data privacy",
+        "Facebook",
+        "startups",
+        "internet history"
+      ],
+      "published": "2026-10-27T14:16:43.000Z"
+    },
+    {
+      "id": "05d87f32ec002c22",
+      "title": "The upvote dilemma",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "url": "https://herman.bearblog.dev/the-upvote-dilemma/",
+      "pacer": "C",
+      "keywords": [
+        "social media",
+        "metrics",
+        "user experience",
+        "content discovery",
+        "design philosophy"
+      ],
+      "published": "2026-10-27T13:05:30.399Z"
+    },
+    {
+      "id": "a30f0e258af20fe7",
+      "title": "Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Andrew Hankinson",
+        "Raoul Moat",
+        "Literary Analysis",
+        "Non-fiction"
+      ],
+      "published": "2026-10-27T12:34:53.000Z"
+    },
+    {
+      "id": "dbdb9ac8378c1852",
+      "title": "The Exponential Time Hypothesis is False",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/10/27/eth-false/",
+      "pacer": "C",
+      "keywords": [
+        "ETH",
+        "SAT",
+        "Complexity",
+        "Algorithms",
+        "Boolean logic"
+      ],
+      "published": "2026-10-27T12:13:21.000Z"
+    },
+    {
+      "id": "eaa3d870d6c8651d",
+      "title": "Pluralistic: History is something you do (27 Oct 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/10/27/tied-to-the-tracks/",
+      "pacer": "C",
+      "keywords": [
+        "science fiction",
+        "inevitabilism",
+        "human agency",
+        "Cory Doctorow",
+        "future studies"
+      ],
+      "published": "2026-10-27T09:08:25.000Z"
+    },
+    {
+      "id": "a40817bf92b87ff6",
+      "title": "Weekly Update 527: Cybergeddon News v. Reality",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-527/",
+      "pacer": "E",
+      "keywords": [
+        "Cybersecurity",
+        "PHP2Shell",
+        "Media Bias",
+        "Threat Intelligence",
+        "Fact-checking"
+      ],
+      "published": "2026-10-27T07:59:09.000Z"
+    },
+    {
       "id": "c15b1e3c66d84564",
       "title": "GPT-6.1 Terra",
       "source": "Simon Willison's Weblog",
@@ -15,6 +159,22 @@
         "visual reasoning"
       ],
       "published": "2026-10-26T23:53:07.000Z"
+    },
+    {
+      "id": "ba79f08d2086b1a7",
+      "title": "MTL-style circuit simulator",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/mtl-style-circuit-simulator",
+      "pacer": "P",
+      "keywords": [
+        "Haskell",
+        "MTL",
+        "Circuit Simulator",
+        "Final Tagless",
+        "Type Classes"
+      ],
+      "published": "2026-10-26T23:00:00.000Z"
     },
     {
       "id": "de56fb996b09bd29",
@@ -289,22 +449,6 @@
       "published": "2026-10-25T01:01:55.000Z"
     },
     {
-      "id": "298ae0a162e65964",
-      "title": "Duality in spherical trigonometry",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/10/24/polar-triangle/",
-      "pacer": "C",
-      "keywords": [
-        "spherical trigonometry",
-        "duality",
-        "law of cosines",
-        "mathematics",
-        "geometry"
-      ],
-      "published": "2026-10-25T00:28:20.000Z"
-    },
-    {
       "id": "6f5fa08df216e09d",
       "title": "A rising tide raises all rents",
       "source": "the website of jyn",
@@ -415,22 +559,6 @@
         "software update"
       ],
       "published": "2026-10-24T10:00:00.000Z"
-    },
-    {
-      "id": "d1879513a33727bd",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "pacer": "E",
-      "keywords": [
-        "battledrones",
-        "gamedev",
-        "AI",
-        "web-gaming",
-        "web-sockets"
-      ],
-      "published": "2026-10-24T03:59:57.000Z"
     },
     {
       "id": "01e7751ce1a6241d",
@@ -655,22 +783,6 @@
         "infrastructure"
       ],
       "published": "2026-10-22T12:19:00.000Z"
-    },
-    {
-      "id": "ccd221a5f3553ab4",
-      "title": "Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/",
-      "pacer": "E",
-      "keywords": [
-        "USB-C hub",
-        "docking station",
-        "hardware review",
-        "Mokin",
-        "tech gadgets"
-      ],
-      "published": "2026-10-22T11:34:36.000Z"
     },
     {
       "id": "9f3c74759ee33f7c",
@@ -1055,22 +1167,6 @@
         "Lean Launchpad"
       ],
       "published": "2026-10-19T13:00:20.000Z"
-    },
-    {
-      "id": "44e8b23d2be08131",
-      "title": "Pluralistic: The technopolitics of ad-tech (19 Oct 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/10/19/spying-v-context/",
-      "pacer": "C",
-      "keywords": [
-        "technopolitics",
-        "Langdon Winner",
-        "technology",
-        "political economy",
-        "artifacts"
-      ],
-      "published": "2026-10-19T07:08:31.000Z"
     },
     {
       "id": "8967e4bbf4b8f019",
@@ -1761,22 +1857,6 @@
       "published": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "80de4c858e449ac5",
-      "title": "Missing Link",
-      "source": "Tedium: The Dull Side of the Internet.",
-      "source_url": "https://tedium.co/",
-      "url": "https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance",
-      "pacer": "C",
-      "keywords": [
-        "journalism",
-        "newspaper",
-        "Link",
-        "storytelling",
-        "editorial design"
-      ],
-      "published": "2026-10-06T02:59:08.000Z"
-    },
-    {
       "id": "7d6539f3c7dc7e52",
       "title": "We are going to kill “unalive”",
       "source": "Anil Dash",
@@ -1823,22 +1903,6 @@
         "Mitchell Hashimoto"
       ],
       "published": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "9046740a060b5dad",
-      "title": "Predicting Peace",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/forecasting-peace",
-      "pacer": "C",
-      "keywords": [
-        "geopolitics",
-        "prediction",
-        "ACX",
-        "Ukraine",
-        "Sudan"
-      ],
-      "published": "2026-10-05T22:00:00.000Z"
     },
     {
       "id": "afdecd136fba8911",
@@ -2305,22 +2369,6 @@
       "published": "2026-09-26T15:25:00.000Z"
     },
     {
-      "id": "18fc3bc3cfaabf93",
-      "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/",
-      "pacer": "C",
-      "keywords": [
-        "HomelabFest",
-        "Jeff Geerling",
-        "homelab",
-        "self-hosting",
-        "St. Louis"
-      ],
-      "published": "2026-09-25T15:16:00.000Z"
-    },
-    {
       "id": "a80cc87b07991dc8",
       "title": "Why is the human body so crap except for the liver?",
       "source": "DYNOMIGHT",
@@ -2335,22 +2383,6 @@
         "liver"
       ],
       "published": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "3e1cca604ca0c31d",
-      "title": "Weekly Update 522: Live From Oslo with Scott Helme",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-522/",
-      "pacer": "E",
-      "keywords": [
-        "CSP",
-        "Report URI",
-        "Malware",
-        "Cybersecurity",
-        "Troy Hunt"
-      ],
-      "published": "2026-09-23T05:18:34.000Z"
     },
     {
       "id": "0acb1218cac1f137",
@@ -4045,22 +4077,6 @@
       "published": "2026-06-14T23:00:00.000Z"
     },
     {
-      "id": "15dcc655b1cc00fc",
-      "title": "I Am Not a Reverse Centaur",
-      "source": "Miguel Grinberg's Blog",
-      "source_url": "https://blog.miguelgrinberg.com/feed",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "Open Source",
-        "Software Engineering",
-        "AI",
-        "Reverse Centaur"
-      ],
-      "published": "2026-06-12T09:20:39.000Z"
-    },
-    {
       "id": "f250207268e52efb",
       "title": "Hacking Google with A.I. for $500,000",
       "source": "Brutecat · Research",
@@ -4075,22 +4091,6 @@
         "Vulnerability"
       ],
       "published": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "id": "93e1c42a22ba775b",
-      "title": "Active recall",
-      "source": "Herman's blog",
-      "source_url": "https://herman.bearblog.dev/",
-      "url": "https://herman.bearblog.dev/active-recall/",
-      "pacer": "C",
-      "keywords": [
-        "active recall",
-        "memory",
-        "writing",
-        "learning",
-        "journaling"
-      ],
-      "published": "2026-06-09T14:50:00.000Z"
     },
     {
       "id": "8c57b8a3f8723eca",

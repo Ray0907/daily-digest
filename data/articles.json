@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-10-27T00:58:08.847Z",
+  "last_updated": "2026-10-28T00:47:44.558Z",
   "articles": [
+    {
+      "id": "0cd172b3bf82d1ce",
+      "title": "I'm Full-Time Open Source Developer Now",
+      "url": "https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-10-27T16:00:42.000Z",
+      "summary_en": "Developer Miguel Grinberg shares his transition to working full-time on his 18 open-source projects. He explains the shift from balancing development with a day job and invites the community to support his ongoing efforts.",
+      "summary_zh": "開發者 Miguel Grinberg 分享了他轉為全職維護 18 個開源專案的經歷。他說明了從兼職開發轉向全職維護的轉變，並邀請社群支持他的開發工作。",
+      "keywords": [
+        "open source",
+        "developer",
+        "career",
+        "sponsorship",
+        "maintenance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual overview of the author's professional transition and his current role in open-source development.",
+      "pacer_reason_zh": "這篇文章提供了作者職涯轉變及其在開源開發中擔任角色的概念性敘述。"
+    },
+    {
+      "id": "05d87f32ec002c22",
+      "title": "The upvote dilemma",
+      "url": "https://herman.bearblog.dev/the-upvote-dilemma/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-10-27T13:05:30.399Z",
+      "summary_en": "Herman describes his decision to hide visible upvote counts on his platform, Bear, to reduce the 'popularity contest' dynamic and encourage content discovery based on merit rather than social proof. While keeping the underlying upvote mechanism for ranking, he aims to mitigate the negative psychological effects and the pressure to optimize for metrics.",
+      "summary_zh": "Herman 分享了他在 Bear 平台上隱藏按讚數的決定，旨在減少「人氣競賽」的氛圍，讓讀者更專注於內容本身而非社交認同。雖然保留了按讚功能作為排序依據，但他希望藉此減輕創作者的心理壓力，避免過度追求數字指標。",
+      "keywords": [
+        "social media",
+        "metrics",
+        "user experience",
+        "content discovery",
+        "design philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the author's philosophical rationale and decision-making process behind a design change in his product.",
+      "pacer_reason_zh": "這篇文章解釋了作者在產品設計變更背後的哲學思考與決策過程。"
+    },
+    {
+      "id": "a40817bf92b87ff6",
+      "title": "Weekly Update 527: Cybergeddon News v. Reality",
+      "url": "https://www.troyhunt.com/weekly-update-527/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-10-27T07:59:09.000Z",
+      "summary_en": "This update analyzes the recent hype surrounding 'Cybergeddon' headlines, noting that the predicted massive internet outages never materialized. It highlights the difficulty in verifying technical claims, specifically regarding the PHP2Shell exploit, contrasting sensationalist news with observable reality.",
+      "summary_zh": "本文探討了近期圍繞「網路災難」相關新聞的炒作，指出預言中的大規模網路癱瘓並未發生。作者透過對 PHP2Shell 漏洞案例的追蹤，分析了媒體聳動標題與現實技術情況之間的落差。",
+      "keywords": [
+        "Cybersecurity",
+        "PHP2Shell",
+        "Media Bias",
+        "Threat Intelligence",
+        "Fact-checking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content evaluates a specific security claim through the lens of empirical observation and evidence-based analysis of industry events.",
+      "pacer_reason_zh": "內容透過對產業事件的實證觀察與證據分析，對特定的安全主張進行評估與驗證。"
+    },
+    {
+      "id": "ba79f08d2086b1a7",
+      "title": "MTL-style circuit simulator",
+      "url": "https://entropicthoughts.com/mtl-style-circuit-simulator",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-10-26T23:00:00.000Z",
+      "summary_en": "The article explores using the MTL-style pattern, a form of final tagless encoding, to build a circuit simulator in Haskell. It demonstrates how to define a clear boundary of operations through a type class to improve code structure and maintainability.",
+      "summary_zh": "本文探討在 Haskell 中使用 MTL 風格的程式設計模式（一種最終無標籤編碼）來構建電路模擬器。作者展示了如何透過定義型別類別（type class）來界定電路操作的邊界，從而提升程式碼的結構與可維護性。",
+      "keywords": [
+        "Haskell",
+        "MTL",
+        "Circuit Simulator",
+        "Final Tagless",
+        "Type Classes"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical tutorial or guide, showing the reader how to implement a specific software design pattern.",
+      "pacer_reason_zh": "本文屬於技術教學或指南，示範了如何實作特定的軟體設計模式。"
+    },
+    {
+      "id": "361ded6eda310e84",
+      "title": "Inches & Miles",
+      "url": "https://feed.tedium.co/link/15204/17507724/ai-startups-sketchy-behavior",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-10-27T14:16:43.000Z",
+      "summary_en": "The article reflects on the history of internet startups harvesting user data through seemingly helpful features, such as Facebook's early 'Like' button. The author draws a parallel between this past era of digital exploitation and the current practices of AI startups, warning that history may be repeating itself.",
+      "summary_zh": "本文回顧了早期網路新創公司如何透過看似有用的功能（如 Facebook 的「讚」按鈕）來獲取用戶數據。作者將這段數位剝削的歷史與當前的 AI 新創公司進行對比，提醒人們歷史可能正在重演。",
+      "keywords": [
+        "AI",
+        "data privacy",
+        "Facebook",
+        "startups",
+        "internet history"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical parallel of early internet data harvesting tactics to explain and provide context for current trends in AI development.",
+      "pacer_reason_zh": "本文利用早期網路數據採集策略的歷史類比，來解釋並提供當前 AI 發展趨勢的背景。"
+    },
+    {
+      "id": "dbdb9ac8378c1852",
+      "title": "The Exponential Time Hypothesis is False",
+      "url": "https://www.johndcook.com/blog/2026/10/27/eth-false/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-27T12:13:21.000Z",
+      "summary_en": "This post discusses the Boolean Satisfiability Problem (SAT) and the Exponential Time Hypothesis (ETH), which posits that no sub-exponential algorithm can solve 3-SAT. The author explores the implications of this hypothesis and recent theoretical developments regarding its validity.",
+      "summary_zh": "本文探討了布林可滿足性問題 (SAT) 與指數時間假說 (ETH)，該假說認為沒有次指數時間演算法能解決 3-SAT 問題。作者深入分析了此假說的意涵以及關於其有效性的最新理論發展。",
+      "keywords": [
+        "ETH",
+        "SAT",
+        "Complexity",
+        "Algorithms",
+        "Boolean logic"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a complex theoretical concept in computational complexity and evaluates the validity of a fundamental hypothesis.",
+      "pacer_reason_zh": "本文解釋了計算複雜度理論中的核心概念，並探討了該基礎假說的有效性。"
+    },
+    {
+      "id": "a30f0e258af20fe7",
+      "title": "Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-27T12:34:53.000Z",
+      "summary_en": "This blog post reviews Andrew Hankinson's book about Raoul Moat, praising its unique second-person narrative style. The reviewer highlights how the author avoids sensationalism by utilizing the subject's own words to provide a nuanced perspective on his life and actions.",
+      "summary_zh": "這篇部落格文章評論了 Andrew Hankinson 關於 Raoul Moat 的著作，稱讚其獨特的第二人稱敘事風格。評論者強調作者避開了譁眾取寵的手法，轉而運用當事人的原話，為讀者呈現了一個更具深度與多面性的人物側寫。",
+      "keywords": [
+        "Book Review",
+        "Andrew Hankinson",
+        "Raoul Moat",
+        "Literary Analysis",
+        "Non-fiction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content acts as a critical evaluation and thematic explanation of a literary work.",
+      "pacer_reason_zh": "內容是對文學作品的批判性評估與主題解析。"
+    },
+    {
+      "id": "eaa3d870d6c8651d",
+      "title": "Pluralistic: History is something you do (27 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/27/tied-to-the-tracks/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-27T09:08:25.000Z",
+      "summary_en": "Cory Doctorow argues that the future is not a predetermined path but a contingent space shaped by human agency. He critiques the 'inevitabilism' promoted by tech influencers and policymakers, positioning science fiction as a tool to dismantle the idea that the future is beyond our control.",
+      "summary_zh": "柯瑞·多克托羅（Cory Doctorow）認為未來並非命定的軌跡，而是由人類意志所塑造的變數。他批判了科技圈和政策制定者所宣揚的「不可避免論」，並主張科幻小說應作為一種工具，打破未來無法被人類掌控的迷思。",
+      "keywords": [
+        "science fiction",
+        "inevitabilism",
+        "human agency",
+        "Cory Doctorow",
+        "future studies"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece reflecting on the philosophy of history, human agency, and the purpose of science fiction.",
+      "pacer_reason_zh": "本文屬於概念性文章，探討歷史哲學、人類主體性以及科幻小說的本質與目的。"
+    },
+    {
+      "id": "8333c89d9d7c203a",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-27T19:34:18.000Z",
+      "summary_en": "Simon Willison showcases a GitHub Universe conference badge that functions as a color computer capable of running NES and Game Boy Color emulators. Through collaboration, developers successfully ported classic titles like The Legend of Zelda: Link's Awakening to the badge's hardware.",
+      "summary_zh": "Simon Willison 分享了 GitHub Universe 會議胸牌的硬體駭客應用，該胸牌配備彩色螢幕並已成功運行 NES 與 Game Boy Color 模擬器。開發者們甚至將《薩爾達傳說：織夢島》移植到此裝置上，展示了其硬體潛力。",
+      "keywords": [
+        "Game Boy Color",
+        "GitHub Universe",
+        "Hardware Hacking",
+        "Emulator",
+        "Retro Gaming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides evidence of hardware capabilities by documenting the successful deployment of emulators on conference badge hardware.",
+      "pacer_reason_zh": "該文章透過展示在會議胸牌上成功部署模擬器的實例，提供了硬體應用能力的證據。"
+    },
+    {
+      "id": "7de0718c4444f02e",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-10-27T16:37:00.000Z",
+      "summary_en": "Jeff Geerling documents a hardware maintenance procedure for replacing a cooling fan in a Calnex Rb/GPS frequency reference unit. The guide covers the physical disassembly process, including dealing with Loctite-secured fasteners to access the internal components.",
+      "summary_zh": "Jeff Geerling 記錄了更換 Calnex Rb/GPS 頻率參考設備冷卻風扇的硬體維護過程。本文說明了設備的拆解步驟，包括處理塗有螺絲膠的固定螺絲以接觸內部組件。",
+      "keywords": [
+        "Noctua",
+        "Hardware",
+        "Repair",
+        "GPS",
+        "Calibration"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content is a step-by-step documentation of how to perform a specific hardware modification.",
+      "pacer_reason_zh": "該內容為執行特定硬體改裝的逐步操作記錄。"
+    },
     {
       "id": "3588c90aecca0051",
       "title": "De IT-onmacht van de Nederlandse overheid",
