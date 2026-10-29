@@ -1,6 +1,286 @@
 {
-  "last_updated": "2026-10-28T00:47:44.558Z",
+  "last_updated": "2026-10-29T01:20:27.636Z",
   "articles": [
+    {
+      "id": "013fd8eeebf968f5",
+      "title": "Fake it ‘til you make it (and then keep faking it)",
+      "url": "https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-10-28T15:36:04.000Z",
+      "summary_en": "The article explores the psychological and professional implications of the 'fake it till you make it' mindset. It argues that maintaining this behavior beyond initial success is a functional strategy for sustained growth and overcoming imposter syndrome.",
+      "summary_zh": "本文探討了「假裝直到成功」這種心態的心理與專業影響。作者主張，即使在獲得初步成功後持續保持這種心態，也是一種有助於持續成長並克服冒名頂替症候群的實用策略。",
+      "keywords": [
+        "imposter syndrome",
+        "professional growth",
+        "psychology",
+        "career strategy",
+        "mindset"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of a mindset and its role in personal and professional development.",
+      "pacer_reason_zh": "本文對某種心態及其在個人與專業發展中的作用進行了概念性的探討。"
+    },
+    {
+      "id": "39828fbccce440f3",
+      "title": "We Won’t “Just Hang Out”",
+      "url": "https://borretti.me/article/we-wont-just-hang-out",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-10-27T13:00:00.000Z",
+      "summary_en": "This article explores the future of human connection in a post-Singularity world. It challenges the assumption that social interaction will remain unchanged or simply continue as casual 'hanging out' once human intelligence is fundamentally transformed.",
+      "summary_zh": "本文探討了奇點後人類聯繫的未來。作者挑戰了關於社交互動在人類智慧發生根本性轉變後，仍能維持現狀或僅僅保持「隨意相處」的假設。",
+      "keywords": [
+        "Singularity",
+        "human connection",
+        "post-humanism",
+        "future",
+        "social interaction"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a conceptual piece that explores philosophical implications and theoretical shifts in human nature and connection.",
+      "pacer_reason_zh": "這是一篇概念性文章，探討了人類本質與聯繫在哲學上的含義與理論轉變。"
+    },
+    {
+      "id": "d2af08bc7e0fd433",
+      "title": "This Week in Source Control: 28 October 2026",
+      "url": "https://nesbitt.io/2026/10/28/this-week-in-source-control.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-28T10:00:00.000Z",
+      "summary_en": "This blog post introduces a new weekly roundup dedicated to news in source control systems, clients, and forges. It highlights the inaugural edition, which features technical insights into Anthropic's transition from Git to their custom 'Scion' version control system to handle massive scaling demands.",
+      "summary_zh": "這篇文章介紹了一個新的每週摘要系列，專注於版本控制系統、客戶端和代碼託管平台的最新動態。首期內容重點介紹了 Anthropic 如何為了應對大規模擴展需求，將其版本控制系統從 Git 遷移至自研的 Scion 系統。",
+      "keywords": [
+        "version control",
+        "git",
+        "anthropic",
+        "scion",
+        "software engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic newsletter and industry news roundup, aggregating links and updates regarding various software development tools.",
+      "pacer_reason_zh": "本文作為一份定期發佈的產業新聞摘要，整理了關於各類軟體開發工具的連結與更新資訊。"
+    },
+    {
+      "id": "e5f54b2440219dff",
+      "title": "The Unbalanced Group Theorem",
+      "url": "https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-10-28T11:51:51.000Z",
+      "summary_en": "This post discusses the classification of finite simple groups, recognized as one of the most extensive projects in mathematical history. It highlights the recent achievement by Axiom in formalizing the proof of the Unbalanced Group Theorem, a key component of this massive collective work.",
+      "summary_zh": "本文探討了被譽為數學界最龐大定理的「有限單群分類」。文章重點介紹了 Axiom 最近成功形式化了該分類中的關鍵組成部分——非平衡群定理（Unbalanced Group Theorem）。",
+      "keywords": [
+        "mathematics",
+        "finite simple groups",
+        "formal verification",
+        "Unbalanced Group Theorem",
+        "Axiom"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a complex mathematical concept and provides context on a significant achievement in theoretical mathematics.",
+      "pacer_reason_zh": "本文解釋了複雜的數學概念，並針對理論數學領域的一項重大成就提供了背景說明。"
+    },
+    {
+      "id": "026684210bfd4749",
+      "title": "C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-28T14:00:00.000Z",
+      "summary_en": "This post critiques the practice of using 'make_self' in C++/WinRT when the result is immediately cast to the projected interface. The author suggests this approach is an unnecessary complication compared to standard instantiation methods.",
+      "summary_zh": "本文批評了在 C++/WinRT 中使用 'make_self' 但隨即將其轉換為投影介面的做法。作者認為相較於標準的實例化方法，這種做法顯得過於繁瑣且多此一舉。",
+      "keywords": [
+        "C++",
+        "WinRT",
+        "make_self",
+        "programming",
+        "best practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides specific guidance on how to avoid unnecessary coding steps in C++/WinRT implementation.",
+      "pacer_reason_zh": "本文針對 C++/WinRT 實作中如何避免不必要的程式碼步驟提供了具體的建議。"
+    },
+    {
+      "id": "c1228bba4eb77797",
+      "title": "Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-27T14:00:00.000Z",
+      "summary_en": "This post explains why assigning high priority to system components like the taskbar and Task Manager does not necessarily improve responsiveness. It highlights that system performance is often limited by dependencies and waiting for resources rather than just CPU scheduling.",
+      "summary_zh": "本文解釋了為何將工作列與工作管理員設為高優先級並不能保證系統反應速度。文章指出，系統效能往往受限於資源等待與相依性，而非僅僅取決於 CPU 排程。",
+      "keywords": [
+        "Windows",
+        "Task Manager",
+        "Performance",
+        "Scheduling",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual reasons behind operating system scheduling and why a common assumption about process priority is incorrect.",
+      "pacer_reason_zh": "文章解釋了作業系統排程背後的概念，說明為何關於處理程序優先級的常見假設是錯誤的。"
+    },
+    {
+      "id": "b9e1ce5710017048",
+      "title": "Psychometrics, vaccines, meat, Kowloon, luggage destruction",
+      "url": "https://dynomight.net/shorts-8/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-10-28T00:00:00.000Z",
+      "summary_en": "This post reviews a scholarly paper evaluating the psychometric reliability of a 'Dynomight' version of the MBTI, showing high correlation with the original test. Additionally, it touches on the regulatory hurdles and bioethical controversies surrounding yeast-based vaccine self-experimentation.",
+      "summary_zh": "本文探討了一篇評估「Dynomight」版 MBTI 人格測驗心理測量可靠性的學術論文，結果顯示其與原版 MBTI 具有高度相關性。此外，文章也討論了關於酵母疫苗自我實驗所面臨的監管障礙與生物倫理爭議。",
+      "keywords": [
+        "MBTI",
+        "psychometrics",
+        "vaccines",
+        "self-experimentation",
+        "bioethics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article primarily reports on empirical findings from a psychometric study and discusses specific case study evidence regarding IRB regulations.",
+      "pacer_reason_zh": "文章主要報告了心理測量研究的實證結果，並討論了關於 IRB 法規的具體案例證據。"
+    },
+    {
+      "id": "57a1c2fb281dbed1",
+      "title": "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-28T12:34:54.000Z",
+      "summary_en": "This review evaluates the SoundPEATS CC3 Pro Bluetooth headphones, focusing on their unique 'clip-on' design. The author praises the device's exceptional comfort, noting that they can be worn all day without irritation.",
+      "summary_zh": "這篇評論介紹了 SoundPEATS CC3 Pro 藍牙耳機，重點在於其獨特的耳夾式設計。作者稱讚該裝置極為舒適，並提到即使全天配戴也不會感到不適。",
+      "keywords": [
+        "SoundPEATS",
+        "headphones",
+        "gadget review",
+        "clip-on",
+        "wearables"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content provides a personal user experience and evaluation of a specific product, serving as a subjective case study or review.",
+      "pacer_reason_zh": "內容提供了針對特定產品的個人使用體驗與評測，屬於主觀的案例分析或產品評論。"
+    },
+    {
+      "id": "202023ce26b2e437",
+      "title": "Pluralistic: Agents vs ecommerce (28 Oct 2026)",
+      "url": "https://pluralistic.net/2026/10/28/principle-agent-problem/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-10-28T10:54:05.000Z",
+      "summary_en": "Cory Doctorow critiques the concept of 'agentic AI' in e-commerce, drawing parallels to his 2001 essay 'Metacrap' regarding the failures of the Semantic Web. He argues that the complexity of autonomous agents often clashes with the reality of proprietary web structures and conflicting incentives.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）批評了電子商務中「代理人 AI」的概念，並將其與他在 2001 年對語義網失敗的分析相提並論。他指出，自主代理的複雜性往往與現有的專有網絡結構及利益衝突背道而馳。",
+      "keywords": [
+        "AI Agents",
+        "E-commerce",
+        "Semantic Web",
+        "Tech Criticism",
+        "Cory Doctorow"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the author's past work on the Semantic Web as an analogy to critique and explain the current limitations of agentic AI.",
+      "pacer_reason_zh": "本文運用作者過去關於語義網的作品作為類比，以批評並解釋當前代理人 AI 的局限性。"
+    },
+    {
+      "id": "da9c62c52f6c35e6",
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-28T23:23:21.000Z",
+      "summary_en": "This post highlights insights from Ted Sanders on LLM performance and OpenAI's versioning strategy. It explains that while performance is multidimensional, model size remains the primary predictor of capabilities, and version numbers reflect release sequences rather than just incremental progress.",
+      "summary_zh": "本文引用了 Ted Sanders 關於大型語言模型（LLM）效能與 OpenAI 版本命名邏輯的見解。文章指出儘管 LLM 的表現呈現多維度差異，模型規模仍是影響可靠度與成本的主要因素，同時解釋了版本號在發布順序與技術迭代中的意義。",
+      "keywords": [
+        "LLM",
+        "OpenAI",
+        "model-size",
+        "versioning",
+        "generative-ai"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual relationship between model size, performance, and versioning systems.",
+      "pacer_reason_zh": "內容解釋了模型規模、效能表現與版本號系統之間的理論關聯。"
+    },
+    {
+      "id": "e9a7a10b5a66f3aa",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-28T16:45:23.000Z",
+      "summary_en": "The 2026 GitHub Octoverse report highlights a massive surge in developer productivity, specifically noting that merged pull requests and commits have tripled. These record-breaking figures are attributed to the growing influence of agentic engineering and automated development tools.",
+      "summary_zh": "2026 年 GitHub Octoverse 報告指出開發者生產力出現顯著成長，其中合併請求 (PR) 與提交數量均成長了三倍。這些創紀錄的數據被歸因於代理程式工程 (Agentic Engineering) 與自動化開發工具的影響力不斷擴大。",
+      "keywords": [
+        "GitHub",
+        "Octoverse",
+        "Agentic Engineering",
+        "Software Development",
+        "Productivity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on reporting and analyzing specific data points and metrics from the annual Octoverse report.",
+      "pacer_reason_zh": "本文重點在於報導與分析 GitHub 年度 Octoverse 報告中的具體數據指標。"
+    },
+    {
+      "id": "7f577f4b01c6fc58",
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-28T13:55:15.000Z",
+      "summary_en": "The author identifies October 2026 as a major inflection point for 'vibe game development,' where advancements in AI models like Claude Opus 5.5 enable more sophisticated creation of 3D assets, music, and game design. By showcasing several successful experimental projects, the post argues that AI has evolved from producing superficial visuals to becoming a capable partner in actual game development.",
+      "summary_zh": "作者指出 2026 年 10 月是「氛圍遊戲開發」(vibe game development) 的重要轉折點，隨著 Claude Opus 5.5 等 AI 模型在 3D 建模、音樂生成與遊戲設計方面的進步，AI 已具備打造完整遊戲的能力。透過展示一系列實驗性作品，文章強調 AI 已從僅能生成表面視覺效果，演變為能實際協助遊戲開發的強大工具。",
+      "keywords": [
+        "AI game development",
+        "vibe coding",
+        "Claude Opus 5.5",
+        "generative AI",
+        "game design"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses personal experiments and case studies of AI-generated games to demonstrate an emerging trend in technological capabilities.",
+      "pacer_reason_zh": "本文透過作者的個人實驗與 AI 生成遊戲的案例研究，驗證了技術能力趨勢的轉變。"
+    },
+    {
+      "id": "2cf23206607f40da",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-28T10:09:07.000Z",
+      "summary_en": "Amazon's engineering leadership emphasizes that not every task benefits from AI, and identifying these limitations is a sign of good professional judgment. Engineers are encouraged to document where AI falls short and share these findings to help improve workflows.",
+      "summary_zh": "亞馬遜工程領導層強調，並非所有工作都能從 AI 中受益，能夠辨識 AI 的侷限性反而是專業判斷力的展現。工程師應記錄 AI 無法協助的場景，並與團隊分享以優化工作流程。",
+      "keywords": [
+        "amazon",
+        "ai",
+        "engineering",
+        "generative-ai",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a conceptual shift in how organizations should evaluate the utility of AI in software engineering.",
+      "pacer_reason_zh": "該內容解釋了組織應如何評估 AI 在軟體工程中效用的概念性轉變。"
+    },
+    {
+      "id": "793e0ae0d74b7d6d",
+      "title": "Getting good at AI takes time and practice",
+      "url": "https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-28T00:00:00.000Z",
+      "summary_en": "The article emphasizes that mastery in the field of AI is not an overnight achievement but a result of consistent practice and sustained effort. It encourages readers to adopt a long-term mindset to navigate the rapidly evolving landscape of artificial intelligence.",
+      "summary_zh": "本文強調在人工智慧領域的精通並非一蹴可幾，而是需要透過持續的練習與努力才能達成。文章鼓勵讀者保持長遠的學習心態，以應對快速變化的人工智慧技術發展。",
+      "keywords": [
+        "AI",
+        "Artificial Intelligence",
+        "Skill Acquisition",
+        "Learning",
+        "Professional Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework of learning and the mindset required to gain proficiency in AI.",
+      "pacer_reason_zh": "本文側重於學習的概念框架，以及在人工智慧領域獲得精通所需的心態建立。"
+    },
     {
       "id": "0cd172b3bf82d1ce",
       "title": "I'm Full-Time Open Source Developer Now",
