@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-10-29T01:20:27.636Z",
+  "last_updated": "2026-10-30T01:24:26.001Z",
   "articles": [
+    {
+      "id": "5e396018eb1a2135",
+      "title": "Making agents fast - what I've learnt over the last 12 months",
+      "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary_en": "This article explores practical strategies for optimizing AI agent performance, focusing on metrics like time-to-first-token and throughput. It covers technical approaches to tool integration, infrastructure design, and the necessity of robust sandboxing for efficient agent development.",
+      "summary_zh": "本文探討了優化 AI 代理效能的實踐策略，重點關注首字延遲（TTFT）與吞吐量等關鍵指標。內容涵蓋了工具整合、基礎設施架構，以及為了實現高效代理開發所需的沙盒環境配置。",
+      "keywords": [
+        "AI agents",
+        "inference speed",
+        "performance optimization",
+        "tooling",
+        "software engineering"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on practical lessons and 'how-to' guidance for improving the operational speed of AI agents.",
+      "pacer_reason_zh": "本文側重於提升 AI 代理執行速度的實作經驗與指導方針，屬於操作性內容。"
+    },
+    {
+      "id": "5d280100b264fa22",
+      "title": "Celebrating SIM Cards",
+      "url": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-10-29T19:00:00.000Z",
+      "summary_en": "The author reflects on the surprisingly seamless experience of swapping a SIM card into a new iPhone. Despite expecting typical technical hurdles, the process worked perfectly, leading the author to appreciate the success of standard mobile technology.",
+      "summary_zh": "作者分享了為母親更換手機時，SIM 卡無縫連接的順暢體驗。儘管預期會遇到技術故障，但整個過程異常順利，讓他對這項通訊技術的可靠性感到驚喜。",
+      "keywords": [
+        "SIM card",
+        "iPhone",
+        "tech support",
+        "mobile technology",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a reflection on the concept of technology working as intended and the user's perception of seamless integration.",
+      "pacer_reason_zh": "本文反思了「科技應如預期般運作」的概念，以及使用者對於系統無縫整合的體驗與觀察。"
+    },
+    {
+      "id": "ff21bdff1eb6b64f",
+      "title": "What I learned about power from LBJ and Robert Moses",
+      "url": "https://www.dwarkesh.com/p/lessons-in-power",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-10-29T16:48:39.000Z",
+      "summary_en": "The author reflects on the nature of political power by examining the lives of Lyndon B. Johnson and Robert Moses as chronicled by biographer Robert Caro. The piece serves as a preparation for an in-depth interview regarding the mechanisms and ethics of exercising influence.",
+      "summary_zh": "作者透過傳記作家羅伯·卡洛筆下的林登·詹森與羅伯·摩斯，探討權力的本質。本文是為深入訪談權力運作機制與倫理議題所進行的準備工作。",
+      "keywords": [
+        "Robert Caro",
+        "LBJ",
+        "Robert Moses",
+        "Power",
+        "Politics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual analysis and historical understanding of power dynamics.",
+      "pacer_reason_zh": "內容側重於對權力運作的觀念分析與歷史性探討。"
+    },
+    {
+      "id": "7e137b0467999a02",
+      "title": "Extremely brief history of PDP computers",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-10-28T23:00:00.000Z",
+      "summary_en": "This article provides a brief historical timeline of Digital Equipment Corporation's (DEC) PDP computer series. It examines the evolution, technical specifications, and market positioning of various models from the PDP-1 through the VAX transition.",
+      "summary_zh": "本文簡要概述了數位設備公司 (DEC) PDP 電腦系列的歷史發展。文中追蹤了從 PDP-1 到 VAX 過渡期間各個機型的技術演進、規格變化及其市場定位。",
+      "keywords": [
+        "DEC",
+        "PDP",
+        "computing history",
+        "mainframe",
+        "technology evolution"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a reference guide documenting the history and technical specifications of the PDP computer series.",
+      "pacer_reason_zh": "本文主要作為參考指南，記錄了 PDP 電腦系列的歷史背景與技術規格。"
+    },
+    {
+      "id": "81b38f560f77397b",
+      "title": "A New Kind of Chemistry",
+      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-10-29T15:45:10.000Z",
+      "summary_en": "This article explores innovations in chemistry through insights from Marathon Fusion. It highlights new chemical processes and potential advancements in material science.",
+      "summary_zh": "本文透過 Marathon Fusion 的見解探討了化學領域的創新。文章重點介紹了新的化學製程以及在材料科學方面的潛在進展。",
+      "keywords": [
+        "chemistry",
+        "innovation",
+        "material science",
+        "Marathon Fusion",
+        "chemical engineering"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining new concepts and theories within the field of chemistry.",
+      "pacer_reason_zh": "本文重點在於解釋化學領域內的新概念與理論。"
+    },
+    {
+      "id": "b192f23f67f3551e",
+      "title": "Avoid Public Functions Calling Other Public Functions",
+      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "source": "matklad",
+      "source_url": "https://matklad.github.io/",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary_en": "This article advises against having public functions call each other to avoid unnecessary API coupling. It recommends refactoring shared logic into private helper functions to prevent public interfaces from becoming cluttered with internal implementation details.",
+      "summary_zh": "本文建議避免讓公開函式互相呼叫，以防止不必要的 API 耦合。作者建議將共享邏輯重構為私有輔助函式，避免公開介面因內部實作細節而變得過於複雜。",
+      "keywords": [
+        "software engineering",
+        "API design",
+        "refactoring",
+        "clean code",
+        "best practices"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific coding rule of thumb and a refactoring guide for software development.",
+      "pacer_reason_zh": "本文提供了一項具體的程式設計準則，並針對軟體開發提出了重構指南。"
+    },
+    {
+      "id": "f7874a16a06542c0",
+      "title": "Custom Voices With Qwen3-TTS",
+      "url": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary_en": "This post explores the author's experience using Qwen3-TTS to create unique, custom voiceovers for a dungeon crawler game project. It highlights the capabilities and limitations of Qwen3's three model variants, particularly regarding the trade-off between voice cloning quality and the ability to apply stylistic instructions.",
+      "summary_zh": "本文探討了作者為地牢探險遊戲專案使用 Qwen3-TTS 製作獨特自訂配音的經驗。文中分析了 Qwen3 三種模型版本的性能與限制，特別是在語音複製質量與應用風格指令之間權衡的技術挑戰。",
+      "keywords": [
+        "Qwen3-TTS",
+        "Voice Cloning",
+        "Game Development",
+        "Text-to-Speech",
+        "AI Audio"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a technical guide and personal experience report on implementing custom voice cloning for a specific project.",
+      "pacer_reason_zh": "本文為一篇關於如何在特定專案中實作自訂語音複製的技術指南與經驗分享。"
+    },
+    {
+      "id": "8344161f2b910ac3",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary_en": "This piece explores the recurring frustrations of developers working with specific programming languages. It highlights the ironic persistence of preventable errors within language ecosystems.",
+      "summary_zh": "本文探討了開發者在使用特定程式語言時常遇到的挫折感。文章點出了在某些語言生態系統中，那些本可避免的錯誤卻一再發生的諷刺現象。",
+      "keywords": [
+        "programming",
+        "software development",
+        "language design",
+        "developer experience",
+        "satire"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The title uses an analogy of fatalistic reporting to comment on recurring design flaws in programming languages.",
+      "pacer_reason_zh": "標題運用了宿命論式的報導語氣作為類比，用以評論程式語言設計中反覆出現的缺陷。"
+    },
+    {
+      "id": "49d99f09e516b736",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-29T22:48:29.000Z",
+      "summary_en": "OpenAI has introduced a new benefit where high-tier ChatGPT subscription plans now receive matching API credits. This move follows a similar recent announcement from Anthropic, providing users with increased flexibility to build and deploy AI projects.",
+      "summary_zh": "OpenAI 宣布高階 ChatGPT 訂閱用戶現可獲得與訂閱費用等值的 API 使用額度。此舉跟進了 Anthropic 近期的類似優惠，為使用者開發與部署 AI 專案提供了更多彈性。",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "API credits",
+        "Anthropic",
+        "LLM pricing"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a report and reference regarding new pricing benefits and service updates from AI providers.",
+      "pacer_reason_zh": "本文主要報導並告知 AI 服務商最新的定價優惠與服務更新，屬於資訊參考性質。"
+    },
+    {
+      "id": "a41c6b1e5e903c63",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-29T17:00:26.000Z",
+      "summary_en": "Simon Willison explores Spawn, a multiplayer gaming environment where users utilize AI agents to generate and modify the world in real-time through prompts. The platform demonstrates the advanced potential of agentic engineering by allowing players to create structures and creatures like dragons within a voxel-based game.",
+      "summary_zh": "Simon Willison 介紹了 Spawn，這是一個多人遊戲環境，玩家可以通過提示詞利用 AI 代理實時修改遊戲世界。該平台展示了代理工程的先進潛力，讓玩家能夠在體素風格的遊戲中創造建築物與龍等物體。",
+      "keywords": [
+        "AI agents",
+        "multiplayer gaming",
+        "generative AI",
+        "agentic engineering",
+        "Spawn"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study/report on the practical application and current capabilities of agentic engineering in a real-world product.",
+      "pacer_reason_zh": "本文作為一個案例研究，報告了代理工程在實際產品中的應用及其當前的實作能力。"
+    },
+    {
+      "id": "95cafd4597e819bb",
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-29T14:06:27.000Z",
+      "summary_en": "This post highlights a humorous observation about the tension between the push for headless, AI-agent-integrated products and the enduring value of traditional user interfaces. It touches on the evolving role of the Model Context Protocol (MCP) in the AI ecosystem.",
+      "summary_zh": "這篇文章引用了 Ben Hylak 對於 AI 時代產品設計的幽默觀察，探討了「無頭軟體」(headless software) 與代理程式整合趨勢，以及使用者對於精美使用者介面 (UI) 的依賴。文中反映了技術趨勢與現實產品體驗之間的矛盾與反思。",
+      "keywords": [
+        "Model Context Protocol",
+        "AI",
+        "UI",
+        "Agents",
+        "Software Design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a conceptual critique of current software design trends in the context of AI agents.",
+      "pacer_reason_zh": "內容側重於在 AI 代理環境下，對當前軟體設計趨勢的概念性評論與省思。"
+    },
+    {
+      "id": "2662b5a33a088395",
+      "title": "You can just ask AI to do things",
+      "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary_en": "This article discusses the emerging paradigm of using AI systems as proactive agents that can execute tasks rather than just providing information. It emphasizes the shift from simple querying to delegating complex workflows to AI models.",
+      "summary_zh": "本文探討了將 AI 系統從單純的資訊提供者，轉變為能夠執行任務的行動代理人的新範式。強調了從簡單查詢轉向將複雜工作流程委託給 AI 模型的轉變。",
+      "keywords": [
+        "AI Agents",
+        "Automation",
+        "Workflow",
+        "Prompt Engineering",
+        "Artificial Intelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores a conceptual shift in how we interact with AI, focusing on the theory of agents versus search.",
+      "pacer_reason_zh": "本文探討了我們與 AI 互動方式的概念性轉變，重點在於代理人與搜尋功能的理論差異。"
+    },
     {
       "id": "013fd8eeebf968f5",
       "title": "Fake it ‘til you make it (and then keep faking it)",

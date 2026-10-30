@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 29 Oct 2026 01:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:24:26 GMT</lastBuildDate>
     
+    <item>
+      <title>Making agents fast - what I've learnt over the last 12 months</title>
+      <link>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article explores practical strategies for optimizing AI agent performance, focusing on metrics like time-to-first-token and throughput. It covers technical approaches to tool integration, infrastructure design, and the necessity of robust sandboxing for efficient agent development.</description>
+    </item>
+
+    <item>
+      <title>Celebrating SIM Cards</title>
+      <link>https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</link>
+      <guid>https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author reflects on the surprisingly seamless experience of swapping a SIM card into a new iPhone. Despite expecting typical technical hurdles, the process worked perfectly, leading the author to appreciate the success of standard mobile technology.</description>
+    </item>
+
+    <item>
+      <title>What I learned about power from LBJ and Robert Moses</title>
+      <link>https://www.dwarkesh.com/p/lessons-in-power</link>
+      <guid>https://www.dwarkesh.com/p/lessons-in-power</guid>
+      <pubDate>Thu, 29 Oct 2026 16:48:39 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The author reflects on the nature of political power by examining the lives of Lyndon B. Johnson and Robert Moses as chronicled by biographer Robert Caro. The piece serves as a preparation for an in-depth interview regarding the mechanisms and ethics of exercising influence.</description>
+    </item>
+
+    <item>
+      <title>Extremely brief history of PDP computers</title>
+      <link>https://entropicthoughts.com/history-of-pdp-computers</link>
+      <guid>https://entropicthoughts.com/history-of-pdp-computers</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article provides a brief historical timeline of Digital Equipment Corporation's (DEC) PDP computer series. It examines the evolution, technical specifications, and market positioning of various models from the PDP-1 through the VAX transition.</description>
+    </item>
+
+    <item>
+      <title>A New Kind of Chemistry</title>
+      <link>https://www.construction-physics.com/p/a-new-kind-of-chemistry</link>
+      <guid>https://www.construction-physics.com/p/a-new-kind-of-chemistry</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:10 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores innovations in chemistry through insights from Marathon Fusion. It highlights new chemical processes and potential advancements in material science.</description>
+    </item>
+
+    <item>
+      <title>Avoid Public Functions Calling Other Public Functions</title>
+      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
+      <guid>https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://matklad.github.io/">matklad</source>
+      <description>This article advises against having public functions call each other to avoid unnecessary API coupling. It recommends refactoring shared logic into private helper functions to prevent public interfaces from becoming cluttered with internal implementation details.</description>
+    </item>
+
+    <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>This post explores the author's experience using Qwen3-TTS to create unique, custom voiceovers for a dungeon crawler game project. It highlights the capabilities and limitations of Qwen3's three model variants, particularly regarding the trade-off between voice cloning quality and the ability to apply stylistic instructions.</description>
+    </item>
+
+    <item>
+      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
+      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
+      <description>This piece explores the recurring frustrations of developers working with specific programming languages. It highlights the ironic persistence of preventable errors within language ecosystems.</description>
+    </item>
+
+    <item>
+      <title>API credits benefit for eligible ChatGPT subscriptions</title>
+      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+      <guid>https://simonwillison.net/2026/Oct/29/api-credits/</guid>
+      <pubDate>Thu, 29 Oct 2026 22:48:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>OpenAI has introduced a new benefit where high-tier ChatGPT subscription plans now receive matching API credits. This move follows a similar recent announcement from Anthropic, providing users with increased flexibility to build and deploy AI projects.</description>
+    </item>
+
+    <item>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <guid>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison explores Spawn, a multiplayer gaming environment where users utilize AI agents to generate and modify the world in real-time through prompts. The platform demonstrates the advanced potential of agentic engineering by allowing players to create structures and creatures like dragons within a voxel-based game.</description>
+    </item>
+
+    <item>
+      <title>Quoting Ben Hylak</title>
+      <link>https://simonwillison.net/2026/Oct/29/ben-hylak/</link>
+      <guid>https://simonwillison.net/2026/Oct/29/ben-hylak/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:06:27 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a humorous observation about the tension between the push for headless, AI-agent-integrated products and the enduring value of traditional user interfaces. It touches on the evolving role of the Model Context Protocol (MCP) in the AI ecosystem.</description>
+    </item>
+
+    <item>
+      <title>You can just ask AI to do things</title>
+      <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
+      <guid>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article discusses the emerging paradigm of using AI systems as proactive agents that can execute tasks rather than just providing information. It emphasizes the shift from simple querying to delegating complex workflows to AI models.</description>
+    </item>
+
     <item>
       <title>Fake it ‘til you make it (and then keep faking it)</title>
       <link>https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</link>
@@ -796,114 +904,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://xeiaso.net/">Xe Iaso's blog</source>
       <description>This post critiques the persistent design flaws and recurring security vulnerabilities inherent in specific programming languages. It highlights the irony of developers accepting these avoidable errors as inevitable parts of their environment.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This satirical piece criticizes the persistent flaws and design failures inherent in a specific programming language. It highlights the irony of users constantly encountering avoidable issues that remain unaddressed by the language's creators.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This piece explores the recurring frustrations of developers working with specific programming languages that suffer from frequent, preventable technical issues. It highlights the irony of systemic failures that persist despite being well-documented and predictable.</description>
-    </item>
-
-    <item>
-      <title>Jesus Christ patch your shit now</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This blog post serves as an urgent call to action for software developers and system administrators to prioritize security patching. It emphasizes the critical necessity of maintaining updated systems to protect against vulnerabilities.</description>
-    </item>
-
-    <item>
-      <title>Can they write a function? </title>
-      <link>https://idiallo.com/blog/can-they-write-a-function</link>
-      <guid>https://idiallo.com/blog/can-they-write-a-function</guid>
-      <pubDate>Wed, 21 Oct 2026 19:00:40 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author argues that traditional, elaborate hiring processes for software developers are often arbitrary and ineffective. Instead, they propose a simplified, practical assessment approach—live coding and deployment tasks—while suggesting that actual technical skills and cultural fit are best developed on the job.</description>
-    </item>
-
-    <item>
-      <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
-      <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
-      <guid>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
-      <pubDate>Wed, 21 Oct 2026 15:26:07 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>A critical vulnerability affecting nearly 70 percent of websites has been discovered, potentially leading to widespread server outages. Security experts warn that exploits are currently being used in the wild, necessitating immediate software updates to prevent attackers from seizing server control.</description>
-    </item>
-
-    <item>
-      <title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
-      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
-      <guid>https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
-      <pubDate>Wed, 21 Oct 2026 18:41:53 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The PHP Foundation has released critical security updates for the PHP 8.x line following the premature disclosure of two remote code execution vulnerabilities. The post details how the incident unfolded, including the accidental release of proof-of-concept material, and emphasizes the urgent need for users to upgrade.</description>
-    </item>
-
-    <item>
-      <title>Panache — RTS Belle Époque pour mobile</title>
-      <link>https://simonwillison.net/2026/Oct/21/panache/</link>
-      <guid>https://simonwillison.net/2026/Oct/21/panache/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:25:16 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights a community-created fork of his open-source game 'Battle Drones' called 'Panache.' This project reskins the original RTS game with a Belle Époque steampunk theme, featuring new 1900s-inspired models and music.</description>
-    </item>
-
-    <item>
-      <title>Upgrade your PHP installs immediately to protect against php2shell</title>
-      <link>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:10:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Critical security vulnerabilities involving Remote Code Execution (RCE) have been discovered in various PHP versions, necessitating immediate updates to patched releases. The post advises users to upgrade to the latest versions and suggests switching to official repositories if third-party options are unavailable.</description>
-    </item>
-
-    <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid>https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Tue, 20 Oct 2026 17:36:24 GMT</pubDate>
-      <source url="https://anildash.com/">Anil Dash</source>
-      <description>This article provides a nostalgic, step-by-step walkthrough of how users acquired software for the Commodore 64 in 1986. It illustrates the manual process of hunting for computer magazines in physical bookstores before the digital app store era.</description>
-    </item>
-
-    <item>
-      <title>No More Icons In Every Menu By Default</title>
-      <link>https://blog.jim-nielsen.com/2026/icons-in-every-menu/</link>
-      <guid>https://blog.jim-nielsen.com/2026/icons-in-every-menu/</guid>
-      <pubDate>Mon, 19 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>Apple has officially reversed its design choice to include icons in all macOS menu items, following its previous inclusion in macOS Tahoe. The author argues that this reversion is a powerful example of 'learning by doing,' proving that the design was flawed through actual experience.</description>
-    </item>
-
-    <item>
-      <title>NixOS Is Making Me Less Afraid</title>
-      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
-      <guid>https://entropicthoughts.com/nixos-is-making-me-less-afraid</guid>
-      <pubDate>Mon, 19 Oct 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author explains how NixOS has reduced their fear of managing software deployments by making server configuration remarkably simple and reproducible. With only a few lines of code, they can reliably deploy and maintain services like FreshRSS, encouraging them to experiment more freely with new tools.</description>
-    </item>
-
-    <item>
-      <title>Death &amp; Domains</title>
-      <link>https://feed.tedium.co/link/15204/17501584/death-domains-commentary</link>
-      <guid>https://feed.tedium.co/link/15204/17501584/death-domains-commentary</guid>
-      <pubDate>Tue, 20 Oct 2026 17:35:53 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This article explores the fragility of digital legacies when individual domain owners pass away and their subscriptions expire. It questions whether current internet infrastructure is capable of preserving personal digital identities long-term and discusses potential solutions like nonprofit domain management.</description>
     </item>
   </channel>
 </rss>
