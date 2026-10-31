@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-10-30T01:24:26.001Z",
+  "last_updated": "2026-10-31T01:07:44.086Z",
   "articles": [
+    {
+      "id": "cd6b789ab55962b0",
+      "title": "Robert Caro – The master biographer reflects at 91",
+      "url": "https://www.dwarkesh.com/p/robert-caro",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-10-30T16:56:02.000Z",
+      "summary_en": "Renowned biographer Robert Caro reflects on his lifelong dedication to investigative journalism and the extensive archival research behind his works. He expresses a poignant regret regarding the significant amount of discovered information that remains unpublished and unknown to the public.",
+      "summary_zh": "著名傳記作家羅伯特·卡洛（Robert Caro）回顧了他對調查新聞的終身奉獻，以及其作品背後龐大的檔案研究工作。他對許多珍貴的研究成果因篇幅限制而無法公諸於世，最終無人知曉感到相當遺憾。",
+      "keywords": [
+        "Robert Caro",
+        "biography",
+        "journalism",
+        "archival research",
+        "writing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the biographical perspective and the philosophical reflection of the author's creative process.",
+      "pacer_reason_zh": "內容側重於傳記作家的個人視角，以及對其創作過程的哲學性反思。"
+    },
+    {
+      "id": "d04177eda6659957",
+      "title": "Signing and Attestations Across Package Registries",
+      "url": "https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-10-30T10:00:00.000Z",
+      "summary_en": "This article explores the mechanics of package signing and provenance attestations in software registries, contrasting them with traditional Linux distribution build methods. It emphasizes how trusted publishing with OIDC credentials improves security, while noting that attestations are essential for verifying build origins even when credentials are compromised.",
+      "summary_zh": "本文探討軟體套件註冊中心中簽章與來源證明（Attestations）的運作機制，並將其與傳統 Linux 發行版的建置方式進行對比。文中強調使用 OIDC 憑證的信任發布機制能提升安全性，同時指出在憑證遭盜用時，來源證明對於驗證建置過程的真實性至關重要。",
+      "keywords": [
+        "package signing",
+        "provenance",
+        "attestations",
+        "supply chain security",
+        "trusted publishing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical concepts and security mechanisms behind package signing and attestations in modern software development.",
+      "pacer_reason_zh": "本文旨在闡述軟體開發中套件簽章與來源證明的核心理論概念及其安全機制。"
+    },
+    {
+      "id": "d535115b5cfeea56",
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-10-29T14:00:00.000Z",
+      "summary_en": "This post recounts a humorous support anecdote where a user reported a 'black screen' issue. The resolution highlights the irony of a customer receiving exactly what they requested, despite their complaints.",
+      "summary_zh": "這篇文章分享了一個關於客戶回報「螢幕全黑」的技術支援趣聞。內容指出客戶最終遇到的問題，其實正是他們自己要求的結果。",
+      "keywords": [
+        "The Old New Thing",
+        "tech support",
+        "customer service",
+        "humor",
+        "debugging"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The post uses an anecdotal narrative as an analogy for the importance of precise communication in technical requests.",
+      "pacer_reason_zh": "本文透過軼事作為類比，強調在技術需求溝通中精確表達的重要性。"
+    },
+    {
+      "id": "6883a701eb32223c",
+      "title": "Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-10-30T12:34:22.000Z",
+      "summary_en": "The reviewer expresses strong dissatisfaction with Arundhati Roy's 'The God of Small Things,' criticizing the prose as overly melodramatic and exhausting. They describe the narrative as an 'over-sugared mess' that lacks proper pacing and readability.",
+      "summary_zh": "評論者對阿蘭達蒂·羅伊的《微物之神》表達了強烈的不滿，批評其文筆過於矯情且情節冗長。書評人認為該書敘事混亂、節奏壓抑，形容其為一部華而不實的作品。",
+      "keywords": [
+        "Book Review",
+        "Arundhati Roy",
+        "The God of Small Things",
+        "Literary Criticism",
+        "Reading"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "This is a subjective critique and conceptual analysis of a literary work's stylistic merits.",
+      "pacer_reason_zh": "這是一篇針對文學作品風格優劣的個人評論與概念性分析。"
+    },
+    {
+      "id": "f2e0c5ad767d2d0d",
+      "title": "College will only cost $20 a month ",
+      "url": "https://idiallo.com/blog/college-will-cost-20-dollars",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-10-30T23:35:13.000Z",
+      "summary_en": "The author reflects on the changing landscape of tech hiring and questions the necessity of expensive traditional university degrees. They propose an alternative model using AI-driven personal tutoring and self-study, weighing the benefits of lower costs against the traditional value of campus networking and experience.",
+      "summary_zh": "作者反思了科技業招聘環境的劇烈變遷，質疑昂貴的傳統大學學位是否仍具必要性。文中提出了以人工智慧導師輔助自主學習作為替代方案，並衡量了降低學費成本與傳統大學社交及體驗價值之間的權衡。",
+      "keywords": [
+        "AI",
+        "education",
+        "career",
+        "tech industry",
+        "higher education"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of replacing a brick-and-mortar university education with an AI subscription model to challenge traditional educational norms.",
+      "pacer_reason_zh": "文章透過將傳統實體大學教育與人工智慧訂閱服務進行類比，以此挑戰既有的高等教育觀念。"
+    },
+    {
+      "id": "3b8361d079acb9cc",
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-10-30T21:59:22.000Z",
+      "summary_en": "Drew Breunig has successfully embedded a functional Nintendo Entertainment System (NES) 6502 CPU emulator directly into the weights of a Qwen3.5-4B AI model. This project demonstrates the potential for using LLMs to emulate hardware, effectively allowing NES ROMs to run inside the neural network model.",
+      "summary_zh": "Drew Breunig 成功將 Nintendo Entertainment System (NES) 的 6502 CPU 模擬器嵌入到 Qwen3.5-4B AI 模型的權重中。此專案展示了利用大型語言模型進行硬體模擬的潛力，使得 NES 遊戲 ROM 能夠在神經網路模型中運行。",
+      "keywords": [
+        "NES",
+        "Qwen",
+        "LLM",
+        "CPU emulation",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on a specific implementation and experiment where a hardware emulator is embedded into AI weights, serving as a practical demonstration of model capabilities.",
+      "pacer_reason_zh": "內容重點在於將硬體模擬器嵌入 AI 權重的具體實作與實驗，是一項展現模型能力的實證案例。"
+    },
+    {
+      "id": "4feb20d2844d9336",
+      "title": "Rejoice, leap seconds are dead!",
+      "url": "https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-10-30T14:00:00.000Z",
+      "summary_en": "The CGPM has officially decided to abolish leap seconds for Coordinated Universal Time (UTC), with the last one having occurred in 2016. This article explores the significance of this decision and provides context on the organization behind the change.",
+      "summary_zh": "國際度量衡大會（CGPM）已正式決定取消協調世界時（UTC）的閏秒調整，最後一次閏秒發生在2016年。本文探討了這項決策的重要性，並解釋了相關背景知識。",
+      "keywords": [
+        "leap second",
+        "UTC",
+        "CGPM",
+        "timekeeping",
+        "technology"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains the conceptual change in timekeeping standards and why the discontinuation of leap seconds is significant.",
+      "pacer_reason_zh": "本文解釋了計時標準的概念性變更，並闡述了為何停止閏秒具有重大意義。"
+    },
+    {
+      "id": "fa4f4f742c1bfc5e",
+      "title": "Elegance and intelligence are anticorrelated",
+      "url": "https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary_en": "This article explores the hypothesis that there is an inverse relationship between aesthetic elegance and analytical intelligence. It examines whether prioritizing simplicity and beauty in design or thought inherently limits complex problem-solving capabilities.",
+      "summary_zh": "本文探討了優雅與智慧之間可能存在的反比關係。文章檢視了在設計或思維中追求簡約與美感，是否會在本質上限制了處理複雜問題的能力。",
+      "keywords": [
+        "elegance",
+        "intelligence",
+        "philosophy",
+        "cognition",
+        "design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on a conceptual exploration of the relationship between two abstract qualities.",
+      "pacer_reason_zh": "本文側重於探討兩個抽象特質之間關係的概念性分析。"
+    },
     {
       "id": "5e396018eb1a2135",
       "title": "Making agents fast - what I've learnt over the last 12 months",
