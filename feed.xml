@@ -4,8 +4,62 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 01 Nov 2026 00:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:05:05 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 528: Reading AI-generated Code &amp; the Economics of Solar</title>
+      <link>https://www.troyhunt.com/weekly-update-528/</link>
+      <guid>https://www.troyhunt.com/weekly-update-528/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:35:23 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>This update discusses the controversy surrounding Proton's recent engineering manifesto and the public backlash against its CEO's management style. The post critiques the leadership's approach to AI-generated code and organizational communication.</description>
+    </item>
+
+    <item>
+      <title>A Mastodon bot powered by iOS Shortcuts</title>
+      <link>https://evanhahn.com/mastodon-bot-with-ios-shortcuts/</link>
+      <guid>https://evanhahn.com/mastodon-bot-with-ios-shortcuts/</guid>
+      <pubDate>Sun, 01 Nov 2026 11:00:00 GMT</pubDate>
+      <source url="https://evanhahn.com/">Evan Hahn (dot com)</source>
+      <description>The author shares a method for running a Mastodon bot using iOS Shortcuts instead of a traditional server to save on maintenance and costs. By utilizing five interlinked shortcuts, the bot automatically posts quotes from 'The Legend of Zelda: Link’s Awakening' at specific intervals throughout the day.</description>
+    </item>
+
+    <item>
+      <title>A unified view of poles and polars</title>
+      <link>https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</guid>
+      <pubDate>Sun, 01 Nov 2026 20:29:54 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article provides a synthesis of various geometric concepts related to poles and polars, bridging the gap between spherical triangles and projective geometry. It serves as a cohesive overview of the author's previous explorations into these mathematical structures.</description>
+    </item>
+
+    <item>
+      <title>10 Years on Mastodon</title>
+      <link>https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:34:18 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>Terence Eden reflects on his ten-year journey on Mastodon, contrasting the platform's longevity with the rapid decline of many other social networks. The post explores the sustainability of decentralized social media compared to typical short-lived digital services.</description>
+    </item>
+
+    <item>
+      <title>If in doubt, delete the uv.lock file</title>
+      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
+      <guid>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:22 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>When encountering dependency errors while using Python 3.15 with the 'uv' package manager, deleting the 'uv.lock' file often resolves version incompatibility issues. This happens because stale lock files may pin dependencies to versions that do not yet support newer Python releases.</description>
+    </item>
+
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
+      <guid>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
+      <pubDate>Sun, 01 Nov 2026 16:49:04 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Kyle Kingsbury highlights how LLMs undermine trust in software documentation and quality by making it easy to counterfeit signals of maturity. The post poses a critical question for developers on how to maintain and demonstrate software integrity in an era where AI-generated content can obscure authenticity.</description>
+    </item>
+
     <item>
       <title>Reading List 10/31/26</title>
       <link>https://www.construction-physics.com/p/reading-list-103126</link>
@@ -850,60 +904,6 @@
       <pubDate>Thu, 22 Oct 2026 15:14:05 GMT</pubDate>
       <source url="https://buttondown.com/hillelwayne">Computer Things</source>
       <description>The author shares personal updates and introduces the concept of nondeterministic differential testing. The post explains how to verify consistency when translating programs between languages, highlighting the challenges introduced by nondeterminism compared to standard deterministic testing.</description>
-    </item>
-
-    <item>
-      <title>Script dependencies with Nix</title>
-      <link>https://entropicthoughts.com/python-dependencies-with-nix</link>
-      <guid>https://entropicthoughts.com/python-dependencies-with-nix</guid>
-      <pubDate>Wed, 21 Oct 2026 22:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>This article demonstrates how to use the Nix package manager to handle script dependencies on non-NixOS Linux distributions. By encapsulating Python and system dependencies like aplay within a Nix shell, users can ensure their scripts remain reliable and reproducible.</description>
-    </item>
-
-    <item>
-      <title>Working around a strange Python problem</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/pep-723/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/22/pep-723/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:12:10 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>The author encounters a mysterious Python error following a system-wide update. The issue is traced to multiple PEP 723 metadata blocks, highlighting the complexities of managing script dependencies and metadata standards.</description>
-    </item>
-
-    <item>
-      <title>How the eMudrha certificate debacle might have happened</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:01:55 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post examines the security failure at eMudrha, where extremely weak, predictable numbers were used as secret keys for certificates. It highlights the dangers of inadequate entropy in cryptographic systems and explains why such simple values are fundamentally insecure.</description>
-    </item>
-
-    <item>
-      <title>The number of points on an elliptic curve</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:08:51 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explains the mathematical definition of elliptic curves over finite fields, which are foundational to modern cryptography. It discusses how points on these curves are determined by the equation y² = x³ + ax + b and mentions the distribution of these points.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This piece uses satire to comment on the repetitive nature of technical failures and security vulnerabilities in specific programming languages. It highlights the recurring frustration of developers who consistently encounter the same systemic issues.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:34:36 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review evaluates the Mokin 17-port USB-C tower, a feature-heavy docking station. The author highlights the device's extensive connectivity options while expressing confusion over the inclusion of unnecessary features like an LCD weather display.</description>
     </item>
   </channel>
 </rss>

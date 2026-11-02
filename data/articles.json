@@ -1,6 +1,126 @@
 {
-  "last_updated": "2026-11-01T00:30:40.379Z",
+  "last_updated": "2026-11-02T01:05:05.769Z",
   "articles": [
+    {
+      "id": "a883eb358aca603f",
+      "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+      "url": "https://www.troyhunt.com/weekly-update-528/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-11-01T07:35:23.000Z",
+      "summary_en": "This update discusses the controversy surrounding Proton's recent engineering manifesto and the public backlash against its CEO's management style. The post critiques the leadership's approach to AI-generated code and organizational communication.",
+      "summary_zh": "本篇更新討論了 Proton 近期發佈的工程宣言所引發的爭議，以及大眾對該執行長管理風格的強烈反彈。文章對其在 AI 生成程式碼與組織溝通方面的領導方式提出了批評。",
+      "keywords": [
+        "Proton",
+        "AI",
+        "management",
+        "leadership",
+        "engineering manifesto"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique and commentary on organizational management and leadership style.",
+      "pacer_reason_zh": "內容針對組織管理與領導風格進行了概念性的評論與觀點分析。"
+    },
+    {
+      "id": "87dd3b372ac019d0",
+      "title": "A Mastodon bot powered by iOS Shortcuts",
+      "url": "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/",
+      "published": "2026-11-01T11:00:00.000Z",
+      "summary_en": "The author shares a method for running a Mastodon bot using iOS Shortcuts instead of a traditional server to save on maintenance and costs. By utilizing five interlinked shortcuts, the bot automatically posts quotes from 'The Legend of Zelda: Link’s Awakening' at specific intervals throughout the day.",
+      "summary_zh": "作者分享了一種使用 iOS 捷徑（Shortcuts）而非伺服器來運行 Mastodon 機器人的方法，以節省維護成本與支出。透過五個相互關聯的捷徑，該機器人能自動在全天特定時間發布《薩爾達傳說：織夢島》的語錄。",
+      "keywords": [
+        "Mastodon",
+        "iOS Shortcuts",
+        "Automation",
+        "Bot",
+        "Link's Awakening"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step approach to replacing server-side bot hosting with iOS Shortcuts.",
+      "pacer_reason_zh": "文章提供了一種實用的逐步教學，說明如何使用 iOS 捷徑取代伺服器端來託管機器人。"
+    },
+    {
+      "id": "db53b27de1c1b48f",
+      "title": "A unified view of poles and polars",
+      "url": "https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-01T20:29:54.000Z",
+      "summary_en": "This article provides a synthesis of various geometric concepts related to poles and polars, bridging the gap between spherical triangles and projective geometry. It serves as a cohesive overview of the author's previous explorations into these mathematical structures.",
+      "summary_zh": "本文整合了與極點和極線相關的幾何概念，並探討了球形三角形與投影幾何之間的關聯。文章針對作者先前關於這些數學結構的討論，提供了一個統一的觀點與總結。",
+      "keywords": [
+        "geometry",
+        "poles and polars",
+        "projective geometry",
+        "spherical triangle",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a high-level conceptual synthesis and theoretical overview of mathematical definitions rather than a step-by-step tutorial or raw data set.",
+      "pacer_reason_zh": "本文主要提供數學定義的高層次概念整合與理論概述，而非逐步教學或原始數據集。"
+    },
+    {
+      "id": "1176eef206c0ac76",
+      "title": "10 Years on Mastodon",
+      "url": "https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-01T12:34:18.000Z",
+      "summary_en": "Terence Eden reflects on his ten-year journey on Mastodon, contrasting the platform's longevity with the rapid decline of many other social networks. The post explores the sustainability of decentralized social media compared to typical short-lived digital services.",
+      "summary_zh": "Terence Eden 反思了他使用 Mastodon 十年的經歷，並將該平台的長久運作與許多短命的社群網路進行對比。文章探討了去中心化社群媒體相較於一般數位服務的永續性。",
+      "keywords": [
+        "Mastodon",
+        "social media",
+        "decentralization",
+        "digital longevity",
+        "reflection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a reflective piece discussing the nature and longevity of social media platforms.",
+      "pacer_reason_zh": "這篇文章屬於反思性質的內容，探討了社群媒體平台的本質與其生命週期。"
+    },
+    {
+      "id": "215d5e6ee0fa4f77",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-01T23:24:22.000Z",
+      "summary_en": "When encountering dependency errors while using Python 3.15 with the 'uv' package manager, deleting the 'uv.lock' file often resolves version incompatibility issues. This happens because stale lock files may pin dependencies to versions that do not yet support newer Python releases.",
+      "summary_zh": "當使用 Python 3.15 與 'uv' 套件管理工具遇到相依性錯誤時，刪除 'uv.lock' 檔案通常能解決版本不相容的問題。這是因為過期的鎖定檔案可能會將相依套件固定在尚未支援新版 Python 的舊版本上。",
+      "keywords": [
+        "python",
+        "uv",
+        "dependency",
+        "debugging",
+        "programming"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable step-by-step troubleshooting tip for resolving a common software dependency error.",
+      "pacer_reason_zh": "本文提供了一個具體且可操作的步驟，用於解決常見的軟體相依性錯誤。"
+    },
+    {
+      "id": "b72dc720cf78e393",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-01T16:49:04.000Z",
+      "summary_en": "Kyle Kingsbury highlights how LLMs undermine trust in software documentation and quality by making it easy to counterfeit signals of maturity. The post poses a critical question for developers on how to maintain and demonstrate software integrity in an era where AI-generated content can obscure authenticity.",
+      "summary_zh": "Kyle Kingsbury 指出大型語言模型（LLM）讓軟體成熟度的訊號變得容易偽造，進而削弱了用戶對軟體文件與品質的信任。文中提出了一個關鍵問題：在 AI 生成內容可能混淆真實性的時代，維護者該如何確保軟體正確性並向用戶證明其品質。",
+      "keywords": [
+        "LLM",
+        "軟體工程",
+        "信任危機",
+        "文件品質",
+        "人工智慧"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses the conceptual implications of LLMs on software reliability and the shifting landscape of professional trust.",
+      "pacer_reason_zh": "本文探討了大型語言模型對軟體可靠性的概念性影響，以及專業信任範疇的轉變。"
+    },
     {
       "id": "65812535c9e0c160",
       "title": "Reading List 10/31/26",
