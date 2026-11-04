@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-11-03T03:07:20.704Z",
+  "last_updated": "2026-11-04T01:44:54.997Z",
   "articles": [
+    {
+      "id": "3608ed6c487b7a81",
+      "title": "New Article, Annual LFP Charity Discount",
+      "url": "https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-11-03T18:06:44.000Z",
+      "summary_en": "The author announced a new article discussing the trade-offs between Deterministic Simulation Testing and Formal Methods. Additionally, they are hosting a charity drive for the Greater Chicago Food Depository, offering their 'Logic for Programmers' book at a 50% discount until the end of the month.",
+      "summary_zh": "作者宣布發布了一篇探討「確定性模擬測試」與「形式化方法」之間權衡的新文章。同時，作者也發起了一項慈善活動，即日起至本月底，「Logic for Programmers」電子書提供五折優惠，所有版稅將捐贈給大芝加哥食物銀行。",
+      "keywords": [
+        "Deterministic Simulation Testing",
+        "Formal Methods",
+        "Antithesis",
+        "Charity",
+        "Logic for Programmers"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on explaining conceptual trade-offs in software testing methodologies.",
+      "pacer_reason_zh": "內容主要在解釋軟體測試方法論中的概念性權衡。"
+    },
+    {
+      "id": "620ebfce1104a76b",
+      "title": "Runs scored in World Baseball Classic",
+      "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-11-02T23:00:00.000Z",
+      "summary_en": "The author shares their methodology for accurately predicting the total number of runs in the 2026 World Baseball Classic knockout stage. By comparing a simple baseline guess with granular count modeling techniques, the article illustrates a statistical approach to sports forecasting.",
+      "summary_zh": "作者分享了預測 2026 年世界棒球經典賽淘汰賽總得分的統計方法。透過比較簡單的基準猜測與更細緻的計數建模技術，文章展示了一種運動預測的分析流程。",
+      "keywords": [
+        "sports prediction",
+        "statistics",
+        "World Baseball Classic",
+        "modeling",
+        "data analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on the experimental application of statistical modeling to a real-world sports event and evaluates the prediction against actual data.",
+      "pacer_reason_zh": "文章重點在於將統計建模實驗性地應用於現實體育賽事，並透過實際數據評估預測結果。"
+    },
+    {
+      "id": "1c3dde34e72ac49f",
+      "title": "Pumpkin Seeds",
+      "url": "https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-11-03T02:49:10.000Z",
+      "summary_en": "This post explores the cultural fascination with Halloween, focusing on the enduring popularity of cryptids like the Mothman. It reflects on how monsters remain a staple of seasonal pop culture through various media and storytelling traditions.",
+      "summary_zh": "這篇文章探討了人們對萬聖節文化的著迷，並聚焦於天蛾人（Mothman）等神秘生物的持久影響力。內容回顧了各類怪物如何透過媒體和敘事傳統，成為萬聖節流行文化中不可或缺的一部分。",
+      "keywords": [
+        "Halloween",
+        "Cryptids",
+        "Pop Culture",
+        "Mothman",
+        "Monsters"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual overview of the cultural significance and history of Halloween-themed monsters and cryptids.",
+      "pacer_reason_zh": "本文提供關於萬聖節主題怪物與神秘生物的文化意義與歷史概況，屬於概念性內容。"
+    },
+    {
+      "id": "e97832c0fc5e2d39",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "source": "Rakhim's blog",
+      "source_url": "https://rakhim.exotext.com/",
+      "published": "2026-11-03T00:00:00.000Z",
+      "summary_en": "The author challenges the narrative that tech companies have omniscient knowledge of their users, providing personal anecdotes where algorithms fail to deliver relevant ads or recognize simple behavioral patterns. These experiences highlight significant flaws in current data collection and personalization efforts, suggesting that big data remains surprisingly ineffective.",
+      "summary_zh": "作者挑戰了科技公司對用戶無所不知的說法，透過個人經驗指出目前的演算法在投放廣告和識別用戶喜好上顯得笨拙且無效。這些案例揭示了現今大數據技術在精準度上的重大缺陷，與大眾對其「監控」能力的恐懼形成鮮明對比。",
+      "keywords": [
+        "Privacy",
+        "Big Data",
+        "Algorithms",
+        "Tech Criticism",
+        "User Experience"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses personal anecdotal evidence to challenge the prevailing belief regarding the accuracy and effectiveness of surveillance-based data collection.",
+      "pacer_reason_zh": "文章透過個人的案例實證，挑戰了當前大眾對於數據收集精準度與效果的普遍認知。"
+    },
+    {
+      "id": "27a7047c914ec595",
+      "title": "Fraction comparison trick revisited",
+      "url": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-03T14:41:25.000Z",
+      "summary_en": "This article examines a mathematical curiosity regarding fraction comparisons, where the inequality a/b > c/d is often implied by the condition a + d > b + c. The author discusses the rigorous probabilistic proof for this phenomenon by evaluating the limit as the range of chosen integers approaches infinity.",
+      "summary_zh": "本文探討了一個關於分數比較的數學趣題，即當 a + d > b + c 時，a/b 通常大於 c/d。作者透過機率論的角度，在整數範圍趨近無窮大時，對此現象的數學規律進行了嚴謹的推導與分析。",
+      "keywords": [
+        "mathematics",
+        "fractions",
+        "probability",
+        "number theory",
+        "inequality"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a mathematical concept and its underlying probabilistic theory rather than providing a tutorial or reference list.",
+      "pacer_reason_zh": "本文主要解釋數學概念及其背後的機率理論，而非教學步驟或參考清單。"
+    },
+    {
+      "id": "574e09b229c13b9e",
+      "title": "Euclidean, Spherical, and Projective Geometry",
+      "url": "https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-03T12:33:10.000Z",
+      "summary_en": "This article explores the relationships between Euclidean, spherical, and projective geometries by revisiting the foundational postulates of Euclid. It highlights how these distinct geometric systems are interconnected despite their perceived differences in tangibility and complexity.",
+      "summary_zh": "本文透過回顧歐幾里得的五大公設，探討了歐幾里得幾何、球面幾何與射影幾何之間的關聯。文章闡述了儘管這些幾何系統在直觀感受與複雜度上存在差異，它們在數學本質上卻緊密相連。",
+      "keywords": [
+        "Euclidean geometry",
+        "Spherical geometry",
+        "Projective geometry",
+        "Non-Euclidean geometry",
+        "Mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical relationships and conceptual foundations connecting different types of geometry.",
+      "pacer_reason_zh": "本文旨在解釋不同幾何學類型之間的理論關聯與概念基礎。"
+    },
+    {
+      "id": "7a16caccdfbc8b33",
+      "title": "How a programming might reinvent the projective plane",
+      "url": "https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-03T10:45:19.000Z",
+      "summary_en": "This post explores how practical programming techniques used by graphics developers can lead to a rigorous mathematical definition of the projective plane. It discusses the process of adding 'points at infinity' to the Euclidean plane to resolve geometric intersections.",
+      "summary_zh": "本文探討圖形程式設計師的技術如何為射影平面提供嚴謹的數學定義。文章解釋了透過在歐幾里得平面中加入「無窮遠點」，以解決幾何交點的特殊情況。",
+      "keywords": [
+        "projective plane",
+        "geometry",
+        "programming",
+        "mathematics",
+        "Euclidean plane"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the conceptual connection between programming hacks and mathematical definitions of the projective plane.",
+      "pacer_reason_zh": "文章解釋了程式設計技巧與射影平面數學定義之間的觀念聯繫。"
+    },
+    {
+      "id": "57d58d99bf7430f9",
+      "title": "How do you implement a random-access database when you don’t have random-access external storage?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-03T15:00:00.000Z",
+      "summary_en": "This post provides a concise solution for implementing a random-access database in environments lacking random-access external storage. The author suggests storing the entire database directly in the application's memory.",
+      "summary_zh": "這篇文章針對在缺乏隨機存取外部儲存設備的環境下，如何實作隨機存取資料庫提出了簡潔的解決方案。作者建議將整個資料庫直接儲存在應用程式的記憶體中。",
+      "keywords": [
+        "database",
+        "random-access",
+        "memory",
+        "storage",
+        "implementation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content acts as a practical 'how-to' solution or implementation guide for a specific technical constraint.",
+      "pacer_reason_zh": "內容提供了針對特定技術限制的實作建議，屬於典型的操作指南。"
+    },
+    {
+      "id": "92fd20533f79da7f",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-03T12:34:31.000Z",
+      "summary_en": "The author advocates for active public pushback against poor or unethical implementations of AI, exemplified by the 'AI Resist List'. The post highlights the importance of holding organizations accountable for negative AI-driven practices through direct engagement and feedback.",
+      "summary_zh": "作者提倡針對品質低劣或不道德的 AI 應用進行公開的抵制與反饋，並以「AI 抵制清單」作為實踐範例。文中強調透過直接聯繫並監督組織，能有效改善 AI 技術在實際應用中的負面影響。",
+      "keywords": [
+        "AI ethics",
+        "AI resistance",
+        "accountability",
+        "digital advocacy",
+        "tech criticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the concept of institutional accountability and the philosophy of resisting poor AI deployment.",
+      "pacer_reason_zh": "本文旨在探討針對機構問責的概念，以及對於不良 AI 部署採取抵制行動的理念。"
+    },
+    {
+      "id": "a6a6e966b526ed85",
+      "title": "Pluralistic: Separable (03 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/03/nobody-is-home/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-03T14:19:29.000Z",
+      "summary_en": "Cory Doctorow reflects on the historical 'Edison Tone Tests' to illustrate how AI decouples creative outputs from their human origins. He argues that our brains are conditioned to assume a performer exists behind every performance, a bias now being exploited by generative technology.",
+      "summary_zh": "科里·多克托羅透過回顧歷史上的「愛迪生音調測試」，探討了人工智慧如何將創作內容與創作者分離。他認為，人類大腦習慣性地假定表演背後必有表演者，這種認知偏誤正被生成式技術所利用。",
+      "keywords": [
+        "AI",
+        "Cory Doctorow",
+        "Edison Tone Test",
+        "technology",
+        "cognition"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the historical Edison Tone Test as an analogy to explain the modern psychological implications of generative AI.",
+      "pacer_reason_zh": "本文以歷史上的愛迪生音調測試作為類比，用以解釋現代生成式 AI 對人類心理認知的影響。"
+    },
+    {
+      "id": "f1a111e72742f0df",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-03T16:29:48.000Z",
+      "summary_en": "The article discusses 'Weight-Space Programming,' a new capability where LLMs can interpret and directly modify the raw numerical weights of other neural networks. The author demonstrates that even local models like Qwen 27B can perform these tasks, effectively improving performance without traditional gradient-based training.",
+      "summary_zh": "本文探討了「權重空間程式設計」（Weight-Space Programming），即大型語言模型能直接理解並修改其他神經網路的原始權重。作者展示了即使是本地運行的 Qwen 27B 模型，也能在無需傳統梯度訓練的情況下，透過直接調整權重來提升模型效能。",
+      "keywords": [
+        "Weight-Space Programming",
+        "LLM",
+        "Qwen",
+        "Neural Network Weights",
+        "AI Research"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post evaluates the findings of a research paper and provides empirical evidence by testing the capabilities on a local model.",
+      "pacer_reason_zh": "該文章評估了一篇研究論文的發現，並透過在本地模型上進行實測來提供經驗性證據。"
+    },
+    {
+      "id": "dcf65f4aed7f78c1",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-03T05:32:25.000Z",
+      "summary_en": "This article highlights an innovative OSINT technique that uses ambient airplane engine noise in video recordings to pinpoint a precise location. By analyzing Doppler frequency shifts and cross-referencing them with ADS-B flight data, investigators can track flight paths to geolocate video sources.",
+      "summary_zh": "本文介紹了一種創新的開源情報（OSINT）技術，利用影片背景中的飛機引擎噪音來鎖定拍攝地點。透過分析都卜勒頻移並與 ADS-B 航空數據交叉比對，研究人員能推算飛機軌跡進而精確定位影片來源。",
+      "keywords": [
+        "OSINT",
+        "privacy",
+        "geolocation",
+        "ADS-B",
+        "Doppler effect"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content serves as a case study demonstrating a specific investigative method and experimental technique for geolocation.",
+      "pacer_reason_zh": "本文作為一個案例研究，展示了特定地理定位的調查方法與實證技術。"
+    },
+    {
+      "id": "de959bab941149a9",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-03T05:28:59.000Z",
+      "summary_en": "Simon Willison announces his October newsletter for GitHub sponsors, covering topics such as game development trends, cybersecurity vulnerabilities, and LLM updates. The post serves as a gateway for existing and new sponsors to access private content while providing a preview of the previous month's issue.",
+      "summary_zh": "Simon Willison 發布了其十月份的 GitHub 贊助者專屬電子報，內容涵蓋遊戲開發趨勢、資安漏洞及大型語言模型 (LLM) 更新。本文旨在引導贊助者獲取專屬內容，並提供上月電子報作為預覽參考。",
+      "keywords": [
+        "newsletter",
+        "sponsorship",
+        "LLM",
+        "cybersecurity",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post acts as a reference point and announcement for a recurring newsletter, providing links to access specific content.",
+      "pacer_reason_zh": "本文作為定期電子報的參考點與公告，提供存取特定內容的連結。"
+    },
     {
       "id": "f4dce6228f169cd0",
       "title": "Pray for Chaos",
