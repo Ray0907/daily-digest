@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-11-04T01:44:54.997Z",
+  "last_updated": "2026-11-05T01:52:36.803Z",
   "articles": [
+    {
+      "id": "4cc0823ef045658b",
+      "title": "“It Gives Great Demo”",
+      "url": "https://blog.jim-nielsen.com/2026/it-gives-great-demo/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-11-04T19:00:00.000Z",
+      "summary_en": "The article explores the concept of 'it gives great demo,' highlighting how some products or individuals excel at initial presentation while failing in long-term practical utility. It argues that while flashy features capture attention, truly great products eventually become invisible through seamless integration.",
+      "summary_zh": "這篇文章探討了「展示效果極佳」(It gives great demo) 的現象，指出許多產品或個人在初次演示時表現亮眼，但在長期實際使用中卻顯得笨拙。作者認為，雖然炫目的功能能吸引注意，但真正優秀的產品往往能透過無縫整合而變得讓人忘記其存在。",
+      "keywords": [
+        "Steve Jobs",
+        "product design",
+        "user experience",
+        "demo",
+        "UX"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual difference between impressive presentations and practical, long-term product utility.",
+      "pacer_reason_zh": "本文探討了「令人印象深刻的展示」與「長期實際產品效用」之間的觀念差異。"
+    },
+    {
+      "id": "0b0ccf54ecf2299d",
+      "title": "This Week in Source Control: 4 November 2026",
+      "url": "https://nesbitt.io/2026/11/04/this-week-in-source-control.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-04T10:00:00.000Z",
+      "summary_en": "This post provides a weekly digest of developments in version control, specifically focusing on OpenAI's implementation of Pando to scale their Git monorepo. It also compares design approaches for massive repositories, contrasting OpenAI's infrastructure with discussions surrounding Anthropic's Scion and Databricks' Mononoke.",
+      "summary_zh": "本文彙整了版本控制領域的最新動態，重點介紹 OpenAI 如何透過 Pando 系統擴展其 Git 單體儲存庫。此外，文中也比較了處理大規模儲存庫的架構設計，分析了 Anthropic 的 Scion 與 Databricks 的 Mononoke 等系統的技術細節。",
+      "keywords": [
+        "Git",
+        "Version Control",
+        "Monorepo",
+        "OpenAI",
+        "Pando"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an industry digest providing data-backed reports on engineering case studies like OpenAI's Git scaling.",
+      "pacer_reason_zh": "本文屬於產業新聞摘要，提供了如 OpenAI Git 擴展工程案例等實證數據與技術報告。"
+    },
+    {
+      "id": "cc85db3d9e980656",
+      "title": "There are things with ranks, but it’s not always clear what the ranks mean",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-04T15:00:00.000Z",
+      "summary_en": "This post highlights the common pitfall in technical documentation where experts assume too much prior knowledge from the reader. It emphasizes the need for clarity and context when explaining features that involve ranking systems.",
+      "summary_zh": "本文探討了由過於了解功能的人員編寫技術文件時常見的問題，即容易忽略讀者的知識背景。作者強調在解釋涉及排名系統的功能時，應提供更清晰的說明與背景資訊。",
+      "keywords": [
+        "documentation",
+        "technical writing",
+        "UX",
+        "usability",
+        "software development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses a conceptual problem in communication and documentation standards rather than a specific guide or dataset.",
+      "pacer_reason_zh": "本文探討的是溝通與文件編寫標準中的概念性問題，而非教學指南或數據報告。"
+    },
+    {
+      "id": "02433251e2fcc2f0",
+      "title": "Book Review: Practice by Rosalind Brown ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-04T12:34:07.000Z",
+      "summary_en": "Terence Eden reviews Rosalind Brown's book 'Practice', a day-in-the-life narrative that he describes as a stunning and Proustian experience. He maintains a personal policy of purchasing books written by people he meets, which has led him to discover this delightful work.",
+      "summary_zh": "Terence Eden 分享了對 Rosalind Brown 著作《Practice》的書評，稱讚這部描繪女性日常生活的小說具有優美的普魯斯特風格。作者分享了他購買新結識作家作品的習慣，並對這本書給予了高度評價。",
+      "keywords": [
+        "book review",
+        "literature",
+        "reading",
+        "Terence Eden",
+        "Rosalind Brown"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a subjective literary review and reflection on a book, focusing on the quality and themes of the prose.",
+      "pacer_reason_zh": "本文屬於文學評論與讀後感，重點在於分享對書籍內容與文風的主觀見解與評價。"
+    },
+    {
+      "id": "b14fbee3a15912ca",
+      "title": "Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/04/genius-scan-is-neither/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-04T11:45:02.000Z",
+      "summary_en": "Cory Doctorow critiques the current trend of tech companies forcing AI features into user interfaces, labeling it the 'AI fatfinger economy.' He argues this UI manipulation is a continuation of past corporate tactics used to inflate valuation for investors at the expense of user experience.",
+      "summary_zh": "科里·多克托羅（Cory Doctorow）批判了科技公司強制將 AI 功能整合進用戶介面的趨勢，稱之為「AI 胖手指經濟」。他認為這種操作手法是過去企業為了向投資者誇大市值，不惜犧牲用戶體驗的一貫策略之延續。",
+      "keywords": [
+        "AI",
+        "UI design",
+        "tech industry",
+        "corporate strategy",
+        "user experience"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of corporate AI implementation strategies and their impact on user interface design.",
+      "pacer_reason_zh": "本文對企業實施人工智慧的策略及其對使用者介面設計的影響提供了概念性的批判分析。"
+    },
+    {
+      "id": "afac48785cfe7e75",
+      "title": "Goodhart's Law, but We Already Spent All Our Money ",
+      "url": "https://idiallo.com/blog/we-spent-all-our-money-goodharts-law",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-11-04T08:00:00.000Z",
+      "summary_en": "The article critiques how modern industries, including sports, video games, and AI, are exclusively valued by their monetary output rather than their inherent quality or community impact. It applies Goodhart's Law to explain that using financial metrics as targets leads to distorted outcomes, such as the current trend of over-investing in AI to project success.",
+      "summary_zh": "本文批評現代產業（如體育、電玩及AI）僅以金錢收益作為價值衡量標準，忽略了事物的內在品質與社會連結。作者引用「古德哈特定律」（Goodhart's Law），指出將財務指標設為唯一目標會導致市場扭曲，這點在當前AI產業過度投資與估值虛高的現象中尤為明顯。",
+      "keywords": [
+        "Goodhart's Law",
+        "AI",
+        "valuation",
+        "metrics",
+        "economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual exploration of how Goodhart's Law explains the distortion of value in modern industries.",
+      "pacer_reason_zh": "本文透過概念探討，解釋了古德哈特定律如何導致現代產業價值衡量標準的扭曲。"
+    },
+    {
+      "id": "6b1c4708310c50a0",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-04T15:26:02.000Z",
+      "summary_en": "Simon Willison has released version 0.1a10 of datasette-llm. This update specifically fixes a bug that incorrectly handled model restriction settings on the agent.datasette.io demo site.",
+      "summary_zh": "Simon Willison 發布了 datasette-llm 0.1a10 版本。此更新修復了一個影響 agent.datasette.io 演示站點的錯誤，該錯誤導致無法正確限制可用的大型語言模型配置。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "software update",
+        "bug fix",
+        "python"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a release note and reference for a software update.",
+      "pacer_reason_zh": "內容為軟體更新發布說明，屬於參考性質資料。"
+    },
+    {
+      "id": "8265b69742e725ba",
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-04T00:29:36.000Z",
+      "summary_en": "Datasette Apps 0.3a0 introduces enhanced integration with Datasette Agent, allowing users to create and manage custom HTML applications directly via chat. The update features improved autocomplete for app references and new tools for managing stored queries with mandatory user approval for write operations.",
+      "summary_zh": "Datasette Apps 0.3a0 強化了與 Datasette Agent 的整合，讓使用者能直接透過對話建立與管理自訂 HTML 應用程式。此次更新新增了應用程式自動補全功能，並引入新的工具來管理儲存查詢，同時確保寫入操作必須經過使用者授權。",
+      "keywords": [
+        "Datasette",
+        "Datasette Apps",
+        "Datasette Agent",
+        "LLM",
+        "Data Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is a software release announcement that describes new features and functional updates to an existing tool, serving as a functional update guide.",
+      "pacer_reason_zh": "這是一則軟體更新公告，詳細介紹了現有工具的新功能與改進，屬於功能性說明指南。"
+    },
+    {
+      "id": "abbb96cf14716a16",
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-03T23:13:45.000Z",
+      "summary_en": "Datasette Agent 0.5a0 introduces a new 'panel' feature that allows users to chat with an AI agent alongside their data-driven applications. This release enables users to build and modify database-backed apps directly through a split-screen interface.",
+      "summary_zh": "Datasette Agent 0.5a0 推出了全新的「面板」功能，允許使用者在瀏覽數據驅動應用程式的同時，透過側邊欄與 AI 代理進行對話。此版本讓使用者能直接透過聊天界面創建並修改資料庫驅動的應用程式。",
+      "keywords": [
+        "Datasette",
+        "AI Agent",
+        "Database",
+        "Software Release",
+        "Web Development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a software release and describes how to use the new features within the tool.",
+      "pacer_reason_zh": "這篇文章發布了軟體更新，並說明了如何使用該工具中的新功能。"
+    },
+    {
+      "id": "aac81467646f1d03",
+      "title": "llm 0.37.1",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-03T21:41:42.000Z",
+      "summary_en": "Simon Willison has released version 0.37.1 of the LLM command-line utility. This update serves as a bugfix release and includes contributions from several community developers.",
+      "summary_zh": "Simon Willison 發布了 LLM 指令列工具的 0.37.1 版本。此更新為錯誤修復版本，並包含了多位社群開發者的貢獻。",
+      "keywords": [
+        "LLM",
+        "software update",
+        "bugfix",
+        "command-line",
+        "Simon Willison"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a release note and technical reference for a software version update.",
+      "pacer_reason_zh": "該文章為軟體版本更新的發布說明，屬於技術參考資料。"
+    },
     {
       "id": "3608ed6c487b7a81",
       "title": "New Article, Annual LFP Charity Discount",
