@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-11-06T01:51:41.181Z",
+  "last_updated": "2026-11-07T01:21:38.694Z",
   "articles": [
+    {
+      "id": "93e953706007dcf4",
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-11-06T15:34:48.000Z",
+      "summary_en": "This article explores the history and development of the seminal video game Deus Ex, focusing on the contributions of Warren Spector and writer Sheldon Pacotti. It examines the critical reception of the game upon its 2000 release and its lasting influence on the industry.",
+      "summary_zh": "本文探討了經典電子遊戲《Deus Ex》的歷史與開發過程，重點介紹了 Warren Spector 和編劇 Sheldon Pacotti 的貢獻。文章回顧了該遊戲於 2000 年發布時的評論界反響，及其對遊戲產業的深遠影響。",
+      "keywords": [
+        "Deus Ex",
+        "Warren Spector",
+        "Ion Storm",
+        "Game History",
+        "Sheldon Pacotti"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a historical overview providing an explanation and narrative account of a specific subject's development.",
+      "pacer_reason_zh": "本文屬於歷史概覽，旨在解釋並敘述特定主題的發展歷程。"
+    },
+    {
+      "id": "3e38e7e4b34f1afd",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-06T13:01:35.000Z",
+      "summary_en": "This article examines the relationship between building regulations and housing costs. It analyzes how regulatory burdens contribute to the ongoing challenge of rising home prices.",
+      "summary_zh": "本文探討了建築法規與住房成本之間的關聯。文章分析了監管負擔如何影響房價，並探討其在當前高房價問題中所扮演的角色。",
+      "keywords": [
+        "housing prices",
+        "building codes",
+        "construction",
+        "regulation",
+        "economics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual link between regulatory frameworks and market housing prices.",
+      "pacer_reason_zh": "本文旨在解釋法規框架與市場房價之間的觀念性連結。"
+    },
+    {
+      "id": "871932f01cb5c681",
+      "title": "Weekend at Bernie’s II",
+      "url": "https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-06T10:00:00.000Z",
+      "summary_en": "This article analyzes the revitalization of dormant software repositories six months after the author's previous study. It highlights how AI coding agents are increasingly contributing to repository activity, though overall ecosystem health metrics remain relatively stable.",
+      "summary_zh": "本文分析了作者前次研究六個月後，軟體儲存庫復甦的情況。文章指出 AI 程式編寫代理正逐漸影響儲存庫的活躍度，但整體的生態系統健康指標仍維持相對穩定。",
+      "keywords": [
+        "software repositories",
+        "AI agents",
+        "open source",
+        "developer activity",
+        "ecosystem analysis"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a data-driven analysis with specific benchmarks and statistics to track changes in repository status.",
+      "pacer_reason_zh": "文章提供了基於數據的分析，包含具體的基準測試與統計數據，用以追蹤儲存庫狀態的變化。"
+    },
+    {
+      "id": "c386630f8780ac9e",
+      "title": "Static site generators are weird",
+      "url": "https://evanhahn.com/static-site-generators-are-weird/",
+      "source": "Evan Hahn (dot com)",
+      "source_url": "https://evanhahn.com/",
+      "published": "2026-11-06T17:00:00.000Z",
+      "summary_en": "The author explores why static site generators (SSGs) often feel idiosyncratic and unique. Each tool requires users to learn specific, non-standard approaches to common tasks like templating and asset management, which the author describes as essential complexity rather than a flaw.",
+      "summary_zh": "作者探討了為何靜態網站產生器（SSG）通常讓人感到奇特且獨樹一格。每個工具都需要使用者學習特定的非標準方法來處理模板與資源管理等任務，作者認為這是必要的複雜性而非缺陷。",
+      "keywords": [
+        "SSG",
+        "static site generators",
+        "web development",
+        "Jekyll",
+        "Gatsby"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual argument about the inherent complexity and idiosyncratic nature of static site generator architectures.",
+      "pacer_reason_zh": "本文提出了一個關於靜態網站產生器架構中固有複雜性與獨特性的概念性論點。"
+    },
+    {
+      "id": "5aacc8baac10484e",
+      "title": "You shouldn’t change the style of a Win32 static control after it has been created",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-05T15:00:00.000Z",
+      "summary_en": "This post explains that modifying the style of a Win32 static control after its initial creation is unsupported. The underlying system does not properly handle dynamic style changes for these controls.",
+      "summary_zh": "本文指出不應在 Win32 靜態控制項建立後更改其樣式。底層系統並未針對此類動態樣式變更提供適當的處理機制。",
+      "keywords": [
+        "Win32",
+        "Static Control",
+        "Windows API",
+        "Programming",
+        "Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a technical limitation and conceptual behavior of the Win32 API.",
+      "pacer_reason_zh": "本文解釋了 Win32 API 的技術限制與概念性行為。"
+    },
+    {
+      "id": "3283891a5ef32136",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Mitchell Hashimoto",
+      "source_url": "https://mitchellh.com/",
+      "published": "2026-11-06T00:00:00.000Z",
+      "summary_en": "Libghostty 1.0 marks the release of the core terminal emulation library used by the Ghostty terminal emulator. This update provides a stable API for developers looking to integrate high-performance terminal rendering into their own projects.",
+      "summary_zh": "Libghostty 1.0 發布了 Ghostty 終端模擬器所使用的核心終端模擬程式庫。此版本為開發者提供了穩定的 API，便於將高效能的終端渲染功能整合至各類專案中。",
+      "keywords": [
+        "Libghostty",
+        "Ghostty",
+        "Terminal Emulator",
+        "Software Release",
+        "API"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The announcement serves as a reference for software versioning and technical availability.",
+      "pacer_reason_zh": "此公告作為軟體版本發布與技術可用性的參考資料。"
+    },
+    {
+      "id": "74c0e0e17f07f9af",
+      "title": "A video game which caused real world violence",
+      "url": "https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-06T12:34:34.000Z",
+      "summary_en": "The article explores the potential correlation between the rise of video games and the global decline in interpersonal violence. It suggests that keeping teenagers occupied with gaming may reduce their exposure to real-world environments where violent confrontations are more likely to occur.",
+      "summary_zh": "這篇文章探討了電子遊戲的普及與全球暴力犯罪率下降之間潛在的相關性。作者認為，讓青少年沈浸在遊戲中，可能減少了他們在現實世界中接觸引發暴力衝突情境的機會。",
+      "keywords": [
+        "video games",
+        "violence",
+        "correlation",
+        "social behavior",
+        "teenagers"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses an analogy/hypothesis to compare time spent gaming with real-world social interaction to explain a sociological trend.",
+      "pacer_reason_zh": "文章運用類比與假設，將遊戲時間與現實社交互動進行比較，試圖解釋社會現象。"
+    },
+    {
+      "id": "c3251d44f9581800",
+      "title": "Writing English is Solved ",
+      "url": "https://idiallo.com/byte-size/english-is-solved",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-11-06T08:00:00.000Z",
+      "summary_en": "The author challenges the claim that AI has 'solved' coding and writing, arguing that over-reliance on automated tools leads to lower quality and a loss of human authenticity. While AI can generate functional output, the author emphasizes that critical human oversight remains essential to avoid bugs and maintain genuine connection.",
+      "summary_zh": "作者挑戰了AI已經「解決」了程式設計與寫作的說法，認為過度依賴自動化工具會導致品質下降與缺乏人性。雖然AI能生成功能性內容，但作者強調人類的嚴謹審核仍是避免錯誤並維持真實感的關鍵。",
+      "keywords": [
+        "AI",
+        "Generative AI",
+        "Coding",
+        "Software Engineering",
+        "Authenticity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the conceptual debate surrounding AI's role in professional workflows and its limitations regarding quality and human perception.",
+      "pacer_reason_zh": "本文探討了AI在專業工作流程中的角色及其在品質與人類感知方面的侷限性，屬於概念性辯論。"
+    },
+    {
+      "id": "db8aad7567ee0d78",
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-06T17:13:12.000Z",
+      "summary_en": "Nilay Patel argues that current AI products fail to justify their significant social and economic costs. He asserts that the industry will only succeed once it produces genuinely useful tools that improve people's lives without relying on aggressive marketing or political lobbying.",
+      "summary_zh": "Nilay Patel 認為當前的 AI 產品無法證明其巨大的社會與經濟成本是合理的。他強調，除非科技公司能開發出真正改善生活、且無需依賴廣告宣傳或政治遊說的實用產品，否則 AI 行業將難以擺脫目前的困境。",
+      "keywords": [
+        "AI",
+        "Nilay Patel",
+        "Generative AI",
+        "Tech Ethics",
+        "Product Utility"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual critique and analysis of the current state and value proposition of the AI industry.",
+      "pacer_reason_zh": "內容提供了對 AI 行業現狀及其價值主張的概念性批判與分析。"
+    },
+    {
+      "id": "aedcdd730b4c7d44",
+      "title": "Working with designers",
+      "url": "https://seangoedecke.com/working-with-designers/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-07T00:00:00.000Z",
+      "summary_en": "This article explores best practices for collaborating effectively with designers in a professional setting. It highlights strategies for communication and workflow management to bridge the gap between engineering and design.",
+      "summary_zh": "本文探討了在專業環境中與設計師進行高效協作的最佳實踐。文中強調了溝通與工作流程管理策略，旨在縮小工程與設計之間的差距。",
+      "keywords": [
+        "design",
+        "collaboration",
+        "engineering",
+        "workflow",
+        "communication"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on professional conduct and methodological approaches to working with others, fitting the procedural category.",
+      "pacer_reason_zh": "本文側重於專業行為與協作的方法論，符合程序性（Procedural）類別。"
+    },
     {
       "id": "47970ec7c8c0ce63",
       "title": "The benchmark where AIs have to lie to win",
