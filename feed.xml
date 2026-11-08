@@ -4,8 +4,71 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 07 Nov 2026 01:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:57:12 GMT</lastBuildDate>
     
+    <item>
+      <title>Reading List 11/7/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-1172026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-1172026</guid>
+      <pubDate>Sat, 07 Nov 2026 13:23:36 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post provides a curated list of current events and industry trends covering diverse topics ranging from Florida property taxes to the manufacturing challenges of the Tesla Cybertruck. It highlights critical updates in infrastructure, climate policy, and technological shifts within the construction and tech sectors.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 7 November 2026</title>
+      <link>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 07 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This update highlights critical security vulnerabilities in Puppet (OpenVox), GitHub macOS runner images, and the APT package manager. It provides technical details on the exploits and outlines the necessary version patches to secure systems against remote code execution and package verification flaws.</description>
+    </item>
+
+    <item>
+      <title>Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</guid>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post explains why suspending all threads is insufficient for hot-patching. It highlights that while current threads can be stopped, new sources of change can still emerge, requiring more robust atomicity strategies.</description>
+    </item>
+
+    <item>
+      <title>Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:34:34 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review explores Lucy Easthope's book, 'When the Dust Settles,' which blends professional insights on disaster planning with raw, personal memoir. The reviewer concludes that the author's integration of her own life experiences is essential to understanding the human impact of managing disasters.</description>
+    </item>
+
+    <item>
+      <title>A bit about email</title>
+      <link>https://maurycyz.com/misc/email/</link>
+      <guid>https://maurycyz.com/misc/email/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://maurycyz.com/">Maurycy's Blog</source>
+      <description>This article provides an accessible overview of the email delivery process, covering the roles of MTAs, MSAs, and MUAs. It also explains the historical context of email architecture and demonstrates how the SMTP protocol functions using manual telnet commands.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: JS Tan and Clarissa Redwine's &quot;Against Tech Oligarchy&quot; (07 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
+      <guid>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</guid>
+      <pubDate>Sat, 07 Nov 2026 13:03:46 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post highlights JS Tan and Clarissa Redwine's book, 'Against Tech Oligarchy,' which examines the history and future of labor organizing within the tech industry. It explores how tech workers transitioned from positions of immense leverage due to scarcity and high value to facing modern challenges in collective bargaining.</description>
+    </item>
+
+    <item>
+      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
+      <guid>https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
+      <pubDate>Sat, 07 Nov 2026 23:57:46 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison identifies that Datasette's use of 'link: rel=next' HTTP headers triggers unnecessary page prefetching in Firefox, wasting server and client resources. He traces this behavior back to a longstanding Firefox issue, humorously noting he even blogged about the same problem over 20 years ago.</description>
+    </item>
+
     <item>
       <title>Deus Ex</title>
       <link>https://www.filfre.net/2026/11/deus-ex/</link>
@@ -841,69 +904,6 @@
       <pubDate>Tue, 27 Oct 2026 14:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
       <description>This post explains why assigning high priority to system components like the taskbar and Task Manager does not necessarily improve responsiveness. It highlights that system performance is often limited by dependencies and waiting for resources rather than just CPU scheduling.</description>
-    </item>
-
-    <item>
-      <title>Psychometrics, vaccines, meat, Kowloon, luggage destruction</title>
-      <link>https://dynomight.net/shorts-8/</link>
-      <guid>https://dynomight.net/shorts-8/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://dynomight.net/">DYNOMIGHT</source>
-      <description>This post reviews a scholarly paper evaluating the psychometric reliability of a 'Dynomight' version of the MBTI, showing high correlation with the original test. Additionally, it touches on the regulatory hurdles and bioethical controversies surrounding yeast-based vaccine self-experimentation.</description>
-    </item>
-
-    <item>
-      <title>Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</link>
-      <guid>https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</guid>
-      <pubDate>Wed, 28 Oct 2026 12:34:54 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review evaluates the SoundPEATS CC3 Pro Bluetooth headphones, focusing on their unique 'clip-on' design. The author praises the device's exceptional comfort, noting that they can be worn all day without irritation.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Agents vs ecommerce (28 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/28/principle-agent-problem/</link>
-      <guid>https://pluralistic.net/2026/10/28/principle-agent-problem/</guid>
-      <pubDate>Wed, 28 Oct 2026 10:54:05 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow critiques the concept of 'agentic AI' in e-commerce, drawing parallels to his 2001 essay 'Metacrap' regarding the failures of the Semantic Web. He argues that the complexity of autonomous agents often clashes with the reality of proprietary web structures and conflicting incentives.</description>
-    </item>
-
-    <item>
-      <title>Quoting Ted Sanders</title>
-      <link>https://simonwillison.net/2026/Oct/28/ted-sanders/</link>
-      <guid>https://simonwillison.net/2026/Oct/28/ted-sanders/</guid>
-      <pubDate>Wed, 28 Oct 2026 23:23:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights insights from Ted Sanders on LLM performance and OpenAI's versioning strategy. It explains that while performance is multidimensional, model size remains the primary predictor of capabilities, and version numbers reflect release sequences rather than just incremental progress.</description>
-    </item>
-
-    <item>
-      <title>GitHub Octoverse 2026</title>
-      <link>https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</link>
-      <guid>https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:45:23 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The 2026 GitHub Octoverse report highlights a massive surge in developer productivity, specifically noting that merged pull requests and commits have tripled. These record-breaking figures are attributed to the growing influence of agentic engineering and automated development tools.</description>
-    </item>
-
-    <item>
-      <title>The October inflection point for vibe game development</title>
-      <link>https://simonwillison.net/2026/Oct/28/vibe-game-development/</link>
-      <guid>https://simonwillison.net/2026/Oct/28/vibe-game-development/</guid>
-      <pubDate>Wed, 28 Oct 2026 13:55:15 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The author identifies October 2026 as a major inflection point for 'vibe game development,' where advancements in AI models like Claude Opus 5.5 enable more sophisticated creation of 3D assets, music, and game design. By showcasing several successful experimental projects, the post argues that AI has evolved from producing superficial visuals to becoming a capable partner in actual game development.</description>
-    </item>
-
-    <item>
-      <title>Quoting Terk Terkowitz</title>
-      <link>https://simonwillison.net/2026/Oct/28/terk-terkowitz/</link>
-      <guid>https://simonwillison.net/2026/Oct/28/terk-terkowitz/</guid>
-      <pubDate>Wed, 28 Oct 2026 10:09:07 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Amazon's engineering leadership emphasizes that not every task benefits from AI, and identifying these limitations is a sign of good professional judgment. Engineers are encouraged to document where AI falls short and share these findings to help improve workflows.</description>
     </item>
   </channel>
 </rss>

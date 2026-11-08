@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-11-07T01:21:38.694Z",
+  "last_updated": "2026-11-08T00:57:12.207Z",
   "articles": [
+    {
+      "id": "c6a114db2a0406b9",
+      "title": "Reading List 11/7/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-1172026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-07T13:23:36.000Z",
+      "summary_en": "This post provides a curated list of current events and industry trends covering diverse topics ranging from Florida property taxes to the manufacturing challenges of the Tesla Cybertruck. It highlights critical updates in infrastructure, climate policy, and technological shifts within the construction and tech sectors.",
+      "summary_zh": "本篇貼文整理了當前產業動態，涵蓋佛羅里達州房產稅調整、PCB 供應短缺、Tesla Cybertruck 的生產現況以及碳儲存技術的進展等議題。內容廣泛概述了建築與科技領域的關鍵趨勢與時事更新。",
+      "keywords": [
+        "Construction",
+        "Policy",
+        "Technology",
+        "Industry Trends",
+        "Infrastructure"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of various news items and topics for reference purposes.",
+      "pacer_reason_zh": "本文屬於新聞與議題的整理清單，適合作為參考資訊。"
+    },
+    {
+      "id": "0cd8b97ef0cf753f",
+      "title": "This Week in Package Management: 7 November 2026",
+      "url": "https://nesbitt.io/2026/11/07/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-07T10:00:00.000Z",
+      "summary_en": "This update highlights critical security vulnerabilities in Puppet (OpenVox), GitHub macOS runner images, and the APT package manager. It provides technical details on the exploits and outlines the necessary version patches to secure systems against remote code execution and package verification flaws.",
+      "summary_zh": "本期摘要重點報導了 Puppet (OpenVox)、GitHub macOS 執行器映像檔以及 APT 套件管理器的重大安全漏洞。內容詳細說明了漏洞攻擊原理，並列出必要的版本更新以防止遠端程式碼執行及套件驗證繞過等風險。",
+      "keywords": [
+        "package management",
+        "security",
+        "vulnerabilities",
+        "OpenVox",
+        "APT"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a curated news digest and reference list for security updates and patches in package management software.",
+      "pacer_reason_zh": "本文作為套件管理軟體安全更新與修補程式的精選新聞摘要與參考清單。"
+    },
+    {
+      "id": "095ca6b274b84c8c",
+      "title": "Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-06T15:00:00.000Z",
+      "summary_en": "This post explains why suspending all threads is insufficient for hot-patching. It highlights that while current threads can be stopped, new sources of change can still emerge, requiring more robust atomicity strategies.",
+      "summary_zh": "本文探討了為什麼僅暫停所有執行緒不足以進行熱修補。文中指出，儘管可以停止當前的執行緒，但仍會有新的變更來源產生，因此需要更強健的原子性策略。",
+      "keywords": [
+        "atomicity",
+        "hot-patching",
+        "multithreading",
+        "software development",
+        "concurrency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual limitation of a specific concurrency approach.",
+      "pacer_reason_zh": "本文解釋了特定併發方法在概念上的局限性。"
+    },
+    {
+      "id": "607aeb38e8a4eef3",
+      "title": "Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-07T12:34:34.000Z",
+      "summary_en": "This review explores Lucy Easthope's book, 'When the Dust Settles,' which blends professional insights on disaster planning with raw, personal memoir. The reviewer concludes that the author's integration of her own life experiences is essential to understanding the human impact of managing disasters.",
+      "summary_zh": "這篇書評探討了露西·伊斯特霍普（Lucy Easthope）的著作《當塵埃落定》（When the Dust Settles），該書將專業的災難規劃與真實的個人回憶錄交織在一起。評論者認為，作者將自身生活經歷融入書中，對於理解災難管理中不可或缺的人文面向至關重要。",
+      "keywords": [
+        "book review",
+        "disaster planning",
+        "memoir",
+        "Lucy Easthope",
+        "human impact"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of a book, explaining the thematic importance of combining personal narrative with professional disaster management.",
+      "pacer_reason_zh": "該內容對書籍進行了概念性分析，解釋了將個人敘事與專業災難管理結合的議題重要性。"
+    },
+    {
+      "id": "bd09dc2284c2f99c",
+      "title": "A bit about email",
+      "url": "https://maurycyz.com/misc/email/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-11-06T00:00:00.000Z",
+      "summary_en": "This article provides an accessible overview of the email delivery process, covering the roles of MTAs, MSAs, and MUAs. It also explains the historical context of email architecture and demonstrates how the SMTP protocol functions using manual telnet commands.",
+      "summary_zh": "本文淺顯易懂地介紹了電子郵件的傳輸流程，涵蓋了 MTA、MSA 和 MUA 的角色與功能。作者並探討了電子郵件架構的歷史背景，同時透過 telnet 指令示範了 SMTP 協定的實際運作方式。",
+      "keywords": [
+        "email",
+        "SMTP",
+        "MTA",
+        "network protocols",
+        "internet infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the conceptual framework and operational flow of how email systems function.",
+      "pacer_reason_zh": "本文側重於解釋電子郵件系統運作的概念架構與流程。"
+    },
+    {
+      "id": "65375728d8516a42",
+      "title": "Pluralistic: JS Tan and Clarissa Redwine's \"Against Tech Oligarchy\" (07 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-07T13:03:46.000Z",
+      "summary_en": "This post highlights JS Tan and Clarissa Redwine's book, 'Against Tech Oligarchy,' which examines the history and future of labor organizing within the tech industry. It explores how tech workers transitioned from positions of immense leverage due to scarcity and high value to facing modern challenges in collective bargaining.",
+      "summary_zh": "這篇文章介紹了 JS Tan 與 Clarissa Redwine 的著作《反對科技寡頭》（Against Tech Oligarchy），分析了科技產業勞工組織的歷史與挑戰。文中探討了科技從業人員如何從過去因稀缺性與高產值而擁有巨大談判籌碼，轉變為面臨現代勞權組織障礙的過程。",
+      "keywords": [
+        "tech labor",
+        "unionization",
+        "Against Tech Oligarchy",
+        "labor rights",
+        "Silicon Valley"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis of the changing power dynamics and labor organizing challenges within the tech industry.",
+      "pacer_reason_zh": "內容針對科技產業內部權力結構的變遷以及勞工組織所面臨的挑戰進行了概念性的分析與探討。"
+    },
+    {
+      "id": "fe1f6a98c50b6110",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-07T23:57:46.000Z",
+      "summary_en": "Simon Willison identifies that Datasette's use of 'link: rel=next' HTTP headers triggers unnecessary page prefetching in Firefox, wasting server and client resources. He traces this behavior back to a longstanding Firefox issue, humorously noting he even blogged about the same problem over 20 years ago.",
+      "summary_zh": "Simon Willison 發現 Datasette 使用的 'link: rel=next' HTTP 標頭會導致 Firefox 自動預載下一頁，進而浪費伺服器與用戶端資源。他指出這是 Firefox 長期存在的爭議，並發現自己早在 20 年前就曾撰文討論過相同的問題。",
+      "keywords": [
+        "Datasette",
+        "Firefox",
+        "HTTP headers",
+        "prefetching",
+        "web development"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post details an investigation into specific technical behavior (prefetching) and its impact on performance, serving as a case study for server configuration.",
+      "pacer_reason_zh": "文章詳細記錄了針對特定技術行為（預載）的調查及其對效能的影響，可視為伺服器設定的案例研究。"
+    },
     {
       "id": "93e953706007dcf4",
       "title": "Deus Ex",
