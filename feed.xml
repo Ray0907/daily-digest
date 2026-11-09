@@ -4,8 +4,62 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 08 Nov 2026 00:57:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:15:56 GMT</lastBuildDate>
     
+    <item>
+      <title>The great software IP writedown</title>
+      <link>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>The article explores how AI agents are eliminating the traditional scarcity of software developers, which historically underpinned high profit margins. It questions the future value and sustainability of software intellectual property in an era of automated code generation.</description>
+    </item>
+
+    <item>
+      <title>Finite Projective Planes</title>
+      <link>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:23:49 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article introduces the concept of finite projective planes, explaining how finite models can satisfy the axioms of projective geometry. It serves as an introductory overview for readers curious about how geometric principles apply to finite sets.</description>
+    </item>
+
+    <item>
+      <title>Reverse engineering a vintage diode-transistor logic chip</title>
+      <link>http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</link>
+      <guid>http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</guid>
+      <pubDate>Sun, 08 Nov 2026 16:12:25 GMT</pubDate>
+      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
+      <description>This article details the reverse engineering of a rare 1965 Signetics ST680A logic chip using microscopic analysis. It explores the history and mechanical design of early integrated circuit packaging, specifically focusing on the transition from metal cans to the introduction of the plastic DIP.</description>
+    </item>
+
+    <item>
+      <title>Some thoughts on restaurant menu QR codes</title>
+      <link>https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</guid>
+      <pubDate>Sun, 08 Nov 2026 12:34:01 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author expresses strong frustration with the modern transition from physical metal keys to plastic electronic keycards in hotels. He argues that traditional keys are more reliable, functional, and even provide a sense of security that plastic alternatives lack.</description>
+    </item>
+
+    <item>
+      <title>parse_number() as a SQLite extension: C vs Rust</title>
+      <link>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</link>
+      <guid>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</guid>
+      <pubDate>Sun, 08 Nov 2026 22:26:00 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison compares building a SQLite parse_number() extension using C versus Rust. The analysis evaluates binary size, code complexity, and performance, ultimately demonstrating that a custom-optimized C implementation can outperform Rust while maintaining a smaller footprint.</description>
+    </item>
+
+    <item>
+      <title>LLMs are terrible at designing AI systems</title>
+      <link>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</link>
+      <guid>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>The article critiques the current limitations of Large Language Models in the architectural design of complex AI systems. It suggests that while LLMs excel at coding tasks, they struggle with the high-level reasoning and structural planning required for system design.</description>
+    </item>
+
     <item>
       <title>Reading List 11/7/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-1172026</link>
@@ -850,60 +904,6 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
       <description>This article discusses the emerging paradigm of using AI systems as proactive agents that can execute tasks rather than just providing information. It emphasizes the shift from simple querying to delegating complex workflows to AI models.</description>
-    </item>
-
-    <item>
-      <title>Fake it ‘til you make it (and then keep faking it)</title>
-      <link>https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</link>
-      <guid>https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</guid>
-      <pubDate>Wed, 28 Oct 2026 15:36:04 GMT</pubDate>
-      <source url="https://www.experimental-history.com/">Experimental History</source>
-      <description>The article explores the psychological and professional implications of the 'fake it till you make it' mindset. It argues that maintaining this behavior beyond initial success is a functional strategy for sustained growth and overcoming imposter syndrome.</description>
-    </item>
-
-    <item>
-      <title>We Won’t “Just Hang Out”</title>
-      <link>https://borretti.me/article/we-wont-just-hang-out</link>
-      <guid>https://borretti.me/article/we-wont-just-hang-out</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article explores the future of human connection in a post-Singularity world. It challenges the assumption that social interaction will remain unchanged or simply continue as casual 'hanging out' once human intelligence is fundamentally transformed.</description>
-    </item>
-
-    <item>
-      <title>This Week in Source Control: 28 October 2026</title>
-      <link>https://nesbitt.io/2026/10/28/this-week-in-source-control.html</link>
-      <guid>https://nesbitt.io/2026/10/28/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This blog post introduces a new weekly roundup dedicated to news in source control systems, clients, and forges. It highlights the inaugural edition, which features technical insights into Anthropic's transition from Git to their custom 'Scion' version control system to handle massive scaling demands.</description>
-    </item>
-
-    <item>
-      <title>The Unbalanced Group Theorem</title>
-      <link>https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/</link>
-      <guid>https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/</guid>
-      <pubDate>Wed, 28 Oct 2026 11:51:51 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the classification of finite simple groups, recognized as one of the most extensive projects in mathematical history. It highlights the recent achievement by Axiom in formalizing the proof of the Unbalanced Group Theorem, a key component of this massive collective work.</description>
-    </item>
-
-    <item>
-      <title>C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/</guid>
-      <pubDate>Wed, 28 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post critiques the practice of using 'make_self' in C++/WinRT when the result is immediately cast to the projected interface. The author suggests this approach is an unnecessary complication compared to standard instantiation methods.</description>
-    </item>
-
-    <item>
-      <title>Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/</guid>
-      <pubDate>Tue, 27 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post explains why assigning high priority to system components like the taskbar and Task Manager does not necessarily improve responsiveness. It highlights that system performance is often limited by dependencies and waiting for resources rather than just CPU scheduling.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "6810fb9ad0007bbb",
+      "title": "Finite Projective Planes",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/08/finite-geometries/",
+      "pacer": "C",
+      "keywords": [
+        "finite geometry",
+        "projective plane",
+        "axioms",
+        "mathematics",
+        "geometry"
+      ],
+      "published": "2026-11-08T23:23:49.000Z"
+    },
+    {
+      "id": "a86fe963d82ab963",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "pacer": "E",
+      "keywords": [
+        "SQLite",
+        "C",
+        "Rust",
+        "parse_number",
+        "performance"
+      ],
+      "published": "2026-11-08T22:26:00.000Z"
+    },
+    {
+      "id": "8966d71daa50f42d",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "source": "Ken Shirriff's blog",
+      "source_url": "http://www.righto.com/",
+      "url": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "pacer": "C",
+      "keywords": [
+        "reverse engineering",
+        "integrated circuits",
+        "DTL",
+        "Signetics",
+        "DIP package"
+      ],
+      "published": "2026-11-08T16:12:25.557Z"
+    },
+    {
+      "id": "49408d89a1e18552",
+      "title": "Some thoughts on restaurant menu QR codes",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/",
+      "pacer": "C",
+      "keywords": [
+        "hotels",
+        "keycards",
+        "technology",
+        "user experience",
+        "frustration"
+      ],
+      "published": "2026-11-08T12:34:01.000Z"
+    },
+    {
+      "id": "2a01327e518cc8a0",
+      "title": "The great software IP writedown",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "C",
+      "keywords": [
+        "software",
+        "AI agents",
+        "intellectual property",
+        "valuation",
+        "development scarcity"
+      ],
+      "published": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "9985aaf8789a777f",
+      "title": "LLMs are terrible at designing AI systems",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+      "pacer": "C",
+      "keywords": [
+        "LLMs",
+        "AI Systems",
+        "System Architecture",
+        "Artificial Intelligence",
+        "Technical Critique"
+      ],
+      "published": "2026-11-08T00:00:00.000Z"
+    },
+    {
       "id": "fe1f6a98c50b6110",
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
       "source": "Simon Willison's Weblog",
@@ -497,22 +593,6 @@
       "published": "2026-11-04T08:00:00.000Z"
     },
     {
-      "id": "8265b69742e725ba",
-      "title": "datasette-apps 0.3a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "pacer": "P",
-      "keywords": [
-        "Datasette",
-        "Datasette Apps",
-        "Datasette Agent",
-        "LLM",
-        "Data Tools"
-      ],
-      "published": "2026-11-04T00:29:36.000Z"
-    },
-    {
       "id": "3608ed6c487b7a81",
       "title": "New Article, Annual LFP Charity Discount",
       "source": "Computer Things",
@@ -575,22 +655,6 @@
         "cognition"
       ],
       "published": "2026-11-03T14:19:29.000Z"
-    },
-    {
-      "id": "92fd20533f79da7f",
-      "title": "Just a little AI resistance, as a treat",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "pacer": "C",
-      "keywords": [
-        "AI ethics",
-        "AI resistance",
-        "accountability",
-        "digital advocacy",
-        "tech criticism"
-      ],
-      "published": "2026-11-03T12:34:31.000Z"
     },
     {
       "id": "574e09b229c13b9e",
@@ -783,38 +847,6 @@
         "digital rights"
       ],
       "published": "2026-11-02T08:20:37.000Z"
-    },
-    {
-      "id": "8f5c9968f5b6c6a6",
-      "title": "Reliably aligning LLMs is impossible in principle",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/alignment-is-impossible/",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "AI Alignment",
-        "AI Safety",
-        "Theoretical Computer Science",
-        "Machine Learning"
-      ],
-      "published": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "db53b27de1c1b48f",
-      "title": "A unified view of poles and polars",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/",
-      "pacer": "C",
-      "keywords": [
-        "geometry",
-        "poles and polars",
-        "projective geometry",
-        "spherical triangle",
-        "mathematics"
-      ],
-      "published": "2026-11-01T20:29:54.000Z"
     },
     {
       "id": "87dd3b372ac019d0",
@@ -2529,22 +2561,6 @@
       "published": "2026-09-29T00:00:00.000Z"
     },
     {
-      "id": "155117c88e2f83fc",
-      "title": "The AI margin collapse is gathering pace",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "DeepSeek",
-        "pricing",
-        "frontier labs"
-      ],
-      "published": "2026-09-29T00:00:00.000Z"
-    },
-    {
       "id": "cab2b62248188536",
       "title": "Deser: Rethinking Rust Serialization",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -3135,22 +3151,6 @@
         "DuckDuckGo"
       ],
       "published": "2026-08-30T19:40:00.000Z"
-    },
-    {
-      "id": "17a9a286e9d35b47",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "source": "Ken Shirriff's blog",
-      "source_url": "http://www.righto.com/",
-      "url": "http://www.righto.com/2026/08/spacelab-core-memory.html",
-      "pacer": "E",
-      "keywords": [
-        "Spacelab",
-        "Core memory",
-        "Mitra 125",
-        "Space Shuttle",
-        "Computer history"
-      ],
-      "published": "2026-08-30T16:42:42.929Z"
     },
     {
       "id": "ca34ed9a0d66324c",
@@ -5011,6 +5011,16 @@
     }
   ],
   "links": [
+    {
+      "source": "6810fb9ad0007bbb",
+      "target": "7a16caccdfbc8b33",
+      "shared_keywords": [
+        "projective plane",
+        "geometry",
+        "mathematics"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "5e396018eb1a2135",
       "target": "227dc8c9205b1aff",
