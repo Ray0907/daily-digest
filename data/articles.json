@@ -1,6 +1,386 @@
 {
-  "last_updated": "2026-11-09T01:15:55.863Z",
+  "last_updated": "2026-11-10T03:52:41.551Z",
   "articles": [
+    {
+      "id": "ae9d0259e15c4016",
+      "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
+      "url": "https://www.troyhunt.com/weekly-update-529/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-11-10T00:42:35.000Z",
+      "summary_en": "Troy Hunt critiques the legislative approach to banning social media for children, arguing that policymakers fail to identify where the responsibility for enforcement truly resides. The post highlights the inadequacies of the current political discourse surrounding these age-restriction laws.",
+      "summary_zh": "Troy Hunt 批評了針對兒童使用社群媒體的立法手段，認為政策制定者未能釐清責任歸屬。文章探討了當前圍繞這些年齡限制法律的政治討論中存在的嚴重缺陷。",
+      "keywords": [
+        "Social Media",
+        "Legislation",
+        "Child Safety",
+        "Policy",
+        "Responsibility"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique of legislative policy and the underlying logic of social media regulation.",
+      "pacer_reason_zh": "本文針對立法政策及社群媒體監管背後的邏輯提供了概念性的批判。"
+    },
+    {
+      "id": "924a8e63d605f6df",
+      "title": "Addition By Subtraction",
+      "url": "https://blog.jim-nielsen.com/2026/addition-by-subtraction/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-11-08T19:00:00.000Z",
+      "summary_en": "The author argues for the power of simplification by removing unnecessary features from their icon gallery website. By reducing the number of size options from four to three, they successfully minimized cognitive overhead for users while maintaining core functionality.",
+      "summary_zh": "作者主張透過刪除網站上不必要的功能來體現簡化之道。藉由將圖示尺寸選項從四種縮減為三種，作者成功降低了使用者的認知負擔，同時維持了核心功能。",
+      "keywords": [
+        "minimalism",
+        "ux design",
+        "feature removal",
+        "cognitive overhead",
+        "web development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual philosophy of 'addition by subtraction' in design, focusing on the reasoning behind simplifying user interfaces.",
+      "pacer_reason_zh": "這篇文章解釋了設計中「減法即加法」的概念哲學，重點在於說明簡化使用者介面的思考過程。"
+    },
+    {
+      "id": "b0125a77b8572523",
+      "title": "Yak-Shaving Overload",
+      "url": "https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-11-09T02:50:32.000Z",
+      "summary_en": "The author reflects on the pitfalls of 'yak-shaving'—the tendency for tech projects to spiral into endless, complex side tasks—while attempting to revitalize an abandoned JingPad Linux tablet using AI tools. The piece highlights how relying too heavily on AI to solve technical roadblocks can lead to frustrating, unproductive rabbit holes.",
+      "summary_zh": "作者探討了技術專案中常見的「剪犛牛毛」（yak-shaving）現象，即一項計畫在處理過程中不斷衍生出無窮無盡的複雜分支。文章透過嘗試使用 AI 工具修復一台被遺棄的 JingPad Linux 平板，反思了過度依賴 AI 解決技術障礙可能導致的挫折感與效率問題。",
+      "keywords": [
+        "yak-shaving",
+        "AI",
+        "JingPad",
+        "Linux",
+        "tech projects"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the 'yak-shaving' analogy to explain the phenomenon of spiraling technical projects and personal frustration.",
+      "pacer_reason_zh": "文章使用了「剪犛牛毛」（yak-shaving）的比喻來解釋技術專案失控的現象與個人挫折感。"
+    },
+    {
+      "id": "79a4ad13740d2f22",
+      "title": "Introducing Ninety",
+      "url": "https://nesbitt.io/2026/11/09/introducing-ninety.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-09T12:00:00.000Z",
+      "summary_en": "Ninety is a new prediction market platform designed for open source security, allowing users to bet on the discovery, severity, and remediation time of vulnerabilities. By replacing traditional bug bounty queues with a continuous order book, the platform aims to provide real-time security pricing and incentives for both researchers and defenders.",
+      "summary_zh": "Ninety 是一個針對開源軟體安全的新型預測市場平台，使用者可針對漏洞的發現、嚴重程度及修復時間進行預測與交易。該平台以持續更新的訂單簿取代傳統的漏洞賞金審核機制，旨在為研究人員與開發者提供即時的安全風險定價與激勵措施。",
+      "keywords": [
+        "Ninety",
+        "prediction market",
+        "open source security",
+        "vulnerability",
+        "bug bounty"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the 'what' and 'why' behind a new conceptual framework for managing open source security risks through financial markets.",
+      "pacer_reason_zh": "本文旨在解釋透過金融市場管理開源軟體安全風險這一新概念架構的內容與動機。"
+    },
+    {
+      "id": "b487bef803e17f56",
+      "title": "Combinatorial designs",
+      "url": "https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-10T01:38:48.000Z",
+      "summary_en": "This post explores the concept of combinatorial designs, building upon previous discussions of finite geometry and Steiner systems. It serves as a foundational explanation of how these mathematical structures are defined and categorized.",
+      "summary_zh": "本文探討了組合設計的概念，建立在先前對有限幾何和史坦納系統討論的基礎上。文章旨在介紹並定義這些數學結構的核心概念與分類。",
+      "keywords": [
+        "combinatorial designs",
+        "mathematics",
+        "Steiner systems",
+        "finite geometry",
+        "discrete mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post focuses on defining and explaining a specific mathematical concept rather than providing a guide, data, or list.",
+      "pacer_reason_zh": "本文側重於定義和解釋特定的數學概念，而非提供操作指南、數據或列表。"
+    },
+    {
+      "id": "2e959023b8a39125",
+      "title": "Steiner Systems",
+      "url": "https://www.johndcook.com/blog/2026/11/09/steiner-systems/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-09T17:01:43.000Z",
+      "summary_en": "This article defines Steiner triple systems (STS) as a specific collection of three-element subsets within a finite set where every two-element subset appears exactly once. It frames these systems as foundational examples within the broader study of finite geometry.",
+      "summary_zh": "本文定義了史坦納三元系統 (STS)，這是一種在有限集合中的三元素子集集合，其中任意兩元素子集均恰好屬於一個區塊。文章將這些系統視為有限幾何領域中的核心範例。",
+      "keywords": [
+        "Steiner triple systems",
+        "finite geometry",
+        "combinatorics",
+        "STS(n)",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a mathematical definition and conceptual explanation of Steiner systems.",
+      "pacer_reason_zh": "文章針對史坦納系統提供了數學定義與概念性解釋。"
+    },
+    {
+      "id": "f01345e6354db721",
+      "title": "Finite hyperbolic planes",
+      "url": "https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-09T14:26:09.000Z",
+      "summary_en": "This article explores the concept of finite hyperbolic planes by contrasting them with Euclidean and projective geometries. It specifically examines how the number of parallel lines through a point differs across these geometric systems.",
+      "summary_zh": "本文探討了有限雙曲平面的概念，並將其與歐幾里得幾何及投影幾何進行對比。文中特別分析了在不同幾何體系下，通過特定點且與已知直線平行的線條數量有何差異。",
+      "keywords": [
+        "geometry",
+        "hyperbolic plane",
+        "Euclid",
+        "mathematics",
+        "parallel lines"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains mathematical theories and definitions regarding geometric postulates and their finite variations.",
+      "pacer_reason_zh": "本文旨在解釋關於幾何公設及其有限變體的數學理論與定義。"
+    },
+    {
+      "id": "cdb551a9021d36c7",
+      "title": "Finite Affine Planes",
+      "url": "https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-09T14:21:49.000Z",
+      "summary_en": "This article introduces finite affine planes, framing them as a subset of Euclidean geometry that retains incidence properties while discarding metric ones. It serves as part of a series exploring different types of finite geometries.",
+      "summary_zh": "本文介紹了有限仿射平面，將其描述為保留了關聯性質但捨棄度量性質的歐幾里得幾何體。這是作者探討各類有限幾何系列文章的一部分。",
+      "keywords": [
+        "affine geometry",
+        "finite geometry",
+        "Euclidean geometry",
+        "incidence properties",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation defining finite affine planes and their relationship to Euclidean geometry.",
+      "pacer_reason_zh": "本文屬於概念性說明，定義了有限仿射平面的概念及其與歐幾里得幾何的關係。"
+    },
+    {
+      "id": "8535ee72d5219243",
+      "title": "AI and Irontown",
+      "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-11-09T00:00:00.000Z",
+      "summary_en": "The author uses the film Princess Mononoke as an analogy to discuss the complex impact of AI development. Just as Irontown provides empowerment to outcasts while causing environmental destruction, AI offers significant benefits to marginalized creators while creating challenging negative externalities.",
+      "summary_zh": "作者透過電影《魔法公主》作為類比，探討人工智慧發展帶來的複雜影響。正如劇中的鐵城為邊緣族群提供賦權卻同時造成環境破壞，AI 在為創作者帶來巨大效益的同時，也引發了難以忽視的負面外部效應。",
+      "keywords": [
+        "AI",
+        "Princess Mononoke",
+        "Ethics",
+        "Technology",
+        "Analogy"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the movie Princess Mononoke as an analogy to explain the dualistic nature and societal challenges of AI.",
+      "pacer_reason_zh": "本文運用電影《魔法公主》作為類比，以解釋人工智慧的雙重性及其所帶來的社會挑戰。"
+    },
+    {
+      "id": "b701a0112efd9a75",
+      "title": "If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-09T15:00:00.000Z",
+      "summary_en": "This post clarifies the mechanics of the Windows Update hot patcher and its ability to handle multiple patches. It explains that the system is designed to verify the current state of functions to prevent conflicts or redundant modifications.",
+      "summary_zh": "本文解釋了 Windows Update 熱修補程式的運作機制及其處理多個修補程式的能力。文章說明系統會驗證函數的當前狀態，以防止衝突或重複修改。",
+      "keywords": [
+        "Windows Update",
+        "hot patching",
+        "OS internals",
+        "software engineering",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how the Windows Update hot patching mechanism manages function states.",
+      "pacer_reason_zh": "本文提供了關於 Windows Update 熱修補機制如何管理函數狀態的概念性解釋。"
+    },
+    {
+      "id": "320e96df00e28159",
+      "title": "Optimal virulence and the Android lockdown",
+      "url": "https://dynomight.net/android/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-11-09T00:00:00.000Z",
+      "summary_en": "The article uses the biological concept of 'optimal virulence'—where viruses evolve to keep hosts functional to maximize transmission—as an analogy for tech ecosystem control. It critiques Google’s tightening of Android's open-app installation policies, arguing that these restrictions sacrifice user freedom under the guise of security.",
+      "summary_zh": "本文以生物學中的「最佳毒力」理論作為類比，說明病毒為了擴散會演化出不殺死宿主的策略。作者藉此批評 Google 正在限制 Android 手機自由安裝應用程式的政策，認為這些以安全為名的限制犧牲了用戶的自由度。",
+      "keywords": [
+        "Android",
+        "Google",
+        "Optimal Virulence",
+        "App Ecosystem",
+        "Digital Freedom"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the biological concept of viral evolution as a primary analogy to critique current trends in software platform control.",
+      "pacer_reason_zh": "文章以病毒演化的生物學概念作為主要類比，藉此批評目前軟體平台控制趨勢的問題。"
+    },
+    {
+      "id": "030d1451c78c46c5",
+      "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+      "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-09T12:34:00.000Z",
+      "summary_en": "The author shares a method for reducing excessive AI bot traffic on his hobby website by implementing a simple trap. By deploying a custom tool to block unwanted scrapers, he successfully decreased data usage by over 80%.",
+      "summary_zh": "作者分享了一種透過簡單機制來阻擋個人網站上過多 AI 機器人流量的方法。藉由部署自定義工具來剔除不必要的爬蟲，他成功將網站數據傳輸量減少了 80% 以上。",
+      "keywords": [
+        "AI bots",
+        "web scraping",
+        "traffic management",
+        "website optimization",
+        "OpenBenches"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes a practical method and tool implementation used to solve a specific problem.",
+      "pacer_reason_zh": "該文章描述了解決特定問題的實際方法與工具實作。"
+    },
+    {
+      "id": "c8f8d1cd7c47bf28",
+      "title": "Horible public key tricks:",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "source": "Maurycy's Blog",
+      "source_url": "https://maurycyz.com/",
+      "published": "2026-11-08T00:00:00.000Z",
+      "summary_en": "The author critiques the complexity and maintenance requirements of SSL/TLS certificate management. To voice this frustration, they implement a 'protest certificate' that embeds satirical commentary directly into the certificate's metadata fields.",
+      "summary_zh": "作者批評了 SSL/TLS 證書管理的複雜性與維護負擔。為了表達不滿，他透過將諷刺性的文字直接嵌入證書元數據欄位中，實作了一份「抗議證書」。",
+      "keywords": [
+        "SSL",
+        "TLS",
+        "Certificate Authority",
+        "ACME",
+        "Security"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates a technical workaround and provides a specific implementation example of using certificates for non-standard purposes.",
+      "pacer_reason_zh": "這篇文章展示了一種技術變通方法，並提供了將證書用於非標準用途的具體實作範例。"
+    },
+    {
+      "id": "831cf35bc0870678",
+      "title": "Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-09T08:12:24.000Z",
+      "summary_en": "Cory Doctorow argues that the global order must move past its reliance on the United States, as Trumpism has irreversibly damaged the credibility of American institutional leadership. He emphasizes the necessity of developing independent international infrastructure and economic sovereignty, as US governance can no longer be trusted as a global stabilizer.",
+      "summary_zh": "Cory Doctorow 指出，由於川普主義已對美國的制度信譽造成不可逆的損害，全球秩序必須擺脫對美國的依賴。他強調各國必須建立獨立的國際基礎設施與經濟主權，因為美國已不再是值得信賴的全球穩定力量。",
+      "keywords": [
+        "Trumpism",
+        "geopolitics",
+        "sovereignty",
+        "institutional trust",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of global political shifts and the decline of American hegemony.",
+      "pacer_reason_zh": "本文針對全球政治局勢變遷及美國霸權衰落提供了概念性分析。"
+    },
+    {
+      "id": "86b4ba3155e4ca0c",
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-09T23:58:46.000Z",
+      "summary_en": "The llm-anthropic tool has been updated to version 0.31 to support Anthropic's new Fable 5.2 and Mythos 5.2 models. The post includes practical code examples for installation and testing, alongside an evaluation of the models' reasoning capabilities via SVG generation.",
+      "summary_zh": "llm-anthropic 工具已更新至 0.31 版本，支援 Anthropic 最新的 Fable 5.2 與 Mythos 5.2 模型。本文提供安裝與使用範例，並透過 SVG 生成測試分享了模型在不同推理等級下的效能表現與潛在漏洞。",
+      "keywords": [
+        "llm",
+        "anthropic",
+        "fable-5.2",
+        "simon-willison",
+        "cli"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content provides a software update announcement with specific installation and usage instructions for the llm-anthropic CLI tool.",
+      "pacer_reason_zh": "本文為軟體更新公告，並針對 llm-anthropic 命令列工具提供了明確的安裝與執行步驟說明。"
+    },
+    {
+      "id": "ffd0277ad7cd64c2",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-09T23:57:21.000Z",
+      "summary_en": "Simon Willison demonstrates how he used Claude Code to build a 'Beep Locator' web application. The tool triangulates the source of intermittent noises by using multiple networked devices as microphones, effectively pinpointing a hidden sound source.",
+      "summary_zh": "Simon Willison 分享了他如何運用 Claude Code 開發一套名為「Beep Locator」的網頁應用程式。該工具透過將多個裝置作為麥克風，利用三角定位法成功找出家中不明間歇性蜂鳴聲的來源。",
+      "keywords": [
+        "Claude Code",
+        "triangulation",
+        "Beep Locator",
+        "software engineering",
+        "troubleshooting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes the process and implementation of a project, serving as a practical guide/case study for building a specific technical solution.",
+      "pacer_reason_zh": "本文描述了一個專案的實作過程，作為建構特定技術解決方案的實用指南與案例研究。"
+    },
+    {
+      "id": "5963f0ac82713985",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-09T04:32:33.000Z",
+      "summary_en": "Simon Willison demonstrates that Claude Opus 5.5 can effectively generate 3D graphics in Vanilla JavaScript and WebGL, comparing the results to Three.js. This experiment highlights the capabilities of modern LLMs to produce complex code without relying on external libraries.",
+      "summary_zh": "Simon Willison 展示了 Claude Opus 5.5 有能力直接生成 Vanilla JavaScript 和 WebGL 的 3D 圖形，並將其與 Three.js 的結果進行了比較。這項實驗凸顯了現代大型語言模型在不依賴外部函式庫的情況下產生複雜程式碼的能力。",
+      "keywords": [
+        "Claude",
+        "JavaScript",
+        "WebGL",
+        "Three.js",
+        "Generative AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a practical experiment and evidence of using an LLM to generate 3D graphics code.",
+      "pacer_reason_zh": "本文展示了一項實作實驗，並提供了使用大型語言模型生成 3D 繪圖程式碼的實證。"
+    },
+    {
+      "id": "cfd192eda4f22e6c",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-09T04:25:05.000Z",
+      "summary_en": "Simon Willison suggests using HTML <details> and <summary> tags in GitHub pull request descriptions to hide verbose, AI-generated technical logs. This approach allows developers to provide a brief, human-readable introduction while keeping detailed documentation accessible if needed.",
+      "summary_zh": "Simon Willison 建議在 GitHub 的 PR 描述中使用 HTML <details> 和 <summary> 標籤，將冗長的 AI 生成說明收合起來。這種方法能讓開發者提供精簡的人工導讀，同時保留詳細技術文件供人隨時查閱。",
+      "keywords": [
+        "GitHub",
+        "Pull Request",
+        "AI",
+        "HTML",
+        "Documentation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable technique for developers to improve PR readability.",
+      "pacer_reason_zh": "這篇文章提供了一項具體且可執行的技術，協助開發者改善 PR 的可讀性。"
+    },
+    {
+      "id": "32cf753613ff7d62",
+      "title": "Terry Pratchett's Study",
+      "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-07T19:34:24.000Z",
+      "summary_en": "This post discusses Terry Pratchett's concept of 'horizontal wealth,' which suggests spending increased income on enhancing the hobbies one already enjoys rather than upgrading to traditional symbols of luxury. It highlights the value of investing in personal passions, such as building a home library to facilitate aimless, joyful research.",
+      "summary_zh": "這篇文章探討了泰瑞·普萊契提出的「水平財富」概念，建議將增加的收入用於提升既有愛好的品質，而非追求傳統的奢侈象徵。強調投資於個人熱情，例如擴建私人圖書館，以享受純粹且無目的的研究樂趣。",
+      "keywords": [
+        "Terry Pratchett",
+        "Horizontal Wealth",
+        "Philosophy",
+        "Personal Finance",
+        "Lifestyle"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a conceptual framework regarding personal wealth and lifestyle choices.",
+      "pacer_reason_zh": "文章解釋了關於個人財富與生活選擇的概念性架構。"
+    },
     {
       "id": "2a01327e518cc8a0",
       "title": "The great software IP writedown",
