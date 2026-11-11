@@ -1,6 +1,326 @@
 {
-  "last_updated": "2026-11-10T03:52:41.551Z",
+  "last_updated": "2026-11-11T01:32:13.068Z",
   "articles": [
+    {
+      "id": "c1d3e00c796f8c1a",
+      "title": "We need more goat sacrifices",
+      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-11-10T17:21:43.000Z",
+      "summary_en": "The article explores the history and philosophical implications of the O.J. Simpson trial, examining how it serves as a modern cultural touchstone for societal conflict. It critiques the obsession with truth and evidence in the face of deep-seated collective narratives.",
+      "summary_zh": "本文探討了辛普森案的歷史與哲學意涵，檢視該案件如何成為現代社會衝突的文化指標。文中批判了人們在面對根深蒂固的集體敘事時，對於真相與證據的執迷。",
+      "keywords": [
+        "O.J. Simpson",
+        "Cultural History",
+        "Societal Conflict",
+        "Narrative",
+        "Experimental History"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual analysis of cultural phenomena and historical narratives rather than practical instruction or raw data.",
+      "pacer_reason_zh": "內容側重於對文化現象與歷史敘事的概念性分析，而非實務教學或原始數據。"
+    },
+    {
+      "id": "685b79678ed43d6d",
+      "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-11-10T20:26:15.000Z",
+      "summary_en": "Troy Hunt announces that 'Have I Been Pwned' now supports bank transfers as a payment method. This update addresses long-standing friction in the service's payment process, making it more accessible for users.",
+      "summary_zh": "Troy Hunt 宣布「Have I Been Pwned」現已支援銀行轉帳作為付款方式。此項更新解決了該服務長期以來在付款流程上的不便，提升了使用者的便利性。",
+      "keywords": [
+        "Have I Been Pwned",
+        "Troy Hunt",
+        "payment methods",
+        "bank transfer",
+        "service update"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides an announcement and explanation of a new functional implementation for a web service.",
+      "pacer_reason_zh": "該文章旨在公告並解釋一項網路服務的新功能實作。"
+    },
+    {
+      "id": "5242648ca37db680",
+      "title": "I am searching for a coffee alternative",
+      "url": "https://bernsteinbear.com/blog/coffee-alternative/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-11-10T00:00:00.000Z",
+      "summary_en": "The author shares their experience of replacing coffee with caffeinated sparkling water after a positive trial with an office Bevi machine. Unable to replicate the experience at home, they conduct a taste test of various canned energy drinks against strict criteria regarding sugar and ingredients.",
+      "summary_zh": "作者分享了在辦公室體驗過含咖啡因氣泡水後，決定尋找居家替代方案的過程。文中記錄了作者為取代咖啡而針對市售含咖啡因飲料進行的評測，並對其成分與口感提出了嚴格的要求。",
+      "keywords": [
+        "coffee alternative",
+        "caffeine",
+        "sparkling water",
+        "product review",
+        "taste test"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on the author's empirical taste test and personal experiment to find a beverage that meets specific criteria.",
+      "pacer_reason_zh": "本文以作者進行的實際口味測試與實驗為核心，旨在尋找符合特定標準的替代飲料。"
+    },
+    {
+      "id": "254cbd933a0214cb",
+      "title": "Revisiting Leander v Sweden and Big Brother Watch",
+      "url": "https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-11-10T19:10:00.000Z",
+      "summary_en": "This article examines the European Court of Human Rights jurisprudence, specifically Leander v Sweden and Big Brother Watch, in the context of modern cybersecurity and AI. It argues that previous legal standards for bulk surveillance may no longer be adequate given current technological advancements.",
+      "summary_zh": "本文探討歐洲人權法院關於 Leander v Sweden 和 Big Brother Watch 等案件的判例，並結合現代網路安全與人工智慧發展進行詮釋。作者認為，鑑於科技的快速進步，過去對於大規模監控計畫的合理性標準可能已不再適用。",
+      "keywords": [
+        "European Convention on Human Rights",
+        "surveillance",
+        "ECtHR",
+        "cybersecurity",
+        "AI"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis and interpretation of legal jurisprudence as applied to modern technological contexts.",
+      "pacer_reason_zh": "本文旨在提供法律判例的概念性分析，並探討其如何適用於現代技術情境。"
+    },
+    {
+      "id": "cafac86bc616d20d",
+      "title": "The classic console corner's CRT changeover",
+      "url": "https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-11-10T06:23:17.979Z",
+      "summary_en": "This post discusses the challenges of maintaining a setup for classic game consoles that require CRT displays to function correctly, particularly those using light guns. The author chronicles the history of their Panasonic Omnivision TV and explains why legacy hardware performs better on cathode-ray tube monitors than on modern flat panels.",
+      "summary_zh": "本文探討了保存需使用 CRT 顯示器才能正常運作的經典遊戲主機（特別是光線槍遊戲）所面臨的挑戰。作者回顧了其 Panasonic Omnivision 電視的使用歷史，並解釋了為何復古硬體在傳統映像管螢幕上的表現優於現代平面電視。",
+      "keywords": [
+        "CRT",
+        "retro gaming",
+        "vintage hardware",
+        "Panasonic Omnivision",
+        "light gun"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an explanation of why CRT technology is essential for vintage gaming, covering the conceptual benefits like lower lag and light gun compatibility.",
+      "pacer_reason_zh": "本文解釋了為何 CRT 技術對於復古遊戲至關重要，涵蓋了低延遲與光線槍相容性等概念性優勢。"
+    },
+    {
+      "id": "9e7cca9c9d66f48a",
+      "title": "Claude Code token cost explorer",
+      "url": "https://entropicthoughts.com/claude-code-token-cost-explorer",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-11-09T23:00:00.000Z",
+      "summary_en": "The author shares a custom-built tool designed to analyze token usage within Claude Code, specifically addressing the difficulty of tracking costs when using subagents. The post provides a guide on using this local browser-based explorer to monitor and optimize LLM agent expenses.",
+      "summary_zh": "作者分享了一款自製工具，用於分析 Claude Code 在使用子代理（subagents）時的 Token 消耗情況，解決了現有工具無法詳細拆解成本的問題。文章說明如何透過此本地瀏覽器工具監控並優化 LLM 代理的使用開銷。",
+      "keywords": [
+        "Claude Code",
+        "Token Usage",
+        "AI Agents",
+        "Cost Optimization",
+        "Developer Tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a guide on how to use a specific tool to analyze and manage token costs, providing actionable steps for the reader.",
+      "pacer_reason_zh": "本文作為使用指南，教導讀者如何運用特定工具分析並管理 Token 成本，並提供了可執行的操作步驟。"
+    },
+    {
+      "id": "cee6cf51d7e027e8",
+      "title": "Balanced Incomplete Block Designs",
+      "url": "https://www.johndcook.com/blog/2026/11/10/bibd/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-10T14:26:21.000Z",
+      "summary_en": "The article explains Balanced Incomplete Block Designs (BIBD) as a method for experimental design when resources are limited. It demonstrates how to effectively test multiple treatments, such as fertilizers, when dividing land into complete sets is impractical.",
+      "summary_zh": "本文介紹了平衡不完整區塊設計（BIBD），這是一種在資源有限時進行實驗設計的方法。文中說明了當無法將土地劃分為完整組別時，如何透過此方法有效地測試多種處理（如肥料）。",
+      "keywords": [
+        "BIBD",
+        "Experimental Design",
+        "Statistics",
+        "Combinatorics",
+        "Scientific Method"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of a specific statistical design method and its purpose in experimental research.",
+      "pacer_reason_zh": "本文針對特定的統計設計方法及其在實驗研究中的用途提供了概念性的解釋。"
+    },
+    {
+      "id": "c2eda24c43e1654e",
+      "title": "Microsoft employee price list from 1987",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-10T15:00:00.000Z",
+      "summary_en": "This post features a historical look at a 1987 price list for Microsoft products available to employees. It provides a nostalgic glimpse into the company's early pricing and software catalog.",
+      "summary_zh": "這篇文章回顧了 1987 年微軟員工的內部產品價目表。透過這份歷史檔案，展示了微軟早期軟體產品的定價與目錄內容。",
+      "keywords": [
+        "Microsoft",
+        "1987",
+        "price list",
+        "software history",
+        "The Old New Thing"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a historical record or reference document listing product prices.",
+      "pacer_reason_zh": "該文章作為歷史紀錄或參考文件，列出了產品價格。"
+    },
+    {
+      "id": "ebc12b967b941fe0",
+      "title": "Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-10T12:34:31.000Z",
+      "summary_en": "The author revisits Richard Ayoade's latest book, comparing its abstract, genre-defying style to his earlier work. The review highlights the book's comedic but unconventional structure, noting it functions more as an 'anti-novel' than a traditional narrative.",
+      "summary_zh": "作者重新審視了 Richard Ayoade 的最新著作，並將其抽象且難以定義的風格與早期作品進行了對比。書評指出該書更像是一部「反小說」，以幽默但非傳統的結構呈現。",
+      "keywords": [
+        "Richard Ayoade",
+        "Book Review",
+        "Literature",
+        "Comedy",
+        "Anti-novel"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a conceptual analysis and critique of a book's unique style and genre.",
+      "pacer_reason_zh": "內容是對書籍獨特風格與類型的概念性分析與評論。"
+    },
+    {
+      "id": "62b6c205aefb1a50",
+      "title": "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/10/worst-of-all-worlds/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-10T17:34:21.000Z",
+      "summary_en": "Cory Doctorow argues that the EU's legitimacy as a technocratic project depends on its ability to demonstrate tangible administrative competence. He critiques the reliance on massive, neoliberal public-private partnerships, suggesting these 'megaprojects' often fail and undermine public trust in government efficacy.",
+      "summary_zh": "Cory Doctorow 指出歐盟作為一個技術官僚項目，其合法性取決於展示具體的行政能力。他批評歐盟過度依賴大型的新自由主義公私合營模式，認為這些「大型項目」往往以失敗告終，並削弱了公眾對政府效能的信心。",
+      "keywords": [
+        "EU",
+        "Technocracy",
+        "Public-Private Partnership",
+        "Cory Doctorow",
+        "Governance"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of the EU's administrative philosophy and the systemic failures of its neoliberal project-based approach.",
+      "pacer_reason_zh": "本文針對歐盟的行政哲學及其新自由主義項目模式的系統性缺陷，提供了概念性的評論與分析。"
+    },
+    {
+      "id": "6e299ce357456abc",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-11-10T21:55:03.000Z",
+      "summary_en": "Microsoft released security updates addressing nearly 1,100 vulnerabilities, including 63 critical flaws such as a zero-day in Outlook. The update coincides with similar security releases from major tech companies like Adobe, Apple, Google, and Mozilla.",
+      "summary_zh": "微軟本月發布了針對近 1,100 個安全漏洞的修補程式，其中包括 63 個關鍵缺陷，例如 Outlook 的零日漏洞。此次更新與 Adobe、Apple、Google 和 Mozilla 等科技公司的安全更新同步發布。",
+      "keywords": [
+        "Microsoft",
+        "Patch Tuesday",
+        "Security",
+        "Vulnerability",
+        "Cybersecurity"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article reports on specific data-driven security events and patch release statistics.",
+      "pacer_reason_zh": "文章報導了具體的數據驅動安全事件以及修補程式發布的相關統計資訊。"
+    },
+    {
+      "id": "e5607ea9b3456678",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-10T20:09:44.000Z",
+      "summary_en": "Simon Willison announces the release of llm-gemini 0.36, providing support for Google's new Gemini 4 Carbon model. The post outlines the model's pricing structure and demonstrates its capabilities through image generation and coding tasks.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 0.36，支援 Google 最新的 Gemini 4 Carbon 模型。文中說明了該模型的定價策略，並透過影像生成與程式碼編寫任務展示其效能。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 4 Carbon",
+        "Google AI",
+        "coding",
+        "LLM"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a hands-on demonstration and testing of a new model's capabilities through specific examples.",
+      "pacer_reason_zh": "文章透過具體的測試案例，實地展示並評估了新模型的實際能力。"
+    },
+    {
+      "id": "c80838f46e535c12",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-10T07:28:21.000Z",
+      "summary_en": "Meta AI has released Muse Ember, a new efficient model optimized for agentic workflows like coding and tool use. This summary compares its pricing and token limits against competitors like GPT-6 Luna and Claude Haiku.",
+      "summary_zh": "Meta AI 發布了 Muse Ember，這是一款專為程式編碼與工具調用等代理工作流程所設計的高效模型。本文將其與 GPT-6 Luna 和 Claude Haiku 的定價及 Token 限制進行了對比。",
+      "keywords": [
+        "Muse Ember",
+        "Meta AI",
+        "LLM",
+        "AI Pricing",
+        "Agentic AI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post primarily serves as a reference guide, providing comparative pricing tables and specifications for AI models.",
+      "pacer_reason_zh": "本文主要作為參考資料，提供 AI 模型的功能規格與價格比較表。"
+    },
+    {
+      "id": "f932ce86887297f1",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-10T05:34:14.000Z",
+      "summary_en": "Anthropic's documentation for Claude Fable 5.2 reveals that explicitly stating ownership of a codebase in prompts significantly improves the model's ability to optimize structure. Using a specific framing instruction helps the model avoid redundant code by treating the project as its own responsibility.",
+      "summary_zh": "Anthropic 針對 Claude Fable 5.2 的文件指出，在提示詞中明確說明程式碼的所有權，能顯著提升模型優化結構的能力。透過特定的引導語句，模型能更有效地避免產生重複代碼，進而提升開發效能。",
+      "keywords": [
+        "Claude Fable 5.2",
+        "prompt engineering",
+        "Anthropic",
+        "code optimization",
+        "LLM"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, actionable prompting technique to improve AI model output performance.",
+      "pacer_reason_zh": "文章提供了一項具體且可執行的提示工程技巧，用於改善 AI 模型的輸出表現。"
+    },
+    {
+      "id": "c4312adb767125dc",
+      "title": "Yonkers Rises",
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-10T03:53:04.000Z",
+      "summary_en": "Simon Willison demonstrates the generative 3D modeling and animation capabilities of Claude Fable 5.2. By prompting the AI to turn the city of Yonkers into a mech that traverses New York, he showcases how models can interpret complex natural language instructions and typos to create Three.js animations.",
+      "summary_zh": "Simon Willison 展示了 Claude Fable 5.2 在 3D 建模與動畫方面的生成能力。他透過指令讓 AI 將揚克斯市變為一個在紐約移動的機甲，展示了模型如何理解複雜的自然語言與輸入錯誤，並自動生成 Three.js 動畫。",
+      "keywords": [
+        "Three.js",
+        "Claude Fable",
+        "Generative AI",
+        "3D Animation",
+        "Simon Willison"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article serves as a practical experiment or demonstration of a specific AI tool's animation capabilities.",
+      "pacer_reason_zh": "這篇文章展示了特定 AI 工具在動畫生成方面的實際實驗與應用成果。"
+    },
+    {
+      "id": "8157f3d2feda20d7",
+      "title": "Glue work is still harmful in the age of AI",
+      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-11T00:00:00.000Z",
+      "summary_en": "This article argues that 'glue work'—the unglamorous, often invisible tasks required to keep projects moving—remains detrimental to professional growth even with the integration of AI. It suggests that AI tools do not eliminate the burden of coordination and maintenance, but rather may shift how these essential tasks impact an engineer's career trajectory.",
+      "summary_zh": "本文探討了「膠水工作」（glue work）在人工智慧時代的持續影響，指出即便有了 AI 的輔助，這些隱形且繁瑣的協調與維護任務依然對職涯發展造成負面壓力。文章認為 AI 並未消除此類工作的負擔，反而可能改變其對工程師職涯軌跡的影響方式。",
+      "keywords": [
+        "glue work",
+        "career growth",
+        "software engineering",
+        "AI",
+        "productivity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the conceptual nature of professional roles and the impact of systemic work habits within the industry.",
+      "pacer_reason_zh": "本文深入探討了專業職務的本質概念，以及業界中系統性工作習慣對個人發展的影響。"
+    },
     {
       "id": "ae9d0259e15c4016",
       "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
