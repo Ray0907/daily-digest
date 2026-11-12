@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-11-11T01:32:13.068Z",
+  "last_updated": "2026-11-12T02:34:20.575Z",
   "articles": [
+    {
+      "id": "459456b6ccf41c1f",
+      "title": "Monads in Lean",
+      "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-11-11T03:25:00.000Z",
+      "summary_en": "This post explains how to implement monads in Lean 4 to handle computations that may fail, such as division by zero. It demonstrates how to replace tedious manual error checking with a cleaner abstraction for propagating Option values.",
+      "summary_zh": "本文介紹如何在 Lean 4 程式語言中實作 Monad，以處理可能失敗的運算（例如除以零）。文中展示如何透過抽象化處理 Option 類型，從而取代繁瑣的手動錯誤檢查。",
+      "keywords": [
+        "Lean 4",
+        "Monads",
+        "Functional Programming",
+        "Option Type",
+        "Code Refactoring"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The content serves as a technical tutorial on implementing a specific programming pattern in Lean 4.",
+      "pacer_reason_zh": "本文內容為技術教學，示範如何在 Lean 4 中實作特定的程式設計模式。"
+    },
+    {
+      "id": "1f61a090d552d64c",
+      "title": "Ms. Bashkansky, Please Do Not Build The Torment Nexus",
+      "url": "https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-11-11T00:00:00.000Z",
+      "summary_en": "This post serves as a critical response to the rise of brain-computer interface technology, specifically targeting the push for AI-integrated telepathy. Through a fictionalized scenario of a user experiencing mental distress from a neural interface, the author argues against the development of technologies that prioritize technical capability over ethical and human safety.",
+      "summary_zh": "這篇文章對腦機介面技術的興起提出了批判，特別是針對推動 AI 整合心靈感應的趨勢。作者透過一段使用者因神經介面產生心理困擾的虛構情境，主張反對開發那些過度重視技術可行性卻忽視倫理與人類安全隱憂的技術。",
+      "keywords": [
+        "AI safety",
+        "Neural interfaces",
+        "Telepathy",
+        "Ethics",
+        "Technology criticism"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a fictional narrative analogy ('The Torment Nexus' from Jurassic Park) to argue against the ethical implications of emerging neuro-tech.",
+      "pacer_reason_zh": "文章運用虛構敘事與類比（引用《侏羅紀公園》的「痛苦連結」概念）來反思新興神經科技的倫理問題。"
+    },
+    {
+      "id": "4ed6659f14e43849",
+      "title": "Making a Website in 2026",
+      "url": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-11-10T19:00:00.000Z",
+      "summary_en": "The author reflects on Pete Millspaugh's experiment with AI-generated websites, highlighting the hidden complexity of AI-selected tech stacks. The piece questions whether AI tools prioritize unnecessary overhead and how non-technical users should navigate the trade-offs of these automated architectural decisions.",
+      "summary_zh": "作者針對 Pete Millspaugh 使用 AI 製作網站的實驗進行反思，強調 AI 自動生成的技術堆疊往往隱含過度複雜的架構。文中質疑 AI 工具是否會導入不必要的資源，並探討非技術使用者該如何面對這些自動化決策所帶來的隱形成本。",
+      "keywords": [
+        "AI",
+        "Web Development",
+        "LLM",
+        "Tech Stack",
+        "Automation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual challenges and implications of using AI to build web infrastructure, analyzing the 'what' and 'why' behind automated architectural choices.",
+      "pacer_reason_zh": "本文聚焦於使用 AI 建構網頁架構的概念性挑戰與影響，探討自動化技術決策背後的邏輯與潛在問題。"
+    },
+    {
+      "id": "0cd4af9e22a5daff",
+      "title": "Possible Futures",
+      "url": "https://borretti.me/article/possible-futures",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-11-11T13:00:00.000Z",
+      "summary_en": "This piece explores potential future scenarios and trajectories. It serves as a high-level conceptual framework for considering how different paths might unfold.",
+      "summary_zh": "這篇文章探討了潛在的未來情境與發展軌跡。它為思考未來可能發生的各種路徑提供了一個高層次的觀念框架。",
+      "keywords": [
+        "future",
+        "futures studies",
+        "forecasting",
+        "scenarios",
+        "conceptual"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article deals with abstract ideas and theoretical frameworks regarding future possibilities.",
+      "pacer_reason_zh": "本文探討關於未來可能性的抽象概念與理論框架。"
+    },
+    {
+      "id": "017654681a03a592",
+      "title": "This Week in Source Control: 11 November 2026",
+      "url": "https://nesbitt.io/2026/11/11/this-week-in-source-control.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-11T10:00:00.000Z",
+      "summary_en": "This article highlights the latest developments in version control, specifically focusing on GitHub's new 'Rubicon' storage architecture. It details how GitHub uses Azure Blob Storage and the Ref-CAS service to scale repository performance, allowing for thousands of concurrent pushes per second.",
+      "summary_zh": "本文彙整了版本控制領域的最新動態，重點介紹了 GitHub 新推出的「Rubicon」儲存架構。該架構利用 Azure Blob 儲存與 Ref-CAS 服務提升儲存效能，使儲存庫能達到每秒處理數千次併發推送的規模。",
+      "keywords": [
+        "GitHub",
+        "Git",
+        "Rubicon",
+        "Version Control",
+        "Ref-CAS"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content describes a specific technical architecture, performance benchmarks, and experimental results from GitHub's internal tests.",
+      "pacer_reason_zh": "內容描述了 GitHub 的具體技術架構、效能基準測試數據，以及內部實驗的結果。"
+    },
+    {
+      "id": "16bf760aba341750",
+      "title": "Why Am I So Tired If AI Is Doing All the Work?",
+      "url": "https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/",
+      "source": "Terrible Software",
+      "source_url": "https://terriblesoftware.org/",
+      "published": "2026-11-11T18:23:50.000Z",
+      "summary_en": "The article explores why AI-assisted work leads to fatigue rather than time savings. It argues that while AI makes initiating tasks easier, the burden of reviewing and verifying AI-generated output continues to consume significant human cognitive effort.",
+      "summary_zh": "這篇文章探討了為何人工智慧輔助工作反而導致疲勞，而非節省時間。文章指出，雖然 AI 讓啟動任務變得更容易，但審查與驗證這些輸出內容仍需耗費大量的人類心力與注意力。",
+      "keywords": [
+        "AI fatigue",
+        "productivity",
+        "cognitive load",
+        "AI workflow",
+        "work efficiency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation of a modern workplace phenomenon regarding AI's impact on human cognitive load.",
+      "pacer_reason_zh": "本文針對現代職場中 AI 如何影響人類認知負荷的現象，提供了概念性的解釋。"
+    },
+    {
+      "id": "feb008ec9e5bc5e5",
+      "title": "HowTo: Fix Eufy HomeBase 2 Storage Full Issues",
+      "url": "https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-11T12:34:05.000Z",
+      "summary_en": "This post provides a technical workaround for Eufy HomeBase 2 users experiencing storage capacity issues. It outlines a step-by-step process involving the use of an external USB memory stick and specific reformatting sequences to clear internal memory.",
+      "summary_zh": "這篇文章為遇到儲存空間不足問題的 Eufy HomeBase 2 用戶提供了實用的解決方案。內容詳述了透過外接 USB 隨身碟及特定格式化程序來清理內部儲存空間的步驟。",
+      "keywords": [
+        "Eufy",
+        "HomeBase 2",
+        "IoT",
+        "troubleshooting",
+        "storage"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a direct, step-by-step tutorial on how to fix a specific technical issue.",
+      "pacer_reason_zh": "本文是一篇直接的逐步操作指南，教導使用者如何解決特定的技術問題。"
+    },
+    {
+      "id": "5aca5acf75fbc18a",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-11-11T18:06:01.000Z",
+      "summary_en": "This article investigates the identity of the administrator behind the prominent ransomware group Qilin. By analyzing operational security mistakes made over the last decade, the author connects the group's activity to a 36-year-old individual residing in St. Petersburg, Russia.",
+      "summary_zh": "本文探討了勒索軟體組織 Qilin 背後的管理員身份。透過分析該管理員過去十年間犯下的操作安全錯誤，作者將該組織的活動指向了一名居住於俄羅斯聖彼得堡的 36 歲男子。",
+      "keywords": [
+        "Qilin",
+        "ransomware",
+        "cybercrime",
+        "Krebs on Security",
+        "opsec"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative report, presenting evidence and findings to identify a specific cybercriminal actor.",
+      "pacer_reason_zh": "本文為調查報告，透過展示證據與研究結果來識別特定的網路犯罪者。"
+    },
+    {
+      "id": "485ec329c8b74027",
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-11T22:03:25.000Z",
+      "summary_en": "Google has launched the Gemini Decisions API, a new model for handling yes/no, choice, and rubric-scoring tasks. It distinguishes itself from competitors like OpenAI and Jev by offering full multi-modal support, including video, audio, and PDF processing.",
+      "summary_zh": "Google 推出了 Gemini Decisions API，這是一種專門處理是非題、選擇題和評分任務的新模型。與 OpenAI 和 Jev 等競爭對手相比，Gemini 的優勢在於其支援包含影片、音訊及 PDF 在內的多模態處理能力。",
+      "keywords": [
+        "Gemini",
+        "AI",
+        "API",
+        "Decision Model",
+        "Multi-modal"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article benchmarks the new Gemini Decisions API against existing models like Jev and OpenAI using real-world testing and data comparisons.",
+      "pacer_reason_zh": "本文透過實際測試與數據比較，將全新的 Gemini Decisions API 與現有的 Jev 及 OpenAI 模型進行了基準測試。"
+    },
+    {
+      "id": "967141e571a3a88a",
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-11T21:18:30.000Z",
+      "summary_en": "AWS has released an official emulator that allows developers to test their applications against local versions of AWS services without requiring paid API keys. Built using Rust, the project highlights the emerging trend of agentic engineering, having utilized massive AI-driven collaboration for its development.",
+      "summary_zh": "AWS 推出了官方模擬器，讓開發人員無需支付 API 費用即可在本地測試 AWS 服務。該專案以 Rust 編寫，不僅能提升開發效率，更展示了「代理工程」的趨勢，開發初期便透過大規模 AI 協作完成了驚人的代碼產出。",
+      "keywords": [
+        "AWS",
+        "emulator",
+        "rust",
+        "testing",
+        "agentic-engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference announcement for a new software tool, providing a brief overview and link for developers.",
+      "pacer_reason_zh": "本文作為新軟體工具的參考公告，為開發者提供簡要概述與連結。"
+    },
+    {
+      "id": "8ba32157965a133a",
+      "title": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-11T18:42:50.000Z",
+      "summary_en": "Simon Willison has updated his 'vibe-coded tools' collection by implementing a tag-based browsing system. He used tree-sitter to automatically analyze the code of over 200 tools, categorizing them by the JavaScript libraries and web APIs they utilize.",
+      "summary_zh": "Simon Willison 為他的「vibe-coded 工具」合集新增了標籤分類功能，以便於瀏覽。他利用 tree-sitter 自動分析了超過 200 個工具的程式碼，並將其按所使用的 JavaScript 函式庫及 Web API 進行了分類。",
+      "keywords": [
+        "Simon Willison",
+        "tools",
+        "tree-sitter",
+        "web development",
+        "javascript"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post describes a specific update and implementation process for organizing a software tool collection.",
+      "pacer_reason_zh": "該文章描述了組織軟體工具集合的具體更新與實作過程。"
+    },
+    {
+      "id": "460872e68e9eeabb",
+      "title": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-11T17:19:52.000Z",
+      "summary_en": "Simon Willison has released LLM 0.37.2, which addresses two critical security vulnerabilities regarding the leakage of OpenAI API keys. The update ensures that keys are not accidentally sent to third-party providers when using the extra-openai-models configuration.",
+      "summary_zh": "Simon Willison 發布了 LLM 0.37.2 版本，修復了兩項關於 OpenAI API 金鑰洩漏的安全漏洞。此更新確保在使用 extra-openai-models 設定時，金鑰不會意外發送給第三方供應商。",
+      "keywords": [
+        "LLM",
+        "security",
+        "API",
+        "software release",
+        "OpenAI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing security fixes and technical updates for a specific tool.",
+      "pacer_reason_zh": "這是關於特定工具的軟體發布說明，詳細介紹了安全修復與技術更新。"
+    },
+    {
+      "id": "6e96a802abbc1d38",
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-11T15:11:59.000Z",
+      "summary_en": "Anthropic's IPO roadshow video reveals their strategic focus on hardware-agnostic AI development, allowing them to train and deploy Claude across diverse chip architectures like NVIDIA, AMD, AWS, and Google. The company highlights their ability to rapidly port models to new hardware, such as AMD GPUs, using automated tools, which significantly enhances their total effective compute capacity.",
+      "summary_zh": "Anthropic 的 IPO 路演影片揭示了其專注於硬體無關 AI 開發的策略，使其能夠在 NVIDIA、AMD、AWS 及 Google 等多種晶片架構上訓練與部署 Claude。公司強調利用自動化工具將模型快速移植至新硬體（如 AMD GPU）的能力，這大幅提升了其總體有效計算效能。",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "Compute Strategy",
+        "AI Infrastructure",
+        "Claude"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on the evidence provided in the IPO roadshow regarding Anthropic's operational efficiency and hardware benchmarks.",
+      "pacer_reason_zh": "本文重點在於 IPO 路演中提供的證據，展示了 Anthropic 的營運效率及硬體效能基準測試。"
+    },
     {
       "id": "c1d3e00c796f8c1a",
       "title": "We need more goat sacrifices",
