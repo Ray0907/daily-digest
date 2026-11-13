@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-11-12T02:34:20.575Z",
+  "last_updated": "2026-11-13T02:12:15.817Z",
   "articles": [
+    {
+      "id": "1f045681c00cb575",
+      "title": "NYC’s venture capitalists need to love themselves",
+      "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/",
+      "source": "Anil Dash",
+      "source_url": "https://anildash.com/",
+      "published": "2026-11-12T04:24:15.000Z",
+      "summary_en": "Anil Dash argues that NYC venture capitalists must stop seeking validation from Silicon Valley, which he characterizes as an entity hostile to New York's values. He contends that this lack of self-esteem harms the local tech ecosystem and advocates for a more confident, independent approach to building businesses in the city.",
+      "summary_zh": "Anil Dash 指出紐約市的創投業者應停止尋求矽谷的認同，因為矽谷的價值觀與紐約並不相容。他認為這種缺乏自信的態度損害了當地的科技生態，並呼籲紐約創投界應更有自信地經營，以保護並支持本地的創業社區。",
+      "keywords": [
+        "NYC tech",
+        "Venture Capital",
+        "Silicon Valley",
+        "Startup Ecosystem",
+        "Anil Dash"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the analogy of New York sports teams to illustrate how the city's investors are behaving timidly compared to the aggressive, independent spirit inherent to New York culture.",
+      "pacer_reason_zh": "作者透過紐約體育隊伍的類比，強調紐約創投業者的軟弱表現與紐約應有的強悍性格形成鮮明對比。"
+    },
+    {
+      "id": "68967b76e104e1af",
+      "title": "SSA from bytecode: imperative pearl",
+      "url": "https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary_en": "The article explains the process of converting stack-based bytecode from the CRuby YARV virtual machine into a high-level Static Single Assignment (SSA) intermediate representation. It details how the author simplifies this complex transformation by statically tracking stack inputs and outputs to map bytecode instructions to SSA values.",
+      "summary_zh": "本文介紹了如何將 CRuby YARV 虛擬機的堆疊式位元組碼轉換為高階靜態單一賦值 (SSA) 中間表示。作者說明了如何透過靜態追蹤堆疊的輸入與輸出，將複雜的指令轉換過程簡化為 SSA 值的對應。",
+      "keywords": [
+        "SSA",
+        "bytecode",
+        "ZJIT",
+        "compiler",
+        "CRuby"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a technical breakdown and explanation of how to implement a specific compiler transformation from stack-based bytecode to SSA form.",
+      "pacer_reason_zh": "本文針對如何將堆疊式位元組碼轉換為 SSA 形式，提供了編譯器實作的技術細節與步驟說明。"
+    },
+    {
+      "id": "049ace856e268e72",
+      "title": "First Strike",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-11-12T16:00:00.000Z",
+      "summary_en": "The article discusses the geopolitical dangers of the US-China AI race, arguing that zero-sum competition may lead to catastrophic outcomes like a preemptive ASI first strike. The author proposes a more cooperative economic strategy focused on energy and compute, while expressing concern over rising tensions.",
+      "summary_zh": "本文探討了美中 AI 競賽帶來的地緣政治風險，指出零和博弈可能導致災難性的後果，甚至引發 AI 先發制人的首輪打擊。作者提出了一種專注於能源與算力的合作策略，並對當前緊張局勢加劇引發第三次世界大戰的風險表示擔憂。",
+      "keywords": [
+        "AI race",
+        "geopolitics",
+        "compute",
+        "first strike",
+        "US-China relations"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores geopolitical concepts and theories regarding AI strategy and global conflict.",
+      "pacer_reason_zh": "內容探討了關於 AI 策略與全球衝突的地緣政治概念與理論。"
+    },
+    {
+      "id": "5681e08a45631720",
+      "title": "Technology as a Search Problem",
+      "url": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-12T13:01:45.000Z",
+      "summary_en": "This article explores the fundamental mechanisms behind technological progress and how new innovations emerge and evolve over time. It frames the development of technology as a complex search problem, seeking to understand the underlying patterns of discovery.",
+      "summary_zh": "這篇文章探討了技術進步的根本機制，以及創新如何隨著時間推移而產生與改進。作者將技術發展視為一個複雜的搜尋問題，旨在理解創新發現背後的潛在模式。",
+      "keywords": [
+        "technology",
+        "innovation",
+        "progress",
+        "search theory",
+        "research"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on defining and theorizing the nature of technological progress and how it functions as a search process.",
+      "pacer_reason_zh": "本文側重於定義並理論化技術進步的本質，以及它如何作為一種搜尋過程運作。"
+    },
+    {
+      "id": "2c3fdfcda27f6141",
+      "title": "How can I pass more than one parameter to co_await?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-12T15:00:00.000Z",
+      "summary_en": "The author explains that the co_await operator technically accepts only a single parameter. However, this parameter can be a complex object, allowing developers to effectively pass multiple values.",
+      "summary_zh": "作者解釋 co_await 運算子技術上僅接受單一參數。然而，該參數可以是複雜物件，讓開發者能夠藉此傳遞多個數值。",
+      "keywords": [
+        "C++",
+        "co_await",
+        "coroutines",
+        "programming",
+        "asynchronous"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post clarifies a conceptual constraint of the C++ co_await operator and provides a theoretical solution.",
+      "pacer_reason_zh": "本文釐清了 C++ co_await 運算子的概念限制，並提供了理論上的解決方案。"
+    },
+    {
+      "id": "a4a6b81172cc6bfb",
+      "title": "I didn’t write a program with emoji, but I did use a control character",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-11T15:00:00.000Z",
+      "summary_en": "The author shares a brief anecdote about utilizing a control character in a program rather than using emojis. This post is a short reflection on technical implementation details typical of the blog's content.",
+      "summary_zh": "作者分享了一則關於在程式中使用控制字元而非表情符號的簡短軼事。這篇文章延續了該部落格一貫簡潔的技術性實務分享風格。",
+      "keywords": [
+        "programming",
+        "control character",
+        "software development",
+        "The Old New Thing",
+        "coding"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual reflection on programming choices and implementation nuances.",
+      "pacer_reason_zh": "這篇文章提供了關於程式設計選擇與實作細節的概念性反思。"
+    },
+    {
+      "id": "a167ea7d0f55dca6",
+      "title": "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-12T12:34:10.000Z",
+      "summary_en": "This blog post offers a lukewarm review of 'This Is for Everyone,' a biography about Tim Berners-Lee. The reviewer finds the book lacking in substance, describing it as an unsatisfying mix of family anecdotes that fails to provide significant insight into the web's creator or history.",
+      "summary_zh": "本文針對提姆·柏內茲-李的傳記《This Is for Everyone》進行了評價，認為該書內容略顯平淡。書中充斥著溫馨的家庭軼事，卻缺乏對這位網路創始人及其核心使命的深入挖掘，整體令人感到不滿足。",
+      "keywords": [
+        "Book Review",
+        "Tim Berners-Lee",
+        "World Wide Web",
+        "Biography",
+        "Reading"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content evaluates and critiques a written work, drawing parallels between the subject's life and the evolution of the web.",
+      "pacer_reason_zh": "本文透過評析特定著作，將傳主的人生故事與網路的發展歷程進行對照與檢討。"
+    },
+    {
+      "id": "d686a30db5066afd",
+      "title": "Pluralistic: Uber's labor crash (12 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/12/starvation-wages/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-12T20:50:53.000Z",
+      "summary_en": "This article examines the pattern of 'premature truths' told by tech leaders like Elon Musk and Uber, arguing that promises of futuristic transportation are often calculated lies. It highlights how these companies manipulate public perception regarding labor practices and autonomous technology to maintain corporate dominance.",
+      "summary_zh": "本文探討了伊隆·馬斯克與 Uber 等科技巨頭如何編造「早熟的真相」，將對未來交通的虛假承諾作為掩蓋企業謊言的手段。文章指出，這些公司不僅在技術願景上畫大餅，更透過剝削勞工權益來維持其營運模式。",
+      "keywords": [
+        "Uber",
+        "Elon Musk",
+        "labor rights",
+        "tech industry",
+        "premature truth"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a critical conceptual analysis of corporate rhetoric and the 'premature truth' phenomenon in the tech industry.",
+      "pacer_reason_zh": "本文針對科技業的企業修辭與「早熟的真相」現象提供了深刻的概念性分析。"
+    },
+    {
+      "id": "809598b02e4206dd",
+      "title": "So you want to buy AI for your company ",
+      "url": "https://idiallo.com/byte-size/buying-ai-for-your-company",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-11-13T00:34:41.000Z",
+      "summary_en": "This article provides a satirical overview of the overwhelming landscape of AI models, detailing various benchmarks and subjective recommendations for enterprise and developer use. It highlights the confusing variety of model versions while advising on specific tools and workflows for programmers.",
+      "summary_zh": "本文以諷刺手法介紹了令人眼花繚亂的 AI 模型生態，詳細列舉了各種基準測試數據及針對企業與開發者的主觀建議。文中揭示了模型版本選擇的混亂，並提供了程式設計師在工作流程中的工具選擇指南。",
+      "keywords": [
+        "AI",
+        "LLM",
+        "Benchmarks",
+        "Software Development",
+        "Enterprise AI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a reference list of various AI models and tools, comparing their benchmark scores and subjective utility for specific tasks.",
+      "pacer_reason_zh": "本文主要作為各類 AI 模型與工具的參考清單，並列舉了它們的基準測試分數與在特定任務中的主觀適用性。"
+    },
+    {
+      "id": "5b86eed0286e0e3b",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-12T22:55:19.000Z",
+      "summary_en": "Simon Willison updates the llm-gemini tool to version 0.37 following the launch of Google's Gemini 4 Hydrogen model. The post analyzes the confusing pricing structure of the new Gemini 4 series, noting the lack of significant cost differentiation between the models.",
+      "summary_zh": "Simon Willison 更新了 llm-gemini 工具至 0.37 版本，以適應 Google 新推出的 Gemini 4 Hydrogen 模型。文章分析了 Gemini 4 系列令人困惑的定價結構，並指出新模型與現有模型之間的價格差異並不顯著。",
+      "keywords": [
+        "Gemini 4",
+        "llm-gemini",
+        "Simon Willison",
+        "AI pricing",
+        "LLM"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content primarily provides a pricing table and reference information regarding the new Gemini 4 model release.",
+      "pacer_reason_zh": "內容主要提供關於新版 Gemini 4 模型發布的定價表格與參考資訊。"
+    },
     {
       "id": "459456b6ccf41c1f",
       "title": "Monads in Lean",

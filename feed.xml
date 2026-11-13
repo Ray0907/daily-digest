@@ -4,8 +4,98 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 12 Nov 2026 02:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:12:16 GMT</lastBuildDate>
     
+    <item>
+      <title>NYC’s venture capitalists need to love themselves</title>
+      <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
+      <guid>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</guid>
+      <pubDate>Thu, 12 Nov 2026 04:24:15 GMT</pubDate>
+      <source url="https://anildash.com/">Anil Dash</source>
+      <description>Anil Dash argues that NYC venture capitalists must stop seeking validation from Silicon Valley, which he characterizes as an entity hostile to New York's values. He contends that this lack of self-esteem harms the local tech ecosystem and advocates for a more confident, independent approach to building businesses in the city.</description>
+    </item>
+
+    <item>
+      <title>SSA from bytecode: imperative pearl</title>
+      <link>https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>The article explains the process of converting stack-based bytecode from the CRuby YARV virtual machine into a high-level Static Single Assignment (SSA) intermediate representation. It details how the author simplifies this complex transformation by statically tracking stack inputs and outputs to map bytecode instructions to SSA values.</description>
+    </item>
+
+    <item>
+      <title>First Strike</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The article discusses the geopolitical dangers of the US-China AI race, arguing that zero-sum competition may lead to catastrophic outcomes like a preemptive ASI first strike. The author proposes a more cooperative economic strategy focused on energy and compute, while expressing concern over rising tensions.</description>
+    </item>
+
+    <item>
+      <title>Technology as a Search Problem</title>
+      <link>https://www.construction-physics.com/p/technology-as-a-search-problem</link>
+      <guid>https://www.construction-physics.com/p/technology-as-a-search-problem</guid>
+      <pubDate>Thu, 12 Nov 2026 13:01:45 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This article explores the fundamental mechanisms behind technological progress and how new innovations emerge and evolve over time. It frames the development of technology as a complex search problem, seeking to understand the underlying patterns of discovery.</description>
+    </item>
+
+    <item>
+      <title>How can I pass more than one parameter to co_await?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>The author explains that the co_await operator technically accepts only a single parameter. However, this parameter can be a complex object, allowing developers to effectively pass multiple values.</description>
+    </item>
+
+    <item>
+      <title>I didn’t write a program with emoji, but I did use a control character</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>The author shares a brief anecdote about utilizing a control character in a program rather than using emojis. This post is a short reflection on technical implementation details typical of the blog's content.</description>
+    </item>
+
+    <item>
+      <title>Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:34:10 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This blog post offers a lukewarm review of 'This Is for Everyone,' a biography about Tim Berners-Lee. The reviewer finds the book lacking in substance, describing it as an unsatisfying mix of family anecdotes that fails to provide significant insight into the web's creator or history.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Uber's labor crash (12 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/12/starvation-wages/</link>
+      <guid>https://pluralistic.net/2026/11/12/starvation-wages/</guid>
+      <pubDate>Thu, 12 Nov 2026 20:50:53 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article examines the pattern of 'premature truths' told by tech leaders like Elon Musk and Uber, arguing that promises of futuristic transportation are often calculated lies. It highlights how these companies manipulate public perception regarding labor practices and autonomous technology to maintain corporate dominance.</description>
+    </item>
+
+    <item>
+      <title>So you want to buy AI for your company </title>
+      <link>https://idiallo.com/byte-size/buying-ai-for-your-company</link>
+      <guid>https://idiallo.com/byte-size/buying-ai-for-your-company</guid>
+      <pubDate>Fri, 13 Nov 2026 00:34:41 GMT</pubDate>
+      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
+      <description>This article provides a satirical overview of the overwhelming landscape of AI models, detailing various benchmarks and subjective recommendations for enterprise and developer use. It highlights the confusing variety of model versions while advising on specific tools and workflows for programmers.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <guid>https://simonwillison.net/2026/Nov/12/llm-gemini/</guid>
+      <pubDate>Thu, 12 Nov 2026 22:55:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison updates the llm-gemini tool to version 0.37 following the launch of Google's Gemini 4 Hydrogen model. The post analyzes the confusing pricing structure of the new Gemini 4 series, noting the lack of significant cost differentiation between the models.</description>
+    </item>
+
     <item>
       <title>Monads in Lean</title>
       <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
@@ -814,96 +904,6 @@
       <pubDate>Mon, 02 Nov 2026 23:00:00 GMT</pubDate>
       <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
       <description>The author shares their methodology for accurately predicting the total number of runs in the 2026 World Baseball Classic knockout stage. By comparing a simple baseline guess with granular count modeling techniques, the article illustrates a statistical approach to sports forecasting.</description>
-    </item>
-
-    <item>
-      <title>Pumpkin Seeds</title>
-      <link>https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera</link>
-      <guid>https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera</guid>
-      <pubDate>Tue, 03 Nov 2026 02:49:10 GMT</pubDate>
-      <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
-      <description>This post explores the cultural fascination with Halloween, focusing on the enduring popularity of cryptids like the Mothman. It reflects on how monsters remain a staple of seasonal pop culture through various media and storytelling traditions.</description>
-    </item>
-
-    <item>
-      <title>I wish tech companies knew more about me</title>
-      <link>https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</link>
-      <guid>https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://rakhim.exotext.com/">Rakhim's blog</source>
-      <description>The author challenges the narrative that tech companies have omniscient knowledge of their users, providing personal anecdotes where algorithms fail to deliver relevant ads or recognize simple behavioral patterns. These experiences highlight significant flaws in current data collection and personalization efforts, suggesting that big data remains surprisingly ineffective.</description>
-    </item>
-
-    <item>
-      <title>Fraction comparison trick revisited</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:41:25 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article examines a mathematical curiosity regarding fraction comparisons, where the inequality a/b &gt; c/d is often implied by the condition a + d &gt; b + c. The author discusses the rigorous probabilistic proof for this phenomenon by evaluating the limit as the range of chosen integers approaches infinity.</description>
-    </item>
-
-    <item>
-      <title>Euclidean, Spherical, and Projective Geometry</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:33:10 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the relationships between Euclidean, spherical, and projective geometries by revisiting the foundational postulates of Euclid. It highlights how these distinct geometric systems are interconnected despite their perceived differences in tangibility and complexity.</description>
-    </item>
-
-    <item>
-      <title>How a programming might reinvent the projective plane</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/</guid>
-      <pubDate>Tue, 03 Nov 2026 10:45:19 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post explores how practical programming techniques used by graphics developers can lead to a rigorous mathematical definition of the projective plane. It discusses the process of adding 'points at infinity' to the Euclidean plane to resolve geometric intersections.</description>
-    </item>
-
-    <item>
-      <title>How do you implement a random-access database when you don’t have random-access external storage?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post provides a concise solution for implementing a random-access database in environments lacking random-access external storage. The author suggests storing the entire database directly in the application's memory.</description>
-    </item>
-
-    <item>
-      <title>Just a little AI resistance, as a treat</title>
-      <link>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:34:31 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author advocates for active public pushback against poor or unethical implementations of AI, exemplified by the 'AI Resist List'. The post highlights the importance of holding organizations accountable for negative AI-driven practices through direct engagement and feedback.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Separable (03 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/03/nobody-is-home/</link>
-      <guid>https://pluralistic.net/2026/11/03/nobody-is-home/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:19:29 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow reflects on the historical 'Edison Tone Tests' to illustrate how AI decouples creative outputs from their human origins. He argues that our brains are conditioned to assume a performer exists behind every performance, a bias now being exploited by generative technology.</description>
-    </item>
-
-    <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <guid>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
-      <pubDate>Tue, 03 Nov 2026 16:29:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The article discusses 'Weight-Space Programming,' a new capability where LLMs can interpret and directly modify the raw numerical weights of other neural networks. The author demonstrates that even local models like Qwen 27B can perform these tasks, effectively improving performance without traditional gradient-based training.</description>
-    </item>
-
-    <item>
-      <title>I discovered a sound that leaks your exact location (and it's everywhere) - YouTube</title>
-      <link>https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</link>
-      <guid>https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</guid>
-      <pubDate>Tue, 03 Nov 2026 05:32:25 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This article highlights an innovative OSINT technique that uses ambient airplane engine noise in video recordings to pinpoint a precise location. By analyzing Doppler frequency shifts and cross-referencing them with ADS-B flight data, investigators can track flight paths to geolocate video sources.</description>
     </item>
   </channel>
 </rss>
