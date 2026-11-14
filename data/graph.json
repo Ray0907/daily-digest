@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "4cb58a6ed2a63999",
+      "title": "datasette-cluster-map 0.19",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-cluster-map",
+        "leaflet",
+        "openstreetmap",
+        "data-visualization"
+      ],
+      "published": "2026-11-13T23:02:45.000Z"
+    },
+    {
+      "id": "e1058067669e2b5f",
+      "title": "datasette-leaflet 0.3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "pacer": "P",
+      "keywords": [
+        "datasette",
+        "leaflet",
+        "openstreetmap",
+        "plugin",
+        "release"
+      ],
+      "published": "2026-11-13T22:30:54.000Z"
+    },
+    {
+      "id": "0b406b1cea07bf6d",
+      "title": "Pluralistic: I told you so (13 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/13/outlookpocalypse/",
+      "pacer": "C",
+      "keywords": [
+        "antitrust",
+        "monopoly",
+        "policy",
+        "copyright",
+        "regulation"
+      ],
+      "published": "2026-11-13T19:44:37.000Z"
+    },
+    {
+      "id": "579aa129bfed87fd",
+      "title": "The avalanche that hit math is coming for AI development",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Artificial Intelligence",
+        "Technology Trends",
+        "Future Forecasting"
+      ],
+      "published": "2026-11-13T18:37:51.000Z"
+    },
+    {
+      "id": "5145b2945d317d6d",
+      "title": "This Week on The Analog Antiquarian",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+      "pacer": "C",
+      "keywords": [
+        "Titus Andronicus",
+        "retro gaming",
+        "The Digital Antiquarian",
+        "game development",
+        "gaming history"
+      ],
+      "published": "2026-11-13T17:07:18.000Z"
+    },
+    {
+      "id": "114ed2f21593559c",
+      "title": "How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/",
+      "pacer": "P",
+      "keywords": [
+        "C++",
+        "co_await",
+        "coroutines",
+        "programming",
+        "refactoring"
+      ],
+      "published": "2026-11-13T15:00:00.000Z"
+    },
+    {
+      "id": "6aae6c8b3799daf8",
+      "title": "Kepler and the dwarf",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/",
+      "pacer": "E",
+      "keywords": [
+        "Kepler",
+        "astronomy",
+        "dwarf planet",
+        "physics",
+        "orbital mechanics"
+      ],
+      "published": "2026-11-13T14:54:38.000Z"
+    },
+    {
+      "id": "13311e5f13e2f97d",
+      "title": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
+      "pacer": "E",
+      "keywords": [
+        "Thermal Master",
+        "P3 Lite",
+        "thermal camera",
+        "hardware review",
+        "electronics"
+      ],
+      "published": "2026-11-13T12:34:48.000Z"
+    },
+    {
+      "id": "06f48e6745dd2458",
+      "title": "Long permutations and long cycles",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/13/long-cycles/",
+      "pacer": "C",
+      "keywords": [
+        "permutations",
+        "mathematics",
+        "cycle decomposition",
+        "combinatorics",
+        "John D. Cook"
+      ],
+      "published": "2026-11-13T11:59:31.000Z"
+    },
+    {
       "id": "809598b02e4206dd",
       "title": "So you want to buy AI for your company ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -177,22 +321,6 @@
       "published": "2026-11-11T21:18:30.000Z"
     },
     {
-      "id": "8ba32157965a133a",
-      "title": "Browse tools.simonwillison.net by tag",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "pacer": "P",
-      "keywords": [
-        "Simon Willison",
-        "tools",
-        "tree-sitter",
-        "web development",
-        "javascript"
-      ],
-      "published": "2026-11-11T18:42:50.000Z"
-    },
-    {
       "id": "16bf760aba341750",
       "title": "Why Am I So Tired If AI Is Doing All the Work?",
       "source": "Terrible Software",
@@ -223,22 +351,6 @@
         "opsec"
       ],
       "published": "2026-11-11T18:06:01.000Z"
-    },
-    {
-      "id": "460872e68e9eeabb",
-      "title": "llm 0.37.2",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/11/llm/",
-      "pacer": "R",
-      "keywords": [
-        "LLM",
-        "security",
-        "API",
-        "software release",
-        "OpenAI"
-      ],
-      "published": "2026-11-11T17:19:52.000Z"
     },
     {
       "id": "a4a6b81172cc6bfb",
@@ -609,38 +721,6 @@
       "published": "2026-11-09T15:00:00.000Z"
     },
     {
-      "id": "f01345e6354db721",
-      "title": "Finite hyperbolic planes",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/",
-      "pacer": "C",
-      "keywords": [
-        "geometry",
-        "hyperbolic plane",
-        "Euclid",
-        "mathematics",
-        "parallel lines"
-      ],
-      "published": "2026-11-09T14:26:09.000Z"
-    },
-    {
-      "id": "cdb551a9021d36c7",
-      "title": "Finite Affine Planes",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/",
-      "pacer": "C",
-      "keywords": [
-        "affine geometry",
-        "finite geometry",
-        "Euclidean geometry",
-        "incidence properties",
-        "mathematics"
-      ],
-      "published": "2026-11-09T14:21:49.000Z"
-    },
-    {
       "id": "030d1451c78c46c5",
       "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
       "source": "Terence Eden’s Blog",
@@ -767,22 +847,6 @@
         "DIP package"
       ],
       "published": "2026-11-08T16:12:25.557Z"
-    },
-    {
-      "id": "49408d89a1e18552",
-      "title": "Some thoughts on restaurant menu QR codes",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/",
-      "pacer": "C",
-      "keywords": [
-        "hotels",
-        "keycards",
-        "technology",
-        "user experience",
-        "frustration"
-      ],
-      "published": "2026-11-08T12:34:01.000Z"
     },
     {
       "id": "c8f8d1cd7c47bf28",
@@ -929,22 +993,6 @@
       "published": "2026-11-06T15:34:48.000Z"
     },
     {
-      "id": "095ca6b274b84c8c",
-      "title": "Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
-      "pacer": "C",
-      "keywords": [
-        "atomicity",
-        "hot-patching",
-        "multithreading",
-        "software development",
-        "concurrency"
-      ],
-      "published": "2026-11-06T15:00:00.000Z"
-    },
-    {
       "id": "3e38e7e4b34f1afd",
       "title": "How Do Building Codes Affect the Price of Housing?",
       "source": "Construction Physics",
@@ -1071,22 +1119,6 @@
         "iPhone"
       ],
       "published": "2026-11-05T20:20:10.000Z"
-    },
-    {
-      "id": "c49f69d3ee3119ad",
-      "title": "Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/05/see-you-in-court/",
-      "pacer": "C",
-      "keywords": [
-        "CDA 230",
-        "Tech Policy",
-        "Monopoly",
-        "Web Scraping",
-        "Internet Regulation"
-      ],
-      "published": "2026-11-05T08:53:45.000Z"
     },
     {
       "id": "a268ea9382891c77",
@@ -2625,22 +2657,6 @@
       "published": "2026-10-02T09:30:00.000Z"
     },
     {
-      "id": "5a5b19102292d48d",
-      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/si-sheppard",
-      "pacer": "C",
-      "keywords": [
-        "Si Sheppard",
-        "Aztec",
-        "Inca",
-        "Conquistadors",
-        "History"
-      ],
-      "published": "2026-10-01T15:28:28.000Z"
-    },
-    {
       "id": "13abe05468a04dc2",
       "title": "Why Americans Stopped Throwing Dinner Parties",
       "source": "Derek Thompson | The Atlantic",
@@ -2959,22 +2975,6 @@
         "curation"
       ],
       "published": "2026-09-18T17:40:02.000Z"
-    },
-    {
-      "id": "7cd5300d060c2b55",
-      "title": "The Lamentable Later Life of Lemmings",
-      "source": "The Digital Antiquarian",
-      "source_url": "https://www.filfre.net/",
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "pacer": "C",
-      "keywords": [
-        "Lemmings",
-        "DMA Design",
-        "gaming history",
-        "video games",
-        "game development"
-      ],
-      "published": "2026-09-18T15:39:55.000Z"
     },
     {
       "id": "a54241a7fc8f18e5",
@@ -5011,6 +5011,27 @@
     }
   ],
   "links": [
+    {
+      "source": "4cb58a6ed2a63999",
+      "target": "e1058067669e2b5f",
+      "shared_keywords": [
+        "datasette",
+        "leaflet",
+        "openstreetmap"
+      ],
+      "strength": 0.6
+    },
+    {
+      "source": "114ed2f21593559c",
+      "target": "2c3fdfcda27f6141",
+      "shared_keywords": [
+        "C++",
+        "co_await",
+        "coroutines",
+        "programming"
+      ],
+      "strength": 0.8
+    },
     {
       "source": "5e396018eb1a2135",
       "target": "227dc8c9205b1aff",

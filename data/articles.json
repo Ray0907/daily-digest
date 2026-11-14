@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-11-13T02:12:15.817Z",
+  "last_updated": "2026-11-14T01:53:21.864Z",
   "articles": [
+    {
+      "id": "5145b2945d317d6d",
+      "title": "This Week on The Analog Antiquarian",
+      "url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-11-13T17:07:18.000Z",
+      "summary_en": "This entry explores the historical and mechanical intricacies of the early computer game Titus Andronicus. It provides an in-depth look at the development context and design philosophy behind this vintage title.",
+      "summary_zh": "本篇文章探討了早期電腦遊戲《Titus Andronicus》的歷史背景與機制。文中深入分析了該復古遊戲背後的開發脈絡與設計理念。",
+      "keywords": [
+        "Titus Andronicus",
+        "retro gaming",
+        "The Digital Antiquarian",
+        "game development",
+        "gaming history"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on providing a conceptual exploration and historical overview of a specific game.",
+      "pacer_reason_zh": "該內容側重於對特定遊戲的概念性探索與歷史概述。"
+    },
+    {
+      "id": "579aa129bfed87fd",
+      "title": "The avalanche that hit math is coming for AI development",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-11-13T18:37:51.000Z",
+      "summary_en": "The article explores the rapid acceleration of artificial intelligence development, suggesting that the pace of progress is mirroring mathematical breakthroughs. The author argues that based on current trajectories, the arrival of superintelligence is likely to occur by 2030.",
+      "summary_zh": "本文探討了人工智慧發展的快速演進，並指出其進展速度正如同數學領域的突破般呈指數級成長。作者認為，基於目前的發展趨勢，超智慧極有可能在 2030 年前實現。",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Artificial Intelligence",
+        "Technology Trends",
+        "Future Forecasting"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on high-level conceptual frameworks and theoretical timelines regarding the future of artificial intelligence.",
+      "pacer_reason_zh": "內容側重於高層次的概念框架，以及關於人工智慧未來發展的理論時間表。"
+    },
+    {
+      "id": "6aae6c8b3799daf8",
+      "title": "Kepler and the dwarf",
+      "url": "https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-13T14:54:38.000Z",
+      "summary_en": "The author verifies the orbital period of a newly discovered dwarf planet candidate using Kepler’s third law. By performing a back-of-the-envelope calculation, the author demonstrates how physical laws can be applied to evaluate astronomical claims.",
+      "summary_zh": "作者利用克卜勒第三定律，驗證了一顆新發現的矮行星候選天體的公轉週期。透過簡單的估算過程，作者展示了如何運用物理定律來檢視天文觀測數據的準確性。",
+      "keywords": [
+        "Kepler",
+        "astronomy",
+        "dwarf planet",
+        "physics",
+        "orbital mechanics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides a practical application and verification of a scientific law using real-world astronomical data.",
+      "pacer_reason_zh": "本文展示了如何利用實際的天文數據進行科學定律的驗證與應用。"
+    },
+    {
+      "id": "06f48e6745dd2458",
+      "title": "Long permutations and long cycles",
+      "url": "https://www.johndcook.com/blog/2026/11/13/long-cycles/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-13T11:59:31.000Z",
+      "summary_en": "This article explores the mathematical properties of permutations, specifically how repeatedly rearranging a set of elements eventually leads back to the original sequence. It explains the concept of cycle decomposition, illustrating how different elements move within cycles of varying lengths.",
+      "summary_zh": "本文探討了排列的數學特性，特別是重複對一組元素進行排列最終會回到原始順序的原理。文中解釋了循環分解的概念，並說明了不同元素如何在不同長度的循環中移動。",
+      "keywords": [
+        "permutations",
+        "mathematics",
+        "cycle decomposition",
+        "combinatorics",
+        "John D. Cook"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains mathematical concepts and definitions related to permutation cycles.",
+      "pacer_reason_zh": "本文解釋了與排列循環相關的數學概念與定義。"
+    },
+    {
+      "id": "114ed2f21593559c",
+      "title": "How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-13T15:00:00.000Z",
+      "summary_en": "This post discusses methods to simplify the usage of a helper class in C++ for passing multiple parameters to co_await. The focus is on reducing boilerplate code by eliminating the need to explicitly type the helper class name.",
+      "summary_zh": "本文探討了如何簡化 C++ 中用於將多個參數傳遞給 co_await 的輔助類別用法。重點在於透過消除顯式輸入輔助類別名稱的需求，來減少樣板程式碼。",
+      "keywords": [
+        "C++",
+        "co_await",
+        "coroutines",
+        "programming",
+        "refactoring"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post provides a technical solution and guidance on how to implement code improvements.",
+      "pacer_reason_zh": "本文提供了關於如何實作程式碼改進的技術解決方案與指導。"
+    },
+    {
+      "id": "13311e5f13e2f97d",
+      "title": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-13T12:34:48.000Z",
+      "summary_en": "This post reviews the Thermal Master P3 Lite thermal camera, highlighting its macro lens capability for inspecting electronic components. It compares the new model against previous Thermal Master iterations to evaluate its performance and utility.",
+      "summary_zh": "本文評測了 Thermal Master P3 Lite 熱成像儀，特別介紹了其微距鏡頭在檢測微小電子元件方面的應用。作者透過與該品牌過往機型的比較，評估了這款產品的性能與實用性。",
+      "keywords": [
+        "Thermal Master",
+        "P3 Lite",
+        "thermal camera",
+        "hardware review",
+        "electronics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article is primarily a product review and performance comparison, which serves as an evaluation based on the author's experience.",
+      "pacer_reason_zh": "本文主要為產品評測與性能比較，屬於基於作者使用經驗的實證性內容。"
+    },
+    {
+      "id": "0b406b1cea07bf6d",
+      "title": "Pluralistic: I told you so (13 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/13/outlookpocalypse/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-13T19:44:37.000Z",
+      "summary_en": "Cory Doctorow critiques how antitrust laws have been weakened by shifts in legal interpretation, rendering monopolies nearly immune to challenge. He explains that policy effectiveness relies on the interplay between substance, scope, and administrability, illustrating how modern regulatory environments fail to address digital-era corporate power.",
+      "summary_zh": "柯瑞·多克托羅評論反壟斷法如何因法律解釋的改變而被削弱，導致壟斷企業幾乎不受制裁。他指出政策的有效性取決於內容、範圍與可執行性之間的相互作用，並說明現代監管環境如何未能有效應對數位時代的企業權力。",
+      "keywords": [
+        "antitrust",
+        "monopoly",
+        "policy",
+        "copyright",
+        "regulation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a theoretical framework for understanding policy failures and the structural impact of legal changes on corporate monopolies.",
+      "pacer_reason_zh": "本文提供了一個理解政策失敗的理論框架，並探討了法律變更對企業壟斷結構的影響。"
+    },
+    {
+      "id": "4cb58a6ed2a63999",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-13T23:02:45.000Z",
+      "summary_en": "Datasette-cluster-map version 0.19 has been released, featuring compatibility with Datasette 1.0a42 and a dependency update for OpenStreetMap tile requests. The post highlights the plugin's utility through a power plant map visualization that demonstrates Datasette's newly redesigned facets.",
+      "summary_zh": "Datasette-cluster-map 0.19 版本正式發布，現已支援 Datasette 1.0a42 並更新了 OpenStreetMap 圖磚請求機制。文中透過展示加州發電廠地圖，演示了該插件結合 Datasette 最新改版分面功能（facets）的實際應用。",
+      "keywords": [
+        "datasette",
+        "datasette-cluster-map",
+        "leaflet",
+        "openstreetmap",
+        "data-visualization"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement serving as a reference update for existing tool users.",
+      "pacer_reason_zh": "這是軟體發布公告，作為現有工具使用者的版本更新參考資訊。"
+    },
+    {
+      "id": "e1058067669e2b5f",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-13T22:30:54.000Z",
+      "summary_en": "Datasette-leaflet version 0.3 has been released to address compatibility issues with OpenStreetMap's tile server policy. The plugin now modifies the referrer policy for tile requests to comply with tile server requirements while protecting user privacy.",
+      "summary_zh": "Datasette-leaflet 0.3 版本發布，旨在解決與 OpenStreetMap 圖磚伺服器政策的相容性問題。該插件現已調整圖磚請求的參照來源政策，以符合伺服器要求並同時保護隱私。",
+      "keywords": [
+        "datasette",
+        "leaflet",
+        "openstreetmap",
+        "plugin",
+        "release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is a release announcement describing a functional update and technical change to a software plugin.",
+      "pacer_reason_zh": "這是一則軟體插件的發布公告，描述了功能更新與技術變更。"
+    },
     {
       "id": "1f045681c00cb575",
       "title": "NYC’s venture capitalists need to love themselves",

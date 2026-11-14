@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 13 Nov 2026 02:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:53:22 GMT</lastBuildDate>
     
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/</link>
+      <guid>https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 13 Nov 2026 17:07:18 GMT</pubDate>
+      <source url="https://www.filfre.net/">The Digital Antiquarian</source>
+      <description>This entry explores the historical and mechanical intricacies of the early computer game Titus Andronicus. It provides an in-depth look at the development context and design philosophy behind this vintage title.</description>
+    </item>
+
+    <item>
+      <title>The avalanche that hit math is coming for AI development</title>
+      <link>https://www.dwarkesh.com/p/rsi</link>
+      <guid>https://www.dwarkesh.com/p/rsi</guid>
+      <pubDate>Fri, 13 Nov 2026 18:37:51 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>The article explores the rapid acceleration of artificial intelligence development, suggesting that the pace of progress is mirroring mathematical breakthroughs. The author argues that based on current trajectories, the arrival of superintelligence is likely to occur by 2030.</description>
+    </item>
+
+    <item>
+      <title>Kepler and the dwarf</title>
+      <link>https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/</guid>
+      <pubDate>Fri, 13 Nov 2026 14:54:38 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The author verifies the orbital period of a newly discovered dwarf planet candidate using Kepler’s third law. By performing a back-of-the-envelope calculation, the author demonstrates how physical laws can be applied to evaluate astronomical claims.</description>
+    </item>
+
+    <item>
+      <title>Long permutations and long cycles</title>
+      <link>https://www.johndcook.com/blog/2026/11/13/long-cycles/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/13/long-cycles/</guid>
+      <pubDate>Fri, 13 Nov 2026 11:59:31 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the mathematical properties of permutations, specifically how repeatedly rearranging a set of elements eventually leads back to the original sequence. It explains the concept of cycle decomposition, illustrating how different elements move within cycles of varying lengths.</description>
+    </item>
+
+    <item>
+      <title>How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post discusses methods to simplify the usage of a helper class in C++ for passing multiple parameters to co_await. The focus is on reducing boilerplate code by eliminating the need to explicitly type the helper class name.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:34:48 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post reviews the Thermal Master P3 Lite thermal camera, highlighting its macro lens capability for inspecting electronic components. It compares the new model against previous Thermal Master iterations to evaluate its performance and utility.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: I told you so (13 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/13/outlookpocalypse/</link>
+      <guid>https://pluralistic.net/2026/11/13/outlookpocalypse/</guid>
+      <pubDate>Fri, 13 Nov 2026 19:44:37 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>Cory Doctorow critiques how antitrust laws have been weakened by shifts in legal interpretation, rendering monopolies nearly immune to challenge. He explains that policy effectiveness relies on the interplay between substance, scope, and administrability, illustrating how modern regulatory environments fail to address digital-era corporate power.</description>
+    </item>
+
+    <item>
+      <title>datasette-cluster-map 0.19</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
+      <guid>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</guid>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-cluster-map version 0.19 has been released, featuring compatibility with Datasette 1.0a42 and a dependency update for OpenStreetMap tile requests. The post highlights the plugin's utility through a power plant map visualization that demonstrates Datasette's newly redesigned facets.</description>
+    </item>
+
+    <item>
+      <title>datasette-leaflet 0.3</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</link>
+      <guid>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</guid>
+      <pubDate>Fri, 13 Nov 2026 22:30:54 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-leaflet version 0.3 has been released to address compatibility issues with OpenStreetMap's tile server policy. The plugin now modifies the referrer policy for tile requests to comply with tile server requirements while protecting user privacy.</description>
+    </item>
+
     <item>
       <title>NYC’s venture capitalists need to love themselves</title>
       <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
@@ -823,87 +904,6 @@
       <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
       <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
       <description>This post highlights the common pitfall in technical documentation where experts assume too much prior knowledge from the reader. It emphasizes the need for clarity and context when explaining features that involve ranking systems.</description>
-    </item>
-
-    <item>
-      <title>Book Review: Practice by Rosalind Brown ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:34:07 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>Terence Eden reviews Rosalind Brown's book 'Practice', a day-in-the-life narrative that he describes as a stunning and Proustian experience. He maintains a personal policy of purchasing books written by people he meets, which has led him to discover this delightful work.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/04/genius-scan-is-neither/</link>
-      <guid>https://pluralistic.net/2026/11/04/genius-scan-is-neither/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:45:02 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow critiques the current trend of tech companies forcing AI features into user interfaces, labeling it the 'AI fatfinger economy.' He argues this UI manipulation is a continuation of past corporate tactics used to inflate valuation for investors at the expense of user experience.</description>
-    </item>
-
-    <item>
-      <title>Goodhart's Law, but We Already Spent All Our Money </title>
-      <link>https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</link>
-      <guid>https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The article critiques how modern industries, including sports, video games, and AI, are exclusively valued by their monetary output rather than their inherent quality or community impact. It applies Goodhart's Law to explain that using financial metrics as targets leads to distorted outcomes, such as the current trend of over-investing in AI to project success.</description>
-    </item>
-
-    <item>
-      <title>datasette-llm 0.1a10</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
-      <guid>https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:26:02 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.1a10 of datasette-llm. This update specifically fixes a bug that incorrectly handled model restriction settings on the agent.datasette.io demo site.</description>
-    </item>
-
-    <item>
-      <title>datasette-apps 0.3a0</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-apps/</link>
-      <guid>https://simonwillison.net/2026/Nov/4/datasette-apps/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:29:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette Apps 0.3a0 introduces enhanced integration with Datasette Agent, allowing users to create and manage custom HTML applications directly via chat. The update features improved autocomplete for app references and new tools for managing stored queries with mandatory user approval for write operations.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent 0.5a0</title>
-      <link>https://simonwillison.net/2026/Nov/3/datasette-agent/</link>
-      <guid>https://simonwillison.net/2026/Nov/3/datasette-agent/</guid>
-      <pubDate>Tue, 03 Nov 2026 23:13:45 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette Agent 0.5a0 introduces a new 'panel' feature that allows users to chat with an AI agent alongside their data-driven applications. This release enables users to build and modify database-backed apps directly through a split-screen interface.</description>
-    </item>
-
-    <item>
-      <title>llm 0.37.1</title>
-      <link>https://simonwillison.net/2026/Nov/3/llm/</link>
-      <guid>https://simonwillison.net/2026/Nov/3/llm/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:41:42 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released version 0.37.1 of the LLM command-line utility. This update serves as a bugfix release and includes contributions from several community developers.</description>
-    </item>
-
-    <item>
-      <title>New Article, Annual LFP Charity Discount</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</link>
-      <guid>https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:06:44 GMT</pubDate>
-      <source url="https://buttondown.com/hillelwayne">Computer Things</source>
-      <description>The author announced a new article discussing the trade-offs between Deterministic Simulation Testing and Formal Methods. Additionally, they are hosting a charity drive for the Greater Chicago Food Depository, offering their 'Logic for Programmers' book at a 50% discount until the end of the month.</description>
-    </item>
-
-    <item>
-      <title>Runs scored in World Baseball Classic</title>
-      <link>https://entropicthoughts.com/sums-of-overdispersed-counts</link>
-      <guid>https://entropicthoughts.com/sums-of-overdispersed-counts</guid>
-      <pubDate>Mon, 02 Nov 2026 23:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The author shares their methodology for accurately predicting the total number of runs in the 2026 World Baseball Classic knockout stage. By comparing a simple baseline guess with granular count modeling techniques, the article illustrates a statistical approach to sports forecasting.</description>
     </item>
   </channel>
 </rss>
