@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "e9477865501b0215",
+      "title": "datasette-llm 0.1a11",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "pacer": "P",
+      "keywords": [
+        "datasette",
+        "llm",
+        "plugin",
+        "openai",
+        "local-models"
+      ],
+      "published": "2026-11-14T23:59:28.000Z"
+    },
+    {
+      "id": "4f7f1f7fcbbee0ff",
+      "title": "datasette-vega 0.7",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "vega-lite",
+        "plugin",
+        "data visualization",
+        "software release"
+      ],
+      "published": "2026-11-14T17:09:09.000Z"
+    },
+    {
+      "id": "1272e13dfcfeeb33",
+      "title": "Ops needs friction",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/ops-needs-friction/",
+      "pacer": "C",
+      "keywords": [
+        "Ops",
+        "Infrastructure",
+        "System Outage",
+        "Software Development",
+        "Mindset"
+      ],
+      "published": "2026-11-14T16:30:00.000Z"
+    },
+    {
+      "id": "a1b8ca3cea6a8353",
+      "title": "Reading List 11/14/2026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "url": "https://www.construction-physics.com/p/reading-list-11142026",
+      "pacer": "R",
+      "keywords": [
+        "construction",
+        "technology",
+        "aviation",
+        "news-digest",
+        "engineering"
+      ],
+      "published": "2026-11-14T16:09:38.000Z"
+    },
+    {
+      "id": "c4e8ceae73413d29",
+      "title": "The longest polynomial level set",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/",
+      "pacer": "C",
+      "keywords": [
+        "polynomial",
+        "Erdős conjecture",
+        "mathematics",
+        "level set",
+        "Teng Zhang"
+      ],
+      "published": "2026-11-14T15:54:10.000Z"
+    },
+    {
+      "id": "40a5e4027f2cdda8",
+      "title": "Peeking inside the bash rabbit hole",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/",
+      "pacer": "P",
+      "keywords": [
+        "Bash",
+        "Linux",
+        "Shell",
+        "CLI",
+        "Productivity"
+      ],
+      "published": "2026-11-14T13:09:57.000Z"
+    },
+    {
+      "id": "11c3c19408e9eb28",
+      "title": "Theatre Review: FrankenTacit ★★☆☆☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/",
+      "pacer": "C",
+      "keywords": [
+        "FrankenTacit",
+        "AI",
+        "theatre",
+        "algorave",
+        "Tacit Group"
+      ],
+      "published": "2026-11-14T12:34:35.000Z"
+    },
+    {
+      "id": "f151649eabd2a145",
+      "title": "This Week in Package Management: 14 November 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/11/14/this-week-in-package-management.html",
+      "pacer": "R",
+      "keywords": [
+        "package management",
+        "security",
+        "Composer",
+        "Podman",
+        "Dependabot"
+      ],
+      "published": "2026-11-14T10:00:00.000Z"
+    },
+    {
+      "id": "871dcd62b26f214c",
+      "title": "Of Course People Hate Data Centres",
+      "source": "Hugo Tunius - Blog",
+      "source_url": "https://hugotunius.se/",
+      "url": "https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html",
+      "pacer": "C",
+      "keywords": [
+        "data centres",
+        "AI",
+        "public sentiment",
+        "big tech",
+        "urban planning"
+      ],
+      "published": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "08f1ee85585a31e8",
+      "title": "How to find meaning in large tech companies",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",
+      "pacer": "P",
+      "keywords": [
+        "tech career",
+        "career meaning",
+        "corporate culture",
+        "professional growth",
+        "work purpose"
+      ],
+      "published": "2026-11-14T00:00:00.000Z"
+    },
+    {
       "id": "4cb58a6ed2a63999",
       "title": "datasette-cluster-map 0.19",
       "source": "Simon Willison's Weblog",
@@ -287,38 +447,6 @@
         "CRuby"
       ],
       "published": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "485ec329c8b74027",
-      "title": "Gemini Decisions API",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "pacer": "E",
-      "keywords": [
-        "Gemini",
-        "AI",
-        "API",
-        "Decision Model",
-        "Multi-modal"
-      ],
-      "published": "2026-11-11T22:03:25.000Z"
-    },
-    {
-      "id": "967141e571a3a88a",
-      "title": "aws-emulator",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-      "pacer": "R",
-      "keywords": [
-        "AWS",
-        "emulator",
-        "rust",
-        "testing",
-        "agentic-engineering"
-      ],
-      "published": "2026-11-11T21:18:30.000Z"
     },
     {
       "id": "16bf760aba341750",
@@ -625,22 +753,6 @@
       "published": "2026-11-10T06:23:17.979Z"
     },
     {
-      "id": "b487bef803e17f56",
-      "title": "Combinatorial designs",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/",
-      "pacer": "C",
-      "keywords": [
-        "combinatorial designs",
-        "mathematics",
-        "Steiner systems",
-        "finite geometry",
-        "discrete mathematics"
-      ],
-      "published": "2026-11-10T01:38:48.000Z"
-    },
-    {
       "id": "ae9d0259e15c4016",
       "title": "Weekly Update 529: Kids Social Media Bans (and Everything Else)",
       "source": "Troy Hunt",
@@ -689,22 +801,6 @@
       "published": "2026-11-09T23:00:00.000Z"
     },
     {
-      "id": "2e959023b8a39125",
-      "title": "Steiner Systems",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/09/steiner-systems/",
-      "pacer": "C",
-      "keywords": [
-        "Steiner triple systems",
-        "finite geometry",
-        "combinatorics",
-        "STS(n)",
-        "mathematics"
-      ],
-      "published": "2026-11-09T17:01:43.000Z"
-    },
-    {
       "id": "b701a0112efd9a75",
       "title": "If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?",
       "source": "The Old New Thing",
@@ -719,22 +815,6 @@
         "The Old New Thing"
       ],
       "published": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "id": "030d1451c78c46c5",
-      "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
-      "pacer": "P",
-      "keywords": [
-        "AI bots",
-        "web scraping",
-        "traffic management",
-        "website optimization",
-        "OpenBenches"
-      ],
-      "published": "2026-11-09T12:34:00.000Z"
     },
     {
       "id": "79a4ad13740d2f22",
@@ -1153,22 +1233,6 @@
       "published": "2026-11-04T19:00:00.000Z"
     },
     {
-      "id": "0b0ccf54ecf2299d",
-      "title": "This Week in Source Control: 4 November 2026",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/11/04/this-week-in-source-control.html",
-      "pacer": "E",
-      "keywords": [
-        "Git",
-        "Version Control",
-        "Monorepo",
-        "OpenAI",
-        "Pando"
-      ],
-      "published": "2026-11-04T10:00:00.000Z"
-    },
-    {
       "id": "afac48785cfe7e75",
       "title": "Goodhart's Law, but We Already Spent All Our Money ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -1261,22 +1325,6 @@
         "data security",
         "social media",
         "identity"
-      ],
-      "published": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "3d8c696758675ee1",
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "pacer": "C",
-      "keywords": [
-        "LLM",
-        "neural networks",
-        "machine learning",
-        "model interpretation",
-        "weights"
       ],
       "published": "2026-11-03T00:00:00.000Z"
     },
@@ -1439,22 +1487,6 @@
         "Politics"
       ],
       "published": "2026-10-29T16:48:39.000Z"
-    },
-    {
-      "id": "81b38f560f77397b",
-      "title": "A New Kind of Chemistry",
-      "source": "Construction Physics",
-      "source_url": "https://www.construction-physics.com/",
-      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
-      "pacer": "C",
-      "keywords": [
-        "chemistry",
-        "innovation",
-        "material science",
-        "Marathon Fusion",
-        "chemical engineering"
-      ],
-      "published": "2026-10-29T15:45:10.000Z"
     },
     {
       "id": "5e396018eb1a2135",
@@ -2207,22 +2239,6 @@
         "Regulation"
       ],
       "published": "2026-10-14T13:30:00.000Z"
-    },
-    {
-      "id": "b3b8517ec9e768f8",
-      "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
-      "pacer": "E",
-      "keywords": [
-        "3D printing",
-        "SLA",
-        "Formlabs",
-        "Form Studio 1",
-        "resin printing"
-      ],
-      "published": "2026-10-14T13:00:00.000Z"
     },
     {
       "id": "cd71fb54a46c0d24",

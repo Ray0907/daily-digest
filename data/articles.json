@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-11-14T01:53:21.864Z",
+  "last_updated": "2026-11-15T01:23:19.471Z",
   "articles": [
+    {
+      "id": "871dcd62b26f214c",
+      "title": "Of Course People Hate Data Centres",
+      "url": "https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html",
+      "source": "Hugo Tunius - Blog",
+      "source_url": "https://hugotunius.se/",
+      "published": "2026-11-14T00:00:00.000Z",
+      "summary_en": "This article explores the growing public opposition to data center construction, highlighting statistics that show widespread disapproval across political lines in the US. The author argues that this backlash is driven by the massive increase in the scale of facilities and a deep-seated public distrust of AI and 'Big Tech' companies.",
+      "summary_zh": "本文探討了公眾對數據中心建設日益增長的反對聲浪，並指出美國跨黨派民調顯示出普遍的反對情緒。作者認為，這種反彈主要歸因於數據中心規模的急劇擴張，以及大眾對 AI 與大型科技公司根深蒂固的不信任感。",
+      "keywords": [
+        "data centres",
+        "AI",
+        "public sentiment",
+        "big tech",
+        "urban planning"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a phenomenon (public opposition to data centers) by providing a conceptual analysis of the contributing factors like scale and social distrust.",
+      "pacer_reason_zh": "本文透過分析規模擴張與社會不信任等因素，對數據中心面臨的反對現象進行了概念性的解釋。"
+    },
+    {
+      "id": "a1b8ca3cea6a8353",
+      "title": "Reading List 11/14/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11142026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-14T16:09:38.000Z",
+      "summary_en": "This post provides a curated digest of diverse topics ranging from engineering failures and regulatory updates to hardware recycling and aviation safety. It serves as a collection of current events and technical updates relevant to the construction and technology sectors.",
+      "summary_zh": "本篇摘要涵蓋了從工程事故、監管法規更新，到硬體回收與航空安全等多樣化議題。文章整理了與建築及科技領域相關的時事與技術更新。",
+      "keywords": [
+        "construction",
+        "technology",
+        "aviation",
+        "news-digest",
+        "engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and short updates on various disparate topics, typical of a reference or link-roundup post.",
+      "pacer_reason_zh": "本文彙整了多項主題的連結與簡短更新，屬於典型的參考資料清單或資訊摘要類型。"
+    },
+    {
+      "id": "f151649eabd2a145",
+      "title": "This Week in Package Management: 14 November 2026",
+      "url": "https://nesbitt.io/2026/11/14/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-14T10:00:00.000Z",
+      "summary_en": "This weekly digest covers recent security updates and releases in package management, including critical patches for Composer, Podman, and pnpm. It also notes a change in GitHub policy regarding Dependabot alerts for inactive repositories.",
+      "summary_zh": "本週摘要涵蓋了套件管理的最新安全更新與版本發布，包括 Composer、Podman 和 pnpm 的重要漏洞修復。同時也提到 GitHub 即將針對長期無活動的儲存庫調整 Dependabot 警報政策。",
+      "keywords": [
+        "package management",
+        "security",
+        "Composer",
+        "Podman",
+        "Dependabot"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a periodic industry news roundup and reference list of security updates.",
+      "pacer_reason_zh": "本文屬於定期發布的產業新聞摘要，並作為安全更新的參考清單。"
+    },
+    {
+      "id": "c4e8ceae73413d29",
+      "title": "The longest polynomial level set",
+      "url": "https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-14T15:54:10.000Z",
+      "summary_en": "This article discusses the mathematical problem of finding the polynomial with leading coefficient 1 that results in the longest level set curve defined by |p(z)| = 1 for a given degree. It highlights the recent proof by Teng Zhang, which confirms Erdős's long-standing conjecture that the polynomial p(z) = z^n - 1 yields this maximum length.",
+      "summary_zh": "本文探討了對於給定的次數 n，首項係數為 1 的多項式中，何者能使 |p(z)| = 1 的曲線長度達到最大。文中介紹了張騰（Teng Zhang）最近的證明，證實了埃爾德什（Erdős）關於 p(z) = z^n - 1 為該最大長度多項式的猜想。",
+      "keywords": [
+        "polynomial",
+        "Erdős conjecture",
+        "mathematics",
+        "level set",
+        "Teng Zhang"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains a theoretical mathematical concept and conjecture rather than providing a tutorial, data analysis, or reference list.",
+      "pacer_reason_zh": "本文旨在解釋一個理論數學概念與猜想，而非提供操作指南、數據分析或參考清單。"
+    },
+    {
+      "id": "40a5e4027f2cdda8",
+      "title": "Peeking inside the bash rabbit hole",
+      "url": "https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-14T13:09:57.000Z",
+      "summary_en": "This article explores the utility of obscure Bash shell features as a productive way to take a break from more complex work. It highlights specific shortcuts, such as using the '!$' command to reference the last argument of a previous command.",
+      "summary_zh": "這篇文章探討了利用晦澀的 Bash Shell 功能來調劑繁重的工作，認為這是一種有趣的休息方式。文中介紹了如 '!$' 等實用捷徑，說明如何快速調用上一道指令的最後一個參數。",
+      "keywords": [
+        "Bash",
+        "Linux",
+        "Shell",
+        "CLI",
+        "Productivity"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a specific, practical example of a command-line shortcut for user efficiency.",
+      "pacer_reason_zh": "本文提供了具體且實用的指令列捷徑範例，旨在提升使用者的操作效率。"
+    },
+    {
+      "id": "11c3c19408e9eb28",
+      "title": "Theatre Review: FrankenTacit ★★☆☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-14T12:34:35.000Z",
+      "summary_en": "This review evaluates 'FrankenTacit,' a unique theatrical performance by Seoul's Tacit Group that blends Mary Shelley’s Frankenstein with Korean algorave music. The show features a human performer collaborating with two AIs to create live-generated audio and visual experiences.",
+      "summary_zh": "這篇評論介紹了首爾 Tacit Group 的劇場作品《FrankenTacit》，該劇將《科學怪人》的故事與韓國演算法音樂（algorave）相結合。表演中由一名人類演員與兩個 AI 共同在舞台上進行即時影音創作。",
+      "keywords": [
+        "FrankenTacit",
+        "AI",
+        "theatre",
+        "algorave",
+        "Tacit Group"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a review providing a conceptual analysis and interpretation of an artistic performance.",
+      "pacer_reason_zh": "本文是一篇評論文章，旨在對藝術表演進行概念性的分析與詮釋。"
+    },
+    {
+      "id": "e9477865501b0215",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-14T23:59:28.000Z",
+      "summary_en": "The datasette-llm plugin has released version 0.1a11, adding support for OpenAI-compatible API endpoints. This allows users to integrate locally hosted models from tools like Ollama or LM Studio directly into Datasette applications.",
+      "summary_zh": "datasette-llm 插件發布了 0.1a11 版本，新增了對 OpenAI 相容 API 端點的支援。這使得使用者能夠將 Ollama 或 LM Studio 等工具託管的本地模型整合到 Datasette 應用程式中。",
+      "keywords": [
+        "datasette",
+        "llm",
+        "plugin",
+        "openai",
+        "local-models"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a release announcement along with specific command-line instructions on how to configure and run the software.",
+      "pacer_reason_zh": "文章提供了軟體發布公告，並附帶了設定與執行該軟體的具體指令教學。"
+    },
+    {
+      "id": "4f7f1f7fcbbee0ff",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-14T17:09:09.000Z",
+      "summary_en": "Simon Willison has released version 0.7 of the datasette-vega plugin, updating it for compatibility with the latest Datasette versions and Datasette Lite. The update includes cosmetic improvements and enables the plugin to function within the browser-based Datasette Lite environment.",
+      "summary_zh": "Simon Willison 發布了 datasette-vega 外掛程式的 0.7 版本，針對最新的 Datasette 以及 Datasette Lite 進行了相容性更新。此次更新包含外觀優化，並使該外掛程式能夠在瀏覽器端的 Datasette Lite 環境中運行。",
+      "keywords": [
+        "datasette",
+        "vega-lite",
+        "plugin",
+        "data visualization",
+        "software release"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a release announcement describing software updates and new compatibility features.",
+      "pacer_reason_zh": "這是一篇關於軟體更新與新相容性功能的發布公告。"
+    },
+    {
+      "id": "1272e13dfcfeeb33",
+      "title": "Ops needs friction",
+      "url": "https://www.jeffgeerling.com/blog/2026/ops-needs-friction/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-11-14T16:30:00.000Z",
+      "summary_en": "Jeff Geerling reflects on recent large-scale IT outages to explore the unique mindset required for operations versus development. He argues that the operational perspective is distinct from project management, emphasizing the necessity of managing system friction.",
+      "summary_zh": "Jeff Geerling 從近期的重大 IT 故障出發，探討了營運（Ops）思維與開發及專案管理思維之間的本質差異。他認為，具備營運思維對於理解系統摩擦力與穩定性至關重要。",
+      "keywords": [
+        "Ops",
+        "Infrastructure",
+        "System Outage",
+        "Software Development",
+        "Mindset"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the core conceptual differences between operational mindsets and traditional development mindsets.",
+      "pacer_reason_zh": "本文重點在於解釋營運思維與傳統開發思維之間的核心概念差異。"
+    },
+    {
+      "id": "08f1ee85585a31e8",
+      "title": "How to find meaning in large tech companies",
+      "url": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-14T00:00:00.000Z",
+      "summary_en": "This article explores strategies for employees to find personal meaning and purpose within the complex environments of large technology corporations. It provides actionable advice on aligning individual values with professional responsibilities and navigating corporate structures to create impact.",
+      "summary_zh": "這篇文章探討了員工如何在大型科技公司的複雜環境中找到個人意義與目標。內容提供了將個人價值觀與職業責任相結合，並透過駕馭企業架構來發揮影響力的實用建議。",
+      "keywords": [
+        "tech career",
+        "career meaning",
+        "corporate culture",
+        "professional growth",
+        "work purpose"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is framed as a how-to guide offering practical advice and actionable steps for employees.",
+      "pacer_reason_zh": "這篇文章以操作指南的形式呈現，為員工提供了實用的建議與具體步驟。"
+    },
     {
       "id": "5145b2945d317d6d",
       "title": "This Week on The Analog Antiquarian",
