@@ -4,8 +4,80 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Mon, 16 Nov 2026 01:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:13:54 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 530: Email Dependencies &amp; Apps</title>
+      <link>https://www.troyhunt.com/weekly-update-530/</link>
+      <guid>https://www.troyhunt.com/weekly-update-530/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:09:38 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>This update explores the critical reliance on email as a fundamental utility, similar to water or power. It highlights the potential risks and cascading failures that occur when email service providers face unexpected downtime.</description>
+    </item>
+
+    <item>
+      <title>My Empire of Dirt</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author critiques the 'Singleton' ideology held by AI development leaders, arguing that their pursuit of autonomous, self-generating agent systems will lead to societal exclusion and geopolitical conflict. The post suggests that these developments will likely trigger a third world war rather than human extinction, with a pessimistic outlook on current strategic and resource-based outcomes.</description>
+    </item>
+
+    <item>
+      <title>Paul Christiano – We could be 12 months away from AIs that can overthrow the government</title>
+      <link>https://www.dwarkesh.com/p/paul-christiano-2</link>
+      <guid>https://www.dwarkesh.com/p/paul-christiano-2</guid>
+      <pubDate>Mon, 16 Nov 2026 17:46:28 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>AI researcher Paul Christiano warns that humanity could be only 12 months away from developing AI systems capable of overthrowing governments. The discussion emphasizes the potential existential risks and the difficulty of recovery if such powerful systems are misaligned.</description>
+    </item>
+
+    <item>
+      <title>Here's how anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:35:27 GMT</pubDate>
+      <source url="https://micahflee.com/">Micah Lee</source>
+      <description>This article explores the utility of Large Language Models while addressing privacy concerns regarding centralized providers like OpenAI. It argues that users can leverage powerful AI tools independently by utilizing private, open-weight models.</description>
+    </item>
+
+    <item>
+      <title>Taxis and hash functions</title>
+      <link>https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:46:36 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article highlights a real-world security failure where NYC taxi data was anonymized using the insecure MD5 hash function. It explains why MD5 is vulnerable to brute-force attacks and illustrates the risks of relying on flawed cryptographic practices for privacy protection.</description>
+    </item>
+
+    <item>
+      <title>Orbital footnote</title>
+      <link>https://www.johndcook.com/blog/2026/11/15/orbital-footnote/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/15/orbital-footnote/</guid>
+      <pubDate>Mon, 16 Nov 2026 02:19:01 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses the orbital characteristics of the dwarf planet candidate ED138. The author demonstrates how Kepler's third law can be used to derive orbital information from basic astronomical data.</description>
+    </item>
+
+    <item>
+      <title>Gig Review: ABBA Voyage ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:34:40 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author reflects on a visit to the ABBA museum in Stockholm, highlighting the group's massive cultural influence despite his initial lack of fandom. The piece specifically touches on the exhibition detailing the innovative 'Voyage' concert experience in London.</description>
+    </item>
+
+    <item>
+      <title>llm 0.37.3</title>
+      <link>https://simonwillison.net/2026/Nov/16/llm/</link>
+      <guid>https://simonwillison.net/2026/Nov/16/llm/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:57:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released LLM 0.37.3, a bug fix update addressing compatibility issues with SQLite 3.54.1. The release resolves a regression where JSON handling in SQL queries was altered, requiring a code workaround to ensure proper data formatting.</description>
+    </item>
+
     <item>
       <title>What’s Next For Nvidia?</title>
       <link>https://steveblank.com/2026/11/15/whats-next-for-nvidia/</link>
@@ -832,78 +904,6 @@
       <pubDate>Sun, 08 Nov 2026 22:26:00 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison compares building a SQLite parse_number() extension using C versus Rust. The analysis evaluates binary size, code complexity, and performance, ultimately demonstrating that a custom-optimized C implementation can outperform Rust while maintaining a smaller footprint.</description>
-    </item>
-
-    <item>
-      <title>LLMs are terrible at designing AI systems</title>
-      <link>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</link>
-      <guid>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
-      <description>The article critiques the current limitations of Large Language Models in the architectural design of complex AI systems. It suggests that while LLMs excel at coding tasks, they struggle with the high-level reasoning and structural planning required for system design.</description>
-    </item>
-
-    <item>
-      <title>Reading List 11/7/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-1172026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-1172026</guid>
-      <pubDate>Sat, 07 Nov 2026 13:23:36 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated list of current events and industry trends covering diverse topics ranging from Florida property taxes to the manufacturing challenges of the Tesla Cybertruck. It highlights critical updates in infrastructure, climate policy, and technological shifts within the construction and tech sectors.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 7 November 2026</title>
-      <link>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 07 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This update highlights critical security vulnerabilities in Puppet (OpenVox), GitHub macOS runner images, and the APT package manager. It provides technical details on the exploits and outlines the necessary version patches to secure systems against remote code execution and package verification flaws.</description>
-    </item>
-
-    <item>
-      <title>Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</guid>
-      <pubDate>Fri, 06 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post explains why suspending all threads is insufficient for hot-patching. It highlights that while current threads can be stopped, new sources of change can still emerge, requiring more robust atomicity strategies.</description>
-    </item>
-
-    <item>
-      <title>Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:34:34 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review explores Lucy Easthope's book, 'When the Dust Settles,' which blends professional insights on disaster planning with raw, personal memoir. The reviewer concludes that the author's integration of her own life experiences is essential to understanding the human impact of managing disasters.</description>
-    </item>
-
-    <item>
-      <title>A bit about email</title>
-      <link>https://maurycyz.com/misc/email/</link>
-      <guid>https://maurycyz.com/misc/email/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://maurycyz.com/">Maurycy's Blog</source>
-      <description>This article provides an accessible overview of the email delivery process, covering the roles of MTAs, MSAs, and MUAs. It also explains the historical context of email architecture and demonstrates how the SMTP protocol functions using manual telnet commands.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: JS Tan and Clarissa Redwine's &quot;Against Tech Oligarchy&quot; (07 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
-      <guid>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</guid>
-      <pubDate>Sat, 07 Nov 2026 13:03:46 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post highlights JS Tan and Clarissa Redwine's book, 'Against Tech Oligarchy,' which examines the history and future of labor organizing within the tech industry. It explores how tech workers transitioned from positions of immense leverage due to scarcity and high value to facing modern challenges in collective bargaining.</description>
-    </item>
-
-    <item>
-      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
-      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
-      <guid>https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
-      <pubDate>Sat, 07 Nov 2026 23:57:46 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison identifies that Datasette's use of 'link: rel=next' HTTP headers triggers unnecessary page prefetching in Firefox, wasting server and client resources. He traces this behavior back to a longstanding Firefox issue, humorously noting he even blogged about the same problem over 20 years ago.</description>
     </item>
   </channel>
 </rss>

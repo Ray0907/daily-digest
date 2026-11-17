@@ -1,6 +1,134 @@
 {
   "nodes": [
     {
+      "id": "a50437ccc021c623",
+      "title": "llm 0.37.3",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "pacer": "P",
+      "keywords": [
+        "llm",
+        "sqlite",
+        "bug fix",
+        "json",
+        "software release"
+      ],
+      "published": "2026-11-16T23:57:26.000Z"
+    },
+    {
+      "id": "5153c90e5459a655",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "pacer": "C",
+      "keywords": [
+        "AI safety",
+        "existential risk",
+        "Paul Christiano",
+        "AI alignment",
+        "superintelligence"
+      ],
+      "published": "2026-11-16T17:46:28.000Z"
+    },
+    {
+      "id": "78ac7dbb496cfb5c",
+      "title": "Here's how anyone can easily use private, open weight models",
+      "source": "Micah Lee",
+      "source_url": "https://micahflee.com/",
+      "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+      "pacer": "P",
+      "keywords": [
+        "LLM",
+        "Privacy",
+        "Open-weights",
+        "OpenAI",
+        "Self-hosting"
+      ],
+      "published": "2026-11-16T16:35:27.000Z"
+    },
+    {
+      "id": "0aa598170534fdd5",
+      "title": "My Empire of Dirt",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "pacer": "C",
+      "keywords": [
+        "AI safety",
+        "Singleton",
+        "geopolitics",
+        "EA",
+        "technological singularity"
+      ],
+      "published": "2026-11-16T16:00:00.000Z"
+    },
+    {
+      "id": "57b32abd47595a1e",
+      "title": "Taxis and hash functions",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/",
+      "pacer": "E",
+      "keywords": [
+        "MD5",
+        "cryptography",
+        "data privacy",
+        "hash function",
+        "NYC taxi data"
+      ],
+      "published": "2026-11-16T14:46:36.000Z"
+    },
+    {
+      "id": "332d0cad59d15121",
+      "title": "Gig Review: ABBA Voyage ★★★★☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/",
+      "pacer": "E",
+      "keywords": [
+        "ABBA",
+        "Voyage",
+        "Museum",
+        "Stockholm",
+        "Music"
+      ],
+      "published": "2026-11-16T12:34:40.000Z"
+    },
+    {
+      "id": "5446f7cc17eb4d12",
+      "title": "Weekly Update 530: Email Dependencies & Apps",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/weekly-update-530/",
+      "pacer": "C",
+      "keywords": [
+        "email",
+        "utility",
+        "dependencies",
+        "downtime",
+        "infrastructure"
+      ],
+      "published": "2026-11-16T07:09:38.000Z"
+    },
+    {
+      "id": "ac7338b099785557",
+      "title": "Orbital footnote",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/15/orbital-footnote/",
+      "pacer": "E",
+      "keywords": [
+        "ED138",
+        "Kepler's third law",
+        "astronomy",
+        "dwarf planet",
+        "orbital period"
+      ],
+      "published": "2026-11-16T02:19:01.000Z"
+    },
+    {
       "id": "4d781f5b684eed93",
       "title": "People will lose their jobs over GTA 6 ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -127,22 +255,6 @@
         "開發工具"
       ],
       "published": "2026-11-15T04:02:45.000Z"
-    },
-    {
-      "id": "d47427f5a2b9c3b3",
-      "title": "datasette-agent 0.6a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "pacer": "P",
-      "keywords": [
-        "datasette",
-        "datasette-agent",
-        "llm",
-        "ai",
-        "data-analysis"
-      ],
-      "published": "2026-11-15T03:49:47.000Z"
     },
     {
       "id": "1272e13dfcfeeb33",
@@ -385,22 +497,6 @@
       "published": "2026-11-13T12:34:48.000Z"
     },
     {
-      "id": "06f48e6745dd2458",
-      "title": "Long permutations and long cycles",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/13/long-cycles/",
-      "pacer": "C",
-      "keywords": [
-        "permutations",
-        "mathematics",
-        "cycle decomposition",
-        "combinatorics",
-        "John D. Cook"
-      ],
-      "published": "2026-11-13T11:59:31.000Z"
-    },
-    {
       "id": "809598b02e4206dd",
       "title": "So you want to buy AI for your company ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -593,22 +689,6 @@
       "published": "2026-11-11T13:00:00.000Z"
     },
     {
-      "id": "feb008ec9e5bc5e5",
-      "title": "HowTo: Fix Eufy HomeBase 2 Storage Full Issues",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/",
-      "pacer": "P",
-      "keywords": [
-        "Eufy",
-        "HomeBase 2",
-        "IoT",
-        "troubleshooting",
-        "storage"
-      ],
-      "published": "2026-11-11T12:34:05.000Z"
-    },
-    {
       "id": "017654681a03a592",
       "title": "This Week in Source Control: 11 November 2026",
       "source": "Andrew Nesbitt",
@@ -783,22 +863,6 @@
         "The Old New Thing"
       ],
       "published": "2026-11-10T15:00:00.000Z"
-    },
-    {
-      "id": "cee6cf51d7e027e8",
-      "title": "Balanced Incomplete Block Designs",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/10/bibd/",
-      "pacer": "C",
-      "keywords": [
-        "BIBD",
-        "Experimental Design",
-        "Statistics",
-        "Combinatorics",
-        "Scientific Method"
-      ],
-      "published": "2026-11-10T14:26:21.000Z"
     },
     {
       "id": "cafac86bc616d20d",
@@ -1969,22 +2033,6 @@
       "published": "2026-10-22T15:14:05.000Z"
     },
     {
-      "id": "7d4097313194c124",
-      "title": "What will computer chips look like in 2045?",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/intel-tour",
-      "pacer": "E",
-      "keywords": [
-        "semiconductors",
-        "Intel",
-        "future technology",
-        "chip manufacturing",
-        "innovation"
-      ],
-      "published": "2026-10-22T15:02:21.000Z"
-    },
-    {
       "id": "8ca83b58224eae92",
       "title": "If people would just",
       "source": "Herman's blog",
@@ -2191,22 +2239,6 @@
         "Lean Launchpad"
       ],
       "published": "2026-10-19T13:00:20.000Z"
-    },
-    {
-      "id": "8967e4bbf4b8f019",
-      "title": "Weekly Update 526: Building HIBP AI/SI First",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-526/",
-      "pacer": "C",
-      "keywords": [
-        "vibe coding",
-        "AI development",
-        "software engineering",
-        "industry trends",
-        "Troy Hunt"
-      ],
-      "published": "2026-10-19T06:47:58.000Z"
     },
     {
       "id": "de05f18ead59c79f",
@@ -2751,22 +2783,6 @@
         "Eli Bendersky"
       ],
       "published": "2026-10-01T00:05:00.000Z"
-    },
-    {
-      "id": "a7e79552405a352d",
-      "title": "Why do you need freedom?",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html",
-      "pacer": "C",
-      "keywords": [
-        "superintelligence",
-        "autonomy",
-        "freedom",
-        "existentialism",
-        "human agency"
-      ],
-      "published": "2026-09-30T16:00:00.000Z"
     },
     {
       "id": "9260fbee6d07d79e",

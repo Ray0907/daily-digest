@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-11-16T01:27:34.733Z",
+  "last_updated": "2026-11-17T04:13:54.448Z",
   "articles": [
+    {
+      "id": "5446f7cc17eb4d12",
+      "title": "Weekly Update 530: Email Dependencies & Apps",
+      "url": "https://www.troyhunt.com/weekly-update-530/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-11-16T07:09:38.000Z",
+      "summary_en": "This update explores the critical reliance on email as a fundamental utility, similar to water or power. It highlights the potential risks and cascading failures that occur when email service providers face unexpected downtime.",
+      "summary_zh": "本篇文章探討電子郵件如同水電般作為現代基礎設施的重要性。文章強調了當電子郵件服務供應商發生故障時，使用者所面臨的潛在風險與連鎖反應。",
+      "keywords": [
+        "email",
+        "utility",
+        "dependencies",
+        "downtime",
+        "infrastructure"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the conceptual importance of email as a critical utility and the systemic risks of relying on it.",
+      "pacer_reason_zh": "內容聚焦於電子郵件作為關鍵基礎設施的概念重要性，以及對其產生依賴所帶來的系統性風險。"
+    },
+    {
+      "id": "0aa598170534fdd5",
+      "title": "My Empire of Dirt",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-11-16T16:00:00.000Z",
+      "summary_en": "The author critiques the 'Singleton' ideology held by AI development leaders, arguing that their pursuit of autonomous, self-generating agent systems will lead to societal exclusion and geopolitical conflict. The post suggests that these developments will likely trigger a third world war rather than human extinction, with a pessimistic outlook on current strategic and resource-based outcomes.",
+      "summary_zh": "作者批評了人工智慧領袖所持有的「單一實體」（Singleton）意識形態，認為這種追求自主代理系統的發展將導致社會邊緣化及地緣政治衝突。文章指出，這些發展更可能引發第三次世界大戰而非人類滅絕，並對當前的戰略與資源分配結果持悲觀態度。",
+      "keywords": [
+        "AI safety",
+        "Singleton",
+        "geopolitics",
+        "EA",
+        "technological singularity"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on discussing the conceptual implications and potential sociopolitical consequences of current AI development ideologies.",
+      "pacer_reason_zh": "本文重點在於探討當前人工智慧發展意識形態的概念性影響及其潛在的社會政治後果。"
+    },
+    {
+      "id": "5153c90e5459a655",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-11-16T17:46:28.000Z",
+      "summary_en": "AI researcher Paul Christiano warns that humanity could be only 12 months away from developing AI systems capable of overthrowing governments. The discussion emphasizes the potential existential risks and the difficulty of recovery if such powerful systems are misaligned.",
+      "summary_zh": "AI 研究員 Paul Christiano 警告稱，人類可能距離開發出能推翻政府的 AI 系統僅剩 12 個月。該討論強調了潛在的生存風險，以及若此類強大系統出現對齊問題時，人類將難以恢復。",
+      "keywords": [
+        "AI safety",
+        "existential risk",
+        "Paul Christiano",
+        "AI alignment",
+        "superintelligence"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptualizing high-level existential risks and the theoretical timeline of AI development.",
+      "pacer_reason_zh": "內容重點在於概念化高階生存風險以及 AI 發展的理論時間表。"
+    },
+    {
+      "id": "78ac7dbb496cfb5c",
+      "title": "Here's how anyone can easily use private, open weight models",
+      "url": "https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/",
+      "source": "Micah Lee",
+      "source_url": "https://micahflee.com/",
+      "published": "2026-11-16T16:35:27.000Z",
+      "summary_en": "This article explores the utility of Large Language Models while addressing privacy concerns regarding centralized providers like OpenAI. It argues that users can leverage powerful AI tools independently by utilizing private, open-weight models.",
+      "summary_zh": "本文探討了大型語言模型（LLM）的實用性，同時針對 OpenAI 等中心化服務提供商提出了隱私疑慮。文中主張，使用者可以透過運行私有的開源權重模型，在不依賴大型企業的情況下運用強大的 AI 工具。",
+      "keywords": [
+        "LLM",
+        "Privacy",
+        "Open-weights",
+        "OpenAI",
+        "Self-hosting"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article aims to provide a guide or pathway for users to operate AI models independently rather than relying on commercial services.",
+      "pacer_reason_zh": "本文旨在提供指引或路徑，幫助使用者獨立運行 AI 模型，而非依賴商業服務。"
+    },
+    {
+      "id": "57b32abd47595a1e",
+      "title": "Taxis and hash functions",
+      "url": "https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-16T14:46:36.000Z",
+      "summary_en": "This article highlights a real-world security failure where NYC taxi data was anonymized using the insecure MD5 hash function. It explains why MD5 is vulnerable to brute-force attacks and illustrates the risks of relying on flawed cryptographic practices for privacy protection.",
+      "summary_zh": "本文探討了紐約市計程車資料集在匿名化過程中，錯誤使用 MD5 雜湊函數導致隱私保護失效的案例。文章解釋了為何 MD5 在現代密碼學中已被視為不安全，並強調了錯誤技術選擇所帶來的資安風險。",
+      "keywords": [
+        "MD5",
+        "cryptography",
+        "data privacy",
+        "hash function",
+        "NYC taxi data"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post functions as a case study analyzing the real-world failure of a specific data anonymization implementation.",
+      "pacer_reason_zh": "本文透過實際案例分析，探討特定資料去識別化實作失敗的原因，屬於案例研究性質。"
+    },
+    {
+      "id": "ac7338b099785557",
+      "title": "Orbital footnote",
+      "url": "https://www.johndcook.com/blog/2026/11/15/orbital-footnote/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-16T02:19:01.000Z",
+      "summary_en": "This post discusses the orbital characteristics of the dwarf planet candidate ED138. The author demonstrates how Kepler's third law can be used to derive orbital information from basic astronomical data.",
+      "summary_zh": "這篇文章討論了矮行星候選天體 ED138 的軌道特性。作者展示了如何利用克卜勒第三定律，從基礎天文數據推導出軌道相關資訊。",
+      "keywords": [
+        "ED138",
+        "Kepler's third law",
+        "astronomy",
+        "dwarf planet",
+        "orbital period"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a practical application and scientific reasoning based on physical laws to interpret astronomical data.",
+      "pacer_reason_zh": "文章提供了基於物理定律的實際應用與科學推論，用以詮釋天文數據。"
+    },
+    {
+      "id": "332d0cad59d15121",
+      "title": "Gig Review: ABBA Voyage ★★★★☆",
+      "url": "https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-16T12:34:40.000Z",
+      "summary_en": "The author reflects on a visit to the ABBA museum in Stockholm, highlighting the group's massive cultural influence despite his initial lack of fandom. The piece specifically touches on the exhibition detailing the innovative 'Voyage' concert experience in London.",
+      "summary_zh": "作者分享了參觀斯德哥爾摩 ABBA 博物館的經驗，並探討了該樂團雖非其個人首選，卻擁有龐大文化影響力的事實。文中特別提及了關於倫敦「Voyage」虛擬演唱會的精彩展覽內容。",
+      "keywords": [
+        "ABBA",
+        "Voyage",
+        "Museum",
+        "Stockholm",
+        "Music"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a personal review and observation based on a real-world experience and exhibition visit.",
+      "pacer_reason_zh": "本文屬於基於實際參訪經驗與展覽見聞的個人評論與觀察紀錄。"
+    },
+    {
+      "id": "a50437ccc021c623",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-16T23:57:26.000Z",
+      "summary_en": "Simon Willison released LLM 0.37.3, a bug fix update addressing compatibility issues with SQLite 3.54.1. The release resolves a regression where JSON handling in SQL queries was altered, requiring a code workaround to ensure proper data formatting.",
+      "summary_zh": "Simon Willison 發布了 LLM 0.37.3 版本，主要修復與 SQLite 3.54.1 的兼容性問題。此更新解決了因 SQLite JSON 處理行為改變而導致的錯誤，並提供了對應的程式碼修正方案。",
+      "keywords": [
+        "llm",
+        "sqlite",
+        "bug fix",
+        "json",
+        "software release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article explains a technical issue and provides a specific code workaround for developers to fix the bug in their implementation.",
+      "pacer_reason_zh": "本文說明了一個技術問題，並提供具體的程式碼變通方法，協助開發者解決實作上的錯誤。"
+    },
     {
       "id": "87d2912ca1d33f52",
       "title": "What’s Next For Nvidia?",
