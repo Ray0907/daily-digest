@@ -1,6 +1,166 @@
 {
   "nodes": [
     {
+      "id": "e010dc913600f8d7",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "pacer": "E",
+      "keywords": [
+        "cybersecurity",
+        "malware",
+        "Optimizely",
+        "third-party risk",
+        "data breach"
+      ],
+      "published": "2026-11-18T02:52:04.000Z"
+    },
+    {
+      "id": "b4439a7527ca175b",
+      "title": "External sandboxes for coding agents",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "pacer": "R",
+      "keywords": [
+        "AI agents",
+        "sandboxing",
+        "code execution",
+        "security",
+        "webassembly"
+      ],
+      "published": "2026-11-17T22:52:29.000Z"
+    },
+    {
+      "id": "0b5f35342ecc69a5",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "pacer": "E",
+      "keywords": [
+        "OpenAI",
+        "GPT-6.2",
+        "LLM",
+        "AI models",
+        "benchmarking"
+      ],
+      "published": "2026-11-17T22:38:52.000Z"
+    },
+    {
+      "id": "9e24bec0316d82cc",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "pacer": "P",
+      "keywords": [
+        "Datasette",
+        "Pyodide",
+        "WebAssembly",
+        "SQLite",
+        "Service Workers"
+      ],
+      "published": "2026-11-17T16:48:33.000Z"
+    },
+    {
+      "id": "a2883eff0fadbb48",
+      "title": "My Empire of Sunshine and Roses",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html",
+      "pacer": "C",
+      "keywords": [
+        "counterfactuals",
+        "AI development",
+        "determinism",
+        "technological landscape",
+        "agency"
+      ],
+      "published": "2026-11-17T16:00:00.000Z"
+    },
+    {
+      "id": "c5e5692e95be6c35",
+      "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/",
+      "pacer": "R",
+      "keywords": [
+        "Scott Colom",
+        "Mississippi",
+        "Senate",
+        "Political Advertising",
+        "Cory Doctorow"
+      ],
+      "published": "2026-11-17T13:01:56.000Z"
+    },
+    {
+      "id": "c0b90f4191eac5b9",
+      "title": "HomeAssistant - shrink a HAOS qcow2 filesystem",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/",
+      "pacer": "P",
+      "keywords": [
+        "HomeAssistant",
+        "HAOS",
+        "qcow2",
+        "virtualization",
+        "storage management"
+      ],
+      "published": "2026-11-17T12:34:37.000Z"
+    },
+    {
+      "id": "c0b32b4b52db4221",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "pacer": "C",
+      "keywords": [
+        "open source",
+        "Linux",
+        "BSD",
+        "illumos",
+        "free software"
+      ],
+      "published": "2026-11-17T08:30:00.000Z"
+    },
+    {
+      "id": "38f599c774ee5c8e",
+      "title": "Quoting Go Proverbs",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "pacer": "C",
+      "keywords": [
+        "Go",
+        "Programming",
+        "Software Engineering",
+        "Dependency Management",
+        "Best Practices"
+      ],
+      "published": "2026-11-17T06:16:26.000Z"
+    },
+    {
+      "id": "abf110bc13dc7834",
+      "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
+      "pacer": "C",
+      "keywords": [
+        "Windows API",
+        "Window Management",
+        "Dialog Box",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "published": "2026-11-17T05:54:01.000Z"
+    },
+    {
       "id": "a50437ccc021c623",
       "title": "llm 0.37.3",
       "source": "Simon Willison's Weblog",
@@ -15,6 +175,22 @@
         "software release"
       ],
       "published": "2026-11-16T23:57:26.000Z"
+    },
+    {
+      "id": "a44fe5901f2a812e",
+      "title": "Stacked diffs with Maiao",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
+      "pacer": "P",
+      "keywords": [
+        "stacked diffs",
+        "Maiao",
+        "git",
+        "code review",
+        "developer tools"
+      ],
+      "published": "2026-11-16T23:00:00.000Z"
     },
     {
       "id": "5153c90e5459a655",
@@ -145,54 +321,6 @@
       "published": "2026-11-16T00:40:21.000Z"
     },
     {
-      "id": "3c506afcbc502083",
-      "title": "datasette-maplibre 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "pacer": "P",
-      "keywords": [
-        "Datasette",
-        "MapLibre",
-        "OpenFreeMap",
-        "Geospatial",
-        "Plugin"
-      ],
-      "published": "2026-11-15T23:58:36.000Z"
-    },
-    {
-      "id": "0139ca5c534e35bb",
-      "title": "datasette 1.0a43",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "python",
-        "software release",
-        "streaming",
-        "web development"
-      ],
-      "published": "2026-11-15T23:20:27.000Z"
-    },
-    {
-      "id": "9f458effb436880f",
-      "title": "datasette 0.65.6",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "pacer": "R",
-      "keywords": [
-        "datasette",
-        "security patch",
-        "software release",
-        "database",
-        "backport"
-      ],
-      "published": "2026-11-15T23:18:17.000Z"
-    },
-    {
       "id": "87d2912ca1d33f52",
       "title": "What’s Next For Nvidia?",
       "source": "Steve Blank",
@@ -239,22 +367,6 @@
         "utility costs"
       ],
       "published": "2026-11-15T12:34:58.000Z"
-    },
-    {
-      "id": "81dba6fe40f7c0eb",
-      "title": "datasette-apps 0.4a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "pacer": "C",
-      "keywords": [
-        "Datasette",
-        "SQL",
-        "沙盒應用",
-        "URL fragment",
-        "開發工具"
-      ],
-      "published": "2026-11-15T04:02:45.000Z"
     },
     {
       "id": "1272e13dfcfeeb33",
@@ -575,22 +687,6 @@
         "research"
       ],
       "published": "2026-11-12T13:01:45.000Z"
-    },
-    {
-      "id": "a167ea7d0f55dca6",
-      "title": "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/",
-      "pacer": "A",
-      "keywords": [
-        "Book Review",
-        "Tim Berners-Lee",
-        "World Wide Web",
-        "Biography",
-        "Reading"
-      ],
-      "published": "2026-11-12T12:34:10.000Z"
     },
     {
       "id": "1f045681c00cb575",
@@ -929,22 +1025,6 @@
       "published": "2026-11-09T23:00:00.000Z"
     },
     {
-      "id": "b701a0112efd9a75",
-      "title": "If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/",
-      "pacer": "C",
-      "keywords": [
-        "Windows Update",
-        "hot patching",
-        "OS internals",
-        "software engineering",
-        "The Old New Thing"
-      ],
-      "published": "2026-11-09T15:00:00.000Z"
-    },
-    {
       "id": "79a4ad13740d2f22",
       "title": "Introducing Ninety",
       "source": "Andrew Nesbitt",
@@ -1119,22 +1199,6 @@
         "Infrastructure"
       ],
       "published": "2026-11-07T13:23:36.000Z"
-    },
-    {
-      "id": "65375728d8516a42",
-      "title": "Pluralistic: JS Tan and Clarissa Redwine's \"Against Tech Oligarchy\" (07 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/",
-      "pacer": "C",
-      "keywords": [
-        "tech labor",
-        "unionization",
-        "Against Tech Oligarchy",
-        "labor rights",
-        "Silicon Valley"
-      ],
-      "published": "2026-11-07T13:03:46.000Z"
     },
     {
       "id": "0cd8b97ef0cf753f",
@@ -2065,22 +2129,6 @@
       "published": "2026-10-22T00:00:00.000Z"
     },
     {
-      "id": "906981468ccf0d32",
-      "title": "Script dependencies with Nix",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/python-dependencies-with-nix",
-      "pacer": "P",
-      "keywords": [
-        "Nix",
-        "Linux",
-        "Dependencies",
-        "Python",
-        "Automation"
-      ],
-      "published": "2026-10-21T22:00:00.000Z"
-    },
-    {
       "id": "9042618b3b96e995",
       "title": "Going Somewhere",
       "source": "Simone Salis",
@@ -2095,22 +2143,6 @@
         "vignette"
       ],
       "published": "2026-10-21T16:14:51.000Z"
-    },
-    {
-      "id": "5d15c045388ec8ec",
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "source": "Krebs on Security",
-      "source_url": "https://krebsonsecurity.com/",
-      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "pacer": "C",
-      "keywords": [
-        "PHP",
-        "Cybersecurity",
-        "Vulnerability",
-        "Web Security",
-        "Exploits"
-      ],
-      "published": "2026-10-21T15:26:07.000Z"
     },
     {
       "id": "0e2f48bc0979a338",
@@ -2703,22 +2735,6 @@
         "USB Blaster"
       ],
       "published": "2026-10-03T05:50:45.000Z"
-    },
-    {
-      "id": "bbc2d3c4c1ee2100",
-      "title": "Dyson CameraJet",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html",
-      "pacer": "E",
-      "keywords": [
-        "Dyson",
-        "品質管理",
-        "消費電子",
-        "設計缺陷",
-        "產品測試"
-      ],
-      "published": "2026-10-02T16:00:00.000Z"
     },
     {
       "id": "223021a05c1345bd",
@@ -4564,22 +4580,6 @@
         "Professional Branding"
       ],
       "published": "2026-05-18T12:00:00.000Z"
-    },
-    {
-      "id": "ea5b40bf44dd6d03",
-      "title": "FediMeteo, HAProxy, and the art of not wasting snac threads",
-      "source": "IT Notes",
-      "source_url": "https://it-notes.dragas.net/",
-      "url": "https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/",
-      "pacer": "E",
-      "keywords": [
-        "FediMeteo",
-        "snac",
-        "HAProxy",
-        "Fediverse",
-        "Scalability"
-      ],
-      "published": "2026-05-18T09:44:00.000Z"
     },
     {
       "id": "6a324559fa5c7d25",

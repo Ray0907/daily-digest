@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 17 Nov 2026 04:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:11:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Beyond Linux: A Journey Through the Open Source Ecosystem</title>
+      <link>https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/</link>
+      <guid>https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 GMT</pubDate>
+      <source url="https://it-notes.dragas.net/">IT Notes</source>
+      <description>This blog post explores the open source ecosystem beyond Linux, discussing alternative operating systems like BSD and illumos. The author shares his personal journey of discovering free software and reflects on the broader philosophy of knowledge sharing and technical freedom.</description>
+    </item>
+
+    <item>
+      <title>My Empire of Sunshine and Roses</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</link>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</guid>
+      <pubDate>Tue, 17 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
+      <description>The author explores the nature of historical impact through counterfactual thinking and the challenge of individual agency in a seemingly deterministic world. They examine the trajectory of AI development, questioning whether current industry models like centralized offices or expensive agent swarms are truly sustainable or effective.</description>
+    </item>
+
+    <item>
+      <title>Stacked diffs with Maiao</title>
+      <link>https://entropicthoughts.com/stacked-diffs-with-maiao</link>
+      <guid>https://entropicthoughts.com/stacked-diffs-with-maiao</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>The article discusses the benefits of using Maiao, a tool designed to simplify the workflow for developers who prefer stacked diffs when working on traditional platforms like GitHub. It explains the concept of pull requests and branches, positioning Maiao as an effective solution for managing code reviews more efficiently.</description>
+    </item>
+
+    <item>
+      <title>How can I ask a second program to show a dialog box as if it were shown by my first program?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:54:01 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>The article explains that there is no native system mechanism to force one program to display a dialog box as if it originated from another. To achieve this, developers must manually coordinate window management between the two applications.</description>
+    </item>
+
+    <item>
+      <title>HomeAssistant - shrink a HAOS qcow2 filesystem</title>
+      <link>https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/</guid>
+      <pubDate>Tue, 17 Nov 2026 12:34:37 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This guide details the process of shrinking a HomeAssistant OS (HAOS) qcow2 virtual disk to reclaim unused storage space. It provides technical steps to resolve the discrepancy between the actual filesystem usage and the virtual disk's allocated size.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</link>
+      <guid>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</guid>
+      <pubDate>Tue, 17 Nov 2026 13:01:56 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post highlights Scott Colom's historic and successful Mississippi senate campaign, specifically praising his highly effective political advertisement. It also serves as a daily link digest covering various topics including DRM, corporate practices, and current political discourse.</description>
+    </item>
+
+    <item>
+      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
+      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
+      <guid>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
+      <pubDate>Wed, 18 Nov 2026 02:52:04 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>Attackers exploited a security vulnerability in the Optimizely platform to inject malware into at least 178 major websites, including high-profile destinations like the BBC and CNN. The incident highlights significant risks posed by third-party content providers and the lack of strict security enforcement for external scripts on popular web platforms.</description>
+    </item>
+
+    <item>
+      <title>External sandboxes for coding agents</title>
+      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
+      <guid>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:52:29 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces the 'external sandbox' pattern for AI coding agents to execute code safely outside the host machine. The post provides three reference implementations using different technologies like WebAssembly, Apple Containers, and Quicksand to isolate agent-driven code execution.</description>
+    </item>
+
+    <item>
+      <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
+      <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
+      <guid>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison details the release of OpenAI's new GPT-6.2 Astra and GPT-6.2 Sol models, highlighting their API availability and pricing adjustments. The post provides benchmarks through 'pelican' image generation tests to compare the performance and improvements over previous model iterations.</description>
+    </item>
+
+    <item>
+      <title>Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+      <link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+      <guid>https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+      <pubDate>Tue, 17 Nov 2026 16:48:33 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has updated Datasette Lite, a browser-based port of the Datasette application using Pyodide and service workers. This tool allows users to run complex SQLite data analysis and install plugins directly in the browser via custom URLs, eliminating the need for a dedicated server.</description>
+    </item>
+
+    <item>
+      <title>Quoting Go Proverbs</title>
+      <link>https://simonwillison.net/2026/Nov/17/go-proverbs/</link>
+      <guid>https://simonwillison.net/2026/Nov/17/go-proverbs/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:16:26 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights a key maxim from the Go Proverbs, emphasizing that minimal code duplication is often preferable to excessive software dependencies. It reflects on the importance of balancing code simplicity against modularity in programming.</description>
+    </item>
+
     <item>
       <title>Weekly Update 530: Email Dependencies &amp; Apps</title>
       <link>https://www.troyhunt.com/weekly-update-530/</link>
@@ -805,105 +904,6 @@
       <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://maurycyz.com/">Maurycy's Blog</source>
       <description>The author critiques the complexity and maintenance requirements of SSL/TLS certificate management. To voice this frustration, they implement a 'protest certificate' that embeds satirical commentary directly into the certificate's metadata fields.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: America cannot undo Trumpism (09 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/</link>
-      <guid>https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:12:24 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that the global order must move past its reliance on the United States, as Trumpism has irreversibly damaged the credibility of American institutional leadership. He emphasizes the necessity of developing independent international infrastructure and economic sovereignty, as US governance can no longer be trusted as a global stabilizer.</description>
-    </item>
-
-    <item>
-      <title>llm-anthropic 0.31</title>
-      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
-      <guid>https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:58:46 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>The llm-anthropic tool has been updated to version 0.31 to support Anthropic's new Fable 5.2 and Mythos 5.2 models. The post includes practical code examples for installation and testing, alongside an evaluation of the models' reasoning capabilities via SVG generation.</description>
-    </item>
-
-    <item>
-      <title>Locating the source of a mysterious beep with Claude</title>
-      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
-      <guid>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:57:21 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison demonstrates how he used Claude Code to build a 'Beep Locator' web application. The tool triangulates the source of intermittent noises by using multiple networked devices as microphones, effectively pinpointing a hidden sound source.</description>
-    </item>
-
-    <item>
-      <title>The Web Is More Than Enough, by Paul Ford</title>
-      <link>https://simonwillison.net/2026/Nov/9/hn-50421091/</link>
-      <guid>https://simonwillison.net/2026/Nov/9/hn-50421091/</guid>
-      <pubDate>Mon, 09 Nov 2026 04:32:33 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison demonstrates that Claude Opus 5.5 can effectively generate 3D graphics in Vanilla JavaScript and WebGL, comparing the results to Three.js. This experiment highlights the capabilities of modern LLMs to produce complex code without relying on external libraries.</description>
-    </item>
-
-    <item>
-      <title>Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</title>
-      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
-      <guid>https://simonwillison.net/2026/Nov/9/details-summary/</guid>
-      <pubDate>Mon, 09 Nov 2026 04:25:05 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison suggests using HTML &lt;details&gt; and &lt;summary&gt; tags in GitHub pull request descriptions to hide verbose, AI-generated technical logs. This approach allows developers to provide a brief, human-readable introduction while keeping detailed documentation accessible if needed.</description>
-    </item>
-
-    <item>
-      <title>Terry Pratchett's Study</title>
-      <link>https://simonwillison.net/2026/Nov/7/hn-50407316/</link>
-      <guid>https://simonwillison.net/2026/Nov/7/hn-50407316/</guid>
-      <pubDate>Sat, 07 Nov 2026 19:34:24 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post discusses Terry Pratchett's concept of 'horizontal wealth,' which suggests spending increased income on enhancing the hobbies one already enjoys rather than upgrading to traditional symbols of luxury. It highlights the value of investing in personal passions, such as building a home library to facilitate aimless, joyful research.</description>
-    </item>
-
-    <item>
-      <title>The great software IP writedown</title>
-      <link>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://martinalderson.com/">Martin Alderson</source>
-      <description>The article explores how AI agents are eliminating the traditional scarcity of software developers, which historically underpinned high profit margins. It questions the future value and sustainability of software intellectual property in an era of automated code generation.</description>
-    </item>
-
-    <item>
-      <title>Finite Projective Planes</title>
-      <link>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</guid>
-      <pubDate>Sun, 08 Nov 2026 23:23:49 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article introduces the concept of finite projective planes, explaining how finite models can satisfy the axioms of projective geometry. It serves as an introductory overview for readers curious about how geometric principles apply to finite sets.</description>
-    </item>
-
-    <item>
-      <title>Reverse engineering a vintage diode-transistor logic chip</title>
-      <link>http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</link>
-      <guid>http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</guid>
-      <pubDate>Sun, 08 Nov 2026 16:12:25 GMT</pubDate>
-      <source url="http://www.righto.com/">Ken Shirriff's blog</source>
-      <description>This article details the reverse engineering of a rare 1965 Signetics ST680A logic chip using microscopic analysis. It explores the history and mechanical design of early integrated circuit packaging, specifically focusing on the transition from metal cans to the introduction of the plastic DIP.</description>
-    </item>
-
-    <item>
-      <title>Some thoughts on restaurant menu QR codes</title>
-      <link>https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:34:01 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author expresses strong frustration with the modern transition from physical metal keys to plastic electronic keycards in hotels. He argues that traditional keys are more reliable, functional, and even provide a sense of security that plastic alternatives lack.</description>
-    </item>
-
-    <item>
-      <title>parse_number() as a SQLite extension: C vs Rust</title>
-      <link>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</link>
-      <guid>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</guid>
-      <pubDate>Sun, 08 Nov 2026 22:26:00 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison compares building a SQLite parse_number() extension using C versus Rust. The analysis evaluates binary size, code complexity, and performance, ultimately demonstrating that a custom-optimized C implementation can outperform Rust while maintaining a smaller footprint.</description>
     </item>
   </channel>
 </rss>

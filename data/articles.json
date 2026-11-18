@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-11-17T04:13:54.448Z",
+  "last_updated": "2026-11-18T03:11:04.677Z",
   "articles": [
+    {
+      "id": "c0b32b4b52db4221",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "source": "IT Notes",
+      "source_url": "https://it-notes.dragas.net/",
+      "published": "2026-11-17T08:30:00.000Z",
+      "summary_en": "This blog post explores the open source ecosystem beyond Linux, discussing alternative operating systems like BSD and illumos. The author shares his personal journey of discovering free software and reflects on the broader philosophy of knowledge sharing and technical freedom.",
+      "summary_zh": "本文探討了 Linux 以外的開源生態系統，討論了 BSD 和 illumos 等替代作業系統。作者分享了他接觸自由軟體的個人歷程，並反思了知識共享與技術自由的深層哲學。",
+      "keywords": [
+        "open source",
+        "Linux",
+        "BSD",
+        "illumos",
+        "free software"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on the philosophy and conceptual framework of open source and free software, rather than technical tutorials or hard data.",
+      "pacer_reason_zh": "內容聚焦於開源與自由軟體的哲學及概念架構，而非技術教學或數據分析。"
+    },
+    {
+      "id": "a2883eff0fadbb48",
+      "title": "My Empire of Sunshine and Roses",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "published": "2026-11-17T16:00:00.000Z",
+      "summary_en": "The author explores the nature of historical impact through counterfactual thinking and the challenge of individual agency in a seemingly deterministic world. They examine the trajectory of AI development, questioning whether current industry models like centralized offices or expensive agent swarms are truly sustainable or effective.",
+      "summary_zh": "作者透過反事實思考探討歷史影響力的本質，並反思在看似決定論的世界中個人能發揮的作用。文中分析了 AI 的發展趨勢，質疑目前的產業模式（如實體辦公室與高成本的 AI 代理群）是否具備長期可持續性與效益。",
+      "keywords": [
+        "counterfactuals",
+        "AI development",
+        "determinism",
+        "technological landscape",
+        "agency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on theoretical musings about history, determinism, and the conceptual future of AI development.",
+      "pacer_reason_zh": "文章側重於關於歷史、決定論以及 AI 未來發展的理論性思考。"
+    },
+    {
+      "id": "a44fe5901f2a812e",
+      "title": "Stacked diffs with Maiao",
+      "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-11-16T23:00:00.000Z",
+      "summary_en": "The article discusses the benefits of using Maiao, a tool designed to simplify the workflow for developers who prefer stacked diffs when working on traditional platforms like GitHub. It explains the concept of pull requests and branches, positioning Maiao as an effective solution for managing code reviews more efficiently.",
+      "summary_zh": "本文介紹了 Maiao 這款工具，旨在幫助偏好堆疊式 diff (stacked diffs) 的開發者簡化在 GitHub 等傳統平台上的工作流程。文章解釋了 pull request 與分支的概念，並強調 Maiao 能有效提升代碼審查的體驗與效率。",
+      "keywords": [
+        "stacked diffs",
+        "Maiao",
+        "git",
+        "code review",
+        "developer tools"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a recommendation and tutorial-adjacent endorsement of a tool for improving a specific developer workflow.",
+      "pacer_reason_zh": "本文的功能傾向於推薦並引導讀者使用特定工具，以改善開發者的工作流程。"
+    },
+    {
+      "id": "abf110bc13dc7834",
+      "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-17T05:54:01.000Z",
+      "summary_en": "The article explains that there is no native system mechanism to force one program to display a dialog box as if it originated from another. To achieve this, developers must manually coordinate window management between the two applications.",
+      "summary_zh": "本文說明系統並無原生機制能讓一個程式顯示出彷彿來自另一個程式的對話框。若要達成此效果，開發人員必須在兩個應用程式之間手動協調視窗管理。",
+      "keywords": [
+        "Windows API",
+        "Window Management",
+        "Dialog Box",
+        "Programming",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "It explains the conceptual limitation of the operating system regarding inter-process window display.",
+      "pacer_reason_zh": "解釋了作業系統在跨處理序視窗顯示方面的概念性限制。"
+    },
+    {
+      "id": "c0b90f4191eac5b9",
+      "title": "HomeAssistant - shrink a HAOS qcow2 filesystem",
+      "url": "https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-17T12:34:37.000Z",
+      "summary_en": "This guide details the process of shrinking a HomeAssistant OS (HAOS) qcow2 virtual disk to reclaim unused storage space. It provides technical steps to resolve the discrepancy between the actual filesystem usage and the virtual disk's allocated size.",
+      "summary_zh": "本指南介紹了如何縮減 HomeAssistant OS (HAOS) 的 qcow2 虛擬磁碟，以回收未使用的儲存空間。文中提供了技術步驟，解決了虛擬磁碟分配空間與實際檔案系統使用量不一致的問題。",
+      "keywords": [
+        "HomeAssistant",
+        "HAOS",
+        "qcow2",
+        "virtualization",
+        "storage management"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a technical, step-by-step tutorial on how to shrink a specific file format for a system.",
+      "pacer_reason_zh": "本文提供了解決特定系統檔案格式縮減的技術性逐步教學。"
+    },
+    {
+      "id": "c5e5692e95be6c35",
+      "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-17T13:01:56.000Z",
+      "summary_en": "This post highlights Scott Colom's historic and successful Mississippi senate campaign, specifically praising his highly effective political advertisement. It also serves as a daily link digest covering various topics including DRM, corporate practices, and current political discourse.",
+      "summary_zh": "本文介紹了史考特·科隆 (Scott Colom) 在密西西比州參議員選舉中的歷史性勝利，並特別推崇其極具影響力的競選廣告。此外，文中還匯集了關於 DRM、企業行為及當前政治議題的多項連結資訊。",
+      "keywords": [
+        "Scott Colom",
+        "Mississippi",
+        "Senate",
+        "Political Advertising",
+        "Cory Doctorow"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions primarily as a curated list of links and resources, characteristic of a daily digest or reference collection.",
+      "pacer_reason_zh": "本文主要作為連結與資源的整理清單，具備每日摘要或參考資料彙編的特徵。"
+    },
+    {
+      "id": "e010dc913600f8d7",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-11-18T02:52:04.000Z",
+      "summary_en": "Attackers exploited a security vulnerability in the Optimizely platform to inject malware into at least 178 major websites, including high-profile destinations like the BBC and CNN. The incident highlights significant risks posed by third-party content providers and the lack of strict security enforcement for external scripts on popular web platforms.",
+      "summary_zh": "攻擊者利用 Optimizely 平台的安全漏洞，將惡意軟體注入包括 BBC 和 CNN 在內的 178 個熱門網站。此事件凸顯了第三方內容提供商所帶來的潛在風險，以及大型網站缺乏對外部腳本嚴格控管的安全性問題。",
+      "keywords": [
+        "cybersecurity",
+        "malware",
+        "Optimizely",
+        "third-party risk",
+        "data breach"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as an investigative report documenting a specific security incident, acting as a case study of third-party supply chain vulnerabilities.",
+      "pacer_reason_zh": "本文作為調查報導，記錄了一起特定的安全事件，並提供了第三方供應鏈漏洞的案例研究。"
+    },
+    {
+      "id": "b4439a7527ca175b",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-17T22:52:29.000Z",
+      "summary_en": "Simon Willison introduces the 'external sandbox' pattern for AI coding agents to execute code safely outside the host machine. The post provides three reference implementations using different technologies like WebAssembly, Apple Containers, and Quicksand to isolate agent-driven code execution.",
+      "summary_zh": "Simon Willison 介紹了用於 AI 編碼代理的「外部沙盒」模式，旨在讓程式碼在主機外安全執行。文章提供了三種基於 WebAssembly、Apple Containers 和 Quicksand 技術的參考實作，以隔離代理程式觸發的程式碼執行過程。",
+      "keywords": [
+        "AI agents",
+        "sandboxing",
+        "code execution",
+        "security",
+        "webassembly"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a directory and reference for specific sandbox implementation tools and patterns for AI agents.",
+      "pacer_reason_zh": "本文作為特定沙盒實作工具與 AI 代理模式的清單與參考資料。"
+    },
+    {
+      "id": "0b5f35342ecc69a5",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-17T22:38:52.000Z",
+      "summary_en": "Simon Willison details the release of OpenAI's new GPT-6.2 Astra and GPT-6.2 Sol models, highlighting their API availability and pricing adjustments. The post provides benchmarks through 'pelican' image generation tests to compare the performance and improvements over previous model iterations.",
+      "summary_zh": "Simon Willison 介紹了 OpenAI 新推出的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重點說明其 API 支援及價格調整。文中並透過「鵜鶘」圖像生成測試，比較新舊模型之間的性能表現與改進。",
+      "keywords": [
+        "OpenAI",
+        "GPT-6.2",
+        "LLM",
+        "AI models",
+        "benchmarking"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on pricing data, performance benchmarks, and comparative visual analysis of the new models.",
+      "pacer_reason_zh": "本文重點在於價格數據、性能基準測試以及針對新模型視覺表現的比較分析。"
+    },
+    {
+      "id": "9e24bec0316d82cc",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-17T16:48:33.000Z",
+      "summary_en": "Simon Willison has updated Datasette Lite, a browser-based port of the Datasette application using Pyodide and service workers. This tool allows users to run complex SQLite data analysis and install plugins directly in the browser via custom URLs, eliminating the need for a dedicated server.",
+      "summary_zh": "Simon Willison 更新了 Datasette Lite，這是一款利用 Pyodide 和 Service Workers 在瀏覽器中運行的 Datasette 應用程式。使用者現在可以透過自定義網址，直接在瀏覽器內進行複雜的 SQLite 資料分析並安裝外掛，無需架設後端伺服器。",
+      "keywords": [
+        "Datasette",
+        "Pyodide",
+        "WebAssembly",
+        "SQLite",
+        "Service Workers"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as an announcement and guide for using the new features of Datasette Lite, focusing on how users can leverage specific URL parameters to run the application.",
+      "pacer_reason_zh": "本文作為 Datasette Lite 新功能的公告與操作指南，重點介紹使用者如何透過特定的網址參數來運行該應用程式。"
+    },
+    {
+      "id": "38f599c774ee5c8e",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-17T06:16:26.000Z",
+      "summary_en": "This post highlights a key maxim from the Go Proverbs, emphasizing that minimal code duplication is often preferable to excessive software dependencies. It reflects on the importance of balancing code simplicity against modularity in programming.",
+      "summary_zh": "這篇文章引用了 Go 語言格言，強調在程式開發中，少量的複製通常比過多的依賴更好。它探討了在程式碼簡潔性與模組化之間取得平衡的重要性。",
+      "keywords": [
+        "Go",
+        "Programming",
+        "Software Engineering",
+        "Dependency Management",
+        "Best Practices"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on a core programming philosophy, explaining a conceptual principle regarding code design.",
+      "pacer_reason_zh": "內容聚焦於程式設計的核心哲學，解釋了關於程式碼設計的觀念性原則。"
+    },
     {
       "id": "5446f7cc17eb4d12",
       "title": "Weekly Update 530: Email Dependencies & Apps",
