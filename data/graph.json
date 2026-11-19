@@ -1,6 +1,102 @@
 {
   "nodes": [
     {
+      "id": "90a1d31587dabb01",
+      "title": "Supersequences and Superpermutations",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
+      "pacer": "C",
+      "keywords": [
+        "supersequence",
+        "superpermutation",
+        "combinatorics",
+        "permutation",
+        "mathematics"
+      ],
+      "published": "2026-11-19T00:10:21.000Z"
+    },
+    {
+      "id": "27f7b51e3bf8f5a8",
+      "title": "Quoting Daniel Stenberg",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "pacer": "E",
+      "keywords": [
+        "curl",
+        "rust",
+        "ai",
+        "refactoring",
+        "software-maintenance"
+      ],
+      "published": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "id": "d6b88907cbdaa308",
+      "title": "The PSF end-of-year fundraiser",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "pacer": "C",
+      "keywords": [
+        "Python",
+        "PSF",
+        "Fundraiser",
+        "PyPI",
+        "Non-profit"
+      ],
+      "published": "2026-11-18T14:44:48.000Z"
+    },
+    {
+      "id": "491f62b5f2b0e33f",
+      "title": "Once More Unto The Breach - Another Year In Review",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
+      "pacer": "C",
+      "keywords": [
+        "FIRE",
+        "year-in-review",
+        "financial independence",
+        "retirement",
+        "personal reflection"
+      ],
+      "published": "2026-11-18T12:34:00.000Z"
+    },
+    {
+      "id": "0fec83a711f4a85b",
+      "title": "This Week in Source Control: 18 November 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/11/18/this-week-in-source-control.html",
+      "pacer": "R",
+      "keywords": [
+        "version control",
+        "Gerrit",
+        "GitButler",
+        "Gitea",
+        "software releases"
+      ],
+      "published": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "id": "c34e5e97e9af2ea3",
+      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
+      "pacer": "C",
+      "keywords": [
+        "enshittification",
+        "scams",
+        "AI",
+        "fraud",
+        "Cory Doctorow"
+      ],
+      "published": "2026-11-18T08:28:46.000Z"
+    },
+    {
       "id": "e010dc913600f8d7",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "source": "Krebs on Security",
@@ -15,6 +111,38 @@
         "data breach"
       ],
       "published": "2026-11-18T02:52:04.000Z"
+    },
+    {
+      "id": "3af01553d0558db3",
+      "title": "Are vibe-coded games making me a substance dualist?",
+      "source": "Rakhim's blog",
+      "source_url": "https://rakhim.exotext.com/",
+      "url": "https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist",
+      "pacer": "C",
+      "keywords": [
+        "AI art",
+        "video games",
+        "substance dualism",
+        "game design",
+        "philosophy"
+      ],
+      "published": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "65aee7c4908b5c1c",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/",
+      "pacer": "A",
+      "keywords": [
+        "software engineering",
+        "programming languages",
+        "satire",
+        "developer experience",
+        "tech culture"
+      ],
+      "published": "2026-11-18T00:00:00.000Z"
     },
     {
       "id": "b4439a7527ca175b",
@@ -81,6 +209,38 @@
       "published": "2026-11-17T16:00:00.000Z"
     },
     {
+      "id": "446ee16a12eff787",
+      "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/",
+      "pacer": "C",
+      "keywords": [
+        "Microsoft",
+        "BASIC",
+        "software pricing",
+        "compiler",
+        "interpreter"
+      ],
+      "published": "2026-11-17T15:00:00.000Z"
+    },
+    {
+      "id": "c818f11d70b8d7e3",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "pacer": "C",
+      "keywords": [
+        "NTP",
+        "Raspberry Pi",
+        "GNSS",
+        "Stratum 1",
+        "Time Server"
+      ],
+      "published": "2026-11-17T15:00:00.000Z"
+    },
+    {
       "id": "c5e5692e95be6c35",
       "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -129,22 +289,6 @@
       "published": "2026-11-17T08:30:00.000Z"
     },
     {
-      "id": "38f599c774ee5c8e",
-      "title": "Quoting Go Proverbs",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "pacer": "C",
-      "keywords": [
-        "Go",
-        "Programming",
-        "Software Engineering",
-        "Dependency Management",
-        "Best Practices"
-      ],
-      "published": "2026-11-17T06:16:26.000Z"
-    },
-    {
       "id": "abf110bc13dc7834",
       "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
       "source": "The Old New Thing",
@@ -159,22 +303,6 @@
         "The Old New Thing"
       ],
       "published": "2026-11-17T05:54:01.000Z"
-    },
-    {
-      "id": "a50437ccc021c623",
-      "title": "llm 0.37.3",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/16/llm/",
-      "pacer": "P",
-      "keywords": [
-        "llm",
-        "sqlite",
-        "bug fix",
-        "json",
-        "software release"
-      ],
-      "published": "2026-11-16T23:57:26.000Z"
     },
     {
       "id": "a44fe5901f2a812e",
@@ -577,38 +705,6 @@
       "published": "2026-11-13T15:00:00.000Z"
     },
     {
-      "id": "6aae6c8b3799daf8",
-      "title": "Kepler and the dwarf",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/",
-      "pacer": "E",
-      "keywords": [
-        "Kepler",
-        "astronomy",
-        "dwarf planet",
-        "physics",
-        "orbital mechanics"
-      ],
-      "published": "2026-11-13T14:54:38.000Z"
-    },
-    {
-      "id": "13311e5f13e2f97d",
-      "title": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
-      "pacer": "E",
-      "keywords": [
-        "Thermal Master",
-        "P3 Lite",
-        "thermal camera",
-        "hardware review",
-        "electronics"
-      ],
-      "published": "2026-11-13T12:34:48.000Z"
-    },
-    {
       "id": "809598b02e4206dd",
       "title": "So you want to buy AI for your company ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -945,22 +1041,6 @@
       "published": "2026-11-10T17:21:43.000Z"
     },
     {
-      "id": "c2eda24c43e1654e",
-      "title": "Microsoft employee price list from 1987",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/",
-      "pacer": "R",
-      "keywords": [
-        "Microsoft",
-        "1987",
-        "price list",
-        "software history",
-        "The Old New Thing"
-      ],
-      "published": "2026-11-10T15:00:00.000Z"
-    },
-    {
       "id": "cafac86bc616d20d",
       "title": "The classic console corner's CRT changeover",
       "source": "Old Vintage Computing Research",
@@ -1039,22 +1119,6 @@
         "bug bounty"
       ],
       "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-      "id": "831cf35bc0870678",
-      "title": "Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/",
-      "pacer": "C",
-      "keywords": [
-        "Trumpism",
-        "geopolitics",
-        "sovereignty",
-        "institutional trust",
-        "Cory Doctorow"
-      ],
-      "published": "2026-11-09T08:12:24.000Z"
     },
     {
       "id": "b0125a77b8572523",
@@ -1279,22 +1343,6 @@
         "economics"
       ],
       "published": "2026-11-06T13:01:35.000Z"
-    },
-    {
-      "id": "871932f01cb5c681",
-      "title": "Weekend at Bernie’s II",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html",
-      "pacer": "E",
-      "keywords": [
-        "software repositories",
-        "AI agents",
-        "open source",
-        "developer activity",
-        "ecosystem analysis"
-      ],
-      "published": "2026-11-06T10:00:00.000Z"
     },
     {
       "id": "c3251d44f9581800",
@@ -2145,22 +2193,6 @@
       "published": "2026-10-21T16:14:51.000Z"
     },
     {
-      "id": "0e2f48bc0979a338",
-      "title": "Upgrade your PHP installs immediately to protect against php2shell",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
-      "pacer": "P",
-      "keywords": [
-        "PHP",
-        "Security",
-        "RCE",
-        "Upgrade",
-        "Cybersecurity"
-      ],
-      "published": "2026-10-21T14:10:00.000Z"
-    },
-    {
       "id": "35a8d53ae6d1af7b",
       "title": "Rails is a JIT compiler",
       "source": "Max Bernstein's Blog",
@@ -2205,22 +2237,6 @@
         "tech culture",
         "dev experience",
         "rant"
-      ],
-      "published": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "9189459514dd21ca",
-      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
-      "source": "Xe Iaso's blog",
-      "source_url": "https://xeiaso.net/",
-      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/",
-      "pacer": "C",
-      "keywords": [
-        "programming languages",
-        "software design",
-        "security",
-        "developer culture",
-        "tech satire"
       ],
       "published": "2026-10-21T00:00:00.000Z"
     },
@@ -5043,6 +5059,16 @@
     }
   ],
   "links": [
+    {
+      "source": "65aee7c4908b5c1c",
+      "target": "9f3c74759ee33f7c",
+      "shared_keywords": [
+        "satire",
+        "software engineering",
+        "tech culture"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "114ed2f21593559c",
       "target": "2c3fdfcda27f6141",

@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-11-18T03:11:04.677Z",
+  "last_updated": "2026-11-19T02:52:12.194Z",
   "articles": [
+    {
+      "id": "0fec83a711f4a85b",
+      "title": "This Week in Source Control: 18 November 2026",
+      "url": "https://nesbitt.io/2026/11/18/this-week-in-source-control.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-18T10:00:00.000Z",
+      "summary_en": "This roundup covers the latest updates in version control software, including significant release notes for Gerrit 3.15.0 and GitButler 0.23.4. It also highlights security disclosures, specifically regarding multiple CVEs patched in Gitea 28.4.0.",
+      "summary_zh": "本週版本控制軟體動態匯總了 Gerrit 3.15.0 與 GitButler 0.23.4 的重要更新。此外，文中亦提及 Gitea 28.4.0 的安全公告，包括針對多項 CVE 漏洞的修復資訊。",
+      "keywords": [
+        "version control",
+        "Gerrit",
+        "GitButler",
+        "Gitea",
+        "software releases"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a periodic reference and digest of software news, release notes, and security updates.",
+      "pacer_reason_zh": "此內容作為軟體新聞、發布說明與安全更新的定期參考資料與摘要。"
+    },
+    {
+      "id": "3af01553d0558db3",
+      "title": "Are vibe-coded games making me a substance dualist?",
+      "url": "https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist",
+      "source": "Rakhim's blog",
+      "source_url": "https://rakhim.exotext.com/",
+      "published": "2026-11-18T00:00:00.000Z",
+      "summary_en": "The author explores the unsettling feeling of 'soullessness' in AI-generated, vibe-coded video games, contrasting technical explanations with an intuitive sense of human presence. While some issues can be attributed to design flaws, the author questions whether our perception of art involves an intangible quality that transcends rational analysis.",
+      "summary_zh": "作者探討了 AI 生成的「氛圍感」遊戲所帶來的虛無感，對比了技術缺陷與對人類靈魂存在的直覺感受。儘管許多不協調感可歸因於設計瑕疵，作者仍反思了我們對於藝術中那種超越理性解釋的靈魂特質的感知。",
+      "keywords": [
+        "AI art",
+        "video games",
+        "substance dualism",
+        "game design",
+        "philosophy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is primarily a philosophical reflection and exploration of a conceptual question regarding the nature of human presence and 'soul' in digital art.",
+      "pacer_reason_zh": "本文主要是一篇哲學反思，探討關於數位藝術中人類存在感與「靈魂」本質的概念性問題。"
+    },
+    {
+      "id": "90a1d31587dabb01",
+      "title": "Supersequences and Superpermutations",
+      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-19T00:10:21.000Z",
+      "summary_en": "This article explores the mathematical concepts of supersequences and superpermutations, focusing on how universal words contain every permutation of an alphabet as a subsequence. It highlights the distinction between subsequence-based universal words and contiguous substring arrangements.",
+      "summary_zh": "本文探討了超序列（supersequences）與超排列（superpermutations）的數學概念，重點在於說明「通用字串」如何包含字母表的所有排列作為其子序列。文章並區分了基於子序列的通用字串與連續子字串排列之間的差異。",
+      "keywords": [
+        "supersequence",
+        "superpermutation",
+        "combinatorics",
+        "permutation",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains mathematical definitions and theoretical concepts surrounding permutations and sequences.",
+      "pacer_reason_zh": "文章主要解釋關於排列與序列的數學定義及理論概念。"
+    },
+    {
+      "id": "446ee16a12eff787",
+      "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-17T15:00:00.000Z",
+      "summary_en": "This post explores the historical pricing strategy behind early Microsoft software products. It examines why the BASIC compiler was priced lower than the BASIC interpreter in internal employee price lists.",
+      "summary_zh": "這篇文章探討了早期微軟軟體產品背後的定價策略。文章分析了為什麼在員工價目表中，BASIC 編譯器的價格會低於 BASIC 解譯器。",
+      "keywords": [
+        "Microsoft",
+        "BASIC",
+        "software pricing",
+        "compiler",
+        "interpreter"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the reasoning behind a specific historical pricing model.",
+      "pacer_reason_zh": "本文旨在解釋特定歷史定價模型背後的邏輯與原因。"
+    },
+    {
+      "id": "65aee7c4908b5c1c",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/",
+      "source": "Xe Iaso's blog",
+      "source_url": "https://xeiaso.net/",
+      "published": "2026-11-18T00:00:00.000Z",
+      "summary_en": "This article serves as a satirical commentary on software engineering pain points, specifically focusing on the common frustrations developers face when dealing with poorly designed programming languages. It highlights the irony of recurring technical issues that developers are forced to endure despite their predictable nature.",
+      "summary_zh": "這篇文章對軟體工程中的痛點進行了諷刺性評論，特別聚焦於開發者在處理設計不良的程式語言時所面臨的普遍挫折。它點出了儘管技術問題是可以預見的，開發者卻被迫忍受這些反覆出現的困境之荒謬性。",
+      "keywords": [
+        "software engineering",
+        "programming languages",
+        "satire",
+        "developer experience",
+        "tech culture"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses satire and irony as an analogy to critique the state of programming language design.",
+      "pacer_reason_zh": "本文運用諷刺與反諷作為類比，藉此批評程式語言設計的現狀。"
+    },
+    {
+      "id": "491f62b5f2b0e33f",
+      "title": "Once More Unto The Breach - Another Year In Review",
+      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-18T12:34:00.000Z",
+      "summary_en": "The author reflects on their second year of FIRE (Financial Independence, Retire Early) after leaving their job in 2010. They share personal experiences of a relaxed lifestyle, including travel, entertainment, and social engagements, while evaluating their post-retirement journey.",
+      "summary_zh": "作者回顧了在 2010 年辭職並實現財務自由（FIRE）後的第二年生活。文中分享了這段時間內旅行、觀看演出及與朋友相聚的悠閒生活，並反思了退休後的整體體驗與感悟。",
+      "keywords": [
+        "FIRE",
+        "year-in-review",
+        "financial independence",
+        "retirement",
+        "personal reflection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post is a personal narrative and reflective piece discussing the author's conceptual experience of living a retired lifestyle.",
+      "pacer_reason_zh": "本文屬於個人敘事與反思性質，探討了作者對於退休生活的概念性體驗與心得。"
+    },
+    {
+      "id": "c34e5e97e9af2ea3",
+      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-18T08:28:46.000Z",
+      "summary_en": "Cory Doctorow argues that the current 'enshittification' of corporate and digital services creates an environment where scams become indistinguishable from standard business practices. The integration of AI tools further empowers fraudsters to conduct large-scale, personalized attacks, eroding trust in public institutions and digital security.",
+      "summary_zh": "Cory Doctorow 指出，當前企業與數位平台的「平台崩壞」（enshittification）趨勢，使得消費者難以分辨正常的商業行為與詐騙。AI 技術的廣泛應用更讓詐騙集團能大規模進行精準攻擊，進一步瓦解了大眾對公共機構與數位安全的信任。",
+      "keywords": [
+        "enshittification",
+        "scams",
+        "AI",
+        "fraud",
+        "Cory Doctorow"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical link between corporate service degradation and the rise of cyber-fraud, focusing on the conceptual 'scam economy'.",
+      "pacer_reason_zh": "本文探討了企業服務品質惡化與網路詐騙興起之間的理論關聯，聚焦於「詐騙經濟」這一概念性議題。"
+    },
+    {
+      "id": "27f7b51e3bf8f5a8",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-18T15:58:27.000Z",
+      "summary_en": "Daniel Stenberg challenges the effectiveness of automated AI code migration tools by comparing them to the active maintenance of the curl project. He argues that automated rewrites fail to keep pace with the continuous bug fixes and security improvements made by human maintainers.",
+      "summary_zh": "Daniel Stenberg 質疑自動化 AI 程式碼遷移工具的有效性，並將其與 curl 專案的實際維護狀況進行了對比。他指出，自動化重寫的程式碼無法跟上維護者在短時間內所進行的數百次漏洞修復與安全性更新。",
+      "keywords": [
+        "curl",
+        "rust",
+        "ai",
+        "refactoring",
+        "software-maintenance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content relies on empirical observations and comparison of actual project metrics to demonstrate the limitations of AI-driven code rewrites.",
+      "pacer_reason_zh": "內容依賴經驗性觀察與實際專案數據的對比，用以說明 AI 驅動的程式碼重寫所面臨的局限性。"
+    },
+    {
+      "id": "d6b88907cbdaa308",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-18T14:44:48.000Z",
+      "summary_en": "Simon Willison highlights the Python Software Foundation's end-of-year fundraiser, which supports essential operations like PyPI, community events, and the Developers in Residence program. He encourages individuals and companies that benefit from Python to contribute to the non-profit's mission.",
+      "summary_zh": "Simon Willison 介紹了 Python 軟體基金會（PSF）的年度募款活動，該基金會負責支持 Python 開發、維護 PyPI 並運作社群活動。他呼籲受惠於 Python 的個人與企業慷慨捐助，以支持其核心專案與開發者駐點計畫。",
+      "keywords": [
+        "Python",
+        "PSF",
+        "Fundraiser",
+        "PyPI",
+        "Non-profit"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content serves as a conceptual overview and announcement of the PSF's mission and current fundraising efforts.",
+      "pacer_reason_zh": "內容主要介紹 PSF 的宗旨並宣傳年度募款活動，屬於概念性說明資訊。"
+    },
+    {
+      "id": "c818f11d70b8d7e3",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-11-17T15:00:00.000Z",
+      "summary_en": "Jeff Geerling explains his recent contribution to the NTP Pool by setting up a public Stratum 2 time server. The server derives its time from his local Stratum 1 hardware, which utilizes a Raspberry Pi connected to a high-precision u-blox ZED-F9T GNSS module.",
+      "summary_zh": "Jeff Geerling 分享了他透過架設 Stratum 2 公用 NTP 時間伺服器，對 NTP Pool 計畫所做的貢獻。該伺服器與他工作室內的 Stratum 1 伺服器同步，後者透過 Raspberry Pi 與高精準度的 u-blox ZED-F9T GNSS 模組運作。",
+      "keywords": [
+        "NTP",
+        "Raspberry Pi",
+        "GNSS",
+        "Stratum 1",
+        "Time Server"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the concept and configuration of his time synchronization setup.",
+      "pacer_reason_zh": "本文介紹了作者的時間同步架設概念與配置方式。"
+    },
     {
       "id": "c0b32b4b52db4221",
       "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
