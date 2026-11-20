@@ -1,6 +1,266 @@
 {
-  "last_updated": "2026-11-19T02:52:12.194Z",
+  "last_updated": "2026-11-20T02:42:55.794Z",
   "articles": [
+    {
+      "id": "f3b6a5ce82542050",
+      "title": "Inside PyPy: first contact with RPython",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-11-19T00:00:00.000Z",
+      "summary_en": "This article explores tools for implementing programming languages, specifically focusing on RPython. It compares RPython with alternatives like Truffle and Deegen, highlighting how each framework handles interpreter and JIT compiler generation.",
+      "summary_zh": "本文探討了程式語言實作工具，重點介紹了 RPython。文中比較了 RPython 與 Truffle 和 Deegen 等替代方案，並解析了它們在直譯器構建與 JIT 編譯器生成方面的不同方法。",
+      "keywords": [
+        "RPython",
+        "PyPy",
+        "Programming Languages",
+        "JIT Compiler",
+        "VM implementation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual differences between various VM implementation frameworks and describes the mechanics of RPython.",
+      "pacer_reason_zh": "本文解釋了各種虛擬機實作框架之間的概念差異，並描述了 RPython 的運作機制。"
+    },
+    {
+      "id": "bef7de4e40c7c443",
+      "title": "Email Dumpster Diving",
+      "url": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-11-18T19:00:00.000Z",
+      "summary_en": "The author examines their habit of browsing the spam folder to analyze current phishing and scam tactics. By observing these patterns, they highlight how closely scam tactics resemble legitimate SaaS business practices and bill-collection notifications.",
+      "summary_zh": "作者分享了瀏覽垃圾郵件資料夾以分析詐騙手法的習慣。透過觀察這些詐騙模式，作者指出當前的釣魚手法與合法軟體訂閱制（SaaS）的催繳通知在形式上竟有驚人的相似之處。",
+      "keywords": [
+        "phishing",
+        "spam",
+        "SaaS",
+        "cybersecurity",
+        "scam"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides anecdotal evidence and personal observations of specific phishing examples to illustrate the overlap between scam tactics and legitimate business practices.",
+      "pacer_reason_zh": "本文透過作者的個人觀察與具體的釣魚郵件案例，分析並展示了詐騙手段與合法商業模式之間的界線模糊性。"
+    },
+    {
+      "id": "35e664d0b0b90bcf",
+      "title": "My Least Favorite Example in Software Engineering",
+      "url": "https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/",
+      "source": "Computer Things",
+      "source_url": "https://buttondown.com/hillelwayne",
+      "published": "2026-11-19T15:40:32.000Z",
+      "summary_en": "The author critiques the ubiquitous use of list reversal examples in Property-Based Testing (PBT) tutorials, arguing they fail to demonstrate real-world utility. Effective educational examples should be simple, relevant, and bridge the gap between abstract concepts and practical application.",
+      "summary_zh": "作者批評了基於屬性的測試 (PBT) 教學中頻繁使用「列表反轉」作為範例，認為這類範例無法呈現真實世界的應用價值。好的教學範例應具備易懂性與關聯性，協助讀者將抽象概念與實際開發需求連結。",
+      "keywords": [
+        "Software Engineering",
+        "Property-Based Testing",
+        "Pedagogy",
+        "Tutorials",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses the theory and philosophy of creating effective educational content and pedagogical examples in software engineering.",
+      "pacer_reason_zh": "本文探討了軟體工程中建立有效教材與教學範例的理論與哲學觀點。"
+    },
+    {
+      "id": "a9edce1f6fee841f",
+      "title": "Unburden yourself of the backlog",
+      "url": "https://entropicthoughts.com/unburden-yourself-of-the-backlog",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-11-18T23:00:00.000Z",
+      "summary_en": "This article discusses David Marquet's leadership philosophy, highlighting how traditional management systems often prioritize tracking the status of tasks over actual completion. Through his experience on the USS Santa Fe, he illustrates that bureaucratic processes like 'tickler' binders can create the illusion of control while hindering genuine productivity.",
+      "summary_zh": "本文探討了 David Marquet 的領導哲學，指出傳統管理體系往往過度關注任務狀態追蹤而非實際執行。透過他在「聖塔菲號」潛艇上的經驗，說明了像「提醒資料夾」這類官僚流程，往往會製造出掌控全局的假象，反而阻礙了真正的生產力。",
+      "keywords": [
+        "leadership",
+        "productivity",
+        "management",
+        "David Marquet",
+        "process"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific case study from David Marquet's submarine experience to illustrate a management lesson.",
+      "pacer_reason_zh": "文章透過 David Marquet 在潛艇上的具體案例研究，來說明一項管理方面的經驗教訓。"
+    },
+    {
+      "id": "60122eeda25938db",
+      "title": "Closing The Sandwich Shop",
+      "url": "https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny",
+      "source": "Tedium: The Dull Side of the Internet.",
+      "source_url": "https://tedium.co/",
+      "published": "2026-11-19T18:38:35.000Z",
+      "summary_en": "The article discusses the closure of Salon, highlighting the challenges independent media faces when relying on shifting technology ecosystems. The author argues that media outlets lost crucial momentum by outsourcing their community infrastructure and failing to maintain control over their own digital destinies.",
+      "summary_zh": "本文探討了獨立媒體 Salon 的關閉，強調媒體在依賴不斷變化的科技生態系統時所面臨的困境。作者認為，媒體因將社群基礎設施外包給外部平台，未能掌握自身命運，最終導致失去了必要的競爭動能與基礎實力。",
+      "keywords": [
+        "Salon",
+        "digital media",
+        "journalism",
+        "tech ecosystem",
+        "media strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides an analytical perspective on the decline of independent media and the conceptual failure of outsourcing digital infrastructure.",
+      "pacer_reason_zh": "本文針對獨立媒體的衰落提供了分析觀點，探討了將數位基礎設施外包的觀念性錯誤。"
+    },
+    {
+      "id": "9d62a1bd6c0ac793",
+      "title": "If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-18T15:00:00.000Z",
+      "summary_en": "The article explains that the absence of a feature in Windows documentation does not necessarily mean the functionality is unsupported. Official documentation only covers known capabilities, while third-party integrations may operate outside of these specified parameters.",
+      "summary_zh": "本文解釋了 Windows 文件中未列出的技術並不代表其不支援該功能。官方文件僅記錄已知資訊，而第三方網路協定可能在這些規範之外運行。",
+      "keywords": [
+        "Windows",
+        "documentation",
+        "third-party",
+        "protocols",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation regarding the limitations and scope of official documentation.",
+      "pacer_reason_zh": "本文針對官方文件的限制與範疇提供了概念性的解釋。"
+    },
+    {
+      "id": "41ab334ec7bdb49e",
+      "title": "Theatre Review: FORT – a new opera ★★★☆☆",
+      "url": "https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-19T12:34:32.000Z",
+      "summary_en": "This review evaluates 'FORT,' a new close-quarters opera performance held in an intimate venue. While praising the exceptional vocal talent of Daniella Sicari and Lucy Gibbs, the author suggests that the musical score lacks the complexity required to fully showcase their abilities.",
+      "summary_zh": "這篇評論介紹了在小型場地表演的新歌劇《FORT》。作者讚揚了兩位女高音 Daniella Sicari 與 Lucy Gibbs 的精湛才華，但認為其音樂編排稍嫌簡單，未能完全發揮歌手的實力。",
+      "keywords": [
+        "Theatre Review",
+        "Opera",
+        "Performance Art",
+        "Music Critique",
+        "FORT"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is a critical review providing an evaluation and explanation of an artistic experience.",
+      "pacer_reason_zh": "本文屬於藝文評論，旨在提供對表演藝術作品的評估與解說。"
+    },
+    {
+      "id": "cd735e5214d8fecc",
+      "title": "Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/19/loan-out-companies/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-19T14:10:14.000Z",
+      "summary_en": "Cory Doctorow analyzes why expanded copyright protections have failed to benefit artists, arguing that market oligopolies force creators to forfeit their bargaining power. He explains that without addressing power imbalances, increasing legal protections simply provides more leverage for corporations to extract from vulnerable workers.",
+      "summary_zh": "柯利·多克托羅（Cory Doctorow）分析了為何擴大的著作權保障未能造福創作者，並指出市場壟斷力量迫使創作者放棄談判籌碼。他解釋說，若不解決權力失衡問題，僅增加法律保障只會讓大型企業有更多手段從弱勢創作者身上獲利。",
+      "keywords": [
+        "copyright",
+        "labor rights",
+        "oligopoly",
+        "Cory Doctorow",
+        "creative economy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is a conceptual critique of copyright law and the economic power dynamics between artists and media conglomerates.",
+      "pacer_reason_zh": "本文是對著作權法以及創作者與媒體集團之間經濟權力關係的概念性評論。"
+    },
+    {
+      "id": "d9af8902cca988a1",
+      "title": "Another company I've never heard of lost my Data ",
+      "url": "https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-11-19T23:27:30.000Z",
+      "summary_en": "The author discusses the alarming frequency of data breaches involving companies they have no relationship with, highlighting the inadequacy of credit monitoring as a standard compensation. They argue that without severe penalties for data mismanagement, such security failures will continue to be a common, recurring problem.",
+      "summary_zh": "作者探討了個人資訊在未經授權的公司發生洩露的頻繁現象，並指出僅提供一年信用監控作為賠償顯然不足。文章強調，若缺乏對資料保護疏失的實質懲罰，此類安全漏洞將持續成為常態問題。",
+      "keywords": [
+        "data breach",
+        "privacy",
+        "cybersecurity",
+        "identity theft",
+        "data protection"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique of corporate data security practices and the inadequacy of current industry responses to data breaches.",
+      "pacer_reason_zh": "該文章對企業資料安全實務以及目前業界應對資料外洩的不足之處提出了概念性的批判與見解。"
+    },
+    {
+      "id": "fb65a2aebf9649db",
+      "title": "SO Is Back! No, Not Stack Overflow, but Its Spirit ",
+      "url": "https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit",
+      "source": "Software and Tech stories from an Insider - iDiallo.com",
+      "source_url": "https://idiallo.com/",
+      "published": "2026-11-19T07:27:09.000Z",
+      "summary_en": "This post discusses the shift in technical problem-solving from Stack Overflow's community-driven model to AI tools, highlighting the frustrations of restrictive LLM safety filters. It argues that modern AI limitations are creating new barriers, effectively echoing the gatekeeping issues once faced on Stack Overflow.",
+      "summary_zh": "這篇文章探討了技術問題解決方式從 Stack Overflow 社群模式轉向人工智慧工具的過程，並強調了受限的 AI 安全篩選機制所帶來的挫折感。作者認為現代 AI 的限制正在形成新的阻礙，其體驗甚至比過去在 Stack Overflow 遭遇的審核更令人沮喪。",
+      "keywords": [
+        "Stack Overflow",
+        "LLM",
+        "AI",
+        "Development",
+        "Gatekeeping"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how developer knowledge-seeking has evolved and the philosophical implications of AI moderation.",
+      "pacer_reason_zh": "本文對開發者尋求知識的演變及其 AI 審核背後的哲學意涵進行了概念性分析。"
+    },
+    {
+      "id": "a457925fbd609abe",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-19T20:43:57.000Z",
+      "summary_en": "PostgreSQL 19 has been released, featuring a significant new capability called 'WAIT FOR LSN' that enables read-your-writes consistency on standby servers. This feature allows applications to ensure replicas are caught up to a specific log sequence number before executing queries, resolving typical replication lag issues.",
+      "summary_zh": "PostgreSQL 19 正式發布，引入了名為「WAIT FOR LSN」的新功能，讓備援伺服器（standby）能達成「讀取自己的寫入」（read-your-writes）一致性。此功能允許應用程式在執行查詢前，確保資料庫已同步至指定的日誌序號（LSN），解決了常見的複寫延遲問題。",
+      "keywords": [
+        "PostgreSQL",
+        "database",
+        "replication",
+        "LSN",
+        "consistency"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article demonstrates how to use the new WAIT FOR LSN command with a practical, step-by-step code example.",
+      "pacer_reason_zh": "文章透過具體的程式碼範例，示範如何實際操作並應用新的 WAIT FOR LSN 指令。"
+    },
+    {
+      "id": "02f125d9c6cc4401",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-18T23:59:20.000Z",
+      "summary_en": "Simon Willison updates his llm-gemini plugin following the release of Google's new Gemini 4 Neon model. The post highlights ongoing confusion regarding Google's complex pricing structure and shifting model lineup strategies.",
+      "summary_zh": "Simon Willison 在 Google 發布 Gemini 4 Neon 模型後，更新了他的 llm-gemini 外掛程式。文章強調了 Google 複雜的定價結構與不斷變動的產品陣容所帶來的混亂。",
+      "keywords": [
+        "Gemini 4 Neon",
+        "LLM",
+        "Google",
+        "Pricing",
+        "API"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post serves as a software update announcement and provides reference information regarding new model releases and pricing tiers.",
+      "pacer_reason_zh": "此文章作為軟體更新公告，並針對新模型發布及定價分級提供參考資訊。"
+    },
+    {
+      "id": "5f73b59a3fca2b79",
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-18T17:09:59.000Z",
+      "summary_en": "Simon Willison has released datasette-arrows 0.1a0, a new plugin that enables streaming export of data from Datasette in the Apache Arrow IPC format. This release leverages new streaming export capabilities in Datasette 1.0a43 to allow for efficient data transfer to tools like pandas, Polars, and DuckDB.",
+      "summary_zh": "Simon Willison 發布了 datasette-arrows 0.1a0 插件，支援將 Datasette 中的數據以 Apache Arrow IPC 格式進行流式導出。此功能利用 Datasette 1.0a43 的新特性，讓用戶能將數據高效傳輸至 pandas、Polars 和 DuckDB 等工具進行分析。",
+      "keywords": [
+        "Datasette",
+        "Apache Arrow",
+        "streaming",
+        "data engineering",
+        "plugin"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The post announces a new tool/plugin and explains how to install and use it to achieve streaming data exports.",
+      "pacer_reason_zh": "本文介紹了一款新工具/插件的發布，並說明如何安裝與使用它來實現數據的流式導出。"
+    },
     {
       "id": "0fec83a711f4a85b",
       "title": "This Week in Source Control: 18 November 2026",
