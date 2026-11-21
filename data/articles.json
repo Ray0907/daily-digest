@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-11-20T02:42:55.794Z",
+  "last_updated": "2026-11-21T02:54:09.570Z",
   "articles": [
+    {
+      "id": "0b70a01ea1ae8156",
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "source": "The Digital Antiquarian",
+      "source_url": "https://www.filfre.net/",
+      "published": "2026-11-20T17:03:57.000Z",
+      "summary_en": "This article explores the design philosophy of Diablo II, highlighting its progression systems and the balance between complex sub-goals and straightforward, accessible gameplay. It examines how the game maintains player engagement through rewarding loops.",
+      "summary_zh": "本文探討了《暗黑破壞神 II》的設計理念，強調其角色成長系統以及在複雜副目標與直觀、易於上手的遊戲體驗之間取得的平衡。文章分析了該作如何通過獎勵機制維持玩家的參與度。",
+      "keywords": [
+        "Diablo II",
+        "Game Design",
+        "Progression",
+        "Gaming History",
+        "Action RPG"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of the game's core design mechanics and gameplay loop.",
+      "pacer_reason_zh": "本文針對遊戲的核心設計機制與玩法循環進行了概念性的分析。"
+    },
+    {
+      "id": "75849af9873330dd",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "source": "Fernando Borretti",
+      "source_url": "https://borretti.me/",
+      "published": "2026-11-20T13:00:00.000Z",
+      "summary_en": "This piece references Nietzsche's philosophical concept of man as a bridge. It explores the idea of human existence as a transitory state of becoming rather than a final destination.",
+      "summary_zh": "這篇文章引用了尼采關於「人是一座橋樑」的哲學概念。探討了人類存在本身是一種轉變的過程，而非終點的哲學思想。",
+      "keywords": [
+        "Nietzsche",
+        "Philosophy",
+        "Existentialism",
+        "Humanity",
+        "Metaphor"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on philosophical conceptualization and abstract theory.",
+      "pacer_reason_zh": "內容側重於哲學概念化與抽象理論。"
+    },
+    {
+      "id": "608fd58e178a932e",
+      "title": "Another failed attempt to get the icon for the icon for the .. parent folder",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-20T15:00:00.000Z",
+      "summary_en": "This post discusses a technical challenge regarding the retrieval of folder icons in Windows. It specifically highlights the difficulties and failures encountered when attempting to resolve icons for parent directory references.",
+      "summary_zh": "這篇文章探討了 Windows 中獲取資料夾圖示的技術挑戰。內容重點在於說明嘗試為父目錄參考路徑獲取圖示時所遇到的困難與失敗案例。",
+      "keywords": [
+        "Windows",
+        "icons",
+        "programming",
+        "file system",
+        "The Old New Thing"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article describes a specific programming attempt and the procedural failure encountered when interacting with file system paths.",
+      "pacer_reason_zh": "本文描述了一個具體的程式設計嘗試，以及在處理檔案系統路徑時所遇到的程序性失敗。"
+    },
+    {
+      "id": "a9837b863cd45bb3",
+      "title": "Why do I get inconsistent results when I ask for the icon for the .. parent folder?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-19T15:00:00.000Z",
+      "summary_en": "This post explains that the inconsistent behavior when retrieving the icon for a parent folder (..) depends on the specific context and properties of the parent folder itself. It highlights that the system's response is contingent on the directory's configuration.",
+      "summary_zh": "本文解釋了為何在查詢父目錄 (..) 的圖示時會出現不一致的結果，這取決於該父目錄本身的屬性與上下文。結果會根據系統對該目錄的設定而有所不同。",
+      "keywords": [
+        "Windows",
+        "Shell",
+        "Icon",
+        "Parent Directory",
+        "Programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation for the behavior of a specific system function.",
+      "pacer_reason_zh": "該文章針對特定系統功能的運作行為提供了概念性的解釋。"
+    },
+    {
+      "id": "6300ad7d7bdc91ad",
+      "title": "Connect a USB Zigbee Device to HAOS",
+      "url": "https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-20T12:34:19.000Z",
+      "summary_en": "This guide provides a step-by-step walkthrough for connecting a USB Zigbee dongle to a HomeAssistant OS (HAOS) environment. It covers the necessary command-line identification steps and configuration file adjustments to ensure the device is recognized by the system.",
+      "summary_zh": "本指南提供了將 USB Zigbee 傳輸器連接至 HomeAssistant OS (HAOS) 環境的操作步驟。內容涵蓋了如何透過命令列識別設備 ID，以及調整設定檔以確保系統能正確辨識並運作該設備。",
+      "keywords": [
+        "HomeAssistant",
+        "Zigbee",
+        "HAOS",
+        "USB",
+        "Tutorial"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article is a step-by-step instructional guide on how to perform a specific technical task.",
+      "pacer_reason_zh": "本文是關於如何執行特定技術任務的逐步教學指南。"
+    },
+    {
+      "id": "3cf9352d464bd28d",
+      "title": "Pluralistic: Lisa Hanawalt's \"I Can't Stop Thinking About Horses and Sex\" (20 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-20T10:44:20.000Z",
+      "summary_en": "This post spotlights Lisa Hanawalt's graphic memoir, 'I Can't Stop Thinking About Horses and Sex,' exploring the animator's personal journey through heartbreak, identity, and her lifelong obsession with horses. Cory Doctorow praises the work for its frank and humorous portrayal of human relationships and the eccentric culture of equestrian centers.",
+      "summary_zh": "本文介紹了動畫師麗莎·漢納沃特的圖像回憶錄《我無法停止思考馬與性》，探討她如何透過愛馬與幽默視角來面對心碎、個人認同與生活挑戰。作者柯利·多克托羅讚賞該作品以坦率且風趣的方式，刻劃了人際關係與馬術中心的獨特文化氛圍。",
+      "keywords": [
+        "Lisa Hanawalt",
+        "graphic memoir",
+        "Bojack Horseman",
+        "equestrianism",
+        "book review"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a reference or link-based digest pointing readers to specific media, books, and biographical information.",
+      "pacer_reason_zh": "本文內容作為資源連結摘要，引導讀者獲取特定媒體、書籍資訊及相關背景資料。"
+    },
+    {
+      "id": "5896797fd3159e6e",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "source_url": "https://krebsonsecurity.com/",
+      "published": "2026-11-21T00:36:39.000Z",
+      "summary_en": "The CTO of the data recovery firm 'RansomwareHelp' has been indicted for wire fraud following an FBI investigation. The firm falsely claimed to use proprietary cryptographic tools, when they were actually paying hackers for decryption keys and charging victims inflated fees.",
+      "summary_zh": "資料救援公司 'RansomwareHelp' 的技術長因涉嫌電匯詐欺遭到起訴。聯邦調查局調查發現，該公司謊稱使用獨家加密技術解鎖勒索軟體，實際上只是向駭客購買解密金鑰並轉手向受害者收取高額費用。",
+      "keywords": [
+        "Ransomware",
+        "Wire Fraud",
+        "Cybercrime",
+        "FBI",
+        "Encryption"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study/news report documenting a specific incident of criminal activity.",
+      "pacer_reason_zh": "該文章記錄了具體的犯罪事件，屬於案例分析與新聞報導性質。"
+    },
+    {
+      "id": "cf3b0c6c1cbc2369",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-20T19:21:49.000Z",
+      "summary_en": "Simon Willison highlights a report from mathematician Ravi Vakil regarding a promising new proof for the Generalized Riemann Hypothesis. The proof is entirely human-authored and is currently undergoing a transparent review process after receiving extensive feedback from experts.",
+      "summary_zh": "Simon Willison 轉述數學家 Ravi Vakil 的消息，指出 Alessandro Masullo 針對「廣義黎曼猜想」提出了備受矚目的證明。該證明完全由人類完成，目前正處於公開審查階段，並已根據專家回饋進行修訂。",
+      "keywords": [
+        "Generalized Riemann Hypothesis",
+        "Mathematics",
+        "Alessandro Masullo",
+        "Ravi Vakil",
+        "Academic Proof"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a current event and conceptual development in mathematics, specifically regarding the status of a major hypothesis proof.",
+      "pacer_reason_zh": "內容說明了數學領域的當前事件與概念發展，特別是關於一項重大假設證明進度的說明。"
+    },
+    {
+      "id": "f27b1f34ce20932c",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-20T16:30:48.000Z",
+      "summary_en": "This post shares a quote from mathematician Levent Alpöge regarding his collaboration with the AI model Claude to potentially prove the Riemann Hypothesis. Alpöge describes the AI's performance as exceptionally advanced, suggesting it played a critical role in formalizing mathematical arguments.",
+      "summary_zh": "本文引用數學家 Levent Alpöge 的觀點，分享了他與 AI 模型 Claude 合作並可能證明黎曼假設的經歷。Alpöge 形容 AI 的表現極為出色，並指出其在形式化數學論證方面發揮了關鍵作用。",
+      "keywords": [
+        "Riemann Hypothesis",
+        "Claude",
+        "AI",
+        "Mathematics",
+        "Levent Alpöge"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a testimonial and anecdotal case study of AI's capability in advanced mathematical research.",
+      "pacer_reason_zh": "本文內容作為見證與個案研究，展示了 AI 在高等數學研究中的實際能力。"
+    },
+    {
+      "id": "478ea25aeed3c997",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-20T02:49:57.000Z",
+      "summary_en": "Claire Vo, creator of ChatPRD, reports a significant surge in token fraud where malicious actors exploit free trials to resell AI access or run commercial operations. The abuse is so severe that the platform is discontinuing free trials to protect against systematic resource theft.",
+      "summary_zh": "ChatPRD 創辦人 Claire Vo 指出，平台正遭遇大規模的 Token 詐欺，有心人士濫用免費試用額度來轉售 AI 使用權或進行商業運作。為了遏止這類系統性的資源濫用，該平台已決定全面取消免費試用服務。",
+      "keywords": [
+        "AI",
+        "Token fraud",
+        "ChatPRD",
+        "LLMs",
+        "generative-ai"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article presents a case study of AI platform abuse and the empirical consequences of token fraud.",
+      "pacer_reason_zh": "本文以 ChatPRD 遭受濫用的案例作為實證研究，探討 AI 平台面臨的資源詐欺問題與後果。"
+    },
+    {
+      "id": "f5a9d9b71a4242b2",
+      "title": "Why output caching doesn't work",
+      "url": "https://seangoedecke.com/why-output-caching-doesnt-work/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-21T00:00:00.000Z",
+      "summary_en": "This article explores the technical limitations and common pitfalls of implementing output caching in web applications. It explains why simple caching strategies often fail to account for dynamic content requirements and user-specific states.",
+      "summary_zh": "這篇文章探討了在網頁應用程式中實作輸出快取（Output Caching）的技術限制與常見陷阱。內容解釋了為何簡單的快取策略往往無法滿足動態內容需求與使用者特定狀態的複雜性。",
+      "keywords": [
+        "caching",
+        "web development",
+        "performance",
+        "system architecture",
+        "latency"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the underlying concepts and theoretical reasons why a specific technical strategy is ineffective.",
+      "pacer_reason_zh": "本文側重於解釋基礎概念，並探討特定技術策略為何無效的理論原因。"
+    },
     {
       "id": "f3b6a5ce82542050",
       "title": "Inside PyPy: first contact with RPython",
