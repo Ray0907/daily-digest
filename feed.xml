@@ -4,8 +4,107 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sat, 21 Nov 2026 02:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:43:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Linear scan register allocation in Datalog</title>
+      <link>https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss</link>
+      <guid>https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
+      <description>This article explores the implementation of a linear scan register allocator using Datalog. It highlights how Datalog excels at declarative tasks like liveness analysis while requiring creative, non-sequential patterns to handle the imperative nature of linear scan algorithms.</description>
+    </item>
+
+    <item>
+      <title>Notes on the discrete Fourier transform (DFT)</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</link>
+      <guid>https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</guid>
+      <pubDate>Sat, 21 Nov 2026 22:26:00 GMT</pubDate>
+      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
+      <description>This article explores the transition from discrete-time signals to finite-duration digital signal processing. It provides theoretical foundations for applying the Discrete Fourier Transform (DFT) to practical, realistic datasets.</description>
+    </item>
+
+    <item>
+      <title>Reading List 11/21/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-11212026</link>
+      <guid>https://www.construction-physics.com/p/reading-list-11212026</guid>
+      <pubDate>Sat, 21 Nov 2026 13:04:03 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>This post is a curated digest covering diverse technical and historical topics, including material science applications, energy consumption trends, and cybersecurity threats. It serves as a reference point for ongoing discussions within the Construction Physics newsletter.</description>
+    </item>
+
+    <item>
+      <title>This Week in Package Management: 21 November 2026</title>
+      <link>https://nesbitt.io/2026/11/21/this-week-in-package-management.html</link>
+      <guid>https://nesbitt.io/2026/11/21/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This update covers critical security patches for RubyGems, Gemstash, and OpenJDK, alongside release highlights for pnpm, Bun, and Bundler. It emphasizes urgent vulnerabilities including remote code execution risks and provides necessary configuration workarounds for affected systems.</description>
+    </item>
+
+    <item>
+      <title>What is the Generalized Riemann Hypothesis?</title>
+      <link>https://www.johndcook.com/blog/2026/11/20/grh/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/20/grh/</guid>
+      <pubDate>Sat, 21 Nov 2026 03:35:05 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post discusses recent claims regarding proofs for the Generalized Riemann Hypothesis (GRH), which extends the classic Riemann Hypothesis. It briefly explains the mathematical significance of the Riemann zeta function and its zeros within the critical strip.</description>
+    </item>
+
+    <item>
+      <title>Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.</title>
+      <link>https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</link>
+      <guid>https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</guid>
+      <pubDate>Fri, 20 Nov 2026 14:20:06 GMT</pubDate>
+      <source url="https://garymarcus.substack.com/">Marcus on AI</source>
+      <description>Anthropic's stock is experiencing a significant decline, facing further losses at the opening bell. This trend is part of a broader downturn in the AI sector, which has seen values drop by over 50% in the last five months.</description>
+    </item>
+
+    <item>
+      <title>Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry</title>
+      <link>https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</link>
+      <guid>https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</guid>
+      <pubDate>Thu, 19 Nov 2026 20:36:26 GMT</pubDate>
+      <source url="https://garymarcus.substack.com/">Marcus on AI</source>
+      <description>The article discusses the recent stock market volatility and skepticism regarding whether a potential IPO from Anthropic can act as a catalyst for the broader tech industry. It suggests that macroeconomic pressures may outweigh the impact of individual company market debuts.</description>
+    </item>
+
+    <item>
+      <title>Relicensing to CC BY-SA and making it visible in Schema metadata</title>
+      <link>https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:34:40 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post explains how to explicitly declare a blog post's copyright license for both human readers and machines. It focuses on using HTML metadata, specifically the 'rel' attribute and Schema markup, to ensure machine-readability of CC BY-SA licenses.</description>
+    </item>
+
+    <item>
+      <title>Muru</title>
+      <link>https://simonwillison.net/2026/Nov/21/muru/</link>
+      <guid>https://simonwillison.net/2026/Nov/21/muru/</guid>
+      <pubDate>Sat, 21 Nov 2026 23:56:28 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Muru is a new AI-assisted Rust server designed by Graham Dumpleton to optimize the deployment of ASGI and WSGI Python applications. This blog post compiles a detailed series of articles documenting the project's development process and architectural design choices.</description>
+    </item>
+
+    <item>
+      <title>llm-gemini 0.38.1</title>
+      <link>https://simonwillison.net/2026/Nov/20/llm-gemini/</link>
+      <guid>https://simonwillison.net/2026/Nov/20/llm-gemini/</guid>
+      <pubDate>Fri, 20 Nov 2026 03:01:57 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison released version 0.38.1 of the llm-gemini plugin, adding support for the 'xhigh' reasoning level for Gemini 4 Hydrogen and Neon models. The update highlights how the new setting significantly increases token usage and output quality, as demonstrated in an updated model comparison grid.</description>
+    </item>
+
+    <item>
+      <title>To code well, avoid blunders</title>
+      <link>https://seangoedecke.com/to-code-well-avoid-blunders/</link>
+      <guid>https://seangoedecke.com/to-code-well-avoid-blunders/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores best practices for software development, focusing on identifying and avoiding common technical pitfalls. It provides actionable advice to improve code quality and long-term maintainability.</description>
+    </item>
+
     <item>
       <title>Diablo II</title>
       <link>https://www.filfre.net/2026/11/diablo-ii/</link>
@@ -805,105 +904,6 @@
       <pubDate>Thu, 12 Nov 2026 12:34:10 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>This blog post offers a lukewarm review of 'This Is for Everyone,' a biography about Tim Berners-Lee. The reviewer finds the book lacking in substance, describing it as an unsatisfying mix of family anecdotes that fails to provide significant insight into the web's creator or history.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Uber's labor crash (12 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/12/starvation-wages/</link>
-      <guid>https://pluralistic.net/2026/11/12/starvation-wages/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:50:53 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This article examines the pattern of 'premature truths' told by tech leaders like Elon Musk and Uber, arguing that promises of futuristic transportation are often calculated lies. It highlights how these companies manipulate public perception regarding labor practices and autonomous technology to maintain corporate dominance.</description>
-    </item>
-
-    <item>
-      <title>So you want to buy AI for your company </title>
-      <link>https://idiallo.com/byte-size/buying-ai-for-your-company</link>
-      <guid>https://idiallo.com/byte-size/buying-ai-for-your-company</guid>
-      <pubDate>Fri, 13 Nov 2026 00:34:41 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>This article provides a satirical overview of the overwhelming landscape of AI models, detailing various benchmarks and subjective recommendations for enterprise and developer use. It highlights the confusing variety of model versions while advising on specific tools and workflows for programmers.</description>
-    </item>
-
-    <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <guid>https://simonwillison.net/2026/Nov/12/llm-gemini/</guid>
-      <pubDate>Thu, 12 Nov 2026 22:55:19 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison updates the llm-gemini tool to version 0.37 following the launch of Google's Gemini 4 Hydrogen model. The post analyzes the confusing pricing structure of the new Gemini 4 series, noting the lack of significant cost differentiation between the models.</description>
-    </item>
-
-    <item>
-      <title>Monads in Lean</title>
-      <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
-      <guid>https://eli.thegreenplace.net/2026/monads-in-lean/</guid>
-      <pubDate>Wed, 11 Nov 2026 03:25:00 GMT</pubDate>
-      <source url="https://eli.thegreenplace.net/">Eli Bendersky's website</source>
-      <description>This post explains how to implement monads in Lean 4 to handle computations that may fail, such as division by zero. It demonstrates how to replace tedious manual error checking with a cleaner abstraction for propagating Option values.</description>
-    </item>
-
-    <item>
-      <title>Ms. Bashkansky, Please Do Not Build The Torment Nexus</title>
-      <link>https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</link>
-      <guid>https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://jyn.dev/">the website of jyn</source>
-      <description>This post serves as a critical response to the rise of brain-computer interface technology, specifically targeting the push for AI-integrated telepathy. Through a fictionalized scenario of a user experiencing mental distress from a neural interface, the author argues against the development of technologies that prioritize technical capability over ethical and human safety.</description>
-    </item>
-
-    <item>
-      <title>Making a Website in 2026</title>
-      <link>https://blog.jim-nielsen.com/2026/making-websites-in-2026/</link>
-      <guid>https://blog.jim-nielsen.com/2026/making-websites-in-2026/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
-      <description>The author reflects on Pete Millspaugh's experiment with AI-generated websites, highlighting the hidden complexity of AI-selected tech stacks. The piece questions whether AI tools prioritize unnecessary overhead and how non-technical users should navigate the trade-offs of these automated architectural decisions.</description>
-    </item>
-
-    <item>
-      <title>Possible Futures</title>
-      <link>https://borretti.me/article/possible-futures</link>
-      <guid>https://borretti.me/article/possible-futures</guid>
-      <pubDate>Wed, 11 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This piece explores potential future scenarios and trajectories. It serves as a high-level conceptual framework for considering how different paths might unfold.</description>
-    </item>
-
-    <item>
-      <title>This Week in Source Control: 11 November 2026</title>
-      <link>https://nesbitt.io/2026/11/11/this-week-in-source-control.html</link>
-      <guid>https://nesbitt.io/2026/11/11/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 11 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This article highlights the latest developments in version control, specifically focusing on GitHub's new 'Rubicon' storage architecture. It details how GitHub uses Azure Blob Storage and the Ref-CAS service to scale repository performance, allowing for thousands of concurrent pushes per second.</description>
-    </item>
-
-    <item>
-      <title>Why Am I So Tired If AI Is Doing All the Work?</title>
-      <link>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</link>
-      <guid>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:23:50 GMT</pubDate>
-      <source url="https://terriblesoftware.org/">Terrible Software</source>
-      <description>The article explores why AI-assisted work leads to fatigue rather than time savings. It argues that while AI makes initiating tasks easier, the burden of reviewing and verifying AI-generated output continues to consume significant human cognitive effort.</description>
-    </item>
-
-    <item>
-      <title>HowTo: Fix Eufy HomeBase 2 Storage Full Issues</title>
-      <link>https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:34:05 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This post provides a technical workaround for Eufy HomeBase 2 users experiencing storage capacity issues. It outlines a step-by-step process involving the use of an external USB memory stick and specific reformatting sequences to clear internal memory.</description>
-    </item>
-
-    <item>
-      <title>Who Runs the Ransomware Group Qilin?</title>
-      <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
-      <guid>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:06:01 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>This article investigates the identity of the administrator behind the prominent ransomware group Qilin. By analyzing operational security mistakes made over the last decade, the author connects the group's activity to a 36-year-old individual residing in St. Petersburg, Russia.</description>
     </item>
   </channel>
 </rss>

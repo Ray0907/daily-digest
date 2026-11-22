@@ -1,6 +1,226 @@
 {
-  "last_updated": "2026-11-21T02:54:09.570Z",
+  "last_updated": "2026-11-22T01:43:57.509Z",
   "articles": [
+    {
+      "id": "90c8f6213b37da0b",
+      "title": "Linear scan register allocation in Datalog",
+      "url": "https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss",
+      "source": "Max Bernstein's Blog",
+      "source_url": "https://bernsteinbear.com/",
+      "published": "2026-11-21T00:00:00.000Z",
+      "summary_en": "This article explores the implementation of a linear scan register allocator using Datalog. It highlights how Datalog excels at declarative tasks like liveness analysis while requiring creative, non-sequential patterns to handle the imperative nature of linear scan algorithms.",
+      "summary_zh": "本文探討了如何使用 Datalog 實現線性掃描暫存器配置。文章指出，雖然 Datalog 在處理活躍度分析等宣告式任務上表現優異，但面對線性掃描演算法這種指令式邏輯時，仍需運用特殊的程式設計模式來達成。",
+      "keywords": [
+        "Datalog",
+        "register allocation",
+        "linear scan",
+        "compiler",
+        "programming"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article functions as a case study and experiment, demonstrating the practical application of implementing a specific compiler algorithm in a Datalog environment.",
+      "pacer_reason_zh": "本文作為一個案例研究與實作經驗分享，展示了在 Datalog 環境中實現特定編譯器演算法的應用過程。"
+    },
+    {
+      "id": "e0e6f4639044a70b",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "source": "Eli Bendersky's website",
+      "source_url": "https://eli.thegreenplace.net/",
+      "published": "2026-11-21T22:26:00.000Z",
+      "summary_en": "This article explores the transition from discrete-time signals to finite-duration digital signal processing. It provides theoretical foundations for applying the Discrete Fourier Transform (DFT) to practical, realistic datasets.",
+      "summary_zh": "本文探討了從離散時間訊號轉換到有限長度數位訊號處理的過程。文章提供了將離散傅立葉轉換（DFT）應用於實際資料集的理論基礎。",
+      "keywords": [
+        "DFT",
+        "Digital Signal Processing",
+        "Fourier Transform",
+        "Mathematics",
+        "Signal Analysis"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the theoretical concepts and mathematical foundations behind the Discrete Fourier Transform.",
+      "pacer_reason_zh": "本文側重於解釋離散傅立葉轉換背後的理論概念與數學基礎。"
+    },
+    {
+      "id": "9adb1d81ba3f6682",
+      "title": "Reading List 11/21/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11212026",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-21T13:04:03.000Z",
+      "summary_en": "This post is a curated digest covering diverse technical and historical topics, including material science applications, energy consumption trends, and cybersecurity threats. It serves as a reference point for ongoing discussions within the Construction Physics newsletter.",
+      "summary_zh": "本文是一份精選摘要，涵蓋材料科學、能源消耗趨勢及網路安全威脅等多項技術與歷史主題。該內容作為《Construction Physics》通訊中持續討論話題的參考資料。",
+      "keywords": [
+        "Construction Physics",
+        "reading list",
+        "materials science",
+        "energy consumption",
+        "cybersecurity"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of links and topics for further reading, fitting the Reference category.",
+      "pacer_reason_zh": "該文章作為精選連結與閱讀主題的清單，屬於參考資料類別。"
+    },
+    {
+      "id": "3fe88e3f73d8744a",
+      "title": "This Week in Package Management: 21 November 2026",
+      "url": "https://nesbitt.io/2026/11/21/this-week-in-package-management.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-21T10:00:00.000Z",
+      "summary_en": "This update covers critical security patches for RubyGems, Gemstash, and OpenJDK, alongside release highlights for pnpm, Bun, and Bundler. It emphasizes urgent vulnerabilities including remote code execution risks and provides necessary configuration workarounds for affected systems.",
+      "summary_zh": "本期摘要涵蓋了 RubyGems、Gemstash 和 OpenJDK 的關鍵安全修復，以及 pnpm、Bun 和 Bundler 的版本更新亮點。內容強調了遠端程式碼執行等嚴重漏洞，並針對受影響系統提供了必要的配置建議與修復方案。",
+      "keywords": [
+        "package management",
+        "security vulnerability",
+        "CVE",
+        "software updates",
+        "RubyGems"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a weekly reference log, aggregating news, security advisories, and software release notes.",
+      "pacer_reason_zh": "本文作為每週參考日誌，彙整了新聞動態、安全公告與軟體發布說明。"
+    },
+    {
+      "id": "705d07544fd3cc56",
+      "title": "What is the Generalized Riemann Hypothesis?",
+      "url": "https://www.johndcook.com/blog/2026/11/20/grh/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-21T03:35:05.000Z",
+      "summary_en": "This post discusses recent claims regarding proofs for the Generalized Riemann Hypothesis (GRH), which extends the classic Riemann Hypothesis. It briefly explains the mathematical significance of the Riemann zeta function and its zeros within the critical strip.",
+      "summary_zh": "這篇文章探討了近期關於廣義黎曼猜想（GRH）的證明主張，該猜想是經典黎曼猜想的推廣。文中簡要說明了黎曼ζ函數及其在臨界帶中零點的數學意義。",
+      "keywords": [
+        "Riemann Hypothesis",
+        "GRH",
+        "Mathematics",
+        "Zeta function",
+        "Number theory"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article is conceptual, focusing on explaining the definition and theoretical scope of a mathematical hypothesis.",
+      "pacer_reason_zh": "本文屬於概念性內容，旨在解釋數學猜想的定義及其理論範疇。"
+    },
+    {
+      "id": "1f95830c49e94a6d",
+      "title": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
+      "url": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing",
+      "source": "Marcus on AI",
+      "source_url": "https://garymarcus.substack.com/",
+      "published": "2026-11-20T14:20:06.000Z",
+      "summary_en": "Anthropic's stock is experiencing a significant decline, facing further losses at the opening bell. This trend is part of a broader downturn in the AI sector, which has seen values drop by over 50% in the last five months.",
+      "summary_zh": "Anthropic 的股價持續下跌，預計在開盤時將進一步走低。這一現象反映了人工智慧板塊的整體疲軟，該領域的股票在過去五個月內已累積下跌超過 50%。",
+      "keywords": [
+        "Anthropic",
+        "AI stocks",
+        "market crash",
+        "stock market",
+        "tech trends"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content reports on current financial data and market performance trends regarding AI stocks.",
+      "pacer_reason_zh": "內容報導了當前關於 AI 股票的財務數據與市場表現趨勢。"
+    },
+    {
+      "id": "36c605effc24bae5",
+      "title": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
+      "url": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics",
+      "source": "Marcus on AI",
+      "source_url": "https://garymarcus.substack.com/",
+      "published": "2026-11-19T20:36:26.000Z",
+      "summary_en": "The article discusses the recent stock market volatility and skepticism regarding whether a potential IPO from Anthropic can act as a catalyst for the broader tech industry. It suggests that macroeconomic pressures may outweigh the impact of individual company market debuts.",
+      "summary_zh": "本文探討了華爾街近期的市場波動，並對 Anthropic 若進行首次公開募股 (IPO) 能否拯救科技產業持懷疑態度。作者認為，宏觀經濟壓力對市場的影響可能遠大於單一科技公司的上市表現。",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "Wall Street",
+        "Tech Industry",
+        "Market Trends"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides an analysis and critical perspective on the conceptual relationship between a single company's market entry and broader industry performance.",
+      "pacer_reason_zh": "本文對單一企業上市與整體產業表現之間的關聯進行了分析與評論，屬於概念性探討。"
+    },
+    {
+      "id": "9f4dea6e0bd9e0eb",
+      "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
+      "url": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-21T12:34:40.000Z",
+      "summary_en": "This post explains how to explicitly declare a blog post's copyright license for both human readers and machines. It focuses on using HTML metadata, specifically the 'rel' attribute and Schema markup, to ensure machine-readability of CC BY-SA licenses.",
+      "summary_zh": "本文介紹了如何為部落格文章明確標示版權許可，以便人類讀者與機器都能輕鬆識別。重點在於使用 HTML 的 rel 屬性與 Schema 標記，確保 CC BY-SA 授權條款能被機器正確讀取。",
+      "keywords": [
+        "copyright",
+        "metadata",
+        "Schema",
+        "CC BY-SA",
+        "web-standards"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, technical guide on how to implement specific HTML and Schema metadata for license attribution.",
+      "pacer_reason_zh": "本文提供了一份實用的技術指南，說明如何實作特定的 HTML 與 Schema 元數據來標示授權資訊。"
+    },
+    {
+      "id": "dc9b4a0c426ddc42",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-21T23:56:28.000Z",
+      "summary_en": "Muru is a new AI-assisted Rust server designed by Graham Dumpleton to optimize the deployment of ASGI and WSGI Python applications. This blog post compiles a detailed series of articles documenting the project's development process and architectural design choices.",
+      "summary_zh": "Muru 是由 Graham Dumpleton 開發的一款新型 AI 輔助 Rust 伺服器，旨在優化 ASGI 和 WSGI Python 應用程式的部署。本篇文章彙整了一系列詳細記錄該專案開發歷程與架構設計的文章。",
+      "keywords": [
+        "Muru",
+        "Python",
+        "Rust",
+        "ASGI",
+        "WSGI"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves primarily as a curated list of reference materials and chronological documentation for a software project.",
+      "pacer_reason_zh": "本文主要作為軟體專案的參考資料清單與時間軸記錄。"
+    },
+    {
+      "id": "8b57b72566ad3c58",
+      "title": "llm-gemini 0.38.1",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-20T03:01:57.000Z",
+      "summary_en": "Simon Willison released version 0.38.1 of the llm-gemini plugin, adding support for the 'xhigh' reasoning level for Gemini 4 Hydrogen and Neon models. The update highlights how the new setting significantly increases token usage and output quality, as demonstrated in an updated model comparison grid.",
+      "summary_zh": "Simon Willison 發布了 llm-gemini 外掛程式的 0.38.1 版本，新增了對 Gemini 4 Hydrogen 和 Neon 模型「xhigh」推理級別的支援。此次更新展示了該設置如何顯著增加 token 使用量並提升輸出品質，並附上了更新後的模型比較表作為參考。",
+      "keywords": [
+        "llm-gemini",
+        "Gemini 4",
+        "plugin",
+        "xhigh",
+        "AI"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article provides empirical data and a visual comparison grid to demonstrate the performance and cost differences of new model settings.",
+      "pacer_reason_zh": "本文提供了實證數據與視覺化比較表，用以說明新模型設置在效能與成本上的差異。"
+    },
+    {
+      "id": "6004e4b94fe76cd9",
+      "title": "To code well, avoid blunders",
+      "url": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-22T00:00:00.000Z",
+      "summary_en": "This article explores best practices for software development, focusing on identifying and avoiding common technical pitfalls. It provides actionable advice to improve code quality and long-term maintainability.",
+      "summary_zh": "本文探討了軟體開發的最佳實踐，重點在於識別並避免常見的技術錯誤。文中提供了實用的建議，旨在提升程式碼品質與長期維護性。",
+      "keywords": [
+        "software development",
+        "best practices",
+        "coding",
+        "debugging",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on conceptual advice and principles for writing better code.",
+      "pacer_reason_zh": "本文側重於編寫優質程式碼的概念性建議與原則。"
+    },
     {
       "id": "0b70a01ea1ae8156",
       "title": "Diablo II",
