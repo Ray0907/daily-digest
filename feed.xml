@@ -4,8 +4,53 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Sun, 22 Nov 2026 01:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:01:44 GMT</lastBuildDate>
     
+    <item>
+      <title>Weekly Update 531: Optimizely. Script Dependencies &amp; Third Parties</title>
+      <link>https://www.troyhunt.com/weekly-update-531/</link>
+      <guid>https://www.troyhunt.com/weekly-update-531/</guid>
+      <pubDate>Sun, 22 Nov 2026 05:24:12 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Troy Hunt discusses the tendency of organizations to deflect accountability by blaming third-party vendors during security incidents. He argues that outsourcing service does not absolve a company of its fundamental responsibility for user data.</description>
+    </item>
+
+    <item>
+      <title>unpublished blog posts</title>
+      <link>https://jyn.dev/unpublished-blog-posts/</link>
+      <guid>https://jyn.dev/unpublished-blog-posts/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://jyn.dev/">the website of jyn</source>
+      <description>The author clears their backlog of unpublished blog post ideas by providing brief, unrefined summaries of various technical topics. The content touches on Rust compiler design, Clojure's potential as a configuration language, and personal thoughts on build systems.</description>
+    </item>
+
+    <item>
+      <title>I don't enjoy being pampered</title>
+      <link>https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:34:51 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author recounts an unexpected experience at a barber shop in Vilnius where he sought a simple beard trim. Instead, he received an elaborate, pampering service involving steaming and massage that left him feeling uncomfortable with the excessive attention.</description>
+    </item>
+
+    <item>
+      <title>Select Styling Specimens</title>
+      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
+      <guid>https://simonwillison.net/2026/Nov/22/select-styling/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:06 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison introduces a tool that displays various CSS styling options for HTML &lt;select&gt; elements to address inconsistent browser defaults. The post includes a practical CSS recommendation to standardize the appearance of select boxes across different platforms.</description>
+    </item>
+
+    <item>
+      <title>When in doubt, flail about</title>
+      <link>https://seangoedecke.com/when-in-doubt-flail-about/</link>
+      <guid>https://seangoedecke.com/when-in-doubt-flail-about/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the concept of 'flailing about' as a strategy for overcoming uncertainty or paralysis when facing complex problems. It suggests that taking imperfect, exploratory action can be more effective than waiting for the perfect plan.</description>
+    </item>
+
     <item>
       <title>Linear scan register allocation in Datalog</title>
       <link>https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss</link>
@@ -859,51 +904,6 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://bernsteinbear.com/">Max Bernstein's Blog</source>
       <description>The article explains the process of converting stack-based bytecode from the CRuby YARV virtual machine into a high-level Static Single Assignment (SSA) intermediate representation. It details how the author simplifies this complex transformation by statically tracking stack inputs and outputs to map bytecode instructions to SSA values.</description>
-    </item>
-
-    <item>
-      <title>First Strike</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</guid>
-      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The article discusses the geopolitical dangers of the US-China AI race, arguing that zero-sum competition may lead to catastrophic outcomes like a preemptive ASI first strike. The author proposes a more cooperative economic strategy focused on energy and compute, while expressing concern over rising tensions.</description>
-    </item>
-
-    <item>
-      <title>Technology as a Search Problem</title>
-      <link>https://www.construction-physics.com/p/technology-as-a-search-problem</link>
-      <guid>https://www.construction-physics.com/p/technology-as-a-search-problem</guid>
-      <pubDate>Thu, 12 Nov 2026 13:01:45 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This article explores the fundamental mechanisms behind technological progress and how new innovations emerge and evolve over time. It frames the development of technology as a complex search problem, seeking to understand the underlying patterns of discovery.</description>
-    </item>
-
-    <item>
-      <title>How can I pass more than one parameter to co_await?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>The author explains that the co_await operator technically accepts only a single parameter. However, this parameter can be a complex object, allowing developers to effectively pass multiple values.</description>
-    </item>
-
-    <item>
-      <title>I didn’t write a program with emoji, but I did use a control character</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>The author shares a brief anecdote about utilizing a control character in a program rather than using emojis. This post is a short reflection on technical implementation details typical of the blog's content.</description>
-    </item>
-
-    <item>
-      <title>Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</guid>
-      <pubDate>Thu, 12 Nov 2026 12:34:10 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This blog post offers a lukewarm review of 'This Is for Everyone,' a biography about Tim Berners-Lee. The reviewer finds the book lacking in substance, describing it as an unsatisfying mix of family anecdotes that fails to provide significant insight into the web's creator or history.</description>
     </item>
   </channel>
 </rss>

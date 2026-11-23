@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-11-22T01:43:57.509Z",
+  "last_updated": "2026-11-23T02:01:44.549Z",
   "articles": [
+    {
+      "id": "641c843ae8e473b7",
+      "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+      "url": "https://www.troyhunt.com/weekly-update-531/",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "published": "2026-11-22T05:24:12.000Z",
+      "summary_en": "Troy Hunt discusses the tendency of organizations to deflect accountability by blaming third-party vendors during security incidents. He argues that outsourcing service does not absolve a company of its fundamental responsibility for user data.",
+      "summary_zh": "Troy Hunt 探討了企業在發生安全事件時，傾向於將責任推卸給第三方供應商的現象。他強調，委外服務並不代表企業可以免除對用戶數據應負的核心責任。",
+      "keywords": [
+        "security",
+        "accountability",
+        "third-party",
+        "data privacy",
+        "incident response"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content provides a conceptual analysis and critique of corporate responsibility during security incidents.",
+      "pacer_reason_zh": "該內容針對安全事件中企業責任的問題提供了概念性的分析與批判。"
+    },
+    {
+      "id": "5e8344897b47ee22",
+      "title": "unpublished blog posts",
+      "url": "https://jyn.dev/unpublished-blog-posts/",
+      "source": "the website of jyn",
+      "source_url": "https://jyn.dev/",
+      "published": "2026-11-21T00:00:00.000Z",
+      "summary_en": "The author clears their backlog of unpublished blog post ideas by providing brief, unrefined summaries of various technical topics. The content touches on Rust compiler design, Clojure's potential as a configuration language, and personal thoughts on build systems.",
+      "summary_zh": "作者透過整理並簡述一系列未發表的部落格草稿，清理了自己的創作待辦事項。內容涵蓋了 Rust 編譯器設計、將 Clojure 作為配置語言的構想，以及對構建系統的個人見解。",
+      "keywords": [
+        "Rust",
+        "Clojure",
+        "blogging",
+        "build systems",
+        "software engineering"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The post functions as a list of reference material and rough notes rather than a formal argument or guide.",
+      "pacer_reason_zh": "這篇文章主要作為參考資料與粗略筆記的清單，而非正式的論述或指南。"
+    },
+    {
+      "id": "3aed7d29f0957ba3",
+      "title": "I don't enjoy being pampered",
+      "url": "https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-22T12:34:51.000Z",
+      "summary_en": "The author recounts an unexpected experience at a barber shop in Vilnius where he sought a simple beard trim. Instead, he received an elaborate, pampering service involving steaming and massage that left him feeling uncomfortable with the excessive attention.",
+      "summary_zh": "作者分享了在維爾紐斯理髮時的意外經歷，他原本只是想修剪過長的鬍鬚。沒想到理髮師進行了一系列過度細緻的蒸氣與按摩服務，這讓他對這種被「寵溺」的過程感到不適。",
+      "keywords": [
+        "barber",
+        "Vilnius",
+        "travel",
+        "grooming",
+        "experience"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses the personal experience of being pampered as an analogy or reflection on different cultural expectations of service.",
+      "pacer_reason_zh": "本文透過被理髮師過度服務的個人經歷，反思了不同文化中對於服務期待的差異。"
+    },
+    {
+      "id": "b0c1b6250591975f",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-22T19:45:06.000Z",
+      "summary_en": "Simon Willison introduces a tool that displays various CSS styling options for HTML <select> elements to address inconsistent browser defaults. The post includes a practical CSS recommendation to standardize the appearance of select boxes across different platforms.",
+      "summary_zh": "Simon Willison 介紹了一個展示 HTML <select> 元素各種 CSS 樣式選項的工具，旨在解決跨瀏覽器預設樣式不一致的問題。文中並分享了一段實用的 CSS 建議，用於統一選單在不同平台上的外觀。",
+      "keywords": [
+        "CSS",
+        "HTML",
+        "Select",
+        "Web Development",
+        "UI"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical tool and specific CSS code snippets for developers to solve styling inconsistencies.",
+      "pacer_reason_zh": "本文提供了實用的工具以及具體的 CSS 程式碼片段，協助開發者解決樣式不一致的問題。"
+    },
+    {
+      "id": "e2fdc00fb2f11d49",
+      "title": "When in doubt, flail about",
+      "url": "https://seangoedecke.com/when-in-doubt-flail-about/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-23T00:00:00.000Z",
+      "summary_en": "This article explores the concept of 'flailing about' as a strategy for overcoming uncertainty or paralysis when facing complex problems. It suggests that taking imperfect, exploratory action can be more effective than waiting for the perfect plan.",
+      "summary_zh": "這篇文章探討了在面對不確定性或困境時，將「胡亂嘗試」作為一種克服停滯的策略。作者認為，採取不完美的探索性行動，往往比等待完美方案更具成效。",
+      "keywords": [
+        "problem-solving",
+        "productivity",
+        "action",
+        "uncertainty",
+        "strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article discusses a behavioral concept or philosophy regarding problem-solving approaches.",
+      "pacer_reason_zh": "該文章探討了一種關於問題解決方式的行為觀念與哲學。"
+    },
     {
       "id": "90c8f6213b37da0b",
       "title": "Linear scan register allocation in Datalog",
