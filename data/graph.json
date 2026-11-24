@@ -1,6 +1,262 @@
 {
   "nodes": [
     {
+      "id": "bfe39e5b176c7b57",
+      "title": "datasette-charts 0.2a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "pacer": "E",
+      "keywords": [
+        "datasette",
+        "datasette-charts",
+        "data visualization",
+        "AI agent",
+        "software release"
+      ],
+      "published": "2026-11-24T04:24:29.000Z"
+    },
+    {
+      "id": "cde2e4331c947b3b",
+      "title": "datasette-agent 0.7a1",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "pacer": "R",
+      "keywords": [
+        "datasette",
+        "datasette-agent",
+        "software-release",
+        "web-development",
+        "iframes"
+      ],
+      "published": "2026-11-24T03:45:57.000Z"
+    },
+    {
+      "id": "76869e8a6e2a41fa",
+      "title": "Finite Projective Spaces",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/",
+      "pacer": "C",
+      "keywords": [
+        "Finite Projective Spaces",
+        "Mathematics",
+        "Geometry",
+        "Axioms",
+        "Projective Geometry"
+      ],
+      "published": "2026-11-23T23:49:05.000Z"
+    },
+    {
+      "id": "2f3ef0ead000ffc6",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "pacer": "C",
+      "keywords": [
+        "GLM-5.4",
+        "Transformer",
+        "AI",
+        "Looped Transformer",
+        "API"
+      ],
+      "published": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "id": "e59fe8be067f4ab6",
+      "title": "Ladybird's first alpha release",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "pacer": "E",
+      "keywords": [
+        "Ladybird",
+        "browser",
+        "alpha",
+        "web development",
+        "SerenityOS"
+      ],
+      "published": "2026-11-23T21:46:35.000Z"
+    },
+    {
+      "id": "1a965fa5cd865b8f",
+      "title": "Am I A Design Engineer?",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
+      "pacer": "C",
+      "keywords": [
+        "Design Engineer",
+        "Product Design",
+        "Human-Computer Interaction",
+        "Engineering",
+        "UX Design"
+      ],
+      "published": "2026-11-23T19:00:00.000Z"
+    },
+    {
+      "id": "b5a6111909e0384a",
+      "title": "Two generators suffice",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/",
+      "pacer": "C",
+      "keywords": [
+        "finite simple groups",
+        "group theory",
+        "mathematics",
+        "CFSG",
+        "abstract algebra"
+      ],
+      "published": "2026-11-23T17:28:34.000Z"
+    },
+    {
+      "id": "73db4390133548b2",
+      "title": "Pluralistic: The Debt Trap (23 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/23/grasshoppers-v-ants/",
+      "pacer": "C",
+      "keywords": [
+        "Debt Trap",
+        "Hyperbolic Discounting",
+        "Cory Doctorow",
+        "Behavioral Economics",
+        "Causality"
+      ],
+      "published": "2026-11-23T13:18:44.000Z"
+    },
+    {
+      "id": "468f7cd3ff90b5fe",
+      "title": "Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/",
+      "pacer": "E",
+      "keywords": [
+        "Zigbee",
+        "IoT",
+        "Sonoff",
+        "Sensor",
+        "Smart Home"
+      ],
+      "published": "2026-11-23T12:34:29.000Z"
+    },
+    {
+      "id": "b96467cf0f7b4e6c",
+      "title": "Gravity on an oblate planet",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/",
+      "pacer": "C",
+      "keywords": [
+        "gravity",
+        "oblate spheroid",
+        "physics",
+        "point-mass approximation",
+        "geodesy"
+      ],
+      "published": "2026-11-23T10:17:22.000Z"
+    },
+    {
+      "id": "518c7440f89942de",
+      "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+      "source": "Troy Hunt",
+      "source_url": "https://www.troyhunt.com/",
+      "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
+      "pacer": "E",
+      "keywords": [
+        "data breach",
+        "disclosure",
+        "cybersecurity",
+        "corporate transparency",
+        "incident response"
+      ],
+      "published": "2026-11-23T07:58:47.000Z"
+    },
+    {
+      "id": "ee829d17eb18fb54",
+      "title": "Zenith Data Systems, Part II",
+      "source": "Abort Retry Fail",
+      "source_url": "https://www.abortretry.fail/",
+      "url": "https://www.abortretry.fail/p/zenith-data-systems-part-ii",
+      "pacer": "C",
+      "keywords": [
+        "Zenith Data Systems",
+        "Computing History",
+        "Tech Industry",
+        "Innovation",
+        "Business History"
+      ],
+      "published": "2026-11-23T02:25:14.000Z"
+    },
+    {
+      "id": "d26bd4b314a87a65",
+      "title": "datasette-charts 0.1a0",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "pacer": "P",
+      "keywords": [
+        "datasette",
+        "data visualization",
+        "plugin",
+        "open source",
+        "software release"
+      ],
+      "published": "2026-11-23T00:37:20.000Z"
+    },
+    {
+      "id": "0e57102f42d40a7c",
+      "title": "Two graphs",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/two-graphs/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "E",
+      "keywords": [
+        "Remote Labor Index",
+        "METR",
+        "Future Trends",
+        "Data Visualization",
+        "Technology Forecasting"
+      ],
+      "published": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "f79aa1569240176a",
+      "title": "Nerd Quiz #5",
+      "source": "Susam Pal",
+      "source_url": "https://susam.net/",
+      "url": "https://susam.net/code/news/nq/5.0.0.html",
+      "pacer": "P",
+      "keywords": [
+        "Nerd Quiz",
+        "HTML application",
+        "quiz",
+        "trivia",
+        "community"
+      ],
+      "published": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "0f127b0cd48e22cc",
+      "title": "Notes on OpenAI's perplexity reveal",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "url": "https://seangoedecke.com/notes-on-openais-perplexity-reveal/",
+      "pacer": "C",
+      "keywords": [
+        "OpenAI",
+        "perplexity",
+        "language models",
+        "AI metrics",
+        "LLM"
+      ],
+      "published": "2026-11-23T00:00:00.000Z"
+    },
+    {
       "id": "e2fdc00fb2f11d49",
       "title": "When in doubt, flail about",
       "source": "seangoedecke.com RSS feed",
@@ -17,20 +273,20 @@
       "published": "2026-11-23T00:00:00.000Z"
     },
     {
-      "id": "b0c1b6250591975f",
-      "title": "Select Styling Specimens",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-      "pacer": "P",
+      "id": "37c418a013e851b7",
+      "title": "slopcore",
+      "source": "the singularity is nearer",
+      "source_url": "https://geohot.github.io//blog/",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html",
+      "pacer": "C",
       "keywords": [
-        "CSS",
-        "HTML",
-        "Select",
-        "Web Development",
-        "UI"
+        "AI",
+        "accelerationism",
+        "slopcore",
+        "techno-optimism",
+        "doomerism"
       ],
-      "published": "2026-11-22T19:45:06.000Z"
+      "published": "2026-11-22T16:00:00.000Z"
     },
     {
       "id": "3aed7d29f0957ba3",
@@ -79,22 +335,6 @@
         "programming"
       ],
       "published": "2026-11-22T00:00:00.000Z"
-    },
-    {
-      "id": "dc9b4a0c426ddc42",
-      "title": "Muru",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "pacer": "R",
-      "keywords": [
-        "Muru",
-        "Python",
-        "Rust",
-        "ASGI",
-        "WSGI"
-      ],
-      "published": "2026-11-21T23:56:28.000Z"
     },
     {
       "id": "e0e6f4639044a70b",
@@ -241,22 +481,6 @@
       "published": "2026-11-21T00:00:00.000Z"
     },
     {
-      "id": "cf3b0c6c1cbc2369",
-      "title": "Quoting Ravi Vakil",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "pacer": "C",
-      "keywords": [
-        "Generalized Riemann Hypothesis",
-        "Mathematics",
-        "Alessandro Masullo",
-        "Ravi Vakil",
-        "Academic Proof"
-      ],
-      "published": "2026-11-20T19:21:49.000Z"
-    },
-    {
       "id": "0b70a01ea1ae8156",
       "title": "Diablo II",
       "source": "The Digital Antiquarian",
@@ -271,22 +495,6 @@
         "Action RPG"
       ],
       "published": "2026-11-20T17:03:57.000Z"
-    },
-    {
-      "id": "f27b1f34ce20932c",
-      "title": "Quoting Levent Alpöge",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "pacer": "E",
-      "keywords": [
-        "Riemann Hypothesis",
-        "Claude",
-        "AI",
-        "Mathematics",
-        "Levent Alpöge"
-      ],
-      "published": "2026-11-20T16:30:48.000Z"
     },
     {
       "id": "608fd58e178a932e",
@@ -367,22 +575,6 @@
         "book review"
       ],
       "published": "2026-11-20T10:44:20.000Z"
-    },
-    {
-      "id": "8b57b72566ad3c58",
-      "title": "llm-gemini 0.38.1",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "pacer": "E",
-      "keywords": [
-        "llm-gemini",
-        "Gemini 4",
-        "plugin",
-        "xhigh",
-        "AI"
-      ],
-      "published": "2026-11-20T03:01:57.000Z"
     },
     {
       "id": "d9af8902cca988a1",
@@ -591,22 +783,6 @@
         "The Old New Thing"
       ],
       "published": "2026-11-18T15:00:00.000Z"
-    },
-    {
-      "id": "491f62b5f2b0e33f",
-      "title": "Once More Unto The Breach - Another Year In Review",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
-      "pacer": "C",
-      "keywords": [
-        "FIRE",
-        "year-in-review",
-        "financial independence",
-        "retirement",
-        "personal reflection"
-      ],
-      "published": "2026-11-18T12:34:00.000Z"
     },
     {
       "id": "0fec83a711f4a85b",
@@ -849,22 +1025,6 @@
       "published": "2026-11-16T16:00:00.000Z"
     },
     {
-      "id": "57b32abd47595a1e",
-      "title": "Taxis and hash functions",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/",
-      "pacer": "E",
-      "keywords": [
-        "MD5",
-        "cryptography",
-        "data privacy",
-        "hash function",
-        "NYC taxi data"
-      ],
-      "published": "2026-11-16T14:46:36.000Z"
-    },
-    {
       "id": "5446f7cc17eb4d12",
       "title": "Weekly Update 530: Email Dependencies & Apps",
       "source": "Troy Hunt",
@@ -879,22 +1039,6 @@
         "infrastructure"
       ],
       "published": "2026-11-16T07:09:38.000Z"
-    },
-    {
-      "id": "ac7338b099785557",
-      "title": "Orbital footnote",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/15/orbital-footnote/",
-      "pacer": "E",
-      "keywords": [
-        "ED138",
-        "Kepler's third law",
-        "astronomy",
-        "dwarf planet",
-        "orbital period"
-      ],
-      "published": "2026-11-16T02:19:01.000Z"
     },
     {
       "id": "4d781f5b684eed93",
@@ -977,22 +1121,6 @@
       "published": "2026-11-14T16:09:38.000Z"
     },
     {
-      "id": "c4e8ceae73413d29",
-      "title": "The longest polynomial level set",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/",
-      "pacer": "C",
-      "keywords": [
-        "polynomial",
-        "Erdős conjecture",
-        "mathematics",
-        "level set",
-        "Teng Zhang"
-      ],
-      "published": "2026-11-14T15:54:10.000Z"
-    },
-    {
       "id": "a462453a14a45aa4",
       "title": "Taking AI Seriously",
       "source": "Fernando Borretti",
@@ -1055,22 +1183,6 @@
         "work purpose"
       ],
       "published": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "0b406b1cea07bf6d",
-      "title": "Pluralistic: I told you so (13 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/13/outlookpocalypse/",
-      "pacer": "C",
-      "keywords": [
-        "antitrust",
-        "monopoly",
-        "policy",
-        "copyright",
-        "regulation"
-      ],
-      "published": "2026-11-13T19:44:37.000Z"
     },
     {
       "id": "579aa129bfed87fd",
@@ -1277,22 +1389,6 @@
         "Telepathy",
         "Ethics",
         "Technology criticism"
-      ],
-      "published": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "8157f3d2feda20d7",
-      "title": "Glue work is still harmful in the age of AI",
-      "source": "seangoedecke.com RSS feed",
-      "source_url": "https://seangoedecke.com",
-      "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
-      "pacer": "C",
-      "keywords": [
-        "glue work",
-        "career growth",
-        "software engineering",
-        "AI",
-        "productivity"
       ],
       "published": "2026-11-11T00:00:00.000Z"
     },
@@ -1809,22 +1905,6 @@
       "published": "2026-11-01T11:00:00.000Z"
     },
     {
-      "id": "a883eb358aca603f",
-      "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
-      "source": "Troy Hunt",
-      "source_url": "https://www.troyhunt.com/",
-      "url": "https://www.troyhunt.com/weekly-update-528/",
-      "pacer": "C",
-      "keywords": [
-        "Proton",
-        "AI",
-        "management",
-        "leadership",
-        "engineering manifesto"
-      ],
-      "published": "2026-11-01T07:35:23.000Z"
-    },
-    {
       "id": "f4dce6228f169cd0",
       "title": "Pray for Chaos",
       "source": "the singularity is nearer",
@@ -1887,22 +1967,6 @@
         "technology"
       ],
       "published": "2026-10-30T14:00:00.000Z"
-    },
-    {
-      "id": "5d280100b264fa22",
-      "title": "Celebrating SIM Cards",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
-      "pacer": "C",
-      "keywords": [
-        "SIM card",
-        "iPhone",
-        "tech support",
-        "mobile technology",
-        "user experience"
-      ],
-      "published": "2026-10-29T19:00:00.000Z"
     },
     {
       "id": "ff21bdff1eb6b64f",
@@ -2593,22 +2657,6 @@
       "published": "2026-10-10T16:40:25.632Z"
     },
     {
-      "id": "c657454fb58f3187",
-      "title": "Lobbying",
-      "source": "the singularity is nearer",
-      "source_url": "https://geohot.github.io//blog/",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
-      "pacer": "C",
-      "keywords": [
-        "lobbying",
-        "politics",
-        "bribery",
-        "US politics",
-        "satire"
-      ],
-      "published": "2026-10-09T16:00:00.000Z"
-    },
-    {
       "id": "82f5a22b6e45ec58",
       "title": "iFlac: Sync your FLAC files to your iPhone from Linux",
       "source": "Jayden’s Blog",
@@ -2655,22 +2703,6 @@
         "Algorithm"
       ],
       "published": "2026-10-08T02:34:00.000Z"
-    },
-    {
-      "id": "d4e032c1dd6c6a66",
-      "title": "Shopify went back to native. I think the bigger shift is formal verification",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "Software Engineering",
-        "Formal Verification",
-        "AI Agents",
-        "Native Apps",
-        "Development Tools"
-      ],
-      "published": "2026-10-07T00:00:00.000Z"
     },
     {
       "id": "4947297bbfe7b42d",
@@ -4710,22 +4742,6 @@
       "published": "2026-05-13T00:00:00.000Z"
     },
     {
-      "id": "e5065dae171b33ef",
-      "title": "The Problem of Pedagogy in Advanced Mathematics",
-      "source": "Susam Pal",
-      "source_url": "https://susam.net/",
-      "url": "https://susam.net/advanced-mathematics-pedagogy.html",
-      "pacer": "C",
-      "keywords": [
-        "mathematics",
-        "pedagogy",
-        "education",
-        "proofs",
-        "textbooks"
-      ],
-      "published": "2026-05-11T00:00:00.000Z"
-    },
-    {
       "id": "f8e1a00d510bbea7",
       "title": "Spring 2026 Dev Contest Results!",
       "source": "Eric Migicovsky's Blog RSS Feed",
@@ -4844,16 +4860,6 @@
       "pacer": "C",
       "keywords": [],
       "published": "2026-03-25T00:00:00.000Z"
-    },
-    {
-      "id": "cbba931e7f685804",
-      "title": "Hitachi Ltd, Part I",
-      "source": "Abort Retry Fail",
-      "source_url": "https://www.abortretry.fail/",
-      "url": "https://www.abortretry.fail/p/hitachi-ltd-part-i",
-      "pacer": "C",
-      "keywords": [],
-      "published": "2026-03-23T00:14:27.000Z"
     },
     {
       "id": "064b5bd367ed773a",
@@ -5091,6 +5097,16 @@
     }
   ],
   "links": [
+    {
+      "source": "bfe39e5b176c7b57",
+      "target": "d26bd4b314a87a65",
+      "shared_keywords": [
+        "datasette",
+        "data visualization",
+        "software release"
+      ],
+      "strength": 0.6
+    },
     {
       "source": "65aee7c4908b5c1c",
       "target": "9f3c74759ee33f7c",
