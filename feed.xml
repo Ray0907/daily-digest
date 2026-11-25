@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Tue, 24 Nov 2026 05:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:39:18 GMT</lastBuildDate>
     
+    <item>
+      <title>Everything I know about writing</title>
+      <link>https://www.experimental-history.com/p/everything-i-know-about-writing</link>
+      <guid>https://www.experimental-history.com/p/everything-i-know-about-writing</guid>
+      <pubDate>Tue, 24 Nov 2026 17:18:25 GMT</pubDate>
+      <source url="https://www.experimental-history.com/">Experimental History</source>
+      <description>This article explores the craft of writing through the lens of intellectual rigor and clarity. It argues that effective writing is a process of disciplined thinking and serves as a tool for structuring complex ideas rather than just recording them.</description>
+    </item>
+
+    <item>
+      <title>Comments and emails</title>
+      <link>https://herman.bearblog.dev/comments-and-emails/</link>
+      <guid>https://herman.bearblog.dev/comments-and-emails/</guid>
+      <pubDate>Tue, 24 Nov 2026 07:16:00 GMT</pubDate>
+      <source url="https://herman.bearblog.dev/">Herman's blog</source>
+      <description>The author explains why the Bear blogging platform intentionally avoids built-in comment sections or contact forms, citing security and harassment concerns. By requiring direct email communication, the platform leverages existing spam filters and adds just enough friction to discourage impulsive, anonymous abuse.</description>
+    </item>
+
+    <item>
+      <title>Blogger broke the lightbox</title>
+      <link>https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html</link>
+      <guid>https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html</guid>
+      <pubDate>Tue, 24 Nov 2026 21:27:04 GMT</pubDate>
+      <source url="https://oldvcr.blogspot.com/">Old Vintage Computing Research</source>
+      <description>The author reports a global technical issue with the Blogger image lightbox feature, which appears to be broken due to a faulty deployment. They provide temporary workarounds, such as opening images in new tabs or using the mobile version of the site.</description>
+    </item>
+
+    <item>
+      <title>Responding to objections to recursive self-improvement</title>
+      <link>https://www.dwarkesh.com/p/rsiobjections</link>
+      <guid>https://www.dwarkesh.com/p/rsiobjections</guid>
+      <pubDate>Tue, 24 Nov 2026 21:45:30 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion addresses the primary arguments against the feasibility and trajectory of recursive self-improvement in AI systems. The content bridges the gap between skeptical viewpoints and current theoretical models of superintelligence.</description>
+    </item>
+
+    <item>
+      <title>Do-it-yourself meta-analysis</title>
+      <link>https://entropicthoughts.com/diy-meta-analysis</link>
+      <guid>https://entropicthoughts.com/diy-meta-analysis</guid>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 GMT</pubDate>
+      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
+      <description>This article examines why large-scale meta-analyses fail to detect significant effects of vitamin D supplementation despite individual studies suggesting benefits. The author posits that existing trials may lack statistical power because many are conducted in populations already receiving fortified vitamin D, and investigates this by isolating data from participants with low baseline levels.</description>
+    </item>
+
+    <item>
+      <title>Advent of Microarchitecture 2026</title>
+      <link>http://xania.org/202611/advent-of-what?utm_source=feed&amp;utm_medium=rss</link>
+      <guid>http://xania.org/202611/advent-of-what?utm_source=feed&amp;utm_medium=rss</guid>
+      <pubDate>Tue, 24 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="http://xania.org/?utm_source=feed&amp;utm_medium=rss">Matt Godbolt’s blog</source>
+      <description>Matt Godbolt announces 'Advent of Microarchitecture 2026', a new video series focused on low-effort, ad-libbed content. Due to time constraints, he is streamlining production by recording directly to camera and utilizing automation, rather than his previous intensive compiler optimization series.</description>
+    </item>
+
+    <item>
+      <title>Taking a password joke seriously</title>
+      <link>https://www.johndcook.com/blog/2026/11/24/password-joke/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/24/password-joke/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:16:48 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>The article discusses the impracticality of complex password requirements by referencing a humorous social media post listing absurd character criteria. The author explores the technical implications of implementing such constraints, highlighting the absurdity of security demands that go beyond typical user capabilities.</description>
+    </item>
+
+    <item>
+      <title>Memorable 12-digit primes</title>
+      <link>https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:13:51 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores methods for selecting 12-digit prime numbers that are easy to memorize. It builds upon previous work using Python to identify primes, providing practical examples of sequences that are cognitively easier to recall.</description>
+    </item>
+
+    <item>
+      <title>Abolish Lock Poisoning</title>
+      <link>https://lucumr.pocoo.org/2026/11/25/poisoning/</link>
+      <guid>https://lucumr.pocoo.org/2026/11/25/poisoning/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://lucumr.pocoo.org/">Armin Ronacher's Thoughts and Writings</source>
+      <description>The author argues that Rust's 'mutex poisoning' feature is counterproductive, as it is rarely handled correctly and often leads to worse application behavior than simply ignoring the state or aborting. He advocates for changing the language defaults to non-poisoning locks, noting that real-world evidence of successful recovery from lock poisoning is virtually non-existent.</description>
+    </item>
+
+    <item>
+      <title>What happens to entries in the CoreApplication Properties when the source apartment shuts down?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post clarifies the behavior of CoreApplication Properties during an apartment shutdown. It explains that entries remain intact unless the apartment being closed is the final one.</description>
+    </item>
+
+    <item>
+      <title>Having two security products installed at the same time isn’t a great idea, but sometimes you have to do it</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261123-00/?p=112887/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261123-00/?p=112887/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post addresses the technical complications that arise when running multiple security products simultaneously on a single system. It acknowledges that while this configuration is generally discouraged, users may occasionally find themselves in situations where it becomes necessary.</description>
+    </item>
+
+    <item>
+      <title>Virgin Media Hub 5 API</title>
+      <link>https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:34:52 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This post provides a centralized collection of undocumented APIs for the Virgin Media Hub 5 router. It includes specific endpoints and technical instructions for interacting with the device while in modem mode.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Free lunches (24 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/24/move-fast-break-kings/</link>
+      <guid>https://pluralistic.net/2026/11/24/move-fast-break-kings/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:15:29 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This article critiques neoclassical economic theories regarding market efficiency, using the 'free lunch' anecdote to illustrate how rigid market models fail to account for real-world complexities. Cory Doctorow explores how these idealized views ignore structural distortions, suggesting that what economists dismiss as anomalies are often opportunities for others.</description>
+    </item>
+
+    <item>
+      <title>Three LLM inflection points in twelve months</title>
+      <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
+      <guid>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</guid>
+      <pubDate>Tue, 24 Nov 2026 23:02:07 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison analyzes three significant inflection points in LLM and coding agent capabilities over the past year. He highlights the impact of Claude Opus 4.5, which marked a transition toward reliable, autonomous code problem-solving.</description>
+    </item>
+
+    <item>
+      <title>GPT 6.2 Astra Solves a Historical Mystery</title>
+      <link>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</link>
+      <guid>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:53:59 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This article highlights a case study where GPT-6.2 Astra successfully identified the creator of a historical 1808 sketchbook by autonomously synthesizing primary and secondary sources. It discusses the potential impact of agentic AI on historical research and the evolving role of historians in the face of machine-assisted discovery.</description>
+    </item>
+
     <item>
       <title>Two graphs</title>
       <link>https://martinalderson.com/posts/two-graphs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -769,141 +904,6 @@
       <pubDate>Mon, 16 Nov 2026 12:34:40 GMT</pubDate>
       <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
       <description>The author reflects on a visit to the ABBA museum in Stockholm, highlighting the group's massive cultural influence despite his initial lack of fandom. The piece specifically touches on the exhibition detailing the innovative 'Voyage' concert experience in London.</description>
-    </item>
-
-    <item>
-      <title>llm 0.37.3</title>
-      <link>https://simonwillison.net/2026/Nov/16/llm/</link>
-      <guid>https://simonwillison.net/2026/Nov/16/llm/</guid>
-      <pubDate>Mon, 16 Nov 2026 23:57:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison released LLM 0.37.3, a bug fix update addressing compatibility issues with SQLite 3.54.1. The release resolves a regression where JSON handling in SQL queries was altered, requiring a code workaround to ensure proper data formatting.</description>
-    </item>
-
-    <item>
-      <title>What’s Next For Nvidia?</title>
-      <link>https://steveblank.com/2026/11/15/whats-next-for-nvidia/</link>
-      <guid>https://steveblank.com/2026/11/15/whats-next-for-nvidia/</guid>
-      <pubDate>Sun, 15 Nov 2026 22:15:04 GMT</pubDate>
-      <source url="https://steveblank.com/">Steve Blank</source>
-      <description>Steve Blank examines the potential future of Nvidia following the announcement of Jensen Huang's resignation. The article explores the systemic risks that companies face when a visionary leader departs, highlighting the common decline in innovation and momentum.</description>
-    </item>
-
-    <item>
-      <title>ASI as a Black Box</title>
-      <link>https://borretti.me/article/asi-as-a-black-box</link>
-      <guid>https://borretti.me/article/asi-as-a-black-box</guid>
-      <pubDate>Sun, 15 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article explores the inherent uncertainty surrounding Artificial Superintelligence (ASI), characterizing it as a 'black box.' The author argues that current predictions fail to capture the true nature of superintelligence because we lack any empirical understanding of what it would actually entail.</description>
-    </item>
-
-    <item>
-      <title>Taking AI Seriously</title>
-      <link>https://borretti.me/article/taking-ai-seriously</link>
-      <guid>https://borretti.me/article/taking-ai-seriously</guid>
-      <pubDate>Sat, 14 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://borretti.me/">Fernando Borretti</source>
-      <description>This article explores the philosophical and practical implications of treating artificial intelligence as a significant, transformative force. It examines the necessity of shifting our perspective on AI from novelty to a critical infrastructure component.</description>
-    </item>
-
-    <item>
-      <title>Variable Electricity Pricing - the Highs and the Lows</title>
-      <link>https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:34:58 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author shares their experience using a variable electricity pricing tariff with a smart meter, which allows for dynamic half-hourly rates. They highlight the financial benefits of the system, including instances where energy prices become negative, effectively paying the user to consume power.</description>
-    </item>
-
-    <item>
-      <title>People will lose their jobs over GTA 6 </title>
-      <link>https://idiallo.com/blog/losing-your-job-over-a-video-game</link>
-      <guid>https://idiallo.com/blog/losing-your-job-over-a-video-game</guid>
-      <pubDate>Mon, 16 Nov 2026 00:40:21 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author shares a personal anecdote about prioritizing the release of Metal Gear Solid 5 over client maintenance work. The story highlights the tension between professional responsibilities and the intense cultural anticipation surrounding major video game launches like GTA 6.</description>
-    </item>
-
-    <item>
-      <title>datasette-maplibre 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
-      <guid>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:58:36 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released datasette-maplibre 0.1a0, a new geospatial plugin for Datasette that integrates MapLibre GL with OpenFreeMap. Developed with AI assistance, the plugin features lazy-loading WebGL previews and a comprehensive demo available via Datasette Lite.</description>
-    </item>
-
-    <item>
-      <title>datasette 1.0a43</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette/</link>
-      <guid>https://simonwillison.net/2026/Nov/15/datasette/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:20:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette 1.0a43 introduces streaming support for output renderers and various UI improvements, including a new web component and JSON formatting. This release also addresses critical security vulnerabilities regarding private stored queries and incorporates several community contributions.</description>
-    </item>
-
-    <item>
-      <title>datasette 0.65.6</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
-      <guid>https://simonwillison.net/2026/Nov/15/datasette-2/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:18:17 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette version 0.65.6 has been released, incorporating a critical security backport. The update fixes a vulnerability where unauthorized users could download databases with mismatched route and name parameters.</description>
-    </item>
-
-    <item>
-      <title>datasette-apps 0.4a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-apps/</link>
-      <guid>https://simonwillison.net/2026/Nov/15/datasette-apps/</guid>
-      <pubDate>Sun, 15 Nov 2026 04:02:45 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette Apps 0.4a0 introduces support for URL fragment linking, enabling sandboxed applications to communicate and reference each other. This update allows for modular app design where separate tools can effectively search and link to specific data records.</description>
-    </item>
-
-    <item>
-      <title>datasette-agent 0.6a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-agent/</link>
-      <guid>https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
-      <pubDate>Sun, 15 Nov 2026 03:49:47 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Datasette Agent version 0.6a0 has been released, introducing several bug fixes and a new agent prompt feature on the Datasette homepage. Users can now interact with their data more intuitively by using hash-mentions to reference tables and queries directly within the input field.</description>
-    </item>
-
-    <item>
-      <title>Of Course People Hate Data Centres</title>
-      <link>https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</link>
-      <guid>https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://hugotunius.se/">Hugo Tunius - Blog</source>
-      <description>This article explores the growing public opposition to data center construction, highlighting statistics that show widespread disapproval across political lines in the US. The author argues that this backlash is driven by the massive increase in the scale of facilities and a deep-seated public distrust of AI and 'Big Tech' companies.</description>
-    </item>
-
-    <item>
-      <title>Reading List 11/14/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-11142026</link>
-      <guid>https://www.construction-physics.com/p/reading-list-11142026</guid>
-      <pubDate>Sat, 14 Nov 2026 16:09:38 GMT</pubDate>
-      <source url="https://www.construction-physics.com/">Construction Physics</source>
-      <description>This post provides a curated digest of diverse topics ranging from engineering failures and regulatory updates to hardware recycling and aviation safety. It serves as a collection of current events and technical updates relevant to the construction and technology sectors.</description>
-    </item>
-
-    <item>
-      <title>This Week in Package Management: 14 November 2026</title>
-      <link>https://nesbitt.io/2026/11/14/this-week-in-package-management.html</link>
-      <guid>https://nesbitt.io/2026/11/14/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This weekly digest covers recent security updates and releases in package management, including critical patches for Composer, Podman, and pnpm. It also notes a change in GitHub policy regarding Dependabot alerts for inactive repositories.</description>
-    </item>
-
-    <item>
-      <title>The longest polynomial level set</title>
-      <link>https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/</guid>
-      <pubDate>Sat, 14 Nov 2026 15:54:10 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article discusses the mathematical problem of finding the polynomial with leading coefficient 1 that results in the longest level set curve defined by |p(z)| = 1 for a given degree. It highlights the recent proof by Teng Zhang, which confirms Erdős's long-standing conjecture that the polynomial p(z) = z^n - 1 yields this maximum length.</description>
     </item>
   </channel>
 </rss>

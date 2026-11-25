@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-11-24T05:38:34.074Z",
+  "last_updated": "2026-11-25T04:39:18.385Z",
   "articles": [
+    {
+      "id": "d8d34ab6d9830a59",
+      "title": "Everything I know about writing",
+      "url": "https://www.experimental-history.com/p/everything-i-know-about-writing",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "published": "2026-11-24T17:18:25.000Z",
+      "summary_en": "This article explores the craft of writing through the lens of intellectual rigor and clarity. It argues that effective writing is a process of disciplined thinking and serves as a tool for structuring complex ideas rather than just recording them.",
+      "summary_zh": "本文從嚴謹的思維與清晰度探討寫作藝術。文章主張有效的寫作不僅是記錄，更是一種結構化複雜概念的紀律性思維過程。",
+      "keywords": [
+        "writing",
+        "thinking",
+        "communication",
+        "craft",
+        "intellectual rigor"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual framework and philosophy behind the act of writing.",
+      "pacer_reason_zh": "文章重點在於寫作背後的概念框架與核心哲學。"
+    },
+    {
+      "id": "38a9fe5fefe639cb",
+      "title": "Comments and emails",
+      "url": "https://herman.bearblog.dev/comments-and-emails/",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "published": "2026-11-24T07:16:00.000Z",
+      "summary_en": "The author explains why the Bear blogging platform intentionally avoids built-in comment sections or contact forms, citing security and harassment concerns. By requiring direct email communication, the platform leverages existing spam filters and adds just enough friction to discourage impulsive, anonymous abuse.",
+      "summary_zh": "作者解釋了為什麼 Bear 部落格平台刻意不內建留言區或聯絡表單，主要考量是資安與避免騷擾。透過要求使用電子郵件聯繫，平台能利用現有的垃圾郵件過濾機制，並增加一點溝通門檻以阻絕衝動性的匿名惡意攻擊。",
+      "keywords": [
+        "Bear",
+        "blogging",
+        "comments",
+        "email",
+        "spam"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the philosophical and technical rationale behind a specific design decision regarding user interaction.",
+      "pacer_reason_zh": "本文解釋了關於使用者互動設計決策背後的哲學思考與技術考量。"
+    },
+    {
+      "id": "494708eeae7635e4",
+      "title": "Blogger broke the lightbox",
+      "url": "https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "published": "2026-11-24T21:27:04.281Z",
+      "summary_en": "The author reports a global technical issue with the Blogger image lightbox feature, which appears to be broken due to a faulty deployment. They provide temporary workarounds, such as opening images in new tabs or using the mobile version of the site.",
+      "summary_zh": "作者指出 Blogger 的圖片燈箱功能因部署錯誤而全面失效。文章針對此技術問題提供了暫時的解決方案，例如在新分頁開啟圖片或使用行動版頁面。",
+      "keywords": [
+        "Blogger",
+        "lightbox",
+        "bug",
+        "technical issue",
+        "web development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article functions as a troubleshooting guide, identifying a platform-wide issue and offering users step-by-step workarounds.",
+      "pacer_reason_zh": "本文屬於故障排除指南，不僅指出了平台問題，還為使用者提供了具體的操作建議與替代方案。"
+    },
+    {
+      "id": "ca7cbb4b4799603a",
+      "title": "Responding to objections to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-11-24T21:45:30.000Z",
+      "summary_en": "This discussion addresses the primary arguments against the feasibility and trajectory of recursive self-improvement in AI systems. The content bridges the gap between skeptical viewpoints and current theoretical models of superintelligence.",
+      "summary_zh": "本討論探討了針對人工智慧遞迴自我改進的可行性及其發展軌跡的主要反對觀點。內容在懷疑論者的看法與當前超級人工智慧的理論模型之間建立了橋樑。",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Recursive Self-improvement",
+        "AGI",
+        "Skepticism"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explores theoretical concepts regarding AI development and debates the validity of arguments surrounding superintelligence.",
+      "pacer_reason_zh": "內容探討了有關人工智慧發展的理論概念，並辯論了圍繞超級人工智慧相關論點的有效性。"
+    },
+    {
+      "id": "2c90749c7d86e256",
+      "title": "Do-it-yourself meta-analysis",
+      "url": "https://entropicthoughts.com/diy-meta-analysis",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "published": "2026-11-23T23:00:00.000Z",
+      "summary_en": "This article examines why large-scale meta-analyses fail to detect significant effects of vitamin D supplementation despite individual studies suggesting benefits. The author posits that existing trials may lack statistical power because many are conducted in populations already receiving fortified vitamin D, and investigates this by isolating data from participants with low baseline levels.",
+      "summary_zh": "本文探討為何大規模統合分析未能偵測到維生素 D 補充劑的顯著效果，儘管個別研究顯示其具潛在益處。作者推測現有試驗缺乏統計檢定力，是因為受試者多來自食物中已強化維生素 D 的國家，並透過分析基準水平較低的受試者數據來驗證此觀點。",
+      "keywords": [
+        "vitamin D",
+        "meta-analysis",
+        "statistical power",
+        "clinical trials",
+        "health research"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article analyzes experimental data and trial results to test a hypothesis about statistical power in vitamin D research.",
+      "pacer_reason_zh": "本文透過分析實驗數據與試驗結果，以驗證關於維生素 D 研究中統計檢定力的假說。"
+    },
+    {
+      "id": "4f8d3b005dc9248e",
+      "title": "Advent of Microarchitecture 2026",
+      "url": "http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "published": "2026-11-24T20:00:00.000Z",
+      "summary_en": "Matt Godbolt announces 'Advent of Microarchitecture 2026', a new video series focused on low-effort, ad-libbed content. Due to time constraints, he is streamlining production by recording directly to camera and utilizing automation, rather than his previous intensive compiler optimization series.",
+      "summary_zh": "Matt Godbolt 宣布推出全新系列影片「Advent of Microarchitecture 2026」，主打即興且低製作門檻的內容。由於時間有限，他將採用直接對鏡頭錄製並搭配自動化剪輯的方式，取代過去高強度的編譯器優化系列。",
+      "keywords": [
+        "Matt Godbolt",
+        "Microarchitecture",
+        "Content Creation",
+        "Video Series",
+        "Automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article primarily serves as an announcement for a new series, detailing the procedural workflow and production method for creating the content.",
+      "pacer_reason_zh": "本文主要作為新系列影片的發布公告，詳細說明了製作內容的程序與工作流程。"
+    },
+    {
+      "id": "74d0466fb8c4e591",
+      "title": "Taking a password joke seriously",
+      "url": "https://www.johndcook.com/blog/2026/11/24/password-joke/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-24T15:16:48.000Z",
+      "summary_en": "The article discusses the impracticality of complex password requirements by referencing a humorous social media post listing absurd character criteria. The author explores the technical implications of implementing such constraints, highlighting the absurdity of security demands that go beyond typical user capabilities.",
+      "summary_zh": "本文透過引用一則關於極端密碼規範的諷刺貼文，探討了密碼學與使用者體驗之間的矛盾。作者分析了實作這類荒謬密碼要求的技術挑戰，並以此反思過度嚴苛的安全需求對於實際操作的不可行性。",
+      "keywords": [
+        "password",
+        "security",
+        "humor",
+        "usability",
+        "authentication"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses a humorous anecdote as an analogy to critique real-world password policies and security standards.",
+      "pacer_reason_zh": "本文利用幽默的段子作為類比，藉此批評現實生活中的密碼政策與安全標準。"
+    },
+    {
+      "id": "c662aa1547f64bfc",
+      "title": "Memorable 12-digit primes",
+      "url": "https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-24T14:13:51.000Z",
+      "summary_en": "This article explores methods for selecting 12-digit prime numbers that are easy to memorize. It builds upon previous work using Python to identify primes, providing practical examples of sequences that are cognitively easier to recall.",
+      "summary_zh": "本文探討了如何選擇易於記憶的 12 位質數。作者延續過去使用 Python 尋找質數的方法，並提供了幾組在認知上較容易記憶的數字範例。",
+      "keywords": [
+        "prime numbers",
+        "mathematics",
+        "memory",
+        "python",
+        "number theory"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical approach and examples for solving the specific problem of memorizing 12-digit prime numbers.",
+      "pacer_reason_zh": "本文提供了針對記憶 12 位質數這一特定問題的實用方法與範例。"
+    },
+    {
+      "id": "d0bba22962f74113",
+      "title": "Abolish Lock Poisoning",
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "published": "2026-11-25T00:00:00.000Z",
+      "summary_en": "The author argues that Rust's 'mutex poisoning' feature is counterproductive, as it is rarely handled correctly and often leads to worse application behavior than simply ignoring the state or aborting. He advocates for changing the language defaults to non-poisoning locks, noting that real-world evidence of successful recovery from lock poisoning is virtually non-existent.",
+      "summary_zh": "作者批評 Rust 的「互斥鎖中毒」(mutex poisoning) 機制，認為該功能在實務上鮮少被正確處理，反而導致程式表現更不穩定。文中主張應將預設行為改為非中毒鎖，並指出目前幾乎沒有證據顯示開發者能成功從鎖中毒狀態中恢復。",
+      "keywords": [
+        "Rust",
+        "mutex",
+        "concurrency",
+        "programming",
+        "error handling"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual critique of a language feature, explaining its history, theoretical flaws, and the rationale for proposed changes.",
+      "pacer_reason_zh": "本文對程式語言的特定機制進行概念性評論，解釋其背景、理論缺陷以及提倡變更的理由。"
+    },
+    {
+      "id": "366932795ae88109",
+      "title": "What happens to entries in the CoreApplication Properties when the source apartment shuts down?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-24T15:00:00.000Z",
+      "summary_en": "This post clarifies the behavior of CoreApplication Properties during an apartment shutdown. It explains that entries remain intact unless the apartment being closed is the final one.",
+      "summary_zh": "這篇文章解釋了當來源 Apartment 關閉時，CoreApplication 屬性中項目的處理方式。文中說明除非該 Apartment 是最後一個，否則這些項目將不會受到影響。",
+      "keywords": [
+        "CoreApplication",
+        "Apartment",
+        "Windows",
+        "Programming",
+        "Development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the conceptual behavior of a specific system component's properties.",
+      "pacer_reason_zh": "本文解釋了特定系統元件屬性的運作概念。"
+    },
+    {
+      "id": "cc8a7b0bf7d6c131",
+      "title": "Having two security products installed at the same time isn’t a great idea, but sometimes you have to do it",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261123-00/?p=112887/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-23T15:00:00.000Z",
+      "summary_en": "This post addresses the technical complications that arise when running multiple security products simultaneously on a single system. It acknowledges that while this configuration is generally discouraged, users may occasionally find themselves in situations where it becomes necessary.",
+      "summary_zh": "本文探討了在同一系統中同時運行多個安全產品所帶來的技術複雜性。文章指出，儘管通常不建議這樣做，但有時用戶可能仍會被迫在這種配置下運作。",
+      "keywords": [
+        "security software",
+        "system conflict",
+        "software compatibility",
+        "cybersecurity",
+        "The Old New Thing"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post discusses the conceptual implications and potential conflicts of running overlapping security software.",
+      "pacer_reason_zh": "本文探討了同時運行多種安全軟體所帶來的概念性影響與潛在衝突。"
+    },
+    {
+      "id": "2c8ca4b94aee133b",
+      "title": "Virgin Media Hub 5 API",
+      "url": "https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-24T12:34:52.000Z",
+      "summary_en": "This post provides a centralized collection of undocumented APIs for the Virgin Media Hub 5 router. It includes specific endpoints and technical instructions for interacting with the device while in modem mode.",
+      "summary_zh": "這篇文章整理了 Virgin Media Hub 5 路由器中未經官方記錄的 API 資訊。作者列出了多個實用的 API 端點，並提供了在數據機模式（modem mode）下與設備互動的技術細節。",
+      "keywords": [
+        "Virgin Media",
+        "Hub 5",
+        "API",
+        "router",
+        "Sagemcom"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article serves as a reference list of technical specifications and API endpoints for a specific hardware device.",
+      "pacer_reason_zh": "該文章作為特定硬體設備的技術規格與 API 端點參考列表。"
+    },
+    {
+      "id": "372c7292f604e4a3",
+      "title": "Pluralistic: Free lunches (24 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-24T12:15:29.000Z",
+      "summary_en": "This article critiques neoclassical economic theories regarding market efficiency, using the 'free lunch' anecdote to illustrate how rigid market models fail to account for real-world complexities. Cory Doctorow explores how these idealized views ignore structural distortions, suggesting that what economists dismiss as anomalies are often opportunities for others.",
+      "summary_zh": "本文批評了關於市場效率的新古典經濟學理論，並透過「免費午餐」的笑話來說明僵化的市場模型如何無法解釋現實世界的複雜性。科利·多克托羅（Cory Doctorow）探討了這些理想化的觀點如何忽視了結構性扭曲，指出經濟學家視為異常的現象往往是他人的機會。",
+      "keywords": [
+        "Economics",
+        "Neoclassical",
+        "Market Efficiency",
+        "Cory Doctorow",
+        "Arbitrage"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual explanation and critique of neoclassical economic theory and the concept of market efficiency.",
+      "pacer_reason_zh": "本文對新古典經濟學理論與市場效率概念提供了概念性的解釋與評論。"
+    },
+    {
+      "id": "0b260d07579db847",
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-24T23:02:07.000Z",
+      "summary_en": "Simon Willison analyzes three significant inflection points in LLM and coding agent capabilities over the past year. He highlights the impact of Claude Opus 4.5, which marked a transition toward reliable, autonomous code problem-solving.",
+      "summary_zh": "Simon Willison 分析了過去一年中大型語言模型（LLM）與編碼代理能力的關鍵轉折點。他特別強調了 Claude Opus 4.5 的重要性，標誌著編碼任務從輔助轉向了可靠的自動化解決方案。",
+      "keywords": [
+        "LLM",
+        "Coding Agents",
+        "Claude Opus 4.5",
+        "AI Engineering",
+        "Inflection Points"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article conceptually explores the evolution and historical milestones of LLM capabilities in coding.",
+      "pacer_reason_zh": "本文從概念層面探討了 LLM 在編碼能力方面的發展演變與歷史里程碑。"
+    },
+    {
+      "id": "2d9b2b8de4028adf",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-24T16:53:59.000Z",
+      "summary_en": "This article highlights a case study where GPT-6.2 Astra successfully identified the creator of a historical 1808 sketchbook by autonomously synthesizing primary and secondary sources. It discusses the potential impact of agentic AI on historical research and the evolving role of historians in the face of machine-assisted discovery.",
+      "summary_zh": "本文介紹了一個歷史學案例，GPT-6.2 Astra 通過自動整合原始資料與二手文獻，成功辨識出一本 1808 年匿名素描冊的作者。文章探討了人工智慧在歷史研究中的潛力，以及代理型 AI 對歷史學家角色帶來的影響與挑戰。",
+      "keywords": [
+        "GPT-6.2 Astra",
+        "歷史研究",
+        "人工智慧",
+        "歷史學",
+        "自動化研究"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article centers on a specific case study (evidence) demonstrating how AI performs historical research.",
+      "pacer_reason_zh": "文章以具體的個案研究（實證）為核心，展示 AI 在歷史研究中的實際應用效果。"
+    },
     {
       "id": "0e57102f42d40a7c",
       "title": "Two graphs",

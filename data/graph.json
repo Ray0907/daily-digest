@@ -1,6 +1,214 @@
 {
   "nodes": [
     {
+      "id": "d0bba22962f74113",
+      "title": "Abolish Lock Poisoning",
+      "source": "Armin Ronacher's Thoughts and Writings",
+      "source_url": "https://lucumr.pocoo.org/",
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "pacer": "C",
+      "keywords": [
+        "Rust",
+        "mutex",
+        "concurrency",
+        "programming",
+        "error handling"
+      ],
+      "published": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "id": "0b260d07579db847",
+      "title": "Three LLM inflection points in twelve months",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "pacer": "C",
+      "keywords": [
+        "LLM",
+        "Coding Agents",
+        "Claude Opus 4.5",
+        "AI Engineering",
+        "Inflection Points"
+      ],
+      "published": "2026-11-24T23:02:07.000Z"
+    },
+    {
+      "id": "ca7cbb4b4799603a",
+      "title": "Responding to objections to recursive self-improvement",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "pacer": "C",
+      "keywords": [
+        "AI",
+        "Superintelligence",
+        "Recursive Self-improvement",
+        "AGI",
+        "Skepticism"
+      ],
+      "published": "2026-11-24T21:45:30.000Z"
+    },
+    {
+      "id": "494708eeae7635e4",
+      "title": "Blogger broke the lightbox",
+      "source": "Old Vintage Computing Research",
+      "source_url": "https://oldvcr.blogspot.com/",
+      "url": "https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html",
+      "pacer": "P",
+      "keywords": [
+        "Blogger",
+        "lightbox",
+        "bug",
+        "technical issue",
+        "web development"
+      ],
+      "published": "2026-11-24T21:27:04.281Z"
+    },
+    {
+      "id": "4f8d3b005dc9248e",
+      "title": "Advent of Microarchitecture 2026",
+      "source": "Matt Godbolt’s blog",
+      "source_url": "http://xania.org/?utm_source=feed&utm_medium=rss",
+      "url": "http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss",
+      "pacer": "P",
+      "keywords": [
+        "Matt Godbolt",
+        "Microarchitecture",
+        "Content Creation",
+        "Video Series",
+        "Automation"
+      ],
+      "published": "2026-11-24T20:00:00.000Z"
+    },
+    {
+      "id": "d8d34ab6d9830a59",
+      "title": "Everything I know about writing",
+      "source": "Experimental History",
+      "source_url": "https://www.experimental-history.com/",
+      "url": "https://www.experimental-history.com/p/everything-i-know-about-writing",
+      "pacer": "C",
+      "keywords": [
+        "writing",
+        "thinking",
+        "communication",
+        "craft",
+        "intellectual rigor"
+      ],
+      "published": "2026-11-24T17:18:25.000Z"
+    },
+    {
+      "id": "2d9b2b8de4028adf",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "pacer": "E",
+      "keywords": [
+        "GPT-6.2 Astra",
+        "歷史研究",
+        "人工智慧",
+        "歷史學",
+        "自動化研究"
+      ],
+      "published": "2026-11-24T16:53:59.000Z"
+    },
+    {
+      "id": "74d0466fb8c4e591",
+      "title": "Taking a password joke seriously",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/24/password-joke/",
+      "pacer": "A",
+      "keywords": [
+        "password",
+        "security",
+        "humor",
+        "usability",
+        "authentication"
+      ],
+      "published": "2026-11-24T15:16:48.000Z"
+    },
+    {
+      "id": "366932795ae88109",
+      "title": "What happens to entries in the CoreApplication Properties when the source apartment shuts down?",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/",
+      "pacer": "C",
+      "keywords": [
+        "CoreApplication",
+        "Apartment",
+        "Windows",
+        "Programming",
+        "Development"
+      ],
+      "published": "2026-11-24T15:00:00.000Z"
+    },
+    {
+      "id": "c662aa1547f64bfc",
+      "title": "Memorable 12-digit primes",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/",
+      "pacer": "P",
+      "keywords": [
+        "prime numbers",
+        "mathematics",
+        "memory",
+        "python",
+        "number theory"
+      ],
+      "published": "2026-11-24T14:13:51.000Z"
+    },
+    {
+      "id": "2c8ca4b94aee133b",
+      "title": "Virgin Media Hub 5 API",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/",
+      "pacer": "R",
+      "keywords": [
+        "Virgin Media",
+        "Hub 5",
+        "API",
+        "router",
+        "Sagemcom"
+      ],
+      "published": "2026-11-24T12:34:52.000Z"
+    },
+    {
+      "id": "372c7292f604e4a3",
+      "title": "Pluralistic: Free lunches (24 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/",
+      "pacer": "C",
+      "keywords": [
+        "Economics",
+        "Neoclassical",
+        "Market Efficiency",
+        "Cory Doctorow",
+        "Arbitrage"
+      ],
+      "published": "2026-11-24T12:15:29.000Z"
+    },
+    {
+      "id": "38a9fe5fefe639cb",
+      "title": "Comments and emails",
+      "source": "Herman's blog",
+      "source_url": "https://herman.bearblog.dev/",
+      "url": "https://herman.bearblog.dev/comments-and-emails/",
+      "pacer": "C",
+      "keywords": [
+        "Bear",
+        "blogging",
+        "comments",
+        "email",
+        "spam"
+      ],
+      "published": "2026-11-24T07:16:00.000Z"
+    },
+    {
       "id": "bfe39e5b176c7b57",
       "title": "datasette-charts 0.2a0",
       "source": "Simon Willison's Weblog",
@@ -65,20 +273,20 @@
       "published": "2026-11-23T23:40:49.000Z"
     },
     {
-      "id": "e59fe8be067f4ab6",
-      "title": "Ladybird's first alpha release",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "id": "2c90749c7d86e256",
+      "title": "Do-it-yourself meta-analysis",
+      "source": "Entropic Thoughts",
+      "source_url": "https://entropicthoughts.com/",
+      "url": "https://entropicthoughts.com/diy-meta-analysis",
       "pacer": "E",
       "keywords": [
-        "Ladybird",
-        "browser",
-        "alpha",
-        "web development",
-        "SerenityOS"
+        "vitamin D",
+        "meta-analysis",
+        "statistical power",
+        "clinical trials",
+        "health research"
       ],
-      "published": "2026-11-23T21:46:35.000Z"
+      "published": "2026-11-23T23:00:00.000Z"
     },
     {
       "id": "1a965fa5cd865b8f",
@@ -111,6 +319,22 @@
         "abstract algebra"
       ],
       "published": "2026-11-23T17:28:34.000Z"
+    },
+    {
+      "id": "cc8a7b0bf7d6c131",
+      "title": "Having two security products installed at the same time isn’t a great idea, but sometimes you have to do it",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261123-00/?p=112887/",
+      "pacer": "C",
+      "keywords": [
+        "security software",
+        "system conflict",
+        "software compatibility",
+        "cybersecurity",
+        "The Old New Thing"
+      ],
+      "published": "2026-11-23T15:00:00.000Z"
     },
     {
       "id": "73db4390133548b2",
@@ -191,22 +415,6 @@
         "Business History"
       ],
       "published": "2026-11-23T02:25:14.000Z"
-    },
-    {
-      "id": "d26bd4b314a87a65",
-      "title": "datasette-charts 0.1a0",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-      "pacer": "P",
-      "keywords": [
-        "datasette",
-        "data visualization",
-        "plugin",
-        "open source",
-        "software release"
-      ],
-      "published": "2026-11-23T00:37:20.000Z"
     },
     {
       "id": "0e57102f42d40a7c",
@@ -399,22 +607,6 @@
         "RubyGems"
       ],
       "published": "2026-11-21T10:00:00.000Z"
-    },
-    {
-      "id": "705d07544fd3cc56",
-      "title": "What is the Generalized Riemann Hypothesis?",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/20/grh/",
-      "pacer": "C",
-      "keywords": [
-        "Riemann Hypothesis",
-        "GRH",
-        "Mathematics",
-        "Zeta function",
-        "Number theory"
-      ],
-      "published": "2026-11-21T03:35:05.000Z"
     },
     {
       "id": "5896797fd3159e6e",
@@ -673,22 +865,6 @@
       "published": "2026-11-19T14:10:14.000Z"
     },
     {
-      "id": "41ab334ec7bdb49e",
-      "title": "Theatre Review: FORT – a new opera ★★★☆☆",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/",
-      "pacer": "C",
-      "keywords": [
-        "Theatre Review",
-        "Opera",
-        "Performance Art",
-        "Music Critique",
-        "FORT"
-      ],
-      "published": "2026-11-19T12:34:32.000Z"
-    },
-    {
       "id": "fb65a2aebf9649db",
       "title": "SO Is Back! No, Not Stack Overflow, but Its Spirit ",
       "source": "Software and Tech stories from an Insider - iDiallo.com",
@@ -703,22 +879,6 @@
         "Gatekeeping"
       ],
       "published": "2026-11-19T07:27:09.000Z"
-    },
-    {
-      "id": "90a1d31587dabb01",
-      "title": "Supersequences and Superpermutations",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/18/supersequences/",
-      "pacer": "C",
-      "keywords": [
-        "supersequence",
-        "superpermutation",
-        "combinatorics",
-        "permutation",
-        "mathematics"
-      ],
-      "published": "2026-11-19T00:10:21.000Z"
     },
     {
       "id": "f3b6a5ce82542050",
@@ -881,22 +1041,6 @@
       "published": "2026-11-17T16:00:00.000Z"
     },
     {
-      "id": "446ee16a12eff787",
-      "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/",
-      "pacer": "C",
-      "keywords": [
-        "Microsoft",
-        "BASIC",
-        "software pricing",
-        "compiler",
-        "interpreter"
-      ],
-      "published": "2026-11-17T15:00:00.000Z"
-    },
-    {
       "id": "c818f11d70b8d7e3",
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
       "source": "Jeff Geerling",
@@ -913,22 +1057,6 @@
       "published": "2026-11-17T15:00:00.000Z"
     },
     {
-      "id": "c5e5692e95be6c35",
-      "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/",
-      "pacer": "R",
-      "keywords": [
-        "Scott Colom",
-        "Mississippi",
-        "Senate",
-        "Political Advertising",
-        "Cory Doctorow"
-      ],
-      "published": "2026-11-17T13:01:56.000Z"
-    },
-    {
       "id": "c0b32b4b52db4221",
       "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
       "source": "IT Notes",
@@ -943,22 +1071,6 @@
         "free software"
       ],
       "published": "2026-11-17T08:30:00.000Z"
-    },
-    {
-      "id": "abf110bc13dc7834",
-      "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
-      "source": "The Old New Thing",
-      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
-      "pacer": "C",
-      "keywords": [
-        "Windows API",
-        "Window Management",
-        "Dialog Box",
-        "Programming",
-        "The Old New Thing"
-      ],
-      "published": "2026-11-17T05:54:01.000Z"
     },
     {
       "id": "a44fe5901f2a812e",
@@ -1969,22 +2081,6 @@
       "published": "2026-10-30T14:00:00.000Z"
     },
     {
-      "id": "ff21bdff1eb6b64f",
-      "title": "What I learned about power from LBJ and Robert Moses",
-      "source": "Dwarkesh Podcast",
-      "source_url": "https://www.dwarkesh.com/",
-      "url": "https://www.dwarkesh.com/p/lessons-in-power",
-      "pacer": "C",
-      "keywords": [
-        "Robert Caro",
-        "LBJ",
-        "Robert Moses",
-        "Power",
-        "Politics"
-      ],
-      "published": "2026-10-29T16:48:39.000Z"
-    },
-    {
       "id": "5e396018eb1a2135",
       "title": "Making agents fast - what I've learnt over the last 12 months",
       "source": "Martin Alderson",
@@ -2047,22 +2143,6 @@
         "satire"
       ],
       "published": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "7e137b0467999a02",
-      "title": "Extremely brief history of PDP computers",
-      "source": "Entropic Thoughts",
-      "source_url": "https://entropicthoughts.com/",
-      "url": "https://entropicthoughts.com/history-of-pdp-computers",
-      "pacer": "R",
-      "keywords": [
-        "DEC",
-        "PDP",
-        "computing history",
-        "mainframe",
-        "technology evolution"
-      ],
-      "published": "2026-10-28T23:00:00.000Z"
     },
     {
       "id": "013fd8eeebf968f5",
@@ -3233,38 +3313,6 @@
       "published": "2026-09-16T19:58:30.000Z"
     },
     {
-      "id": "8e70e1a03dfc5ccd",
-      "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-      "source": "Experimental History",
-      "source_url": "https://www.experimental-history.com/",
-      "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
-      "pacer": "A",
-      "keywords": [
-        "loneliness",
-        "scurvy",
-        "metaphor",
-        "sociology",
-        "public health"
-      ],
-      "published": "2026-09-15T12:54:38.000Z"
-    },
-    {
-      "id": "0f11475615834c8c",
-      "title": "Interpreting Pangram",
-      "source": "Armin Ronacher's Thoughts and Writings",
-      "source_url": "https://lucumr.pocoo.org/",
-      "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
-      "pacer": "E",
-      "keywords": [
-        "Pangram",
-        "AI detection",
-        "LLM",
-        "machine learning",
-        "text analysis"
-      ],
-      "published": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "fc8d550b9d81546d",
       "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
       "source": "Downtown Doug Brown",
@@ -3665,22 +3713,6 @@
       "published": "2026-08-11T00:00:00.000Z"
     },
     {
-      "id": "3112b1e05ce245f5",
-      "title": "UPS finally refunded the overcharged tariff",
-      "source": "Old Vintage Computing Research",
-      "source_url": "https://oldvcr.blogspot.com/",
-      "url": "https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html",
-      "pacer": "E",
-      "keywords": [
-        "UPS",
-        "refund",
-        "tariff",
-        "billing error",
-        "customer service"
-      ],
-      "published": "2026-08-10T03:36:22.854Z"
-    },
-    {
       "id": "1a3ff720ce576848",
       "title": "Tracking down a Zsh history data loss bug 🐞",
       "source": "Michael Stapelbergs Website",
@@ -3727,22 +3759,6 @@
         "Terraform"
       ],
       "published": "2026-08-05T15:19:00.000Z"
-    },
-    {
-      "id": "68027a5a413c7ff8",
-      "title": "Committing to creativity",
-      "source": "Herman's blog",
-      "source_url": "https://herman.bearblog.dev/",
-      "url": "https://herman.bearblog.dev/creativity/",
-      "pacer": "C",
-      "keywords": [
-        "creativity",
-        "commitment",
-        "discipline",
-        "motivation",
-        "habit"
-      ],
-      "published": "2026-08-05T12:04:00.000Z"
     },
     {
       "id": "bddd978c30eea8a7",
@@ -5097,16 +5113,6 @@
     }
   ],
   "links": [
-    {
-      "source": "bfe39e5b176c7b57",
-      "target": "d26bd4b314a87a65",
-      "shared_keywords": [
-        "datasette",
-        "data visualization",
-        "software release"
-      ],
-      "strength": 0.6
-    },
     {
       "source": "65aee7c4908b5c1c",
       "target": "9f3c74759ee33f7c",
