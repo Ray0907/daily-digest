@@ -1,6 +1,150 @@
 {
   "nodes": [
     {
+      "id": "2ada6bc927bcede3",
+      "title": "Quoting Scott Aaronson",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "pacer": "A",
+      "keywords": [
+        "mathematics",
+        "LLMs",
+        "AI",
+        "complexity-theory",
+        "Scott-Aaronson"
+      ],
+      "published": "2026-11-25T23:26:32.000Z"
+    },
+    {
+      "id": "b3241db3eaa61909",
+      "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+      "pacer": "E",
+      "keywords": [
+        "Ansible",
+        "Ubuntu 26",
+        "sudo",
+        "Rust",
+        "automation"
+      ],
+      "published": "2026-11-25T21:43:00.000Z"
+    },
+    {
+      "id": "717f0949bf8c7f99",
+      "title": "Have You Tried Using Your Agent?",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "url": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
+      "pacer": "C",
+      "keywords": [
+        "AX",
+        "AI agents",
+        "Human experience",
+        "Digital accessibility",
+        "Software design"
+      ],
+      "published": "2026-11-25T19:00:00.000Z"
+    },
+    {
+      "id": "25fbc00e3f00d219",
+      "title": "Covering a body with eight smaller copies of itself",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/",
+      "pacer": "C",
+      "keywords": [
+        "geometry",
+        "cube",
+        "sphere",
+        "covering problem",
+        "mathematics"
+      ],
+      "published": "2026-11-25T14:51:58.000Z"
+    },
+    {
+      "id": "2915d9e630aecb4f",
+      "title": "Polynomials and Planets",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "url": "https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/",
+      "pacer": "C",
+      "keywords": [
+        "gravity",
+        "oblateness",
+        "planetary science",
+        "satellite orbits",
+        "astrophysics"
+      ],
+      "published": "2026-11-25T13:44:21.000Z"
+    },
+    {
+      "id": "b7d16a3771b21fb5",
+      "title": "Pluralistic: New York vs auto-enshittification (25 Nov 2026)",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "url": "https://pluralistic.net/2026/11/25/empire-state-strikes-back/",
+      "pacer": "C",
+      "keywords": [
+        "DMCA",
+        "automotive",
+        "subscription",
+        "legislation",
+        "enshittification"
+      ],
+      "published": "2026-11-25T13:42:12.000Z"
+    },
+    {
+      "id": "4372b64b7f7ec03a",
+      "title": "Book Review: Slow Gods by Claire North ★★★★⯪",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/",
+      "pacer": "C",
+      "keywords": [
+        "Book Review",
+        "Slow Gods",
+        "Claire North",
+        "Science Fiction",
+        "Space Opera"
+      ],
+      "published": "2026-11-25T12:34:34.000Z"
+    },
+    {
+      "id": "22fb251bcf5a2d12",
+      "title": "This Week in Source Control: 25 November 2026",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "url": "https://nesbitt.io/2026/11/25/this-week-in-source-control.html",
+      "pacer": "R",
+      "keywords": [
+        "Git",
+        "Enroute",
+        "ABFS",
+        "Version Control",
+        "Scaling"
+      ],
+      "published": "2026-11-25T10:00:00.000Z"
+    },
+    {
+      "id": "56f933b14d39472a",
+      "title": "Has Jevons paradox broken down?",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "pacer": "E",
+      "keywords": [
+        "Jevons paradox",
+        "AI economics",
+        "token consumption",
+        "organizational efficiency",
+        "Ramp"
+      ],
+      "published": "2026-11-25T00:00:00.000Z"
+    },
+    {
       "id": "d0bba22962f74113",
       "title": "Abolish Lock Poisoning",
       "source": "Armin Ronacher's Thoughts and Writings",
@@ -257,22 +401,6 @@
       "published": "2026-11-23T23:49:05.000Z"
     },
     {
-      "id": "2f3ef0ead000ffc6",
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "source": "Simon Willison's Weblog",
-      "source_url": "http://simonwillison.net/",
-      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-      "pacer": "C",
-      "keywords": [
-        "GLM-5.4",
-        "Transformer",
-        "AI",
-        "Looped Transformer",
-        "API"
-      ],
-      "published": "2026-11-23T23:40:49.000Z"
-    },
-    {
       "id": "2c90749c7d86e256",
       "title": "Do-it-yourself meta-analysis",
       "source": "Entropic Thoughts",
@@ -303,22 +431,6 @@
         "UX Design"
       ],
       "published": "2026-11-23T19:00:00.000Z"
-    },
-    {
-      "id": "b5a6111909e0384a",
-      "title": "Two generators suffice",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/",
-      "pacer": "C",
-      "keywords": [
-        "finite simple groups",
-        "group theory",
-        "mathematics",
-        "CFSG",
-        "abstract algebra"
-      ],
-      "published": "2026-11-23T17:28:34.000Z"
     },
     {
       "id": "cc8a7b0bf7d6c131",
@@ -367,22 +479,6 @@
         "Smart Home"
       ],
       "published": "2026-11-23T12:34:29.000Z"
-    },
-    {
-      "id": "b96467cf0f7b4e6c",
-      "title": "Gravity on an oblate planet",
-      "source": "John D. Cook",
-      "source_url": "https://www.johndcook.com/blog",
-      "url": "https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/",
-      "pacer": "C",
-      "keywords": [
-        "gravity",
-        "oblate spheroid",
-        "physics",
-        "point-mass approximation",
-        "geodesy"
-      ],
-      "published": "2026-11-23T10:17:22.000Z"
     },
     {
       "id": "518c7440f89942de",
@@ -737,22 +833,6 @@
       "published": "2026-11-20T13:00:00.000Z"
     },
     {
-      "id": "6300ad7d7bdc91ad",
-      "title": "Connect a USB Zigbee Device to HAOS",
-      "source": "Terence Eden’s Blog",
-      "source_url": "https://shkspr.mobi/blog",
-      "url": "https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/",
-      "pacer": "P",
-      "keywords": [
-        "HomeAssistant",
-        "Zigbee",
-        "HAOS",
-        "USB",
-        "Tutorial"
-      ],
-      "published": "2026-11-20T12:34:19.000Z"
-    },
-    {
       "id": "3cf9352d464bd28d",
       "title": "Pluralistic: Lisa Hanawalt's \"I Can't Stop Thinking About Horses and Sex\" (20 Nov 2026)",
       "source": "Pluralistic: Daily links from Cory Doctorow",
@@ -959,22 +1039,6 @@
         "software releases"
       ],
       "published": "2026-11-18T10:00:00.000Z"
-    },
-    {
-      "id": "c34e5e97e9af2ea3",
-      "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
-      "source": "Pluralistic: Daily links from Cory Doctorow",
-      "source_url": "https://pluralistic.net/",
-      "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
-      "pacer": "C",
-      "keywords": [
-        "enshittification",
-        "scams",
-        "AI",
-        "fraud",
-        "Cory Doctorow"
-      ],
-      "published": "2026-11-18T08:28:46.000Z"
     },
     {
       "id": "e010dc913600f8d7",
@@ -1649,22 +1713,6 @@
       "published": "2026-11-09T23:00:00.000Z"
     },
     {
-      "id": "79a4ad13740d2f22",
-      "title": "Introducing Ninety",
-      "source": "Andrew Nesbitt",
-      "source_url": "https://nesbitt.io/",
-      "url": "https://nesbitt.io/2026/11/09/introducing-ninety.html",
-      "pacer": "C",
-      "keywords": [
-        "Ninety",
-        "prediction market",
-        "open source security",
-        "vulnerability",
-        "bug bounty"
-      ],
-      "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
       "id": "b0125a77b8572523",
       "title": "Yak-Shaving Overload",
       "source": "Tedium: The Dull Side of the Internet.",
@@ -1919,22 +1967,6 @@
         "Election Security"
       ],
       "published": "2026-11-05T04:36:17.000Z"
-    },
-    {
-      "id": "4cc0823ef045658b",
-      "title": "“It Gives Great Demo”",
-      "source": "Jim Nielsen’s Blog",
-      "source_url": "https://blog.jim-nielsen.com/",
-      "url": "https://blog.jim-nielsen.com/2026/it-gives-great-demo/",
-      "pacer": "C",
-      "keywords": [
-        "Steve Jobs",
-        "product design",
-        "user experience",
-        "demo",
-        "UX"
-      ],
-      "published": "2026-11-04T19:00:00.000Z"
     },
     {
       "id": "3608ed6c487b7a81",
@@ -2401,22 +2433,6 @@
       "published": "2026-10-23T16:19:26.000Z"
     },
     {
-      "id": "7e27bcf2845e741d",
-      "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
-      "source": "Jeff Geerling",
-      "source_url": "https://www.jeffgeerling.com/",
-      "url": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
-      "pacer": "E",
-      "keywords": [
-        "Ubiquiti",
-        "Air Quality",
-        "CO2 Monitoring",
-        "Vape Detector",
-        "Jeff Geerling"
-      ],
-      "published": "2026-10-23T13:00:00.000Z"
-    },
-    {
       "id": "3d70bddac7bb7e87",
       "title": "\"No way to prevent this\" say users of only language where this regularly happens",
       "source": "Xe Iaso's blog",
@@ -2607,22 +2623,6 @@
         "algebra"
       ],
       "published": "2026-10-18T01:18:00.000Z"
-    },
-    {
-      "id": "e725f16bc7c9a342",
-      "title": "How the AI boom might really end: 5 scenarios",
-      "source": "Martin Alderson",
-      "source_url": "https://martinalderson.com/",
-      "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
-      "pacer": "C",
-      "keywords": [
-        "AI boom",
-        "market analysis",
-        "investing",
-        "tech stocks",
-        "future scenarios"
-      ],
-      "published": "2026-10-18T00:00:00.000Z"
     },
     {
       "id": "6d04cacc087148c9",

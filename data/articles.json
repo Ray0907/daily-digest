@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-11-25T04:39:18.385Z",
+  "last_updated": "2026-11-26T03:49:18.414Z",
   "articles": [
+    {
+      "id": "56f933b14d39472a",
+      "title": "Has Jevons paradox broken down?",
+      "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-11-25T00:00:00.000Z",
+      "summary_en": "This article explores the plateau in token consumption despite falling prices, analyzing internal data from Ramp. It questions whether organizational changes and efficiency improvements are effectively offsetting the natural growth in AI usage.",
+      "summary_zh": "本文探討了儘管代幣價格下跌，代幣使用量卻停滯不前的現象，並引用 Ramp 的數據進行分析。作者探討了組織變革是否能跟上技術發展，以及為何個人與企業的代幣消耗量會趨於平緩。",
+      "keywords": [
+        "Jevons paradox",
+        "AI economics",
+        "token consumption",
+        "organizational efficiency",
+        "Ramp"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The analysis is grounded in specific empirical data regarding token spending trends to investigate an economic theory.",
+      "pacer_reason_zh": "本文基於代幣支出的實證數據進行分析，並以此探討相關的經濟理論。"
+    },
+    {
+      "id": "717f0949bf8c7f99",
+      "title": "Have You Tried Using Your Agent?",
+      "url": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
+      "source": "Jim Nielsen’s Blog",
+      "source_url": "https://blog.jim-nielsen.com/",
+      "published": "2026-11-25T19:00:00.000Z",
+      "summary_en": "The author expresses concern that the software industry is prioritizing 'Agent Experience' (AX) over human accessibility, leading to digital environments designed for machines rather than people. This shift risks alienating individuals who cannot or do not wish to use AI agents, potentially creating new forms of digital exclusion.",
+      "summary_zh": "作者擔憂軟體產業正將「代理體驗」（AX）置於人類可訪問性之上，導致數位環境設計更傾向於機器而非人類。這種趨勢可能使無法或不願使用 AI 代理的人被邊緣化，進而造成新的數位排斥。",
+      "keywords": [
+        "AX",
+        "AI agents",
+        "Human experience",
+        "Digital accessibility",
+        "Software design"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article presents a conceptual critique and reflection on the evolving philosophy of software design and its societal implications.",
+      "pacer_reason_zh": "本文針對軟體設計理念的演變及其社會影響，提出了概念性的反思與批判。"
+    },
+    {
+      "id": "22fb251bcf5a2d12",
+      "title": "This Week in Source Control: 25 November 2026",
+      "url": "https://nesbitt.io/2026/11/25/this-week-in-source-control.html",
+      "source": "Andrew Nesbitt",
+      "source_url": "https://nesbitt.io/",
+      "published": "2026-11-25T10:00:00.000Z",
+      "summary_en": "This digest covers recent developments in version control, highlighting architecture updates for Enroute's Git server and Google's open-sourcing of the ABFS filesystem for Android. These advancements focus on scaling infrastructure to handle hundreds of thousands of repositories and significantly accelerating build and checkout times.",
+      "summary_zh": "本篇週報整理了版本控制領域的最新動態，重點介紹了 Enroute Git 伺服器的架構更新，以及 Google 將用於 Android 開發的 ABFS 檔案系統開源。這些技術進展旨在解決大規模儲存庫的擴展問題，並大幅提升建置與同步的執行速度。",
+      "keywords": [
+        "Git",
+        "Enroute",
+        "ABFS",
+        "Version Control",
+        "Scaling"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a periodic industry news aggregation and reference list for software engineering updates.",
+      "pacer_reason_zh": "此內容為產業新聞的定期彙整與技術更新參考清單。"
+    },
+    {
+      "id": "25fbc00e3f00d219",
+      "title": "Covering a body with eight smaller copies of itself",
+      "url": "https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-25T14:51:58.000Z",
+      "summary_en": "This article explores the geometric possibility of covering a three-dimensional body, such as a cube or a ball, using a finite number of smaller copies of itself. It discusses the specific example of covering a cube with eight smaller cubes and touches upon the more complex challenge of covering spheres.",
+      "summary_zh": "本文探討了利用有限數量的較小副本來覆蓋立體幾何圖形（如立方體或球體）的數學可能性。文中以將一個立方體覆蓋在八個較小的立方體之上的例子，進一步探討了覆蓋球體時面臨的複雜挑戰。",
+      "keywords": [
+        "geometry",
+        "cube",
+        "sphere",
+        "covering problem",
+        "mathematics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining a mathematical concept and geometric theory rather than providing a tutorial or experimental data.",
+      "pacer_reason_zh": "文章主要在於解釋數學概念與幾何理論，而非提供教學指南或實驗數據。"
+    },
+    {
+      "id": "2915d9e630aecb4f",
+      "title": "Polynomials and Planets",
+      "url": "https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-25T13:44:21.000Z",
+      "summary_en": "This article explores the relationship between planetary oblateness, such as Earth's equatorial bulge, and its impact on satellite orbits. It references the fictional planet Mesklin from Hal Clement's science fiction literature to illustrate these gravitational concepts.",
+      "summary_zh": "本文探討了行星扁率（如地球的赤道隆起）及其對衛星軌道的影響。文章引用了哈爾·克萊門特科幻小說中的虛構行星梅斯克林，以說明這些重力相關的概念。",
+      "keywords": [
+        "gravity",
+        "oblateness",
+        "planetary science",
+        "satellite orbits",
+        "astrophysics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the theoretical gravitational effects of planetary shapes and discusses scientific concepts.",
+      "pacer_reason_zh": "本文解釋了行星形狀對重力影響的理論，屬於對科學概念的闡述。"
+    },
+    {
+      "id": "4372b64b7f7ec03a",
+      "title": "Book Review: Slow Gods by Claire North ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-25T12:34:34.000Z",
+      "summary_en": "This review explores Claire North's expansive space opera 'Slow Gods,' praising its ability to reinvent classic science fiction tropes. The author notes the book's complex narrative structure and its skillful integration of influences from the broader sci-fi genre.",
+      "summary_zh": "這篇書評介紹了 Claire North 的大型太空歌劇作品《Slow Gods》，稱讚其巧妙地重塑了經典科幻小說的元素。作者特別提到該書複雜的敘事結構，並指出其精湛地融合了多種科幻流派的風格影響。",
+      "keywords": [
+        "Book Review",
+        "Slow Gods",
+        "Claire North",
+        "Science Fiction",
+        "Space Opera"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content is an evaluative piece providing a conceptual overview and literary analysis of a specific book.",
+      "pacer_reason_zh": "本文屬於評論性文章，提供了特定書籍的概念概述與文學分析。"
+    },
+    {
+      "id": "b7d16a3771b21fb5",
+      "title": "Pluralistic: New York vs auto-enshittification (25 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/25/empire-state-strikes-back/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-25T13:42:12.000Z",
+      "summary_en": "New York is set to ban automotive companies from charging subscription fees for software features that utilize pre-installed hardware. Cory Doctorow argues that such legislation is a necessary response to the DMCA's anti-circumvention laws, which currently prevent third-party competition from bypassing these 'enshittified' subscription models.",
+      "summary_zh": "紐約州計劃立法禁止汽車製造商針對已安裝的硬體功能收取軟體訂閱費用。科里·多克托羅（Cory Doctorow）認為，此舉是應對數位千禧年著作權法（DMCA）限制競爭的必要手段，旨在打破汽車產業將軟體功能鎖定收費的「封閉化」趨勢。",
+      "keywords": [
+        "DMCA",
+        "automotive",
+        "subscription",
+        "legislation",
+        "enshittification"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides a conceptual analysis of how anti-circumvention laws enable corporate 'enshittification' and evaluates legislative attempts to address the problem.",
+      "pacer_reason_zh": "本文針對反規避法律如何助長企業「封閉化」（enshittification）提供了概念性分析，並評估了旨在解決此問題的立法嘗試。"
+    },
+    {
+      "id": "2ada6bc927bcede3",
+      "title": "Quoting Scott Aaronson",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-25T23:26:32.000Z",
+      "summary_en": "This post highlights Scott Aaronson's perspective on the transformative impact of LLMs on mathematics. He compares the advancement in our understanding of mathematical truth to the historical breakthroughs of the microscope and telescope.",
+      "summary_zh": "這篇文章引用了 Scott Aaronson 對大型語言模型（LLM）如何改變數學研究的見解。他將這些技術帶來的突破與顯微鏡和望遠鏡的歷史性發明相提並論，認為我們正進入一個數學真理探索的新紀元。",
+      "keywords": [
+        "mathematics",
+        "LLMs",
+        "AI",
+        "complexity-theory",
+        "Scott-Aaronson"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content uses the historical analogies of the microscope and telescope to explain the current impact of AI on mathematical research.",
+      "pacer_reason_zh": "文章運用顯微鏡與望遠鏡的歷史類比，來解釋 AI 對數學研究領域所帶來的深遠影響。"
+    },
+    {
+      "id": "b3241db3eaa61909",
+      "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+      "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-11-25T21:43:00.000Z",
+      "summary_en": "Jeff Geerling highlights a compatibility issue between Ansible and Ubuntu 26's new Rust-based sudo utility. The transition causes timeouts during privilege escalation when using password-protected sudo.",
+      "summary_zh": "Jeff Geerling 指出 Ansible 在 Ubuntu 26 上與採用 Rust 編寫的新版 sudo 工具存在相容性問題。此變更導致在使用密碼保護的 sudo 執行 Ansible 自動化任務時出現超時錯誤。",
+      "keywords": [
+        "Ansible",
+        "Ubuntu 26",
+        "sudo",
+        "Rust",
+        "automation"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The post provides a specific technical observation based on testing new OS updates, serving as evidence of a software incompatibility.",
+      "pacer_reason_zh": "本文基於測試新作業系統更新後的技術觀察，提供了軟體不相容性的實證紀錄。"
+    },
     {
       "id": "d8d34ab6d9830a59",
       "title": "Everything I know about writing",

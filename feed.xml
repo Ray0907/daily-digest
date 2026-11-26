@@ -4,8 +4,89 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Wed, 25 Nov 2026 04:39:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:49:18 GMT</lastBuildDate>
     
+    <item>
+      <title>Has Jevons paradox broken down?</title>
+      <link>https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article explores the plateau in token consumption despite falling prices, analyzing internal data from Ramp. It questions whether organizational changes and efficiency improvements are effectively offsetting the natural growth in AI usage.</description>
+    </item>
+
+    <item>
+      <title>Have You Tried Using Your Agent?</title>
+      <link>https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</link>
+      <guid>https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</guid>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.jim-nielsen.com/">Jim Nielsen’s Blog</source>
+      <description>The author expresses concern that the software industry is prioritizing 'Agent Experience' (AX) over human accessibility, leading to digital environments designed for machines rather than people. This shift risks alienating individuals who cannot or do not wish to use AI agents, potentially creating new forms of digital exclusion.</description>
+    </item>
+
+    <item>
+      <title>This Week in Source Control: 25 November 2026</title>
+      <link>https://nesbitt.io/2026/11/25/this-week-in-source-control.html</link>
+      <guid>https://nesbitt.io/2026/11/25/this-week-in-source-control.html</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
+      <description>This digest covers recent developments in version control, highlighting architecture updates for Enroute's Git server and Google's open-sourcing of the ABFS filesystem for Android. These advancements focus on scaling infrastructure to handle hundreds of thousands of repositories and significantly accelerating build and checkout times.</description>
+    </item>
+
+    <item>
+      <title>Covering a body with eight smaller copies of itself</title>
+      <link>https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:51:58 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the geometric possibility of covering a three-dimensional body, such as a cube or a ball, using a finite number of smaller copies of itself. It discusses the specific example of covering a cube with eight smaller cubes and touches upon the more complex challenge of covering spheres.</description>
+    </item>
+
+    <item>
+      <title>Polynomials and Planets</title>
+      <link>https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:44:21 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores the relationship between planetary oblateness, such as Earth's equatorial bulge, and its impact on satellite orbits. It references the fictional planet Mesklin from Hal Clement's science fiction literature to illustrate these gravitational concepts.</description>
+    </item>
+
+    <item>
+      <title>Book Review: Slow Gods by Claire North ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:34:34 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>This review explores Claire North's expansive space opera 'Slow Gods,' praising its ability to reinvent classic science fiction tropes. The author notes the book's complex narrative structure and its skillful integration of influences from the broader sci-fi genre.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: New York vs auto-enshittification (25 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/25/empire-state-strikes-back/</link>
+      <guid>https://pluralistic.net/2026/11/25/empire-state-strikes-back/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:42:12 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>New York is set to ban automotive companies from charging subscription fees for software features that utilize pre-installed hardware. Cory Doctorow argues that such legislation is a necessary response to the DMCA's anti-circumvention laws, which currently prevent third-party competition from bypassing these 'enshittified' subscription models.</description>
+    </item>
+
+    <item>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <guid>https://simonwillison.net/2026/Nov/25/scott-aaronson/</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights Scott Aaronson's perspective on the transformative impact of LLMs on mathematics. He compares the advancement in our understanding of mathematical truth to the historical breakthroughs of the microscope and telescope.</description>
+    </item>
+
+    <item>
+      <title>Ansible Fails waiting for privilege escalation on Ubuntu 26</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</guid>
+      <pubDate>Wed, 25 Nov 2026 21:43:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>Jeff Geerling highlights a compatibility issue between Ansible and Ubuntu 26's new Rust-based sudo utility. The transition causes timeouts during privilege escalation when using password-protected sudo.</description>
+    </item>
+
     <item>
       <title>Everything I know about writing</title>
       <link>https://www.experimental-history.com/p/everything-i-know-about-writing</link>
@@ -823,87 +904,6 @@
       <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
       <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
       <description>Simon Willison details the release of OpenAI's new GPT-6.2 Astra and GPT-6.2 Sol models, highlighting their API availability and pricing adjustments. The post provides benchmarks through 'pelican' image generation tests to compare the performance and improvements over previous model iterations.</description>
-    </item>
-
-    <item>
-      <title>Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
-      <link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
-      <guid>https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
-      <pubDate>Tue, 17 Nov 2026 16:48:33 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has updated Datasette Lite, a browser-based port of the Datasette application using Pyodide and service workers. This tool allows users to run complex SQLite data analysis and install plugins directly in the browser via custom URLs, eliminating the need for a dedicated server.</description>
-    </item>
-
-    <item>
-      <title>Quoting Go Proverbs</title>
-      <link>https://simonwillison.net/2026/Nov/17/go-proverbs/</link>
-      <guid>https://simonwillison.net/2026/Nov/17/go-proverbs/</guid>
-      <pubDate>Tue, 17 Nov 2026 06:16:26 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>This post highlights a key maxim from the Go Proverbs, emphasizing that minimal code duplication is often preferable to excessive software dependencies. It reflects on the importance of balancing code simplicity against modularity in programming.</description>
-    </item>
-
-    <item>
-      <title>Weekly Update 530: Email Dependencies &amp; Apps</title>
-      <link>https://www.troyhunt.com/weekly-update-530/</link>
-      <guid>https://www.troyhunt.com/weekly-update-530/</guid>
-      <pubDate>Mon, 16 Nov 2026 07:09:38 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>This update explores the critical reliance on email as a fundamental utility, similar to water or power. It highlights the potential risks and cascading failures that occur when email service providers face unexpected downtime.</description>
-    </item>
-
-    <item>
-      <title>My Empire of Dirt</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</guid>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author critiques the 'Singleton' ideology held by AI development leaders, arguing that their pursuit of autonomous, self-generating agent systems will lead to societal exclusion and geopolitical conflict. The post suggests that these developments will likely trigger a third world war rather than human extinction, with a pessimistic outlook on current strategic and resource-based outcomes.</description>
-    </item>
-
-    <item>
-      <title>Paul Christiano – We could be 12 months away from AIs that can overthrow the government</title>
-      <link>https://www.dwarkesh.com/p/paul-christiano-2</link>
-      <guid>https://www.dwarkesh.com/p/paul-christiano-2</guid>
-      <pubDate>Mon, 16 Nov 2026 17:46:28 GMT</pubDate>
-      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
-      <description>AI researcher Paul Christiano warns that humanity could be only 12 months away from developing AI systems capable of overthrowing governments. The discussion emphasizes the potential existential risks and the difficulty of recovery if such powerful systems are misaligned.</description>
-    </item>
-
-    <item>
-      <title>Here's how anyone can easily use private, open weight models</title>
-      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
-      <guid>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
-      <pubDate>Mon, 16 Nov 2026 16:35:27 GMT</pubDate>
-      <source url="https://micahflee.com/">Micah Lee</source>
-      <description>This article explores the utility of Large Language Models while addressing privacy concerns regarding centralized providers like OpenAI. It argues that users can leverage powerful AI tools independently by utilizing private, open-weight models.</description>
-    </item>
-
-    <item>
-      <title>Taxis and hash functions</title>
-      <link>https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:46:36 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article highlights a real-world security failure where NYC taxi data was anonymized using the insecure MD5 hash function. It explains why MD5 is vulnerable to brute-force attacks and illustrates the risks of relying on flawed cryptographic practices for privacy protection.</description>
-    </item>
-
-    <item>
-      <title>Orbital footnote</title>
-      <link>https://www.johndcook.com/blog/2026/11/15/orbital-footnote/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/15/orbital-footnote/</guid>
-      <pubDate>Mon, 16 Nov 2026 02:19:01 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This post discusses the orbital characteristics of the dwarf planet candidate ED138. The author demonstrates how Kepler's third law can be used to derive orbital information from basic astronomical data.</description>
-    </item>
-
-    <item>
-      <title>Gig Review: ABBA Voyage ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:34:40 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on a visit to the ABBA museum in Stockholm, highlighting the group's massive cultural influence despite his initial lack of fandom. The piece specifically touches on the exhibition detailing the innovative 'Voyage' concert experience in London.</description>
     </item>
   </channel>
 </rss>
