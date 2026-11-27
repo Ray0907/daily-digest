@@ -4,8 +4,116 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Thu, 26 Nov 2026 03:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:51:02 GMT</lastBuildDate>
     
+    <item>
+      <title>Las Vegas, Monte Carlo, and Integer Factorization</title>
+      <link>https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</guid>
+      <pubDate>Thu, 26 Nov 2026 13:14:07 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post explains the fundamental differences between Monte Carlo and Las Vegas algorithms, highlighting their distinct approaches to runtime and error rates. It also explores the historical origins of these naming conventions within the context of computational mathematics.</description>
+    </item>
+
+    <item>
+      <title>What happens when you put a non-agile object in the CoreApplication Properties?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post explains the behavior of Windows CoreApplication Properties when a non-agile object is stored within them. It clarifies that while the reference to the object eventually expires, the entry itself persists in the property set.</description>
+    </item>
+
+    <item>
+      <title>Why did it seem that the entries in the CoreApplication Properties expired when the source application shut down?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post clarifies that entries in CoreApplication Properties do not expire when an application shuts down. Instead, the behavior is caused by the lifetime management of the objects stored within those properties.</description>
+    </item>
+
+    <item>
+      <title>Underrated reasons to be thankful VI</title>
+      <link>https://dynomight.net/thanks-6/</link>
+      <guid>https://dynomight.net/thanks-6/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://dynomight.net/">DYNOMIGHT</source>
+      <description>This article presents a eclectic collection of underrated things to be thankful for, ranging from the reliability of physical safety and the surprisingly complex biological functions of our bodies, to the effectiveness of mundane best practices. It highlights diverse phenomena, from the chemical regulation of Earth's atmosphere to obscure medical hacks and the preservation benefits of basic laundry habits.</description>
+    </item>
+
+    <item>
+      <title>OGP Image Format Support on Major Sites and Apps</title>
+      <link>https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:34:04 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author developed a tool to investigate the inconsistent image format support across various platforms when using Open Graph Protocol link previews. This highlights the ongoing fragmentation and lack of standardized support for modern image formats among major social media sites.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Charles Koch is a cult leader (26 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/26/science-of-liberty/</link>
+      <guid>https://pluralistic.net/2026/11/26/science-of-liberty/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:31:19 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>This post critiques Charles Koch's business philosophy and political influence, drawing parallels between his 'science of liberty' and cult-like structures. It further contrasts Koch's long-term investment strategy with the short-term 'enshittification' prevalent in modern corporate management.</description>
+    </item>
+
+    <item>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <guid>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>This post highlights the growing concern over the de-individualization of content due to the pervasive use of generative AI tools like Claude. It critiques how AI-generated text is becoming ubiquitous in professional and creative communications, leading to a loss of unique human voice.</description>
+    </item>
+
+    <item>
+      <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
+      <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
+      <guid>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</guid>
+      <pubDate>Thu, 26 Nov 2026 06:08:25 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>sqlite3_rsync is a tool that allows for remote synchronization of SQLite databases over SSH without requiring a full local copy. It works by exchanging cryptographic hashes to transmit only the changed pages, saving significant disk space and bandwidth during backups.</description>
+    </item>
+
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <guid>https://simonwillison.net/2026/Nov/26/hn-50651685/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>The author shares a personal experience with a New York Times photographer to highlight the strict ethical standards of photojournalism. The piece underscores why professional news outlets avoid AI-driven editing tools to maintain the authenticity of their imagery.</description>
+    </item>
+
+    <item>
+      <title>datasette-charts 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/25/datasette-charts/</link>
+      <guid>https://simonwillison.net/2026/Nov/25/datasette-charts/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:16:50 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.3a0 of datasette-charts, introducing support for chart annotations. Users can now enhance their visualizations with custom lines, shaded areas, and text labels to highlight specific data points.</description>
+    </item>
+
+    <item>
+      <title>datasette-charts 0.2a1</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts-2/</link>
+      <guid>https://simonwillison.net/2026/Nov/24/datasette-charts-2/</guid>
+      <pubDate>Tue, 24 Nov 2026 06:07:19 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Simon Willison has released version 0.2a1 of datasette-charts, introducing several user interface enhancements. Key changes include improved chart display logic, updated layout positioning, and the addition of direct TSV and CSV copy buttons.</description>
+    </item>
+
+    <item>
+      <title>Who gets to decide if something is written by AI?</title>
+      <link>https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/</link>
+      <guid>https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://seangoedecke.com">seangoedecke.com RSS feed</source>
+      <description>This article explores the ethical and practical challenges of determining authorship in the age of generative AI. It examines who holds the authority to label content as AI-generated and the implications for human creativity and accountability.</description>
+    </item>
+
     <item>
       <title>Has Jevons paradox broken down?</title>
       <link>https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
@@ -796,114 +904,6 @@
       <pubDate>Wed, 18 Nov 2026 08:28:46 GMT</pubDate>
       <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
       <description>Cory Doctorow argues that the current 'enshittification' of corporate and digital services creates an environment where scams become indistinguishable from standard business practices. The integration of AI tools further empowers fraudsters to conduct large-scale, personalized attacks, eroding trust in public institutions and digital security.</description>
-    </item>
-
-    <item>
-      <title>Quoting Daniel Stenberg</title>
-      <link>https://simonwillison.net/2026/Nov/18/daniel-stenberg/</link>
-      <guid>https://simonwillison.net/2026/Nov/18/daniel-stenberg/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:58:27 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Daniel Stenberg challenges the effectiveness of automated AI code migration tools by comparing them to the active maintenance of the curl project. He argues that automated rewrites fail to keep pace with the continuous bug fixes and security improvements made by human maintainers.</description>
-    </item>
-
-    <item>
-      <title>The PSF end-of-year fundraiser</title>
-      <link>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</link>
-      <guid>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</guid>
-      <pubDate>Wed, 18 Nov 2026 14:44:48 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison highlights the Python Software Foundation's end-of-year fundraiser, which supports essential operations like PyPI, community events, and the Developers in Residence program. He encourages individuals and companies that benefit from Python to contribute to the non-profit's mission.</description>
-    </item>
-
-    <item>
-      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
-      <guid>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
-      <description>Jeff Geerling explains his recent contribution to the NTP Pool by setting up a public Stratum 2 time server. The server derives its time from his local Stratum 1 hardware, which utilizes a Raspberry Pi connected to a high-precision u-blox ZED-F9T GNSS module.</description>
-    </item>
-
-    <item>
-      <title>Beyond Linux: A Journey Through the Open Source Ecosystem</title>
-      <link>https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/</link>
-      <guid>https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/</guid>
-      <pubDate>Tue, 17 Nov 2026 08:30:00 GMT</pubDate>
-      <source url="https://it-notes.dragas.net/">IT Notes</source>
-      <description>This blog post explores the open source ecosystem beyond Linux, discussing alternative operating systems like BSD and illumos. The author shares his personal journey of discovering free software and reflects on the broader philosophy of knowledge sharing and technical freedom.</description>
-    </item>
-
-    <item>
-      <title>My Empire of Sunshine and Roses</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</link>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</guid>
-      <pubDate>Tue, 17 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://geohot.github.io//blog/">the singularity is nearer</source>
-      <description>The author explores the nature of historical impact through counterfactual thinking and the challenge of individual agency in a seemingly deterministic world. They examine the trajectory of AI development, questioning whether current industry models like centralized offices or expensive agent swarms are truly sustainable or effective.</description>
-    </item>
-
-    <item>
-      <title>Stacked diffs with Maiao</title>
-      <link>https://entropicthoughts.com/stacked-diffs-with-maiao</link>
-      <guid>https://entropicthoughts.com/stacked-diffs-with-maiao</guid>
-      <pubDate>Mon, 16 Nov 2026 23:00:00 GMT</pubDate>
-      <source url="https://entropicthoughts.com/">Entropic Thoughts</source>
-      <description>The article discusses the benefits of using Maiao, a tool designed to simplify the workflow for developers who prefer stacked diffs when working on traditional platforms like GitHub. It explains the concept of pull requests and branches, positioning Maiao as an effective solution for managing code reviews more efficiently.</description>
-    </item>
-
-    <item>
-      <title>How can I ask a second program to show a dialog box as if it were shown by my first program?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/</guid>
-      <pubDate>Tue, 17 Nov 2026 05:54:01 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>The article explains that there is no native system mechanism to force one program to display a dialog box as if it originated from another. To achieve this, developers must manually coordinate window management between the two applications.</description>
-    </item>
-
-    <item>
-      <title>HomeAssistant - shrink a HAOS qcow2 filesystem</title>
-      <link>https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/</guid>
-      <pubDate>Tue, 17 Nov 2026 12:34:37 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This guide details the process of shrinking a HomeAssistant OS (HAOS) qcow2 virtual disk to reclaim unused storage space. It provides technical steps to resolve the discrepancy between the actual filesystem usage and the virtual disk's allocated size.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</link>
-      <guid>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</guid>
-      <pubDate>Tue, 17 Nov 2026 13:01:56 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>This post highlights Scott Colom's historic and successful Mississippi senate campaign, specifically praising his highly effective political advertisement. It also serves as a daily link digest covering various topics including DRM, corporate practices, and current political discourse.</description>
-    </item>
-
-    <item>
-      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
-      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
-      <guid>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
-      <pubDate>Wed, 18 Nov 2026 02:52:04 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Attackers exploited a security vulnerability in the Optimizely platform to inject malware into at least 178 major websites, including high-profile destinations like the BBC and CNN. The incident highlights significant risks posed by third-party content providers and the lack of strict security enforcement for external scripts on popular web platforms.</description>
-    </item>
-
-    <item>
-      <title>External sandboxes for coding agents</title>
-      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
-      <guid>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
-      <pubDate>Tue, 17 Nov 2026 22:52:29 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison introduces the 'external sandbox' pattern for AI coding agents to execute code safely outside the host machine. The post provides three reference implementations using different technologies like WebAssembly, Apple Containers, and Quicksand to isolate agent-driven code execution.</description>
-    </item>
-
-    <item>
-      <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
-      <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
-      <guid>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
-      <pubDate>Tue, 17 Nov 2026 22:38:52 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison details the release of OpenAI's new GPT-6.2 Astra and GPT-6.2 Sol models, highlighting their API availability and pricing adjustments. The post provides benchmarks through 'pelican' image generation tests to compare the performance and improvements over previous model iterations.</description>
     </item>
   </channel>
 </rss>

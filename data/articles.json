@@ -1,6 +1,246 @@
 {
-  "last_updated": "2026-11-26T03:49:18.414Z",
+  "last_updated": "2026-11-27T03:51:02.074Z",
   "articles": [
+    {
+      "id": "a871db9fdc6d486a",
+      "title": "Las Vegas, Monte Carlo, and Integer Factorization",
+      "url": "https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-26T13:14:07.000Z",
+      "summary_en": "This post explains the fundamental differences between Monte Carlo and Las Vegas algorithms, highlighting their distinct approaches to runtime and error rates. It also explores the historical origins of these naming conventions within the context of computational mathematics.",
+      "summary_zh": "這篇文章解釋了蒙地卡羅演算法與拉斯維加斯演算法在執行時間與錯誤率上的基本差異。同時，文中也探討了這些演算法命名方式在計算數學領域的歷史由來。",
+      "keywords": [
+        "Monte Carlo",
+        "Las Vegas",
+        "algorithms",
+        "computational complexity",
+        "integer factorization"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article provides conceptual definitions and historical context for two major classes of randomized algorithms.",
+      "pacer_reason_zh": "本文提供了兩類隨機演算法的概念定義及其歷史背景。"
+    },
+    {
+      "id": "82957b23e46f1fc0",
+      "title": "What happens when you put a non-agile object in the CoreApplication Properties?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-26T15:00:00.000Z",
+      "summary_en": "This post explains the behavior of Windows CoreApplication Properties when a non-agile object is stored within them. It clarifies that while the reference to the object eventually expires, the entry itself persists in the property set.",
+      "summary_zh": "本文解釋了將非敏捷 (non-agile) 物件放入 CoreApplication Properties 時會發生的情況。說明了儘管物件的參照會過期，但該項目在屬性集合中仍然會保留。",
+      "keywords": [
+        "CoreApplication",
+        "Windows API",
+        "non-agile",
+        "programming",
+        "properties"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual explanation of how the Windows runtime handles specific object lifecycles within property sets.",
+      "pacer_reason_zh": "這篇文章提供了關於 Windows 執行階段如何處理屬性集合中特定物件生命週期的概念性解釋。"
+    },
+    {
+      "id": "ef1f231c5a7150c9",
+      "title": "Why did it seem that the entries in the CoreApplication Properties expired when the source application shut down?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-25T15:00:00.000Z",
+      "summary_en": "This post clarifies that entries in CoreApplication Properties do not expire when an application shuts down. Instead, the behavior is caused by the lifetime management of the objects stored within those properties.",
+      "summary_zh": "本文澄清 CoreApplication 屬性中的項目並不會在應用程式關閉時過期。實際上，這種現象是由於存放在屬性中的物件本身的生命週期管理所導致的。",
+      "keywords": [
+        "CoreApplication",
+        "Properties",
+        "Windows API",
+        "Programming",
+        "Lifetime"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post explains the underlying conceptual cause of a specific technical behavior regarding object persistence.",
+      "pacer_reason_zh": "本文解釋了關於物件持久性這一特定技術行為背後的概念性成因。"
+    },
+    {
+      "id": "97586f40cd93cb1e",
+      "title": "Underrated reasons to be thankful VI",
+      "url": "https://dynomight.net/thanks-6/",
+      "source": "DYNOMIGHT",
+      "source_url": "https://dynomight.net/",
+      "published": "2026-11-26T00:00:00.000Z",
+      "summary_en": "This article presents a eclectic collection of underrated things to be thankful for, ranging from the reliability of physical safety and the surprisingly complex biological functions of our bodies, to the effectiveness of mundane best practices. It highlights diverse phenomena, from the chemical regulation of Earth's atmosphere to obscure medical hacks and the preservation benefits of basic laundry habits.",
+      "summary_zh": "本文列舉了一系列被低估的感恩事物，範圍涵蓋物理安全、人體生理機制、以及遵循基本常規的重要性。內容橫跨地球大氣的化學平衡、冷門的醫療小技巧，乃至衣物保養的實用知識，展現了生活中隨處可見卻常被忽略的細節。",
+      "keywords": [
+        "gratitude",
+        "biology",
+        "best practices",
+        "observation",
+        "perspective"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The article functions as a curated list of interesting facts, observations, and life hacks, serving as a reference for diverse, thought-provoking topics.",
+      "pacer_reason_zh": "本文呈現了一系列有趣的冷知識、觀察與生活小撇步，適合作為多元觀點與啟發性的參考資料。"
+    },
+    {
+      "id": "5a58d6c89d87cba5",
+      "title": "OGP Image Format Support on Major Sites and Apps",
+      "url": "https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-26T12:34:04.000Z",
+      "summary_en": "The author developed a tool to investigate the inconsistent image format support across various platforms when using Open Graph Protocol link previews. This highlights the ongoing fragmentation and lack of standardized support for modern image formats among major social media sites.",
+      "summary_zh": "作者開發了一項工具，用以檢測各大平台在處理 Open Graph Protocol 連結預覽時，對於不同圖片格式的支援程度差異。這突顯了大型社群網站對於現代圖片格式缺乏統一標準，導致格式支援度嚴重碎片化的現況。",
+      "keywords": [
+        "Open Graph Protocol",
+        "Image Formats",
+        "Web Standards",
+        "Social Media",
+        "Link Previews"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article focuses on empirical observations and the results of a tool created to benchmark platform support for image formats.",
+      "pacer_reason_zh": "本文側重於實證觀察以及作者為測試各平台圖片格式支援度所建立的工具數據。"
+    },
+    {
+      "id": "a49a96de2e47c010",
+      "title": "Pluralistic: Charles Koch is a cult leader (26 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/26/science-of-liberty/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-26T12:31:19.000Z",
+      "summary_en": "This post critiques Charles Koch's business philosophy and political influence, drawing parallels between his 'science of liberty' and cult-like structures. It further contrasts Koch's long-term investment strategy with the short-term 'enshittification' prevalent in modern corporate management.",
+      "summary_zh": "本文批評了查爾斯·科赫（Charles Koch）的商業哲學與政治影響力，將其所謂的「自由科學」比作邪教組織。文章進一步對比了科赫的長期投資策略與當代企業管理中盛行的短期「封閉化」（enshittification）趨勢。",
+      "keywords": [
+        "Charles Koch",
+        "Corporate Strategy",
+        "Enshittification",
+        "Capitalism",
+        "Cory Doctorow"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The content draws analogies between ideological movements and corporate behaviors to critique modern business practices.",
+      "pacer_reason_zh": "內容透過將意識形態運動與企業行為進行類比，藉此批判現代商業運作模式。"
+    },
+    {
+      "id": "fcbb41954277a0a1",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-26T15:09:31.000Z",
+      "summary_en": "This post highlights the growing concern over the de-individualization of content due to the pervasive use of generative AI tools like Claude. It critiques how AI-generated text is becoming ubiquitous in professional and creative communications, leading to a loss of unique human voice.",
+      "summary_zh": "這篇文章強調了由於 Claude 等生成式 AI 工具的廣泛應用，內容出現了嚴重的「去個人化」現象。作者批評 AI 生成的文字充斥在專業與創作領域中，導致人類獨特的聲音與個體特質逐漸流失。",
+      "keywords": [
+        "AI-misuse",
+        "Claude",
+        "generative-AI",
+        "de-individualization",
+        "LLMs"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual critique regarding the societal and creative impact of LLMs on individual expression.",
+      "pacer_reason_zh": "這篇文章針對大型語言模型對個人表達與社會創造力的影響，提供了概念性的評論與批判。"
+    },
+    {
+      "id": "7de39f044da3622e",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-26T06:08:25.000Z",
+      "summary_en": "sqlite3_rsync is a tool that allows for remote synchronization of SQLite databases over SSH without requiring a full local copy. It works by exchanging cryptographic hashes to transmit only the changed pages, saving significant disk space and bandwidth during backups.",
+      "summary_zh": "sqlite3_rsync 是一個允許透過 SSH 遠端同步 SQLite 資料庫的工具，無需在本地建立完整備份副本。它透過交換加密雜湊值來傳輸變更的頁面，有效地節省了儲存空間與網路頻寬。",
+      "keywords": [
+        "sqlite3_rsync",
+        "SQLite",
+        "database",
+        "synchronization",
+        "backup"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explains the purpose and functionality of a specific software tool, focusing on the conceptual advantage of its remote synchronization method.",
+      "pacer_reason_zh": "本文解釋了特定軟體工具的功能與用途，重點在於說明其遠端同步方法背後的概念優勢。"
+    },
+    {
+      "id": "e7f1c23cf7eb3725",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-26T05:08:46.000Z",
+      "summary_en": "The author shares a personal experience with a New York Times photographer to highlight the strict ethical standards of photojournalism. The piece underscores why professional news outlets avoid AI-driven editing tools to maintain the authenticity of their imagery.",
+      "summary_zh": "作者分享了與《紐約時報》攝影師合作的親身經歷，強調新聞攝影嚴謹的職業道德。文章指出，為了維持影像的真實性，專業新聞媒體選擇避免使用 AI 編輯工具。",
+      "keywords": [
+        "photography",
+        "photojournalism",
+        "New York Times",
+        "AI",
+        "ethics"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses a specific personal anecdote and case study to provide evidence of professional journalistic standards.",
+      "pacer_reason_zh": "本文透過特定的個人軼事與案例研究，為專業新聞標準提供了實際佐證。"
+    },
+    {
+      "id": "e0577f40419a647d",
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-25T18:16:50.000Z",
+      "summary_en": "Simon Willison has released version 0.3a0 of datasette-charts, introducing support for chart annotations. Users can now enhance their visualizations with custom lines, shaded areas, and text labels to highlight specific data points.",
+      "summary_zh": "Simon Willison 發布了 datasette-charts 0.3a0 版本，新增了圖表註釋功能。使用者現在可以透過線條、陰影區域和文字標籤來強化視覺化效果，標註出特定的數據重點。",
+      "keywords": [
+        "datasette-charts",
+        "data visualization",
+        "annotations",
+        "open source",
+        "software release"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "This is a release announcement describing new features and how to utilize them in the tool.",
+      "pacer_reason_zh": "這是一篇發布公告，介紹了工具的新功能以及如何使用這些功能。"
+    },
+    {
+      "id": "4915fa3466d2d3bd",
+      "title": "datasette-charts 0.2a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-24T06:07:19.000Z",
+      "summary_en": "Simon Willison has released version 0.2a1 of datasette-charts, introducing several user interface enhancements. Key changes include improved chart display logic, updated layout positioning, and the addition of direct TSV and CSV copy buttons.",
+      "summary_zh": "Simon Willison 發布了 datasette-charts 0.2a1 版本，針對使用者介面進行了多項改進。更新重點包括優化圖表顯示邏輯、調整版面配置，並新增了直接複製 TSV 與 CSV 格式的按鈕。",
+      "keywords": [
+        "datasette",
+        "visualization",
+        "data-tools",
+        "software-release",
+        "ui-updates"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release note detailing specific changes, features, and interface updates for a technical tool.",
+      "pacer_reason_zh": "這是一份軟體發布說明，詳細列出了技術工具的具體變更、功能與介面更新。"
+    },
+    {
+      "id": "a8bf8f1f2654b6a1",
+      "title": "Who gets to decide if something is written by AI?",
+      "url": "https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
+      "source": "seangoedecke.com RSS feed",
+      "source_url": "https://seangoedecke.com",
+      "published": "2026-11-27T00:00:00.000Z",
+      "summary_en": "This article explores the ethical and practical challenges of determining authorship in the age of generative AI. It examines who holds the authority to label content as AI-generated and the implications for human creativity and accountability.",
+      "summary_zh": "本文探討了在生成式 AI 時代，界定內容作者身份所面臨的倫理與實務挑戰。文章分析了究竟由誰擁有權力將內容標記為 AI 生成，以及這對人類創造力與責任歸屬所帶來的影響。",
+      "keywords": [
+        "AI",
+        "authorship",
+        "ethics",
+        "generative AI",
+        "content creation"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on the conceptual discussion and philosophical examination of authorship in the context of emerging technology.",
+      "pacer_reason_zh": "本文著重於在新興科技背景下，針對作者身份進行概念性探討與哲學性分析。"
+    },
     {
       "id": "56f933b14d39472a",
       "title": "Has Jevons paradox broken down?",
