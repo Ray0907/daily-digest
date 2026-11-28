@@ -1,6 +1,306 @@
 {
-  "last_updated": "2026-11-27T03:51:02.074Z",
+  "last_updated": "2026-11-28T03:36:54.130Z",
   "articles": [
+    {
+      "id": "5d5499486e817e35",
+      "title": "Protect Your Web Forms Against Spam Bots",
+      "url": "https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots",
+      "source": "Miguel Grinberg's Blog",
+      "source_url": "https://blog.miguelgrinberg.com/feed",
+      "published": "2026-11-27T17:48:35.000Z",
+      "summary_en": "This article presents a proof-of-work solution to replace ineffective CAPTCHAs for protecting web forms from spam bots. By implementing a non-intrusive verification method in Python and Flask, the author successfully reduced daily spam comments significantly.",
+      "summary_zh": "本文介紹了一種基於工作量證明（proof-of-work）的解決方案，用以取代無效的驗證碼，防止網路表單遭受垃圾機器人攻擊。作者透過 Python 與 Flask 實作此非侵入式的驗證機制，成功將每日垃圾郵件數量大幅降低。",
+      "keywords": [
+        "spam prevention",
+        "web security",
+        "proof of work",
+        "Flask",
+        "Python"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article provides a practical, step-by-step implementation of a technical solution to solve a specific problem.",
+      "pacer_reason_zh": "本文提供了一個技術解決方案的實際操作說明，旨在解決特定的垃圾郵件問題。"
+    },
+    {
+      "id": "03926926333f8ebf",
+      "title": "UI style guides",
+      "url": "https://aresluna.org/ui-style-guides",
+      "source": "Aresluna",
+      "source_url": "https://www.aresluna.org/",
+      "published": "2026-11-27T22:07:21.000Z",
+      "summary_en": "This resource provides a comprehensive repository of various UI style guides and official design guideline documents. It serves as a centralized reference point for designers looking to study established design systems.",
+      "summary_zh": "本資源匯集了各類 UI 風格指南與設計規範文件的完整庫。對於希望研究現有設計系統的設計師而言，這是一個極佳的參考資料來源。",
+      "keywords": [
+        "UI",
+        "style guides",
+        "design systems",
+        "reference",
+        "design resources"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "The content acts as a curated list or library of reference documents for designers.",
+      "pacer_reason_zh": "此內容作為設計師的參考文件清單或資料庫。"
+    },
+    {
+      "id": "2601716bbfd9fad3",
+      "title": "The agent tax has arrived: Google Workspace's MCP pricing",
+      "url": "https://martinalderson.com/posts/the-agent-tax-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+      "source": "Martin Alderson",
+      "source_url": "https://martinalderson.com/",
+      "published": "2026-11-27T00:00:00.000Z",
+      "summary_en": "This article analyzes Google Workspace's new per-request pricing for AI agents accessing user data. It explores the strategic motivations behind this 'agent tax,' speculates on industry-wide adoption, and argues why such a restrictive model might ultimately harm Google's ecosystem.",
+      "summary_zh": "本文分析了 Google Workspace 針對 AI 代理讀取資料所採取的「按請求付費」定價模式。作者探討了這項收費政策背後的策略動機、潛在的產業跟風效應，並分析為何這種限制性模式可能會對 Google 的生態系統造成反效果。",
+      "keywords": [
+        "Google Workspace",
+        "AI Agents",
+        "API Pricing",
+        "Agent Tax",
+        "Tech Strategy"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article focuses on explaining the implications and theoretical impact of a new pricing strategy rather than providing a guide, data study, or reference list.",
+      "pacer_reason_zh": "本文主要在探討與分析一項定價策略背後的意涵與影響，屬於觀念性與分析性的內容，而非教學、數據研究或參考清單。"
+    },
+    {
+      "id": "5852ef19247f3fa2",
+      "title": "Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week",
+      "url": "https://berthub.eu/articles/posts/fieldlab-is-van-de-it/",
+      "source": "Bert Hubert's writings",
+      "source_url": "https://berthub.eu/articles/",
+      "published": "2026-11-27T11:35:00.000Z",
+      "summary_en": "The author discusses the Dutch government's struggles with IT infrastructure and their excessive reliance on American cloud services. He emphasizes the urgent need for digital autonomy and questions whether the government truly maintains control over its own computer systems.",
+      "summary_zh": "作者探討了荷蘭政府在IT基礎設施上的困境，以及對美國雲端服務的高度依賴。文章強調實現數位自主的急迫性，並質疑政府是否真正掌握其電腦系統的控制權。",
+      "keywords": [
+        "Digitale autonomie",
+        "Overheid",
+        "IT-infrastructuur",
+        "Cloud",
+        "Nederland"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The article explores the concept of digital sovereignty and critiques current government IT policies.",
+      "pacer_reason_zh": "本文探討數位主權的概念，並對當前政府的資訊科技政策進行批判。"
+    },
+    {
+      "id": "1e29ee1d737635c0",
+      "title": "Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized",
+      "url": "https://minimaxir.com/2026/11/opus-fable/",
+      "source": "Max Woolf's Blog",
+      "source_url": "https://minimaxir.com/",
+      "published": "2026-11-27T20:10:00.000Z",
+      "summary_en": "The author explores using LLMs like Opus 5.5 and Fable 5.2 to push the limits of Rust performance optimization. The post highlights a focus on achieving microsecond-level efficiency in code benchmarks.",
+      "summary_zh": "作者探討利用 Opus 5.5 和 Fable 5.2 等大型語言模型，將 Rust 程式碼的效能優化推向極致。文章強調了追求微秒級效能基準測試的極致優化目標。",
+      "keywords": [
+        "Rust",
+        "LLM",
+        "Optimization",
+        "Benchmarks",
+        "Performance"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content focuses on the practical application of benchmarking and performance optimization using specific tools.",
+      "pacer_reason_zh": "內容聚焦於使用特定工具進行效能基準測試與優化的實際應用。"
+    },
+    {
+      "id": "795d73d38accc580",
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://www.dwarkesh.com/",
+      "published": "2026-11-27T18:01:14.000Z",
+      "summary_en": "This discussion between AI researchers Daniel Kokotajlo and Ege Erdil explores the current landscape of AI development and the ethical imperative to communicate risks. They debate the necessity of pausing progress versus the urgency of educating the public about the stakes involved in AI advancement.",
+      "summary_zh": "AI 研究員 Daniel Kokotajlo 與 Ege Erdil 共同探討了當前 AI 發展的現狀以及傳達潛在風險的重要性。他們辯論了暫停 AI 開發的必要性，以及如何讓公眾更深入理解這些技術變革背後的重大風險。",
+      "keywords": [
+        "AI safety",
+        "artificial intelligence",
+        "ethics",
+        "technology policy",
+        "AI development"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content focuses on conceptual debates regarding the philosophy and strategic direction of AI advancement.",
+      "pacer_reason_zh": "內容聚焦於有關 AI 發展哲學與策略方向的觀念性辯論。"
+    },
+    {
+      "id": "1ffe5fcb932c0477",
+      "title": "The Invention Algorithm",
+      "url": "https://www.construction-physics.com/p/the-invention-algorithm",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/",
+      "published": "2026-11-27T15:58:24.000Z",
+      "summary_en": "The article explores the invention process by framing it as a search problem. It suggests that innovation involves navigating a vast space of possibilities to identify effective combinations of components and phenomena.",
+      "summary_zh": "本文將發明過程視為一種搜尋問題，認為創新在於從海量的可能性中，篩選出能夠發揮特定功能的組件與現象組合。",
+      "keywords": [
+        "innovation",
+        "invention",
+        "search theory",
+        "technology",
+        "problem solving"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content defines and explains the conceptual framework of invention as a search process.",
+      "pacer_reason_zh": "內容旨在定義並解釋「發明是一種搜尋過程」的概念性框架。"
+    },
+    {
+      "id": "331d68a61e691fa8",
+      "title": "How many triangles can a graph with no pentagons have?",
+      "url": "https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-27T15:27:19.000Z",
+      "summary_en": "This article explores a problem in graph theory regarding the maximum number of triangles possible in a graph that contains no pentagons. It introduces a specific constraint on cycle lengths to analyze the structural properties of such graphs.",
+      "summary_zh": "本文探討了圖論中的一個問題，即在不包含五邊形（長度為 5 的循環）的圖中，最多可以包含多少個三角形（長度為 3 的循環）。文中針對此類圖的結構特性進行了分析與探討。",
+      "keywords": [
+        "graph theory",
+        "mathematics",
+        "triangle",
+        "pentagon",
+        "combinatorics"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The content explains a theoretical mathematical property and the conceptual constraints regarding cycle structures in graph theory.",
+      "pacer_reason_zh": "本文解釋了圖論中的理論數學性質，以及關於循環結構的概念性限制。"
+    },
+    {
+      "id": "d717936ea63b087e",
+      "title": "Counterexamples to proof by example",
+      "url": "https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/",
+      "source": "John D. Cook",
+      "source_url": "https://www.johndcook.com/blog",
+      "published": "2026-11-27T13:03:22.000Z",
+      "summary_en": "This post examines mathematical statements that hold true for many cases but eventually fail, demonstrating the dangers of relying on proof by example. The author highlights classic counterexamples, such as prime-generating polynomials and Borwein integrals, to illustrate why empirical evidence is insufficient for mathematical proof.",
+      "summary_zh": "本文探討了一些初看正確、但在大量範例後最終失效的數學命題，藉此說明僅靠範例證明數學結論的侷限性。作者透過質數生成多項式、波文積分等經典反例，強調經驗數據不足以作為嚴謹數學證明。",
+      "keywords": [
+        "mathematics",
+        "proof",
+        "counterexamples",
+        "logic",
+        "prime numbers"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The article uses specific mathematical counterexamples and cases to demonstrate the logical limitations of inductive reasoning.",
+      "pacer_reason_zh": "本文透過具體的數學反例與案例，論證了歸納推理在數學邏輯上的侷限性。"
+    },
+    {
+      "id": "a3dfe71a4bf7d0cb",
+      "title": "Could we use the CoreApplication Properties to manage the lifetime of an object that refuses to be marshaled?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261127-00/?p=112901/",
+      "source": "The Old New Thing",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/",
+      "published": "2026-11-27T15:00:00.000Z",
+      "summary_en": "This post addresses whether the CoreApplication Properties can be used to manage the lifetime of non-marshalable objects. The author concludes that this approach fails to resolve the underlying technical problem.",
+      "summary_zh": "本文探討了是否能使用 CoreApplication Properties 來管理無法封送 (marshal) 之物件的生命週期。作者最終指出此方法無法解決根本問題。",
+      "keywords": [
+        "CoreApplication",
+        "lifetime management",
+        "marshalling",
+        "Windows development",
+        "programming"
+      ],
+      "pacer": "C",
+      "pacer_reason_en": "The post provides a conceptual answer to a technical question regarding API usage and object management.",
+      "pacer_reason_zh": "本文針對 API 使用與物件管理等技術問題提供了概念性的解答。"
+    },
+    {
+      "id": "d188fb33e8a01314",
+      "title": "Gadget Review: WiFi Carbon Monoxide Alarm (JKD-625W) ★★★★⯪",
+      "url": "https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/",
+      "source": "Terence Eden’s Blog",
+      "source_url": "https://shkspr.mobi/blog",
+      "published": "2026-11-27T12:34:56.000Z",
+      "summary_en": "The author recounts their experience purchasing a budget-friendly WiFi Carbon Monoxide alarm after their previous unit failed. They highlight the convenience of finding a HomeAssistant-compatible device through a specialized UK retailer.",
+      "summary_zh": "作者分享了在舊的一氧化碳偵測器故障後，購買新款 WiFi 偵測器的經驗。他強調了透過專門零售商尋找與 HomeAssistant 相容的平價裝置之便利性。",
+      "keywords": [
+        "Carbon Monoxide",
+        "Smart Home",
+        "HomeAssistant",
+        "Gadget Review",
+        "Safety"
+      ],
+      "pacer": "E",
+      "pacer_reason_en": "The content acts as a personal experience-based review and case study of a specific hardware product.",
+      "pacer_reason_zh": "內容為基於個人體驗的產品評測，屬於特定硬體的實例分享。"
+    },
+    {
+      "id": "ee7572c941042870",
+      "title": "Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)",
+      "url": "https://pluralistic.net/2026/11/27/taylor-made/",
+      "source": "Pluralistic: Daily links from Cory Doctorow",
+      "source_url": "https://pluralistic.net/",
+      "published": "2026-11-27T13:38:29.000Z",
+      "summary_en": "The article draws a parallel between modern AI management tools and the historical 'Scientific Management' practices of Frederick Winslow Taylor. It argues that both are sold to employers as a means to exert greater control over workers by optimizing labor through top-down, non-collaborative surveillance.",
+      "summary_zh": "本文將現代人工智慧管理工具與歷史上的弗雷德里克·溫斯洛·泰勒（Frederick Winslow Taylor）的「科學管理」實踐進行了對比。作者認為，兩者皆透過由上而下、缺乏員工參與的優化監控，旨在為雇主提供更強大的員工管控手段。",
+      "keywords": [
+        "Taylorism",
+        "AI",
+        "Scientific Management",
+        "Labor Control",
+        "Workplace Surveillance"
+      ],
+      "pacer": "A",
+      "pacer_reason_en": "The article uses an historical analogy between Taylorism and AI to critique modern workplace management trends.",
+      "pacer_reason_zh": "文章透過泰勒主義與現代人工智慧的歷史類比，對當前的職場管理趨勢進行批判。"
+    },
+    {
+      "id": "bedee2e9acb0a56a",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-27T23:57:17.000Z",
+      "summary_en": "Datasette-charts 0.4a0 introduces an improved plugin hook architecture for building custom chart types. The release also includes a new website featuring a dedicated tutorial for plugin authors and a gallery of interactive demos.",
+      "summary_zh": "Datasette-charts 0.4a0 推出了改進後的插件掛鉤架構，方便開發者建立自定義圖表類型。此次發布同步上線了官方網站，並提供插件作者專用教學與展示互動式圖表的圖庫。",
+      "keywords": [
+        "datasette",
+        "data-visualization",
+        "plugins",
+        "software-release",
+        "web-development"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on a software release and provides resources like a tutorial for plugin authors to implement the new features.",
+      "pacer_reason_zh": "本文重點在於軟體發布，並提供了供插件作者參考的教學資源以實作新功能。"
+    },
+    {
+      "id": "cb9c58904170486c",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "source": "Simon Willison's Weblog",
+      "source_url": "http://simonwillison.net/",
+      "published": "2026-11-27T00:26:17.000Z",
+      "summary_en": "Datasette-mcp version 0.4 has been released, providing essential compatibility fixes for Datasette 1.0a44. This update ensures the Model Context Protocol integration continues to function correctly with the latest Datasette changes.",
+      "summary_zh": "Datasette-mcp 0.4 版本已發布，主要修復了與 Datasette 1.0a44 的相容性問題。此更新確保了 Model Context Protocol 整合功能在最新版本中能正常運作。",
+      "keywords": [
+        "datasette",
+        "mcp",
+        "model-context-protocol",
+        "software-release",
+        "compatibility"
+      ],
+      "pacer": "R",
+      "pacer_reason_en": "This is a software release announcement serving as a reference for version updates and compatibility logs.",
+      "pacer_reason_zh": "這是一則軟體發布公告，作為版本更新與相容性紀錄的參考資料。"
+    },
+    {
+      "id": "ae42956befaeec1a",
+      "title": "Remotely unplugging a USB device on my Mac, without touching it",
+      "url": "https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/",
+      "source": "Jeff Geerling",
+      "source_url": "https://www.jeffgeerling.com/",
+      "published": "2026-11-27T05:18:00.000Z",
+      "summary_en": "This post describes a method for remotely power-cycling a USB device connected to a Mac when physical access is unavailable. The author explains the challenge of resetting firmware-flashed devices and introduces a technical solution to toggle USB power through software.",
+      "summary_zh": "本文介紹了當無法進行物理接觸時，如何遠端重啟連接至 Mac 的 USB 裝置。作者解釋了韌體更新失敗後需要重置裝置的困境，並提供了解決此問題的技術方案。",
+      "keywords": [
+        "USB",
+        "Mac",
+        "remote debugging",
+        "firmware",
+        "automation"
+      ],
+      "pacer": "P",
+      "pacer_reason_en": "The article focuses on a specific technical procedure to solve a hardware reset problem remotely.",
+      "pacer_reason_zh": "本文聚焦於解決硬體遠端重置問題的特定技術操作步驟。"
+    },
     {
       "id": "a871db9fdc6d486a",
       "title": "Las Vegas, Monte Carlo, and Integer Factorization",

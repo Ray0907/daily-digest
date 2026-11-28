@@ -4,8 +4,143 @@
     <title>Daily Digest</title>
     <link>https://YOUR_USERNAME.github.io/daily-digest</link>
     <description>Curated tech blog summaries, inspired by Andrej Karpathy's reading list</description>
-    <lastBuildDate>Fri, 27 Nov 2026 03:51:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:36:54 GMT</lastBuildDate>
     
+    <item>
+      <title>Protect Your Web Forms Against Spam Bots</title>
+      <link>https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots</link>
+      <guid>https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots</guid>
+      <pubDate>Fri, 27 Nov 2026 17:48:35 GMT</pubDate>
+      <source url="https://blog.miguelgrinberg.com/feed">Miguel Grinberg's Blog</source>
+      <description>This article presents a proof-of-work solution to replace ineffective CAPTCHAs for protecting web forms from spam bots. By implementing a non-intrusive verification method in Python and Flask, the author successfully reduced daily spam comments significantly.</description>
+    </item>
+
+    <item>
+      <title>UI style guides</title>
+      <link>https://aresluna.org/ui-style-guides</link>
+      <guid>https://aresluna.org/ui-style-guides</guid>
+      <pubDate>Fri, 27 Nov 2026 22:07:21 GMT</pubDate>
+      <source url="https://www.aresluna.org/">Aresluna</source>
+      <description>This resource provides a comprehensive repository of various UI style guides and official design guideline documents. It serves as a centralized reference point for designers looking to study established design systems.</description>
+    </item>
+
+    <item>
+      <title>The agent tax has arrived: Google Workspace's MCP pricing</title>
+      <link>https://martinalderson.com/posts/the-agent-tax-has-arrived/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid>https://martinalderson.com/posts/the-agent-tax-has-arrived/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://martinalderson.com/">Martin Alderson</source>
+      <description>This article analyzes Google Workspace's new per-request pricing for AI agents accessing user data. It explores the strategic motivations behind this 'agent tax,' speculates on industry-wide adoption, and argues why such a restrictive model might ultimately harm Google's ecosystem.</description>
+    </item>
+
+    <item>
+      <title>Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week</title>
+      <link>https://berthub.eu/articles/posts/fieldlab-is-van-de-it/</link>
+      <guid>https://berthub.eu/articles/posts/fieldlab-is-van-de-it/</guid>
+      <pubDate>Fri, 27 Nov 2026 11:35:00 GMT</pubDate>
+      <source url="https://berthub.eu/articles/">Bert Hubert's writings</source>
+      <description>The author discusses the Dutch government's struggles with IT infrastructure and their excessive reliance on American cloud services. He emphasizes the urgent need for digital autonomy and questions whether the government truly maintains control over its own computer systems.</description>
+    </item>
+
+    <item>
+      <title>Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized</title>
+      <link>https://minimaxir.com/2026/11/opus-fable/</link>
+      <guid>https://minimaxir.com/2026/11/opus-fable/</guid>
+      <pubDate>Fri, 27 Nov 2026 20:10:00 GMT</pubDate>
+      <source url="https://minimaxir.com/">Max Woolf's Blog</source>
+      <description>The author explores using LLMs like Opus 5.5 and Fable 5.2 to push the limits of Rust performance optimization. The post highlights a focus on achieving microsecond-level efficiency in code benchmarks.</description>
+    </item>
+
+    <item>
+      <title>AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil</title>
+      <link>https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil</link>
+      <guid>https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil</guid>
+      <pubDate>Fri, 27 Nov 2026 18:01:14 GMT</pubDate>
+      <source url="https://www.dwarkesh.com/">Dwarkesh Podcast</source>
+      <description>This discussion between AI researchers Daniel Kokotajlo and Ege Erdil explores the current landscape of AI development and the ethical imperative to communicate risks. They debate the necessity of pausing progress versus the urgency of educating the public about the stakes involved in AI advancement.</description>
+    </item>
+
+    <item>
+      <title>The Invention Algorithm</title>
+      <link>https://www.construction-physics.com/p/the-invention-algorithm</link>
+      <guid>https://www.construction-physics.com/p/the-invention-algorithm</guid>
+      <pubDate>Fri, 27 Nov 2026 15:58:24 GMT</pubDate>
+      <source url="https://www.construction-physics.com/">Construction Physics</source>
+      <description>The article explores the invention process by framing it as a search problem. It suggests that innovation involves navigating a vast space of possibilities to identify effective combinations of components and phenomena.</description>
+    </item>
+
+    <item>
+      <title>How many triangles can a graph with no pentagons have?</title>
+      <link>https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:27:19 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This article explores a problem in graph theory regarding the maximum number of triangles possible in a graph that contains no pentagons. It introduces a specific constraint on cycle lengths to analyze the structural properties of such graphs.</description>
+    </item>
+
+    <item>
+      <title>Counterexamples to proof by example</title>
+      <link>https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/</link>
+      <guid>https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:03:22 GMT</pubDate>
+      <source url="https://www.johndcook.com/blog">John D. Cook</source>
+      <description>This post examines mathematical statements that hold true for many cases but eventually fail, demonstrating the dangers of relying on proof by example. The author highlights classic counterexamples, such as prime-generating polynomials and Borwein integrals, to illustrate why empirical evidence is insufficient for mathematical proof.</description>
+    </item>
+
+    <item>
+      <title>Could we use the CoreApplication Properties to manage the lifetime of an object that refuses to be marshaled?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261127-00/?p=112901/</link>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20261127-00/?p=112901/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
+      <description>This post addresses whether the CoreApplication Properties can be used to manage the lifetime of non-marshalable objects. The author concludes that this approach fails to resolve the underlying technical problem.</description>
+    </item>
+
+    <item>
+      <title>Gadget Review: WiFi Carbon Monoxide Alarm (JKD-625W) ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/</link>
+      <guid>https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/</guid>
+      <pubDate>Fri, 27 Nov 2026 12:34:56 GMT</pubDate>
+      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
+      <description>The author recounts their experience purchasing a budget-friendly WiFi Carbon Monoxide alarm after their previous unit failed. They highlight the convenience of finding a HomeAssistant-compatible device through a specialized UK retailer.</description>
+    </item>
+
+    <item>
+      <title>Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/27/taylor-made/</link>
+      <guid>https://pluralistic.net/2026/11/27/taylor-made/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:38:29 GMT</pubDate>
+      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
+      <description>The article draws a parallel between modern AI management tools and the historical 'Scientific Management' practices of Frederick Winslow Taylor. It argues that both are sold to employers as a means to exert greater control over workers by optimizing labor through top-down, non-collaborative surveillance.</description>
+    </item>
+
+    <item>
+      <title>datasette-charts 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
+      <guid>https://simonwillison.net/2026/Nov/27/datasette-charts/</guid>
+      <pubDate>Fri, 27 Nov 2026 23:57:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-charts 0.4a0 introduces an improved plugin hook architecture for building custom chart types. The release also includes a new website featuring a dedicated tutorial for plugin authors and a gallery of interactive demos.</description>
+    </item>
+
+    <item>
+      <title>datasette-mcp 0.4</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-mcp/</link>
+      <guid>https://simonwillison.net/2026/Nov/27/datasette-mcp/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:26:17 GMT</pubDate>
+      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
+      <description>Datasette-mcp version 0.4 has been released, providing essential compatibility fixes for Datasette 1.0a44. This update ensures the Model Context Protocol integration continues to function correctly with the latest Datasette changes.</description>
+    </item>
+
+    <item>
+      <title>Remotely unplugging a USB device on my Mac, without touching it</title>
+      <link>https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/</guid>
+      <pubDate>Fri, 27 Nov 2026 05:18:00 GMT</pubDate>
+      <source url="https://www.jeffgeerling.com/">Jeff Geerling</source>
+      <description>This post describes a method for remotely power-cycling a USB device connected to a Mac when physical access is unavailable. The author explains the challenge of resetting firmware-flashed devices and introduces a technical solution to toggle USB power through software.</description>
+    </item>
+
     <item>
       <title>Las Vegas, Monte Carlo, and Integer Factorization</title>
       <link>https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</link>
@@ -769,141 +904,6 @@
       <pubDate>Thu, 19 Nov 2026 18:38:35 GMT</pubDate>
       <source url="https://tedium.co/">Tedium: The Dull Side of the Internet.</source>
       <description>The article discusses the closure of Salon, highlighting the challenges independent media faces when relying on shifting technology ecosystems. The author argues that media outlets lost crucial momentum by outsourcing their community infrastructure and failing to maintain control over their own digital destinies.</description>
-    </item>
-
-    <item>
-      <title>If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>The article explains that the absence of a feature in Windows documentation does not necessarily mean the functionality is unsupported. Official documentation only covers known capabilities, while third-party integrations may operate outside of these specified parameters.</description>
-    </item>
-
-    <item>
-      <title>Theatre Review: FORT – a new opera ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:34:32 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>This review evaluates 'FORT,' a new close-quarters opera performance held in an intimate venue. While praising the exceptional vocal talent of Daniella Sicari and Lucy Gibbs, the author suggests that the musical score lacks the complexity required to fully showcase their abilities.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/19/loan-out-companies/</link>
-      <guid>https://pluralistic.net/2026/11/19/loan-out-companies/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:10:14 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow analyzes why expanded copyright protections have failed to benefit artists, arguing that market oligopolies force creators to forfeit their bargaining power. He explains that without addressing power imbalances, increasing legal protections simply provides more leverage for corporations to extract from vulnerable workers.</description>
-    </item>
-
-    <item>
-      <title>Another company I've never heard of lost my Data </title>
-      <link>https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring</link>
-      <guid>https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring</guid>
-      <pubDate>Thu, 19 Nov 2026 23:27:30 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>The author discusses the alarming frequency of data breaches involving companies they have no relationship with, highlighting the inadequacy of credit monitoring as a standard compensation. They argue that without severe penalties for data mismanagement, such security failures will continue to be a common, recurring problem.</description>
-    </item>
-
-    <item>
-      <title>SO Is Back! No, Not Stack Overflow, but Its Spirit </title>
-      <link>https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</link>
-      <guid>https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</guid>
-      <pubDate>Thu, 19 Nov 2026 07:27:09 GMT</pubDate>
-      <source url="https://idiallo.com/">Software and Tech stories from an Insider - iDiallo.com</source>
-      <description>This post discusses the shift in technical problem-solving from Stack Overflow's community-driven model to AI tools, highlighting the frustrations of restrictive LLM safety filters. It argues that modern AI limitations are creating new barriers, effectively echoing the gatekeeping issues once faced on Stack Overflow.</description>
-    </item>
-
-    <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
-      <guid>https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
-      <pubDate>Thu, 19 Nov 2026 20:43:57 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>PostgreSQL 19 has been released, featuring a significant new capability called 'WAIT FOR LSN' that enables read-your-writes consistency on standby servers. This feature allows applications to ensure replicas are caught up to a specific log sequence number before executing queries, resolving typical replication lag issues.</description>
-    </item>
-
-    <item>
-      <title>llm-gemini 0.38</title>
-      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
-      <guid>https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
-      <pubDate>Wed, 18 Nov 2026 23:59:20 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison updates his llm-gemini plugin following the release of Google's new Gemini 4 Neon model. The post highlights ongoing confusion regarding Google's complex pricing structure and shifting model lineup strategies.</description>
-    </item>
-
-    <item>
-      <title>datasette-arrows 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/18/datasette-arrows/</link>
-      <guid>https://simonwillison.net/2026/Nov/18/datasette-arrows/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:09:59 GMT</pubDate>
-      <source url="http://simonwillison.net/">Simon Willison's Weblog</source>
-      <description>Simon Willison has released datasette-arrows 0.1a0, a new plugin that enables streaming export of data from Datasette in the Apache Arrow IPC format. This release leverages new streaming export capabilities in Datasette 1.0a43 to allow for efficient data transfer to tools like pandas, Polars, and DuckDB.</description>
-    </item>
-
-    <item>
-      <title>This Week in Source Control: 18 November 2026</title>
-      <link>https://nesbitt.io/2026/11/18/this-week-in-source-control.html</link>
-      <guid>https://nesbitt.io/2026/11/18/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://nesbitt.io/">Andrew Nesbitt</source>
-      <description>This roundup covers the latest updates in version control software, including significant release notes for Gerrit 3.15.0 and GitButler 0.23.4. It also highlights security disclosures, specifically regarding multiple CVEs patched in Gitea 28.4.0.</description>
-    </item>
-
-    <item>
-      <title>Are vibe-coded games making me a substance dualist?</title>
-      <link>https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist</link>
-      <guid>https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://rakhim.exotext.com/">Rakhim's blog</source>
-      <description>The author explores the unsettling feeling of 'soullessness' in AI-generated, vibe-coded video games, contrasting technical explanations with an intuitive sense of human presence. While some issues can be attributed to design flaws, the author questions whether our perception of art involves an intangible quality that transcends rational analysis.</description>
-    </item>
-
-    <item>
-      <title>Supersequences and Superpermutations</title>
-      <link>https://www.johndcook.com/blog/2026/11/18/supersequences/</link>
-      <guid>https://www.johndcook.com/blog/2026/11/18/supersequences/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:10:21 GMT</pubDate>
-      <source url="https://www.johndcook.com/blog">John D. Cook</source>
-      <description>This article explores the mathematical concepts of supersequences and superpermutations, focusing on how universal words contain every permutation of an alphabet as a subsequence. It highlights the distinction between subsequence-based universal words and contiguous substring arrangements.</description>
-    </item>
-
-    <item>
-      <title>In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://devblogs.microsoft.com/oldnewthing/">The Old New Thing</source>
-      <description>This post explores the historical pricing strategy behind early Microsoft software products. It examines why the BASIC compiler was priced lower than the BASIC interpreter in internal employee price lists.</description>
-    </item>
-
-    <item>
-      <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</link>
-      <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://xeiaso.net/">Xe Iaso's blog</source>
-      <description>This article serves as a satirical commentary on software engineering pain points, specifically focusing on the common frustrations developers face when dealing with poorly designed programming languages. It highlights the irony of recurring technical issues that developers are forced to endure despite their predictable nature.</description>
-    </item>
-
-    <item>
-      <title>Once More Unto The Breach - Another Year In Review</title>
-      <link>https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</link>
-      <guid>https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</guid>
-      <pubDate>Wed, 18 Nov 2026 12:34:00 GMT</pubDate>
-      <source url="https://shkspr.mobi/blog">Terence Eden’s Blog</source>
-      <description>The author reflects on their second year of FIRE (Financial Independence, Retire Early) after leaving their job in 2010. They share personal experiences of a relaxed lifestyle, including travel, entertainment, and social engagements, while evaluating their post-retirement journey.</description>
-    </item>
-
-    <item>
-      <title>Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/18/malice-v-incompetence/</link>
-      <guid>https://pluralistic.net/2026/11/18/malice-v-incompetence/</guid>
-      <pubDate>Wed, 18 Nov 2026 08:28:46 GMT</pubDate>
-      <source url="https://pluralistic.net/">Pluralistic: Daily links from Cory Doctorow</source>
-      <description>Cory Doctorow argues that the current 'enshittification' of corporate and digital services creates an environment where scams become indistinguishable from standard business practices. The integration of AI tools further empowers fraudsters to conduct large-scale, personalized attacks, eroding trust in public institutions and digital security.</description>
     </item>
   </channel>
 </rss>
